@@ -1,2 +1,5 @@
-Hello hello
-Hello hi
+Commands please {command}
+
+MenuSelection {menu}
+
+MovieChoices {choice}

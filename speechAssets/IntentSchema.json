@@ -1,7 +1,25 @@
 {
   "intents": [
     {
-      "intent": "Hello"
+      "intent": "Commands",
+      "slot": [{
+        "name": "command",
+        "type": "USER_COMMAND"
+      }]
+    },
+    {
+      "intent": "MovieChoices",
+      "slot":[{
+        "name":"choice",
+        "type":"LETTER_CHOICE"
+      }]
+    },
+    {
+      "intent": "MenuSelection",
+      "slot":[{
+        "name": "menu",
+        "type": "MENU_OPTIONS"
+      }]
     },
     {
       "intent": "AMAZON.StopIntent"
