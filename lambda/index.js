@@ -71,19 +71,29 @@ var handlers = {
   'MovieChoices': function() {
   	var choice = this.event.request.intent.slots.choice.value;
     var review = "";
+    var element;
 
   	if(menu.toLowerCase() === 'in the theater'){
-  		review += getCardInfo(inTheTheater, choice);
+  		element = getCardInfo(inTheTheater, choice);
   	}else if(menu.toLowerCase() === 'made for tv'){
-  		review += getCardInfo(madeForTV, choice);
+  		//element = getCardInfo(madeForTV, choice);
   	}else if(menu.toLowerCase() === 'must buy'){
-  		review += getCardInfo(mustBuy, choice);
+  		element = getCardInfo(mustBuy, choice);
   	}else if(menu.toLowerCase() === 'video on demand'){
-  		review += getCardInfo(videoOnDemand, choice);
+  		element = getCardInfo(videoOnDemand, choice);
   	}else{
-  		review = "Sorry I don't understand.  Please say your response again";
+  		//review = "Sorry I don't understand.  Please say your response again";
  	  }  
-  	this.emit(':ask',`${review}`, '${repeatGoBack}');
+  	//this.emit(':ask',`${review}`, '${repeatGoBack}');
+    if(element){
+      var imageObj = {
+        smallImageUrl: `${element.image.smallImageUrl}`,
+        largeImageUrl: `${element.image.largeImageUrl}`
+      };
+      this.emit(':askWithCard', `${element.review}`,`${repeatGoBack}`,`${element.mtitle}`,`${element.review}`, imageObj);
+    }else{
+      this.emit(':tell',"error");
+    }
   },
 
   'AMAZON.HelpIntent': function() {

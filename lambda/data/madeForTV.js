@@ -2,17 +2,26 @@ var madeForTV = [
 {
 	"option":"a",
 	"mtitle":"Fahrenheit 451",
-	"review":"In this film adaptation, firemen in the future burn books because knowledge is dangerous.  A great start for the production company but the plotline has a slow burn. 3.5 out of 5 stars"
+	"review":"In this film adaptation, firemen in the future burn books because knowledge is dangerous.  A great start for the production company but the plotline has a slow burn. 3.5 out of 5 stars",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fahrenheit451.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fahrenheit451.jpg"
+	}
 },
 {
 	"option":"b",
 	"mtitle":"Psycho Ex-Girlfriend",
-	"review":"Newly engaged Kara and Tyler are loving life.  But when Kara discovers her new patient Isabelle is Tyler's crazy ex girlfriend no one will be safe.  It's a slow build but the last 10 minutes are exciting.  2 out of 5 stars"
+	"review":"Newly engaged Kara and Tyler are loving life.  But when Kara discovers her new patient Isabelle is Tyler's crazy ex girlfriend no one will be safe.  It's a slow build but the last 10 minutes are exciting.  2 out of 5 stars",
+
 },
 {
 	"option":"c",
 	"mtitle":"Harry and Meghan: A Royal Romance",
-	"review":"Actress and activist Meghan Markle goes on a blind date with His Royal Highness Prince Harry.  With societal pressure, tough backgrounds, and papparazzi, can the couple make it? You know how this one will end but its fun to watch. 4.5 out of 5 stars"
+	"review":"Actress and activist Meghan Markle goes on a blind date with His Royal Highness Prince Harry.  With societal pressure, tough backgrounds, and papparazzi, can the couple make it? You know how this one will end but its fun to watch. 4.5 out of 5 stars",
+		"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/harryandmeghanaroyalromance.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-imageharryandmeghanaroyalromance.jpeg"
+	}
 },
 {
 	"option":"d",
