@@ -2,6 +2,7 @@ var Alexa = require('alexa-sdk');
 
 var path = [];
 var welcome = "Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the Must Buy movie of the week, say Must Buy.  For Video on Demand reviews, say Video on Demand.";
+var repeatGoBack = 'To repeat the choices, say Please repeat. To go back, say Please go back';
 var menu;
 
 var inTheTheater = require('./data/inTheTheater');
@@ -10,6 +11,7 @@ var mustBuy = require('./data/mustBuy');
 var videoOnDemand = require('./data/videoOnDemand');
 
 var getOptions = require('./helpers/getOptions');
+var getCardInfo = require('./helpers/getCardInfo');
 
 exports.handler = function(event, context, callback){
   var alexa = Alexa.handler(event, context);
@@ -28,10 +30,10 @@ var handlers = {
   	var command = this.event.request.intent.slots.command.value;
 
   	if(command.toLowerCase() === 'repeat'){
-    	this.emit(':ask', path[path.length - 1], 'To repeat the choices, say repeat. To go back, say go back');
+    	this.emit(':ask', path[path.length - 1], '${repeatGoBack}');
  	}else if(command.toLowerCase() === 'go back'){
 	  	if(path.length != 0){
-  			this.emit(':ask', path[path.length - 1], 'To repeat the choices, say repeat. To go back, say go back');
+  			this.emit(':ask', path[path.length - 1], '${repeatGoBack}');
   			path.pop();
   		}else{
   			this.emit(':ask', `You are at the beginning. ${welcome}`, 'To repeat the choices, say repeat');
@@ -62,15 +64,47 @@ var handlers = {
   		requestString = "Sorry I don't understand.  Please say your response again";
  	}
 
-  	this.emit(':ask', `${requestString}`,'To repeat the choices, say Please repeat. To go back, say Please go back');
+  	this.emit(':ask', `${requestString}`,'${repeatGoBack}');
   
   },
 
   'MovieChoices': function() {
   	var choice = this.event.request.intent.slots.choice.value;
+    var review = "";
 
+  	if(menu.toLowerCase() === 'in the theater'){
+  		review += getCardInfo(inTheTheater, choice);
+  	}else if(menu.toLowerCase() === 'made for tv'){
+  		review += getCardInfo(madeForTV, choice);
+  	}else if(menu.toLowerCase() === 'must buy'){
+  		review += getCardInfo(mustBuy, choice);
+  	}else if(menu.toLowerCase() === 'video on demand'){
+  		review += getCardInfo(videoOnDemand, choice);
+  	}else{
+  		review = "Sorry I don't understand.  Please say your response again";
+ 	  }  
+  	this.emit(':ask',`${review}`, '${repeatGoBack}');
+  },
 
-  	this.emit(':ask',`You chose ${choice} for ${menu}`, 'To repeat the choices, say Please repeat. To go back, say Please go back');
+  'AMAZON.HelpIntent': function() {
+    this.emit(':ask', `This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the movie, a short critique and a rating.  For an indepth review, go to https://thatdarngirlmovie.reviews/. ${welcome}`,'${repeatGoBack}');
+  },
+
+  'AMAZON.StopIntent': function() {
+    this.emit(':tell', 'Good bye!');
+  },
+
+  'AMAZON.CancelIntent': function(){
+    this.emit(':tell', 'Good bye!');
+  },
+
+  'AMAZON.EndedRequest': function(){
+    this.emit(':tell', 'Please come back or visit The Best Darn Girls Movie Review website at https://thatdarngirlmovie.reviews/');
+  },
+
+  'Unhandled':function(){
+    this.emitWithState('AMAZON.HelpIntent');
   }
+
 
 };
