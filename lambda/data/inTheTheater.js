@@ -11,7 +11,7 @@ var inTheTheaters = [
 },
 {
 	"option":"c",
-	"mtitle":"Deadpool",
+	"mtitle":"Deadpool 2",
 	"review":"Deadpool must save Firefist from time traveling Cable.  While Deadpool describes this as a family movie, it is for adults.  However, it is better than its predecessor.  Stay past the first set of end credits but not all the way to the end.  4.5 out of 5 stars"
 },
 {
