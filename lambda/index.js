@@ -76,13 +76,13 @@ var handlers = {
   	if(menu.toLowerCase() === 'in the theater'){
   		element = getCardInfo(inTheTheater, choice);
   	}else if(menu.toLowerCase() === 'made for tv'){
-  		//element = getCardInfo(madeForTV, choice);
+  		element = getCardInfo(madeForTV, choice);
   	}else if(menu.toLowerCase() === 'must buy'){
   		element = getCardInfo(mustBuy, choice);
   	}else if(menu.toLowerCase() === 'video on demand'){
   		element = getCardInfo(videoOnDemand, choice);
   	}else{
-  		//review = "Sorry I don't understand.  Please say your response again";
+  		review = "Sorry I don't understand.  Please say your response again"+ path[path.length - 1];
  	  }  
   	//this.emit(':ask',`${review}`, '${repeatGoBack}');
     if(element){
@@ -92,12 +92,12 @@ var handlers = {
       };
       this.emit(':askWithCard', `${element.review}`,`${repeatGoBack}`,`${element.mtitle}`,`${element.review}`, imageObj);
     }else{
-      this.emit(':tell',"error");
+      this.emit(':ask',`${review}`, "Please try your selection again");
     }
   },
 
   'AMAZON.HelpIntent': function() {
-    this.emit(':ask', `This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the movie, a short critique and a rating.  For an indepth review, go to https://thatdarngirlmovie.reviews/. ${welcome}`,'${repeatGoBack}');
+    this.emit(':ask', `This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https://thatdarngirlmovie.reviews/. ${welcome}`,'${repeatGoBack}');
   },
 
   'AMAZON.StopIntent': function() {
