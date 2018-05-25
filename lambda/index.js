@@ -70,7 +70,7 @@ var handlers = {
 
   'MovieChoices': function() {
   	var choice = this.event.request.intent.slots.choice.value;
-    var review = "";
+    var review = "Sorry I don't understand.  Please say your response again.  "+ path[path.length - 1];
     var element;
 
   	if(menu.toLowerCase() === 'in the theater'){
@@ -82,7 +82,7 @@ var handlers = {
   	}else if(menu.toLowerCase() === 'video on demand'){
   		element = getCardInfo(videoOnDemand, choice);
   	}else{
-  		review = "Sorry I don't understand.  Please say your response again"+ path[path.length - 1];
+  		
  	  }  
   	//this.emit(':ask',`${review}`, '${repeatGoBack}');
     if(element){
@@ -101,15 +101,11 @@ var handlers = {
   },
 
   'AMAZON.StopIntent': function() {
-    this.emit(':tell', 'Good bye!');
+    this.emit(':tell', 'Please come back or visit The Best Darn Girls Movie Review website at https://thatdarngirlmovie.reviews/. Good bye!');
   },
 
   'AMAZON.CancelIntent': function(){
-    this.emit(':tell', 'Good bye!');
-  },
-
-  'AMAZON.EndedRequest': function(){
-    this.emit(':tell', 'Please come back or visit The Best Darn Girls Movie Review website at https://thatdarngirlmovie.reviews/');
+    this.emit(':tell', 'Please come back or visit The Best Darn Girls Movie Review website at https://thatdarngirlmovie.reviews/. Good bye!');
   },
 
   'Unhandled':function(){
