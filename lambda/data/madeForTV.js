@@ -1,47 +1,47 @@
 var madeForTV = [
 {
 	"option":"a",
-	"mtitle":"Stalked By My Doctor: Patient's Revenge",
-	"review":"After finding out Dr. Beck is teaching instead of going to jail, Sophie has one plan: To Destroy His Life.  A great installment for the Stalked by my Doctor Series.  Expect more to come.\n\n4 out of 5 stars.",
+	"mtitle":"My Husband's Double Life",
+	"review":"One strange charge will lead Mariah on a trip to Paris to find out Fletcher's dark secrets.  But who will be left dead when everything is uncovered.  This is the TV version of The Girl on the Train with less excitement.\n\n3.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/stalkedbymydoctorpatientsrevenge.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/stalkedbymydoctorpatientsrevenge.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/myhusbandsdoublelife.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/myhusbandsdoublelife.jpg"
 	}
 },
 {
 	"option":"b",
-	"mtitle":"Hailey Dean: A Marriage Made for Murder",
-	"review":"When a cremated gallery owner's ashes turn up with arsenic poisoning, Hailey has to choose between Right and the Law.  The 2nd part in a 3 part series, this sets up the ground work for who killed Hailey's fiance.\n\n4.5 out of 5 stars.",
+	"mtitle":"Killer Caregiver",
+	"review":"After her boss dies and she is injured, Mariah gets a caregiver, Tess.  But the only care Tess will provide is revenge.  This is a movie to record and watch if you need to kill 2 hours.  It breaks some Lifetime rules but not enough.\n\n3 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/haileydeanamarriagemadeformurder.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/haileydeanamarriagemadeformurder.jpeg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/killercaregiver.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/killercaregiver.jpeg"
 	}
 },
 {
 	"option":"c",
-	"mtitle":"The Perfect Bride: Wedding Bells",
-	"review":"Molly ex-fiance Stephen comes back to help her with her dream of owning a gym.  Will this destory her wedding day.  This focuses too much on the past while trying to build a future for the series.\n\n3 out of 5 stars.",
+	"mtitle":"Murdered at 17",
+	"review":"Brooke wakes up with a bloody knife in hand and her best friend's dead body next to her.  She has to choose: Tell the truth or marry her black-mailing ex.  This is a good movie to DVR and watch so you can fast forward when needed.\n\n3 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/theperfectbrideweddingbells.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/theperfectbrideweddingbells.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/murderedat17.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/murderedat17.jpeg"
 	}
 },
 {
 	"option":"d",
-	"mtitle":"Marrying Mr. Darcy",
-	"review":"Elizabeth loses control over her wedding after forgiving her future aunt in law Violet, but will she give up her marriage to keep her sanity.  Get ready to get mad and them feel peace with compromise.\n\n3 out of 5 stars.",
+	"mtitle":"Room For Murder",
+	"review":"Kristin believes her mother's renter is dangerous.  But she has no idea how dangerous Jake is or can be.  Moira's blindness to Jake will make you scream.  Even with every possible warning sign, she refuses to see the truth.\n\n2 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/marryingmrdarcy.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/marryingmrdarcy.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/roomformurder.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/roomformurder.jpg"
 	}
 },
 {
 	"option":"e",
-	"mtitle":"Hailey Dean Mysteries: 2 + 2 = Murder",
-	"review":"When a promising teacher goes missing, Hailey Dean is on the case to solve the disappearance before it becomes a murder.  This is a break from the norm with a likeable victim and no suspects.\n\n4 out of 5 stars.",
+	"mtitle":"Family Vanished",
+	"review":"Brian, Lisa, and April come home from vacation and walk into an ambush by 3 robbers.  To make matters worse, the robbers are a family.  With whiny robbers and stupid victims, this movie leaves very little for the viewer.\n\n1.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/haileydeanmysteries22murder.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/haileydeanmysteries22murder.jpeg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/familyvanished.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/familyvanished.jpg"
 	}
 }
 ];
