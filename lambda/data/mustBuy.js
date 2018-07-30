@@ -1,6 +1,15 @@
 var mustBuy = [
 {
 	"option":"a",
+	"mtitle":"Ready Player One",
+	"review":"In 2045, Wade Watts escapes his reality by going to the OASIS.  A virtual world where anything is possible.  But when his worlds collide, Wade could lose it all before he can get the ultimate reward.  This movie is the perfect mix of old school fun with new school technology.  Get it today.\n\n4 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/readyplayerone.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/readyplayerone.jpg"
+	}
+},
+{
+	"option":"b",
 	"mtitle":"Acrimony",
 	"review":"Melinda is given court mandated counseling after her divorce.  Now, she recounts her marriage, it's downfall, and her revenge.  This is a love, hate, and revenge story that will make you yell at the screen.\n\n4 out of 5 stars.",
 	"image":{
@@ -9,7 +18,7 @@ var mustBuy = [
 	}
 },
 {
-	"option":"b",
+	"option":"c",
 	"mtitle":"Love, Simon",
 	"review":"Simon is hiding his sexuality from everyone.  But when Simon's anonymous post is used as blackmail, he will con his friends to keep his secret.  This is a heartwarming love story that requires tissues.\n\n4 out of 5 stars.",
 	"image":{
@@ -18,7 +27,7 @@ var mustBuy = [
 	}
 },
 {
-	"option":"c",
+	"option":"d",
 	"mtitle":"Game Night",
 	"review":"Annie and Max are a competitive couple who loves game night.  But Game Night will get very real.  This is a funny, bloody movie.\n\n4 out of 5 stars.",
 	"image":{
@@ -27,21 +36,12 @@ var mustBuy = [
 	}
 },
 {
-	"option":"d",
+	"option":"e",
 	"mtitle":"Black Panther",
 	"review":"After being crowned King of Wakanda, T'Chaka goes on the hunt for Klaw.  But mistakes from his father's past will put the world in jeopardy.\n\n4.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/blackpanther.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/blackpanther.jpg"
-	}
-},
-{
-	"option":"e",
-	"mtitle":"12 Strong",
-	"review":"After September 11th, 12 men go to Afghanistan.  However the best way to get around is on horseback.  This is a well done movie about the truth of war.  Be warned, it does get graphic.\n\n4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/12strong.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/12strong.jpg"
 	}
 }
 ];
@@ -102,6 +102,26 @@ module.exports = mustBuy;
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/jurassicparkfallenkingdom.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/jurassicparkfallenkingdom.jpg"
+	}
+}
+
+{
+	"option":"d",
+	"mtitle":"Skyscraper",
+	"review":"Will must battle fire, terrorists, and the police to save his family from the tallest building in the world.  Don't miss one minute of this movie and see it now in Dolby or IMAX, unless you are afraid of heights or get motion sick.\n\n4.5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/skyscraper.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/skyscraper.jpeg"
+	}
+}
+
+{
+	"option":"e",
+	"mtitle":"Searching",
+	"review":"After seeing 3 missed calls, David can not find his daughter, Margot.  He will have to go through the dark corners of her laptop to find her: dead or alive.  This first person point-of-view thriller will have you on the edge of your seat the entire movie.\n\n4.5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/searching.png",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/searching.png"
 	}
 }
 */
