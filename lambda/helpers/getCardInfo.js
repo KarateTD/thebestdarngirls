@@ -1,14 +1,12 @@
 module.exports = function (menu, option) {
-	var retValue = '';
+	var retValue;
 
 	for(var x in menu){
 		if(option.toLowerCase() === menu[x].option){
-			retValue += menu[x].review;
+			retValue = menu[x];
 			break;
 		}
 	}
-	if(retValue === ''){
-		retValue = "Sorry I don't understand.  Please say your response again"
-	}
+	
 	return retValue;
 };

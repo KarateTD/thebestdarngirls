@@ -1,28 +1,48 @@
 var madeForTV = [
 {
 	"option":"a",
-	"mtitle":"Fahrenheit 451",
-	"review":"In this film adaptation, firemen in the future burn books because knowledge is dangerous.  A great start for the production company but the plotline has a slow burn. 3.5 out of 5 stars"
+	"mtitle":"We Belong Together",
+	"review":"Professor Thomas is getting his life on track.  However, when he helps Tracy, a student, his innocent favor will turn to passion that turns into crazy.  This thriller has murders, a kidnapping, and 1 crazy woman.  While the storyline is not new, stay til the end for the big reveal.\n3.5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/webelongtogether.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/webelongtogether.jpg"
+	}
 },
 {
 	"option":"b",
-	"mtitle":"Psycho Ex-Girlfriend",
-	"review":"Newly engaged Kara and Tyler are loving life.  But when Kara discovers her new patient Isabelle is Tyler's crazy ex girlfriend no one will be safe.  It's a slow build but the last 10 minutes are exciting.  2 out of 5 stars"
+	"mtitle":"The Wrong Cruise",
+	"review":"Claire and Skylar are on a much needed cruise to Mexico and both women meet 2 men, Dante and Rico.  They believe the meeting is a chance encounter but its a set up by Dante.  He wants all Claire's money or he will kill.  A decent addition to the list of \"Wrong\" movies but not enough stand out.  Watch when you can.\n3 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thewrongcruise.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thewrongcruise.jpg"
+	}
 },
 {
 	"option":"c",
-	"mtitle":"Harry and Meghan: A Royal Romance",
-	"review":"Actress and activist Meghan Markle goes on a blind date with His Royal Highness Prince Harry.  With societal pressure, tough backgrounds, and papparazzi, can the couple make it? You know how this one will end but its fun to watch. 4.5 out of 5 stars"
+	"mtitle":"A Father's Nightmare",
+	"review":"Vanessa plans on destorying Lisa's life until Lisa wants to commit suicide.  And Lisa's father is the only one who can help.  Get ready to root for a great bad guy.  But you will be underwhelmed for the reason behind Vanessa's sabatoge.\n\n3 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/afathersnightmare.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/afathersnightmare.jpg"
+	}
 },
 {
 	"option":"d",
-	"mtitle":"A Daughter's Revenge",
-	"review":"Elle blames her step father for her mother's suicide.  She wants revenge and will sacrafice her friend to have it.  This movie will keep you glued to the TV.  Set yor DVR and watch it twice.  4 out of 5 stars"
+	"mtitle":"Morning Show Mysteries: Murder On The Menu",
+	"review":"When a guest, Primo, has a dead body found in his trunk, Billie knows he can't be the suspect.  However, Primo's past haunts him and causes Billie to doubt him.  A great addition to the series but you must give it your full attention and stay to the last second.  Or you will miss everything.\n4.5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/murdershowmysteriesmurderonthemenu.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/murdershowmysteriesmurderonthemenu.jpeg"
+	}
 },
 {
 	"option":"e",
-	"mtitle":"Did I Kill My Mother",
-	"review":"After a hard night of partying, Natalie publicly argues with her mother and goes to sleep.  The next morning her mother is dead, and she is the prime suspect.  This is a good mystery.  4 out of 5 stars"
+	"mtitle":"Down For Whatever",
+	"review":"Adopted Doctor Tracy discovers her birth sisters, Sonya and Denise, murdered her husband's partner.  She has to decide which family to fight for.  This movie will spark every human emotion while keeping you on the edge of your seat.\n\n5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/downforwhatever.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/downforwhatever.jpg"
+	}
 }
 ];
 
@@ -30,4 +50,6 @@ module.exports = madeForTV;
 
 /* Rules
 *  do not user '&' use the word 'and'
+*  small image 720w x 480h (in pixels)
+*  large image 1200w x 800h (in pixels)
 */
