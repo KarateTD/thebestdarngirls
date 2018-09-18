@@ -1,6 +1,33 @@
 var mustBuy = [
 {
 	"option":"a",
+	"mtitle":"Deadpool 2",
+	"review":"Deadpool must save Firefist from time traveling Cable.  While Deadpool describes this as a family movie, it is definitely for adults.  And it is better than its predecessor.  Stay past the first set of end credits.  Best Buy, Walmart, and Target have exclusive sets.\n4.5 out of 5 stars.\n\n",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/deadpool2.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/deadpool2.jpg"
+	}
+},
+{
+	"option":"b",
+	"mtitle":"Marvel's Avengers:Infinity War",
+	"review":"Thanos is on a mission to save the universe, even if half of it has to die.  It's up to every Marvel superhero to stop him.  This is a comic book fans ultimate dream come true after a 10 year tease.  Be ready to laugh, scream, and cry.\n\n5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/marvelavengersinfinitywar.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/marvelavengersinfinitywar.jpg"
+	}
+},
+{
+	"option":"c",
+	"mtitle":"Breaking In",
+	"review":"After the death of her father, Shaun and her 2 kids travel to his vacation home to sell it.  But 3 men are casing the place for a treasure inside.  Be afraid of the momma lion.  This action packed movie will keep you guessing.\n\n4 out of 5 stars.\n\n",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/breakingin.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/breakingin.jpg"
+	}
+},
+{
+	"option":"d",
 	"mtitle":"Ready Player One",
 	"review":"In 2045, Wade Watts escapes his reality by going to the OASIS.  A virtual world where anything is possible.  But when his worlds collide, Wade could lose it all before he can get the ultimate reward.  This movie is the perfect mix of old school fun with new school technology.  Get it today.\n\n4 out of 5 stars.",
 	"image":{
@@ -9,39 +36,12 @@ var mustBuy = [
 	}
 },
 {
-	"option":"b",
+	"option":"e",
 	"mtitle":"Acrimony",
 	"review":"Melinda is given court mandated counseling after her divorce.  Now, she recounts her marriage, it's downfall, and her revenge.  This is a love, hate, and revenge story that will make you yell at the screen.\n\n4 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/acrimony.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/acrimony.jpg"
-	}
-},
-{
-	"option":"c",
-	"mtitle":"Love, Simon",
-	"review":"Simon is hiding his sexuality from everyone.  But when Simon's anonymous post is used as blackmail, he will con his friends to keep his secret.  This is a heartwarming love story that requires tissues.\n\n4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/lovesimon.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/lovesimon.jpeg"
-	}
-},
-{
-	"option":"d",
-	"mtitle":"Game Night",
-	"review":"Annie and Max are a competitive couple who loves game night.  But Game Night will get very real.  This is a funny, bloody movie.\n\n4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/gamenight.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/gamenight.jpg"
-	}
-},
-{
-	"option":"e",
-	"mtitle":"Black Panther",
-	"review":"After being crowned King of Wakanda, T'Chaka goes on the hunt for Klaw.  But mistakes from his father's past will put the world in jeopardy.\n\n4.5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/blackpanther.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/blackpanther.jpg"
 	}
 }
 ];
@@ -55,25 +55,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
-{
-	"option":"d",
-	"mtitle":"Deadpool 2",
-	"review":"Deadpool must save Firefist from time traveling Cable.  While Deadpool describes this as a family movie, it is for adults.  However, it is better than its predecessor.  Stay past the first set of end credits but not all the way to the end.\n\n4.5 out of 5 stars.\n\n",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/deadpool2.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/deadpool2.jpg"
-	}
-}
-
-{
-	"option":"e",
-	"mtitle":"Breaking In",
-	"review":"After the death of her father, Shaun and her 2 kids travel to his vacation home to sell it.  But 3 men are casing the place for a treasure inside.  Be afraid of the momma lion.  This action pact movie will keep you guessing.\n\n4 out of 5 stars.\n\n",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/breakingin.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/breakingin.jpg"
-	}
-}
 
 {
 	"option":"d",
@@ -124,4 +105,45 @@ module.exports = mustBuy;
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/searching.png"
 	}
 }
+
+{
+	"option":"e",
+	"mtitle":"Blindspotting",
+	"review":"With 3 days left on probation, Collin sees a cop shoot and kill a man.  Now he is examining is life, friendship, and love.  This movie honestly divulges that everyone has a blind spot to the pain and pressure of others.  See it now.\n\n4.5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/blindspotting.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/blindspotting.jpg"
+	}
+}
+
+{
+	"option":"e",
+	"mtitle":"Mission Impossible: Fallout",
+	"review":"Ethan has to fix is mistakes but with Erica's operative Walker watching his every move.  How will Ethan handle it when he is the one under suspicion.  This mission is impossible to miss and a 100% thrill ride.  See it on the big screen today.\n\n5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/missionimpossible6.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missionimpossible6.jpg"
+	}
+}
+
+{
+	"option":"e",
+	"mtitle":"BlacKkKlansman",
+	"review":"Ron Stallworth tries to make his mark by being the first rookie to go undercover.  He infiltrates the KKK through phone calls and having a Jewish officer meet them in person.  This powerful movie is perfect for the time and gives a great and loving tribute to Heather Heyer.\n4.5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/blackklansman.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/blackklansman.jpg"
+	}
+}
+
+{	
+	"option":"d",
+	"mtitle":"Mile 22",
+	"review":"James Silva and his Black Operative team have been given one mission.  Get Li to the air strip and on a plane.  In exchange, Li will give the team the code to stop the bomb his government planted.  It will take 22 miles to get there.  This intense action movie's fight techniques are given with the precision of a surgent.  It has a strong and intense storyling.  Cross your fingers for a part 2.\n\n4 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mile22.png",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mile22.png"
+	}
+}
+
 */
