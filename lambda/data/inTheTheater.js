@@ -1,47 +1,47 @@
 var inTheTheaters = [
 {
 	"option":"a",
-	"mtitle":"Mission Impossible: Fallout",
-	"review":"Ethan has to fix is mistakes but with Erica's operative Walker watching his every move.  How will Ethan handle it when he is the one under suspicion.  This mission is impossible to miss and a 100% thrill ride.  See it on the big screen today.\n\n5 out of 5 stars.",
+	"mtitle":"A Simple Favor",
+	"review":"Stephanie unexpectantly becomes friends with Emily.  But when Emily goes missing, Stephanie will learn how little she truely knew her.  This movie isn't just a roller coaster ride, it's the entire theme park.  It has love, sex, lies, and murder.  See it now.\n5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/missionimpossible6.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missionimpossible6.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/asimplefavor.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/asimplefavor.jpg"
 	}
 },
 {
 	"option":"b",
-	"mtitle":"Mamma Mia! Here We Go Again",
-	"review":"While Sophie puts her re-opening back together after a major storm, you will see how her strength parellel's her mother's when she met Sam, Harry, and Bill.  While Donna is living her moments, it just doesn't create any for the viewer.  Prequel fans, see it matinee.\n2.5 out of 5 stars.",
+	"mtitle":"White Boy Rick",
+	"review":"Rick was given a choice, help the FBI or your dad will go to jail for 10 years.  This decision will leave a sad mark in the record book.  When watching this movie, ask yourself who is to blame for Ricky's rise in the drug world.  Ricky, his dad, or the government.  This movie is a different kind of cautionary tale.\n4 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mammamia2.png",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mammamia2.png"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whiteboyrick.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whiteboyrick.jpg"
 	}
 },
 {
 	"option":"c",
-	"mtitle":"Blindspotting",
-	"review":"With 3 days left on probation, Collin sees a cop shoot and kill a man.  Now he is examining is life, friendship, and love.  This movie honestly divulges that everyone has a blind spot to the pain and pressure of others.  See it now.\n\n4.5 out of 5 stars.",
+	"mtitle":"A Boy. A Girl. A Dream",
+	"review":"On the night of the 2016 election, Frida and Cass will discuss their dreams after a chance encounter.  This one-take movie is impressive because it changes locations, changes scenes, and coordinates several actors.  While the filming is impressive, the dialogue is average and at times stale.\n3 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/blindspotting.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/blindspotting.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/aboyagirladream.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/aboyagirladream.jpg"
 	}
 },
 {
 	"option":"d",
-	"mtitle":"Eighth Grade",
-	"review":"Kayla has only 1 week left in the 8th grade.  After opening her time capsule from the 6th grade, she wants to put herself out there and make friends.  This movie is a real look at tweens today and how internet connection has ruined human connections.\n3 out of 5 stars.",
+	"mtitle":"Kin",
+	"review":"After finding a high tech weapon, Elijah unknowingly goes on the run with his brother Jimmy.  Both are keeping secrets that will effect their family but the weapon is the real key.  Produced by Michael B. Jordan, this movie is about the real meaning of family and manhood.  May not be suitable for kids under 13.\n4 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/eightgrade.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/eightgrade.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/kin.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/kin.jpg"
 	}
 },
 {
 	"option":"e",
-	"mtitle":"The Equalizer 2",
-	"review":"Robert McCall clashes with his past when his friend Susan is killed in Belgium while investigating a case.  He won't stop until he finds the men resposible. But who will it hurt? This is a great action pack addition to the franchise.\n\n3 out of 5 stars.",
+	"mtitle":"A-X-L",
+	"review":"Motocross racer Miles finds a combat ready robot K-9 after being abandoned by so-called friends.  He doesn't want to give it up but the owner is using him as the first human test subject for a dangerous experiment.  This movie is a cross between Transformers, Alpha, and Frankenstein.  See it matinee with the family or wait for Redbox.\n2.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/theequalizer2.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/theequalizer2.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/axl.JPG",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/axl.JPG"
 	}
 }
 ];
@@ -52,4 +52,34 @@ module.exports = inTheTheaters;
 *  do not user '&' use the word 'and'
 *  small image 720w x 480h (in pixels)
 *  large image 1200w x 800h (in pixels)
+*/
+
+/*
+{
+	"option":"a",
+	"mtitle":"A Simple Favor",
+	"review":"Stephanie unexpectantly becomes friends with Emily.  But when Emily goes missing, Stephanie will learn how little she truely knew her.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/asimplefavor.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/asimplefavor.jpg"
+	}
+},
+{
+	"option":"b",
+	"mtitle":"White Boy Rick",
+	"review":"Rick was given a choice, help the FBI or your dad will go to jail for 10 years.  This dicussion will leave in a sad record book.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whiteboyrick.jpg"
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whiteboyrick.jpg"
+	}
+},
+{
+	"option":"c",
+	"mtitle":"A Boy. A Girl. A Dream.",
+	"review":"On the night of the 2016 election, Frida adn Cass will discuss their dreams after a chance encounter.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/aboyagirladream.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/aboyagirladream.jpg"
+	}
+}
 */
