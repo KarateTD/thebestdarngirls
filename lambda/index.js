@@ -238,6 +238,7 @@ const HelpHandler = {
 
 		return handlerInput.responseBuilder
 	  	  .speak(helpMessage.concat(welcome))
+	  	  .reprompt(mainOptions)
 	  	  .withSimpleCard(skillName, mainOptions)
 	  	  .getResponse();
 	}
