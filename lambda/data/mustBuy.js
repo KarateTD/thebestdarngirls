@@ -1,44 +1,44 @@
 var mustBuy = [
 {
-	"option":"a",
+	"option":"1",
 	"mtitle":"Deadpool 2",
-	"review":"Deadpool must save Firefist from time traveling Cable.  While Deadpool describes this as a family movie, it is definitely for adults.  And it is better than its predecessor.  Stay past the first set of end credits.  Best Buy, Walmart, and Target have exclusive sets.\n4.5 out of 5 stars.\n\n",
+	"review":"Deadpool must save Firefist from time traveling Cable.  While Deadpool describes this as a family movie, it is definitely for adults.  And it is better than its predecessor.  Stay past the first set of end credits.  Best Buy, Walmart, and Target have exclusive sets.<br/>4.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/deadpool2.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/deadpool2.jpg"
 	}
 },
 {
-	"option":"b",
-	"mtitle":"Marvel's Avengers:Infinity War",
-	"review":"Thanos is on a mission to save the universe, even if half of it has to die.  It's up to every Marvel superhero to stop him.  This is a comic book fans ultimate dream come true after a 10 year tease.  Be ready to laugh, scream, and cry.\n\n5 out of 5 stars.",
+	"option":"2",
+	"mtitle":"Marvel's Avengers: Infinity War",
+	"review":"Thanos is on a mission to save the universe, even if half of it has to die.  It's up to every Marvel superhero to stop him.  This is a comic book fans ultimate dream come true after a 10 year tease.  Be ready to laugh, scream, and cry.<br/>5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/marvelavengersinfinitywar.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/marvelavengersinfinitywar.jpg"
 	}
 },
 {
-	"option":"c",
+	"option":"3",
 	"mtitle":"Breaking In",
-	"review":"After the death of her father, Shaun and her 2 kids travel to his vacation home to sell it.  But 3 men are casing the place for a treasure inside.  Be afraid of the momma lion.  This action packed movie will keep you guessing.\n\n4 out of 5 stars.\n\n",
+	"review":"After the death of her father, Shaun and her 2 kids travel to his vacation home to sell it.  But 3 men are casing the place for a treasure inside.  Be afraid of the momma lion.  This action packed movie will keep you guessing.<br/>4 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/breakingin.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/breakingin.jpg"
 	}
 },
 {
-	"option":"d",
+	"option":"4",
 	"mtitle":"Ready Player One",
-	"review":"In 2045, Wade Watts escapes his reality by going to the OASIS.  A virtual world where anything is possible.  But when his worlds collide, Wade could lose it all before he can get the ultimate reward.  This movie is the perfect mix of old school fun with new school technology.  Get it today.\n\n4 out of 5 stars.",
+	"review":"In 2045, Wade Watts escapes his reality by going to the OASIS.  A virtual world where anything is possible.  But when his worlds collide, Wade could lose it all before he can get the ultimate reward.  This movie is the perfect mix of old school fun with new school technology.  Get it today.<br/>4 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/readyplayerone.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/readyplayerone.jpg"
 	}
 },
 {
-	"option":"e",
+	"option":"5",
 	"mtitle":"Acrimony",
-	"review":"Melinda is given court mandated counseling after her divorce.  Now, she recounts her marriage, it's downfall, and her revenge.  This is a love, hate, and revenge story that will make you yell at the screen.\n\n4 out of 5 stars.",
+	"review":"Melinda is given court mandated counseling after her divorce.  Now, she recounts her marriage, it's downfall, and her revenge.  This is a love, hate, and revenge story that will make you yell at the screen.<br/>4 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/acrimony.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/acrimony.jpg"
