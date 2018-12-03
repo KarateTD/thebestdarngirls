@@ -1,47 +1,47 @@
 var madeForTV = [
 {
-	"option":"a",
-	"mtitle":"Alex and Me",
-	"review":"After a bad fall, Reagan sees Alex Morgan, her favorite soccer player standing over her.  Alex will be Reagan's inspiration to achieve her dreams.  This is a great film for kids because Reagan doesn't magically get better, she trains everyday and makes personal goals.\n4 out of 5 stars.",
+	"option":"1",
+	"mtitle":"Every Day is Christmas",
+	"review":"Alexis has taken Christmas Joy from her employees, her boyfriend, and her friends.  Now, her parent's spirits will visit her on Christmas Eve to change her ways.  This update on the Charles Dickens classic, keeps the overall plot but changes enough to keep the viewer engaged.<br/>4 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/alexandme.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/alexandme.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/everydayischristmas.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/everydayischristmas.jpg"
 	}
 },
 {
-	"option":"b",
-	"mtitle":"The Wrong Friend",
-	"review":"After a breakup, Riley is smitten with the new boy Chris.  But when her ex, Matt, gets risky pictures of Riley and Chris together, Riley goes on the warpath before Chris can ruin her reputation.  Another Lifetime movie with stupid cops, leads to a strong and smart female lead.\n3.5 out of 5 stars.",
+	"option":"2",
+	"mtitle":"Christmas Everlasting",
+	"review":"After her sister Alice abruptly dies, Lucy has 4 weeks to settle her estate, come to terms with her sister's past, and find forgiveness from the town she left behind.  This movie will have you in tears and calling family.  It is a surprising hit that falls in step with the book.<br/>5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thewrongfriend.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thewrongfriend.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/christmaseverlasting.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/christmaseverlasting.jpeg"
 	}
 },
 {
-	"option":"c",
-	"mtitle":"The Bad Seed",
-	"review":"Mr. Grossman is surprised when people want to question is daughter, Emma, about a murder.  However, he will start to question her as more people die.  This remake gives a new and twisted ending to a beloved classic.  This is a remake done right.  Just as creepy and scary.\n4.5 out of 5 stars.",
+	"option":"3",
+	"mtitle":"Every Other Holiday",
+	"review":"Tracy and Rick have been making the best out of co-parenting.  But when their children want the whole family to spend Christmas with Tracy's judgmental parents, it may break them or make them.  A true lesson on co-parenting and forgiveness, this movie should be used as a teaching tool.<br/>5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thebadseed.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thebadseed.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/everyotherday.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/everyotherday.jpg"
 	}
 },
 {
-	"option":"d",
-	"mtitle":"Wedding of Dreams",
-	"review":"Debbie has to give a final, guest star on a show, and put together a wedding.  As she tries to keep everything together, her engagement may fall apart.  While the Hallmark format falls into place, this is one of the few movies with real conflict and it shows the importance of open communication.\n3 out of 5 stars.",
+	"option":"4",
+	"mtitle":"Pride, Prejudice, and Mistletoe",
+	"review":"Darcy comes home to finds a stressed mom, overprotective dad, clamoring ex-boyfriend, and a cute rival.  And if that wasn't enough, she is facing a company take over.  This movie is a far cry from the gender role reversal update to the Jane Austen classic.  Read the books instead.<br/>2 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/weddingofdreams.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/weddingofdreams.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/prideprejudiceandmistletoe.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/prideprejudiceandmistletoe.jpg"
 	}
 },
 {
-	"option":"e",
-	"mtitle":"Her Boyfriend's Secret",
-	"review":"Melissa thinks her pilot boyfriend is perfect until his ex-girlfriend tells her he is dangerous.  Now she is on the hunt for answers.  Melissa's character plays dumb for too long, you almost want John to win.\n\n3 out of 5 stars.",
+	"option":"5",
+	"mtitle":"Poinsettieas for Christmas",
+	"review":"Ellie comes to the poinsettia farm to help her injured dad and learn the farm is on its last leg.  Without a successfully harvest, her grade school rival will buy it.  Ellie must get the poinsettias to change colors before her family loses it all.  A strong family movie with plenty of laughs.<br/>3.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/herboyfriendssecret.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/herboyfriendssecret.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/poinsettiasforchristmas.png",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/poinsettiasforchristmas.png"
 	}
 }
 ];

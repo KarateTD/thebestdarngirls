@@ -1,5 +1,0 @@
-Commands please {command}
-
-MenuSelection {menu}
-
-MovieChoices {choice}

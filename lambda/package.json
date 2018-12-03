@@ -1,6 +1,11 @@
 {
   "author": "Tiffany Gray",
   "dependencies": {
-    "alexa-sdk": "^1.0.6"
+    "alexa-sdk": "^1.0.6",
+    "ask-sdk": "^2.3.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.3"
   }
 }
