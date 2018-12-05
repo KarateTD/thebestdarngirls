@@ -56,8 +56,6 @@ module.exports = mustBuy;
 
 /*  For Must Buy later
 
-
-
 {
 	"option":"1",
 	"mtitle":"A Simple Favor",
