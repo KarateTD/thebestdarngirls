@@ -159,9 +159,9 @@ const MovieChoicesHandler = {
  			}
 
       		return handlerInput.responseBuilder
-      		  .speak(element.review.replace("<br/>","\n\n").concat(repeatGoBack))
+      		  .speak(element.review.replace("<br/>","\n").concat(repeatGoBack))
       		  .reprompt(repeatGoBack)
-      		  .withStandardCard(element.mtitle, element.review.replace("<br/>","\n\n"), element.image.smallImageUrl, element.image.largeImageUrl)
+      		  .withStandardCard(element.mtitle, element.review.replace("<br/>","\n"), element.image.smallImageUrl, element.image.largeImageUrl)
       		  .getResponse();
       	}else{
       		return handlerInput.responseBuilder
