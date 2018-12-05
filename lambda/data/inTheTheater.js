@@ -53,33 +53,3 @@ module.exports = inTheTheaters;
 *  small image 720w x 480h (in pixels)
 *  large image 1200w x 800h (in pixels)
 */
-
-/*
-{
-	"option":"a",
-	"mtitle":"A Simple Favor",
-	"review":"Stephanie unexpectantly becomes friends with Emily.  But when Emily goes missing, Stephanie will learn how little she truely knew her.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/asimplefavor.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/asimplefavor.jpg"
-	}
-},
-{
-	"option":"b",
-	"mtitle":"White Boy Rick",
-	"review":"Rick was given a choice, help the FBI or your dad will go to jail for 10 years.  This dicussion will leave in a sad record book.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whiteboyrick.jpg"
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whiteboyrick.jpg"
-	}
-},
-{
-	"option":"c",
-	"mtitle":"A Boy. A Girl. A Dream.",
-	"review":"On the night of the 2016 election, Frida adn Cass will discuss their dreams after a chance encounter.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/aboyagirladream.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/aboyagirladream.jpg"
-	}
-}
-*/
