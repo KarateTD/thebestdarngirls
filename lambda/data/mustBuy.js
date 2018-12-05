@@ -2,7 +2,7 @@ var mustBuy = [
 {
 	"option":"1",
 	"mtitle":"Mission Impossible: Fallout",
-	"review":"Ethan has to fix is mistakes but with Erica's operative Walker watching his every move.  How will Ethan handle it when he is the one under suspicion.  This mission is impossible to miss and a 100% thrill ride.  See it on the big screen today.<br/></br>5 out of 5 stars.",
+	"review":"Ethan has to fix is mistakes but with Erica's operative Walker watching his every move.  How will Ethan handle it when he is the one under suspicion.  This mission is impossible to miss and a 100% thrill ride.  See it on the big screen today.<br/><br/>5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/missionimpossible6.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missionimpossible6.jpg"
