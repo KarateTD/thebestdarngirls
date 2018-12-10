@@ -1,47 +1,47 @@
 var madeForTV = [
 {
 	"option":"1",
-	"mtitle":"Every Day is Christmas",
-	"review":"Alexis has taken Christmas Joy from her employees, her boyfriend, and her friends.  Now, her parent's spirits will visit her on Christmas Eve to change her ways.  This update on the Charles Dickens classic, keeps the overall plot but changes enough to keep the viewer engaged.<br/><br/>4 out of 5 stars.",
+	"mtitle":"Santa's Boots",
+	"review":"Nick and Holly decide to help their friends by playing Santa Claus and an Elf.  They will end up helping themselves and Holly's family store.  This movie provides one of the best grammies on Lifetime.  It should not be missed.<br/><br/>4.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/everydayischristmas.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/everydayischristmas.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/santasboots.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/santasboots.jpg"
 	}
 },
 {
 	"option":"2",
-	"mtitle":"Christmas Everlasting",
-	"review":"After her sister Alice abruptly dies, Lucy has 4 weeks to settle her estate, come to terms with her sister's past, and find forgiveness from the town she left behind.  This movie will have you in tears and calling family.  It is a surprising hit that falls in step with the book.<br/><br/>5 out of 5 stars.",
+	"mtitle":"Homegrown Christmas",
+	"review":"Maddie has officially retired but doesn't know what to do with her free time.  She will try to reconnect with the family she has ignored for so many years, but do they want her back?  This movie just doesn't capture your attention and the story line is over done.<br/><br/>2 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/christmaseverlasting.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/christmaseverlasting.jpeg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/homegrownchristmas.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/homegrownchristmas.jpg"
 	}
 },
 {
 	"option":"3",
-	"mtitle":"Every Other Holiday",
-	"review":"Tracy and Rick have been making the best out of co-parenting.  But when their children want the whole family to spend Christmas with Tracy's judgmental parents, it may break them or make them.  A true lesson on co-parenting and forgiveness, this movie should be used as a teaching tool.<br/><br/>5 out of 5 stars.",
+	"mtitle":"Your Baby is Mine",
+	"review":"Anna blogs about every moment with her baby.  One fan is the mother of the child that died of SIDS while in Anna's care.  Rachel will do anything to get Anna's baby as a replacement for the baby she lost.  This movie is predictable from beginning to end.  Even the twist is boring.<br/><br/>1 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/everyotherday.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/everyotherday.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/yourbabyismine.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/yourbabyismine.jpeg"
 	}
 },
 {
 	"option":"4",
-	"mtitle":"Pride, Prejudice, and Mistletoe",
-	"review":"Darcy comes home to finds a stressed mom, overprotective dad, clamoring ex-boyfriend, and a cute rival.  And if that wasn't enough, she is facing a company take over.  This movie is a far cry from the gender role reversal update to the Jane Austen classic.  Read the books instead.<br/><br/>2 out of 5 stars.",
+	"mtitle":"Christmas Lost and Found",
+	"review":"After losing her grandmother's ornaments, Whitney is sent on an ornament scavenger hunt by an anonymous person.  There is a love story but it takes a back seat to Whitney reconnecting with her family and her memories.  This movie is truly heartwarming.<br/><br/>4 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/prideprejudiceandmistletoe.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/prideprejudiceandmistletoe.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/christmaslostandfound.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/christmaslostandfound.jpg"
 	}
 },
 {
 	"option":"5",
-	"mtitle":"Poinsettieas for Christmas",
-	"review":"Ellie comes to the poinsettia farm to help her injured dad and learn the farm is on its last leg.  Without a successfully harvest, her grade school rival will buy it.  Ellie must get the poinsettias to change colors before her family loses it all.  A strong family movie with plenty of laughs.<br/><br/>3.5 out of 5 stars.",
+	"mtitle":"A Star for Christmas",
+	"review":"With a film crew in town, Cassie's bakery is more popular than ever.  And unknown to her, it attracted the attention of a movie star.  Can their love survive exes and the paparazzi?  Bad cinematography choices, boring storyline, and flat joke, makes this a movie you can skip.<br/><br/>1.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/poinsettiasforchristmas.png",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/poinsettiasforchristmas.png"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/astarforchristmas.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/astarforchristmas.jpg"
 	}
 }
 ];
