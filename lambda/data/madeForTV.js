@@ -11,7 +11,7 @@ var madeForTV = [
 {
 	"option":"2",
 	"mtitle":"Homegrown Christmas",
-	"review":"Maddie has officially retired but doesn't know what to do with her free time.  She will try to reconnect with the family she has ignored for so many years, but do they want her back?  This movie just doesn't capture your attention and the story line is overdone.<br/><br/>2 out of 5 stars.",
+	"review":"Maddie has officially retired but doesn't know what to do with her free time.  She will try to reconnect with the family she has ignored for so many years, but do they want her back?  This movie just doesn't capture your attention and the storyline is overdone.<br/><br/>2 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/homegrownchristmas.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/homegrownchristmas.jpg"
