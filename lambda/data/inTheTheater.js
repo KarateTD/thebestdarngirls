@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
 	"option":"1",
 	"mtitle":"Green Book",
-	"review":"Dr. Shirley hires Tony 'Lip' Vallelonga to drive him for his tour in the deep south.  Seeing prejudice there uncovers the prejudice feelings in themselves.  This movie is Oscar worthy with enough heart and life lessons to carry with you for a lifetime.<br/><br/>4.5 out of 5 stars",
+	"review":"Dr. Shirley hires Tony 'Lip' Vallelonga to drive him for his tour in the deep south.  Seeing prejudice there uncovers the prejudice feelings in themselves.  This movie is Oscar worthy with enough heart and life lessons to carry with you for a lifetime.<br/><br/>4.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/greenbook.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/greenbook.jpg"
@@ -11,7 +11,7 @@ var inTheTheaters = [
 {
 	"option":"2",
 	"mtitle":"The Favourite",
-	"review":"Sara is the favourite of Queen Anne but that's challenged when her cousin Abagail becomes her maid.  This back and forth between the too women is as sad as it is compelling.  It's hard to believe that people still fight to be the favourite of those in power today.<br/><br/>3.5 out of 5 stars",
+	"review":"Sara is the favourite of Queen Anne but that's challenged when her cousin Abagail becomes Sara's maid.  This back and forth between the too women is as sad as it is compelling.  It's hard to believe that people still fight to be the favourite of those in power today.<br/><br/>3.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thefavourite.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thefavourite.jpg"
