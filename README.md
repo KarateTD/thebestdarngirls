@@ -7,7 +7,7 @@ To create an Alexa skill to coincide with my website, thatdarngirlmovie.reviews.
 ## Technology Used
 Built with
 <ul>
-	<li>[Amazon S3](https://aws.amazon.com/s3/)</li>
+	<li><a href="https://aws.amazon.com/s3/" target="_blank">Amazon S3</a>(https://aws.amazon.com/s3/)</li>
 	<li>[Alexa Skill Kit](https://developer.amazon.com/alexa-skills-kit)</li>
 	<li>[AWS Lambda](https://aws.amazon.com/lambda/)</li>
 	<li>[AWS CodePipeline](https://aws.amazon.com/codepipeline/)
