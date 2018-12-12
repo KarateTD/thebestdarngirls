@@ -43,16 +43,7 @@ var mustBuy = [
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/blindspotting.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/blindspotting.jpg"
 	}
-}/*,
-{	
-	"option":"5",
-	"mtitle":"Mile 22",
-	"review":"James Silva and his Black Operative team have been given one mission.  Get Li to the air strip and on a plane.  In exchange, Li will give the team the code to stop the bomb his government planted.  It will take 22 miles to get there.  This intense action movie's fight techniques are given with the precision of a surgent.  It has a strong and intense storyling.  Cross your fingers for a part 2.<br/><br/>4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mile22.png",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mile22.png"
-	}
-}*/
+}
 ];
 
 module.exports = mustBuy;
