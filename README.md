@@ -33,7 +33,13 @@ When this code is git pushed to master branch, it triggers thebestdarngirlsSkill
 			<li>videoOnDemand.js - contains data for the <i>Video On Demand</i> section</li>
 		</ul>
 	</li>
-	<li>Helpers Folder</li>
+	<li>Helpers Folder
+		<ul>
+			<li>getCardInfo.js - returns information about a specific movie for the Alexa Skills Card</li>
+			<li>getList.js - returns the json for Alexa devices with screens</li>
+			<li>getOptions.js - creates a string for Alexa to stay</li>
+			<li>getReview.js - returns the review in the data file</li>
+		</ul>
 	<li>index.js</li>
 </ul>
 
