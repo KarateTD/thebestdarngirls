@@ -7,15 +7,15 @@ To create an Alexa skill to coincide with my website, thatdarngirlmovie.reviews.
 ## Technology Used
 Built with
 <ul>
-	<li>AWS S3</li>
-	<li>AWS Alexa Skill Kit</li>
-	<li>AWS Lambda</li>
-	<li>AWS CodePipeline
+	<li>[Amazon S3](https://aws.amazon.com/s3/)</li>
+	<li>[Alexa Skill Kit](https://developer.amazon.com/alexa-skills-kit)</li>
+	<li>[AWS Lambda](https://aws.amazon.com/lambda/)</li>
+	<li>[AWS CodePipeline](https://aws.amazon.com/codepipeline/)
 		<ul>
-			<li>CodeSouce</li>
-			<li>CodeBuild</li>
+			<li>[AWS CodeCommit](https://aws.amazon.com/codecommit/)</li>
+			<li>[AWS CodeBuild](https://aws.amazon.com/codebuild/)</li>
 		</ul>
 	</li>
 	<li>GitHub</li>
-	<li>Node JS 10</li>
+	<li>NodeJS 8.10</li>
 </ul>
