@@ -19,3 +19,21 @@ Built with
 	<li>GitHub</li>
 	<li>NodeJS 8.10</li>
 </ul>
+
+## Features
+When this code is git pushed to master branch, it triggers thebestdarngirlsSkillPipeline CodePipeline to build the code in the Development Lambda Function.  Once built, it waits for the user to manually test in the Alexa Skills Kit.  If the test is labeled successful, the CodePipeline will build the code in the Production Lambda Function.  This will change the skill to all users.  
+
+## Code
+<ul>
+	<li>Data Folder
+		<ul>
+			<li>inTheTheater.js - contains data for the <i>In The Theater</i> section</li>
+			<li>madeForTV.js - contains data for the <i>Made For TV</i> section</li>
+			<li>mustBuy.js - contains data for the <i>Must Buy</i> section</li>
+			<li>videoOnDemand.js - contains data for the <i>Video On Demand</i> section</li>
+		</ul>
+	</li>
+	<li>Helpers Folder</li>
+	<li>index.js</li>
+</ul>
+
