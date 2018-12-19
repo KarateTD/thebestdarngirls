@@ -1,6 +1,15 @@
 var mustBuy = [
 {
 	"option":"1",
+	"mtitle":"A Simple Favor",
+	"review":"Stephanie unexpectantly becomes friends with Emily.  But when Emily goes missing, Stephanie will learn how little she truely knew her.  This movie isn't just a roller coaster ride, it's the entire theme park.  It has love, sex, lies, and murder.  See it now.<br/><br/>5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/asimplefavor.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/asimplefavor.jpg"
+	}
+},
+{
+	"option":"2",
 	"mtitle":"SMALLFOOT",
 	"review":"Migo dreams of being the next gong-banger.  Later, when a practice run fails but the sun still comes up, he goes down the mountain to question the stone keeper.  That's when he finds the so-called Smallfoot.  This is a great movie about the power and the constraint of belief.  Watch it with your kids today.<br/><br/>4 out of 5 stars.",
 	"image":{
@@ -9,7 +18,7 @@ var mustBuy = [
 	}
 },
 {
-	"option":"2",
+	"option":"3",
 	"mtitle":"Mission Impossible: Fallout",
 	"review":"Ethan has to fix is mistakes but with Erica's operative Walker watching his every move.  How will Ethan handle it when he is the one under suspicion.  This mission is impossible to miss and a 100% thrill ride.  See it on the big screen today.<br/><br/>5 out of 5 stars.",
 	"image":{
@@ -18,7 +27,7 @@ var mustBuy = [
 	}
 },
 {
-	"option":"3",
+	"option":"4",
 	"mtitle":"Searching",
 	"review":"After seeing 3 missed calls, David can not find his daughter, Margot.  He will have to go through the dark corners of her laptop to find her: dead or alive.  This first person point-of-view thriller will have you on the edge of your seat the entire movie.<br/><br/>4.5 out of 5 stars.",
 	"image":{
@@ -27,21 +36,12 @@ var mustBuy = [
 	}
 },
 {
-	"option":"4",
+	"option":"5",
 	"mtitle":"Kin",
 	"review":"After finding a high tech weapon, Elijah unknowingly goes on the run with his brother Jimmy.  Both are keeping secrets that will effect their family but the weapon is the real key.  Produced by Michael B. Jordan, this movie is about the real meaning of family and manhood.  May not be suitable for kids under 13.<br/><br/>4 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/kin.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/kin.jpg"
-	}
-},
-{
-	"option":"5",
-	"mtitle":"Blindspotting",
-	"review":"With 3 days left on probation, Collin sees a cop shoot and kill a man.  Now he is examining is life, friendship, and love.  This movie honestly divulges that everyone has a blind spot to the pain and pressure of others.  See it now.<br/><br/>4.5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/blindspotting.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/blindspotting.jpg"
 	}
 }
 ];
@@ -55,16 +55,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
-
-{
-	"option":"1",
-	"mtitle":"A Simple Favor",
-	"review":"Stephanie unexpectantly becomes friends with Emily.  But when Emily goes missing, Stephanie will learn how little she truely knew her.  This movie isn't just a roller coaster ride, it's the entire theme park.  It has love, sex, lies, and murder.  See it now.<br/><br/>5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/asimplefavor.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/asimplefavor.jpg"
-	}
-}
 
 {
 	"option":"2",
