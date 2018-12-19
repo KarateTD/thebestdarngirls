@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
 	"option":"1",
 	"mtitle":"Spider-Man: Into the Spider-Verse",
-	"review":"In 24 hours, Miles Morales is bitten by a radio active spider, witnesses the death of Spider-Man, is hunted, and discover 5 other Spider-Men.  Each Spider-Men has their own back story, but they have one thing in common: Being a reluctant superhero.  Miles will sadly join this club.  Seeing the seemless mesh of different animation styles with a strong story and great life lessons for kids is superb.  Stay pass the end credits and look out for Stan Lee.<br/><br/>5 out of 5 stars.",
+	"review":"In 24 hours, Miles Morales is bitten by a radio active spider, witnesses the death of Spider-Man, is hunted, and discover 5 other Spider-Men.  Each Spider-Man has their own back story, but they have one thing in common: Being a reluctant superhero.  Miles will sadly join this club.  Seeing the seemless mesh of different animation styles with a strong story and great life lessons for kids is superb.  Stay pass the end credits and look out for Stan Lee.<br/><br/>5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/spidermanintothespiderverse.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/spidermanintothespiderverse.jpg"
