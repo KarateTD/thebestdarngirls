@@ -96,4 +96,13 @@ module.exports = mustBuy;
 	}
 }
 
+{
+	"option":"2",
+	"mtitle":"Green Book",
+	"review":"Dr. Shirley hires Tony 'Lip' Vallelonga to drive him for his tour in the deep south.  Seeing prejudice there uncovers the prejudice feelings in themselves.  This movie is Oscar worthy with enough heart and life lessons to carry with you for a lifetime.<br/><br/>4.5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/greenbook.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/greenbook.jpg"
+	}
+}
 */
