@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
 	"option":"1",
 	"mtitle":"Aquaman",
-	"review":"Arthur turned his back on Altlantis after the king killed his mother out of jealous.  Now, his half brother Orm threatens the surface world.  Arthur must find a legendary trident and reclaim his birthright as king.  This movie is an example of when well-meaning actors and great graphics meet a bad script.  No needs to stay past the end credits.<br/><br/>2.5 out of 5 stars.",
+	"review":"Arthur turned his back on Atlantis after the king killed his mother out of jealousy.  Now, his half brother, Orm, threatens the surface world.  Arthur must find a legendary trident and reclaim his birthright as king.  This movie is an example of well-meaning actors and great graphics meeting a bad script.  No need to stay past the end credits.<br/><br/>2.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/aquaman.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/aquaman.jpg"
