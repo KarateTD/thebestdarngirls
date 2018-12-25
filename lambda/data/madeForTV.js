@@ -1,47 +1,47 @@
 var madeForTV = [
 {
 	"option":"1",
-	"mtitle":"Santa's Boots",
-	"review":"Nick and Holly decide to help their friends by playing Santa Claus and an Elf.  They will end up helping themselves and Holly's family store.  This movie provides one of the best grammies on Lifetime.  It should not be missed.<br/><br/>4.5 out of 5 stars.",
+	"mtitle":"Jingle Around The Clock",
+	"review":"Elle throws a Christmas bash for her and her friends every year.  But with the added pressure at work, she is having a hard time juggling everything on her own.  She must learn to ask for help or she will lose her job and her traditions.  During this time a year, it's good to be reminded that it is ok to slow down and ask for help.  So are you guilty of pulling an Elle?<br/><br/>3.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/santasboots.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/santasboots.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/jinglearoundtheclock.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/jinglearoundtheclock.jpg"
 	}
 },
 {
 	"option":"2",
-	"mtitle":"Homegrown Christmas",
-	"review":"Maddie has officially retired but doesn't know what to do with her free time.  She will try to reconnect with the family she has ignored for so many years, but do they want her back?  This movie just doesn't capture your attention and the storyline is overdone.<br/><br/>2 out of 5 stars.",
+	"mtitle":"A Golden Christmas",
+	"review":"As a child Jessie found a dog that introduced her to her crush and best friend in the woods.  Because the gave fake names, Jessie was never able to find him again.  Years later, she plans on buying her parents house to be closer to the same woods.  But without warning her parents sold it.  They sold it to her long lost and unknown crush Michael.  She wants the house but doesn't know from whom she is take it.  This is a sweet movie of love lost and love found but it's forgettable.<br/><br/>3 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/homegrownchristmas.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/homegrownchristmas.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/agoldenchristmas.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/agoldenchristmas.jpg"
 	}
 },
 {
 	"option":"3",
-	"mtitle":"Your Baby is Mine",
-	"review":"Anna blogs about every moment with her baby.  Rachel, a mother of the child that died of SIDS while in Anna's care, is watching.  Rachel will do anything to get Anna's baby as a replacement for the one she lost.  This movie is predictable from beginning to end.  Even the twist is boring.<br/><br/>1 out of 5 stars.",
+	"mtitle":"Christmas at Grand Valley",
+	"review":"While reconsidering her career, Kelly agrees to run the Christmas Camp at her cousin's lodge.  Two of the kids belong to Leo, the man in charge of determing if the lodge should be shutdown.  Kelly hopes to save the lodge and her brothers job.  Once again the kids save the day. Wiser than their years, they make the movie funny and charming.<br/><br/>3.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/yourbabyismine.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/yourbabyismine.jpeg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/christmasatgrandvalley.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/christmasatgrandvalley.jpeg"
 	}
 },
 {
 	"option":"4",
-	"mtitle":"Christmas Lost and Found",
-	"review":"After losing her grandmother's ornaments, Whitney is sent on an ornament scavenger hunt by an anonymous person.  There is a love story but it takes a back seat to Whitney reconnecting with her family and her memories.  This movie is truly heartwarming.<br/><br/>4 out of 5 stars.",
+	"mtitle":"Web of Lies",
+	"review":"A stalking internet troll has followed social media influencer Wendy from LA to Boston.  She must fight back to save her life.  Another break from the holiday onslaught falls flat.  The mystery is solved sooner than you can care about the main character.  Skip this one.<br/><br/>1.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/christmaslostandfound.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/christmaslostandfound.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/weboflies.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/weboflies.jpeg"
 	}
 },
 {
 	"option":"5",
-	"mtitle":"A Star for Christmas",
-	"review":"With a film crew in town, Cassie's bakery is more popular than ever.  And unknown to her, it attracted the attention of a movie star.  Can their love survive exes and the paparazzi?  Bad cinematography choices, boring storyline, and flat jokes, makes this a movie you can skip.<br/><br/>1.5 out of 5 stars.",
+	"mtitle":"A Christmas Kiss",
+	"review":"When Wendy realizes the stranger she kissed is her boss's boyfriend, she has to choose between work and love.  It will take a broken nose and flutters to untangle this mess.  Be prepared to laugh, talk to the screen, and say OMG more than once.<br/><br/>5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/astarforchristmas.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/astarforchristmas.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/achristmaskiss.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/achristmaskiss.jpeg"
 	}
 }
 ];
