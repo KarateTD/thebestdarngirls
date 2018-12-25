@@ -11,7 +11,7 @@ var madeForTV = [
 {
 	"option":"2",
 	"mtitle":"A Golden Christmas",
-	"review":"As a child Jessie found a dog that introduced her to her crush and best friend in the woods.  Because the gave fake names, Jessie was never able to find him again.  Years later, she plans on buying her parents house to be closer to the same woods.  But without warning her parents sold it.  They sold it to her long lost and unknown crush Michael.  She wants the house but doesn't know from whom she is taken it.  This is a sweet movie of love lost and love found but it's forgettable.<br/><br/>3 out of 5 stars.",
+	"review":"As a child Jessie found a dog that introduced her to her crush and best friend in the woods.  Because the gave fake names, Jessie was never able to find him again.  Years later, she plans on buying her parents house to be closer to the same woods.  But without warning her parents sold it.  They sold it to her long lost and unknown crush Michael.  She wants the house but doesn't know from whom she is taking it.  This is a sweet movie of love lost and love found but it's forgettable.<br/><br/>3 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/agoldenchristmas.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/agoldenchristmas.jpg"
@@ -29,7 +29,7 @@ var madeForTV = [
 {
 	"option":"4",
 	"mtitle":"Web of Lies",
-	"review":"A stalking internet troll has followed social media influencer Wendy from LA to Boston.  She must fight back to save her life.  Another break from the holiday onslaught falls flat.  The mystery is solved sooner than you can care about the main character.  Skip this one.<br/><br/>1.5 out of 5 stars.",
+	"review":"A stalking internet troll has followed social media influencer, Wendy, from LA to Boston.  She must fight back to save her life.  Another break from the holiday onslaught falls flat.  The mystery is solved sooner than you can care about the main character.  Skip this one.<br/><br/>1.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/weboflies.jpeg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/weboflies.jpeg"
