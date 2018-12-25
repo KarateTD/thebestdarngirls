@@ -38,7 +38,7 @@ var madeForTV = [
 {
 	"option":"5",
 	"mtitle":"A Christmas Kiss",
-	"review":"When Wendy realizes the stranger she kissed is her boss's boyfriend, she has to choose between work and love.  It will take a broken nose and flutters to untangle this mess.  Be prepared to laugh, yell to the screen, and say OMG more than once.<br/><br/>5 out of 5 stars.",
+	"review":"When Wendy realizes the stranger she kissed is her boss's boyfriend, she has to choose between work and love.  It will take a broken nose and flutters to untangle this mess.  Be prepared to laugh, yell at the screen, and say OMG more than once.<br/><br/>5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/achristmaskiss.jpeg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/achristmaskiss.jpeg"
