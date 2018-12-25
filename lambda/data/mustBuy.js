@@ -2,7 +2,7 @@ var mustBuy = [
 {
 	"option":"1",
 	"mtitle":"White Boy Rick",
-	"review":"Rick was given a choice, help the FBI or your dad will go to jail for 10 years.  This decision will leave a sad mark in the record book.  When watching this movie, ask yourself who is to blame for Ricky's rise in the drug world.  Ricky, his dad, or the government.  This movie is a different kind of cautionary tale.<br/><br/>4 out of 5 stars.",
+	"review":"Rick was given a choice, help the FBI or your dad will go to jail for 10 years.  This decision will leave a sad mark in the record book.  When watching this movie, ask yourself who is to blame for Rick's rise in the drug world.  Rick, his dad, or the government.  This movie is a different kind of cautionary tale.<br/><br/>4 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whiteboyrick.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whiteboyrick.jpg"
