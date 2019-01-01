@@ -48,4 +48,4 @@ First, you must have an account on <a href="https://developer.amazon.com/alexa/c
 
 | Intent | Sample Utterances | Slot Name | Slot Type |
 | -------- | ------------------- | ------- |
-| Commands | {command}<br/>Please {command} | command } USER_COMMAND |
+| Commands | {command}<br/>Please {command} | command | USER_COMMAND |
