@@ -40,7 +40,9 @@ When this code is git pushed to master branch, it triggers thebestdarngirlsSkill
 			<li>getOptions.js - creates a string for Alexa to say</li>
 			<li>getReview.js - returns the review in the data file</li>
 		</ul>
+	</li>
 	<li>index.js</li>
+	This contaions the code with helper functions for each Intent listed in the next section.
 </ul>
 
 ## Installation
@@ -49,3 +51,11 @@ First, you must have an account on <a href="https://developer.amazon.com/alexa/c
 |  Intent  |   Sample Utterances | Slot Name | Slot Type |
 | -------- | ------------------- | --------- | --------- |
 | Commands | {command}<br/>Please {command} | command | USER_COMMAND |
+| MenuSelection | {menu} | menu | MENU_OPTIONS |
+| MovieChoices | show me {choice}<br/>tell me about {choice}<br/>select {choice}<br/>i choose {choice}<br/>{choice} | choice | LETTER_CHOICE | 
+
+| Slot Types | Value | 
+| ---------- | ----- |
+| USER_COMMAND | main menu<br/>movie options<br/>repeat<br/>good bye |
+| MENU_OPTIONS | Video on Demand<br/>Must Buy<br/>Made for TV<br/>In The Theater |
+| LETTER_CHOICE | 1 - 5 |
