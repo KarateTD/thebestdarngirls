@@ -1,6 +1,15 @@
 var mustBuy = [
 {
 	"option":"1",
+	"mtitle":"Bad Times at the El Royale",
+	"review":"A priest, a singer, a woman, and vacuum salesman check into the bi-state El Royale hotel and casino.  Everyone has secrets and everyone is being watched.  This movie is a 100% thrill ride with so many twists and turns.  Every minute is enjoyable and will keep you guess.  There will be blood.<br/><br/>5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/badtimesattheelroyale.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/badtimesattheelroyale.jpg"
+	}
+},
+{
+	"option":"2",
 	"mtitle":"White Boy Rick",
 	"review":"Rick was given a choice, help the FBI or your dad will go to jail for 10 years.  This decision will leave a sad mark in the record book.  When watching this movie, ask yourself who is to blame for Rick's rise in the drug world.  Rick, his dad, or the government.  This movie is a different kind of cautionary tale.<br/><br/>4 out of 5 stars.",
 	"image":{
@@ -9,7 +18,7 @@ var mustBuy = [
 	}
 },
 {
-	"option":"2",
+	"option":"3",
 	"mtitle":"A Simple Favor",
 	"review":"Stephanie unexpectantly becomes friends with Emily.  But when Emily goes missing, Stephanie will learn how little she truely knew her.  This movie isn't just a roller coaster ride, it's the entire theme park.  It has love, sex, lies, and murder.  See it now.<br/><br/>5 out of 5 stars.",
 	"image":{
@@ -18,7 +27,7 @@ var mustBuy = [
 	}
 },
 {
-	"option":"3",
+	"option":"4",
 	"mtitle":"SMALLFOOT",
 	"review":"Migo dreams of being the next gong-banger.  Later, when a practice run fails but the sun still comes up, he goes down the mountain to question the stone keeper.  That's when he finds the so-called Smallfoot.  This is a great movie about the power and the constraint of belief.  Watch it with your kids today.<br/><br/>4 out of 5 stars.",
 	"image":{
@@ -27,21 +36,12 @@ var mustBuy = [
 	}
 },
 {
-	"option":"4",
+	"option":"5",
 	"mtitle":"Mission Impossible: Fallout",
 	"review":"Ethan has to fix is mistakes but with Erica's operative Walker watching his every move.  How will Ethan handle it when he is the one under suspicion.  This mission is impossible to miss and a 100% thrill ride.  See it on the big screen today.<br/><br/>5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/missionimpossible6.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missionimpossible6.jpg"
-	}
-},
-{
-	"option":"5",
-	"mtitle":"Searching",
-	"review":"After seeing 3 missed calls, David can not find his daughter, Margot.  He will have to go through the dark corners of her laptop to find her: dead or alive.  This first person point-of-view thriller will have you on the edge of your seat the entire movie.<br/><br/>4.5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/searching.png",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/searching.png"
 	}
 }
 ];
@@ -93,6 +93,16 @@ module.exports = mustBuy;
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/greenbook.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/greenbook.jpg"
+	}
+}
+
+{
+	"option":"3",
+	"mtitle":"Spider-Man: Into the Spider-Verse",
+	"review":"In 24 hours, Miles Morales is bitten by a radio active spider, witnesses the death of Spider-Man, is hunted, and discover 5 other Spider-Men.  Each Spider-Man has their own back story, but they have one thing in common: Being a reluctant superhero.  Miles will sadly join this club.  Seeing the seemless mesh of different animation styles with a strong story and great life lessons for kids is superb.  Stay pass the end credits and look out for Stan Lee.<br/><br/>5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/spidermanintothespiderverse.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/spidermanintothespiderverse.jpg"
 	}
 }
 */

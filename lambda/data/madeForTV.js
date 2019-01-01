@@ -1,47 +1,47 @@
 var madeForTV = [
 {
 	"option":"1",
-	"mtitle":"Jingle Around The Clock",
-	"review":"Elle throws a Christmas bash for herself and her friends every year.  But with the added pressure at work, she is having a hard time juggling everything on her own.  She must learn to ask for help or she will lose her job and her traditions.  During this time a year, it's good to be reminded that it is ok to slow down and ask for help.  So are you guilty of pulling an Elle?<br/><br/>3.5 out of 5 stars.",
+	"mtitle":"Nightmare Best Friend",
+	"review":"Katy decides to go on a girls trip with her high school best friend, Gina.  When Gina's boyfriend, Ray, joins them, the devil follows.  Katy's girl trip will soon put her entire family in danger. This movie has a strong start but a week ending with everyone fumbling the gun.<br/><br/>3 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/jinglearoundtheclock.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/jinglearoundtheclock.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/nightmarebestfriend.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/nightmarebestfriend.jpeg"
 	}
 },
 {
 	"option":"2",
-	"mtitle":"A Golden Christmas",
-	"review":"As a child Jessie found a dog that introduced her to her crush and best friend in the woods.  Because the gave fake names, Jessie was never able to find him again.  Years later, she plans on buying her parents house to be closer to the same woods.  But without warning her parents sold it.  They sold it to her long lost and unknown crush Michael.  She wants the house but doesn't know from whom she is taking it.  This is a sweet movie of love lost and love found but it's forgettable.<br/><br/>3 out of 5 stars.",
+	"mtitle":"A Midnight Kiss",
+	"review":"Mia has to throw a New Year's Eve party in 8 days after her parents retire and her brother, Jake, is injured.  Jake asks his friend David to help her.  This help will bring clarity to Mia's career and sparks into her love life.  A move that is as funny as it is romantic.  The one kiss is well worth it.<br/><br/>5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/agoldenchristmas.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/agoldenchristmas.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/amidnightkiss.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/amidnightkiss.jpeg"
 	}
 },
 {
 	"option":"3",
-	"mtitle":"Christmas at Grand Valley",
-	"review":"While reconsidering her career, Kelly agrees to run the Christmas Camp at her cousin's lodge.  Two of the kids belong to Leo, the man in charge of determing if the lodge should be shutdown.  Kelly hopes to save the lodge and her cousin's job.  Once again the kids save the day. Wiser than their years, they make the movie funny and charming.<br/><br/>3.5 out of 5 stars.",
+	"mtitle":"The Wrong Teacher",
+	"review":"Charlotte is at a lost for words when she lays eyes on her new student.  It was the guy she dated and had a one-night stand with the night before.  Even though Chris is 18, Charlotte could lose her career and her book deal.  She tries to break it off but Chris won't here it.  Watch this movie for Lee and Lydia.  They say everything you are thinking about Charlotte.  She is making so many mistakes, you don't feel bad for her.<br/><br/>3 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/christmasatgrandvalley.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/christmasatgrandvalley.jpeg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thewrongteacher.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thewrongteacher.jpg"
 	}
 },
 {
 	"option":"4",
-	"mtitle":"Web of Lies",
-	"review":"A stalking internet troll has followed social media influencer, Wendy, from LA to Boston.  She must fight back to save her life.  Another break from the holiday onslaught falls flat.  The mystery is solved sooner than you can care about the main character.  Skip this one.<br/><br/>1.5 out of 5 stars.",
+	"mtitle":"When Calls the Heart: The Great Christmas Blessing",
+	"review":"Elizabeth is having a hard time preparing for the baby without Jack. Abagail and Rosemary are busy with the town's Christmas Eve feast.  Although the town is busy, they notice when Grace and Lily come to town with 8 children.  But when Bill starts asking questions, they learn their should be 7 children, not 8.  This discovery will lead to 2 Christmas blessings.<br/><br/>4.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/weboflies.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/weboflies.jpeg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whentheheartcalls.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whentheheartcalls.jpg"
 	}
 },
 {
 	"option":"5",
-	"mtitle":"A Christmas Kiss",
-	"review":"When Wendy realizes the stranger she kissed is her boss's boyfriend, she has to choose between work and love.  It will take a broken nose and flutters to untangle this mess.  Be prepared to laugh, yell at the screen, and say OMG more than once.<br/><br/>5 out of 5 stars.",
+	"mtitle":"Christmas Made to Order",
+	"review":"Aspiring holiday decorator, Gretchen makes an accidental impression on Steven.  So much, that he hires her to decorate his home for his impromptu family visit.  When his family is disappointed because they wanted more quality time, he hires Gretchen to be the Christmas Ambassador.  This movie is more than a holiday love story.  It's about living up to your expectations versus the expectations of others.  This will become a true favorite.<br/><br/>4.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/achristmaskiss.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/achristmaskiss.jpeg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/chrismasmadetoorder.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/chrismasmadetoorder.jpeg"
 	}
 }
 ];
