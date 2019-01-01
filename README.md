@@ -44,8 +44,8 @@ When this code is git pushed to master branch, it triggers thebestdarngirlsSkill
 </ul>
 
 ## Installation
-The following are the Intents, followed by their sample utterences, and their slots
+First, you must have an account on <a href="https://developer.amazon.com/alexa/console/ask" target="_blank">Alexa Developer Console</a>.  Then create a new skill.  The following are the Intents, followed by their sample utterences, and their slots
 
-| Intent | Sample Utterances | Slots |
+| Intent | Sample Utterances | Slot Name | Slot Type |
 | -------- | ------------------- | ------- |
-| Commands | {command}<br/>Please {command} | USER_COMMAND |
+| Commands | {command}<br/>Please {command} | command } USER_COMMAND |
