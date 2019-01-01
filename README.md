@@ -46,7 +46,7 @@ When this code is git pushed to master branch, it triggers thebestdarngirlsSkill
 </ul>
 
 ## Installation
-First, you must have an account on <a href="https://developer.amazon.com/alexa/console/ask" target="_blank">Alexa Developer Console</a>.  Then create a new skill.  The following are the Intents, followed by their sample utterences, and their slots
+First, you must have an account on the <a href="https://developer.amazon.com/alexa/console/ask" target="_blank">Alexa Developer Console</a>.  Then create a new skill.  The following are the Intents, followed by their sample utterences, and their slots.  Also, you need a a development and production Lambda function for the system to call.  And images in an S3 bucket with CORS turned off.
 
 |  Intent  |   Sample Utterances | Slot Name | Slot Type |
 | -------- | ------------------- | --------- | --------- |
@@ -59,3 +59,9 @@ First, you must have an account on <a href="https://developer.amazon.com/alexa/c
 | USER_COMMAND | main menu<br/>movie options<br/>repeat<br/>good bye |
 | MENU_OPTIONS | Video on Demand<br/>Must Buy<br/>Made for TV<br/>In The Theater |
 | LETTER_CHOICE | 1 through 5 |
+
+To push the code to your Lambda function, you run the following commands
+
+
+## Test
+First, you must have an account on the <a href="https://developer.amazon.com/alexa/console/ask" target="_blank">Alexa Developer Console</a>.
