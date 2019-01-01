@@ -43,3 +43,8 @@ When this code is git pushed to master branch, it triggers thebestdarngirlsSkill
 	<li>index.js</li>
 </ul>
 
+## Installation
+The following are the Intents, followed by their sample utterences, and their slots
+| Intent | Sample Utterances | Slots |
+|--------|-------------------|-------|
+|Commands|{command}<br/>Please {command} | USER_COMMAND |
