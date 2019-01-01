@@ -45,6 +45,14 @@ When this code is git pushed to master branch, it triggers thebestdarngirlsSkill
 
 ## Installation
 The following are the Intents, followed by their sample utterences, and their slots
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+
 | Intent | Sample Utterances | Slots |
 | -------- | ------------------- | ------- |
 | Commands | {command}<br/>Please {command} | USER_COMMAND |
