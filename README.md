@@ -58,4 +58,4 @@ First, you must have an account on <a href="https://developer.amazon.com/alexa/c
 | ---------- | ----- |
 | USER_COMMAND | main menu<br/>movie options<br/>repeat<br/>good bye |
 | MENU_OPTIONS | Video on Demand<br/>Must Buy<br/>Made for TV<br/>In The Theater |
-| LETTER_CHOICE | 1 - 5 |
+| LETTER_CHOICE | 1 through 5 |
