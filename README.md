@@ -21,7 +21,7 @@ Built with
 </ul>
 
 ## Features
-When this code is git pushed to master branch, it triggers thebestdarngirlsSkillPipeline CodePipeline to build the code in the Development Lambda Function.  Once built, it waits for the user to manually test in the Alexa Skills Kit.  If the test is labeled successful, the CodePipeline will build the code in the Production Lambda Function.  This will change the skill to all users. 
+When this code is git pushed to master branch, it triggers your CodePipeline to build the code in the Development Lambda Function.  Once built, it waits for the user to manually test in the Alexa Skills Kit.  If the test is labeled successful, the CodePipeline will build the code in the Production Lambda Function.  This will change the skill to all users. 
 
 ## Releases
 <ul>
@@ -50,7 +50,7 @@ When this code is git pushed to master branch, it triggers thebestdarngirlsSkill
 		</ul>
 	</li>
 	<li>index.js</li>
-	This contaions the code with helper functions for each Intent listed in the next section.
+	This contains the code with helper functions for each Intent listed in the next section.
 </ul>
 
 ## Installation
@@ -72,7 +72,7 @@ To push the code to your Lambda function, you run the following commands
 
 
 ## Test
-First, you must have an account on the <a href="https://developer.amazon.com/alexa/console/ask" target="_blank">Alexa Developer Console</a> to test.  Open your Alexa skill and click the "Test" tab.  To start, say the following invocation "Open The Best Darn Girls".  Then follow the prompts.  Listen for grammar and spelling errors.
+First, you must have an account on the <a href="https://developer.amazon.com/alexa/console/ask" target="_blank">Alexa Developer Console</a> to test.  Open your Alexa skill and click the "Test" tab.  To start, say the following invocation "Open [Invocation of your choice]".  Then follow the prompts.  Listen for grammar and spelling errors.
 
 ## How to use
 Create an account on the Alexa Developer Console and the AWS Management Console.  In the Alexa Developer Console, create a skill with the above mention intents, sample utterances, and slots.  In the AWS Management Console, create 2 Lambda functions with
@@ -89,7 +89,7 @@ cd lambda
 npm install
 zip -r ../OOOOOOO.zip *
 cd ..
-aws lambda update-function-code --function-name DDDDDDD  --zip-file fileb://OOOOOOO.zip --profile personal
+aws lambda update-function-code --function-name DDDDDDD  --zip-file fileb://OOOOOOO.zip 
 
 ```
 Replace the DDDDDDD with your Lambda Dev function.  Replace the OOOOOOO with your desired zip file name.
@@ -99,7 +99,7 @@ cd lambda
 npm install
 zip -r ../OOOOOOO.zip *
 cd ..
-aws lambda update-function-code --function-name PPPPPPP  --zip-file fileb://OOOOOOO.zip --profile personal
+aws lambda update-function-code --function-name PPPPPPP  --zip-file fileb://OOOOOOO.zip 
 
 ```
 Replace the PPPPPPP with your Lambda Prod function.  
