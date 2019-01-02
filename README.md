@@ -21,7 +21,15 @@ Built with
 </ul>
 
 ## Features
-When this code is git pushed to master branch, it triggers thebestdarngirlsSkillPipeline CodePipeline to build the code in the Development Lambda Function.  Once built, it waits for the user to manually test in the Alexa Skills Kit.  If the test is labeled successful, the CodePipeline will build the code in the Production Lambda Function.  This will change the skill to all users.  
+When this code is git pushed to master branch, it triggers thebestdarngirlsSkillPipeline CodePipeline to build the code in the Development Lambda Function.  Once built, it waits for the user to manually test in the Alexa Skills Kit.  If the test is labeled successful, the CodePipeline will build the code in the Production Lambda Function.  This will change the skill to all users. 
+
+## Releases
+<ul>
+	<li><b>Release-1.0.0</b>: Uses Node.js 6.10 without Alexa Skills Cards</li>
+	<li><b>Release-1.1.0</b>: Uses Node.js 6.10 with Alexa Skills Cards</li>
+	<li><b>Release-2.0.0</b>: Uses Node.js 8.10 with Alexa Skills Cards and optimized for the Echo Show and the Echo Spot</li>
+	<li><b>Release-2.0.1</b>: Release-2.0.0 with bug fixes</li>
+</ul> 
 
 ## Code
 <ul>
@@ -64,4 +72,40 @@ To push the code to your Lambda function, you run the following commands
 
 
 ## Test
-First, you must have an account on the <a href="https://developer.amazon.com/alexa/console/ask" target="_blank">Alexa Developer Console</a>.
+First, you must have an account on the <a href="https://developer.amazon.com/alexa/console/ask" target="_blank">Alexa Developer Console</a> to test.  Open your Alexa skill and click the "Test" tab.  To start, say the following invocation "Open The Best Darn Girls".  Then follow the prompts.  Listen for grammar and spelling errors.
+
+## How to use
+Create an account on the Alexa Developer Console and the AWS Management Console.  In the Alexa Developer Console, create a skill with the above mention intents, sample utterances, and slots.  In the AWS Management Console, create 2 Lambda functions with
+<ul>
+	<li>Trigger: Alexa Skills Kit</li>
+	<li>Resources: Amazon CloudWatch Logs</li>
+	<li>Runtime: Node.js 8.10</li>
+	<li>Code entry type: Upload a .zip file</li>
+</ul>
+
+Create a CodePipeline.  The CodeCommit should use your GitHub Repo with this code.  The CodeBuild should run the following steps
+```bash
+cd lambda
+npm install
+zip -r ../OOOOOOO.zip *
+cd ..
+aws lambda update-function-code --function-name DDDDDDD  --zip-file fileb://OOOOOOO.zip --profile personal
+
+```
+Replace the DDDDDDD with your Lambda Dev function.  Replace the OOOOOOO with your desired zip file name.
+Add a manual Testing step to the CodePipeline.  The Test section above will explain how to use the Alexa Developer Console to test.  Finally, add a CodeBuild step to push your code to production. 
+```bash
+cd lambda
+npm install
+zip -r ../OOOOOOO.zip *
+cd ..
+aws lambda update-function-code --function-name PPPPPPP  --zip-file fileb://OOOOOOO.zip --profile personal
+
+```
+Replace the PPPPPPP with your Lambda Prod function.  
+
+## Suggestions
+To make suggestions for code changes, fixes, or updates, please email thebestdarngirls@gmail.com
+
+Credits
+That Darn Girl
