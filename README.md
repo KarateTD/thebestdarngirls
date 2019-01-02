@@ -2,7 +2,7 @@
 This code will create a movie review app for an Alexa skill
 
 ## Motivation
-To create an Alexa skill to coincide with my website, thatdarngirlmovie.reviews.  User will get the last 5 reviews for movies that are <b>In The Theater</b>, <b>Made for TV</b>, <b>Video on Demand</b>, and <b>Must Buy</b>.  
+To create an Alexa skill to coincide with my website, <a href="https://thatdarngirlmovie.reviews/" target="_blank" rel="noopener">thatdarngirlmovie.reviews</a>.  User will get the last 5 reviews for movies that are <b>In The Theater</b>, <b>Made for TV</b>, <b>Video on Demand</b>, and <b>Must Buy</b>.  
 
 ## Technology Used
 Built with
@@ -21,7 +21,7 @@ Built with
 </ul>
 
 ## Features
-When this code is git pushed to master branch, it triggers your CodePipeline to build the code in the Development Lambda Function.  Once built, it waits for the user to manually test in the Alexa Skills Kit.  If the test is labeled successful, the CodePipeline will build the code in the Production Lambda Function.  This will change the skill to all users. 
+When this code is git push'ed to master branch, it triggers your CodePipeline to build the code in the Development Lambda Function.  Once built, it waits for the user to manually test in the Alexa Development Console.  If the test is labeled successful, the CodePipeline will build the code in the Production Lambda Function.  This will change the skill to all production customers. 
 
 ## Releases
 <ul>
@@ -54,7 +54,7 @@ When this code is git pushed to master branch, it triggers your CodePipeline to 
 </ul>
 
 ## Installation
-First, you must have an account on the <a href="https://developer.amazon.com/alexa/console/ask" target="_blank">Alexa Developer Console</a>.  Then create a new skill.  The following are the Intents, followed by their sample utterences, and their slots.  Also, you need a a development and production Lambda function for the system to call.  And images in an S3 bucket with CORS turned off.
+First, you must have an account on the <a href="https://developer.amazon.com/alexa/console/ask" target="_blank">Alexa Developer Console</a>.  Then create a new skill.  The following are the Intents, followed by their sample utterences, and their slots.  Also, you need a a development and production Lambda function for the system to call.  And you need the images in a public S3 bucket with CORS turned off.
 
 |  Intent  |   Sample Utterances | Slot Name | Slot Type |
 | -------- | ------------------- | --------- | --------- |
@@ -67,8 +67,6 @@ First, you must have an account on the <a href="https://developer.amazon.com/ale
 | USER_COMMAND | main menu<br/>movie options<br/>repeat<br/>good bye |
 | MENU_OPTIONS | Video on Demand<br/>Must Buy<br/>Made for TV<br/>In The Theater |
 | LETTER_CHOICE | 1 through 5 |
-
-To push the code to your Lambda function, you run the following commands
 
 
 ## Test
@@ -92,7 +90,7 @@ cd ..
 aws lambda update-function-code --function-name DDDDDDD  --zip-file fileb://OOOOOOO.zip 
 
 ```
-Replace the DDDDDDD with your Lambda Dev function.  Replace the OOOOOOO with your desired zip file name.
+Replace the DDDDDDD with your Lambda Dev function name.  Replace the OOOOOOO with your desired zip file name.
 Add a manual Testing step to the CodePipeline.  The Test section above will explain how to use the Alexa Developer Console to test.  Finally, add a CodeBuild step to push your code to production. 
 ```bash
 cd lambda
@@ -102,10 +100,10 @@ cd ..
 aws lambda update-function-code --function-name PPPPPPP  --zip-file fileb://OOOOOOO.zip 
 
 ```
-Replace the PPPPPPP with your Lambda Prod function.  
+Replace the PPPPPPP with your Lambda Prod function name.  
 
 ## Suggestions
 To make suggestions for code changes, fixes, or updates, please email thebestdarngirls@gmail.com
 
-Credits
+## Credits
 That Darn Girl
