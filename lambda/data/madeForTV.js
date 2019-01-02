@@ -2,7 +2,7 @@ var madeForTV = [
 {
 	"option":"1",
 	"mtitle":"Nightmare Best Friend",
-	"review":"Katy decides to go on a girls trip with her high school best friend, Gina.  When Gina's boyfriend, Ray, joins them, the devil follows.  Katy's girl trip will soon put her entire family in danger. This movie has a strong start but a week ending with everyone fumbling the gun.<br/><br/>3 out of 5 stars.",
+	"review":"Katy decides to go on a girls trip with her high school best friend, Gina.  When Gina's boyfriend, Ray, joins them, the devil follows.  Katy's girls trip will soon put her entire family in danger. This movie has a strong start but a week ending with everyone fumbling the gun.<br/><br/>3 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/nightmarebestfriend.jpeg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/nightmarebestfriend.jpeg"
@@ -20,7 +20,7 @@ var madeForTV = [
 {
 	"option":"3",
 	"mtitle":"The Wrong Teacher",
-	"review":"Charlotte is at a lost for words when she lays eyes on her new student.  It was the guy she dated and had a one-night stand with the night before.  Even though Chris is 18, Charlotte could lose her career and her book deal.  She tries to break it off but Chris won't here it.  Watch this movie for Lee and Lydia.  They say everything you are thinking about Charlotte.  She is making so many mistakes, you don't feel bad for her.<br/><br/>3 out of 5 stars.",
+	"review":"Charlotte is at a lost for words when she lays eyes on her new student.  It was the guy she dated and had an one-night stand with the night before.  Even though Chris is 18, Charlotte could lose her career and her book deal.  She tries to break it off but Chris won't here it.  Watch this movie for Lee and Lydia.  They say everything you are thinking about Charlotte.  She is making so many mistakes, you don't feel bad for her.<br/><br/>3 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thewrongteacher.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thewrongteacher.jpg"

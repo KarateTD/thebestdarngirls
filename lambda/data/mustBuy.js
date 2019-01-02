@@ -2,7 +2,7 @@ var mustBuy = [
 {
 	"option":"1",
 	"mtitle":"Bad Times at the El Royale",
-	"review":"A priest, a singer, a woman, and vacuum salesman check into the bi-state El Royale hotel and casino.  Everyone has secrets and everyone is being watched.  This movie is a 100% thrill ride with so many twists and turns.  Every minute is enjoyable and will keep you guess.  There will be blood.<br/><br/>5 out of 5 stars.",
+	"review":"A priest, a singer, a woman, and vacuum salesman check into the bi-state El Royale hotel and casino.  Everyone has secrets and everyone is being watched.  This movie is a 100% thrill ride with so many twists and turns.  Every minute is enjoyable and will keep you guessing.  There will be blood.<br/><br/>5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/badtimesattheelroyale.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/badtimesattheelroyale.jpg"
