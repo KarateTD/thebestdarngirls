@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
 	"option":"1",
 	"mtitle":"Vice",
-	"review":"Lynne Cheney told her husband to straighten up or she would walk out.  That statement leads him to become the most powerful ghost in U.S. history.  Republicans watch this for the start of Fox News.  Democrats watch this for the Unitary Executive Theory.  Both sides should watch this for the focus groups and ask yourself: Am I leading or am I being lead?<br/><br/>3 out of 5 stars.",
+	"review":"Lynne Cheney told her husband to straighten up or she would walk out.  That statement leads him to become the most powerful ghost in U.S. history.  Republicans watch this for the start of Fox News.  Democrats watch this for the Unitary Executive Theory.  Both sides should watch this for the focus groups and ask yourself: Am I leading or am I being led?<br/><br/>3 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/vice.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/vice.jpg"
@@ -29,7 +29,7 @@ var inTheTheaters = [
 {
 	"option":"4",
 	"mtitle":"Second Act",
-	"review":"Maya wishes her street smarts were enough and her god-son Gil helps.  He gives her a social media make over and she gets an interview.  She sits and gives a honest review of their products and gets hired as a consultant.  But this job, will bring her lies and her past all crashing down.  This movie will emphasis how much validation we put into college degrees.  Also, every seen with Leah is pure gold.  You will wish you had Joan for a friend.  This is a surprisingly good comedy that deserves to be seen.<br/><br/>3.5 out of 5 stars.",
+	"review":"Maya wishes her street smarts were enough and her god-son Gil helps.  He gives her a social media make over and she gets an interview.  She sits and gives a honest review of their products and gets hired as a consultant.  But this job, will bring her lies and her past all crashing down.  This movie will emphasize how much validation we put into college degrees.  Also, every seen with Leah is pure gold.  You will wish you had Joan for a friend.  This is a surprisingly good comedy that deserves to be seen.<br/><br/>3.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/secondact.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/secondact.jpg"
