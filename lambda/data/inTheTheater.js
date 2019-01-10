@@ -7,7 +7,7 @@ var inTheTheaters = [
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/theupside.jpeg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/theupside.jpeg"
 	}
-}
+},
 {
 	"option":"2",
 	"mtitle":"Vice",
