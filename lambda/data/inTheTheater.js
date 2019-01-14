@@ -20,7 +20,7 @@ var inTheTheaters = [
 {
 	"option":"3",
 	"mtitle":"Replicas",
-	"review":"After his family dies in a car crash, Ben, a bio medicine engineer, will use cloning and brain mapping to birng them back.  This movie will reach a cult following in the constant questions of 'what if' and morality.  If you like weird Sci-Fi, see it matinee.  Otherwise, wait for Netflix.<br/><br/>2.5 out of 5 stars.",
+	"review":"After his family dies in a car crash, Ben, a bio medicine engineer, will use cloning and brain mapping to bring them back.  This movie will reach a cult following in the constant questions of 'what if' and morality.  If you like weird Sci-Fi, see it matinee.  Otherwise, wait for Netflix.<br/><br/>2.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/replicas.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/replicas.jpg"
