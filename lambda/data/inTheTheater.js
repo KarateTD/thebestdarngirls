@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
 	"option":"1",
 	"mtitle":"If Beale Street Could Talk",
-	"review":"Tish and Fonny was just about to start their lives together when he is accused of rape.  With a baby on the way, Tish and her family will do anything to get him out.  While you may not like the ending, it is honest.  This movie is beautifully shot but somethings are lost in the audio choices.<br/><br/>3.5 out of 5 stars.",
+	"review":"Tish and Fonny was just about to start their lives together when he is accused of rape.  With a baby on the way, Tish and her family will do anything to get him out.  While you may not like the ending, it is honest.  This movie is beautifully shot but some things are lost in the audio choices.<br/><br/>3.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/ifbealestreetcouldtalk.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/ifbealestreetcouldtalk.jpg"
@@ -11,7 +11,7 @@ var inTheTheaters = [
 {
 	"option":"2",
 	"mtitle":"On the Basis of Sex",
-	"review":"Ruth Bader Ginsburg has fought sex discrimination in a world that doesn't believe it exist.  But when she is present a case where a man is discriminated against because of his gender, she will use that as a stepping stone to take down an unjust system.  This movie will inspire all to see that discrimination can effect everyone and bring out the activist in you.<br/><br/>3.5 out of 5 stars.",
+	"review":"Ruth Bader Ginsburg has fought sex discrimination in a world that doesn't believe it exist.  But when she is presented a case where a man is discriminated against because of his gender, she will use that as a stepping stone to take down an unjust system.  This movie will inspire all to see that discrimination can effect everyone and bring out the activist in you.<br/><br/>3.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/onthebasisofsex.jpeg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/onthebasisofsex.jpeg"
@@ -20,7 +20,7 @@ var inTheTheaters = [
 {
 	"option":"3",
 	"mtitle":"Replicas",
-	"review":"After his family dies in a car crash, Ben, a bio-medicine engineer, will use cloning and brain mapping to birng them back.  This movie will reach a cult following in the constant questions of 'what if' and morality.  If you like weird Sci-Fi, see it matinee.  Otherwise, wait for Netflix.<br/><br/>2.5 out of 5 stars",
+	"review":"After his family dies in a car crash, Ben, a bio medicine engineer, will use cloning and brain mapping to birng them back.  This movie will reach a cult following in the constant questions of 'what if' and morality.  If you like weird Sci-Fi, see it matinee.  Otherwise, wait for Netflix.<br/><br/>2.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/replicas.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/replicas.jpg"
