@@ -1,47 +1,47 @@
 var madeForTV = [
 {
 	"option":"1",
-	"mtitle":"Nightmare Best Friend",
-	"review":"Katy decides to go on a girls trip with her high school best friend, Gina.  When Gina's boyfriend, Ray, joins them, the devil follows.  Katy's girls trip will soon put her entire family in danger. This movie has a strong start but a week ending with everyone fumbling the gun.<br/><br/>3 out of 5 stars.",
+	"mtitle":"Fall Girls",
+	"review":"Tyra, Kiki, Lexi, and Paige wake up to find their boss, Simone, dead.  They will pretend she is alive to find her killer.  This comedy masked as a mystery does have laughs and 2 good twist.  But be warned some the the jokes fall flat.<br/><br/>3 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/nightmarebestfriend.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/nightmarebestfriend.jpeg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fallgirls.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fallgirls.jpg"
 	}
 },
 {
 	"option":"2",
-	"mtitle":"A Midnight Kiss",
-	"review":"Mia has to throw a New Year's Eve party in 8 days after her parents retire and her brother, Jake, is injured.  Jake asks his friend David to help her.  This help will bring clarity to Mia's career and sparks into her love life.  A move that is as funny as it is romantic.  The one kiss is well worth it.<br/><br/>5 out of 5 stars.",
+	"mtitle":"My Mother's Split Personalities",
+	"review":"Gail is trying to hide her 3 other personalities from her daughter, Julie.  However, Julie is starting to notice.  If Gail keeps hiding the truth, her and Julie's lives will be at risk.  While not true to live for people with multiple personality disorders, Lindsay Hartley delivers an amazing performance.  She changes her entire demenor as she changes characters.  Watch today.<br/><br/>4.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/amidnightkiss.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/amidnightkiss.jpeg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mymotherssplitpersonalities.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mymotherssplitpersonalities.jpg"
 	}
 },
 {
 	"option":"3",
-	"mtitle":"The Wrong Teacher",
-	"review":"Charlotte is at a lost for words when she lays eyes on her new student.  It was the guy she dated and slept with the night before.  Even though Chris is 18, Charlotte could lose her career and her book deal.  She tries to break it off but Chris won't here it.  Watch this movie for Lee and Lydia.  They say everything you are thinking about Charlotte.  She is making so many mistakes, you don't feel bad for her.<br/><br/>3 out of 5 stars.",
+	"mtitle":"One Winter Proposal",
+	"review":"While Cara and Ben pick up where they left off, Megan and Shawn never got started.  This sequel will provide character growth, a second chance, and a stunning proposal.  Better than its predecessor, this movie proves the the end is only the beginning and happily ever after takes time.<br/><br/>3.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thewrongteacher.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thewrongteacher.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/onewinterproposal.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/onewinterproposal.jpg"
 	}
 },
 {
 	"option":"4",
-	"mtitle":"When Calls the Heart: The Great Christmas Blessing",
-	"review":"Elizabeth is having a hard time preparing for the baby without Jack. Abagail and Rosemary are busy with the town's Christmas Eve feast.  Although the town is busy, they notice when Grace and Lily come to town with 8 children.  But when Bill starts asking questions, they learn their should be 7 children, not 8.  This discovery will lead to 2 Christmas blessings.<br/><br/>4.5 out of 5 stars.",
+	"mtitle":"A Bride's Revenge",
+	"review":"Ian's fiance Maya is being stalked by his ex-fiance Lori.  But when Lori has an alibi, who can he believe.  This great build up is ruined by a final fight that falls flat.<br/><br/>3 out of 5 stars",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whentheheartcalls.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whentheheartcalls.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thebridesrevenge.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thebridesrevenge.jpg"
 	}
 },
 {
 	"option":"5",
-	"mtitle":"Christmas Made to Order",
-	"review":"Aspiring holiday decorator, Gretchen makes an accidental impression on Steven.  So much, that he hires her to decorate his home for his impromptu family visit.  When his family is disappointed because they wanted more quality time, he hires Gretchen to be the Christmas Ambassador.  This movie is more than a holiday love story.  It's about living up to your expectations versus the expectations of others.  This will become a true favorite.<br/><br/>4.5 out of 5 stars.",
+	"mtitle":"Winter Castle",
+	"review":"Jenny's sister Meagan is getting married at the Ice Hotel in 4 weeks.  But Meagan wants to set Jenny up with the best man Craig.  The only problem is Craig brought a plus one.  This movie's predictability is saved by a cute kid.<br/><br/>3 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/chrismasmadetoorder.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/chrismasmadetoorder.jpeg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/wintercastle.jpeg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/wintercastle.jpeg"
 	}
 }
 ];
