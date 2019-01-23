@@ -2,7 +2,7 @@ var mustBuy = [
 {
     "option":"1",
     "mtitle":"The Hate U Give",
-    "review":"After witnessing her friend, Khalil being shot by a police officer, Starr must determine if she should talk or remain quiet.  Her family, her friends, and her safety all hang in the balance.  This movie covers so many topics in 2 hours.  It covers police brutality, racism, no snitching, gang violence, the talk, and inherited hatred.  You should not pass judgement on this movie before you see it.<br/><br/>4.5 out of 5 stars.",
+    "review":"After witnessing her friend, Khalil, being shot by a police officer, Starr must determine if she should talk or remain quiet.  Her family, her friends, and her safety all hang in the balance.  This movie covers so many topics in 2 hours.  It covers police brutality, racism, no snitching, gang violence, the talk, and inherited hatred.  You should not pass judgement on this movie before you see it.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thehateugive.jpeg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thehateugive.jpeg"
