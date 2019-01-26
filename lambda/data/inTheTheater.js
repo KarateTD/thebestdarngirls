@@ -1,5 +1,14 @@
 var inTheTheaters = [
 {
+    "option":"1",
+    "mtitle":"The Kid Who Would Be King",
+    "review":"After finding Excalibur, Alex has 4 days to gather his knights, finds a magical portal, and defeat King Authur's evil half-sister Morgana.  If he loses, the world will be her slaves.  Don't miss the first 2 minutes for a brief King Authur recap.  This movie wonderfully stitches together computer animation and the real world with lots of laughs.  See it with the family.<br/><br/>3 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thekidwhowouldbeking.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thekidwhowouldbeking.jpg"
+    }
+},
+{
 	"option":"1",
 	"mtitle":"If Beale Street Could Talk",
 	"review":"Tish and Fonny was just about to start their lives together when he is accused of rape.  With a baby on the way, Tish and her family will do anything to get him out.  While you may not like the ending, it is honest.  This movie is beautifully shot but some things are lost in the audio choices.<br/><br/>3.5 out of 5 stars.",
