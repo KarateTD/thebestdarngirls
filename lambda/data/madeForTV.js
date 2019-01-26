@@ -29,7 +29,7 @@ var madeForTV = [
 {
     "option":"4",
     "mtitle":"When Vows Break",
-    "review":"When her sister Ella goes missing on her honeymoon, Lydia suspects her abusive husband Tolin killed her.  She digs up dirt and finds investigators to help with the search for answers.  But when her digging pulls up the truth, can she keep telling a lie? This movie doesn't save the twist for the last 5 minutes.  It basis the plot on the twist.  It gives the viewer a great conundrum to solve.<br/><br/>3.5 out of 5 stars.",
+    "review":"When her sister Ella goes missing on her honeymoon, Lydia suspects her abusive husband Tolin killed her.  She digs up dirt and finds investigators to help with the search for answers.  But when her digging pulls up the truth, can she keep telling a lie? This movie doesn't save the twist for the last 5 minutes.  It basis the plot around the twist.  It gives the viewer a great conundrum to solve.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whenvowsbreak.png",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whenvowsbreak.png"
