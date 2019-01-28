@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"The LEGO Movie 2: The Second Part",
-    "review":"In 5 years, the Systar aliens have changed Bricksburg to Apocalypseburg.  Now General Sweet Mayhem has kidnapped Emmet's friends to convince Batman to marry Queen Watevra Wa-Nabi.  Emmet must save his friends before his dark premonition comes true.  This is how sequels should be done.  It is funnier, more sincere, and better built than the first.  While there is no need to stay after the end credits, you should stay for the credit song.  And no matter how hard you try, the Catchy Song will stay with you..<br/><br/>5 out of 5 stars.",
+    "review":"In 5 years, the Systar aliens have changed Bricksburg to Apocalypseburg.  Now General Sweet Mayhem has kidnapped Emmet's friends to convince Batman to marry Queen Watevra Wa-Nabi.  Emmet must save his friends before his dark premonition comes true.  This is how sequels should be done.  It is funnier, more sincere, and better built than the first.  While there is no need to stay after the end credits, you should stay for the credit song.  And no matter how hard you try, the Catchy Song will stay with you.<br/><br/>5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thelegomovie2thesecondpart.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thelegomovie2thesecondpart.jpg"
@@ -11,7 +11,7 @@ var inTheTheaters = [
 {
     "option":"2",
     "mtitle":"Serenity",
-    "review":"Baker is faced with a moral dilemma when his ex-wife Karen ask him to kill her new husband Frank.  She doesn't want Baker to kill him for the abuse, she wants Baker to do it for their son Patrick.  Patrick and Baker share a unique connection.  When Baker gets a visit from Reid, Baker's world is turned upside down.  This is the most confusing movie since Inception.  You will leave the theater with more questions than answers.<br/><br>2 out of 5 stars",
+    "review":"Baker is faced with a moral dilemma when his ex-wife Karen ask him to kill her new husband Frank.  She doesn't want Baker to kill him for the abuse, she wants Baker to do it for their son Patrick.  Patrick and Baker share a unique connection.  When Baker gets a visit from Reid, Baker's world is turned upside down.  This is the most confusing movie since Inception.  You will leave the theater with more questions than answers.<br/><br/>2 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/serenity.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/serenity.jpg"
