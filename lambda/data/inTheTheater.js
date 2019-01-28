@@ -11,7 +11,7 @@ var inTheTheaters = [
 {
     "option":"2",
     "mtitle":"Serenity",
-    "review":"Baker is faced with a moral dilemma when his ex-wife Karen ask him to kill her new husband Frank.  She doesn't want Baker to kill him for the abuse, she wants Baker to do it for their son Patrick.  Patrick and Baker share a unique connection.  When Baker gets a visit from Reid, Baker's world is turned upside down.  This is the most confusing movie since Inception.  You will leave the theater with more questions than answers.<br/><br/>2 out of 5 stars.",
+    "review":"Baker is faced with a moral dilemma when his ex-wife, Karen, ask him to kill her new husband Frank.  She doesn't want Baker to kill him for the abuse, she wants Baker to do it for their son Patrick.  Patrick and Baker share a unique connection.  When Baker gets a visit from Reid, Baker's world is turned upside down.  This is the most confusing movie since Inception.  You will leave the theater with more questions than answers.<br/><br/>2 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/serenity.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/serenity.jpg"

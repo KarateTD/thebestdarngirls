@@ -11,7 +11,7 @@ var madeForTV = [
 {
     "option":"2",
     "mtitle":"SnowComing",
-    "review":"Samantha comes back to her hometown hoping to avoid her ex-boyfriend and superstar athlete Jake.  Only to learn Jake is staying at her dad's house.  As they help prepare for SnowComing, the spark between Jack and Samantha grow.  But can one nosey reporter bring it all down?  The individual stories of the characters' growth is more interesting than the love story.  It follows the Hallmark format too closely but their growth saves the movie.<br/><br/>3.5 out of 5 stars.",
+    "review":"Samantha comes back to her hometown hoping to avoid her ex-boyfriend and superstar athlete Jake.  Only to learn Jake is staying at her dad's house.  As they help prepare for SnowComing, the spark between Jake and Samantha grow.  But can one nosey reporter bring it all down?  The individual stories of the characters' growth is more interesting than the love story.  It follows the Hallmark format too closely but their growth saves the movie.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/snowcoming.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/snowcoming.jpg"
@@ -29,7 +29,7 @@ var madeForTV = [
 {
     "option":"4",
     "mtitle":"Bixler High Private Eye",
-    "review":"Xander heads to Bixler to find his missing father.  When the trail goes cold Xander will need his classmate, Margaret, his grandpa, and a dog to find his father.  This movie is a funny, educational, and well-written mystery.  It keeps the viewer guessing while learning.  The movie could become a TV show or a film series.<br/><br/>4.5 out of 5 stars.",
+    "review":"Xander heads to Bixler to find his missing father.  When the trail goes cold, Xander will need his classmate, Margaret, his grandpa, and a dog to find his father.  This movie is a funny, educational, and well-written mystery.  It keeps the viewer guessing while learning.  The movie could become a TV show or a film series.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/bixlerhighprivateeye.png",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/bixlerhighprivateeye.png"
@@ -38,7 +38,7 @@ var madeForTV = [
 {
     "option":"5",
     "mtitle":"Deadly Match",
-    "review":"Trina creates an app to earn money for school.  However, when she discovers its being used for prostitution she wants to shut it down.  Then she learns her friend Jade was a call-girl and her killer maybe a member of the app.  She decides to keep the app open and find the killer.  Unlike most mysteries, no hint of the killer is given until the last 10 minutes.  You will have fun speculating with each new person who enters Trina's life.<br/><br/>4 out of 5 stars.",
+    "review":"Trina creates an app to earn money for school.  However, when she discovers it is being used for prostitution she wants to shut it down.  Then she learns her friend Jade was a call-girl and her killer maybe a member of the app.  She decides to keep the app open and find the killer.  Unlike most mysteries, no hint of the killer is given until the last 10 minutes.  You will have fun speculating with each new person who enters Trina's life.<br/><br/>4 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/deadlymatch.jpeg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/deadlymatch.jpeg"
