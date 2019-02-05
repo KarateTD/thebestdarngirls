@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"How to Train Your Dragon: The Hidden World",
-    "review":"Grimmel thought he killed all but one of the Night Furies.   When he hears of Toothless's existence, he decides to use his Light Fury to bait him.  Seeing that Berk is overpopulated with dragons and knowing of Grimmel's plan, Hiccup decides to finds the hidden world his father, Stoick, talked about when he was a young boy.  There the residents of Berk and their dragons can live in peace and safety with room for all.  The final installment of the How to Train Your Dragon franchise, answers all questions about their characters' futures.  It is beautifully drawn and concluded even though some jokes fall flat.<br/><br/>3.5 out of 5 stars.",
+    "review":"Grimmel thought he killed all but one of the Night Furies.   When he hears of Toothless's existence, he decides to use his Light Fury to bait him.  Seeing that Berk is overpopulated with dragons and knowing of Grimmel's plan, Hiccup decides to find the hidden world his father, Stoick, talked about when he was a young boy.  There, the residents of Berk and their dragons can live in peace and safety with room for all.  The final installment of the How to Train Your Dragon franchise, answers all questions about their characters' futures.  It is beautifully drawn and concluded even though some jokes fall flat.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/howtotrainyourdragon.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/howtotrainyourdragon.jpg"
