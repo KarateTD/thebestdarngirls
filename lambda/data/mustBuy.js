@@ -1,6 +1,15 @@
 var mustBuy = [
 {
-    "option":"1",
+	"option":"1",
+	"mtitle":"Widows",
+	"review":"When Veronica's husband Harry dies after robbing a local gangster, she inherits his debt.  She must assemble a crew to save her life.  This bloody tale is unlike any with a female crew.  And the level of corruption is unexpected.<br/><br/>4 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/widows.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/widows.jpg"
+	}
+},
+{
+    "option":"2",
     "mtitle":"The Hate U Give",
     "review":"After witnessing her friend, Khalil, being shot by a police officer, Starr must determine if she should talk or remain quiet.  Her family, her friends, and her safety all hang in the balance.  This movie covers so many topics in 2 hours.  It covers police brutality, racism, no snitching, gang violence, the talk, and inherited hatred.  You should not pass judgement on this movie before you see it.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
 },
 {
-	"option":"2",
+	"option":"3",
 	"mtitle":"Bad Times at the El Royale",
 	"review":"A priest, a singer, a woman, and vacuum salesman check into the bi-state El Royale hotel and casino.  Everyone has secrets and everyone is being watched.  This movie is a 100% thrill ride with so many twists and turns.  Every minute is enjoyable and will keep you guessing.  There will be blood.<br/><br/>5 out of 5 stars.",
 	"image":{
@@ -18,7 +27,7 @@ var mustBuy = [
 	}
 },
 {
-	"option":"3",
+	"option":"4",
 	"mtitle":"White Boy Rick",
 	"review":"Rick was given a choice, help the FBI or your dad will go to jail for 10 years.  This decision will leave a sad mark in the record book.  When watching this movie, ask yourself who is to blame for Rick's rise in the drug world.  Rick, his dad, or the government.  This movie is a different kind of cautionary tale.<br/><br/>4 out of 5 stars.",
 	"image":{
@@ -27,21 +36,12 @@ var mustBuy = [
 	}
 },
 {
-	"option":"4",
+	"option":"5",
 	"mtitle":"A Simple Favor",
 	"review":"Stephanie unexpectedly becomes friends with Emily.  But when Emily goes missing, Stephanie will learn how little she truly knew her.  This movie isn't just a roller coaster ride, it's the entire theme park.  It has love, sex, lies, and murder.  See it now.<br/><br/>5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/asimplefavor.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/asimplefavor.jpg"
-	}
-},
-{
-	"option":"5",
-	"mtitle":"SMALLFOOT",
-	"review":"Migo dreams of being the next gong-banger.  Later, when a practice run fails but the sun still comes up, he goes down the mountain to question the stone keeper.  That's when he finds the so-called Smallfoot.  This is a great movie about the power and the constraint of belief.  Watch it with your kids today.<br/><br/>4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/smallfoot.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/smallfoot.jpg"
 	}
 }
 ];
@@ -77,16 +77,6 @@ module.exports = mustBuy;
 }
 
 {
-	"option":"3",
-	"mtitle":"Widows",
-	"review":"When Veronica's husband Harry dies after robbing a local gangster, she inherits his debt.  She must assemble a crew to save her life.  This bloody tale is unlike any with a female crew.  And the level of corruption is unexpected.<br/><br/>4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/widows.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/widows.jpg"
-	}
-}
-
-{
 	"option":"2",
 	"mtitle":"Green Book",
 	"review":"Dr. Shirley hires Tony 'Lip' Vallelonga to drive him for his tour in the deep south.  Seeing prejudice there uncovers the prejudice feelings in themselves.  This movie is Oscar worthy with enough heart and life lessons to carry with you for a lifetime.<br/><br/>4.5 out of 5 stars.",
@@ -104,5 +94,15 @@ module.exports = mustBuy;
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/spidermanintothespiderverse.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/spidermanintothespiderverse.jpg"
 	}
+}
+
+{
+    "option":"1",
+    "mtitle":"The LEGO Movie 2: The Second Part",
+    "review":"In 5 years, the Systar aliens have changed Bricksburg to Apocalypseburg.  Now General Sweet Mayhem has kidnapped Emmet's friends to convince Batman to marry Queen Watevra Wa-Nabi.  Emmet must save his friends before his dark premonition comes true.  This is how sequels should be done.  It is funnier, more sincere, and better built than the first.  While there is no need to stay after the end credits, you should stay for the credit song.  And no matter how hard you try, the Catchy Song will stay with you.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thelegomovie2thesecondpart.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thelegomovie2thesecondpart.jpg"
+    }
 }
 */
