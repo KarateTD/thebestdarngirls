@@ -105,4 +105,14 @@ module.exports = mustBuy;
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thelegomovie2thesecondpart.jpg"
     }
 }
+
+{
+    "option":"2",
+    "mtitle":"Miss Bala",
+    "review":"In order to save her friend, Suzu, Gloria is put in between a rock and a hard place.  Gloria is threaten to work with drug lord Lino to get information about Suzu.  She unintentionally blows up a DEA safe house.  In an attempt to get help, she gets threaten by the DEA.  So, she is risking life or jail to find her friend.  This movie is 15 minutes of set up and the rest all action.  Once it gets going, it never stops.  And it has more twist and turns than a soap opera.  See it today and hope for a part 2.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/missbala.png",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missbala.png"
+    }
+}
 */
