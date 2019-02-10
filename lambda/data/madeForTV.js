@@ -2,7 +2,7 @@ var madeForTV = [
 {
     "option":"1",
     "mtitle":"Victoria Gotti: My Father's Daughter",
-    "review":"Narrated by Victoria Gotti, she walks you through her guarded childhood to her defiant teen years to her adulthood of painful events.  Through it all, Victoria has been a lioness.  Now don't be fool, this isn't another veiled story about John Gotti.  It's the story of their unique father-daughter relationship.  It will be hard to watch this movie without shedding a tear.  But one thing is for sure, her upbringing helped her survive her life.<br/><br/>5 out of 5 stars.",
+    "review":"Narrated by Victoria Gotti, she walks you through her guarded childhood to her defiant teen years to her adulthood of painful events.  Through it all, Victoria has been a lioness.  Now, don't be fooled.  This isn't another veiled story about John Gotti.  It's the story of their unique father-daughter relationship.  It will be hard to watch this movie without shedding a tear.  But one thing is for sure, her upbringing helped her survive her life.<br/><br/>5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/victorygottimyfathersdaughter.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/victorygottimyfathersdaughter.jpg"
@@ -20,7 +20,7 @@ var madeForTV = [
 {
     "option":"3",
     "mtitle":"In Bed with a Killer",
-    "review":"Lena and her daughter, Ashley, move into a small community.  Heather tells Lena she believes that Mike killed her friend, Beth, and covered his tracks.  Lena believes Heather needs to find a new hobby and stop spreading rumors.  But when more women in town go missing, will Lena be next? Normally as soon as the protagonist hears about a crime, they are first into investigate.  Lena brushes off the rumors and tries to live her life.  This slight change separates this movie from the rest and give it more mystery for the viewer.<br/><br/>3.5 out of 5 stars.",
+    "review":"Lena and her daughter, Ashley, move into a small community.  Heather tells Lena she believes that Mike killed her friend, Beth, and covered his tracks.  Lena believes Heather needs to find a new hobby and stop spreading rumors.  But when more women in town go missing, will Lena be next? Normally as soon as the protagonist hears about a crime, they are first to investigate.  Lena brushes off the rumors and tries to live her life.  This slight change separates this movie from the rest and give it more mystery for the viewer.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/inbedwithakiller.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/inbedwithakiller.jpg"
@@ -29,7 +29,7 @@ var madeForTV = [
 {
     "option":"4",
     "mtitle":"Valentine in the Vineyard",
-    "review":"Nate and Frankie are excited to tell their family about their engagement but her cousin, Lexi, beats them to the punch with an engagement announcement of her own.  After learning Lexi will get married in 4 weeks, they decide to keep their engagement a secret.  But their communication starts to break down, can Frankie and Nate's engagement and vineyard survive?  This movie is the most well written Hallmark movie today.  It takes an honest look at relationships while being funny.  Watch it today.<br/><br/>5 out of 5 stars.",
+    "review":"Nate and Frankie are excited to tell their family about their engagement but her cousin, Lexi, beats them to the punch with an engagement announcement of her own.  After learning Lexi will get married in 4 weeks, they decide to keep their engagement a secret.  But their communication starts to break down, can Frankie and Nate's engagement and vineyard survive?  This movie is the most well written Hallmark movie to date.  It takes an honest look at relationships while being funny.  Watch it today.<br/><br/>5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/valentineinthevineyard.jpeg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/valentineinthevineyard.jpeg"
