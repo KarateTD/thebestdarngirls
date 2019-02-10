@@ -11,7 +11,7 @@ var madeForTV = [
 {
     "option":"2",
     "mtitle":"The Story of Us",
-    "review":"Sawyer must convince his ex-girlfriend Jamie to let his company revamp the town.  But she isn't having it.  Jamie fines a card keepsake box and will use it to get the town to rally behind her.  This movie feels like a long commercial for their new keepsake box than a new movie.  The movie has funny moments but they are just not memorable.<br/><br/>2.5 out of 5 stars.",
+    "review":"Sawyer must convince his ex-girlfriend Jamie to let his company revamp the town.  But she isn't having it.  Jamie finds a card keepsake box and will use it to get the town to rally behind her.  This movie feels like a long commercial for their new keepsake box than a new movie.  The movie has funny moments but they are just not memorable.<br/><br/>2.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thestoryofus.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thestoryofus.jpg"
