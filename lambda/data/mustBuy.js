@@ -1,6 +1,15 @@
 var mustBuy = [
 {
-	"option":"1",
+    "option":"1",
+    "mtitle":"Bohemian Rhapsody",
+    "review":"Farrokh Bulsara changes his name to Freddie Mercury, quit his job, and met a band after seeing them perform.  This chance encounter would bless the world wih some of the best music written to date.  This movie is billed as the story of Queen but it is really an autobiography of Freddie Mercury.  Watching is rise, fall, and redemption is amazing and easy for you to sing along.  Watch this movie now and get your vocal cords ready.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/bohemainrhapsody.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/bohemainrhapsody.jpg",
+    }
+},
+{
+	"option":"2",
 	"mtitle":"Widows",
 	"review":"When Veronica's husband Harry dies after robbing a local gangster, she inherits his debt.  She must assemble a crew to save her life.  This bloody tale is unlike any with a female crew.  And the level of corruption is unexpected.<br/><br/>4 out of 5 stars.",
 	"image":{
@@ -9,7 +18,7 @@ var mustBuy = [
 	}
 },
 {
-    "option":"2",
+    "option":"3",
     "mtitle":"The Hate U Give",
     "review":"After witnessing her friend, Khalil, being shot by a police officer, Starr must determine if she should talk or remain quiet.  Her family, her friends, and her safety all hang in the balance.  This movie covers so many topics in 2 hours.  It covers police brutality, racism, no snitching, gang violence, the talk, and inherited hatred.  You should not pass judgement on this movie before you see it.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
 },
 {
-	"option":"3",
+	"option":"4",
 	"mtitle":"Bad Times at the El Royale",
 	"review":"A priest, a singer, a woman, and vacuum salesman check into the bi-state El Royale hotel and casino.  Everyone has secrets and everyone is being watched.  This movie is a 100% thrill ride with so many twists and turns.  Every minute is enjoyable and will keep you guessing.  There will be blood.<br/><br/>5 out of 5 stars.",
 	"image":{
@@ -27,21 +36,12 @@ var mustBuy = [
 	}
 },
 {
-	"option":"4",
+	"option":"5",
 	"mtitle":"White Boy Rick",
 	"review":"Rick was given a choice, help the FBI or your dad will go to jail for 10 years.  This decision will leave a sad mark in the record book.  When watching this movie, ask yourself who is to blame for Rick's rise in the drug world.  Rick, his dad, or the government.  This movie is a different kind of cautionary tale.<br/><br/>4 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whiteboyrick.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whiteboyrick.jpg"
-	}
-},
-{
-	"option":"5",
-	"mtitle":"A Simple Favor",
-	"review":"Stephanie unexpectedly becomes friends with Emily.  But when Emily goes missing, Stephanie will learn how little she truly knew her.  This movie isn't just a roller coaster ride, it's the entire theme park.  It has love, sex, lies, and murder.  See it now.<br/><br/>5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/asimplefavor.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/asimplefavor.jpg"
 	}
 }
 ];
