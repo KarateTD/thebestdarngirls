@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"Alita: Battle Angel",
-    "review":"After Dr. Ido finds her intact, functional brain in a scrap yard, Alita must battle to recover her memory and her drive for the future.  This movie surpasses Avatar visually while having the drama of a teen film and the action of NASCAR.  It ends on a cliff-hanger and should be seen in Dolby.<br/><br/>3.5 out of 5 stars",
+    "review":"After Dr. Ido finds her functional brain in a scrap yard, Alita must battle to recover her memory and her drive for the future.  This movie surpasses Avatar visually while having the drama of a teen film and the action of NASCAR.  It ends on a cliff-hanger and should be seen in Dolby.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/alitabattleangel.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/alitabattleangel.jpg"
