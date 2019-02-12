@@ -7,7 +7,7 @@ var inTheTheaters = [
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/alitabattleangel.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/alitabattleangel.jpg"
     }
-}
+},
 {
     "option":"2",
     "mtitle":"Cold Pursuit",
