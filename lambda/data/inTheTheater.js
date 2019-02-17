@@ -11,7 +11,7 @@ var inTheTheaters = [
 {
     "option":"2",
     "mtitle":"Happy Death Day 2 U",
-    "review":"Ryan is killed and wakes up in the same day.  When he tells Tree and Carter, they know exactly what's happening to him.  Like Tree, he will have to keep dying to figure out who killed him.  But after a science experiment goes awry, Tree is back to her original loop but in a different dimension.  Now, she has to solve her murder again to stop the loop but she may want to stay in this new dimension.  This sci-fi twist to a suspense movie is long and boring.  Instead of the loop making Tree a better person, it was a fluke.  If you are a fan of the first or not, wait for Redbox.<br/><br/>2 out of 5 stars",
+    "review":"Ryan is killed and wakes up in the same day.  When he tells Tree and Carter, they know exactly what's happening to him.  Like Tree, he will have to keep dying to figure out who killed him.  But after a science experiment goes awry, Tree is back to her original loop but in a different dimension.  Now, she has to solve her murder again to stop the loop but she may want to stay in this new dimension.  This sci-fi twist to a suspense movie is long and boring.  Instead of the loop making Tree a better person, it was a fluke.  If you are a fan of the first or not, wait for Redbox.<br/><br/>2 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/happydeathday2u.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/happydeathday2u.jpg"
