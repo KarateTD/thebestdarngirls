@@ -1,47 +1,47 @@
 var madeForTV = [
 {
     "option":"1",
-    "mtitle":"Victoria Gotti: My Father's Daughter",
-    "review":"Narrated by Victoria Gotti, she walks you through her guarded childhood to her defiant teen years to her adulthood of painful events.  Through it all, Victoria has been a lioness.  Now, don't be fooled.  This isn't another veiled story about John Gotti.  It's the story of their unique father-daughter relationship.  It will be hard to watch this movie without shedding a tear.  But one thing is for sure, her upbringing helped her survive her life.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Olivia Newton-John: Hopelessly Devoted to You",
+    "review":"Olivia has to navigate through career highs and life lows.  She has to gain control over her career and her health simultaneously.  While most would crumble under the pressure, she thrived and inspired other.  Let this movie inspire you.  Olivia Newton-John's fans will learn something new about her and others will discover a new role model.<br/><br/>5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/victorygottimyfathersdaughter.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/victorygottimyfathersdaughter.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/olivianewtonjohnhopelesslydevotedtoyou.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/olivianewtonjohnhopelesslydevotedtoyou.jpg"
     }
 },
 {
     "option":"2",
-    "mtitle":"The Story of Us",
-    "review":"Sawyer must convince his ex-girlfriend Jamie to let his company revamp the town.  But she isn't having it.  Jamie finds a card keepsake box and will use it to get the town to rally behind her.  This movie feels like a long commercial for their new keepsake box than a new movie.  The movie has funny moments but they are just not memorable.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"Love, Romance, and Chocolate",
+    "review":"Emma goes to Bruges and finds a chocolatier need of inspiration.  The winning chocolate with get a trip to the palace, the title of Royal Chocolatier, and instant business.  Luc needs the boost and Emma needs the trip.  They will bond and make chocolate with a hint of love.  This movie is interesting because you learn about chocolate tasting and will be presented a good bad guy.  Other than that, it's a normal lifetime movie.<br/><br/>3 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thestoryofus.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thestoryofus.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/loveromanceandchocolate.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/loveromanceandchocolate.jpeg"
     }
 },
 {
     "option":"3",
-    "mtitle":"In Bed with a Killer",
-    "review":"Lena and her daughter, Ashley, move into a small community.  Heather tells Lena she believes that Mike killed her friend, Beth, and covered his tracks.  Lena believes Heather needs to find a new hobby and stop spreading rumors.  But when more women in town go missing, will Lena be next? Normally as soon as the protagonist hears about a crime, they are first to investigate.  Lena brushes off the rumors and tries to live her life.  This slight change separates this movie from the rest and give it more mystery for the viewer.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Kim Possible",
+    "review":"Dr. Draken has conjured is most evil plan yet.  He wants to steal Kim Possible's spark.  Without it, she will never be able to defeat him.  And it's possible with Kim starting high school.  Kim must defeat Dr. Draken and Drago with the help of a new friend Athena.  Kim Possible fans will get the theme music, catchphrases, and guest appearence you crave.  But remember, this is a new story that uses the old as a template, not a starting point.  So, come in with fresh eyes to a potential new live-action Kim Possible.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/inbedwithakiller.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/inbedwithakiller.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/kimpossible.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/kimpossible.jpg"
     }
 },
 {
     "option":"4",
-    "mtitle":"Valentine in the Vineyard",
-    "review":"Nate and Frankie are excited to tell their family about their engagement but her cousin, Lexi, beats them to the punch with an engagement announcement of her own.  After learning Lexi will get married in 4 weeks, they decide to keep their engagement a secret.  But their communication starts to break down, can Frankie and Nate's engagement and vineyard survive?  This movie is the most well written Hallmark movie to date.  It takes an honest look at relationships while being funny.  Watch it today.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Killer Reputation",
+    "review":"Garret, an action star, is suspected of murdering is estranged wif.<br/><br/>1 out of 5 stars",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/valentineinthevineyard.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/valentineinthevineyard.jpeg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/killerreputation.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/killerreputation.jpg"
     }
 },
 {
     "option":"5",
-    "mtitle":"Death of a Cheerleader",
-    "review":"Nina recalls the events that lead to her being accused of murdering Kelly, a straight A, cheerleader with a bright future and hurtful words.  Before Kelly's murder, Nina changed her looks and threaten Kelly.  When the killer is brought to light, the small, upper-class, perfect town is rocked.  The remake of the 1994 classic, based on a true story, is told from a different perspective but with no real revelations.  Fans of the original won't get the ski trip or mayo scene.  However, the crime is just as bloody and it will make you want to watch the original, now available for Amazon Prime members.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Emma Fielding Mysteries: More Bitter Than Death",
+    "review":"Emma becomes a prime suspects when her boss, Althea, is murdered before she announces her successor.  Now, Emma must navigate a secret tunnel, a secret society, and the bible to solve this mystery.  This movie is closer to Indiana Jones than any other.  It gives you enough suspects to be engaged and intrigued.  Also, Emma's ex-fiance is added to the mix.<br/><br/>4 out of 5 stars",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/deathofacheerleader.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/deathofacheerleader.jpeg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/emmafieldingmysterymorebitterthandeath.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/emmafieldingmysterymorebitterthandeath.jpeg"
     }
 }
 ];

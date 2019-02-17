@@ -118,11 +118,11 @@ module.exports = mustBuy;
 
 {
     "option":"1",
-    "mtitle":"Bohemian Rhapsody",
-    "review":"Farrokh Bulsara changes his name to Freddie Mercury, quit his job, and met a band after hearing them perform.  This chance encounter would bless the world wih some of the best music written to date.  This movie is billed as the story of Queen but it is really an autobiography of Freddie Mercury.  Watching is rise, fall, and redemption is amazing and easy for you to sing along.  Watch this movie now and get your vocal cords ready.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"A Star is Born",
+    "review":"Jack Maine leaves walks off a sold out stage and heads straight to the nearest bar.  He ends up in a drag bar and watches Ally perform.  Blown away by her voice, he wonders why she has tried.  She says her looks have stopped her.  He invites her to his next show and puts her voice on display for the world to hear.  As her star rises, can he handle the exchange of fame? This movie will pull at the heart string, inspire hope, and bring awareness to mental illness.  You will never be tired of watching this masterpiece.<br/><br/>4.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/bohemainrhapsody.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/bohemainrhapsody.jpg",
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/astarisborn.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/astarisborn.jpg"
     }
 }
 */
