@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"Isn't It Romantic",
-    "review":"Natalie believes that romantic comedies are bad for women because they are unrealistic and cliche.  When an accident leaves her stuck in a romantic comedy, she must follow the cliches to get a man to fall in love with her and get out.  This movie makes fun of each cliche as Natalie performs them.  It's funny because Natalie is saying exactly what you are thinking.  Using Pretty Woman, The Wedding Singer, and other romantic classics, this movie is a date night movie for those who love and hate romantic comedies.  It's not a classic but it's fun to watch.<br/><br/>3 out of 5 stars",
+    "review":"Natalie believes that romantic comedies are bad for women because they are unrealistic and cliche.  When an accident leaves her stuck in a romantic comedy, she must follow the cliches to get a man to fall in love with her and get out.  This movie makes fun of each cliche as Natalie performs them.  It's funny because Natalie is saying exactly what you are thinking.  Using Pretty Woman, The Wedding Singer, and other romantic classics, this movie is a date night movie for those who love and hate romantic comedies.  It's not a classic but it's fun to watch.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/isntitromantic.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/isntitromantic.jpg"

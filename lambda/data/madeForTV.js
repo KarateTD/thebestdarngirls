@@ -11,7 +11,7 @@ var madeForTV = [
 {
     "option":"2",
     "mtitle":"Love, Romance, and Chocolate",
-    "review":"Emma goes to Bruges and finds a chocolatier need of inspiration.  The winning chocolate with get a trip to the palace, the title of Royal Chocolatier, and instant business.  Luc needs the boost and Emma needs the trip to the palace.  They will bond and make chocolate with a hint of love.  This movie is interesting because you learn about chocolate tasting and will be presented a decent bad guy.  Other than that, it's a normal lifetime movie.<br/><br/>3 out of 5 stars.",
+    "review":"Emma goes to Bruges and finds a chocolatier need of inspiration.  The winning chocolate with get a trip to the palace, the title of Royal Chocolatier, and instant business.  Luc needs the boost and Emma needs the trip to the palace.  They will bond and make chocolate with a hint of love.  This movie is interesting because you learn about chocolate tasting and will be presented a decent bad guy.  Other than that, it's a normal Hallmark movie.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/loveromanceandchocolate.jpeg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/loveromanceandchocolate.jpeg"
@@ -20,7 +20,7 @@ var madeForTV = [
 {
     "option":"3",
     "mtitle":"Kim Possible",
-    "review":"Dr. Draken has conjured is most evil plan yet.  He wants to steal Kim Possible's spark.  Without it, she will never be able to defeat him.  And it's possible with Kim starting high school.  Kim must defeat Dr. Draken and Shego with the help of a new friend Athena.  Kim Possible fans will get the theme music, catchphrases, and guest appearence you crave.  But remember, this is a new story that uses the old as a template, not a starting point.  So, come in with fresh eyes to a potential new live-action Kim Possible.<br/><br/>4 out of 5 stars.",
+    "review":"Dr. Draken has conjured is most evil plan yet.  He wants to steal Kim Possible's spark.  Without it, she will never be able to defeat him again.  And it's possible with Kim starting high school and having second doubts on her abilities.  Kim must defeat Dr. Draken and Shego with the help of a new friend Athena.  Kim Possible fans will get the theme music, catchphrases, and guest appearence you crave.  But remember, this is a new story that uses the old as a template, not a starting point.  So, come in with fresh eyes to a potential new live-action Kim Possible.<br/><br/>4 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/kimpossible.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/kimpossible.jpg"
