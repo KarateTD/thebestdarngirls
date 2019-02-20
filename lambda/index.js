@@ -1,4 +1,6 @@
-const Alexa = require('ask-sdk');
+const Alexa = require('ask-sdk-core');
+const Welcome = require('welcome.json');
+const MovieOptions = require('movieoptions.json');
 
 const welcome = 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the Must Buy movie of the week, say Must Buy.  For Video on Demand reviews, say Video on Demand.';
 const mainOptions = '\t* In The Theater\n\t* Made For TV\n\t* Must Buy\n\t* Video On Demand';
@@ -33,19 +35,27 @@ const WelcomeHandler = {
 	},
 	handle(handlerInput) {
 
-		if(supportsDisplay(handlerInput)){
-			handlerInput.responseBuilder.addRenderTemplateDirective({
- 				type:'BodyTemplate1',
- 				token:'Start',
- 				backButton:'HIDDEN',
- 				title:'Main Menu',
- 				textContent:{
- 						primaryText:{
-							type:"RichText",
-							text:mainOptions.replace(/\n\t/g,"<br/>")
-						}
- 					}
- 			});
+		if(supportsAPL(handlerInput)){
+		    handlerInput.responseBuilder.addDirective({
+		        type : 'Alexa.Presentation.APL.RenderDocument',
+		        document : Welcome,
+		        datasources : {
+                    "HomeTemplate":{
+                        "type":"object",
+                        "objectId":"ht",
+                        "title":"Main Menu",
+                        "textContent":{
+                            "primaryText": {
+                                "type": "PlainText",
+                                "text": "* In The Theater<br/>* Made for TV<br/>* Must Buy<br/>* Video On Demand"
+                            }
+                        },
+                        "logoSmallUrl":"https://s3.amazonaws.com/thebestdarngirls/library/small-image/APP_ICON.png",
+                        "logoLargeUrl":"https://s3.amazonaws.com/thebestdarngirls/library/large-image/APP_ICON_LARGE.png"
+
+                    }
+		        }
+		    });
 		}
 
 		return handlerInput.responseBuilder
@@ -86,20 +96,37 @@ const MainMenuHandler = {
       		starter = `${sorry}`;
  		}
 
- 		if(supportsDisplay(handlerInput) && requestList){
- 			handlerInput.responseBuilder.addRenderTemplateDirective({
- 				type:'ListTemplate2',
- 				token:'List',
- 				backButton:'HIDDEN',
- 				title:'Movie Options',
- 				listItems: requestList
- 			});
+ 		if(supportsAPL(handlerInput) && requestList){
+
+            console.log("in if");
 
  			var num = Math.floor(Math.random() * 5);
- 			var nextNum = num+1;
- 			var output = hints[num]+nextNum;
+            var nextNum = num+1;
+            var output = hints[num]+nextNum;
 
- 			handlerInput.responseBuilder.addHintDirective(output);
+            handlerInput.responseBuilder.addDirective({
+                type: 'Alexa.Presentation.APL.RenderDocument',
+                document : MovieOptions,
+                datasources : {
+                    "MovieOptionsTemplateMetadata": {
+                        "type": "object",
+                        "objectId": "moMetadata",
+                        "title": "Movie Options",
+                        "logoSmallUrl":"https://s3.amazonaws.com/thebestdarngirls/library/small-image/APP_ICON.png",
+                        "logoLargeUrl":"https://s3.amazonaws.com/thebestdarngirls/library/large-image/APP_ICON_LARGE.png"
+                    },
+                    "MovieOptionsListData": {
+                        "type": "list",
+                        "listId": "moList",
+                        "totalNumberOfItems": 5,
+                        "hintText": output,
+                        "listPage": {
+                            "listItems": requestList
+                        }
+                    }
+                }
+            });
+
  		}
 
  		return handlerInput.responseBuilder
@@ -110,220 +137,19 @@ const MainMenuHandler = {
 	}
 };
 
-const MovieChoicesHandler = {
-	canHandle(handlerInput){
-		const request = handlerInput.requestEnvelope.request;
-		return (request.type === 'IntentRequest'
-		  && request.intent.name === 'MovieChoices')
-		  || request.type === 'Display.ElementSelected';
-	},
-	handle(handlerInput){
-		if (handlerInput.requestEnvelope.request.token) {
-			choice = handlerInput.requestEnvelope.request.token;
-		}else if(handlerInput.requestEnvelope.request.intent.slots.choice){
-			choice = handlerInput.requestEnvelope.request.intent.slots.choice.value;
-		}
 
-    	var review = "Sorry I don't understand.  Please say your response again.  ";
-    	var element;
-
-  		if(menu.toLowerCase() === 'in the theater'){
-  			element = getCardInfo(inTheTheater, choice);
-	  	}else if(menu.toLowerCase() === 'made for tv'){
-  			element = getCardInfo(madeForTV, choice);
- 	 	}else if(menu.toLowerCase() === 'must buy'){
-  			element = getCardInfo(mustBuy, choice);
-	  	}else if(menu.toLowerCase() === 'video on demand'){
-  			element = getCardInfo(videoOnDemand, choice);
-	  	}
-
-    	if(element){
-    		if(supportsDisplay(handlerInput)){
- 				handlerInput.responseBuilder.addRenderTemplateDirective({
- 					type:'BodyTemplate3',
- 					token:'MovieSelected',
- 					backButton:'HIDDEN',
- 					title:element.mtitle,
- 					image:{
- 						contentDescription:null,
- 						smallSourceUrl:element.image.smallImageUrl,
-						largeSourceUrl:element.image.largeImageUrl
- 					},
- 					textContent:{
- 						primaryText:{
-							type:"RichText",
-							text:element.review
-						}
- 					}
- 				});
- 			}
-
-      		return handlerInput.responseBuilder
-      		  .speak(element.review.replace(/<br\/>/g,'\n').concat(repeatGoBack))
-      		  .reprompt(repeatGoBack)
-      		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
-      		  .getResponse();
-      	}else{
-      		return handlerInput.responseBuilder
-      		.speak(review)
-      		.getResponse();
-    	}
-	}
-};
-
-const CommandsHandler = {
-	canHandle(handlerInput){
-		const request = handlerInput.requestEnvelope.request;
-		return (request.type === 'IntentRequest'
-		  && request.intent.name === 'Commands');
-	},
-	handle(handlerInput){
-		var com = handlerInput.requestEnvelope.request.intent.slots.command.value;
-
-		if (com.toLowerCase() === 'goodbye'){
-			return ExitHandler.handle(handlerInput);
-		}else if(com.toLowerCase() === 'repeat'){
-			return MovieChoicesHandler.handle(handlerInput);
-		}else if(com.toLowerCase() === 'movie options'){
-			return MainMenuHandler.handle(handlerInput);
-		}else if(com.toLowerCase() === 'main menu'){
-			return WelcomeHandler.handle(handlerInput);
-		}else{
-			if(supportsDisplay(handlerInput)){
-				handlerInput.responseBuilder.addRenderTemplateDirective({
- 					type:'BodyTemplate1',
- 					token:'Start',
- 					backButton:'HIDDEN',
- 					title:'Main Menu',
- 					textContent:{
- 						primaryText:{
-							type:"RichText",
-							text:mainOptions.replace(/\n\t/g,"<br/>")
-						}
- 					}
- 				});
-			}
-
-			return handlerInput.responseBuilder
-      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mainMenu)
-      		.getResponse();
-		}
-	}
-};
-
-const HelpHandler = {
-	canHandle(handlerInput){
-		const request = handlerInput.requestEnvelope.request;
-		return request.type === 'IntentRequest' 
-		  && request.intent.name === 'AMAZON.HelpIntent';
-	},
-	handle(handlerInput){
-		var helpMessage = "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https:// that darn girl movie dot reviews.  "
-		var helpScreen = "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https://thatdarngirlmovie.reviews.  "
-		var screenMessage = helpScreen.concat("<br/><br/>").concat(mainOptions.replace(/\n\t/g,"<br/>"));
-		if(supportsDisplay(handlerInput)){
-			handlerInput.responseBuilder.addRenderTemplateDirective({
- 				type:'BodyTemplate1',
- 				token:'Start',
- 				backButton:'HIDDEN',
- 				title:'Help and Main Menu',
- 				textContent:{
- 						primaryText:{
-							type:"RichText",
-							text:screenMessage
-						}
- 					}
- 			});
-		}
-
-		return handlerInput.responseBuilder
-	  	  .speak(helpMessage.concat(welcome))
-	  	  .reprompt(mainOptions)
-	  	  .withSimpleCard(skillName, mainOptions)
-	  	  .getResponse();
-	}
-};
-
-const ExitHandler = {
-	canHandle(handlerInput){
-		const request = handlerInput.requestEnvelope.request;
-		return request.type === 'IntentRequest'
-		  && (request.intent.name === 'AMAZON.CancelIntent'
-		  || request.intent.name === 'AMAZON.StopIntent');
-	},
-	handle(handlerInput) {
-		if(supportsDisplay(handlerInput)){
-			handlerInput.responseBuilder.addRenderTemplateDirective({
- 				type:'BodyTemplate1',
- 				token:'End',
- 				backButton:'HIDDEN',
- 				title:'Good Bye',
- 				textContent:{
- 						primaryText:{
-							type:"RichText",
-							text:goodbyeScreen
-						}
- 					}
- 			});
-		}
-
-
-		return handlerInput.responseBuilder
-		  .speak(goodbyeSpeak)
-		  .withSimpleCard(skillName,goodbyeScreen)
-		  .getResponse();
-	}
-};
-
-const SessionEndedRequestHandler = {
-	canHandle(handlerInput) {
-		const request = handlerInput.requestEnvelope.request;
-		return request.type === 'SessionEndedRequest';
-	},
-	handle(handlerInput){
-		console.log(`Session ended with reason: ${handlerInput.requestEnvelope.request.reason}`);
-
-		return handlerInput.responseBuilder.getResponse();
-	}
-};
-
-const ErrorHandler = {
-	canHandle() {
-		return true;
-	},
-	handle(handlerInput, error){
-	  console.log(`Error handled: ${error.message}`);
-
-	  return handlerInput.responseBuilder
-	    .speak('Sorry, an error occurred.')
-	    .reprompt('Sorry, an error occured.')
-	    .getResponse();
-	}
-};
-
-const skillBuilder = Alexa.SkillBuilders.standard();
+const skillBuilder = Alexa.SkillBuilders.custom();
 
 exports.handler = skillBuilder
   .addRequestHandlers(
     WelcomeHandler,
-    MainMenuHandler,
-    MovieChoicesHandler,
-    CommandsHandler,
-    HelpHandler,
-    ExitHandler,
-    SessionEndedRequestHandler
+    MainMenuHandler
   )
-  .addErrorHandlers(ErrorHandler)
   .lambda();
 
   // returns true if the skill is running on a device with a display (show|spot)
-function supportsDisplay(handlerInput) {
-  var hasDisplay =
-    handlerInput.requestEnvelope.context &&
-    handlerInput.requestEnvelope.context.System &&
-    handlerInput.requestEnvelope.context.System.device &&
-    handlerInput.requestEnvelope.context.System.device.supportedInterfaces &&
-    handlerInput.requestEnvelope.context.System.device.supportedInterfaces.Display
-  console.log("Supported Interfaces are" + JSON.stringify(handlerInput.requestEnvelope.context.System.device.supportedInterfaces));
-  return hasDisplay;
+function supportsAPL(handlerInput) {
+    const supportedInterfaces = handlerInput.requestEnvelope.context.System.device.supportedInterfaces;
+    const aplInterface = supportedInterfaces['Alexa.Presentation.APL'];
+    return aplInterface != null && aplInterface != undefined;
 }

@@ -1,0 +1,243 @@
+{
+  "type": "APL",
+  "version": "1.0",
+  "theme": "dark",
+  "import": [
+    {
+      "name": "alexa-layouts",
+      "version": "1.0.0"
+    }
+  ],
+  "resources": [
+    {
+      "description": "Stock color for the light theme",
+      "colors": {
+        "colorTextPrimary": "#151920"
+      }
+    },
+    {
+      "description": "Stock color for the dark theme",
+      "when": "${viewport.theme =='dark'",
+      "colors": {
+        "colorTextPrimary": "#f0f1ef"
+      }
+    },
+    {
+      "description": "Standard font sizes",
+      "dimensions": {
+        "textSizeBody": 48,
+        "textSizePrimary": 27,
+        "textSizeSecondary": 23,
+        "textSizeDetails": 20,
+        "textSizeSecondaryHint": 25
+      }
+    },
+    {
+      "description": "Common margins and padding",
+      "dimensions": {
+        "marginTop": 40,
+        "marginLeft": 60,
+        "marginRight": 60,
+        "marginBottom": 40
+      }
+    }
+  ],
+  "styles": {
+    "mixinBody": {
+      "values": {
+        "fontSize": "@textSizeBody"
+      }
+    },
+    "mixinSecondary": {
+      "values": {
+        "fontSize": "@textSizeSecondary"
+      }
+    },
+    "textStyleBase": {
+      "description": "Base font description; set color",
+      "values": [
+        {
+          "color": "@colorTextPrimary"
+        }
+      ]
+    },
+    "textStyleBase0": {
+      "description": "Thin version of basic font",
+      "extend": "textStyleBase",
+      "values": {
+        "fontWeight": "100"
+      }
+    },
+    "textStyleBase1": {
+      "description": "Light version of basic font",
+      "extend": "textStyleBase",
+      "values": {
+        "fontWeight": "300"
+      }
+    },
+    "textStyleBody": {
+      "extend": [
+        "textStyleBase1",
+        "mixinBody"
+      ]
+    },
+    "textStyleSecondary": {
+      "extend": [
+        "textStyleBase0",
+        "mixinSecondary"
+      ]
+    }
+  },
+  "layouts": {
+    "FullHorizontalListItem": {
+      "parameters": [
+        "listLength"
+      ],
+      "item": [
+        {
+          "type": "Container",
+          "height": "100vh",
+          "width": "100vw",
+          "alignItems": "center",
+          "justifyContent": "end",
+          "items": [
+            {
+              "type": "Image",
+              "position": "absolute",
+              "height": "100vh",
+              "width": "100vw",
+              "overlayColor": "rgba(0, 0, 0, 0.6)",
+              "source": "${data.image.smallSourceUrl}",
+              "scale": "best-fill"
+            },
+            {
+              "type": "AlexaHeader",
+              "headerTitle": "${title}",
+              "headerAttributionImage": "${logoSmall}",
+              "grow": 1
+            },
+            {
+              "type": "Text",
+              "text": "${data.textContent.primaryText.text}",
+              "style": "textStyleBody",
+              "maxLines": 1
+            },
+            {
+              "type": "Text",
+              "text": "${ordinal} | ${listLength}",
+              "paddingBottom": "20dp",
+              "color": "white",
+              "spacing": "5dp"
+            }
+          ]
+        }
+      ]
+    },
+    "HorizontalListItem": {
+      "item": [
+        {
+          "type": "Container",
+          "maxWidth": 528,
+          "minWidth": 312,
+          "paddingLeft": 16,
+          "paddingRight": 16,
+          "height": "100%",
+          "items": [
+            {
+              "type": "Image",
+              "source": "${data.image.largeSourceUrl}",
+              "height": "50vh",
+              "width": "50vh"
+            },
+            {
+              "type": "Text",
+              "text": "<b>${ordinal}.</b> ${data.textContent.primaryText.text}",
+              "style": "textStyleSecondary",
+              "maxLines": 1,
+              "spacing": 12
+            }
+          ]
+        }
+      ]
+    },
+    "ListTemplate2": {
+      "parameters": [
+        "title",
+        "logoSmall",
+        "logoLarge",
+        "hintText",
+        "listData"
+      ],
+      "items": [
+        {
+          "when": "${viewport.shape == 'round'}",
+          "type": "Container",
+          "height": "100%",
+          "width": "100%",
+          "items": [
+            {
+              "type": "Sequence",
+              "scrollDirection": "horizontal",
+              "data": "${listData}",
+              "height": "100%",
+              "width": "100%",
+              "numbered": true,
+              "item": [
+                {
+                  "type": "FullHorizontalListItem",
+                  "listLength": "${datasource.MovieOptionsListData.listPage.listItems.length}"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Container",
+          "height": "100vh",
+          "width": "100vw",
+          "items": [
+            {
+              "type": "AlexaHeader",
+              "headerTitle": "${title}",
+              "headerAttributionImage": "${logoLarge}"
+            },
+            {
+              "type": "Sequence",
+              "scrollDirection": "horizontal",
+              "paddingLeft": "@marginLeft",
+              "paddingRight": "@marginRight",
+              "data": "${listData}",
+              "height": "70vh",
+              "width": "100%",
+              "numbered": true,
+              "item": [
+                {
+                  "type": "HorizontalListItem"
+                }
+              ]
+            },
+            {
+              "type": "AlexaFooter",
+              "footerHint": "${datasource.MovieOptionsListData.hintText}"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "mainTemplate": {
+    "parameters": [
+      "datasource"
+    ],
+    "item": [
+      {
+        "type": "ListTemplate2",
+        "title": "${datasource.MovieOptionsTemplateMetadata.title}",
+        "hintText": "${datasource.MovieOptionsListData.hintText}",
+        "logoSmall": "${datasource.MovieOptionsTemplateMetadata.logoSmallUrl}",
+        "logoLarge": "${datasource.MovieOptionsTemplateMetadata.logoLargeUrl}",
+        "listData": "${datasource.MovieOptionsListData.listPage.listItems}"
+      }
+    ]
+  }
+}
