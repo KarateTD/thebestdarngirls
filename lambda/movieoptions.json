@@ -153,7 +153,7 @@
               "type": "Text",
               "text": "<b>${ordinal}.</b> ${data.textContent.primaryText.text}",
               "style": "textStyleSecondary",
-              "maxLines": 1,
+              "maxLines": 2,
               "spacing": 12
             }
           ]
