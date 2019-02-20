@@ -2,7 +2,7 @@ var mustBuy = [
 {
     "option":"1",
     "mtitle":"A Star is Born",
-    "review":"Jack Maine walks off a sold out stage and heads straight to the nearest bar.  He ends up in a drag bar and watches Allie perform.  Blown away by her voice, he wonders why she hasn't tried to sing professionally.  She says her looks have stopped her.  He invites her to his next show and puts her voice on display for the world to hear.  As her star rises, can he handle the exchange of fame? This movie will pull at the heart string, inspire hope, and bring awareness to mental illness.  You will never be tired of watching this masterpiece.<br/><br/>5 out of 5 stars.",
+    "review":"Jack Maine walks off a sold out stage and heads straight to the nearest bar.  He ends up in a drag bar and watches Allie perform.  Blown away by her voice, he wonders why she hasn't tried to sing professionally.  She says her looks have stopped her.  He invites her to his next show and puts her voice on display for the world to hear.  As her star rises, can he handle the exchange of fame? This movie will pull at the heartstrings, inspire hope, and bring awareness to mental illness.  You will never be tired of watching this masterpiece.<br/><br/>5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/astarisborn.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/astarisborn.jpg"
