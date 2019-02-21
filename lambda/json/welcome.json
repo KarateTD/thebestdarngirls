@@ -12,7 +12,7 @@
         {
             "description": "Stock color for the light theme",
             "colors":{
-                "colorTextPrimary": "#151920"
+                "colorTextPrimary": "#9ea4b5"
             }
         },
         {
@@ -154,6 +154,13 @@
                         "paddingRight": "@marginRight",
                         "paddingBottom": "@marginBottom",
                         "items": [
+                            {
+                                "type": "Text",
+                                "text": "${datasource.HomeTemplate.textContent.helpText.text}",
+                                "fontSize": "@textSizePrimary",
+                                "spacing": "@spacingSmall",
+                                "style": "textStylePrimary"
+                            },
                             {
                                 "type": "Text",
                                 "text": "${datasource.HomeTemplate.textContent.primaryText.text}",

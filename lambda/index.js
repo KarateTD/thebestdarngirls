@@ -2,6 +2,7 @@ const Alexa = require('ask-sdk-core');
 const Welcome = require('./json/welcome.json');
 const MovieOptions = require('./json/movieoptions.json');
 const Review = require('./json/review.json');
+const Background = require('./json/background.json');
 
 const welcome = 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the Must Buy movie of the week, say Must Buy.  For Video on Demand reviews, say Video on Demand.';
 const mainOptions = '\t* In The Theater\n\t* Made For TV\n\t* Must Buy\n\t* Video On Demand';
@@ -48,20 +49,7 @@ const WelcomeHandler = {
                         "type":"object",
                         "objectId":"ht",
                         "backgroundImage": {
-                            "sources": [
-                                {
-                                    "url": background,
-                                    "size": "small",
-                                    "widthPixels": 0,
-                                    "heightPixels": 0
-                                },
-                                {
-                                    "url": background,
-                                    "size": "large",
-                                    "widthPixels": 0,
-                                    "heightPixels": 0
-                                }
-                            ]
+                            "sources": Background
                         },
                         "title":"Main Menu",
                         "textContent":{
@@ -130,20 +118,7 @@ const MainMenuHandler = {
                         "type": "object",
                         "objectId": "moMetadata",
                         "backgroundImage": {
-                            "sources": [
-                                {
-                                    "url": background,
-                                    "size": "small",
-                                    "widthPixels": 0,
-                                    "heightPixels": 0
-                                },
-                                {
-                                    "url": background,
-                                    "size": "large",
-                                    "widthPixels": 0,
-                                    "heightPixels": 0
-                                }
-                            ]
+                            "sources": Background
                         },
                         "title": "Movie Options",
                         "logoSmallUrl":smallLogo,
@@ -208,20 +183,7 @@ const MovieChoicesHandler = {
                             "type": "object",
                             "objectId": "reviewSample",
                             "backgroundImage": {
-                                "sources": [
-                                    {
-                                        "url": background,
-                                        "size": "small",
-                                        "widthPixels": 0,
-                                        "heightPixels": 0
-                                    },
-                                    {
-                                        "url": background,
-                                        "size": "large",
-                                        "widthPixels": 0,
-                                        "heightPixels": 0
-                                    }
-                                ]
+                                "sources": Background
                             },
                             "title": "Movie Review",
                             "image": {
@@ -286,20 +248,7 @@ const CommandsHandler = {
  				            "type": "object",
  			    	        "objectId": "command",
  			    	        "backgroundImage": {
-                                "sources": [
-                                    {
-                                        "url": background,
-                                        "size": "small",
-                                        "widthPixels": 0,
-                                        "heightPixels": 0
-                                    },
-                                    {
-                                        "url": background,
-                                        "size": "large",
-                                        "widthPixels": 0,
-                                        "heightPixels": 0
-                                    }
-                                ]
+                                "sources": Background
                             },
  				            "title": "Main Menu",
  				            "textContent": {
@@ -338,20 +287,7 @@ const ExitHandler = {
 		                "type": "object",
 		                "objectId": "exit",
 		                "backgroundImage": {
-                           "sources": [
-                                {
-                                    "url": background,
-                                    "size": "small",
-                                    "widthPixels": 0,
-                                    "heightPixels": 0
-                                },
-                                {
-                                    "url": background,
-                                    "size": "large",
-                                    "widthPixels": 0,
-                                    "heightPixels": 0
-                                }
-                            ]
+                           "sources": Background
                         },
 		                "title": "Good Bye",
 		                "textContent": {
@@ -382,8 +318,7 @@ const HelpHandler = {
 	},
 	handle(handlerInput){
 		var helpMessage = "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https:// that darn girl movie dot reviews.  "
-		var helpScreen = "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https://thatdarngirlmovie.reviews.  "
-		var screenMessage = helpScreen.concat("<br/><br/>").concat(mainScreen);
+		var helpScreen = "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https://thatdarngirlmovie.reviews.<br/><br/>"
 
 		if(supportsAPL(handlerInput)){
             handlerInput.responseBuilder.addDirective({
@@ -394,26 +329,17 @@ const HelpHandler = {
             		    "type": "object",
             		    "objectId": "help",
         	    	    "backgroundImage": {
-                            "sources": [
-                                {
-                                    "url": background,
-                                    "size": "small",
-                                    "widthPixels": 0,
-                                    "heightPixels": 0
-                                },
-                                {
-                                    "url": background,
-                                    "size": "large",
-                                    "widthPixels": 0,
-                                    "heightPixels": 0
-                                }
-                            ]
+                            "sources": Background
                         },
         		        "title": "Help and Main Menu",
             		    "textContent": {
+            		        "helpText": {
+            		            "type": "PlainText",
+            		            "text": helpScreen
+            		        },
                   		    "primaryText": {
             	    	        "type": "PlainText",
-        	    	            "text": screenMessage
+        	    	            "text": mainScreen
         		            }
         		        },
             		    "logoSmallUrl":smallLogo,
@@ -481,7 +407,5 @@ function supportsAPL(handlerInput) {
 
 /*
 To Do
-Change text size of help screen
 move background to js
-test light
 */
