@@ -404,8 +404,3 @@ function supportsAPL(handlerInput) {
     const aplInterface = supportedInterfaces['Alexa.Presentation.APL'];
     return aplInterface != null && aplInterface != undefined;
 }
-
-/*
-To Do
-move background to js
-*/
