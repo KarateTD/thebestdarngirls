@@ -1,0 +1,197 @@
+{
+  "type": "APL",
+  "version": "1.0",
+  "theme": "dark",
+  "import": [
+    {
+      "name": "alexa-layouts",
+      "version": "1.0.0"
+    }
+  ],
+  "resources": [
+    {
+      "description": "Stock color for the light theme",
+      "colors": {
+        "colorTextPrimary": "#9ea4b5"
+      }
+    },
+    {
+      "description": "Stock color for the dark theme",
+      "when": "${viewport.theme == 'dark'}",
+      "colors": {
+        "colorTextPrimary": "#f0f1ef"
+      }
+    },
+    {
+      "description": "Standard font sizes",
+      "dimensions": {
+        "textSizeBody": 48,
+        "textSizePrimary": 27,
+        "textSizeSecondary": 23,
+        "textSizeSecondaryHint": 25
+      }
+    }
+  ],
+  "styles": {
+    "mixinPrimary": {
+      "values": {
+        "fontSize": "@textSizePrimary"
+      }
+    },
+    "mixinBody": {
+      "values": {
+        "fontSize": "@textSizeBody"
+      }
+    },
+    "textStyleBase": {
+      "description": "Base font description; set color",
+      "values": [
+        {
+          "color": "@colorTextPrimary"
+        }
+      ]
+    },
+    "textStyleBase1": {
+      "description": "Light version of basic font",
+      "extend": "textStyleBase",
+      "values": {
+        "fontWeight": "300"
+      }
+    },
+    "textStylePrimary": {
+      "extend": [
+        "textStyleBase1",
+        "mixinPrimary"
+      ]
+    },
+    "textStyleBody": {
+      "extend": [
+        "textStyleBase1",
+        "mixinBody"
+      ]
+    }
+  },
+  "mainTemplate": {
+    "parameters": [
+      "datasources"
+    ],
+    "items": [
+      {
+        "when": "${viewport.shape == 'round'}",
+        "type": "Container",
+        "direction": "column",
+        "width": "100vw",
+        "height": "100vh",
+        "items": [
+          {
+            "type": "Image",
+            "source": "${datasources.ReviewTemplate.image.smallSourceUrl}",
+            "scale": "best-fill",
+            "width": "100vw",
+            "height": "100vh",
+            "position": "absolute",
+            "overlayColor": "rgba(0, 0, 0, 0.6)"
+          },
+          {
+            "type": "ScrollView",
+            "width": "100vw",
+            "height": "100vh",
+            "item": [
+              {
+                "type": "Container",
+                "direction": "column",
+                "alignItems": "center",
+                "paddingLeft": 30,
+                "paddingRight": 30,
+                "paddingBottom": 200,
+                "items": [
+                  {
+                    "type": "AlexaHeader",
+                    "headerAttributionImage": "${datasources.ReviewTemplate.logoSmall}",
+                    "headerTitle": "${datasources.ReviewTemplate.title}"
+                  },
+                  {
+                    "type": "Text",
+                    "text": "<b>${datasources.ReviewTemplate.textContent.title.text}</b>",
+                    "style": "textStyleBody",
+                    "width": "90vw",
+                    "textAlign": "center"
+                  },
+                  {
+                    "type": "Text",
+                    "text": "${datasources.ReviewTemplate.textContent.primaryText.text}",
+                    "paddingTop": 40,
+                    "style": "textStylePrimary",
+                    "width": "90vw",
+                    "textAlign": "center"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "width": "100vw",
+        "height": "100vh",
+        "items": [
+          {
+            "type": "Image",
+            "source": "${datasources.ReviewTemplate.backgroundImage.sources[0].url}",
+            "scale": "best-fill",
+            "width": "100vw",
+            "height": "100vh",
+            "position": "absolute"
+          },
+          {
+            "type": "AlexaHeader",
+            "headerTitle": "${datasources.ReviewTemplate.title}",
+            "headerAttributionImage": "${datasources.ReviewTemplate.logoLarge}"
+          },
+          {
+            "type": "Container",
+            "paddingLeft": "40",
+            "paddingRight": "72",
+            "direction": "row",
+            "grow": 1,
+            "items": [
+              {
+                "type": "Image",
+                "width": "340",
+                "height": "360",
+                "source": "${datasources.ReviewTemplate.image.largeSourceUrl}",
+                "scale": "best-fit",
+                "align": "center"
+              },
+              {
+                "type": "ScrollView",
+                "height": "60vh",
+                "shrink": 1,
+                "item": [
+                  {
+                    "type": "Container",
+                    "paddingLeft": "15",
+                    "items": [
+                      {
+                        "type": "Text",
+                        "text": "<b>${datasources.ReviewTemplate.textContent.title.text}</b>",
+                        "style": "textStyleBody"
+                      },
+                      {
+                        "type": "Text",
+                        "text": "${datasources.ReviewTemplate.textContent.primaryText.text}",
+                        "paddingTop": 40,
+                        "style": "textStylePrimary"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

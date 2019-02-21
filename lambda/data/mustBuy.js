@@ -14,7 +14,7 @@ var mustBuy = [
     "review":"Farrokh Bulsara changes his name to Freddie Mercury, quits his job, and meets a band after seeing them perform.  This chance encounter would bless the world with some of the best music written to date.  This movie is billed as the story of Queen but it is really an autobiography of Freddie Mercury.  Watching his rise, fall, and redemption is amazing and easy for you to sing along.  Watch this movie now and get your vocal cords ready to sing.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/bohemainrhapsody.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/bohemainrhapsody.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/bohemainrhapsody.jpg"
     }
 },
 {
@@ -115,4 +115,5 @@ module.exports = mustBuy;
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missbala.png"
     }
 }
+
 */
