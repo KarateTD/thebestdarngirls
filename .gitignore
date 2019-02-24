@@ -1,4 +1,4 @@
 publish*sh
 *zip
 .idea
-.idea/*
+.idea/workspace.xml
