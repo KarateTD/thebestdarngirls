@@ -29,7 +29,7 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 	<li><b>Release-1.1.0</b>: Uses Node.js 6.10 with Alexa Skills Cards</li>
 	<li><b>Release-2.0.0</b>: Uses Node.js 8.10 with Alexa Skills Cards and optimized for the Echo Show and the Echo Spot</li>
 	<li><b>Release-2.0.1</b>: Release-2.0.0 with bug fixes</li>
-	<li><b>Release-3.0.0</b>: Updated with the <a href="https://developer.amazon.com/docs/alexa-presentation-language/apl-overview.html" target="_blank">Alexa Presentation Language</a> which optimizes this skill for <a href="https://amzn.to/2IsxHJZ" target="_blank">Echo Spot</a>, <a href="https://amzn.to/2E39VPz" target="_blank">Echo Show 1st Gen</a>, <a href="https://amzn.to/2ItCx9S" target="_blank">Echo Show 2nd Gen</a>, and <a href="https://amzn.to/2DYuP29" target="_blank">Fire TV</a> (<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://thatdarngirlmoviereviews.wordpress.com/about/#disclaimer"><u>FTC Affiliate Disclaimer</u></a></span>)</li>
+	<li><b>Release-3.0.0</b>: Updated with the <a href="https://developer.amazon.com/docs/alexa-presentation-language/apl-overview.html" target="_blank">Alexa Presentation Language</a> (APL) which optimizes this skill for <a href="https://amzn.to/2IsxHJZ" target="_blank">Echo Spot</a>, <a href="https://amzn.to/2E39VPz" target="_blank">Echo Show 1st Gen</a>, <a href="https://amzn.to/2ItCx9S" target="_blank">Echo Show 2nd Gen</a>, and <a href="https://amzn.to/2DYuP29" target="_blank">Fire TV</a> (<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://thatdarngirlmoviereviews.wordpress.com/about/#disclaimer"><u>FTC Affiliate Disclaimer</u></a></span>)</li>
 </ul> 
 
 ## Code
@@ -49,6 +49,14 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 			<li>getOptions.js - creates a string for Alexa to say</li>
 			<li>getReview.js - returns the review in the data file</li>
 		</ul>
+	</li>
+	<li>JSON Folder
+	    <ul>
+	        <li>background.json - sets background images for APL design.  If you change the image here, it will change everywhere</li>
+	        <li>movieoptions.json - set up APL design for the movie options section</li>
+	        <li>review.json - sets up APL design for the movie review</li>
+	        <li>welcome.json - sets up APL deign for the home, help, and goodbye screen</li>
+	    </ul>
 	</li>
 	<li>index.js</li>
 	This contains the code with helper functions for each Intent listed in the next section.
