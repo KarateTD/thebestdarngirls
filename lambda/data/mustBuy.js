@@ -1,47 +1,47 @@
 var mustBuy = [
 {
-	"option":"1",
-	"mtitle":"Mission Impossible: Fallout",
-	"review":"Ethan has to fix is mistakes but with Erica's operative Walker watching his every move.  How will Ethan handle it when he is the one under suspicion.  This mission is impossible to miss and a 100% thrill ride.  See it on the big screen today.<br/><br/>5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/missionimpossible6.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missionimpossible6.jpg"
-	}
+    "option":"1",
+    "mtitle":"A Star is Born",
+    "review":"Jack Maine walks off a sold out stage and heads straight to the nearest bar.  He ends up in a drag bar and watches Allie perform.  Blown away by her voice, he wonders why she hasn't tried to sing professionally.  She says her looks have stopped her.  He invites her to his next show and puts her voice on display for the world to hear.  As her star rises, can he handle the exchange of fame? This movie will pull at the heartstrings, inspire hope, and bring awareness to mental illness.  You will never be tired of watching this masterpiece.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/astarisborn.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/astarisborn.jpg"
+    }
 },
 {
-	"option":"2",
-	"mtitle":"Searching",
-	"review":"After seeing 3 missed calls, David can not find his daughter, Margot.  He will have to go through the dark corners of her laptop to find her: dead or alive.  This first person point-of-view thriller will have you on the edge of your seat the entire movie.<br/><br/>4.5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/searching.png",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/searching.png"
-	}
+    "option":"2",
+    "mtitle":"Bohemian Rhapsody",
+    "review":"Farrokh Bulsara changes his name to Freddie Mercury, quits his job, and meets a band after seeing them perform.  This chance encounter would bless the world with some of the best music written to date.  This movie is billed as the story of Queen but it is really an autobiography of Freddie Mercury.  Watching his rise, fall, and redemption is amazing and easy for you to sing along.  Watch this movie now and get your vocal cords ready to sing.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/bohemainrhapsody.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/bohemainrhapsody.jpg"
+    }
 },
 {
 	"option":"3",
-	"mtitle":"Kin",
-	"review":"After finding a high tech weapon, Elijah unknowingly goes on the run with his brother Jimmy.  Both are keeping secrets that will effect their family but the weapon is the real key.  Produced by Michael B. Jordan, this movie is about the real meaning of family and manhood.  May not be suitable for kids under 13.<br/><br/>4 out of 5 stars.",
+	"mtitle":"Widows",
+	"review":"When Veronica's husband Harry dies after robbing a local gangster, she inherits his debt.  She must assemble a crew to save her life.  This bloody tale is unlike any with a female crew.  And the level of corruption is unexpected.<br/><br/>4 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/kin.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/kin.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/widows.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/widows.jpg"
 	}
 },
 {
-	"option":"4",
-	"mtitle":"Blindspotting",
-	"review":"With 3 days left on probation, Collin sees a cop shoot and kill a man.  Now he is examining is life, friendship, and love.  This movie honestly divulges that everyone has a blind spot to the pain and pressure of others.  See it now.<br/><br/>4.5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/blindspotting.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/blindspotting.jpg"
-	}
+    "option":"4",
+    "mtitle":"The Hate U Give",
+    "review":"After witnessing her friend, Khalil, being shot by a police officer, Starr must determine if she should talk or remain quiet.  Her family, her friends, and her safety all hang in the balance.  This movie covers so many topics in 2 hours.  It covers police brutality, racism, no snitching, gang violence, the talk, and inherited hatred.  You should not pass judgement on this movie before you see it.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thehateugive.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thehateugive.jpeg"
+    }
 },
-{	
+{
 	"option":"5",
-	"mtitle":"Mile 22",
-	"review":"James Silva and his Black Operative team have been given one mission.  Get Li to the air strip and on a plane.  In exchange, Li will give the team the code to stop the bomb his government planted.  It will take 22 miles to get there.  This intense action movie's fight techniques are given with the precision of a surgent.  It has a strong and intense storyling.  Cross your fingers for a part 2.<br/><br/>4 out of 5 stars.",
+	"mtitle":"Bad Times at the El Royale",
+	"review":"A priest, a singer, a woman, and vacuum salesman check into the bi-state El Royale hotel and casino.  Everyone has secrets and everyone is being watched.  This movie is a 100% thrill ride with so many twists and turns.  Every minute is enjoyable and will keep you guessing.  There will be blood.<br/><br/>5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mile22.png",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mile22.png"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/badtimesattheelroyale.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/badtimesattheelroyale.jpg"
 	}
 }
 ];
@@ -55,26 +55,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
-
-{
-	"option":"1",
-	"mtitle":"A Simple Favor",
-	"review":"Stephanie unexpectantly becomes friends with Emily.  But when Emily goes missing, Stephanie will learn how little she truely knew her.  This movie isn't just a roller coaster ride, it's the entire theme park.  It has love, sex, lies, and murder.  See it now.<br/><br/>5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/asimplefavor.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/asimplefavor.jpg"
-	}
-}
-
-{
-	"option":"2",
-	"mtitle":"White Boy Rick",
-	"review":"Rick was given a choice, help the FBI or your dad will go to jail for 10 years.  This decision will leave a sad mark in the record book.  When watching this movie, ask yourself who is to blame for Ricky's rise in the drug world.  Ricky, his dad, or the government.  This movie is a different kind of cautionary tale.<br/><br/>4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whiteboyrick.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whiteboyrick.jpg"
-	}
-}
 
 {
 	"option":"1",
@@ -97,13 +77,43 @@ module.exports = mustBuy;
 }
 
 {
-	"option":"3",
-	"mtitle":"Widows",
-	"review":"When Veronica's husband Harry dies after robbing a local gangster, she inherits his debt.  She must assemble a crew to save her life.  This bloody tale is unlike any with a female crew.  And the level of corruption is unexpected.<br/><br/>4 out of 5 stars.",
+	"option":"2",
+	"mtitle":"Green Book",
+	"review":"Dr. Shirley hires Tony 'Lip' Vallelonga to drive him for his tour in the deep south.  Seeing prejudice there uncovers the prejudice feelings in themselves.  This movie is Oscar worthy with enough heart and life lessons to carry with you for a lifetime.<br/><br/>4.5 out of 5 stars.",
 	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/widows.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/widows.jpg"
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/greenbook.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/greenbook.jpg"
 	}
+}
+
+{
+	"option":"3",
+	"mtitle":"Spider-Man: Into the Spider-Verse",
+	"review":"In 24 hours, Miles Morales is bitten by a radio active spider, witnesses the death of Spider-Man, is hunted, and discover 5 other Spider-Men.  Each Spider-Man has their own back story, but they have one thing in common: Being a reluctant superhero.  Miles will sadly join this club.  Seeing the seamless mesh of different animation styles with a strong story and great life lessons for kids is superb.  Stay pass the end credits and look out for Stan Lee.<br/><br/>5 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/spidermanintothespiderverse.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/spidermanintothespiderverse.jpg"
+	}
+}
+
+{
+    "option":"1",
+    "mtitle":"The LEGO Movie 2: The Second Part",
+    "review":"In 5 years, the Systar aliens have changed Bricksburg to Apocalypseburg.  Now General Sweet Mayhem has kidnapped Emmet's friends to convince Batman to marry Queen Watevra Wa-Nabi.  Emmet must save his friends before his dark premonition comes true.  This is how sequels should be done.  It is funnier, more sincere, and better built than the first.  While there is no need to stay after the end credits, you should stay for the credit song.  And no matter how hard you try, the Catchy Song will stay with you.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thelegomovie2thesecondpart.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thelegomovie2thesecondpart.jpg"
+    }
+}
+
+{
+    "option":"2",
+    "mtitle":"Miss Bala",
+    "review":"In order to save her friend, Suzu, Gloria is put in between a rock and a hard place.  Gloria is threaten to work with drug lord Lino to get information about Suzu.  She unintentionally blows up a DEA safe house.  In an attempt to get help, she gets threaten by the DEA.  So, she is risking life or jail to find her friend.  This movie is 15 minutes of set up and the rest all action.  Once it gets going, it never stops.  And it has more twist and turns than a soap opera.  See it today and hope for a part 2.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/missbala.png",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missbala.png"
+    }
 }
 
 */

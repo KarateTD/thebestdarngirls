@@ -1,48 +1,48 @@
 var madeForTV = [
 {
-	"option":"1",
-	"mtitle":"Every Day is Christmas",
-	"review":"Alexis has taken Christmas Joy from her employees, her boyfriend, and her friends.  Now, her parent's spirits will visit her on Christmas Eve to change her ways.  This update on the Charles Dickens classic, keeps the overall plot but changes enough to keep the viewer engaged.<br/><br/>4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/everydayischristmas.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/everydayischristmas.jpg"
-	}
+    "option": "1",
+    "mtitle": "Who's Stalking Me?",
+    "review": "Detective Dawson offers his help after Amanda is attacked in her home.  While his intentions are noble on the surface, he is hiding a dark secret.  All Lifetime fans should watch this movie and stick it out to the end.  It will give a shock you will never see coming with a decent body count.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl": "https://s3.amazonaws.com/thebestdarngirls/small-image/whosstalkingme.jpg",
+        "largeImageUrl": "https://s3.amazonaws.com/thebestdarngirls/large-image/whosstalkingme.jpg"
+    }
 },
 {
-	"option":"2",
-	"mtitle":"Christmas Everlasting",
-	"review":"After her sister Alice abruptly dies, Lucy has 4 weeks to settle her estate, come to terms with her sister's past, and find forgiveness from the town she left behind.  This movie will have you in tears and calling family.  It is a surprising hit that falls in step with the book.<br/><br/>5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/christmaseverlasting.jpeg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/christmaseverlasting.jpeg"
-	}
+    "option": "2",
+    "mtitle": "Love on the Menu",
+    "review": "Hank mistakes Maggie for being a food critic and believes her bad review cost him to lose a star.  But she is a VP for a frozen food company and wants to hire him to create gourmet recipes for a frozen food line.  They will have to work together to create the recipes and save his restaurant.  This movie is a smart, easy laugh with true family bonding.  Watch it with the whole family today.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/loveonthemenu.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/loveonthemenu.jpg"
+    }
 },
 {
-	"option":"3",
-	"mtitle":"Every Other Holiday",
-	"review":"Tracy and Rick have been making the best out of co-parenting.  But when their children want the whole family to spend Christmas with Tracy's judgmental parents, it may break them or make them.  A true lesson on co-parenting and forgiveness, this movie should be used as a teaching tool.<br/><br/>5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/everyotherday.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/everyotherday.jpg"
-	}
+    "option": "3",
+    "mtitle": "Instakiller",
+    "review": "Harper's life was saved with a heart transplant less than a year ago.  She uses her social media account to promote her fashion designs.  She is ecstatic to see she has 1,000 new followers overnight.  But one of the followers is a stalker set on harming anyone that comes in between them.  This movie has great acting but an average script.  Lifetime fans will figure out the stalker in the first hour.<br/><br/>2.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/instakiller.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/instakiller.jpeg"
+    }
 },
 {
-	"option":"4",
-	"mtitle":"Pride, Prejudice, and Mistletoe",
-	"review":"Darcy comes home to finds a stressed mom, overprotective dad, clamoring ex-boyfriend, and a cute rival.  And if that wasn't enough, she is facing a company take over.  This movie is a far cry from the gender role reversal update to the Jane Austen classic.  Read the books instead.<br/><br/>2 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/prideprejudiceandmistletoe.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/prideprejudiceandmistletoe.jpg"
-	}
+    "option": "4",
+    "mtitle": "Chronicle Mysteries: Recovered",
+    "review": "For season 2 of her podcast, Alex decides to head back to her hometown to solve the mystery of Gina DeSalvo.  Gina DeSalvo was last seen leaving her job after getting her tips.  Her car crashed into a boulder and was recovered with blood on the windshield and no body.  Alex was determined to find her.  This mystery gives you a rare look into a sleuth's mind while she is figuring out the crime.  With the podcast, you feel more like a friend than a fly on the wall.  Hopefully Hallmark will extend this movie series.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/chroniclemysteriesrecovered.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/chroniclemysteriesrecovered.jpg"
+    }
 },
 {
-	"option":"5",
-	"mtitle":"Poinsettieas for Christmas",
-	"review":"Ellie comes to the poinsettia farm to help her injured dad and learn the farm is on its last leg.  Without a successfully harvest, her grade school rival will buy it.  Ellie must get the poinsettias to change colors before her family loses it all.  A strong family movie with plenty of laughs.<br/><br/>3.5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/poinsettiasforchristmas.png",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/poinsettiasforchristmas.png"
-	}
+    "option":"5",
+    "mtitle":"Olivia Newton-John: Hopelessly Devoted to You",
+    "review":"Olivia has to navigate through career highs and life lows.  She has to gain control over her career and her health simultaneously.  While most would crumble under the pressure, she thrived and inspired others.  Let this movie inspire you.  Olivia Newton-John's fans will learn something new about her and others will discover a new role model.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/olivianewtonjohnhopelesslydevotedtoyou.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/olivianewtonjohnhopelesslydevotedtoyou.jpg"
+    }
 }
 ];
 

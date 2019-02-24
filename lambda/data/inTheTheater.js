@@ -1,48 +1,48 @@
 var inTheTheaters = [
 {
-	"option":"1",
-	"mtitle":"Ralph Breaks the Internet: Wreck-it Ralph 2",
-	"review":"When Vanellope's game breaks, she and Ralph go to the Internet to find the object she needs.  But leaves their friendship in the balance.  A great movie with a lot of heart and the true meaning of friendship.  But not as funny as the first.<br/><br/>4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/raphbreakstheinternet.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/raphbreakstheinternet.jpg"
-	}
+    "option":"1",
+    "mtitle":"Isn't It Romantic",
+    "review":"Natalie believes that romantic comedies are bad for women because they are unrealistic and cliche.  When an accident leaves her stuck in a romantic comedy, she must follow the cliches to get a man to fall in love with her and get out.  This movie makes fun of each cliche as Natalie performs them.  It's funny because Natalie is saying exactly what you are thinking.  Using Pretty Woman, The Wedding Singer, and other romantic classics, this movie is a date night movie for those who love and hate romantic comedies.  It's not a classic but it's fun to watch.<br/><br/>3 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/isntitromantic.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/isntitromantic.jpg"
+    }
 },
 {
-	"option":"2",
-	"mtitle":"Creed 2",
-	"review":"Adonis becomes the champion and faces a challenge like no other.  The son of his father's killer wants a chance at the title.  This fight will leave Adonis broken physically and spiritually.  But can he get back up? A true underdog tale that rights a lot of Rocky's self-induced wrongs.<br/><br/>5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/creed2.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/creed2.jpg"
-	}
+    "option":"2",
+    "mtitle":"Happy Death Day 2 U",
+    "review":"Ryan is killed and wakes up in the same day.  When he tells Tree and Carter, they know exactly what's happening to him.  Like Tree, he will have to keep dying to figure out who killed him.  But after a science experiment goes awry, Tree is back to her original loop but in a different dimension.  Now, she has to solve her murder again to stop the loop but she may want to stay in this new dimension.  This sci-fi twist to a suspense movie is long and boring.  Instead of the loop making Tree a better person, it was a fluke.  If you are a fan of the first or not, wait for Redbox.<br/><br/>2 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/happydeathday2u.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/happydeathday2u.jpg"
+    }
 },
 {
-	"option":"3",
-	"mtitle":"Widows",
-	"review":"When Veronica's husband Harry dies after robbing a local gangster, she inherits his debt.  She must assemble a crew to save her life.  This bloody tale is unlike any with a female crew.  And the level of corruption is unexpected.<br/><br/>4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/widows.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/widows.jpg"
-	}
+    "option":"3",
+    "mtitle":"Alita: Battle Angel",
+    "review":"After Dr. Ido finds her functional brain in a scrap yard, Alita must battle to recover her memory and her drive for the future.  This movie surpasses Avatar visually while having the drama of a teen film and the action of NASCAR.  It ends on a cliff-hanger and should be seen in Dolby.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/alitabattleangel.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/alitabattleangel.jpg"
+    }
 },
 {
-	"option":"4",
-	"mtitle":"Fantastic Beasts: The Crimes of Grindelwald",
-	"review":"Newt has had is international travel rights revoked and he refuses to take sides to keep them.  He decides to fight for the Credence.  But Newt truly doesn't know real monsters.  But he will learn.  This is a strong continuation of the Fantastic Beast series but something just felt off.<br/><br/>3 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fantasticbeasts.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fantasticbeasts.jpg"
-	}
+    "option":"4",
+    "mtitle":"Cold Pursuit",
+    "review":"After receiving Kehoe's Citizen of the Year award, Nels Coxman learns is son died of a drug overdose.  Nels goes to his work's garage to commit suicide when he finds his son's friend, Dante bleeding and crying in the corner.  Dante tells Nelson, his son was killed over drugs he stole.  Nelson demands the name of his son's killer.  A name that will set off a killing spree.  This movie is nothing new.  The double crossing, killing, and setups are predictable and pretty boring.  It's the women of Kehoe that will make you laugh.  See it matinee or wait for Redbox.<br/><br/>2.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/coldpursuite.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/coldpursuite.jpg"
+    }
 },
 {
-	"option":"5",
-	"mtitle":"Instant Family",
-	"review":"After a look and a joke, Pete and Ellie decide to adopt.  They end up with 3 siblings who will change their lives forever.  It is impossible to watch this movie without getting misty-eyed and wanting to help.  Also, the statistics of kids in the system will floor you.<br/><br/>3 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/instantfamily.png",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/instantfamily.png"
-	}
+    "option":"5",
+    "mtitle":"What Men Want",
+    "review":"After a wild bachelorette party, Ali can hear men's thoughts.  At first, she considers getting rid of this ability.  Then, she decides to use it to enter the boys club at her sports management company.  What could go wrong?  While this movie does make fun of men, it doesn't demonize them.  It allows the viewer to see that Ali's biggest obstacle is herself.  This is a great date movie but not a family movie.  Also, you will leave wanting to know: Who voted against Ali?<br/><br/>3.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whatmenwant.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whatmenwant.jpg"
+    }
 }
 ];
 
