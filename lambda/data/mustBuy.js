@@ -1,6 +1,15 @@
 var mustBuy = [
 {
-    "option":"1",
+	"option":"1",
+	"mtitle":"Ralph Breaks the Internet: Wreck-it Ralph 2",
+	"review":"When Vanellope's game breaks, she and Ralph go to the Internet to find the steering wheel she needs.  While trying to earn money to afford it she needs for her game on the internet, Vanellope finds a new and exciting game called Slaughter Race.  Ralph wants to go back to their arcade but she wants to stay on the internet, leaving their friendship in the balance.  A great movie with a lot of heart and explores the true meaning of friendship.  But not as funny as the first.<br/><br/>4 out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/raphbreakstheinternet.jpg",
+		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/raphbreakstheinternet.jpg"
+	}
+},
+{
+    "option":"2",
     "mtitle":"A Star is Born",
     "review":"Jack Maine walks off a sold out stage and heads straight to the nearest bar.  He ends up in a drag bar and watches Allie perform.  Blown away by her voice, he wonders why she hasn't tried to sing professionally.  She says her looks have stopped her.  He invites her to his next show and puts her voice on display for the world to hear.  As her star rises, can he handle the exchange of fame? This movie will pull at the heartstrings, inspire hope, and bring awareness to mental illness.  You will never be tired of watching this masterpiece.<br/><br/>5 out of 5 stars.",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
 },
 {
-    "option":"2",
+    "option":"3",
     "mtitle":"Bohemian Rhapsody",
     "review":"Farrokh Bulsara changes his name to Freddie Mercury, quits his job, and meets a band after seeing them perform.  This chance encounter would bless the world with some of the best music written to date.  This movie is billed as the story of Queen but it is really an autobiography of Freddie Mercury.  Watching his rise, fall, and redemption is amazing and easy for you to sing along.  Watch this movie now and get your vocal cords ready to sing.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
 },
 {
-	"option":"3",
+	"option":"4",
 	"mtitle":"Widows",
 	"review":"When Veronica's husband Harry dies after robbing a local gangster, she inherits his debt.  She must assemble a crew to save her life.  This bloody tale is unlike any with a female crew.  And the level of corruption is unexpected.<br/><br/>4 out of 5 stars.",
 	"image":{
@@ -27,22 +36,13 @@ var mustBuy = [
 	}
 },
 {
-    "option":"4",
+    "option":"5",
     "mtitle":"The Hate U Give",
     "review":"After witnessing her friend, Khalil, being shot by a police officer, Starr must determine if she should talk or remain quiet.  Her family, her friends, and her safety all hang in the balance.  This movie covers so many topics in 2 hours.  It covers police brutality, racism, no snitching, gang violence, the talk, and inherited hatred.  You should not pass judgement on this movie before you see it.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thehateugive.jpeg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thehateugive.jpeg"
     }
-},
-{
-	"option":"5",
-	"mtitle":"Bad Times at the El Royale",
-	"review":"A priest, a singer, a woman, and vacuum salesman check into the bi-state El Royale hotel and casino.  Everyone has secrets and everyone is being watched.  This movie is a 100% thrill ride with so many twists and turns.  Every minute is enjoyable and will keep you guessing.  There will be blood.<br/><br/>5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/badtimesattheelroyale.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/badtimesattheelroyale.jpg"
-	}
 }
 ];
 
@@ -55,16 +55,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
-
-{
-	"option":"1",
-	"mtitle":"Ralph Breaks the Internet: Wreck-it Ralph 2",
-	"review":"When Vanellope's game breaks, she and Ralph go to the Internet to find the object she needs.  But leaves their friendship in the balance.  A great movie with a lot of heart and the true meaning of friendship.  But not as funny as the first.<br/>4 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/raphbreakstheinternet.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/raphbreakstheinternet.jpg"
-	}
-}
 
 {
 	"option":"2",
