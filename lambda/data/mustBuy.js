@@ -2,7 +2,7 @@ var mustBuy = [
 {
 	"option":"1",
 	"mtitle":"Ralph Breaks the Internet: Wreck-it Ralph 2",
-	"review":"When Vanellope's game breaks, she and Ralph go to the Internet to find the object she needs.  But leaves their friendship in the balance.  A great movie with a lot of heart and the true meaning of friendship.  But not as funny as the first.<br/>4 out of 5 stars.",
+	"review":"When Vanellope's game breaks, she and Ralph go to the Internet to find the steering wheel she needs.  While trying to earn money to afford it she needs for her game on the internet, Vanellope finds a new and exciting game called Slaughter Race.  Ralph wants to go back to their arcade but she wants to stay on the internet, leaving their friendship in the balance.  A great movie with a lot of heart and explores the true meaning of friendship.  But not as funny as the first.<br/><br/>4 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/raphbreakstheinternet.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/raphbreakstheinternet.jpg"
