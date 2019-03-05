@@ -48,6 +48,11 @@
         "fontSize": "@textSizeBody"
       }
     },
+    "mixinPrimary": {
+      "value": {
+        "fontSize": "@textSizePrimary"
+      }
+    },
     "mixinSecondary": {
       "values": {
         "fontSize": "@textSizeSecondary"
@@ -79,6 +84,12 @@
       "extend": [
         "textStyleBase1",
         "mixinBody"
+      ]
+    },
+    "textStylePrimary": {
+      "extend": [
+        "textStyleBase1",
+        "mixinPrimary"
       ]
     },
     "textStyleSecondary": {
@@ -119,12 +130,14 @@
             {
               "type": "Text",
               "text": "${data.textContent.primaryText.text}",
-              "style": "textStyleBody",
-              "maxLines": 1
+              "style": "textStylePrimary",
+              "textAlign": "center",
+              "maxLines": 2
             },
             {
               "type": "Text",
               "text": "${ordinal} | ${listLength}",
+              "style": "textStyleSecondary",
               "paddingBottom": "20dp",
               "color": "white",
               "spacing": "5dp"
