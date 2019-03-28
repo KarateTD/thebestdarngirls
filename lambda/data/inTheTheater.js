@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"Nancy Drew and the Hidden Staircase",
-    "review":"During the start of her summer-long community service, Nancy Drew over hears Flora alerting the Sheriff that her house is haunted.  The Sheriff ignores Flora but Nancy is intrigued.  Flora invites her to her home to solve the case.  Can Nancy keep it together when her love ones are on the line?<br/><br/>Nancy Drew fans delight in this strong telling of the well-known novel.  Nancy is a strong lead character with a supporting cast worth its weight in gold.  Please be advised, some scenes maybe too intense for children under 7.<br/><br/>3.5 out of 5 stars.",
+    "review":"During the start of her summer-long community service, Nancy Drew over hears Flora alerting the Sheriff that her house is haunted.  The Sheriff ignores Flora but Nancy is intrigued.  Flora invites her to her home to solve the case.  Can Nancy keep it together when her love ones are on the line?<br/><br/>Nancy Drew fans will delight in this strong telling of the well-known novel.  Nancy is a strong lead character with a supporting cast worth its weight in gold.  Please be advised, some scenes maybe too intense for children under 7.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/nancydrewandthehiddenstaircase.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/nancydrewandthehiddenstaircase.jpg"
@@ -20,7 +20,7 @@ var inTheTheaters = [
 {
     "option":"3",
     "mtitle":"Five Feet Apart",
-    "review":"Stella has Cystic Fibrosis and follows her regimen to the letter.  Also, Will has CF.  But he got an incurable bacteria making him ineligible for a transplant.  Due to these bacterias, it is required for patients with CF to stay 6 feet apart.  Once Stella finds and loses love, she decides to reclaim 1 foot.  When Will has to choose between killing Stella or letting her die, what will he choose?<br/><br/>Based on a novel, this movie will make you misty-eyed.  While it's a heartbreaking ending, it's the most honest.  And it proves that love can overcome anything.  Even, itself.<br/><br/>3.5 out of 5 stars.",
+    "review":"Stella has Cystic Fibrosis and follows her regimen to the letter.  Will has CF but he got an incurable bacteria making him ineligible for a transplant, so he ignores is treatments.  Due to these bacterias, it is required for patients with CF to stay 6 feet apart.  Once Stella finds and loses love, she decides to reclaim 1 foot.  When Will has to choose between killing Stella or letting her die, what will he choose?<br/><br/>Based on a novel, this movie will make you misty-eyed.  While it's a heartbreaking ending, it's the most honest.  And it proves that love can overcome anything.  Even, itself.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fivefeetapart.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fivefeetapart.jpg"
