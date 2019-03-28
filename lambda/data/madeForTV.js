@@ -20,7 +20,7 @@ var madeForTV = [
 {
     "option":"3",
     "mtitle":"Nightmare Tenant",
-    "review":"To get over empty nest syndrome, Carol's daughter and her boyfriend thinks it will be a great idea to rent her daughter's room while she is away at college. Carol scoffs at the idea but after hearing Nikki's misfortune, Carol decides to rent to her.  Carol doesn't know that Nikki his hell-bent on undoing a wrong by destroying her.<br/><br/>You will spend most of this movie rolling your eyes at Carol's naive behavior.  This is better as background noise.<br/><br/>2.5 out of 5 stars.",
+    "review":"To get over empty nest syndrome, Carol's daughter and her boyfriend thinks it will be a great idea to rent her daughter's room while she is away at college. Carol scoffs at the idea but after hearing Nikki's misfortune, Carol decides to rent to her.  Carol doesn't know that Nikki is hell-bent on undoing a wrong by destroying her.<br/><br/>You will spend most of this movie rolling your eyes at Carol's naive behavior.  This movie is better as background noise.<br/><br/>2.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/nightmaretenant.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/nightmaretenant.jpg"
@@ -29,7 +29,7 @@ var madeForTV = [
 {
     "option":"4",
     "mtitle":"Mommy's Little Princess",
-    "review":"In an attempt to discover her history, Lizzy's mom orders a DNA testing kit.  The results reveal that Lizzy descends from German royalty.  This revelation goes to Lizzy's head.  She believes she is a real princess and she will hurt anyone who stand in her way or doesn't believe her.  Including her sister, step-father, and friends.<br/><br/>Nothing is creepier than an evil kids.  While you will watch in subtle horror, the end will leave you dissatisfied.<br/><br/>3 out of 5 stars.",
+    "review":"In an attempt to discover her history, Lizzy's mom orders a DNA testing kit.  The results reveal that Lizzy descends from German royalty.  This revelation goes to Lizzy's head.  She believes she is a real princess and she will hurt anyone who stands in her way or doesn't believe her.  Including her sister, step-father, and friends.<br/><br/>Nothing is creepier than an evil kid.  While you will watch in subtle horror, the end will leave you dissatisfied.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mommyslittleprincess.jpeg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mommyslittleprincess.jpeg"
@@ -38,7 +38,7 @@ var madeForTV = [
 {
     "option":"5",
     "mtitle":"Mommy Group Murder",
-    "review":"Natalie's worst fears comes true when her stroller almost rolls into a river.  However, her daughter is saved by Grace.  The two bond over fears and obligations and Grace asks Natalie to join their Mommy Group.  Natalie still feels inadequate while comparing herself to the group's moms.  When Maria tell Natalie a devastating secret about Grace, Natalie goes on a hunt for the truth.  She starts by learning Grace's real name.<br/><br/>This movie combines a mystery with the honesty of being a new mother.  The doubt, fears, loneliness, and sleep deprivation all mothers go through.  This movie's honest can help moms relieve themselves of guilt while being entertained.<br/><br/>4.5 out of 5 stars.",
+    "review":"Natalie's worse fears comes true when her stroller almost rolls into a river.  However, her daughter is saved by Grace.  The two bond over fears and obligations and Grace asks Natalie to join their Mommy Group.  Natalie still feels inadequate while comparing herself to the group's moms.  When Maria tell Natalie a devastating secret about Grace, Natalie goes on a hunt for the truth.  She starts by learning Grace's real name.<br/><br/>This movie combines a mystery with the honesty of being a new mother.  The doubt, fears, loneliness, and sleep deprivation all mothers go through.  This movie's honesty can help moms relieve themselves of guilt while being entertained.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mommygroupmurder.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mommygroupmurder.jpg"
