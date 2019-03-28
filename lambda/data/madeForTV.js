@@ -1,47 +1,47 @@
 var madeForTV = [
 {
-    "option": "1",
-    "mtitle": "Who's Stalking Me?",
-    "review": "Detective Dawson offers his help after Amanda is attacked in her home.  While his intentions are noble on the surface, he is hiding a dark secret.  All Lifetime fans should watch this movie and stick it out to the end.  It will give a shock you will never see coming with a decent body count.<br/><br/>5 out of 5 stars.",
+    "option":"1",
+    "mtitle":"Love to the Rescue",
+    "review":"After their children fall in love with the same dog, Kate and Eric decide to share the dog for a month to find its true forever home.  As the two co-own the dog, they grow closer and stronger.  Is Kate ready for love after divorce? Is Eric ready for love after losing is wife?<br/><br/>This romantic comedy is charming.  And its amazing to see the similarities between the kids and the other parent.  It will truly warm your heart while fallowing the Hallmark format.<br/><br/>3 out of 5 stars.",
     "image":{
-        "smallImageUrl": "https://s3.amazonaws.com/thebestdarngirls/small-image/whosstalkingme.jpg",
-        "largeImageUrl": "https://s3.amazonaws.com/thebestdarngirls/large-image/whosstalkingme.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/lovetotherescue.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/lovetotherescue.jpg"
     }
 },
 {
-    "option": "2",
-    "mtitle": "Love on the Menu",
-    "review": "Hank mistakes Maggie for being a food critic and believes her bad review cost him to lose a star.  But she is a VP for a frozen food company and wants to hire him to create gourmet recipes for a frozen food line.  They will have to work together to create the recipes and save his restaurant.  This movie is a smart, easy laugh with true family bonding.  Watch it with the whole family today.<br/><br/>4.5 out of 5 stars.",
+    "option":"2",
+    "mtitle":"A Daughter's Deception",
+    "review":"Laura daughter's, Bree, that she gave up for adoption, stands before her.  Laura quickly welcomes her with open arms and introduces Bree to her other daughter Skylar.  Bree becomes family overnight.  But when Skylar finds a ring in Bree's purse with another woman's name, Bree's dark truth will surface.<br/><br/>While watching this movie, you will root for Bree.  As she stands up to bullies and puts people in their place, you want this family to work.  Also, it displays great fight scenes.<br/><br/>3.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/loveonthemenu.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/loveonthemenu.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/adaughtersdeception.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/adaughtersdeception.jpg"
     }
 },
 {
-    "option": "3",
-    "mtitle": "Instakiller",
-    "review": "Harper's life was saved with a heart transplant less than a year ago.  She uses her social media account to promote her fashion designs.  She is ecstatic to see she has 1,000 new followers overnight.  But one of the followers is a stalker set on harming anyone that comes in between them.  This movie has great acting but an average script.  Lifetime fans will figure out the stalker in the first hour.<br/><br/>2.5 out of 5 stars.",
+    "option":"3",
+    "mtitle":"Nightmare Tenant",
+    "review":"To get over empty nest syndrome, Carol's daughter and her boyfriend thinks it will be a great idea to rent her daughter's room while she is away at college. Carol scoffs at the idea but after hearing Nikki's misfortune, Carol decides to rent to her.  Carol doesn't know that Nikki his hell-bent on undoing a wrong by destroying Carol.<br/><br/>You will spend most of this movie rolling your eyes at Carol's naive behavior.  This is better as background noise.<br/><br/>2.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/instakiller.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/instakiller.jpeg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/nightmaretenant.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/nightmaretenant.jpg"
     }
 },
 {
-    "option": "4",
-    "mtitle": "Chronicle Mysteries: Recovered",
-    "review": "For season 2 of her podcast, Alex decides to head back to her hometown to solve the mystery of Gina DeSalvo.  Gina DeSalvo was last seen leaving her job after getting her tips.  Her car crashed into a boulder and was recovered with blood on the windshield and no body.  Alex was determined to find her.  This mystery gives you a rare look into a sleuth's mind while she is figuring out the crime.  With the podcast, you feel more like a friend than a fly on the wall.  Hopefully Hallmark will extend this movie series.<br/><br/>5 out of 5 stars.",
+    "option":"4",
+    "mtitle":"Mommy's Little Princess",
+    "review":"To discover her history, Lizzy's mom orders a DNA testing kit.  The results reveal that Lizzy descends from German royalty.  This revelation goes to Lizzy's head.  She believes she is a real princess and she will hurt anyone to tries to stop her.  Including her sister, step-father, and friends.<br/><br/>Nothing is creepier than an evil kids.  While you will watch in sutle horror, the end will leave you dissatisfied..<br/><br/>3 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/chroniclemysteriesrecovered.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/chroniclemysteriesrecovered.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mommyslittleprincess.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mommyslittleprincess.jpeg"
     }
 },
 {
     "option":"5",
-    "mtitle":"Olivia Newton-John: Hopelessly Devoted to You",
-    "review":"Olivia has to navigate through career highs and life lows.  She has to gain control over her career and her health simultaneously.  While most would crumble under the pressure, she thrived and inspired others.  Let this movie inspire you.  Olivia Newton-John's fans will learn something new about her and others will discover a new role model.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Mommy Group Murder",
+    "review":"Natalie's worst fears comes true when her stroller almost rolls into a river.  However, her daughter is saved by Grace.  The two bond over fears and obligations and Grace asks Natalie to join their Mommy Group.  However, Natalie still inadequate while comparing herself to the new moms.  When Maria tell Natalie a devastating secret about Grace, Natalie goes on a hunt for the truth.  She wills start by finding Grace's real name.<br/><br/>This movie combines a mystery with the honesty of being a new mother.  The doubt, fears, loneliness, and sleep deprivation all mothers go through.  This movie's honest can help moms relieve themselves of guilt while being entertained.<br/><br/>4.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/olivianewtonjohnhopelesslydevotedtoyou.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/olivianewtonjohnhopelesslydevotedtoyou.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mommygroupmurder.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mommygroupmurder.jpg"
     }
 }
 ];
