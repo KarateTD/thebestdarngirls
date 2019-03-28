@@ -20,7 +20,7 @@ var inTheTheaters = [
 {
     "option":"3",
     "mtitle":"Five Feet Apart",
-    "review":"Stella has Cystic Fibrosis and follows her regimen to the letter.  Will has CF, too.  But he got an incurable bacteria making him ineligible for a transplant.  Due to these bacterias, it is required for patients with CF to stay 6 feet apart.  Once Stella finds and loses love, she decides to reclaim 1 foot.  When Will has to choose between killing Stella or letting her die, what will he choose?<br/><br/>Based on a novel, this movie will make you misty-eyed.  While it's a heartbreaking ending, it's the most honest.  And it proves that love can overcome anything.  Even, itself.<br/><br/>3.5 out of 5 stars.",
+    "review":"Stella has Cystic Fibrosis and follows her regimen to the letter.  Also, Will has CF.  But he got an incurable bacteria making him ineligible for a transplant.  Due to these bacterias, it is required for patients with CF to stay 6 feet apart.  Once Stella finds and loses love, she decides to reclaim 1 foot.  When Will has to choose between killing Stella or letting her die, what will he choose?<br/><br/>Based on a novel, this movie will make you misty-eyed.  While it's a heartbreaking ending, it's the most honest.  And it proves that love can overcome anything.  Even, itself.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fivefeetapart.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fivefeetapart.jpg"
@@ -29,7 +29,7 @@ var inTheTheaters = [
 {
     "option":"4",
     "mtitle":"Captive State",
-    "review":"In 2020, aliens invaded and killed our power grid.  To get it back, we created an alliance.  If we work for them, they won't kill us.  Anyone who disrupts the order is taken off planet.  Gabriel has created a plan to escape but he will go through hell to get there.<br/><br/>This movie mixes alien myth with Greek mythology.  The viewers will spend most of the movie wonder what is going on and who is in control.  You won't know until the last 20 minutes but the ride is worth it.<br/><br/>3.5 out of 5 stars.",
+    "review":"In 2020, aliens invaded and killed our power grid.  To get it back, we created an alliance.  If we work for them, they won't kill us.  Anyone who disrupts the order is taken off planet.  Gabriel has created a plan to escape but he will go through hell to get there.<br/><br/>This movie mixes an alien movie with Greek mythology.  The viewers will spend most of the movie wonder what is going on and who is in control.  You won't know until the last 20 minutes but the ride is worth it.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/captivestate.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/captivestate.jpg"
