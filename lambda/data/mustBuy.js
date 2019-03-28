@@ -2,7 +2,7 @@ var mustBuy = [
 {
 	"option":"1",
 	"mtitle":"Spider-Man: Into the Spider-Verse",
-	"review":"In 24 hours, Miles Morales is bitten by a radio active spider, witnesses the death of Spider-Man, is hunted, and discover 5 other Spider-Men.  Each Spider-Man has their own back story, but they have one thing in common: Being a reluctant superhero.  Miles will sadly join this club.  Seeing the seamless mesh of different animation styles with a strong story and great life lessons for kids is superb.  Stay pass the end credits and look out for Stan Lee.<br/><br/>5 out of 5 stars.",
+	"review":"In 24 hours, Miles Morales is bitten by a radio active spider, witnesses the death of Spider-Man, is hunted, and discover 5 other Spider-Men.  Each Spider-Man has their own back story, but they have one thing in common: Being a reluctant superhero.  Miles will sadly join this club.<br/><br/>Seeing the seamless mesh of different animation styles with a strong story and great life lessons for kids is superb.  Stay pass the end credits and look out for Stan Lee.<br/><br/>5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/spidermanintothespiderverse.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/spidermanintothespiderverse.jpg"
@@ -11,7 +11,7 @@ var mustBuy = [
 {
 	"option":"2",
 	"mtitle":"Green Book",
-	"review":"Dr. Shirley hires Tony 'Lip' Vallelonga to drive him for his tour in the deep south.  Seeing prejudice there uncovers the prejudice feelings in themselves.  This movie is Oscar worthy with enough heart and life lessons to carry with you for a lifetime.<br/><br/>4.5 out of 5 stars.",
+	"review":"Dr. Shirley hires Tony 'Lip' Vallelonga to drive him for his tour in the deep south.  Seeing prejudice there uncovers the prejudice feelings in themselves.<br/><br/>This movie is Oscar worthy with enough heart and life lessons to carry with you for a lifetime.<br/><br/>4.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/greenbook.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/greenbook.jpg"
@@ -20,7 +20,7 @@ var mustBuy = [
 {
 	"option":"3",
 	"mtitle":"Creed 2",
-	"review":"Adonis becomes the champion and faces a challenge like no other.  The son of his father's killer wants a chance at the title.  This fight will leave Adonis broken physically and spiritually.  But can he get back up? A true underdog tale that rights a lot of Rocky's self-induced wrongs.<br/><br/>5 out of 5 stars.",
+	"review":"Adonis becomes the champion and faces a challenge like no other.  The son of his father's killer wants a chance at the title.  This fight will leave Adonis broken physically and spiritually.  But can he get back up?<br/><br/>A true underdog tale that rights a lot of Rocky's self-induced wrongs.<br/><br/>5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/creed2.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/creed2.jpg"
@@ -29,7 +29,7 @@ var mustBuy = [
 {
 	"option":"4",
 	"mtitle":"Ralph Breaks the Internet: Wreck-it Ralph 2",
-	"review":"When Vanellope's game breaks, she and Ralph go to the Internet to find the steering wheel she needs.  While trying to earn money to afford it she needs for her game on the internet, Vanellope finds a new and exciting game called Slaughter Race.  Ralph wants to go back to their arcade but she wants to stay on the internet, leaving their friendship in the balance.  A great movie with a lot of heart and explores the true meaning of friendship.  But not as funny as the first.<br/><br/>4 out of 5 stars.",
+	"review":"When Vanellope's game breaks, she and Ralph go to the Internet to find the steering wheel she needs.  While trying to earn money she needs on the internet, Vanellope finds a new and exciting game called Slaughter Race.  Ralph wants to go back to their arcade but she wants to stay on the internet, leaving their friendship in the balance.<br/><br/>A great movie with a lot of heart and explores the true meaning of friendship.  But not as funny as the first.<br/><br/>4 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/raphbreakstheinternet.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/raphbreakstheinternet.jpg"
@@ -38,7 +38,7 @@ var mustBuy = [
 {
     "option":"5",
     "mtitle":"A Star is Born",
-    "review":"Jack Maine walks off a sold out stage and heads straight to the nearest bar.  He ends up in a drag bar and watches Allie perform.  Blown away by her voice, he wonders why she hasn't tried to sing professionally.  She says her looks have stopped her.  He invites her to his next show and puts her voice on display for the world to hear.  As her star rises, can he handle the exchange of fame? This movie will pull at the heartstrings, inspire hope, and bring awareness to mental illness.  You will never be tired of watching this masterpiece.<br/><br/>5 out of 5 stars.",
+    "review":"Jack Maine walks off a sold out stage and heads straight to the nearest bar.  He ends up in a drag bar and watches Allie perform.  Blown away by her voice, he wonders why she hasn't tried to sing professionally.  She says her looks have stopped her.  He invites her to his next show and puts her voice on display for the world to hear.  As her star rises, can he handle the exchange of fame?<br/><br/>This movie will pull at the heartstrings, inspire hope, and bring awareness to mental illness.  You will never be tired of watching this masterpiece.<br/><br/>5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/astarisborn.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/astarisborn.jpg"
