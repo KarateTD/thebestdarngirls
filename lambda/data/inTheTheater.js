@@ -1,47 +1,47 @@
 var inTheTheaters = [
 {
     "option":"1",
-    "mtitle":"Fighting with My Family",
-    "review":"Saraya trained for years to become a WWE superstar, so when she and her brother, Zak, got a try-out, they were floored.  Changing her name to Paige, they give the tryout their all.  But when she is picked and not Zak, she wonders if she can do it alone.  And Zak starts to spiral.  This family needs to stick together to save Zak and encourage Saraya.  This isn't just another wrestling movie, it's about family and dreams versus reality.  Saraya has to overcome her lack of strength, her misconceptions, and self-doubts but she can't do it without her honest and loving family.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Nancy Drew and the Hidden Staircase",
+    "review":"During the start of her summer-long community service, Nancy Drew over hears Flora alerting the Sheriff that her house is haunted.  The Sheriff ignores Flora but Nancy is intrigued.  Flora invites her to her home to solve the case.  Can Nancy keep it together when her loves ones are on the line?<br/><br/>Nancy Drew fans delight in this strong telling of the well-known novel.  Nancy is a strong lead character with a supporting cast worth its weight in gold.  Please be advised, some scenes maybe too intense for children under 7.<br/><br/>3.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fightingwithmyfamily.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fightingwithmyfamily.jpeg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/nancydrewandthehiddenstaircase.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/nancydrewandthehiddenstaircase.jpg"
     }
 },
 {
     "option":"2",
-    "mtitle":"Isn't It Romantic",
-    "review":"Natalie believes that romantic comedies are bad for women because they are unrealistic and cliche.  When an accident leaves her stuck in a romantic comedy, she must follow the cliches to get a man to fall in love with her and get out.  This movie makes fun of each cliche as Natalie performs them.  It's funny because Natalie is saying exactly what you are thinking.  Using Pretty Woman, The Wedding Singer, and other romantic classics, this movie is a date night movie for those who love and hate romantic comedies.  It's not a classic but it's fun to watch.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Wonder Park",
+    "review":"June and her mother would create Wonder Park every day.  But when her mom has to leave in order to get better, June destroys Wonder Park and starts to obsess about her father's health.  June's father decides to send her to Math Camp but she escapes when she misinterpret a note from him.  In the woods, June discovers Wonder Park isn't imaginary.<br/><br/>This movie has so many emotions for a 85 minute film.  As you see, June's imagination come to life, you wish it were real.  This story is not about overcoming hurt but embracing it to become stronger.  However, if you are with a little one with a sick parent, this movie maybe too much to handle.  3D is not necessary.<br/><br/>3.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/isntitromantic.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/isntitromantic.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/wonderpark.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/wonderpark.jpg"
     }
 },
 {
     "option":"3",
-    "mtitle":"Happy Death Day 2 U",
-    "review":"Ryan is killed and wakes up in the same day.  When he tells Tree and Carter, they know exactly what's happening to him.  Like Tree, he will have to keep dying to figure out who killed him.  But after a science experiment goes awry, Tree is back to her original loop but in a different dimension.  Now, she has to solve her murder again to stop the loop but she may want to stay in this new dimension.  This sci-fi twist to a suspense movie is long and boring.  Instead of the loop making Tree a better person, it was a fluke.  If you are a fan of the first or not, wait for Redbox.<br/><br/>2 out of 5 stars.",
+    "mtitle":"Five Feet Apart",
+    "review":"Stella has Cystic Fibrosis and follows her regimen to the letter.  Will has CF too.  But he got an incurable bacteria making him ineligible for a transplant.  Due to these bacterias, it is required for patients with CF to stay 6 feet apart.  Once Stella finds and loses loves, she decides to reclaim 1 foot.  When Will has to choose between killing Stella or letting her die, what will he choose?<br/><br/>Based on a novel, this movie will make you tear up.  While its an heartbreaking ending, its the most honest.  And it proves that love can overcome anything.  Even, itself.<br/><br/>3.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/happydeathday2u.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/happydeathday2u.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fivefeetapart.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fivefeetapart.jpg"
     }
 },
 {
     "option":"4",
-    "mtitle":"Alita: Battle Angel",
-    "review":"After Dr. Ido finds her functional brain in a scrap yard, Alita must battle to recover her memory and her drive for the future.  This movie surpasses Avatar visually while having the drama of a teen film and the action of NASCAR.  It ends on a cliff-hanger and should be seen in Dolby.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Captive State",
+    "review":"In 2020, aliens invaded and took out our power grid.  To get it back, we created an alliance.  We work for them and they won't kill us.  Anyone who disrupt the order is taken off planet.  Gabriel has created a plan to escape but he will go through hell to get there.<br/><br/>This movie mixes alien myth with Greek mythology.  The viewers will spend most of the movie wonder what is going on and who is in control.  You won't know until the last 20 minutes but the ride is worth it.<br/><br/>3.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/alitabattleangel.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/alitabattleangel.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/captivestate.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/captivestate.jpg"
     }
 },
 {
     "option":"5",
-    "mtitle":"Cold Pursuit",
-    "review":"After receiving Kehoe's Citizen of the Year award, Nels Coxman learns is son died of a drug overdose.  Nels goes to his work's garage to commit suicide when he finds his son's friend, Dante bleeding and crying in the corner.  Dante tells Nelson, his son was killed over drugs he stole.  Nelson demands the name of his son's killer.  A name that will set off a killing spree.  This movie is nothing new.  The double crossing, killing, and setups are predictable and pretty boring.  It's the women of Kehoe that will make you laugh.  See it matinee or wait for Redbox.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"Captain Marvel",
+    "review":"Vers is excited to be granted her first mission by the Supreme Intelligence.  During the battle between the Kree and the Skrulls, Vers is capture and put into a mind hacking machine.  Skrulls uncover memories she thought were dreams.  She escapes the machine and jumps into an escape pod that veers off course to C-53, a.k.a. Earth.  On earth Vers will learn the truth about her powers, the Kree, and the Skrulls.<br/><br/>Newcomers to the MCU need to watch the other films before watching this movie.  Thare are a lot of jokes and references to the past and present that will not make sense without knowledge of these movies.  With so much history to cover before the initial story, the first 10 minutes feels extremely rushed.  If you miss it, you will miss everything.  And 90s babies, be ready for some nostalgia.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/coldpursuite.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/coldpursuite.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/captainmarvel.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/captainmarvel.jpg"
     }
 }
 ];
