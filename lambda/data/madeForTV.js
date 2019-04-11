@@ -1,48 +1,48 @@
 var madeForTV = [
 {
     "option":"1",
-    "mtitle":"Love to the Rescue",
-    "review":"After their children fall in love with the same dog, Kate and Eric decide to share the dog for a month to find its true forever home.  As the two co-own the dog, they grow closer and stronger.  Is Kate ready for love after divorce? Is Eric ready for love after losing is wife?<br/><br/>This romantic comedy is charming.  And its amazing to see the similarities between the kids and the other parent.  It will truly warm your heart while following the Hallmark format.<br/><br/>3 out of 5 stars.",
+    "mtitle":"My Killer Client",
+    "review":"Krista is trying to plan her wedding, get new clients, and impress her tough-as-nails mother-in-law.  She is only failing in the eyes of her in-law.  But she knows that more respected clients will get her praise.  So she his happy to work with foundation owner Kat.  Kat seems a little needy and weird but Krista blows it off.  Krista doesn't know that Kat is her fiance, Jake's, high school girlfriend.  They broke up before prom but Kat still showed up at Jake's house.  When Jake tried to let her down easy, she attacked him.  Kat will do, say, or kill to get him back.<br/><br/>This movies slowly falls falls apart.  You want Kat to win because Krista is just too naive.  Save this one as background noise.<br/><br/>2.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/lovetotherescue.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/lovetotherescue.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mykillerclient.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mykillerclient.jpeg"
     }
 },
 {
-    "option":"2",
-    "mtitle":"A Daughter's Deception",
-    "review":"Laura's daughter, Bree, that she gave up for adoption, stands before her.  Laura quickly welcomes her with open arms and introduces Bree to her other daughter Skylar.  Bree becomes family overnight.  But when Skylar finds a ring in Bree's purse with another woman's name, Bree's dark truth will surface.<br/><br/>While watching this movie, you will root for Bree.  As she stands up to bullies and puts people in their place, you want this family to work.  Also, it displays great fight scenes.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/adaughtersdeception.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/adaughtersdeception.jpg"
-    }
+     "option":"2",
+     "mtitle":"True Love Blooms",
+     "review":"Vickie loves managing the community garden.  She is heartbroken when the owner sells to a developer to make condos.  She had a few days to convince Chase Devine to let her keep the garden for the community.  He has a few days to convince her the condos are great for the community.  Who will win?<br/><br/>This movie packs a lot of laughs and heart.  It's great to see that the developer isn't portrayed has mean but a person that wants to help.  They both have the same goals, just different ways to achieve them.  This is a good movie to kick off spring.<br/><br/>3.5 out of 5 stars.",
+     "image":{
+         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/trueloveblooms.jpg",
+         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/trueloveblooms.jpg"
+     }
 },
 {
-    "option":"3",
-    "mtitle":"Nightmare Tenant",
-    "review":"To get over empty nest syndrome, Carol's daughter and her boyfriend think it will be a great idea to rent her daughter's room while she is away at college. Carol scoffs at the idea but after hearing Nikki's misfortune, Carol decides to rent to her.  Carol doesn't know that Nikki is hell-bent on undoing a wrong by destroying her.<br/><br/>You will spend most of this movie rolling your eyes at Carol's naive behavior.  This movie is better as background noise.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/nightmaretenant.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/nightmaretenant.jpg"
-    }
+     "option":"3",
+     "mtitle":"I Almost Married a Serial Killer",
+     "review":"Camille mistook the ring in her boyfriend, Raphel's, pocket as a wedding proposal.  He was marking her has his next victim.  With the help of a code word and her daughter, Violet, Camille escapes.  After Raphel is sentenced to 8 life terms, Camille and Violet are fine for 6 months.  Then, he escapes.  They go into witness protection.  They don't know that Raphel got extensive plastic surgery and killed the doctor.  Now know one knows what he looks like nor where he is.<br/><br/>This movie first 10 minutes feels like the last 10 minutes.  It is high energy and nerve-racking.  Then it becomes a great mystery for 30 minutes.  But once the audience knows the truth, this movie becomes just another lifetime movie with an absent minded victim.<br/><br/>3.5 out of 5 stars.",
+     "image":{
+         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/ialmostmarriedaserialkiller.jpg",
+         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/ialmostmarriedaserialkiller.jpg"
+     }
 },
 {
-    "option":"4",
-    "mtitle":"Mommy's Little Princess",
-    "review":"In an attempt to discover her history, Lizzy's mom orders a DNA testing kit.  The results reveal that Lizzy descends from German royalty.  This revelation goes to Lizzy's head.  She believes she is a real princess and she will hurt anyone who stands in her way or doesn't believe her.  Including her sister, step-father, and friends.<br/><br/>Nothing is creepier than an evil kid.  While you will watch in subtle horror, the end will leave you dissatisfied.<br/><br/>3 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mommyslittleprincess.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mommyslittleprincess.jpeg"
-    }
+     "option":"4",
+     "mtitle":"The Killer Next Door",
+     "review":"On her way to the hospital to give birth, Julie and her husband are in a car accident.  She wakes up to her son but her husband died.  Julie is devastated.  7 years later, Julie decides to movie into the neighborhood with her sister-in-law, Ally.  She believes having family and a new start will help her and her son.  But when the neighborhood turns against her, her home is broken into, and her son is missing, Julie has to figure out who is behind it.  Can she handle the truth?<br/><br/>This movie provides plenty of guess work but Lifetime fans will figure it out before the the killer is revealed.  It is fun to watch Julie take over her life after it fell apart twice.<br/><br/>3 out of 5 stars.",
+     "image":{
+         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thekillernextdoor.jpg",
+         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thekillernextdoor.jpg"
+     }
 },
 {
-    "option":"5",
-    "mtitle":"Mommy Group Murder",
-    "review":"Natalie's biggest fears comes true when her stroller almost rolls into a river.  However, her daughter is saved by Grace.  The two bond over fears and obligations when Grace asks Natalie to join their Mommy Group.  Natalie still feels inadequate while comparing herself to the group's moms.  When Maria tells Natalie a devastating secret about Grace, Natalie goes on a hunt for the truth.  She starts by learning Grace's real name.<br/><br/>This movie combines a mystery with the honesty of being a new mother.  The doubt, fears, loneliness, and sleep deprivation all mothers go through.  This movie's honesty can help moms relieve themselves of guilt while being entertained.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mommygroupmurder.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mommygroupmurder.jpg"
-    }
+     "option":"5",
+     "mtitle":"A Brush with Love",
+     "review":"Jamie has spent so much time developing her art school, she has lost her passion for painting.  Her best friend, Ava, tries to get her to enter into a contest, but Jamie just can't do it.  When she uses a vision board, she is inspired to paint her greatest work yet.  Then her vision hits too close to home so she wants to keep it a secret.  She has to create a new painting while choosing between 2 men.  Who will she choose an her true inspiration?<br/><br/>This film biggest start is the artwork itself.  It will make you want to pick up a paint brush and give it a try.  And Jamie's choice for her inspiration will strike a chord in your heart.<br/><br/>3 out of 5 stars.",
+     "image":{
+         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/abrushwithlove.jpeg",
+         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/abrushwithlove.jpeg"
+     }
 }
 ];
 

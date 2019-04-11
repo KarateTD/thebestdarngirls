@@ -86,4 +86,14 @@ module.exports = mustBuy;
     }
 }
 
+{
+    "option":"5",
+    "mtitle":"Captain Marvel",
+    "review":"Vers is excited to be granted her first mission by the Supreme Intelligence.  During the battle between the Kree and the Skrulls, Vers is captured and put into a mind hacking machine.  The Skrulls uncover memories she thought were dreams.  She escapes the machine and jumps into an escape pod that veers off course to C-53, a.k.a. Earth.  On earth, Vers will learn the truth about her powers, the Kree, and the Skrulls.<br/><br/>Newcomers to the MCU need to watch the other films before watching this movie.  There are a lot of jokes and references to the past and present that will not make sense without knowledge of these movies.  With so much history to cover before the initial story, the first 10 minutes feels extremely rushed.  If you miss it, you will miss everything.  And 90s babies, be ready for some nostalgia.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/captainmarvel.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/captainmarvel.jpg"
+    }
+}
+
 */
