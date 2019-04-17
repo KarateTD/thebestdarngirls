@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"Little",
-    "review":"Jordan wakes up in the her 13 year old body with no idea of how to get back.  Her assistant April has to run Jordan's company while creating a new app for her biggest client in 48 hours.  And to make matters worst, Jordan must enroll in the same school she was bullied in as a teen.  Jordan must find her authentic self or be stuck at 13 forever.<br/><br/>This movie, inspired by Big, has several laughs but few are memorable.  The moments that stick out are the duet with April and Jordan, and a bonding moment between Jordan and Trevor.  This is a good one to catch in the theaters but you won't have an urge to buy it.<br/><br/>3 out of 5 stars",
+    "review":"Jordan wakes up in her 13 year old body with no idea of how to get back.  Her assistant, April, has to run Jordan's company while creating a new app for her biggest client in 48 hours.  And to make matters worst, Jordan must enroll in the same school she was bullied in as a teen.  Jordan must find her authentic self or be stuck at 13 forever.<br/><br/>This movie, inspired by Big, has several laughs but few are memorable.  The moments that stick out are the duet with April and Jordan, and a bonding moment between Jordan and Trevor.  This is a good one to catch in the theaters but you won't have an urge to buy it.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/little.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/little.jpg"
