@@ -1,3 +1,4 @@
 publish*sh
 *zip
 .idea
+s3move.sh
