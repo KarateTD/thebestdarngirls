@@ -1,6 +1,33 @@
 var madeForTV = [
 {
     "option":"1",
+    "mtitle":"Bottle With Love",
+    "review":"Abby is urged to write a letter to love, put the letter in a bottle, and throw the bottle in the sea.  Nick is urged to come home and help the family business before it goes public.  Before Nick comes home he finds a bottle with a note.  He reads it and discovers the writer lives in his hometown.  They start to chat via the internet.  While is internet life is going well, is professional life has hit a rough patch.  He isn't getting along with his co-worker.  They constantly butt heads on how to choose companies to acquire.  Little does Nick know, his co-worker and his letter writer is the same woman: Abby.  Can love online over come real life?<br/><br/>While the movie is sweet, the moment Nick finds the bottle, you know what will happen.  This movie does point out how our communication skill online differ than how we connect in real life.  At times, it easier to have an open mind and ears behind a screen than in person.<br/><br/>3 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/abrushwithlove.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/abrushwithlove.jpeg"
+    }
+},
+{
+    "option":"2",
+    "mtitle":"Secrets in a Small Town",
+    "review":"Claire and Sarah move to a small town.  Coach Ruth sees Sarah shooting baskets and convinces Claire to ask her to try out for the basketball team.  With one tough blow, Sarah makes it onto the team and gets invited for team bonding that night.  Claire approves but tells her she must come home that night.  The next morning Claire is panicked when she can't find Sarah.  She is awestruck with the police does little to help.  Claire has no idea the darkness and callousness that lives in this small community.  Claire only hopes she can find her daughter in time.<br/><br/>This movie will have you on the edge of your see with fear and anger the entire time.  You will only have a sense of relief during the last 5 minutes.  It is a wild ride that deserves your full attention.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/secretsinasmalltown.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/secretsinasmalltown.jpg"
+    }
+},
+{
+    "option":"3",
+    "mtitle":"When Murder Calls",
+    "review":"Dr. Jill host a radio show giving love advice to her callers.  But when one caller, Alexis, commits suicide on air, she leaves the show.  With declining ratings, her manager asks her to come back. She agrees to do it only if she can change the format.  The first show is successful but the owner hates it.  So, she mixes the old catchphrase with the new format.  And the woman she thought committed suicide, calls the hotline and starts to stalk her.  Dr. Jill is in fear for her life.  Dr.Jill must find the stalker before she goes to jail.<br/><br/>This movie is a true mystery that keeps you guessing to the end.  Just when you feel like you have a handle on who did it, a new twist is added.  With so many motives and suspicious behavior, you will be glued to the TV.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whenmurdercalls.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whenmurdercalls.jpg"
+    }
+},
+{
+    "option":"4",
     "mtitle":"My Killer Client",
     "review":"Krista is trying to plan her wedding, get new clients, and impress her tough-as-nails mother-in-law.  She is only failing in the eyes of her in-law.  But she knows that more respected clients will get her praise.  So she his happy to work with foundation owner Kat.  Kat seems a little needy and weird but Krista blows it off.  Krista doesn't know that Kat is her fiance, Jake's, high school girlfriend.  They broke up before prom but Kat still showed up at Jake's house.  When Jake tried to let her down easy, she attacked him.  Kat will do, say, or kill to get him back.<br/><br/>This movies slowly falls apart.  You want Kat to win because Krista is just too naive.  Save this one as background noise.<br/><br/>2.5 out of 5 stars.",
     "image":{
@@ -9,7 +36,7 @@ var madeForTV = [
     }
 },
 {
-     "option":"2",
+     "option":"5",
      "mtitle":"True Love Blooms",
      "review":"Vickie loves managing the community garden.  She is heartbroken when the owner sells to a developer to make condos.  She has a few days to convince Chase Devine to let her keep the garden for the community.  He has a few days to convince her the condos are great for the community also.  Who will win?<br/><br/>This movie packs a lot of laughs and heart.  It's great to see that the developer isn't portrayed has mean but a person that wants to help.  They both have the same goals, just different ways to achieve them.  This is a good movie to kick off spring.<br/><br/>3.5 out of 5 stars.",
      "image":{
@@ -17,33 +44,6 @@ var madeForTV = [
          "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/trueloveblooms.jpg"
      }
 },
-{
-     "option":"3",
-     "mtitle":"I Almost Married a Serial Killer",
-     "review":"Camille mistook the ring in her boyfriend, Raphael's, pocket as a wedding proposal.  He was marking her as his next victim.  With the help of a code word and her daughter, Violet, Camille escapes.  After Raphael is sentenced to 8 life terms, Camille and Violet are fine for 6 months.  Then, he escapes.  They go into witness protection.  They don't know that Raphael got extensive plastic surgery and killed the doctor.  Now, know one knows what he looks like nor where he is.<br/><br/>This movie first 10 minutes feels like it should be the last 10 minutes.  It is high energy and nerve-racking.  Then it becomes a great mystery for 30 minutes.  But once the audience knows the truth, this movie becomes just another lifetime movie with an absent minded victim.<br/><br/>3.5 out of 5 stars.",
-     "image":{
-         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/ialmostmarriedaserialkiller.jpg",
-         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/ialmostmarriedaserialkiller.jpg"
-     }
-},
-{
-     "option":"4",
-     "mtitle":"The Killer Next Door",
-     "review":"On her way to the hospital to give birth, Julie and her husband are in a car accident.  She wakes up to her son but her husband died.  Julie is devastated.  7 years later, Julie decides to move into the neighborhood with her sister-in-law, Allie.  She believes having family and a new start will help her and her son.  But when the neighborhood turns against her, her home is broken into, and her son is missing, Julie has to figure out who is behind it.  Can she handle the truth?<br/><br/>This movie provides plenty of guess work but Lifetime fans will figure it out before the killer is revealed.  It is fun to watch Julie take over her life after it fell apart twice.<br/><br/>3 out of 5 stars.",
-     "image":{
-         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thekillernextdoor.jpg",
-         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thekillernextdoor.jpg"
-     }
-},
-{
-     "option":"5",
-     "mtitle":"A Brush with Love",
-     "review":"Jamie has spent so much time developing her art school, she has lost her passion for painting.  Her best friend, Ava, tries to get her to enter into a contest, but Jamie just can't do it.  When she uses a vision board, she is inspired to paint her greatest work yet.  Then her vision hits too close to home, so she wants to keep it a secret.  She has to create a new painting while choosing between 2 men.  Who will she choose as her true inspiration?<br/><br/>This film biggest star is the artwork itself.  It will make you want to pick up a paint brush and give it a try.  And Jamie's choice for her inspiration will strike a chord in your heart.<br/><br/>3 out of 5 stars.",
-     "image":{
-         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/abrushwithlove.jpeg",
-         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/abrushwithlove.jpeg"
-     }
-}
 ];
 
 module.exports = madeForTV;
