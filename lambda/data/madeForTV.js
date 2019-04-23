@@ -1,49 +1,49 @@
 var madeForTV = [
 {
     "option":"1",
+    "mtitle":"I Am Somebody's Child: The Regina Louise Story",
+    "review":"Regina Louise has rejected by her parents and foster homes.  She currently lives in a children's shelter as a ward of the state.  She start to bond with Ms. Kerr and the feeling is mutual.  But when Ms. Kerr tries to adopt Regina, their worlds are shattered by an system blinded by race.<br/><br/>Watching Regina and Ms. Kerr fight to stay together and bring a tear to your eye.  The horrors of the child welfare system will leave you disgusted and dumbfounded.  You will fell an urge to adopt.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/iamsomebodyschildthereginalouisestory.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/iamsomebodyschildthereginalouisestory.jpg"
+    }
+},
+{
+    "option":"2",
+    "mtitle":"Easter Under Wraps",
+    "review":"Erin will go undercover to discover how automation will effect her family company and her their product.  Brian, a dedicated worker, gives Erin an ear full of what he thinks of management and the machines.  As the two work together, their love grows.  But when he learns her true identity, can their love last?<br/><br/>While you know the fate of the couple, its the assemble that really make this movie.  Their quips and jokes will make you laugh out loud.  Also, watching Erin grow is remarkable.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/easterunderwraps.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/easterunderwraps.jpg"
+    }
+},
+{
+    "option":"3",
+    "mtitle":"My Evil Stepdad",
+    "review":"Ashley decides to set her mom, Tracy, up on date by creating and online profile.  However, she finds a possible match at coffee shop.  Knowing her mom won't like a blind date, Ashley tells Jared how to connect with her mom.  This meeting becomes a whirlwind marriage.  Now, Tracy has changed from a loving mother with depression to a demanding wife with a disdain towards her child.  Tracy get sick, Ashley is thrown out, and someone dies.  All while Jared is in control. What will it take to snap Tracy out of love?<br/><br/>Get ready to throw things at the screen.  As Tracy falls deeper in love with this com-man, you quickly hate her.  But remember, this happens all to often in real life.  It's Ashley that will bring you pride.  She continues to fight, trusts her instincts, and makes the ultimate sacrifice for her family.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/myevilstepdad.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/myevilstepdad.jpg"
+    }
+},
+{
+    "option":"4",
+    "mtitle":"Morning Show Mysteries: A Murder in Mind",
+    "review":"Billie is lost when her former employee is accused of murder.  She knows Katie is a good-hearted person but every piece of evidence points to her.  Billie has to find the clues to clear Katie's name and convince Ian that Katie is innocent.<br/><br/>Set your DVR because you will have to watch this one twice.  There are several suspects, plenty of motives, and lots of sketchy behavior.  It is a lot to unpack and every word spoken is important.  So pay close attention.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/morningshowmysteriesamurderinmind.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/morningshowmysteriesamurderinmind.jpeg"
+    }
+},
+{
+    "option":"5",
     "mtitle":"Bottled With Love",
     "review":"Abby is urged to write a letter to love, put the letter in a bottle, and throw the bottle in the sea.  Nick is urged to come home and help the family business before it goes public.  Before Nick comes home he finds a bottle with a note.  He reads it and discovers the writer lives in his hometown.  They start to chat via the internet.  While is internet life is going well, is professional life has hit a rough patch.  He isn't getting along with his co-worker.  They constantly butt heads on how to choose companies to acquire.  Little does Nick know, his co-worker and his letter writer is the same woman: Abby.  Can love online overcome real life?<br/><br/>While the movie is sweet, the moment Nick finds the bottle, you know what will happen.  This movie does point out how our communication skills online differ than how we connect in real life.  At times, it's easier to have an open mind and ears behind a screen than in person.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/bottlewithlove.jpeg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/bottlewithlove.jpeg"
     }
-},
-{
-    "option":"2",
-    "mtitle":"Secrets in a Small Town",
-    "review":"Claire and Sarah move to a small town.  Coach Ruth sees Sarah shooting baskets and convinces Claire to ask her to try out for the basketball team.  With one tough blow, Sarah makes it onto the team and gets invited for team bonding that night.  Claire approves but tells her she must come home that night.  The next morning Claire is panicked when she can't find Sarah.  She is awestruck when the police does little to help.  Claire has no idea the darkness and callousness that lives in this small community.  Claire only hopes she can find her daughter in time.<br/><br/>This movie will have you on the edge of your seat with fear and anger the entire time.  You will only have a sense of relief during the last 5 minutes.  It is a wild ride that deserves your full attention.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/secretsinasmalltown.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/secretsinasmalltown.jpg"
-    }
-},
-{
-    "option":"3",
-    "mtitle":"When Murder Calls",
-    "review":"Dr. Jill host a radio show giving love advice to her callers.  But when one caller, Alexis, commits suicide on air, she leaves the show.  With declining ratings, her manager asks her to come back. She agrees to do it only if she can change the format.  The first show is successful but the owner hates it.  So, she mixes the old catchphrase with the new format.  And the woman she thought committed suicide, calls the hotline and starts to stalk her.  Dr. Jill is in fear for her life.  Dr. Jill must find the stalker before she goes to jail.<br/><br/>This movie is a true mystery that keeps you guessing to the end.  Just when you feel like you have a handle on who did it, a new twist is added.  With so many motives and suspicious behaviors, you will be glued to the TV.<br/><br/>5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/whenmurdercalls.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/whenmurdercalls.jpg"
-    }
-},
-{
-    "option":"4",
-    "mtitle":"My Killer Client",
-    "review":"Krista is trying to plan her wedding, get new clients, and impress her tough-as-nails mother-in-law.  She is only failing in the eyes of her in-law.  But she knows that more respected clients will get her praise.  So she his happy to work with foundation owner Kat.  Kat seems a little needy and weird but Krista blows it off.  Krista doesn't know that Kat is her fiance, Jake's, high school girlfriend.  They broke up before prom but Kat still showed up at Jake's house.  When Jake tried to let her down easy, she attacked him.  Kat will do, say, or kill to get him back.<br/><br/>This movies slowly falls apart.  You want Kat to win because Krista is just too naive.  Save this one as background noise.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/mykillerclient.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/mykillerclient.jpeg"
-    }
-},
-{
-     "option":"5",
-     "mtitle":"True Love Blooms",
-     "review":"Vickie loves managing the community garden.  She is heartbroken when the owner sells to a developer to make condos.  She has a few days to convince Chase Devine to let her keep the garden for the community.  He has a few days to convince her the condos are great for the community also.  Who will win?<br/><br/>This movie packs a lot of laughs and heart.  It's great to see that the developer isn't portrayed has mean but a person that wants to help.  They both have the same goals, just different ways to achieve them.  This is a good movie to kick off spring.<br/><br/>3.5 out of 5 stars.",
-     "image":{
-         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/trueloveblooms.jpg",
-         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/trueloveblooms.jpg"
-     }
-},
+}
 ];
 
 module.exports = madeForTV;
