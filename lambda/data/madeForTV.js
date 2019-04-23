@@ -2,7 +2,7 @@ var madeForTV = [
 {
     "option":"1",
     "mtitle":"I Am Somebody's Child: The Regina Louise Story",
-    "review":"Regina Louise has rejected by her parents and foster homes.  She currently lives in a children's shelter as a ward of the state.  She start to bond with Ms. Kerr and the feeling is mutual.  But when Ms. Kerr tries to adopt Regina, their worlds are shattered by an system blinded by race.<br/><br/>Watching Regina and Ms. Kerr fight to stay together and bring a tear to your eye.  The horrors of the child welfare system will leave you disgusted and dumbfounded.  You will fell an urge to adopt.<br/><br/>5 out of 5 stars.",
+    "review":"Regina Louise is rejected by her parents and several foster homes.  She currently lives in a children's shelter as a ward of the state.  She starts to bond with Ms. Kerr and the feeling is mutual.  But when Ms. Kerr tries to adopt Regina, their worlds are shattered by a system blinded by race.<br/><br/>Watching Regina and Ms. Kerr fight to stay together will bring a tear to your eye.  The horrors of the child welfare system will leave you disgusted and dumbfounded.  You will feel an urge to adopt.<br/><br/>5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/iamsomebodyschildthereginalouisestory.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/iamsomebodyschildthereginalouisestory.jpg"
@@ -11,7 +11,7 @@ var madeForTV = [
 {
     "option":"2",
     "mtitle":"Easter Under Wraps",
-    "review":"Erin will go undercover to discover how automation will effect her family company and her their product.  Brian, a dedicated worker, gives Erin an ear full of what he thinks of management and the machines.  As the two work together, their love grows.  But when he learns her true identity, can their love last?<br/><br/>While you know the fate of the couple, its the assemble that really make this movie.  Their quips and jokes will make you laugh out loud.  Also, watching Erin grow is remarkable.<br/><br/>3.5 out of 5 stars.",
+    "review":"Erin will go undercover to discover how automation will effect her family company and their product.  Brian, a dedicated worker, gives Erin an ear full of what he thinks of management and the machines.  As the two work together, their love grows.  But when he learns her true identity, can their love last?<br/><br/>While you know the fate of the couple, its the ensemble that really make this movie.  Their quips and jokes will make you laugh out loud.  Also, watching Erin grow is remarkable.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/easterunderwraps.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/easterunderwraps.jpg"
@@ -20,7 +20,7 @@ var madeForTV = [
 {
     "option":"3",
     "mtitle":"My Evil Stepdad",
-    "review":"Ashley decides to set her mom, Tracy, up on date by creating and online profile.  However, she finds a possible match at coffee shop.  Knowing her mom won't like a blind date, Ashley tells Jared how to connect with her mom.  This meeting becomes a whirlwind marriage.  Now, Tracy has changed from a loving mother with depression to a demanding wife with a disdain towards her child.  Tracy get sick, Ashley is thrown out, and someone dies.  All while Jared is in control. What will it take to snap Tracy out of love?<br/><br/>Get ready to throw things at the screen.  As Tracy falls deeper in love with this com-man, you quickly hate her.  But remember, this happens all to often in real life.  It's Ashley that will bring you pride.  She continues to fight, trusts her instincts, and makes the ultimate sacrifice for her family.<br/><br/>3.5 out of 5 stars.",
+    "review":"Ashley decides to set her mom, Tracy, up on a date by creating and online profile.  However, she finds a possible match at coffee shop.  Knowing her mom won't like a blind date, Ashley tells Jared how to connect with her mom.  This meeting becomes a whirlwind marriage.  Now, Tracy has changed from a loving mother with depression to a demanding wife with a disdain towards her child.  Tracy get sick, Ashley is thrown out, and someone dies.  All while Jared is in control. What will it take to snap Tracy out of love?<br/><br/>Get ready to throw things at the screen.  As Tracy falls deeper in love with this con-man, you quickly hate her.  But remember, this happens all too often in real life.  It's Ashley that will bring you pride.  She continues to fight, trusts her instincts, and makes the ultimate sacrifice for her family.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/myevilstepdad.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/myevilstepdad.jpg"
