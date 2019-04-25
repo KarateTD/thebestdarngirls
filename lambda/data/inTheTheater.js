@@ -1,47 +1,47 @@
 var inTheTheaters = [
 {
     "option":"1",
+    "mtitle":"Booksmart",
+    "review":"Molly and Amy are inspired to spend their last night as high school students having the 4 years of fun they missed at Nick's party.  They just need one thing: the address.<br/><br/>This is not a \"coming-of-age\" movie.  These woman are strong, smart, and liked.  They just forgot to have fun.  Their friendship and world views will be tested.  And you will laugh at every milestone.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/booksmart.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/booksmart.jpg"
+    }
+},
+{
+    "option":"2",
+    "mtitle":"Breakthrough",
+    "review":"John walked on a frozen lake and fell through the ice.  After 20 minutes under water and 25 minutes of rescue efforts, the nurses stop working to allow John's mother to say her goodbyes.  As she prays for God to save her son, his heart starts beating again.  She will need her faith, her family, and her pastor to get her through as she prays for her son.<br/><br/>This movie will have you in tears.  While it shows John's journey, it doesn't sugar coat his mom's struggles.  She appeared to be a rock but she was pushing others away.  Also, this movie give insight to John's experience after his survival.  See it with the whole family..<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/breakthrough.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/breakthrough.jpg"
+    }
+},
+{
+    "option":"3",
+    "mtitle":"After",
+    "review":"Straight laced Tessa is not impressed with bad boy Hardin.  So when she gets an opportunity to kiss him, she turns him down.  But when she looks past his facade, can she resist is charms?  What will it costs Tessa to have Hardin in her life?<br/><br/>This movie is twilight without vampires.  Nothing really sets it apart from other teen angst movies.  Since it is book one in a 4 book series, the movie ends on a cliff hanger.  If you are a fan of the genre, see it matinee.  Otherwise, wait for Redbox..<br/><br/>2.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/after.png",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/after.png"
+    }
+},
+{
+    "option":"4",
+    "mtitle":"Missing Link",
+    "review":"Sir Lionel Frost is determine to join the society of great men. He has proof a Sasquatch could be real.  So he makes a deal, if he can find Sasquatch, they will allow him to join the club.  Otherwise, he will leave the group alone.  Lionel is surprised the letter writer about the Sasquatch, is the Sasquatch.  He offers to give Lionel proof of his existence, if Lionel takes him to meet is cousins:  The Yeti of the Himalayas.<br/><br/>This movie is only fun for the first and last 10 minutes.  The rest of the movie is boring.  Even the amazing graphics can't save this film.  Wait for cable.<br/><br/>1 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/missinglink.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missinglink.jpg"
+    }
+},
+{
+    "option":"5",
     "mtitle":"Little",
     "review":"Jordan wakes up in her 13 year old body with no idea of how to get back.  Her assistant, April, has to run Jordan's company while creating a new app for her biggest client in 48 hours.  And to make matters worst, Jordan must enroll in the same school she was bullied in as a teen.  Jordan must find her authentic self or be stuck at 13 forever.<br/><br/>This movie, inspired by Big, has several laughs but few are memorable.  The moments that stick out are the duet with April and Jordan, and a bonding moment between Jordan and Trevor.  This is a good one to catch in the theaters but you won't have an urge to buy it.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/little.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/little.jpg"
-    }
-},
-{
-    "option":"2",
-    "mtitle":"The Best of Enemies",
-    "review":"After the school for black children is damaged by fire, Ann Atwater demands the city enforce integration.  However, the city board disagrees.  This disagreement causes the NAACP to file a civil rights lawsuit.  To cut them off at the pass, the judge asks Bill to have a charette.  It allows 2 opposing sides to pick an issue and create solutions that's fair to everyone.  Bill picks Ann Atwater for school integration and C.P. Ellis, the head of the K.K.K., to oppose.  Normally picking the co-chairs is the easiest part but for Bill this will be the hardest.  This charette will lead the city on a path to the future.<br/><br/>The most poignant aspect of this movie is that both sides just want to be heard.  Ann Atwater wants equality and will get your attention to get it.  C.P. Ellis wants to keep his way of life and joined the KKK to be heard.  They change each other's heart in the matter of 10 days.  This movie proves that people can come together if we just listen and find common ground.  This is a good movie to see in theaters.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thebestofenemies.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thebestofenemies.jpg"
-    }
-},
-{
-    "option":"3",
-    "mtitle":"SHAZAM!",
-    "review":"Billy Batson has been placed into another foster home with 5 kids.  The moment he steps through the door, he plans his next escape.  After defending is superhero-obsessed foster brother, Freddy, Billy is chased into the subway and outsmarts the bullies.  Suddenly the train changes and he is in a temple.  Shazam tells Billy the 7 Deadly Sins have escaped and he is too weak to fight and entomb them again.  He doesn't have time to test Billy's worthiness, he will trust that Billy is good and transfer his powers to him.  Billy grows from a 14 year old boy to a 25 year old superhero.  Billy takes it all in vain until Thad and the 7 Deadly Sins come looking for him.  Thad knows Billy, the new Shazam, is the only one that can defeat him.  So, Thad will try to convince Billy to give up his powers or Thad wil kill him.<br/><br/>This movie has a quick wit and a great message about what makes a home and family.  Be aware some scenes may be too much for children under 10.  See it with the family and enjoy.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/shazam.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/shazam.jpg"
-    }
-},
-{
-    "option":"4",
-    "mtitle":"Dumbo",
-    "review":"Max decides to do something he has never done before: invest.  He buys a pregnant elephant and names it Jumbo.  Her baby, born a few weeks later, is named Jumbo Jr.  But after a circus mishap leads to a stage hand being killed, Jumbo is sold and Jumbo Jr. is renamed Dumbo.  Max believes the Dumbo can bring in money but doesn't know his real secret, Dumbo can fly.  When Max discovers the truth he sees dollar signs.  Then Dumbo goes mainstream and the Vandvere is watching with dollar signs in his eyes too.  Milly and Joe know the best thing for Dumbo is his mother and they will do anything to get her back.<br/><br/>Seeing Dumbo fly in this live action version is astounding but the slow storytelling takes away from the magic.  This will cause your interest and overall caring to fade.  If you have kids, see it matinee.  Otherwise, wait for Redbox.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/dumbo.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/dumbo.jpg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Nancy Drew and the Hidden Staircase",
-    "review":"During the start of her summer-long community service, Nancy Drew over hears Flora alerting the Sheriff that her house is haunted.  The Sheriff ignores Flora but Nancy is intrigued.  Flora invites her to her home to solve the case.  Can Nancy keep it together when her love ones are on the line?<br/><br/>Nancy Drew fans will delight in this strong telling of the well-known novel.  Nancy is a strong lead character with a supporting cast worth its weight in gold.  Please be advised, some scenes maybe too intense for children under 7.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/nancydrewandthehiddenstaircase.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/nancydrewandthehiddenstaircase.jpg"
     }
 }
 ];
