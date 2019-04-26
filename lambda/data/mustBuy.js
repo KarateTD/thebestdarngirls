@@ -96,4 +96,24 @@ module.exports = mustBuy;
     }
 }
 
+{
+    "option":"2",
+    "mtitle":"Breakthrough",
+    "review":"John walked on a frozen lake and fell through the ice.  After 20 minutes under water and 25 minutes of rescue efforts, the nurses stop working to allow John's mother to say her goodbyes.  As she prays for God to save her son, his heart starts beating again.  She will need her faith, her family, and her pastor to get her through as she prays for her son.<br/><br/>This movie will have you in tears.  While it shows John's journey, it doesn't sugar coat his mom's struggles.  She appeared to be a rock but she was pushing others away.  Also, this movie gives insight to John's experience after his survival.  See it with the whole family.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/breakthrough.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/breakthrough.jpg"
+    }
+}
+
+{
+    "option":"1",
+    "mtitle":"Booksmart",
+    "review":"Molly and Amy are inspired to spend their last night as high school students having the 4 years of fun they missed by attending Nick's party.  They just need one thing: the address.<br/><br/>This is not a \"coming-of-age\" movie.  These women are strong, smart, and liked.  They just forgot to have fun.  Their friendship and world views will be tested.  And you will laugh at every milestone.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/booksmart.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/booksmart.jpg"
+    }
+}
+
 */
