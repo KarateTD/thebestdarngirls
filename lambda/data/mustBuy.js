@@ -2,7 +2,7 @@ var mustBuy = [
 {
     "option":"1",
     "mtitle":"Miss Bala",
-    "review":"In order to save her friend, Suzu, Gloria is put in between a rock and a hard place.  Gloria is threaten to work with drug lord Lino to get information about Suzu.  She unintentionally blows up a DEA safe house.  In an attempt to get help, she gets threaten by the DEA.  So, she is risking life or jail to find her friend.<br/><br/>This movie is 15 minutes of set up and the rest all action.  Once it gets going, it never stops.  And it has more twist and turns than a soap opera.  See it today and hope for a part 2.<br/><br/>4.5 out of 5 stars.",
+    "review":"In order to save her friend, Suzu, Gloria is put in between a rock and a hard place.  Gloria is tricked into working with drug lord Lino to get information about Suzu.  She unintentionally blows up a DEA safe house.  In an attempt to get help, she runs to the DEA.  But, they threaten her too.  They want her to go back to Lino and plant a tracker on him.  Or they will charge her with the murder of DEA agents.  So, Gloria is risking life or jail to find Suzu.<br/><br/>This movie is 15 minutes of set up and the rest all action.  Once it gets going, it never stops.  And it has more twist and turns than a soap opera.  See it today and hope for a part 2.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/missbala.png",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missbala.png"
