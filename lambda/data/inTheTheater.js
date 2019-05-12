@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"Poms",
-    "review":"Martha's only regret is not being able to preform as a cheerleader when her mother got sick.  Now she is in a retirement community and has to find a group to stay.  She decides to creates a cheerleading club.  After an epic fail goes viral, the regroup with an enemy to compete in the biggest cheerleading competition on the south coast.  But Martha is keeping her cancer diagnosis a secret.<br/><br/>This movie is funny, inspiring, and a lesson for everyone on how to treat our elders.  While Martha is the heart af the group, Sheryl is the backbone.  Her wit, charm, and determination is the guiding force behind Martha.  Seeing it full price is worth it but you won't have the urge to buy.<br/><br/>3.5 out of 5 stars",
+    "review":"Martha's only regret is not being able to perform as a cheerleader when her mother got sick.  Now she is in a retirement community and has to find a group to stay.  She decides to create a cheerleading club.  After an epic fail goes viral, the regroup with an enemy to compete in the biggest cheerleading competition on the south coast.  But Martha is keeping her cancer diagnosis a secret.<br/><br/>This movie is funny, inspiring, and a lesson for everyone on how to treat our elders.  While Martha is the heart of the group, Sheryl is the backbone.  Her wit, charm, and determination is the guiding force behind Martha.  Seeing it full price is worth it but you won't have the urge to buy.<br/><br/>3.5 out of 5 stars",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/poms.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/poms.jpg"
@@ -11,7 +11,7 @@ var inTheTheaters = [
 {
     "option":"2",
     "mtitle":"The Hustle",
-    "review":"Josephine is impressed with Penny skills as a small-time con-artist but she wants her out of the way.  Josephine is a big-time grifter with her eyes on a larger marks.  And having another con-artist in the area could ruin her plans.  So after trying to get rid of her by training her, they place a wager.  They have to con the same man.  Who ever cons him first wins $500,000 and gets to stay.<br/><br/>This movie is only watchable due to Rebel's physical comedy.  She carries the movie while Ann's accents all sound the same.  If you are a fan of Rebel, see it matinee.  Otherwise, wait for FandangoNow.<br/><br/>2 out of 5 stars",
+    "review":"Josephine is impressed with Penny skills as a small-time con-artist but she wants her out of the way.  Josephine is a big-time grifter with her eyes on larger marks.  And having another con-artist in the area could ruin her plans.  So after trying to get rid of Penny by training her, they place a wager.  They have to con the same man.  Who ever cons him first wins $500,000 and gets to stay.<br/><br/>This movie is only watchable due to Rebel's physical comedy.  She carries the movie while Ann's accents all sound the same.  If you are a fan of Rebel, see it matinee.  Otherwise, wait for FandangoNow.<br/><br/>2 out of 5 stars",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thehustle.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thehustle.jpg"
