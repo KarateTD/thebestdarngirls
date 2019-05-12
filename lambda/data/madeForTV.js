@@ -1,47 +1,47 @@
 var madeForTV = [
 {
     "option":"1",
-    "mtitle":"I Am Somebody's Child: The Regina Louise Story",
-    "review":"Regina Louise is rejected by her parents and several foster homes.  She currently lives in a children's shelter as a ward of the state.  She starts to bond with Ms. Kerr and the feeling is mutual.  But when Ms. Kerr tries to adopt Regina, their worlds are shattered by a system blinded by race.<br/><br/>Watching Regina and Ms. Kerr fight to stay together will bring a tear to your eye.  The horrors of the child welfare system will leave you disgusted and dumbfounded.  You will feel an urge to adopt.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Homekilling Queen",
+    "review":"Whitney has been groomed to win Homecoming Queen her entire life.  Her mother, Connie, and her Grandmother, Evelyn, have been queens.  It's Whitney's destiny to follow in their footsteps.  When Natasha, a recovering addict shows promises, Whitney doesn't know what to do.  Evelyn tells her to take control of her destiny at any cost.  Whitney's plan for control involves cyber bulling, catfishing, drugs, and murder.<br/><br/>This movie has a big build up but the ending falls flat.  You expect a fight but you get nothing but confused looks.  However, this movie offers a much better support system than any other Lifetime movie.  Normally, Natasha would not be believed becase she is a former addict.  However, her mother and the police believe and help her.<br/><br/>3.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/iamsomebodyschildthereginalouisestory.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/iamsomebodyschildthereginalouisestory.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/homekillingqueen.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/homekillingqueen.jpg"
     }
 },
 {
     "option":"2",
-    "mtitle":"Easter Under Wraps",
-    "review":"Erin will go undercover to discover how automation will effect her family's company and their product.  Brian, a dedicated worker, gives Erin an ear full of what he thinks of management and the machines.  As the two work together, their love grows.  But when he learns her true identity, can their love last?<br/><br/>While you know the fate of the couple, its the ensemble that really make this movie.  Their quips and jokes will make you laugh out loud.  Also, watching Erin grow is remarkable.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Hailey Dean Mysteries: Death on Duty",
+    "review":"When of friend of Fincher's is murdered, Fincher vows to find is killer.  Even though he his masking is pain, Hailey stays by his side as a dedicated friend and lawyer.  This mystery involves an affair, corruption, a missing marine and an AWOL charge.<br/><br/>This movie in the series gives you a view of Fincher you have never seen before.  And it his highly welcome.  He is more that food trucks and side kick wise cracks.  He is a humble man that cares deeply for those closes to him.  You will feel Fincher's pain as he talks about his friend and his days as a marine.  Going in depth with a other members of the main cast shows growth in the series.  Lets hope it will continue.<br/><br/>5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/easterunderwraps.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/easterunderwraps.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/haileydeanmysteriesdeathonduty.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/haileydeanmysteriesdeathonduty.jpeg"
     }
 },
 {
     "option":"3",
-    "mtitle":"My Evil Stepdad",
-    "review":"Ashley decides to set her mom, Tracy, up on a date by creating and online profile.  However, she finds a possible match at a coffee shop.  Knowing her mom won't like a blind date, Ashley tells Jared how to connect with her mom.  This meeting becomes a whirlwind marriage.  Now, Tracy has changed from a loving mother with depression to a demanding wife with a disdain towards her child.  Tracy get sick, Ashley is thrown out, and someone dies.  All while Jared is in control. What will it take to snap Tracy out of love?<br/><br/>Get ready to throw things at the screen.  As Tracy falls deeper in love with this con-man, you quickly hate her.  But remember, this happens all too often in real life.  It's Ashley that will bring you pride.  She continues to fight, trusts her instincts, and makes the ultimate sacrifice for her family.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Psycho Stripper",
+    "review":"Amber is ready to be a blushing bride in a week.  Her maid of honor, Taryn is ready for the bachelorette party tonight.  At the party, Amber passes one of stripper, Hunter.  They have a polite conversation and she joins her friends.  Hunter tries to drug her but his is interrupted.  Hunter is determined to get close to her and stop her wedding.  But the 'why' is the shocking part of this movie.<br/><br/>Celebrate Hunter when you watch this movie.  When you hear Owen's back story, experienced Lifetime watchers know exactly where this is headed.  So, Hunter is the one to watch.   He changes from zero to crazy in 2 seconds.<br/><br/>3 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/myevilstepdad.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/myevilstepdad.jpg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/psychostripper.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/psychostripper.jpg"
     }
 },
 {
     "option":"4",
-    "mtitle":"Morning Show Mysteries: A Murder in Mind",
-    "review":"Billie is lost when her former employee is accused of murder.  She knows Katie is a good-hearted person but every piece of evidence points to her.  Billie has to find the clues to clear Katie's name and convince Ian that Katie is innocent.<br/><br/>Set your DVR because you will have to watch this one twice.  There are several suspects, plenty of motives, and lots of sketchy behavior.  It is a lot to unpack and every word spoken is important.  So pay close attention.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Paris, Wine, and Romance",
+    "review":"Isabella can't find a distributor to take her wine national.  The local distributor tells her to enter a few contest since is biggest seller won the Grand Prix in Paris 5 years in a row.  Isabella considers entering the Grand Prix but the distributor believes its too much to fast.  He tells her to start with local competitions and gain a name first.  Discouraged, she decides not to enter at all and focus on wine.  Her uncle Travis, enters her anyway.  She is selected to compete and flies to Paris for the Grand Prix.  She will find strong competition and the love her  her life.<br/><br/>Have a bottle of wine and a box of chocolates nearby.  You will need it as they discuss wine making, manfacturing, and pairings.  The love story does happen fast but it takes a back seat to the competition.  Allowing you to see their strong connection.<br/><br/>4.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/morningshowmysteriesamurderinmind.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/morningshowmysteriesamurderinmind.jpeg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/pariswineandromance.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/pariswineandromance.jpg"
     }
 },
 {
     "option":"5",
-    "mtitle":"Bottled With Love",
-    "review":"Abby is urged to write a letter to love, put the letter in a bottle, and throw the bottle in the sea.  Nick is urged to come home and help the family business before it goes public.  Before Nick comes home he finds a bottle with a note.  He reads it and discovers the writer lives in his hometown.  They start to chat via the internet.  While is internet life is going well, is professional life has hit a rough patch.  He isn't getting along with his co-worker.  They constantly butt heads on how to choose companies to acquire.  Little does Nick know, his co-worker and his letter writer is the same woman: Abby.  Can love online overcome real life?<br/><br/>While the movie is sweet, the moment Nick finds the bottle, you know what will happen.  This movie does point out how our communication skills online differ than how we connect in real life.  At times, it's easier to have an open mind and ears behind a screen than in person.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Pregnant and Deadly",
+    "review":"Jessica lost her baby in a car crash involving Amber.  In order to save her life, doctors has to perform a hysterectomy.  She wants to adopt but can't because she has a felony charge against her.  Jessica becomes furious and decides Amber is to blame. At first, Jessica wants revenge.  However, Jessica switches gears when she learn Amber is stable.  Now, Jessica will settle with kidnapping.<br/><br/>How many hints do you need to believe someone is crazy? In this movie, a lot.  You will slowly lack empathy for Amber and start to cheer on Jessica..<br/><br/>2.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/bottlewithlove.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/bottlewithlove.jpeg"
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/PregnantAndDeadly.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/PregnantAndDeadly.jpg"
     }
 }
 ];
