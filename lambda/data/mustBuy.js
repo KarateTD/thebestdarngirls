@@ -1,6 +1,15 @@
 var mustBuy = [
 {
     "option":"1",
+    "mtitle":"Fighting with My Family",
+    "review":"Saraya trained for years to become a WWE superstar.  Finally, when she and her brother, Zak, got a try-out, they were floored.  Changing her name to Paige, they give the tryout their all.  However, the scouts only pick Saraya and she wonders if she can do it alone.  And Zak starts to spiral into depression.  This family needs to stick together to save Zak and encourage Saraya.<br/><br/>This isn't just another wrestling movie, it's about family and dreams versus reality.  Saraya has to overcome her lack of strength, her misconceptions, and self-doubts.  Nevertheless, can she do it with her honest and loving family overseas instead of ringside.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fightingwithmyfamily.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fightingwithmyfamily.jpeg"
+    }
+},
+{
+    "option":"2",
     "mtitle":"The LEGO Movie 2: The Second Part",
     "review":"In 5 years, the Systar aliens have changed Bricksburg to Apocalypseburg.  Now, General Sweet Mayhem has kidnapped Emmet's friends to convince Batman to marry Queen Watevra Wa-Nabi.  Emmet must save his friends before his dark premonition comes true.<br/><br/>This is how sequels should be done.  It is funnier, more sincere, and better built than the first.  While there is no need to stay after the end credits, you should stay for the credit song.  And no matter how hard you try, the Catchy Song will stay with you.<br/><br/>5 out of 5 stars.",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
 },
 {
-    "option":"2",
+    "option":"3",
     "mtitle":"Miss Bala",
     "review":"In order to save her friend, Suzu, Gloria is put in between a rock and a hard place.  Gloria is tricked into working with drug lord Lino to get information about Suzu.  She unintentionally blows up a DEA safe house.  In an attempt to get help, she runs to the DEA.  But, they threaten her too.  They want her to go back to Lino and plant a tracker on him.  Or they will charge her with the murder of DEA agents.  So, Gloria is risking life or jail to find Suzu.<br/><br/>This movie is 15 minutes of set up and the rest all action.  Once it gets going, it never stops.  And it has more twist and turns than a soap opera.  See it today and hope for a part 2.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
 },
 {
-	"option":"3",
+	"option":"4",
 	"mtitle":"Spider-Man: Into the Spider-Verse",
 	"review":"In 24 hours, Miles Morales is bitten by a radio active spider, witnesses the death of Spider-Man, is hunted, and discover 5 other Spider-Men.  Each Spider-Man has their own back story, but they have one thing in common: Being a reluctant superhero.  Miles will sadly join this club.<br/><br/>Seeing the seamless mesh of different animation styles with a strong story and great life lessons for kids is superb.  Stay pass the end credits and look out for Stan Lee.<br/><br/>5 out of 5 stars.",
 	"image":{
@@ -27,21 +36,12 @@ var mustBuy = [
 	}
 },
 {
-	"option":"4",
+	"option":"5",
 	"mtitle":"Green Book",
 	"review":"Dr. Shirley hires Tony 'Lip' Vallelonga to drive him for his tour in the deep south.  Seeing prejudice there uncovers the prejudice feelings in themselves.<br/><br/>This movie is Oscar worthy with enough heart and life lessons to carry with you for a lifetime.<br/><br/>4.5 out of 5 stars.",
 	"image":{
 		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/greenbook.jpg",
 		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/greenbook.jpg"
-	}
-},
-{
-	"option":"5",
-	"mtitle":"Creed 2",
-	"review":"Adonis becomes the champion and faces a challenge like no other.  The son of his father's killer wants a chance at the title.  This fight will leave Adonis broken physically and spiritually.  But can he get back up?<br/><br/>A true underdog tale that rights a lot of Rocky's self-induced wrongs.<br/><br/>5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/creed2.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/creed2.jpg"
 	}
 }
 ];
@@ -55,16 +55,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
-
-{
-    "option":"1",
-    "mtitle":"Fighting with My Family",
-    "review":"Saraya trained for years to become a WWE superstar, so when she and her brother, Zak, got a try-out, they were floored.  Changing her name to Paige, they give the tryout their all.  But when she is picked and not Zak, she wonders if she can do it alone.  And Zak starts to spiral.  This family needs to stick together to save Zak and encourage Saraya.  This isn't just another wrestling movie, it's about family and dreams versus reality.  Saraya has to overcome her lack of strength, her misconceptions, and self-doubts but she can't do it without her honest and loving family.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fightingwithmyfamily.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fightingwithmyfamily.jpeg"
-    }
-}
 
 {
     "option":"5",
