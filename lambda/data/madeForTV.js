@@ -1,8 +1,8 @@
 var madeForTV = [
 {
     "option":"1",
-    "mtitle":"Fatal Gateway",
-    "review":"Eliza takes a much needed vacation with her three best friends.  She finds a necklace under a dresser and packs it away.  When she spots a missing flyer with a girl wearing the same necklace, she confronts her rental home's owner, James.  At first he denies knowing the missing girl until Eliza acknowledges the necklace.  Now, she wants to leave but her friends want to stay one more day.  This decision will prove fatal.<br/><br/>Be ready to slap a cop in the face.  It only takes a few nice words and back goods for the police to love James and shoot down anyone who disagrees with him.  This plot does have exciting moments but you will roll your eyes and dumb Lifetime mistakes made by each character.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Fatal Getaway",
+    "review":"Eliza takes a much needed vacation with her three best friends.  She finds a necklace under a dresser and packs it away.  When she spots a missing flyer with a girl wearing the same necklace, she confronts her rental home owner, James.  At first he denies knowing the missing girl until Eliza acknowledges the necklace.  Now, she wants to leave but her friends want to stay one more day.  This decision will prove fatal.<br/><br/>Be ready to slap a cop in the face.  It only takes a few nice words and baked goods for the police to love James and shoot down anyone who disagrees with him.  This plot does have exciting moments but you will roll your eyes at dumb Lifetime mistakes made by each character.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fatalgetaway.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fatalgetaway.jpg"
@@ -20,7 +20,7 @@ var madeForTV = [
 {
     "option":"3",
     "mtitle":"Hailey Dean Mysteries: Killer Sentence",
-    "review":".<br/><br/>5 out of 5 stars.",
+    "review":"Hailey and Fincher are tested when their friend, Paulina, becomes a murder suspect.  When a convicted and recently paroled murderer is killed, there are several suspects with different motives.  But the former D.A. is at the top of the list.  This is a Hailey Dean classic.<br/><br/>In order to fully enjoy this movie, you must watch Death on Duty and A Prescription for Murder.  They help you understand how much pleading down Clayton's case affected Pauline, Clayton's victim's family, and Hailey.  While Hailey and Fincher believe Pauline is innocent, they thoroughly investigate her.  It is a movie that will have you guessing the end.  After the crime is solved, keep watching for a moment every Hailey Dean fan has been waiting for since the first movie.<br/><br/>5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/haileydeanmysterieskillersentence.jpeg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/haileydeanmysterieskillersentence.jpeg"
@@ -29,7 +29,7 @@ var madeForTV = [
 {
     "option":"4",
     "mtitle":"Sailing Into Love",
-    "review":"Claire will fight to keep Blue Island out the hands of a greedy resort.  The buyout is being run by her ex-boyfriend Jason.  While she believes Jason is the type to do this, she is hurt when Tom, her new interest, would want to work for him.  Now, she has to make a choice between two men and her island.<br/><br/>.<br/><br/>3 out of 5 stars.",
+    "review":"Claire will fight to keep Blue Island out the hands of a greedy resort.  The buyout is being run by her ex-boyfriend Jason.  While she believes Jason is the type to do this, she is hurt when Tom, her new love interest, wants to work for him.  Now, she has to make a choice between two men and her island.<br/><br/>This movie is the typical Hallmark love story with a small misdirect.  When you hear of a rare bird, you assume it will save the island.  It doesn't.  It's Claire's fighting spirit.  She will use that same spirit to choose between Tom and Jason.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/sailingintolove.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/sailingintolove.jpg"
