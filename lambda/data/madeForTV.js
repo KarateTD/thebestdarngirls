@@ -1,47 +1,47 @@
 var madeForTV = [
 {
     "option":"1",
+    "mtitle":"Fatal Gateway",
+    "review":"Eliza takes a much needed vacation with her three best friends.  She finds a necklace under a dresser and packs it away.  When she spots a missing flyer with a girl wearing the same necklace, she confronts her rental home's owner, James.  At first he denies knowing the missing girl until Eliza acknowledges the necklace.  Now, she wants to leave but her friends want to stay one more day.  This decision will prove fatal.<br/><br/>Be ready to slap a cop in the face.  It only takes a few nice words and back goods for the police to love James and shoot down anyone who disagrees with him.  This plot does have exciting moments but you will roll your eyes and dumb Lifetime mistakes made by each character.<br/><br/>3 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fatalgetaway.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fatalgetaway.jpg"
+    }
+},
+{
+    "option":"2",
+    "mtitle":"Stressed to Death",
+    "review":"Maggie was able to save a pregnant woman during a convenience store robbery, but a man was murdered.  With her time in the service, this only added to her PTSD.  Ten years later, Maggie is ready to go back to work as an EMT.  After taking her test, Maggie comes home to find her husband shot and her daughter kidnapped.  Maggie and her family's life is on the line unless she finds out who is behind it all.<br/><br/>This movie breaks the Lifetime mold.  It ramps up in the first 10 minutes and keeps going.  The villian is devious and diabolic.  She feeds her husbands ashes to a venus fly trap and wants to watch the murder of Maggie's family.  You will watch this movie on the edge of your seat.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/stessedtodeath.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/stessedtodeath.jpg"
+    }
+},
+{
+    "option":"3",
+    "mtitle":"Hailey Dean Mysteries: Killer Sentence",
+    "review":".<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/haileydeanmysterieskillersentence.jpeg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/haileydeanmysterieskillersentence.jpeg"
+    }
+},
+{
+    "option":"4",
+    "mtitle":"Sailing Into Love",
+    "review":"Claire will fight to keep Blue Island out the hands of a greedy resort.  The buyout is being run by her ex-boyfriend Jason.  While she believes Jason is the type to do this, she is hurt when Tom, her new interest, would want to work for him.  Now, she has to make a choice between two men and her island.<br/><br/>.<br/><br/>3 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/sailingintolove.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/sailingintolove.jpg"
+    }
+},
+{
+    "option":"5",
     "mtitle":"Homekilling Queen",
     "review":"Whitney has been groomed to win Homecoming Queen her entire life.  Her mother, Connie, and her Grandmother, Evelyn, have been queens.  It's Whitney's destiny to follow in their footsteps.  When Natasha, a recovering addict, shows promise, Whitney doesn't know what to do.  Evelyn tells her to take control of her destiny at any cost.  Whitney's plan for control involves cyber bullying, catfishing, drugs, and murder.<br/><br/>This movie has a big build up but the ending falls flat.  You expect a fight but you get nothing but confused looks.  However, this movie offers a much better support system than any other Lifetime movie.  Normally, Natasha would not be believed because she is a former addict.  However, her mother and the police believe and help her.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/homekillingqueen.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/homekillingqueen.jpg"
-    }
-},
-{
-    "option":"2",
-    "mtitle":"Hailey Dean Mysteries: Death on Duty",
-    "review":"When Fincher's friend is murdered, Fincher vows to find his killer.  Even though he is masking his pain, Hailey stays by his side as a dedicated friend and lawyer.  This mystery involves an affair, corruption, a missing marine, and an AWOL charge.<br/><br/>This movie gives you a view of Fincher you have never seen before.  And it is highly welcome.  He is more than food trucks and sidekick wise cracks.  He is a humble man that cares deeply for those closest to him.  You will feel Fincher's pain as he talks about his friend and his days as a marine.  Going in depth with other cast members shows growth in the series.  Let's hope it will continue.<br/><br/>5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/haileydeanmysteriesdeathonduty.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/haileydeanmysteriesdeathonduty.jpeg"
-    }
-},
-{
-    "option":"3",
-    "mtitle":"Psycho Stripper",
-    "review":"Amber is ready to be a blushing bride in a week.  Her maid of honor, Taryn, is ready for the bachelorette party tonight.  At the party, Amber passes one of the strippers, Hunter.  They have a polite conversation and she joins her friends.  Hunter tries to drug her but is interrupted.  Hunter is determined to get close to her and stop her wedding.  But the 'why' is the shocking part of this movie.<br/><br/>Celebrate Hunter when you watch this movie.  When you hear Owen's back story, experienced Lifetime watchers know exactly where this is headed.  So, Hunter is the one to watch.   He changes from zero to crazy in 2 seconds.<br/><br/>3 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/psychostripper.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/psychostripper.jpg"
-    }
-},
-{
-    "option":"4",
-    "mtitle":"Paris, Wine, and Romance",
-    "review":"Isabella can't find a distributor to take her wine national.  The local distributor tells her to enter a few contest since his biggest seller won the Grand Prix in Paris 5 years in a row.  Isabella considers entering the Grand Prix but the distributor believes its too much too fast.  He tells her to start with local competitions and gain a name first.  Discouraged, she decides not to enter at all and focus on wine.  Her uncle, Travis, enters her anyway.  She is selected to compete and flies to Paris for the Grand Prix.  She will find strong competition and the love of her life.<br/><br/>Have a bottle of wine and a box of chocolates nearby.  You will need it as they discuss wine making, manufacturing, and pairings.  The love story does happen fast but it takes a back seat to the competition.  Allowing you to see their strong connection.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/pariswineandromance.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/pariswineandromance.jpg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Pregnant and Deadly",
-    "review":"Jessica lost her baby in a car crash involving Amber.  In order to save her life, doctors had to perform a hysterectomy.  She wants to adopt but can't because she has a felony charge against her.  Jessica becomes furious and decides Amber is to blame. At first, Jessica wants revenge.  However, Jessica switches gears when she learn Amber is pregnant.  Now, Jessica will settle with kidnapping.<br/><br/>How many hints do you need to believe someone is crazy? In this movie, a lot.  You will slowly lack empathy for Amber and start to cheer on Jessica.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/PregnantAndDeadly.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/PregnantAndDeadly.jpg"
     }
 }
 ];
