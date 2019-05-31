@@ -95,4 +95,24 @@ module.exports = mustBuy;
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/avengersendgame.jpg"
     }
 }
+
+{
+    "option":"2",
+    "mtitle":"Disney's Aladdin",
+    "review":"Aladdin finds a magic lamp in the Cave of Wonders.  As he runs for his life, he gives the lamp to Jafar.  Jafar takes the lamp and pushes Aladdin off a cliff.  Aladdin is saved and his monkey, Abu, unknowingly steals the lamp from Jafar before the fall.  Trapped inside the Cave of Wonders, Aladdin rubs the lap and releases a Genie.  The Genie offers him 3 wishes.  He wants the Genie to help him be a prince to get the woman of his dreams, Princess Jasmine.  Only Jafar and his ambition to become Sultan stand in Aladdin's way.<br/><br/>This live adaption of the animated movie pays the highest respect to he original material. It doesn't change the story but adds to it.  It gives Princess Jasmine a song and a big dance.  The Genie keeps his comedic appearance while Iago and Abu are the best right-hand men.  The CGI was great for everyone but Genie.  At times, the head moved independently from it's CGI body and it was very distracting.  Because of this, 3D is a bad idea for this movie.  However, it is great for the whole family and you will feel an urge to see the play.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/disneysaladdin.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/disneysaladdin.jpg"
+    }
+}
+
+{
+    "option":"1",
+    "mtitle":"The Secret Life of Pets 2",
+    "review":"Max wants a life with just him, Duke and Katie.  No kids allowed.  Until Katie gets married to Chuck and gives birth to Liam.  Now, he will do anything to protect Liam.  Max is so stressed with Liam's safety, he is scratching uncontrollably.  Coned by a behavioral specialist, Max his happy to go on a trip in a car.  But this city dog will have to adapt to farm life while caring for Liam.<br/><br/>This is only one of the three plots to this amazing movie.  It is an instant classic with jokes you and your children will be laughing at simultaneously.  While there is nothing after the end credits, you will see pictures of kids and pets and enjoy a Snowball rap.  This movie is award worthy.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thesecretlifeofpets2.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thesecretlifeofpets2.jpg"
+    }
+}
 */
