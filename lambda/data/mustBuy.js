@@ -115,4 +115,24 @@ module.exports = mustBuy;
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thesecretlifeofpets2.jpg"
     }
 }
+
+{
+    "option":"4",
+    "mtitle":"John Wick: Chapter 3 - Parabellum",
+    "review":"Winston gives John 1 hour to get his affairs in order.  Then he will be excommunicated and a bounty of $14 million will be placed on his head.  Every assassin in the world will be after him and no one will offer help.  John uses the hour to find a safe place for his dog, get a ticket, get a marker, and get some gold coins.  Since some assassins couldn't wait for an hour, John needed to seek medical treatment.  In the middle of getting stitches, John's time runs out and the doctor stops the work.  John has to complete is stitches and heads to the Director.  He asks the Director to give him passage to Casablanca.  He knows an assassin there who can lead him to the High Table.  He hopes to plead his case so the High Table will let him live.<br/><br/>This movie proves better weapons, excellent choreographed fights, and mind blowing cinematography is all action lovers need.  With so much going on, this movie provides 30 to 45 minutes of dialogue.  It gives you more of John's training history with the Director but not enough information of the blood oath between him and Sophia.  Seeing John Wick 2 is necessary for this movie.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/johnwickchapter3parabellum.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/johnwickchapter3parabellum.jpg"
+    }
+}
+
+{
+    "option":"3",
+    "mtitle":"Disney's Aladdin",
+    "review":"Aladdin finds a magic lamp in the Cave of Wonders.  As he runs for his life, he gives the lamp to Jafar.  Jafar takes the lamp and pushes Aladdin off a cliff.  Aladdin is saved and his monkey, Abu, unknowingly steals the lamp from Jafar before the fall.  Trapped inside the Cave of Wonders, Aladdin rubs the lap and releases a Genie.  The Genie offers him 3 wishes.  He wants the Genie to help him be a prince to get the woman of his dreams, Princess Jasmine.  Only Jafar and his ambition to become Sultan stand in Aladdin's way.<br/><br/>This live adaption of the animated movie pays the highest respect to he original material. It doesn't change the story but adds to it.  It gives Princess Jasmine a song and a big dance.  The Genie keeps his comedic appearance while Iago and Abu are the best right-hand men.  The CGI was great for everyone but Genie.  At times, the head moved independently from it's CGI body and it was very distracting.  Because of this, 3D is a bad idea for this movie.  However, it is great for the whole family and you will feel an urge to see the play.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/disneysaladdin.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/disneysaladdin.jpg"
+    }
+}
 */

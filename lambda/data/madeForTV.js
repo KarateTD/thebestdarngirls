@@ -1,6 +1,33 @@
 var madeForTV = [
 {
     "option":"1",
+    "mtitle":"Pride and Prejudice: Atlanta",
+    "review":"Mrs. Bennet wants her 5 daughters to find a rich, handsome, strong husband.  Her daughter, Lizzie, is an activist who wants to stop the building of a strip mall.  She meets Antwone, a future congressmen. They argue and he asks her on a date.  She laughs and run away.  Then, William Darcy meets Lizzie in a wedding and refuses to talk to him.  Finally, Stevie, a future church leader wants Lizzie after Jane said no.<br/><br/>Mrs. Bennet's dialogue will have you laughing and quoting for days before.  Their are a few lines from the book, so have your ears eyed.  It was funny for teens and up.  But, this movie feels more like a future TV series<br/><br/>3.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/prideandprejudiceatlanta.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/prideandprejudiceatlanta.jpg"
+    }
+},
+{
+    "option":"2",
+    "mtitle":"Secrets of the Sisterhood",
+    "review":"Ashley has been having a rough time with her job and divorce.  When her sister Jasmine comes to her door step, Ashley fears her drug addiction will be the last pillar in the trifecta.  But Jasmine has been clean for 9 months thanks to the Sisterhood.  These secret society works to help people and they want to help Ashley.  As Ashley's life changes for the better, she joins.  This decision will leave her life, career, and family in danger.<br/><br/>The writer has done major research on cult membership, recruitment, and social constructs.  Within moments, Ashley is love bombed by the women.  She feels empowered.  But the moment she wants to leave the leave her in fear, confusion, and broke.  This movie could be a teaching guide.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofthesisterhood.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofthesisterhood.jpg"
+    }
+},
+{
+    "option":"3",
+    "mtitle":"Love in the Sun",
+    "review":"After getting engaged to Evan, Alana goes home to break the news to her father.  She is shocked to learn he closed the inn and wants to sell it.  However, she offers to help spruce up the inn and gets help from her ex, Kai.  Will the sparks between them continue when Evan comes to surprise her.<br/><br/>It's a sweet movie that puts the main love story in the background for a festival and another love story.  While it helps the main love story grow naturally, the movie doesn't require your full attention.<br/><br/>2 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinthesun.jpeg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinthesun.jpeg"
+    }
+},
+{
+    "option":"4",
     "mtitle":"Fatal Getaway",
     "review":"Eliza takes a much needed vacation with her three best friends.  She finds a necklace under a dresser and packs it away.  When she spots a missing flyer with a girl wearing the same necklace, she confronts her rental home owner, James.  At first he denies knowing the missing girl until Eliza acknowledges the necklace.  Now, she wants to leave but her friends want to stay one more day.  This decision will prove fatal.<br/><br/>Be ready to slap a cop in the face.  It only takes a few nice words and baked goods for the police to love James and shoot down anyone who disagrees with him.  This plot does have exciting moments but you will roll your eyes at dumb Lifetime mistakes made by each character.<br/><br/>3 out of 5 stars.",
     "image":{
@@ -9,39 +36,12 @@ var madeForTV = [
     }
 },
 {
-    "option":"2",
+    "option":"5",
     "mtitle":"Stressed to Death",
     "review":"Maggie was able to save a pregnant woman during a convenience store robbery, but a man was murdered.  With her time in the service, this only added to her PTSD.  Ten years later, Maggie is ready to go back to work as an EMT.  After taking her test, Maggie comes home to find her husband shot and her daughter kidnapped.  Maggie and her family's life is on the line unless she finds out who is behind it all.<br/><br/>This movie breaks the Lifetime mold.  It ramps up in the first 10 minutes and keeps going.  The villain is devious and diabolical.  She feeds her husband's ashes to a venus fly trap and wants to watch the murder of Maggie's family.  You will watch this movie on the edge of your seat.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/stessedtodeath.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/stessedtodeath.jpg"
-    }
-},
-{
-    "option":"3",
-    "mtitle":"Hailey Dean Mysteries: Killer Sentence",
-    "review":"Hailey and Fincher are tested when their friend, Paulina, becomes a murder suspect.  When a convicted and recently paroled murderer is killed, there are several suspects with different motives.  But the former D.A. is at the top of the list.  This is a Hailey Dean classic.<br/><br/>In order to fully enjoy this movie, you must watch Death on Duty and A Prescription for Murder.  They help you understand how much pleading down Clayton's case affected Pauline, Clayton's victim's family, and Hailey.  While Hailey and Fincher believe Pauline is innocent, they thoroughly investigate her.  It is a movie that will have you guessing until the end.  After the crime is solved, keep watching for a moment every Hailey Dean fan has been waiting for since the first movie.<br/><br/>5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/haileydeanmysterieskillersentence.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/haileydeanmysterieskillersentence.jpeg"
-    }
-},
-{
-    "option":"4",
-    "mtitle":"Sailing Into Love",
-    "review":"Claire will fight to keep Blue Island out the hands of a greedy resort.  The buyout is being run by her ex-boyfriend Jason.  While she believes Jason is the type to do this, she is hurt when Tom, her new love interest, wants to work for him.  Now, she has to make a choice between two men and her island.<br/><br/>This movie is the typical Hallmark love story with a small misdirect.  When you hear of a rare bird, you assume it will save the island.  It doesn't.  It's Claire's fighting spirit.  She will use that same spirit to choose between Tom and Jason.<br/><br/>3 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/sailingintolove.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/sailingintolove.jpg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Homekilling Queen",
-    "review":"Whitney has been groomed to win Homecoming Queen her entire life.  Her mother, Connie, and her Grandmother, Evelyn, have been queens.  It's Whitney's destiny to follow in their footsteps.  When Natasha, a recovering addict, shows promise, Whitney doesn't know what to do.  Evelyn tells her to take control of her destiny at any cost.  Whitney's plan for control involves cyber bullying, catfishing, drugs, and murder.<br/><br/>This movie has a big build up but the ending falls flat.  You expect a fight but you get nothing but confused looks.  However, this movie offers a much better support system than any other Lifetime movie.  Normally, Natasha would not be believed because she is a former addict.  However, her mother and the police believe and help her.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/homekillingqueen.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/homekillingqueen.jpg"
     }
 }
 ];
