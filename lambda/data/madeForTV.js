@@ -2,7 +2,7 @@ var madeForTV = [
 {
     "option":"1",
     "mtitle":"Pride and Prejudice: Atlanta",
-    "review":"Mrs. Bennet wants her 5 daughters to find a rich, handsome, strong husband.  Her daughter, Lizzie, is an activist who wants to stop the building of a strip mall.  She meets Antwone, a future congressmen, they argue and he asks her on a date.  She laughs and run away.  Then, William Darcy meets Lizzie in a wedding and refuses to talk to him.  Finally, Stevie, a future church leader wants Lizzie after Jane said no.<br/><br/>Mrs. Bennet's dialogue will have you laughing and quoting for days.  Their are a few lines from the book, so listen hard.  It was funny for teens and up.  But, this movie feels more like a future TV series than a movie.<br/><br/>3.5 out of 5 stars.",
+    "review":"Mrs. Bennet wants her 5 daughters to find a rich, handsome, strong husband.  Her daughter, Lizzie, is an activist who wants to stop the building of a strip mall.  She meets Antwone, a future congressmen, they argue and he asks her out on a date.  She laughs and run away.  Then, William Darcy meets Lizzie in a wedding and refuses to talk to him.  Finally, Stevie, a future church leader wants Lizzie after Jane said no.<br/><br/>Mrs. Bennet's dialogue will have you laughing and quoting for days.  Their are a few lines from the book, so listen hard.  It was funny for teens and up.  But, this movie feels more like a future TV series than a movie.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/prideandprejudiceatlanta.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/prideandprejudiceatlanta.jpg"
@@ -11,7 +11,7 @@ var madeForTV = [
 {
     "option":"2",
     "mtitle":"Secrets of the Sisterhood",
-    "review":"Ashley has been having a rough time with her job and divorce.  When her sister Jasmine comes to her door step, Ashley fears her drug addiction will be the last pillar in the trifecta.  But Jasmine has been clean for 9 months thanks to the Sisterhood.  This secret society works to help people and they want to help Ashley.  As Ashley's life changes for the better, she joins.  This decision will leave her life, career, and family in danger.<br/><br/>The writer has done major research on cult membership, recruitment, and social constructs.  Within moments, Ashley is love bombed by the women.  She feels empowered.  But the moment she wants to leave they leave her in fear, confusion, and broke.  This movie could be a teaching guide.<br/><br/>4 out of 5 stars.",
+    "review":"Ashley has been having a rough time with her job and divorce.  When her sister Jasmine comes to her door step, Ashley fears her drug addiction will be the last pillar in the trifecta.  But Jasmine has been clean for 9 months thanks to the Sisterhood.  This secret society works to help people and they want to help Ashley.  As Ashley's life changes for the better, she joins.  This decision will leave her life, career, and family in danger.<br/><br/>The writer has done major research on cult membership, recruitment, and social constructs.  Within moments, Ashley is love bombed by the women.  She feels empowered.  But the moment she wants to leave, they leave her in fear, confusion, and broke.  This movie could be a teaching guide.<br/><br/>4 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofthesisterhood.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofthesisterhood.jpg"
@@ -20,7 +20,7 @@ var madeForTV = [
 {
     "option":"3",
     "mtitle":"Love in the Sun",
-    "review":"After getting engaged to Evan, Alana goes home to break the news to her father.  She is shocked to learn he closed the inn and wants to sell it.  However, she offers to help spruce up the inn with help from her ex, Kai.  Will the sparks between them continue when Evan comes to surprise her.<br/><br/>It's a sweet movie that puts the main love story in the background for a festival and another love story.  While it helps the main love story grow naturally, the movie doesn't require your full attention.<br/><br/>2 out of 5 stars.",
+    "review":"After getting engaged to Evan, Alana goes home to break the news to her father.  She is shocked to learn he closed the inn and wants to sell it.  However, she offers to help spruce up the inn with help from her ex, Kai.  Will the sparks between them continue when Evan comes to surprise her?<br/><br/>It's a sweet movie that puts the main love story in the background for a festival and another love story.  While it helps the main love story grow naturally, the movie doesn't require your full attention.<br/><br/>2 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinthesun.jpeg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinthesun.jpeg"
