@@ -135,4 +135,14 @@ module.exports = mustBuy;
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/disneysaladdin.jpg"
     }
 }
+
+{
+    "option":"5",
+    "mtitle":"The Secret Life of Pets 2",
+    "review":"Max wants a life with just him, Duke and Katie.  No kids allowed.  Until Katie gets married to Chuck and gives birth to Liam.  Now, he will do anything to protect Liam.  Max is so stressed with Liam's safety, he is scratching uncontrollably.  Coned by a behavioral specialist, Max his happy to go on a trip in a car.  But this city dog will have to adapt to farm life while caring for Liam.<br/><br/>This is only one of the three plots to this amazing movie.  It is an instant classic with jokes you and your children will be laughing at simultaneously.  While there is nothing after the end credits, you will see pictures of kids and pets and enjoy a Snowball rap.  This movie is award worthy.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thesecretlifeofpets2.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thesecretlifeofpets2.jpg"
+    }
+}
 */

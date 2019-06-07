@@ -6,6 +6,7 @@
     "ask-sdk-core": "^2.4.0",
     "ask-sdk-model": "^1.11.2",
     "lodash": "^4.17.11",
+    "npm": "^6.9.0",
     "request": "^2.88.0"
   },
   "devDependencies": {
