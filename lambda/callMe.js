@@ -1,7 +1,13 @@
-let mysql = require('mysql');
-let aws = require('aws-sdk');
+'use strict';
 
-var lookUp = require('./lookup.js');
+const mysql = require('mysql');
+const aws = require('aws-sdk');
 
-var request = lookUp(aws, mysql, "with love".replace(/ /g,'%'));
+const lookUp = require('./lookup.js');
+
+lookUp.searching(aws, mysql, "with love".replace(/ /g,'%')).then(data => {
+    console.log(data);
+}).catch(err => {
+    console.log(err+" fool");
+});
 
