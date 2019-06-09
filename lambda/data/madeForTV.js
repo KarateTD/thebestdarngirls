@@ -1,6 +1,33 @@
 var madeForTV = [
 {
     "option":"1",
+    "mtitle":"Adriana Trigiani's Very Valentine",
+    "review":"Valentine has an opportunity to save her family's wedding shoe business by design a shoe for the biggest name in wedding fashion.  But when the dress sketch is less than inspiring, Teodora invites Valentine to go to Italy with her for inspiration.  It's there that Valentine finds her grandmother, inspiration, and love.<br/><br/>Based on the novel by Adriana Trigiani, this movie is more complex than other Lifetime movies and has a healthy dose of reality.  You will notice that Valentine slowly gains confidence, strength, and love for herself when her fears are mirrored by Roman.  This is the true lesson behind this movie.  In the end, you will want to be her grandmother, Teodora.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adrianatrigianisveryvalentine.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adrianatrigianisveryvalentine.jpg"
+    }
+},
+{
+    "option":"2",
+    "mtitle":"Wedding at Graceland",
+    "review":"Clay and Laurel are engaged and they choose to get married at the one and only Graceland Chapel.  Graceland is the place they met and fell in love.  The event planner tells them she has a date, but it's over a year away.  The closest available date is 3 weeks away.  The two decide to take a leap of faith and get married in 3 weeks.  While that's not easy, their families are arriving early to uniquely help.  With meddling, jaded, judging, and extremely different in-laws, will Clay and Laurel make it down the aisle?<br/><br/> The second installment of this series is too funny.  While you feel the happy couple's pain, you can't help but laugh at their parents but heads.  This movies' realistic view of a wedding is wonderful and it offers practical and fair solutions to their problem.  Watch with the family and your in-laws today.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/weddingatgraceland.jpeg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/weddingatgraceland.jpeg"
+    }
+},
+{
+    "option":"3",
+    "mtitle":"Recipe for Danger",
+    "review":"Social media butterfly and restaurateur, Vanessa is on the upswing until her sous chef and daughter's godfather, Ricardo, is murdered.  After some time has passed, she needs a new sous chef to help.  She flips through resumes and finds only disappointment.  Heidi tells her to post about the job on social media.  By the end of the day, she has 197 applicants.  She is ecstatic.  Vanessa doesn't know a social stalker has been watching her every move.  The stalker is using social media to keep track of Vanessa.  The stalker wants what Vanessa took from her.  And killing is just the cost of doing business.<br/><br/>Vanessa overlooks too many warnings.  Four people close to her tell her the newcomer in her life is dangerous, she keeps defending that person.  You will find yourself getting frustrated with Vanessa's need to trust.  This movie gives the viewer a great lesson: Post With Caution..<br/><br/>3 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/recipefordanger.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/recipefordanger.jpg"
+    }
+},
+{
+    "option":"4",
     "mtitle":"Pride and Prejudice: Atlanta",
     "review":"Mrs. Bennet wants her 5 daughters to find a rich, handsome, strong husband.  Her daughter, Lizzie, is an activist who wants to stop the building of a strip mall.  She meets Antwone, a future congressmen, they argue and he asks her out on a date.  She laughs and run away.  Then, William Darcy meets Lizzie in a wedding and refuses to talk to him.  Finally, Stevie, a future church leader wants Lizzie after Jane said no.<br/><br/>Mrs. Bennet's dialogue will have you laughing and quoting for days.  Their are a few lines from the book, so listen hard.  It was funny for teens and up.  But, this movie feels more like a future TV series than a movie.<br/><br/>3.5 out of 5 stars.",
     "image":{
@@ -9,39 +36,12 @@ var madeForTV = [
     }
 },
 {
-    "option":"2",
+    "option":"5",
     "mtitle":"Secrets of the Sisterhood",
     "review":"Ashley has been having a rough time with her job and divorce.  When her sister Jasmine comes to her door step, Ashley fears her drug addiction will be the last pillar in the trifecta.  But Jasmine has been clean for 9 months thanks to the Sisterhood.  This secret society works to help people and they want to help Ashley.  As Ashley's life changes for the better, she joins.  This decision will leave her life, career, and family in danger.<br/><br/>The writer has done major research on cult membership, recruitment, and social constructs.  Within moments, Ashley is love bombed by the women.  She feels empowered.  But the moment she wants to leave, they leave her in fear, confusion, and broke.  This movie could be a teaching guide.<br/><br/>4 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofthesisterhood.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofthesisterhood.jpg"
-    }
-},
-{
-    "option":"3",
-    "mtitle":"Love in the Sun",
-    "review":"After getting engaged to Evan, Alana goes home to break the news to her father.  She is shocked to learn he closed the inn and wants to sell it.  However, she offers to help spruce up the inn with help from her ex, Kai.  Will the sparks between them continue when Evan comes to surprise her?<br/><br/>It's a sweet movie that puts the main love story in the background for a festival and another love story.  While it helps the main love story grow naturally, the movie doesn't require your full attention.<br/><br/>2 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinthesun.jpeg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinthesun.jpeg"
-    }
-},
-{
-    "option":"4",
-    "mtitle":"Fatal Getaway",
-    "review":"Eliza takes a much needed vacation with her three best friends.  She finds a necklace under a dresser and packs it away.  When she spots a missing flyer with a girl wearing the same necklace, she confronts her rental home owner, James.  At first he denies knowing the missing girl until Eliza acknowledges the necklace.  Now, she wants to leave but her friends want to stay one more day.  This decision will prove fatal.<br/><br/>Be ready to slap a cop in the face.  It only takes a few nice words and baked goods for the police to love James and shoot down anyone who disagrees with him.  This plot does have exciting moments but you will roll your eyes at dumb Lifetime mistakes made by each character.<br/><br/>3 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fatalgetaway.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fatalgetaway.jpg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Stressed to Death",
-    "review":"Maggie was able to save a pregnant woman during a convenience store robbery, but a man was murdered.  With her time in the service, this only added to her PTSD.  Ten years later, Maggie is ready to go back to work as an EMT.  After taking her test, Maggie comes home to find her husband shot and her daughter kidnapped.  Maggie and her family's life is on the line unless she finds out who is behind it all.<br/><br/>This movie breaks the Lifetime mold.  It ramps up in the first 10 minutes and keeps going.  The villain is devious and diabolical.  She feeds her husband's ashes to a venus fly trap and wants to watch the murder of Maggie's family.  You will watch this movie on the edge of your seat.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/stessedtodeath.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/stessedtodeath.jpg"
     }
 }
 ];
