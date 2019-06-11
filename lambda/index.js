@@ -29,7 +29,6 @@ var getList = require('./helpers/getList');
 
 var menu;
 var choice;
-var savedHandle;
 
 const WelcomeHandler = {
 	canHandle(handlerInput){
