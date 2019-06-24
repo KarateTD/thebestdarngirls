@@ -57,16 +57,6 @@ module.exports = mustBuy;
 /*  For Must Buy later
 
 {
-    "option":"5",
-    "mtitle":"Captain Marvel",
-    "review":"Vers is excited to be granted her first mission by the Supreme Intelligence.  During the battle between the Kree and the Skrulls, Vers is captured and put into a mind hacking machine.  The Skrulls uncover memories she thought were dreams.  She escapes the machine and jumps into an escape pod that veers off course to C-53, a.k.a. Earth.  On earth, Vers will learn the truth about her powers, the Kree, and the Skrulls.<br/><br/>Newcomers to the MCU need to watch the other films before watching this movie.  There are a lot of jokes and references to the past and present that will not make sense without knowledge of these movies.  With so much history to cover before the initial story, the first 10 minutes feels extremely rushed.  If you miss it, you will miss everything.  And 90s babies, be ready for some nostalgia.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/captainmarvel.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/captainmarvel.jpg"
-    }
-}
-
-{
     "option":"2",
     "mtitle":"Breakthrough",
     "review":"John walked on a frozen lake and fell through the ice.  After 20 minutes under water and 25 minutes of rescue efforts, the nurses stop working to allow John's mother to say her goodbyes.  As she prays for God to save her son, his heart starts beating again.  She will need her faith, her family, and her pastor to get her through as she prays for her son.<br/><br/>This movie will have you in tears.  While it shows John's journey, it doesn't sugar coat his mom's struggles.  She appeared to be a rock but she was pushing others away.  Also, this movie gives insight to John's experience after his survival.  See it with the whole family.<br/><br/>4.5 out of 5 stars.",
@@ -143,6 +133,26 @@ module.exports = mustBuy;
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thesecretlifeofpets2.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thesecretlifeofpets2.jpg"
+    }
+}
+
+{
+    "option":"3",
+    "mtitle":"Shaft",
+    "review":"20 years ago, Maya took John Jr. away to keep him safe from Shaft's dangerous occupation.  Now, John Jr. is an FBI data analyst who is often disrespected.  After Kiram, his best friend, dies of an overdose, John Jr. can't believe it.  Sasha sees the autopsy and confirms Karim was murdered.  After failing to investigate on his own, John decides to go to the only man who can help.  His father, a bad mother - shut your mouth - I'm only talking about Shaft.<br/><br/>This is easily the funniest movie of the year.  Shaft brings the gender gap of masculinity to the surface without getting mushy.  Both men learn something and stand up for their way of life.  See this movie today.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/shaft.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/shaft.jpg"
+    }
+}
+
+{
+    "option":"1",
+    "mtitle":"Toy Story 4",
+    "review":"Nine years after saying goodbye to Bo Peep, Woody is collecting dust bunnies in Bonnie's closet.  Unlike with Andy, Woody is not her favorite toy and not the toy leaders.  Woody, knowing his job is to protect Bonnie, hitches a ride in her backpack to help her with kindergarten orientation.  With Woody's helping hand, Bonnie makes Forky.  While Forky is her favorite toy, he dreams of going into the trash.  Woody spends every moment trying to save Forky from himself for Bonnie.  But when Woody and Forky are separated from Bonnie on a family trip, Woody has to bring Forky back to her.  He will need Bo Peep, Buzz, Duke Caboom, and Officer Giggle McDimples to come to his rescue.<br/><br/>Toy Story 4 is everything you thought it would be and more.  With hilarious running gags, stupendous CGI, and astounding voice acting, you are in a trance of wonderment.  Adults and children will love this story alike.  While Jessie, Rex, and Ham are background characters, the story of Woody shines through.  He is so focused on helping Forky with his existential crisis, Woody doesn't see he is having his own.  Not until Bo Peep calls him a lost toy.  While 3D isn't necessary, stay past the end credits for an oddly satisfying moment.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toystory4.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toystory4.jpg"
     }
 }
 */
