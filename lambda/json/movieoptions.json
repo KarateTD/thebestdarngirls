@@ -17,7 +17,7 @@
     },
     {
       "description": "Stock color for the dark theme",
-      "when": "${viewport.theme =='dark'",
+      "when": "${viewport.theme == 'dark'}",
       "colors": {
         "colorTextPrimary": "#f0f1ef"
       }

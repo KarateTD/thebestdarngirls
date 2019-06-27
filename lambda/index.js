@@ -1,18 +1,27 @@
+'use strict';
+
+const mysql = require('mysql');
+const aws = require('aws-sdk');
+const fs = require('fs');
+
+const lookUp = require('./lookup.js');
+
 const Alexa = require('ask-sdk-core');
 const Welcome = require('./json/welcome.json');
+const LibraryWelcome = require('./json/librarywelcome.json');
 const MovieOptions = require('./json/movieoptions.json');
 const Review = require('./json/review.json');
 const Background = require('./json/background.json');
 
-const welcome = 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the Must Buy movie of the week, say Must Buy.  For Video on Demand reviews, say Video on Demand.';
-const mainOptions = '\t* In The Theater\n\t* Made For TV\n\t* Must Buy\n\t* Video On Demand';
-const mainScreen = '* In The Theater<br/>* Made for TV<br/>* Must Buy<br/>* Video On Demand';
+const welcome = 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the Must Buy movie of the week, say Must Buy.  For Video on Demand reviews, say Video on Demand. To search The Best Darn Girls Library, say Library.';
+const mainOptions = '\t* In The Theater\n\t* Made For TV\n\t* Must Buy\n\t* Video On Demand\n\t* Library';
+const mainScreen = '* In The Theater<br/>* Made for TV<br/>* Must Buy<br/>* Video On Demand<br/>* Library';
 const repeatGoBack = '  To hear the review again, say repeat.  To go back to the movie options, say movie options.  To go back to the main menu, say main menu.  To exit, say good bye';
 const sorry = 'Sorry I don\'t understand.  Please say your response again';
 const skillName='The Best Darn Girls'
 const goodbyeSpeak='Please come back or visit The Best Darn Girls Movie Review website at https:// that darn girl movie dot reviews. Good bye!'
 const goodbyeScreen='Please visit https://thatdarngirlmovie.reviews'
-const mainMenu='For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the Must Buy movie of the week, say Must Buy.  For Video on Demand reviews, say Video on Demand.'
+const mainMenu='For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the Must Buy movie of the week, say Must Buy.  For Video on Demand reviews, say Video on Demand. To search The Best Darn Girls Library, say Library.'
 const hints=[' show me ',' tell me about ', ' I choose ', ' select ', ' '];
 const background='https://s3.amazonaws.com/thebestdarngirls/library/small-image/darkbluebg.jpeg';
 const smallLogo='https://s3.amazonaws.com/thebestdarngirls/library/small-image/APP_ICON.png';
@@ -86,6 +95,7 @@ const MainMenuHandler = {
 
 		var starter = "To hear a movie review, please pick the corresponding number.\n\n";
   		var requestList;
+  		var isLibrary = false;
 
   		if(menu.toLowerCase() === 'in the theater'){
       		starter += getOptions(inTheTheater);
@@ -99,6 +109,9 @@ const MainMenuHandler = {
   		}else if(menu.toLowerCase() === 'video on demand'){
   			starter += getOptions(videoOnDemand);
   			requestList = getList(videoOnDemand)
+  		}else if(menu.toLowerCase() === 'library'){
+  		    starter = "Welcome to The Best Darn Girls Movie Review Library.  Please say \"Search For\" and the title of the movie";
+  		    isLibrary = true
   		}else{
       		starter = `${sorry}`;
  		}
@@ -135,6 +148,30 @@ const MainMenuHandler = {
                 }
             });
 
+ 		}else if(supportsAPL(handlerInput) && isLibrary){
+ 		    handlerInput.responseBuilder.addDirective({
+                type: 'Alexa.Presentation.APL.RenderDocument',
+                document : LibraryWelcome,
+                datasources : {
+                    "WelcomeLibTemplate": {
+                        "type": "object",
+                        "objectId": "wlMetadata",
+                        "backgroundImage": {
+                            "sources": Background
+                        },
+                        "logoSmallUrl":smallLogo,
+                        "logoLargeUrl":largeLogo,
+                        "textContent": {
+                            "primaryText":{
+                                "type":"PlainText",
+                                "text": starter
+                            }
+                        },
+                        "logoUrl": "https://d2o906d8ln7ui1.cloudfront.net/images/cheeseskillicon.png",
+                        "hintText": "Try, \"Search For Hailey Dean Mysteries\""
+                    }
+                }
+            });
  		}
 
  		return handlerInput.responseBuilder
@@ -170,7 +207,7 @@ const MovieChoicesHandler = {
   			element = getCardInfo(mustBuy, choice);
 	  	}else if(menu.toLowerCase() === 'video on demand'){
   			element = getCardInfo(videoOnDemand, choice);
-	  	}
+  		}
 
     	if(element){
     		if(supportsAPL(handlerInput)){
@@ -219,6 +256,76 @@ const MovieChoicesHandler = {
     	}
 	}
 };
+
+const LibraryHandler = {
+    canHandle(handlerInput){
+        const request = handlerInput.requestEnvelope.request;
+        return (request.type === 'IntentRequest'
+          && request.intent.name === 'Library');
+    },
+    handle(handlerInput){
+        const request = handlerInput.requestEnvelope.request;
+        if (request.intent.slots.selection.value){
+            choice = request.intent.slots.selection.value;
+        }else if(request.intent.slots.query.value){
+            choice = request.intent.slots.query.value;
+        }
+
+        lookUp.searching(aws, mysql, choice.toLowerCase().replace(/ /g,'%')).then(data => {
+            console.log(data);
+
+            var starter = "Here are your search results.  Please pick the corresponding number.\n\n";
+            var requestList;
+
+            var newData = JSON.parse(data);
+
+            starter += getOptions(newData);
+            requestList = getList(newData);
+
+            if(supportsAPL(handlerInput) && requestList){
+
+                var num = Math.floor(Math.random() * 5);
+                var nextNum = num+1;
+                var output = hints[num]+nextNum;
+
+                handlerInput.responseBuilder.addDirective({
+                    type: 'Alexa.Presentation.APL.RenderDocument',
+                    document : MovieOptions,
+                    datasources : {
+                        "MovieOptionsTemplateMetadata": {
+                            "type": "object",
+                            "objectId": "moMetadata",
+                            "backgroundImage": {
+                                "sources": Background
+                            },
+                            "title": "Search Results",
+                            "logoSmallUrl":smallLogo,
+                            "logoLargeUrl":largeLogo
+                        },
+                        "MovieOptionsListData": {
+                            "type": "list",
+                            "listId": "moList",
+                            "totalNumberOfItems": requestList.length,
+                            "hintText": output,
+                            "listPage": {
+                                "listItems": requestList
+                            }
+                        }
+                    }
+                });
+                console.log("end of if "+requestList[0].listItemIdentifier);
+            }
+            console.log("returning "+starter);
+            return handlerInput.responseBuilder
+                .speak(starter)
+             	.reprompt(starter)
+             	.withSimpleCard(skillName, starter)
+             	.getResponse();
+        }).catch(err => {
+            console.log(err+" fool");
+        });
+    }
+}
 
 const CommandsHandler = {
 	canHandle(handlerInput){
@@ -390,6 +497,7 @@ exports.handler = skillBuilder
     MainMenuHandler,
     MovieChoicesHandler,
     CommandsHandler,
+    LibraryHandler,
     ExitHandler,
     HelpHandler,
     SessionEndedRequestHandler
