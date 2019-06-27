@@ -25,7 +25,7 @@ var inTheTheaters = [
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mibinternational.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mibinternational.jpg"
     }
-}
+},
 {
     "option":"4",
     "mtitle":"Shaft",
