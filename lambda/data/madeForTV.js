@@ -1,47 +1,47 @@
 var madeForTV = [
 {
     "option":"1",
-    "mtitle":"To Have and To Hold",
-    "review":"Since she was a young girl, Alice wanted to become a famous chef.  When she works for her high school crush, Joe, he admits he had a crush on her.  Unknowingly missing an opportunity at love with her friend Harry, Alice starts dating Joe and falls in love.  She makes Joe her #1 priority, affecting her personal and professional life.  Within weeks they are engaged and married.  On their 1 year anniversary, Alice wants to start a family but Joe is dragging his feet.  She visits his office to surprise him and catches him with another woman.  Since she is in her late 30s and he wants a family, she decides to try to make it work.  Joe gets transferred to New York and their problems magnify.  Can Alice let go of her childhood dream of a family to gain her childhood dream career?<br/><br/>Alice is your friend who dates a guy you hate.  But you can't tell her that because she will get mad at you.  So you suffer in silence while she complains and defends him in the same breath.  Based on a novel by the same name, the story is well written.  But it doesn't properly identify Alice's relationship as emotional abuse.  Take out the sex and this Lifetime movie is just a Hallmark movie.  With that being said, it's still compelling, funny, honest, an well acted.<br/><br/>4 out of 5 stars.",
+    "mtitle":"The Bobby DeBarge Story",
+    "review":"Bobby DeBarge wishes he could do it all over again as he thinks about his career and childhood.  He was the eldest son in a family of 10 with interracial parents.  His father, Robert, was physically, mentally, and sexually abusive to his children.  Now, Bobby's star is falling as his siblings' careers are taking off.  Jealousy is hidden behind more drugs.  Bobby's pain will lead to a family, prison, and a life full of regret.<br/><br/>First, you must get past the bad wigs to enjoy this movie. Next, DeBarge fans won't learn anything new about Bobby or the family from this movie.  Movie lovers won't get a true idea of this family's talent because only a few songs are displayed.  But, this is still a heartbreaking movie.  Seeing the children abused by their father and the pattern of abuse continue with the family will make you sick to your stomach.  It's amazing more of the family didn't turn to drugs.  This movie feels more like a Part 2 of the DeBarge movie than a Bobby DeBarge movie.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/tohaveandtohold.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/tohaveandtohold.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thebobbydebargestory.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thebobbydebargestory.jpg"
     }
 },
 {
     "option":"2",
-    "mtitle":"Hometown Killer",
-    "review":"Officer Penny answers a home invasion call and discovers the victim is Tara.  Tara and Penny were friends in school until Tara became friends with the popular kids.   Tara stood by and watch while Penny was tormented by popular kids every single day.  Today, Tara is proud that Penny has overcome the past to be a badass cop.  Tara invites Penny for a small reunion BBQ to show people how Penny has grown.  Penny agrees but only if Nolan doesn't come.  Nolan was Tara's high school boyfriend and Penny's worst tormentor.  Tara agrees but Nolan sees the post on social media and comes.  He immediately starts picking on Penny.  Penny blames Tara and decides to exact revenge.<br/><br/>As Penny plots her path of destruction, you will have no remorse for Tara.  Seeing Penny's pain will have you wanting revenge on Tara and Nolan, too.  The ending will leave you oddly unsatisfied.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Family Pictures",
+    "review":"After spotting her dad's picture on another family's wall, Eve runs to her mom Sylvie with the horrible news.  However, Sylvie starts the conversation first and tell Eve she knows that her bulimia is back.  Eve decides to keep quiet about Mark.  But Grace confronts her mother, Grace head-on with the accusations.  But Grace is upset with Grace's timing.  Soon, Grace and Sylvie can't ignore the elephant in the room and start to communicate.  They develop a friendship which allows them to move on and grow.  But when Sylvie betrays Grace, it will pull them apart.  Can they get back on track?<br/><br/>This movie will take you on a roller coaster ride.  Since this movie is based on a book, it doesn't give you the Lifetime movie of a dead husband.  Instead, this movie gives you adult conversations, reasonable solutions. and a satisfying ending.<br/><br/>5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hometownkiller.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hometownkiller.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/familypictures.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/familypictures.jpg"
     }
 },
 {
     "option":"3",
-    "mtitle":"Picture Perfect Mysteries: Newlywed and Dead",
-    "review":"Allie takes photos of a bride and groom's first dance when the groom is shot.  No one saw who fired but they all suspect Allie's brother, Greg, is the killer.  After a witness spotted a man matching Greg's description fleeing the scene and the murder weapon is found at his house, Allie gathers her friends to prove Greg's innocence. She just has to convince Detective Sam Ocosta that she's right.  His New York style of policing will clash with the small town life.  Together they will find the groom killer.<br/><br/>So many suspects with unique motives, your head will spin.  And you will love it.  Sam and Allie give hints about their past that will inevitably become future episodes.  The only sad realization, you have to wait until next year to see it all unfold.  If the future episodes are anything like this one, it will be worth the wait.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Anniversary Nightmare",
+    "review":"Liz and Andrew celebrate their 10th anniversary in Hawaii.  However, she wakes up alone with blood on her.  When the cops investigate, they find a burning body and arrest Liz.  Liz is able to get back to the mainland because her mother pulls some strings.  Liz tries to maintain a sense of normalcy, but she is arrested for manslaughter and tampering with evidence.  In prison, she makes friends that convince her to investigate Andrew's disappearance on her own.  This first step in her plan: break out of jail.<br/><br/>This movie uses the Lifetime platform but changes your suspected ending.  The ending will throw seasoned Lifetime fans for a loop while still being unsatisfying.  This movie feels like a statement for prison and sentencing reform than a mystery plot.  Also, the backing track is often too loud and there is an outrageous number of close-ups.<br/><br/>3 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pictureperfectmysteriesnewlywedanddead.jpeg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pictureperfectmysteriesnewlywedanddead.jpeg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/anniversarynightmare.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/anniversarynightmare.jpg"
     }
 },
 {
     "option":"4",
-    "mtitle":"Love, Take Two",
-    "review":"Lily produces a reality TV show that allows 3 engaged couples to compete weekly for $50,000.  The next episode will be filmed in her hometown.  To her surprise, one of the couples is her ex-boyfriend, Scott, and his new fiance, Brynn.  Lily must keep her cool as sparks fly between them so she can land a production deal for her show.  As she discovers what she truly wants in life, can she let Scott go?  Does he want to leave Lily behind?<br/><br/>This movie has so many life lessons the love story fades to the background.  Lily is great at producing but she lost her desire to write.  Scott wants Brynn to be happy but at the cost of his own happiness.  Brynn loves Scott but she wants her career to thrive like her relationship.   So many decisions, you will be on the edge of your seat.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Mystery 101: Playing Dead",
+    "review":"Amy is a script consultant for a local play.  While there is scripted drama on stage, the real show is happening behind the scenes.  Three men love the same woman, Bella.  Her husband Duncan.  Her ex Sebastian.  And her co-star Elliot.  But when a stage light almost kills Bella, Amy is worried but Bella wants to continue.  During the play, Lacey comes on stage and fires her gun.  To everyone's surprise, it fired a real bullet almost killing Bella.  Det. Travis stops the play and makes it an active crime scene.  The play is over but Bella still has the after party.  Duncan and Elliot fight and the party is over.  The next morning someone will be dead.<br/><br/>Record this movie and watch it 3 times.  There is so much going on because you aren't unraveling the case with Amy, you are a part of it.  The murder doesn't occur until after the 1st hour.  You may believe you have it figured out.  But you don't.  This is a strong mystery that needs your undivided attention.<br/><br/>5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovetaketwo.jpeg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovetaketwo.jpeg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/msytery101playingdead.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/msytery101playingdead.jpg"
     }
 },
 {
     "option":"5",
-    "mtitle":"Tempting Fate",
-    "review":"Gabby has a stereotypical suburban life.  Husband, kids, and the white picket fence.  On the inside, she is angry at her husband Elliott.  He secretly got a vasectomy when he knew she wanted another child.  While Elliott is away with their children, Gabby meets Matt.  The two spark a friendship that becomes a business relationship.  Their texts become more intimate each time they talk.  On a surprise visit, Gabby's emotional affair becomes physical.  Regretful, Gabby draws the line in the sand and tells Matt they are just friends.  That would be true if she wasn't pregnant.  Now she will see the ripple effect of her decision.<br/><br/>You will feel every possible emotion with this new book-to-screen movie.  Gabby is never painted as a victim or a villain.  She is a misguided woman who made a mistake and is trying her best to fix it.  Just keep that in mind before you judge Matt, Elliott, or their children.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"The Last Bridesmaid",
+    "review":"Becca is the only single bridesmaid.  And after 9 weddings, she still hasn't found Mr. Right.  She met Kyle, the photographer at the wedding but he is not romantic.  After her cousin, Lacy gets engaged, Becca is the maid of honor and Kyle is the videographer.  Lucy points out that Kyle is cute but Becca wants a hopeless romantic like her.  So, Lucy sets her up with Aiden, the best man.  While busy at the wedding, Kyle sees the wedding shop owner take a shine to Becca's jewelry.  She offers to buy a few pieces but Becca says no.  Kyle agrees to create and show his dream film project if she lets go of her fears and sells her jewelry.  Letting go of their fears helps the find love together.<br/><br/>This movie is so funny as Becca and Kyle trade verbal jabs.  They always sound like an old married couple.  It's easy to see the love between them and they lose their fears.  This movie will bring a smile and laugh to your face.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/temptingfate.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/temptingfate.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thelastbridesmaid.jpeg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thelastbridesmaid.jpeg"
     }
 }
 ];
