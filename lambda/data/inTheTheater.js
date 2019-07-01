@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"Yesterday",
-    "review":"After a worldwide blackout causing Jack to be hit by a bus, he is the only person who remembers The Beatles.  He decides to jump-start his failed singing career by passing off their songs as his own.  Within months, his is the most promising singer/songwriter in history.  But can he keep up the life if it means losing Ellie?<br/><br/>This movie would be another boring romantic comedy if it wasn't for the music, Debra, and a special cameo.  If you are a fan of The Beatles, see the matinee.<br/><br/>3 out of 5 stars",
+    "review":"After a worldwide blackout causing Jack to be hit by a bus, he is the only person who remembers The Beatles.  He decides to jump start his failed singing career by passing off their songs as his own.  Within months, he is the most promising singer/songwriter in history.  But can he keep up the lie if it means losing Ellie?<br/><br/>This movie would be another boring romantic comedy if it wasn't for the music, Debra, and a special cameo.  If you are a fan of The Beatles, see the matinee.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/yesterday.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/yesterday.jpg"
@@ -11,7 +11,7 @@ var inTheTheaters = [
 {
     "option":"2",
     "mtitle":"Anna",
-    "review":"Anna is a model with a deadly secret.  She is a KGB operative.  After a hit, she is brought into CIA headquarters for questioning.  While Special Agent Leonard lets her go, he keeps an eye on her.  Her purse will be the clue that will lead her to a dangerous cat and mouse game.<br/><br/>This movie tries to be John Wick and the Atomic Blonde with the Tarintino Effect.  It falls short with 2 out of the 3.  The plot is not original, boring, and extremely predictable.  This movie should have gone straight to TV.<br/><br/>2 out of 5 stars",
+    "review":"Anna is a model with a deadly secret.  She is a KGB operative.  After a hit, she is brought into CIA headquarters for questioning.  While Special Agent Leonard lets her go, he keeps an eye on her.  Her purse will lead her to a dangerous cat and mouse game.<br/><br/>This movie tries to be John Wick and the Atomic Blonde with the Tarintino Effect.  It falls short with 2 out of the 3.  The plot is unoriginal, boring, and extremely predictable.  This movie should have gone straight to TV.<br/><br/>2 out of 5 stars",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/anna.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/anna.jpg"
