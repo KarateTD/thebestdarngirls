@@ -11,7 +11,7 @@ var madeForTV = [
 {
     "option":"2",
     "mtitle":"The Wrong Stepmother",
-    "review":"Lily doesn't trust her father's new girlfriend, Maddie.  She does try to be nice for the sake of her father, Michael.  But when Maddie steps over the line one too many times, Lily calls for reinforcements. And when she finds the startling truth about Maddie, it will turn Lily's world upside down.<br/><br/>This movie is too predictable and overdone.  The best moment is when Ms. Price calls Maddie out on her B.S.  This movie can be saved for background noise.  Don't bother putting it on your DVR.<br/><br/>2.5 out of 5 stars.",
+    "review":"Lily doesn't trust her father's new girlfriend, Maddie.  She does try to be nice for the sake of her father, Michael.  But when Maddie steps over the line one too many times, Lily calls for reinforcements. And when she finds the startling truth about Maddie, it will turn Lily's world upside down.<br/><br/>This movie is too predictable and overdone.  The best moment is when Ms. Price calls Maddie out on her bull crap.  This movie can be saved for background noise.  Don't bother putting it on your DVR.<br/><br/>2.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewrongstepmother.jpeg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewrongstepmother.jpeg"
@@ -20,7 +20,7 @@ var madeForTV = [
 {
     "option":"3",
     "mtitle":"Sister of the Bride",
-    "review":"Stephanie and Tracy are sisters with the same wedding dream: to be married at the family's vacation home on the 4th of July.  While Stephanie is willing to wait a year, Tracy wants to get married in 4 weeks.  If that isn't crazy enough, their parents haven't told them they want to sell the vacation home soon.  With some hard-hitting questions, work commitments, one sick relative, and the search for photographer gets creepy, will either wedding happen?<br/><br/>Oh. The. Shade.  Roger's shade towards Ben is unprecedented and a breath of fresh air for Hallmark movie.  Also, this movie doesn't wrap itself nicely into a bow.  This causes the viewer to be genuinely concerned about Stephanie and Tracy's relationships.  This movie will instantly become a Hallmark classic.<br/><br/>4.5 out of 5 stars.",
+    "review":"Stephanie and Tracy are sisters with the same wedding dream: to be married at the family's vacation home on the 4th of July.  While Stephanie is willing to wait a year, Tracy wants to get married in 4 weeks.  If that isn't crazy enough, their parents haven't told them they want to sell the vacation home soon.  With some hard-hitting questions, work commitments, and one sick relative, will either wedding happen?<br/><br/>Oh! The! Shade!  Roger's shade towards Ben is unprecedented and a breath of fresh air for Hallmark movie.  Also, this movie doesn't wrap itself nicely into a bow.  This causes the viewer to be genuinely concerned about Stephanie and Tracy's relationships.  This movie will instantly become a Hallmark classic.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sisterofthebride.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sisterofthebride.jpg"
