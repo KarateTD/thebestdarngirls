@@ -31,6 +31,7 @@ var inTheTheater = require('./data/inTheTheater');
 var madeForTV = require('./data/madeForTV');
 var mustBuy = require('./data/mustBuy');
 var videoOnDemand = require('./data/videoOnDemand');
+var libraryList;
 
 var getOptions = require('./helpers/getOptions');
 var getCardInfo = require('./helpers/getCardInfo');
@@ -207,6 +208,10 @@ const MovieChoicesHandler = {
   			element = getCardInfo(mustBuy, choice);
 	  	}else if(menu.toLowerCase() === 'video on demand'){
   			element = getCardInfo(videoOnDemand, choice);
+  		}else if(menu.toLowerCase() === 'library'){
+  		    console.log(libraryList);
+  		    console.log(videoOnDemand);
+  		    element = getCardInfo(libraryList, choice);
   		}
 
     	if(element){
@@ -263,7 +268,7 @@ const LibraryHandler = {
         return (request.type === 'IntentRequest'
           && request.intent.name === 'Library');
     },
-    handle(handlerInput){
+    async handle(handlerInput){
         const request = handlerInput.requestEnvelope.request;
         if (request.intent.slots.selection.value){
             choice = request.intent.slots.selection.value;
@@ -271,61 +276,54 @@ const LibraryHandler = {
             choice = request.intent.slots.query.value;
         }
 
-        lookUp.searching(aws, mysql, choice.toLowerCase().replace(/ /g,'%')).then(data => {
-            console.log(data);
+        const rows = await getResults(choice.toLowerCase().replace(/ /g,'%'));
+        var starter = rows[0];
+        console.log(rows[0]);
+        var requestList = rows[1];
+        console.log(rows[1]);
+        libraryList = module.exports = rows[2];
+        console.log(rows[2]);
 
-            var starter = "Here are your search results.  Please pick the corresponding number.\n\n";
-            var requestList;
+        if(supportsAPL(handlerInput) && requestList){
 
-            var newData = JSON.parse(data);
+            var num = Math.floor(Math.random() * 5);
+            var nextNum = num+1;
+            var output = hints[num]+nextNum;
 
-            starter += getOptions(newData);
-            requestList = getList(newData);
-
-            if(supportsAPL(handlerInput) && requestList){
-
-                var num = Math.floor(Math.random() * 5);
-                var nextNum = num+1;
-                var output = hints[num]+nextNum;
-
-                handlerInput.responseBuilder.addDirective({
-                    type: 'Alexa.Presentation.APL.RenderDocument',
-                    document : MovieOptions,
-                    datasources : {
-                        "MovieOptionsTemplateMetadata": {
-                            "type": "object",
-                            "objectId": "moMetadata",
-                            "backgroundImage": {
-                                "sources": Background
-                            },
-                            "title": "Search Results",
-                            "logoSmallUrl":smallLogo,
-                            "logoLargeUrl":largeLogo
+            handlerInput.responseBuilder.addDirective({
+                type: 'Alexa.Presentation.APL.RenderDocument',
+                document : MovieOptions,
+                datasources : {
+                    "MovieOptionsTemplateMetadata": {
+                        "type": "object",
+                        "objectId": "moMetadata",
+                        "backgroundImage": {
+                            "sources": Background
                         },
-                        "MovieOptionsListData": {
-                            "type": "list",
-                            "listId": "moList",
-                            "totalNumberOfItems": requestList.length,
-                            "hintText": output,
-                            "listPage": {
-                                "listItems": requestList
-                            }
+                        "title": "Search Results",
+                        "logoSmallUrl":smallLogo,
+                        "logoLargeUrl":largeLogo
+                    },
+                    "MovieOptionsListData": {
+                        "type": "list",
+                        "listId": "moList",
+                        "totalNumberOfItems": requestList.length,
+                        "hintText": output,
+                        "listPage": {
+                            "listItems": requestList
                         }
                     }
-                });
-                console.log("end of if "+requestList[0].listItemIdentifier);
-            }
-            console.log("returning "+starter);
-            return handlerInput.responseBuilder
-                .speak(starter)
-             	.reprompt(starter)
-             	.withSimpleCard(skillName, starter)
-             	.getResponse();
-        }).catch(err => {
-            console.log(err+" fool");
-        });
+                }
+            }); //end handler
+        }
+
+        return handlerInput.responseBuilder
+        .speak(starter)
+        .reprompt(starter)
+        .withSimpleCard(skillName, starter)
+        .getResponse();
     }
-}
+};
 
 const CommandsHandler = {
 	canHandle(handlerInput){
@@ -510,4 +508,43 @@ function supportsAPL(handlerInput) {
     const supportedInterfaces = handlerInput.requestEnvelope.context.System.device.supportedInterfaces;
     const aplInterface = supportedInterfaces['Alexa.Presentation.APL'];
     return aplInterface != null && aplInterface != undefined;
+}
+
+function getResults(searchFor){
+    return new Promise(function(resolve, reject){
+        var connection = mysql.createConnection({
+            host: process.env.host,
+            user: process.env.username,
+            password: process.env.password,
+            database: process.env.database
+        });
+
+        var query_str = 'select * from reviews where title like \'%'+searchFor+'%\'';
+
+        connection.query(query_str, function (err, rows, fields){
+            connection.end();
+            var resultString = "[";
+            var count = 1;
+            if(err){
+                reject(err);
+            }else{
+                Object.keys(rows).forEach(function(key){
+                    var row = rows[key];
+                    resultString += "{\n\"option\":\""+count+"\",\n\"mtitle\":\""+ row.title+"\",\n\"review\":\""+row.review+"<br/><br/>"+row.rating+" out of 5 stars.\",\n\"image\":{\n\"smallImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/small-image/"+row.image+"\",\n\"largeImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/small-image/"+row.image+"\"\n}\n},"
+                    count = count + 1;
+                }) //end forEach
+                resultString = resultString.slice(0, -1);
+                resultString += "]";
+
+                var newData = JSON.parse(resultString);
+                var starter = "Here are your search results.  Please pick the corresponding number.\n\n";
+                var requestList;
+
+                starter += getOptions(newData);
+                requestList = getList(newData);
+
+                resolve([starter, requestList, resultString+=";"]);
+            }
+        });
+    });
 }
