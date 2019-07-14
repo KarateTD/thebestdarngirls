@@ -323,6 +323,10 @@ const LibraryHandler = {
     }
 };
 
+const LibraryChoicesHandler = {
+
+};
+
 const CommandsHandler = {
 	canHandle(handlerInput){
 		const request = handlerInput.requestEnvelope.request;
@@ -494,6 +498,7 @@ exports.handler = skillBuilder
     MovieChoicesHandler,
     CommandsHandler,
     LibraryHandler,
+    LibraryChoicesHandler,
     ExitHandler,
     HelpHandler,
     SessionEndedRequestHandler
