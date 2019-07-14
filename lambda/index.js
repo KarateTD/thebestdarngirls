@@ -4,8 +4,6 @@ const mysql = require('mysql');
 const aws = require('aws-sdk');
 const fs = require('fs');
 
-const lookUp = require('./lookup.js');
-
 const Alexa = require('ask-sdk-core');
 const Welcome = require('./json/welcome.json');
 const LibraryWelcome = require('./json/librarywelcome.json');
@@ -250,7 +248,7 @@ const MovieChoicesHandler = {
  			}
 
       		return handlerInput.responseBuilder
-      		  .speak(element.review.replace(/<br\/>/g,'\n').concat(repeatGoBack))
+      		  .speak(element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack))
       		  .reprompt(repeatGoBack)
       		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       		  .getResponse();
@@ -281,7 +279,7 @@ const LibraryHandler = {
         console.log(rows[0]);
         var requestList = rows[1];
         console.log(rows[1]);
-        libraryList = module.exports = rows[2];
+        libraryList = rows[2];
         console.log(rows[2]);
 
         if(supportsAPL(handlerInput) && requestList){
@@ -530,7 +528,7 @@ function getResults(searchFor){
             }else{
                 Object.keys(rows).forEach(function(key){
                     var row = rows[key];
-                    resultString += "{\n\"option\":\""+count+"\",\n\"mtitle\":\""+ row.title+"\",\n\"review\":\""+row.review+"<br/><br/>"+row.rating+" out of 5 stars.\",\n\"image\":{\n\"smallImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/small-image/"+row.image+"\",\n\"largeImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/small-image/"+row.image+"\"\n}\n},"
+                    resultString += "{\n\"option\":\""+count+"\",\n\"mtitle\":\""+ row.title+"\",\n\"review\":\""+row.review+"<br/><br/>"+row.rating+" out of 5 stars.\",\n\"image\":{\n\"smallImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/small-image/"+row.image+"\",\n\"largeImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/small-image/"+row.image+"\"\n}\n},";
                     count = count + 1;
                 }) //end forEach
                 resultString = resultString.slice(0, -1);
@@ -543,7 +541,7 @@ function getResults(searchFor){
                 starter += getOptions(newData);
                 requestList = getList(newData);
 
-                resolve([starter, requestList, resultString+=";"]);
+                resolve([starter, requestList, newData]);
             }
         });
     });
