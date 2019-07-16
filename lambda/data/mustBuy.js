@@ -1,6 +1,15 @@
 var mustBuy = [
 {
     "option":"1",
+    "mtitle":"Breakthrough",
+    "review":"John walked on a frozen lake and fell through the ice.  After 20 minutes underwater and 25 minutes of rescue efforts, the nurses stop working to allow John's mother to say her goodbyes.  As she prays for God to save her son, his heart starts beating again.  She will need her faith, her family, and her pastor to get her through as she prays for her son.<br/><br/>This movie will have you in tears.  While it shows John's journey, it doesn't sugar coat his mom's struggles.  She appeared to be a rock but she was pushing others away.  Also, this movie gives insight into John's experience after his survival.  See it with the whole family.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/breakthrough.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/breakthrough.jpg"
+    }
+},
+{
+    "option":"2",
     "mtitle":"Captain Marvel",
     "review":"Vers is excited to be granted her first mission by the Supreme Intelligence.  During the battle between the Kree and the Skrulls, Vers is captured and put into a mind hacking machine.  The Skrulls uncover memories she thought were dreams.  She escapes the machine and jumps into an escape pod that veers off course to C-53, a.k.a. Earth.  On earth, Vers will learn the truth about her powers, the Kree, and the Skrulls.<br/><br/>Newcomers to the MCU need to watch the other films before watching this movie.  There are a lot of jokes and references to the past and present that will not make sense without knowledge of these movies.  With so much history to cover before the initial story, the first 10 minutes feels extremely rushed.  If you miss it, you will miss everything.  And 90s babies, be ready for some nostalgia.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
 },
 {
-    "option":"2",
+    "option":"3",
     "mtitle":"Fighting with My Family",
     "review":"Saraya trained for years to become a WWE superstar.  Finally, when she and her brother, Zak, got a try-out, they were floored.  Changing her name to Paige, they give the tryout their all.  However, the scouts only pick Saraya and she wonders if she can do it alone.  And Zak starts to spiral into depression.  This family needs to stick together to save Zak and encourage Saraya.<br/><br/>This isn't just another wrestling movie, it's about family and dreams versus reality.  Saraya has to overcome her lack of strength, her misconceptions, and self-doubts.  Nevertheless, can she do it with her honest and loving family overseas instead of ringside.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
 },
 {
-    "option":"3",
+    "option":"4",
     "mtitle":"The LEGO Movie 2: The Second Part",
     "review":"In 5 years, the Systar aliens have changed Bricksburg to Apocalypseburg.  Now, General Sweet Mayhem has kidnapped Emmet's friends to convince Batman to marry Queen Watevra Wa-Nabi.  Emmet must save his friends before his dark premonition comes true.<br/><br/>This is how sequels should be done.  It is funnier, more sincere, and better built than the first.  While there is no need to stay after the end credits, you should stay for the credit song.  And no matter how hard you try, the Catchy Song will stay with you.<br/><br/>5 out of 5 stars.",
     "image":{
@@ -27,22 +36,13 @@ var mustBuy = [
     }
 },
 {
-    "option":"4",
+    "option":"5",
     "mtitle":"Miss Bala",
     "review":"In order to save her friend, Suzu, Gloria is put in between a rock and a hard place.  Gloria is tricked into working with drug lord Lino to get information about Suzu.  She unintentionally blows up a DEA safe house.  In an attempt to get help, she runs to the DEA.  But, they threaten her too.  They want her to go back to Lino and plant a tracker on him.  Or they will charge her with the murder of DEA agents.  So, Gloria is risking life or jail to find Suzu.<br/><br/>This movie is 15 minutes of set up and the rest all action.  Once it gets going, it never stops.  And it has more twist and turns than a soap opera.  See it today and hope for a part 2.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/missbala.png",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/missbala.png"
     }
-},
-{
-	"option":"5",
-	"mtitle":"Spider-Man: Into the Spider-Verse",
-	"review":"In 24 hours, Miles Morales is bitten by a radio active spider, witnesses the death of Spider-Man, is hunted, and discover 5 other Spider-Men.  Each Spider-Man has their own back story, but they have one thing in common: Being a reluctant superhero.  Miles will sadly join this club.<br/><br/>Seeing the seamless mesh of different animation styles with a strong story and great life lessons for kids is superb.  Stay pass the end credits and look out for Stan Lee.<br/><br/>5 out of 5 stars.",
-	"image":{
-		"smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/spidermanintothespiderverse.jpg",
-		"largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/spidermanintothespiderverse.jpg"
-	}
 }
 ];
 
@@ -55,16 +55,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
-
-{
-    "option":"2",
-    "mtitle":"Breakthrough",
-    "review":"John walked on a frozen lake and fell through the ice.  After 20 minutes under water and 25 minutes of rescue efforts, the nurses stop working to allow John's mother to say her goodbyes.  As she prays for God to save her son, his heart starts beating again.  She will need her faith, her family, and her pastor to get her through as she prays for her son.<br/><br/>This movie will have you in tears.  While it shows John's journey, it doesn't sugar coat his mom's struggles.  She appeared to be a rock but she was pushing others away.  Also, this movie gives insight to John's experience after his survival.  See it with the whole family.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/breakthrough.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/breakthrough.jpg"
-    }
-}
 
 {
     "option":"1",
