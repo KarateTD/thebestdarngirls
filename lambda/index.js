@@ -21,6 +21,7 @@ const goodbyeSpeak='Please come back or visit The Best Darn Girls Movie Review w
 const goodbyeScreen='Please visit https://thatdarngirlmovie.reviews'
 const mainMenu='For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the Must Buy movie of the week, say Must Buy.  For Video on Demand reviews, say Video on Demand. To search The Best Darn Girls Library, say Library.'
 const hints=[' show me ',' tell me about ', ' I choose ', ' select ', ' '];
+const libHints=['Look for', 'I would like', 'Find', 'How about', 'Search for' ];
 const background='https://s3.amazonaws.com/thebestdarngirls/library/small-image/darkbluebg.jpeg';
 const smallLogo='https://s3.amazonaws.com/thebestdarngirls/library/small-image/APP_ICON.png';
 const largeLogo='https://s3.amazonaws.com/thebestdarngirls/library/large-image/APP_ICON.png';
@@ -109,7 +110,7 @@ const MainMenuHandler = {
   			starter += getOptions(videoOnDemand);
   			requestList = getList(videoOnDemand)
   		}else if(menu.toLowerCase() === 'library'){
-  		    starter = "Welcome to The Best Darn Girls Movie Review Library.  Please say \"Search For\" and the title of the movie";
+  		    starter = "Welcome to The Best Darn Girls Movie Review Library.  Please say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie";
   		    isLibrary = true
   		}else{
       		starter = `${sorry}`;
@@ -117,9 +118,7 @@ const MainMenuHandler = {
 
  		if(supportsAPL(handlerInput) && requestList){
 
- 			var num = Math.floor(Math.random() * 5);
-            var nextNum = num+1;
-            var output = hints[num]+nextNum;
+          //  console.log("the length is "+requestList.length)
 
             handlerInput.responseBuilder.addDirective({
                 type: 'Alexa.Presentation.APL.RenderDocument',
@@ -138,8 +137,8 @@ const MainMenuHandler = {
                     "MovieOptionsListData": {
                         "type": "list",
                         "listId": "moList",
-                        "totalNumberOfItems": 5,
-                        "hintText": output,
+                        "totalNumberOfItems": requestList.length,
+                        "hintText": getRandomNumber(hints, requestList.length, true),
                         "listPage": {
                             "listItems": requestList
                         }
@@ -166,8 +165,7 @@ const MainMenuHandler = {
                                 "text": starter
                             }
                         },
-                        "logoUrl": "https://d2o906d8ln7ui1.cloudfront.net/images/cheeseskillicon.png",
-                        "hintText": "Try, \"Search For Hailey Dean Mysteries\""
+                        "hintText": "Try, \""+ getRandomNumber(libHints, libHints.length, false) + "\" Hailey Dean Mysteries\""
                     }
                 }
             });
@@ -282,11 +280,7 @@ const LibraryHandler = {
         libraryList = rows[2];
         console.log(rows[2]);
 
-        if(supportsAPL(handlerInput) && requestList){
-
-            var num = Math.floor(Math.random() * 5);
-            var nextNum = num+1;
-            var output = hints[num]+nextNum;
+        if(supportsAPL(handlerInput) && requestList && ){
 
             handlerInput.responseBuilder.addDirective({
                 type: 'Alexa.Presentation.APL.RenderDocument',
@@ -306,13 +300,15 @@ const LibraryHandler = {
                         "type": "list",
                         "listId": "moList",
                         "totalNumberOfItems": requestList.length,
-                        "hintText": output,
+                        "hintText": getRandomNumber(hints, requestList.length, true),
                         "listPage": {
                             "listItems": requestList
                         }
                     }
                 }
             }); //end handler
+        }else{
+
         }
 
         return handlerInput.responseBuilder
@@ -321,10 +317,6 @@ const LibraryHandler = {
         .withSimpleCard(skillName, starter)
         .getResponse();
     }
-};
-
-const LibraryChoicesHandler = {
-
 };
 
 const CommandsHandler = {
@@ -498,7 +490,6 @@ exports.handler = skillBuilder
     MovieChoicesHandler,
     CommandsHandler,
     LibraryHandler,
-    LibraryChoicesHandler,
     ExitHandler,
     HelpHandler,
     SessionEndedRequestHandler
@@ -511,6 +502,17 @@ function supportsAPL(handlerInput) {
     const supportedInterfaces = handlerInput.requestEnvelope.context.System.device.supportedInterfaces;
     const aplInterface = supportedInterfaces['Alexa.Presentation.APL'];
     return aplInterface != null && aplInterface != undefined;
+}
+
+function getRandomNumber(array, length, ifNext){
+    var num = Math.floor(Math.random() * length);
+    var nextNum = num+1;
+
+    if(ifNext){
+        return array[num]+nextNum;
+    }else{
+        return array[num]
+    }
 }
 
 function getResults(searchFor){
@@ -529,6 +531,7 @@ function getResults(searchFor){
             var resultString = "[";
             var count = 1;
             if(err){
+                console("hit an error: " +err);
                 reject(err);
             }else{
                 Object.keys(rows).forEach(function(key){
