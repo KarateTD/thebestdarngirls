@@ -1,47 +1,47 @@
 var madeForTV = [
 {
     "option":"1",
+    "mtitle":"The Madam of Purity Falls",
+    "review":"The moment Courtney lays eyes on Nicole's son, Jason, she thinks he would be perfect for her landscaping company.  Originally rejecting the offer, Jason accepts when he needs more money to impress a girl.  The day Jason accepts the job, Courtney and he have sex.  The next day, she texts Jason a new client.  Jason is shocked when the client openly comes on to him.  Jason rushes to tell Courtney and she reveals the truth.  Her landscaping company is a front for her real business: A Madam.  After talking to one of Courtney's boys, Jason settles into becoming a gigolo.  When it gets dangerous, can Jason get out.<br/><br/>This movie tries to be too many things at one time.   It attempts to be a mystery, a Lifetime movie, and a guilty pleasure at the same time.  With so many potential plots, the overall storyline falls through the cracks.  This movie's only saving grace is the performances.<br/><br/>3 out of 5 stars",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themadamofpurityfalls.png",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themadamofpurityfalls.png"
+    }
+},
+{
+    "option":"2",
+    "mtitle":"The Wrong Mommy",
+    "review":"Melanie worries she will get fired but she is promoted.  Her first task is to hire an assistant to help her.  At first, she is steadfast on one candidate until she meets Phoebe.  While Melanie believes Phoebe is too old for the job, Phoebe says all the right buzzwords to get her in the door.  At first, the working relationship between Phoebe and Melanie run smoothly.  However, Phoebe starts blurring the lines between work and home.  When Melanie tries to set her straight, Phoebe starts to pull her life apart.  Can Melanie convince everyone else of Phoebe's sick intention before she loses everything.<br/><br/>This mundane Lifetime movie takes a classic Lifetime plot and does nothing new.  It doesn't use new technology, new jobs, new motives, or new weapons.  If you are going to use a Lifetime plot, give it something new for the viewer.  Otherwise, its just background noise.<br/><br/>2 out of 5 stars",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewrongmommy.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewrongmommy.jpg"
+    }
+},
+{
+    "option":"3",
+    "mtitle":"In Broad Daylight",
+    "review":"After handing her son to a childcare professional, Jordan is kidnapped in broad daylight.  Her family worries Jordan was another victim of the man who kidnapped Ophelia Baker.  But Jordan's cousin, Malik, is keeping a secret.  He believes it was Jordan's ex and father of her child, Steve.  While Jordan's family know she had a restraining order against Steve, they believe the two were on good terms.  Malik knows Steve was abusive and stalking Jordan.  Jordan's attempts to keep family out of her business has clouded their judgment.  Now, to save Jordan's life, Malik has to do the one thing he promised not to do: break her confidence.  Can they save Jordan in time?<br/><br/>Inspired by true events, this movie not only covers the physical side of abuse, but it also covers the psychological as well.  Under the guise of caring for her, Steve moves her away from family, keeps her isolated, and convinces her to leave her job.  On the other hand, before they met, Jordan took the blame for her past relationship failures.  While she is a strong woman, consistently taking the blame makes her prey.  For a 2-hour movie, these characters are well written and have incredible depth.  They are expertly acted to convey every emotion in an abusive relationship.  In seconds, Steve is loving, scary, and loving all over again.  As the relationship hits a downward spiral, you can see the light fade from Jordan's eyes as she flinches at Steve's touches.  While Steve is abusive to Jordan, the movie is careful not to portrait him as completely evil.  He continues to be a loving and caring father to his son and his reason for control is given in great detail.  This is one to watch over again and discuss.  By the way, do you know any Barbeque Babies?<br/><br/>5 out of 5 stars",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/inbroaddaylight.png",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/inbroaddaylight.png"
+    }
+},
+{
+    "option":"4",
+    "mtitle":"Sins of a Father",
+    "review":"Detective Felicia sits across a sweet, young man who killed his stepmother.  She doesn't believe he did it alone but he won't talk to her.  His mother, Mrs. Banks explains that Robert is under the thumb of a manipulative, con-artist: His father, Pastor Clarence.  Her parents helped Robert legally take Robert from her because they disapproved of her sexuality.  Once Robert moved in with Clarence and Karen, she never heard or saw her son until now.  She believes Robert pulled the trigger but Clarence put it in his hands, mind, and heart.  Now, Detective Felicia has to make Robert do the unthinkable: Turn against his father.<br/><br/>This movie is a study in nature vs. nurture.  Reminiscent of the Cinnamon Brown case, Clarence will manipulate anyone to win.  He commits all the seven deadly sins and sees the 10 commandments as instructions.  The script falls flat but the superb acting saves this film.<br/><br/>3 out of 5 stars",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sinsofafather.jpeg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sinsofafather.jpeg"
+    }
+},
+{
+    "option":"5",
     "mtitle":"Stalked by My Doctor: A Sleepwalker's Nightmare",
     "review":"After stealing another doctor's identity, Dr. Beck is working at a sleep study clinic.  His first patient, Michelle, came to the sleep clinic after her last sleepwalking episode of sexsomnia went viral.  Dr. Beck can't wait to help her.  But his focus shifts when he learns Michelle's niece, Nikki, suffers from sleepwalking, too.  Unlike her aunt, Nikki is highly suggestible when she sleepwalks.  Dr. Beck wants to get Michelle out of the way so Nikki can fall in love with him.  Then, he will be a peace.<br/><br/>The 4th installment of the series is the craziest to date.  It starts to become dizzying after the real world and Dr. Beck's imaginary world blur.  While this movie ended like a lot of other Lifetime movies, Dr. Beck may find his way to a 5th movie.<br/><br/>4 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalkedbymydoctorasleepwalkersnightmare.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalkedbymydoctorasleepwalkersnightmare.jpg"
-    }
-},
-{
-    "option":"2",
-    "mtitle":"The Wrong Boy Next Door: On My Block",
-    "review":"Katie has bent the rules since her father died.  She smokes, talks back, and challenges authority.  When she becomes violent with a teacher, she is put on house arrest for a month.  Instead of focusing on her studies, she focuses on the cute boy across the street.  She flirts with him, peeps through his window, and invites him in when no one is home.  Over time, she starts to feel like something is off about John.  With her reputation of lying, can she convince others there is a problem with him?<br/><br/>What if Rear Window met Mean Girls?  This is the movie that answers that question.  You know you should be concerned with Katie safety but she is such an awful, spoiled brat, you never really care.  You have more compassion for John being stuck in a scam than Katie.  So, watch this as background noise.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewrongboynextdooronmyblock.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewrongboynextdooronmyblock.jpg"
-    }
-},
-{
-    "option":"3",
-    "mtitle":"Christmas Camp",
-    "review":"Hailey wants to pitch an idea to the biggest toy company to get a leg up for a promotion.  But her boss, Shana, doesn't believe she embodies Christmas.  So, she sends Hailey to camp.  If Hailey gets the certificate of completion, Shana will choose between her and Tom's pitch.  At Christmas Camp, Hailey gets more than a certificate.  She gets love, a new business idea, and the perfect pitch.<br/><br/>The first movie in the Christmas in July segment just falls flat.  Every storyline, even the surprise at the end, are all predictable.  Christmas camp is a novel idea but not for a movie.<br/><br/>2 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmascamp.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmascamp.jpg"
-    }
-},
-{
-    "option":"4",
-    "mtitle":"Love Unleashed",
-    "review":"Emmy, a precocious 8-year-old girl, wants a puppy.  Her father, Ryan, always says no.  When Emmy meets Hailey, owner of Happy Puppy Party, she puts a plan into motion.  Not just for a puppy but for a date for her dad.  But Emmy doesn't know these two have a grown-up problem.  Hailey is trying to get the new development project shut down in order to create a new dog park.  Ryan is in charge of that development project.  Can they put aside their issues to make Emmy's dreams come true?<br/><br/>A cute kid and adorable puppies are the saving grace of this movie.  While it does fall into the Hallmark plot trap, it gives you an near kiss for tension.  With this being said, it allows the love story to flow at Emmy's pace.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveunleashed.jpeg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveunleashed.jpeg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Trapped Model",
-    "review":"An aspiring model, Grace, answers an ad for a model match up site.  She leaves her mother and boyfriend, Matt, behind to go to Miami and meet Hunter Kelly.  She is picked up by his assistant, Nicole, and given vague details about the models' apartment.  After a few test photos and missed opportunities to leave, Grace is trapped in Hunter's guest house.  She must perform for his live-webcam or he will kill her mother.  It will take a kiss and 3 little words to save Grace from Hunter.<br/><br/>So, the set up is annoying.  Grace can tell this is too good to be true but she still goes to Miami.  The plot is strong.  Grace can sense Hunter and Nicole's weaknesses and uses them to attempt several escapes.  Your heart will beat faster each time she tries.  The conclusion is predictable and average. You can see how the movie will end a mile away.  But you are too committed to change the channel.<br/><br/>3 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/smalll-image/trappedmodel.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trappedmodel.jpg"
     }
 }
 ];
