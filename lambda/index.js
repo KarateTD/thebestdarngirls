@@ -118,8 +118,6 @@ const MainMenuHandler = {
 
  		if(supportsAPL(handlerInput) && requestList){
 
-          //  console.log("the length is "+requestList.length)
-
             handlerInput.responseBuilder.addDirective({
                 type: 'Alexa.Presentation.APL.RenderDocument',
                 document : MovieOptions,
@@ -273,14 +271,12 @@ const LibraryHandler = {
         }
 
         const rows = await getResults(choice.toLowerCase().replace(/ /g,'%'));
-        var starter = rows[0];
-        console.log(rows[0]);
-        var requestList = rows[1];
-        console.log(rows[1]);
-        libraryList = rows[2];
-        console.log(rows[2]);
 
-        if(supportsAPL(handlerInput) && requestList && ){
+        if(supportsAPL(handlerInput) && rows[0] != null){
+
+            var starter = rows[0];
+            var requestList = rows[1];
+            libraryList = rows[2];
 
             handlerInput.responseBuilder.addDirective({
                 type: 'Alexa.Presentation.APL.RenderDocument',
@@ -307,8 +303,31 @@ const LibraryHandler = {
                     }
                 }
             }); //end handler
-        }else{
-
+        }else if(supportsAPL(handlerInput) && rows[0] == null){
+            starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " and a movie title or say main menu.";
+            console.log("in else");
+            handlerInput.responseBuilder.addDirective({
+                type: 'Alexa.Presentation.APL.RenderDocument',
+                document : LibraryWelcome,
+                datasources : {
+                    "WelcomeLibTemplate": {
+                        "type": "object",
+                        "objectId": "wlMetadata",
+                        "backgroundImage": {
+                            "sources": Background
+                        },
+                        "logoSmallUrl":smallLogo,
+                        "logoLargeUrl":largeLogo,
+                        "textContent": {
+                            "primaryText":{
+                                "type":"PlainText",
+                                "text": starter
+                            }
+                        },
+                        "hintText": "Try, \""+ getRandomNumber(libHints, libHints.length, false) + "\" Hailey Dean Mysteries\""
+                    }
+                }
+            });
         }
 
         return handlerInput.responseBuilder
@@ -542,14 +561,19 @@ function getResults(searchFor){
                 resultString = resultString.slice(0, -1);
                 resultString += "]";
 
-                var newData = JSON.parse(resultString);
-                var starter = "Here are your search results.  Please pick the corresponding number.\n\n";
-                var requestList;
+                if(rows.length != 0){
 
-                starter += getOptions(newData);
-                requestList = getList(newData);
+                    var newData = JSON.parse(resultString);
+                    var starter = "Here are your search results.  Please pick the corresponding number.\n\n";
+                    var requestList;
 
-                resolve([starter, requestList, newData]);
+                    starter += getOptions(newData);
+                    requestList = getList(newData);
+
+                    resolve([starter, requestList, newData]);
+                }else{
+                    resolve([null,null,null]);
+                }
             }
         });
     });
