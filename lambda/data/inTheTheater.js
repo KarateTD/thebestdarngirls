@@ -1,6 +1,15 @@
 var inTheTheaters = [
 {
     "option":"1",
+    "mtitle":"Once Upon a Time in Hollywood",
+    "review":"Rick Dalton lives next door to Sharon Tate and Roman Polanski.  As Sharon's star is rising in Hollywood, Rick's is falling.  He played in a popular western years ago but he has been reduced to playing the 'heavy' as a guest star.  Producer Marvin Schwarzs warn Rick this will be the end of his career.  Rick isn't the only on effect because of his falling career, his stunt double Cliff is feeling the effects too.  Now, Cliff works as a driver and gofer for Rick to make ends meet.  With 2 nerve-racking encounters with the Manson Family, one August night will end in bloodshed.<br/><br/>This period piece paid close attention to the details of the period.  The clothes, slang, tech, and commercials were all done perfectly.  It's hard to establish what's true or false when watching this movie.  You will feel the urge to do research the moment you get home.  However, you won't feel the urge to buy.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/onceuponatimeinhollywood.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/onceuponatimeinhollywood.jpg"
+    }
+},
+{
+    "option":"2",
     "mtitle":"Disney's The Lion King",
     "review":"Simba is next in line for the throne.  But his Uncle Scar believes it's his rightful place.  Scar convinces Simba to go to the gorge to practice his roar.  Soon, Simba is in the middle of a stampede.  Scar runs to his brother, King Mufasa to help Simba but its a trap.  When Simba isn't looking, Scar kills Mufasa and blames the death on Simba.  Scar tells Simba to run away and never come back.  Scar promotes the lawless hyenas as his army while they lay waste to the pride.  It will take one old friend, 2 new friends, and fur to bring Simba back to the pride.<br/><br/>The live-adaption of this Disney classic stays true to the original with astounding attention to detail within mind-blowing graphics.  However, making these animals look like animals, takes away the emotions the animated characters possessed.  This forced the movie to rely on the voice actors to convey every pure emotion.  Some succeeded while other's fell flat.  Also, the song \"Can You Feel the Love Tonight\" is performed midday.  It feels out of place.  Overall, the movie may not be better than the first but it is still a strong movie worth seeing.  It's better in IMAX and/or 3D.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -9,7 +18,7 @@ var inTheTheaters = [
     }
 },
 {
-    "option":"2",
+    "option":"3",
     "mtitle":"Crawl",
     "review":"After swim practice, Beth tells Hailey hurricane Wendy has changed course and headed straight for Florida.  Beth has been trying to call their father, Dave, all day but can't reach them.  Hailey searches for him but can't find him at his condo.  So, she goes to the family's old lake house.  There, she finds her dad wounded in the crawlspace of the home with 2 alligators.  To make matters worse, the hurricane floodwaters have swept alligators around their home and the crawlspace is flooding.  Hailey and Dave have to find a way out without being eaten.<br/><br/>Talk about the worst day ever!  This movie is a mix of 47 Meters Down, Deep Blue Sea, and The Shallows.  Each smart step the pair try to take is met with another obstacle.  Even staying in the safe part of the crawl space means drowning.  The CGI alligators are well done and the kill scenes well executed.  This movie is a decent jump scare or a good laugh, depending on your level of the thriller movie experience.<br/><br/>3 out of 5 stars.",
     "image":{
@@ -18,21 +27,12 @@ var inTheTheaters = [
     }
 },
 {
-    "option":"3",
+    "option":"4",
     "mtitle":"Blinded by the Light",
     "review":"Javed is harassed on the street and controlled at home.  While his factory-working father, Malik, wants Javed to be an accountant or lawyer, Javed dreams of being a writer.  After bumping Foop's cassettes on the ground, Foops lets Javed borrow them.  Javed can't believe a white American will have any idea what he goes through.  At the lowest point in his life, Javed turns on the cassette and presses play.  That pivotal decision will alter the course of his life forever.<br/><br/>Based on a memoir, this movie chooses the best Bruce Springsteen lyrics for critical moments in Javed's life.  He finds the courage to write, talk to a girl, and stand up to the haters.  Springsteen fans will fall in love while Javed goes through self-discovery with Bruce leading the way.  Like 'Yesterday', the music is more memorable than the movie.  Also, don't give up on Malik.  He is a strong man with a lot of pain inside.  You will like this movie but not enough to buy it.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blindedbythelight.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blindedbythelight.jpg"
-    }
-},
-{
-    "option":"4",
-    "mtitle":"Spider-Man: Far From Home",
-    "review":"After everyone was snapped back, people want the next Iron Man.  Spider-Man doesn't feel like he can step into Tony's shoes.  But Nick Fury needs him now.  The Elementals have invaded Earth.  The Wind and Earth elements were stopped by Mysterio.  With the assistance of Spider-Man, Mysterio was able to stop the water element in Venice.  Now, Nick wants Peter to go to Prague with Mysterio to stop the most powerful element, Fire.  Peter wants to enjoy his vacation with his friends, so he turns down Nick's offer.  Before Peter and his friends board the bus, the teacher informs them the trip got an upgrade and they are going to Prague.  Peter knows fury has hijacked their vacation.  With Tony Stark's Glasses and EDITH by his side, Peter will take on Fire.  But can Peter trust what he sees?<br/><br/>While Homecoming introduced us to a younger Spider-Man, Far From Home is his coming of age story without Iron Man by his side.  He has to figure out who he wants to be as a man and a superhero.  While the CGI has gotten better, you can still pinpoint moments where you are witnessing 100% CGI versus live-capture scenes.  There are 2 post credit scenes and a cameo that original Spider-Man fans will love.  See this movie in IMAX.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/spidermanfarfromhome.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spidermanfarfromhome.jpg"
     }
 },
 {
