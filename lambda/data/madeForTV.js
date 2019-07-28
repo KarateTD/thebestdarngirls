@@ -1,24 +1,33 @@
 var madeForTV = [
 {
     "option":"1",
-    "mtitle":"The Madam of Purity Falls",
-    "review":"The moment Courtney lays eyes on Nicole's son, Jason, she thinks he would be perfect for her landscaping company.  Originally rejecting the offer, Jason accepts when he needs more money to impress a girl.  The day Jason accepts Courtney's job offer, they have sex.  The next day, she texts Jason a new client.  Jason is shocked when the client openly comes on to him.  Jason rushes to tell Courtney and she reveals the truth.  Her landscaping company is a front for her real business: A Madam.  After talking to one of Courtney's boys, Jason settles into becoming a gigolo.  When it gets dangerous, can Jason get out?<br/><br/>This movie tries to be too many things at once.   It attempts to be a mystery, a Lifetime movie, and a guilty pleasure at the same time.  With so many potential plots, the overall storyline falls through the cracks.  This movie's only saving grace is the performances.<br/><br/>3 out of 5 stars.",
+    "mtitle":"V.C. Andrews's Heaven",
+    "review":"Before she died, Heaven's grandmother told her the family secret.  Sarah Casteel is not her mother.  Her mother Leigh Vanvoreen, died giving birth to her.  She is astounded by the ommission, but there is more to come.  Her father sold all his children except Heaven.  But after one night together, he sells her too.  Heaven sees Kitty and Cal's home and wealth and she believes this is the fresh start she needed.   Soon this fresh start will leave her on the wrong side of family gossip.<br/><br/>If you are a fan of the book, don't watch the movie.  Important character traits, backstories, and characters are missing.  It's as if the screenplay writer or the directory only read the first book.  For everyone else, you will love the movie for providing new and exciting twist and turns to the Lifetime format.  Be ready to spit out your tea.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themadamofpurityfalls.png",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themadamofpurityfalls.png"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsheaven.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsheaven.jpg"
     }
 },
 {
     "option":"2",
-    "mtitle":"The Wrong Mommy",
-    "review":"Melanie worries she will get fired.  However, she is given a promotion.  Her first task is to hire an assistant to help her.  At first, she is steadfast on one candidate until she meets Phoebe.  While Melanie believes Phoebe is too old for the job, Phoebe says all the right buzzwords to get her in the door.  At first, the working relationship between Phoebe and Melanie runs smoothly.  However, Phoebe starts blurring the lines between work and home.  When Melanie tries to set her straight, Phoebe starts to pull her life apart.  Can Melanie convince everyone else of Phoebe's sick intention before she loses everything?<br/><br/>This mundane Lifetime movie takes a classic Lifetime plot and does nothing new.  It doesn't use new technology, new jobs, new motives, or new weapons.  If you are going to use a Lifetime plot, give it something new for the viewer.  Otherwise, its just background noise.<br/><br/>2 out of 5 stars.",
+    "mtitle":"The Wrong Tutor",
+    "review":"After a D.U.I., Eric is under the watchful eye of his mother, coach, and girlfriend Jess.  He is getting stronger on the field but still failing in school.  He worries he will be kicked off the team until the new girl, Emily, offers to tutor him.  She doesn't want money, she wants introductions to the popular kids.  Eric agrees and he starts during better at school.  But when an argument with Jess leads to a kiss with Emily, Eric quickly tells Emily it was a mistake.  The next day, Eric explains he will never kiss her again and Emily seems ok.  But on the inside, she is coming unhinged and ready to kill.  She will do anything to anyone to have Eric for herself.<br/><br/>While this movie builds with all the Lifetime hints, it leads to nowhere.  You are not sure if the movie ended or could there be another 30 minutes.  This movie feels more like a P.S.A. on filing false sexual harassment claims than a crazy stalker movie.<br/><br/>2 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewrongmommy.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewrongmommy.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewrongtutor.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewrongtutor.jpg"
     }
 },
 {
     "option":"3",
+    "mtitle":"Loved to Death",
+    "review":"Monica wants to help Jackson achieve his dreams but he can't seem to hold down a job.  While her mother and sister, Tiffany, tolerate him because he is Mr. Fix-it, her sister, Courtney and her daughter Meghan make their dislike known.  After a warning letter, bruises, and a god-fearing man, Monica feels the strength to leave Jackson behind.  But what will it cost her?<br/><br/>TV One's third Love, Lies, and Murder movie gives another end to this type of toxic relationship.  While Jackson never hits her, he leaves bruises and intimidates her.  Also, he displays a narcissistic attitude.  This movie hints at a falling out between Meghan and Jackson but it never really explains what happened.  Also, it never goes into depth about Monica's last marriage.  This history would give us more insight into Monica's thinking.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovedtodeath.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovedtodeath.jpg"
+    }
+},
+{
+    "option":"4",
     "mtitle":"In Broad Daylight",
     "review":"After handing her son to a childcare professional, Jordan is kidnapped in broad daylight.  Her family worries Jordan was another victim of the man who kidnapped Ophelia Baker.  But Jordan's cousin, Malik, is keeping a secret.  He believes it was Jordan's ex and father of her child, Steve.  While Jordan's family knows she had a restraining order against Steve, they believe the two were on good terms.  However, Malik knows Steve was abusive and stalking Jordan.  Jordan's attempts to keep family out of her business has clouded their judgment.  Now, to save Jordan's life, Malik has to do the one thing he promised not to do: break her confidence.  Can they save Jordan in time?<br/><br/>Inspired by true events, this movie not only covers the physical side of abuse, but it also covers the psychological as well.  Under the guise of caring for her, Steve moves her away from family, keeps her isolated, and convinces her to leave her job.  On the other hand, before they met, Jordan took the blame for her past relationship failures.  While she is a strong woman, consistently taking the blame makes her prey.  For a 2-hour movie, these characters are well written and have incredible depth.  They are expertly acted to convey every emotion in an abusive relationship.  In seconds, Steve is loving, scary, and loving all over again.  As the relationship hits a downward spiral, you can see the light fade from Jordan's eyes as she flinches at Steve's touches.  While Steve is abusive to Jordan, the movie is careful not to portray him as completely evil.  He continues to be a loving and caring father to his son and his reason for control is given in great detail.  This is one to watch over again and discuss.  By the way, do you know any Barbeque Babies?<br/><br/>5 out of 5 stars.",
     "image":{
@@ -27,21 +36,12 @@ var madeForTV = [
     }
 },
 {
-    "option":"4",
+    "option":"5",
     "mtitle":"Sins of a Father",
     "review":"Detective Felicia sits across a sweet young man who killed his stepmother.  She doesn't believe he did it alone but he won't talk to her.  His mother, Mrs. Banks, explains that Robert is under the thumb of a manipulative con-artist: His father, Pastor Clarence.  Her parents helped Clarence legally take Robert from her because they disapproved of her sexuality.  Once Robert moved in with Clarence and Karen, she never heard or saw her son until now.  She believes Robert pulled the trigger but Clarence put the murder plot in his hands, mind, and heart.  Now, Detective Felicia has to make Robert do the unthinkable: Turn against his father.<br/><br/>This movie is a study in nature vs. nurture.  Reminiscent of the Cinnamon Brown case, Clarence will manipulate anyone to win.  He commits all the seven deadly sins and sees the 10 commandments as instructions.  The script falls flat but the superb acting saves this film.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sinsofafather.jpeg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sinsofafather.jpeg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Stalked by My Doctor: A Sleepwalker's Nightmare",
-    "review":"After stealing another doctor's identity, Dr. Beck is working at a sleep study clinic.  His first patient, Michelle, came to the sleep clinic after her last sleepwalking episode of sexsomnia went viral.  Dr. Beck can't wait to help her.  But his focus shifts when he learns Michelle's niece, Nikki, suffers from sleepwalking, too.  Unlike her aunt, Nikki is highly suggestible when she sleepwalks.  Dr. Beck wants to get Michelle out of the way so Nikki can fall in love with him.  Then, he will be a peace.<br/><br/>The 4th installment of the series is the craziest to date.  It starts to become dizzying after the real world and Dr. Beck's imaginary world blur.  While this movie ended like a lot of other Lifetime movies, Dr. Beck may find his way to a 5th movie.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalkedbymydoctorasleepwalkersnightmare.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalkedbymydoctorasleepwalkersnightmare.jpg"
     }
 }
 ];
