@@ -145,4 +145,14 @@ module.exports = mustBuy;
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spidermanfarfromhome.jpg"
     }
 }
+
+{
+    "option":"5",
+    "mtitle":"Stuber",
+    "review":"Stu drives an Uber to help invest in his friends spin cycle business.  Hopelessly stuck in the friend zone, Stu wishes for more.  Vic is on a path to revenge after Tedjo murders his partner.  After having the case for 6 months, Captain McHenry tells Vic the Feds are ready to take over.  Angry, Vic gets Lasik and has lunch with his daughter.  Since he can't see and she is busy with her gallery opening, she downloads Uber on his phone so he can attend.  While Vic's eyes heal, Vic gets a call from his C.I. Leon.  Leon tells Vic Tedjo has a huge shipment coming today and the call drops.  Vic tries to drive to Leon but crashes his car.  He orders an Uber to take him to Leon's shop and gets Stu.  This ride will change these men's lives forever.  But whether or not it's for the better, is up to you.<br/><br/>Be ready to laugh until it hurts.  Don't make the mistake of calling this a buddy-cop movie.  Stu is not a cop and the two men are not friends.  This is a comedy with stunning action sequences and personal character growth.  This movie may not be appropriate for kids under 14.  In addition, there are no post-credit scenes.  If you are looking for the best laugh you will get in the theater, Stuber is for you.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stuber.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stuber.jpg"
+    }
+}
 */
