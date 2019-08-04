@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"The Angry Birds Movie 2",
-    "review":"Red loves being the Bird Island hero.  But when Leonard offers a truce, Red secretly doesn't want it.  He worries he won't be the hero and the town won't like him.  But they have a new enemy in a third island they never knew existed.  And this rivalry goes beyond the Pigs and Bird's wars.  It goes all the way back to the 90s.<br/><br/>Sequel to The Angry Birds movie is no better or worse that the first movie.  It will cause parents and kids to have a light chuckle like but won't leave a lasting impression.  See the matinee with the kids.  Everyone else, wait for Netflix.<br/><br/>2.5 out of 5 stars.",
+    "review":"Red loves being Bird Island's hero.  But when Leonard offers a truce, Red secretly doesn't want it.  He worries he won't be the hero and he will become a loner again.  Now, they have a new enemy on a third island they never knew existed.  And this rivalry goes beyond the Pigs and Bird's wars.  It goes back to the 90s.<br/><br/>Sequel to The Angry Birds movie is no better or worse than the first movie.  It will cause parents and kids to have a light chuckle but won't leave a lasting impression.  See the matinee with the kids.  Everyone else, wait for Netflix.<br/><br/>2.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theangrybirdsmovie2.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theangrybirdsmovie2.jpg"
