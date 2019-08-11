@@ -11,7 +11,7 @@ var madeForTV = [
 {
     "option":"2",
     "mtitle":"Deadly Influencer",
-    "review":" Monica helped Skyler grow her social media following.  With a management agency calling her, Skyler decides to leave Monica.  Monica pushes her off a balcony.  Now, Monica is focused on Jessica.  She believes Jessica will have a bigger following than Skyler.  Monica wants to manage Jessica's social career and create a management brand.  She just has to get Jessica to sign a 10-year contract.  And if anyone gets in her way, off with their heads.<br/><br/>Giving a new meaning to a moment of silence, this movie delves into to deep lessons for teens while remaining entertaining.  It talks about confusing likes with being liked.  Also, it analysis the downside of being Insta-famous.  Watch this movie with your teen.<br/><br/>4.5 out of 5 stars.",
+    "review":" Monica helped Skyler grow her social media following.  With a management agency calling her, Skyler decides to leave Monica.  Monica pushes her off a balcony.  Now, Monica is focused on Jessica.  She believes Jessica will have a bigger following than Skyler.  Monica wants to manage Jessica's social career and create a management brand.  She just has to get Jessica to sign a 10-year contract.  And if anyone gets in her way, off with their heads.<br/><br/>Giving a new meaning to a moment of silence, this movie delves into deep lessons for teens while remaining entertaining.  It talks about confusing likes with being liked.  Also, it analyzes the downside of being Insta-famous.  Watch this movie with your teen.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deadlyinfluencer.jpeg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deadlyinfluencer.jpeg"
@@ -20,7 +20,7 @@ var madeForTV = [
 {
     "option":"3",
     "mtitle":"Aurora Teagarden: A Game of Cat and Mouse",
-    "review":"Aurora's display for her Real Mystery club is destroyed by a vandal.  But a clue left behind reference Shakespeare.  Aurora concludes the vandal leaves clues for their next target.  When one clue references a librarian, Aida is worried for Aurora's safety.  Aurora is determined to save herself and find the vandal.<br/><br/>Applause is needed for the next installment of the Aurora Teagarden series.  With so many sketchy characters, it compels you to solve the crime with Aurora.  Also, the vandal's clues will add a few more great mysteries to your collection.<br/><br/>5 out of 5 stars.",
+    "review":"Aurora's display for her Real Mystery club is destroyed by a vandal.  But a clue left behind references Shakespeare.  Aurora concludes that the vandal leaves clues for their next target.  When one clue references a librarian, Aida is worried for Aurora's safety.  Aurora is determined to save herself by finding the vandal.<br/><br/>Applause is needed for the next installment of the Aurora Teagarden series.  With so many sketchy characters, it compels you to solve the crime with Aurora.  Also, the vandal's clues will add a few more great mysteries to your collection.<br/><br/>5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aurorateagardenagameofcatandmouse.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aurorateagardenagameofcatandmouse.jpg"
