@@ -1,47 +1,47 @@
 var madeForTV = [
 {
     "option":"1",
+    "mtitle":"V.C. Andrews' Fallen Hearts",
+    "review":"Heaven is back home and living with her grandfather.  She is making a good life as a teacher.  But when tragedy strikes her family again, Heaven places the blame on herself.  And uses a wise man's last words to give forgiveness.  Heaven marries Logan and hopes for a bright future.  It's not long that the ghost of her past start paving a dark road to her future.  What secrets will be revealed in this installment of the Casteel series?<br/><br/>Book lovers rejoice!  This movie fixes a few of the wrongs in the first movie.  Directed by Jason Priestly, this movie captures the actors but the scenery is well.  This is, no doubt, a testament to the great job the set and costume designers are doing.  It makes the story stronger as the Casteel family airs their dirty laundry for the whole town to see.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsfallenhearts.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsfallenhearts.jpg"
+    }
+},
+{
+    "option":"2",
+    "mtitle":"Deadly Influencer",
+    "review":" Monica helped Skyler grow her social media following.  With a management agency calling her, Skyler decides to leave Monica.  Monica pushes her off a balcony.  Now, Monica is focused on Jessica.  She believes Jessica will have a bigger following than Skylar.  Monica wants to manage Jessica's social career and create a management brand.  She just has to get Jessica to sign a 10-year contract.  And if anyone gets in her way, off with their heads.<br/><br/>Giving a new meaning to a moment of silence, this movie delves into so deep lessons for teens while remaining entertaining.  It talks about confusing likes with being liked.  Also, it analysis the downside of being Insta-famous.  Watch this movie with your teen.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deadlyinfluencer.jpeg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deadlyinfluencer.jpeg"
+    }
+},
+{
+    "option":"3",
+    "mtitle":"Aurora Teagarden: A Game of Cat and Mouse",
+    "review":"Aurora display for her Real Mystery club is destroyed by a vandal.  But the left a clue behind reference Shakespeare.  Aurora concludes the vandal leaves clues for their next target.  When one clue references a librarian, Aida is worried for Aurora's safety.  Aurora is determined to save herself and find the vandal.<br/><br/>Applause is needed for the next installment of the Aurora Teagarden series.  With so many sketchy characters, it compels you to solve the crime with Aurora.  Also, the vandal's clues will add a few more great mysteries to your collection.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aurorateagardenagameofcatandmouse.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aurorateagardenagameofcatandmouse.jpg"
+    }
+},
+{
+    "option":"4",
+    "mtitle":"Love and Sunshine",
+    "review":"While Jake was fighting for his country, Ally has fostered his dog. Jake returns home safely and picks up his dog, Sunshine.  It's hard for Ally to let Sunshine go because the dog gave her companionship when her engagement ended.  Now, Jake needs her to get over his Dear John letter he received during his tour.  Their constant run-ins over Sunshine ignites a spark of love between the two.  Hopefully, Ally and Jake will see it.<br/><br/>This is a strong Hallmark love story.  It's amazing to see Ally gain her confidence with so much poise and strength.  Watch and be inspired.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveandsunshine.jpg",
+        "largeImageurl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveandsunshine.jpg"
+    }
+},
+{
+    "option":"5",
     "mtitle":"V.C. Andrews' Dark Angel",
     "review":"Heaven left her small-town life behind for her mother's family.  She is taken back by their wealth and feels instantly out of place.  Her grandmother, Jillian only wanted her around for a few days, her step-grandfather, Tony, offers to make the stay permanent.  She just has to give up her father's side of the family and give in to his needs.  Heaven agrees and becomes a lady of wealth.  But when she gets engaged, lies told by everyone are exposed and leave a path of pain, destruction, and death.<br/><br/>Book lovers beware, this movie hasn't fixed the mistakes of the first movie.  Movie lovers, get ready for some of the biggest shocks in Lifetime's history.  One remarkable aspect is the costume and set design work.  As Heaven transforms, her clothes do too but they stay within the margins of the period.  This attention to detail is paid to the sets as well.<br/><br/>4 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewdarkangel.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewdarkangel.jpg"
-    }
-},
-{
-    "option":"2",
-    "mtitle":"Disney's Descendants 3",
-    "review":"After Hades attempts to escape on V.K. Day, Mal decides to close the barrier around Auradon for good.  This change in ideals hurts King Ben so she decides to keep it secret.  When a thief takes the crown and Malificent's scepter, Mal is hit with a dose of magic that can only be reversed by Hades's amulet.  The V.K.'s go back to the Isle to retrieve the scepter and learn the thief has cast a spell on Auradon.  Now, Mal has to depend on the villains she knows to stop a villain she has never encountered.  What will happen to Mal's friendships when her decision to close the barrier is exposed?<br/><br/>A bittersweet movie for Disney's Descendants franchise will bring joy, and a little sorrow, to every fans' heart.  With the untimely passing of Cameron Boyce, this movie should be deemed as a celebration of his life, talent, and passion.  With memorable songs, costumes, and choreography, this movie still maintained a strong plot.  It differed from the first two films because it didn't rely on the bad guys you know.  It creates new characters and delivered a powerful message to kids and adults alike.  See this movie with the whole family.  Also, donate to The Cameron Boyce Foundation.<br/><br/>5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/descendants3.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/descendants3.jpg"
-    }
-},
-{
-    "option":"3",
-    "mtitle":"A Lover Scorned",
-    "review":"When Brooke meets her new insurance agent, Jake, she is reminded that her marriage is empty and loveless.  Jake and Brooke start to have an affair.  Out of guilt, Brook tells her husband Steve.  Steve takes the blame and wants to repair the relationship by going to the mountains.  Brooke tells Jake she wants to work it out, Jake comes up with a plan: To kill Steve.  With 15 million reasons, can Jake convince Brooke to go with his plan.<br/><br/>So, who is running the game and who are the players?  Record this movie because you will need to watch it twice to keep up.  With so many people having a play, it's hard to see who is in control.  There are a few unanswered questions with this movie but the original plot makes up for the holes.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aloverscorned.jpeg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aloverscorned.jpeg"
-    }
-},
-{
-    "option":"4",
-    "mtitle":"Deadly Dispatch",
-    "review":"After her friend Shawn is killed, Tiffany is devastated.  She goes to the funeral home to help plan his homegoing and is shocked to hear his wife, Amber, wants to cremate him.  Tiffany knows Shawn wouldn't want that.  And Amber's lack of respect for Shawn leads Tiffany to believe that Amber his behind his murder.  She has 3 days to find evidence or Shawn will be cremated and Amber will go free.<br/><br/>The last movie in the Love, Lies, and Murder promo fall flat of the others.  This movie feels more like a Lifetime movie than TV One.  Since the ending is predictable, the journey must be worthwhile.  This one missed the mark.  The best moment is the revealed secret at the end.<br/><br/>3 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deadlydispatch.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deadlydispatch.jpg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Rome in Love",
-    "review":"Katherine convinces her sister Amelia to try out for the lead in an Italian movie.  She is flabbergasted when she gets the part.  However, she doesn't know how to handle all the new demands.  To get ahead of the media, her director Dominic hires a local paper to write about her.  The writer happens to be Philip.  Philip was her bellhop and pretended to not speak English when they met.  As he interviews her, they get close.  But when he breaks a promise, will this budding romance survive his writing?<br/><br/>Inspired by a book, this movie just doesn't capture your full attention.  The side characters are more interesting with the lengths they go through to keep them together.  This is a movie to watch if you want to kill 2 hours.<br/><br/>2 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/romeinlove.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/romeinlove.jpg"
     }
 }
 ];
