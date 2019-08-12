@@ -77,16 +77,6 @@ module.exports = mustBuy;
 }
 
 {
-    "option":"2",
-    "mtitle":"Disney's Aladdin",
-    "review":"Aladdin finds a magic lamp in the Cave of Wonders.  As he runs for his life, he gives the lamp to Jafar.  Jafar takes the lamp and pushes Aladdin off a cliff.  Aladdin is saved and his monkey, Abu, unknowingly steals the lamp from Jafar before the fall.  Trapped inside the Cave of Wonders, Aladdin rubs the lap and releases a Genie.  The Genie offers him 3 wishes.  He wants the Genie to help him be a prince to get the woman of his dreams, Princess Jasmine.  Only Jafar and his ambition to become Sultan stand in Aladdin's way.<br/><br/>This live adaption of the animated movie pays the highest respect to he original material. It doesn't change the story but adds to it.  It gives Princess Jasmine a song and a big dance.  The Genie keeps his comedic appearance while Iago and Abu are the best right-hand men.  The CGI was great for everyone but Genie.  At times, the head moved independently from it's CGI body and it was very distracting.  Because of this, 3D is a bad idea for this movie.  However, it is great for the whole family and you will feel an urge to see the play.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/disneysaladdin.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/disneysaladdin.jpg"
-    }
-}
-
-{
     "option":"4",
     "mtitle":"John Wick: Chapter 3 - Parabellum",
     "review":"Winston gives John 1 hour to get his affairs in order.  Then he will be excommunicated and a bounty of $14 million will be placed on his head.  Every assassin in the world will be after him and no one will offer help.  John uses the hour to find a safe place for his dog, get a ticket, get a marker, and get some gold coins.  Since some assassins couldn't wait for an hour, John needed to seek medical treatment.  In the middle of getting stitches, John's time runs out and the doctor stops the work.  John has to complete is stitches and heads to the Director.  He asks the Director to give him passage to Casablanca.  He knows an assassin there who can lead him to the High Table.  He hopes to plead his case so the High Table will let him live.<br/><br/>This movie proves better weapons, excellent choreographed fights, and mind blowing cinematography is all action lovers need.  With so much going on, this movie provides 30 to 45 minutes of dialogue.  It gives you more of John's training history with the Director but not enough information of the blood oath between him and Sophia.  Seeing John Wick 2 is necessary for this movie.<br/><br/>4.5 out of 5 stars.",
@@ -153,6 +143,46 @@ module.exports = mustBuy;
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stuber.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stuber.jpg"
+    }
+}
+
+{
+    "option":"4",
+    "mtitle":"Disney's The Lion King",
+    "review":"Simba is next in line for the throne.  But his Uncle Scar believes it's his rightful place.  Scar convinces Simba to go to the gorge to practice his roar.  Soon, Simba is in the middle of a stampede.  Scar runs to his brother, King Mufasa to help Simba but its a trap.  When Simba isn't looking, Scar kills Mufasa and blames the death on Simba.  Scar tells Simba to run away and never come back.  Scar promotes the lawless hyenas as his army while they lay waste to the pride.  It will take one old friend, 2 new friends, and fur to bring Simba back to the pride.<br/><br/>The live-adaption of this Disney classic stays true to the original with astounding attention to detail within mind-blowing graphics.  However, making these animals look like animals, takes away the emotions the animated characters possessed.  This forced the movie to rely on the voice actors to convey every pure emotion.  Some succeeded while other's fell flat.  Also, the song \"Can You Feel the Love Tonight\" is performed midday.  It feels out of place.  Overall, the movie may not be better than the first but it is still a strong movie worth seeing.  It's better in IMAX and/or 3D.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thelionking.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thelionking.jpg"
+    }
+}
+
+{
+    "option":"1",
+    "mtitle":"Brian Banks",
+    "review":"Brian wants to continue his deferred dream of being in the NFL.  But the new law to fit paroled sex-offenders with an ankle monitor has cut that dream short again.  Seven years ago, with bad legal counsel, he pleaded no contest to rape charges.  He was told he would give probation.  Instead, he got 6 years in jail, 3 years on parole, and lifetime on the sex offenders list.  Now on parole, Brian wants the California Innocence Project to clear his name.  Only then can he live his dream.  A ping on his computer will change his life forever.<br/><br/>Be ready to get angry and cheer.  The hoops Brian has to go through to clear his name is astonishing.  Unbelievably, he never gave up.  But with a ticking clock on his back and Jerome's words propelling him forward, Brian is determined to make it.  This story will inspire you to join in the fight with the California Innocence Project.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/brianbanks.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/brianbanks.jpg"
+    }
+}
+
+{
+    "option":"4",
+    "mtitle":"The Art of Racing in the Rain",
+    "review":"Enzo is purchased by Denny and starts the life he always thought he should have.  While he loves Denny's house, Enzo considers the race track to be his true home.  In his heart, Enzo, a dog, wants to be a racer.  Luckily, his owner has a gift for racing in the rain.  He dreams of becoming a great racer while teaching others.  Through, love, babies, death, lawsuits, and joy, Enzo is there for Denny every step of the way.  And Enzo has a plan to be with Denny forever.<br/><br/>Be ready to feel every emotion possible.  This movie is told mostly for Enzo's perspective.  He has trial and tribulations like a human.  When Enzo is sad, conniving, and hurt, you will cry, laugh, and feel his pain.  Don't be surprised if you hug your family, including your dog, after this movie.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theartofracingintherain.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theartofracingintherain.jpg"
+    }
+}
+
+{
+    "option":"5",
+    "mtitle":"The Farewell",
+    "review":"Billi got devastating news.  Her grandmother, Nai Nai, has stage 4 lung cancer and has 3 months to live.  Billi wants to fly to China to see Nai Nai but her parents don't want her to come.  The family is following tradition and decides not to tell Nai Nai she is sick.  Her parents worry Billi won't be able to keep the secret.  Tradition states that people who get cancer die.  Not because of cancer but because of fear.  The family chooses to bear the burden of that fear so Nai Nai won't have to do it.  Her parents fly to China.  A few days later - shocking her family - Billi flies there too.  Billi has to walk the line between Chinese tradition and American culture.  Will she reveal the good lie?<br/><br/>Based on an actual lie, this movie points out the difference between the cultures without condemning one or the other.  Both are explained to the audience with compassion and understanding.  The movie is 90% in Mandarin.  The story is so compelling, it's like reading a great book.  Sidenote: Bring food.  The eating scenes will make you hungry.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefarewell.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefarewell.jpg"
     }
 }
 */
