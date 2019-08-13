@@ -1,47 +1,47 @@
 var madeForTV = [
 {
     "option":"1",
-    "mtitle":"Adriana Trigiani's Very Valentine",
-    "review":"Valentine has an opportunity to save her family's wedding shoe business by designing a shoe for the biggest name in wedding fashion.  But when the dress sketch is less than inspiring, Teodora invites Valentine to go to Italy with her for inspiration.  It's there that Valentine finds her grandmother, inspiration, and love.<br/>_<br/>Based on the novel by Adriana Trigiani, this movie is more complex than others on Lifetime and it offers a healthy dose of reality.  You will notice that Valentine slowly gains confidence, strength, and love for herself when her fears are mirrored by Roman.  And that is the true lesson behind this movie.  In the end, you will want to be her grandmother, Teodora.<br/>_<br/>4 out of 5 stars.",
+    "mtitle":"V.C. Andrews' Fallen Hearts",
+    "review":"Heaven is back home and living with her grandfather.  She is making a good life as a teacher.  But when tragedy strikes her family again, Heaven places the blame on herself.  And uses a wise man's last words to give forgiveness.  Heaven marries Logan and hopes for a brighter future.  It's not long that the ghost of her past start paving a dark road to her future.  What secrets will be revealed in this installment of the Casteel series?<br/><br/>Book lovers rejoice!  This movie fixes a few of the wrongs in the first movie.  Directed by Jason Priestly, this movie captures the actors but the scenery is well.  This is, no doubt, a testament to the great job the set and costume designers are doing.  It makes the story stronger as the Casteel family airs their dirty laundry for the whole town to see.<br/><br/>4.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adrianatrigianisveryvalentine.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adrianatrigianisveryvalentine.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsfallenhearts.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsfallenhearts.jpg"
     }
 },
 {
     "option":"2",
-    "mtitle":"Wedding at Graceland",
-    "review":"Clay and Laurel are engaged and they choose to get married at the one and only Graceland Chapel.  Graceland is the place they met and fell in love.  The event planner tells them she has a date, but it's over a year away.  The closest available date is 3 weeks away.  The two decide to take a leap of faith and get married in 3 weeks.  While that's not easy, their families are arriving early to uniquely help.  With meddling, jaded, judging, and extremely different in-laws, will Clay and Laurel make it down the aisle?<br/>_<br/> The second installment of this series is too funny.  While you feel the happy couple's pain, you can't help but laugh at their parents butting heads.  This movies' realistic view of a wedding is wonderful and it offers practical and fair solutions to their problems.  Watch with the family and your in-laws today.<br/>_<br/>4.5 out of 5 stars.",
+    "mtitle":"Deadly Influencer",
+    "review":" Monica helped Skyler grow her social media following.  With a management agency calling her, Skyler decides to leave Monica.  Monica pushes her off a balcony.  Now, Monica is focused on Jessica.  She believes Jessica will have a bigger following than Skyler.  Monica wants to manage Jessica's social career and create a management brand.  She just has to get Jessica to sign a 10-year contract.  And if anyone gets in her way, off with their heads.<br/><br/>Giving a new meaning to a moment of silence, this movie delves into deep lessons for teens while remaining entertaining.  It talks about confusing likes with being liked.  Also, it analyzes the downside of being Insta-famous.  Watch this movie with your teen.<br/><br/>4.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/weddingatgraceland.jpeg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/weddingatgraceland.jpeg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deadlyinfluencer.jpeg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deadlyinfluencer.jpeg"
     }
 },
 {
     "option":"3",
-    "mtitle":"Recipe for Danger",
-    "review":"Social media butterfly and restaurateur, Vanessa is on the upswing until her sous chef and daughter's godfather, Ricardo, is murdered.  After some time has passed, she needs a new sous chef to help.  She flips through applicants and finds only disappointment.  Heidi tells her to post about the job on social media.  By the end of the day, she has 197 applicants.  She is ecstatic.  Vanessa doesn't know a social stalker has been watching her every move.  The stalker wants what Vanessa took from her.  And killing is just the cost of doing business.<br/>_<br/>Vanessa overlooks too many warnings.  Four people close to her tell her the newcomer in her life is dangerous, but she keeps defending that person.  You will find yourself getting frustrated with Vanessa's need to trust.  This movie gives the viewers a great lesson: Post With Caution.<br/>_<br/>3 out of 5 stars.",
+    "mtitle":"Aurora Teagarden: A Game of Cat and Mouse",
+    "review":"Aurora's display for her Real Mystery club is destroyed by a vandal.  But a clue left behind references Shakespeare.  Aurora concludes that the vandal leaves clues for their next target.  When one clue references a librarian, Aida is worried for Aurora's safety.  Aurora is determined to save herself by finding the vandal.<br/><br/>Applause is needed for the next installment of the Aurora Teagarden series.  With so many sketchy characters, it compels you to solve the crime with Aurora.  Also, the vandal's clues will add a few more great mysteries to your collection.<br/><br/>5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/recipefordanger.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/recipefordanger.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aurorateagardenagameofcatandmouse.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aurorateagardenagameofcatandmouse.jpg"
     }
 },
 {
     "option":"4",
-    "mtitle":"Pride and Prejudice: Atlanta",
-    "review":"Mrs. Bennet wants her 5 daughters to find a rich, handsome, strong husband.  Her daughter, Lizzie, is an activist who wants to stop the building of a strip mall.  She meets Antwone, a future congressmen, they argue and he asks her out on a date.  She laughs and run away.  Then, William Darcy meets Lizzie in a wedding and refuses to talk to him.  Finally, Stevie, a future church leader wants Lizzie after Jane said no.<br/>_<br/>Mrs. Bennet's dialogue will have you laughing and quoting for days.  Their are a few lines from the book, so listen hard.  It was funny for teens and up.  But, this movie feels more like a future TV series than a movie.<br/>_<br/>3.5 out of 5 stars.",
+    "mtitle":"Love and Sunshine",
+    "review":"While Jake was fighting for his country, Ally has fostered his dog. Jake returns home safely and picks up his dog, Sunshine.  It's hard for Ally to let Sunshine go because the dog gave her companionship when her engagement ended.  Now, Jake needs his dog to get over his Dear John letter he received during his tour.  Their constant run-ins over Sunshine ignites a spark of love between the two.  Hopefully, Ally and Jake will see it.<br/><br/>This is a strong Hallmark love story.  It's amazing to see Ally gain her confidence with so much poise and strength.  Watch and be inspired.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/prideandprejudiceatlanta.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/prideandprejudiceatlanta.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveandsunshine.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveandsunshine.jpg"
     }
 },
 {
     "option":"5",
-    "mtitle":"Secrets of the Sisterhood",
-    "review":"Ashley has been having a rough time with her job and divorce.  When her sister Jasmine comes to her door step, Ashley fears her drug addiction will be the last pillar in the trifecta.  But Jasmine has been clean for 9 months thanks to the Sisterhood.  This secret society works to help people and they want to help Ashley.  As Ashley's life changes for the better, she joins.  This decision will leave her life, career, and family in danger.<br/>_<br/>The writer has done major research on cult membership, recruitment, and social constructs.  Within moments, Ashley is love bombed by the women.  She feels empowered.  But the moment she wants to leave, they leave her in fear, confusion, and broke.  This movie could be a teaching guide.<br/>_<br/>4 out of 5 stars.",
+    "mtitle":"V.C. Andrews' Dark Angel",
+    "review":"Heaven left her small-town life behind for her mother's family.  She is taken back by their wealth and feels instantly out of place.  Her grandmother, Jillian only wanted her around for a few days, her step-grandfather, Tony, offers to make the stay permanent.  She just has to give up her father's side of the family and give in to his needs.  Heaven agrees and becomes a lady of wealth.  But when she gets engaged, lies told by everyone are exposed and leave a path of pain, destruction, and death.<br/><br/>Book lovers beware, this movie hasn't fixed the mistakes of the first movie.  Movie lovers, get ready for some of the biggest shocks in Lifetime's history.  One remarkable aspect is the costume and set design work.  As Heaven transforms, her clothes do too but they stay within the margins of the period.  This attention to detail is paid to the sets as well.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofthesisterhood.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofthesisterhood.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewdarkangel.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewdarkangel.jpg"
     }
 }
 ];

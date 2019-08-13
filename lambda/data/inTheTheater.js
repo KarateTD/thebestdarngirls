@@ -1,47 +1,47 @@
 var inTheTheaters = [
 {
     "option":"1",
-    "mtitle": "Dark Phoenix",
-    "review": "In 1975, Professor X came to Jean Grey's aid after she accidentally killed her parents by causing a car accident.  The lone survivor, Jean decides to stay with Professor X to hone her gift.  Seventeen years later, Jean is one of the most powerful X-Men.  In a mission to save astronauts, Jean is hit with a solar flare that amplifies her power.  Her new powers are so strong, they are releasing the painful secrets in her mind that Professor X closed.  Now, Jean wants answers and leaves the school.  The X-Men go to save her and lose.  Heartbroken by her greatest mistake, Jean seeks out Magneto.  But Vuk is searching for Jean.  That solar flare was really a power surge that destroyed Vuk's planet.  She wants Jean's powers to wipe out humankind and rebuild her planet on earth.  She will do it with Jean or without her.<br/>_<br/>Be warned, there is no Quicksilver scene.  However, the cinematography is a great representation of Jean's internal struggles.  The CGI is the best of all X-Men movies.  But the overall story is flat.  It should expand on Vuk's life on D'Bari and Jean's relationship with Scott.  See in on the big screen for the effects.  But the next time you will want to see it, is on TV.  In addition, there are no post-credit scenes.<br/>_<br/>3 out of 5 stars.",
+    "mtitle":"Brian Banks",
+    "review":"Brian wants to continue his deferred dream of being in the NFL.  But the new law to fit paroled sex-offenders with an ankle monitor has cut that dream short again.  Seven years ago, with bad legal counsel, he pleaded no contest to rape charges.  He was told he would get probation.  Instead, he got 6 years in jail, 3 years on parole, and lifetime on the sex offenders list.  Now on parole, Brian wants the California Innocence Project to clear his name.  Only then can he live his dream.  A ping on his computer will change his life forever.<br/><br/>Be ready to get angry and cheer.  The hoops Brian has to go through to clear his name is astonishing.  Unbelievably, he never gives up.  But with a ticking clock on his back and Jerome's words propelling him forward, Brian is determined to make it.  This story will inspire you to join in the fight with the California Innocence Project.<br/><br/>4.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/darkphoenix.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/darkphoenix.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/brianbanks.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/brianbanks.jpg"
     }
 },
 {
-    "option": "2",
-    "mtitle": "Rocketman",
-    "review": "Elton John allowed his talents to flourish while being raised by a neglectful mom and cold hearted father.  Looking for the love he missed had home will send him into a downward spiral of drug abuse and an abusive relationship.  But the words, Bernie's words, that catapulted him into the business will save him from himself.<br/>_<br/>Rocketman is a musical that is too big for any stage.  As Elton reveals the layers of his life, he slowly takes off his costume as a symbolic gesture.  At the end, Elton will take control of his life and make amends with himself.<br/>_<br/>3.5 out of 5 stars.",
+    "option":"2",
+    "mtitle":"The Kitchen",
+    "review":"Ruby, Kathy, and Claire watch their husbands get sentenced to 3 years in prison for several crimes.  Their mob family promises the women they will be taken care of while their husbands are in prison.  Their first payment doesn't cover rent so the women go to talk to Little Jackie.  Jackie refuses to give them more.  So the women take their lives and the family business in their own hands.  They start collecting, making deals, and killing.  But will they be ready for the biggest play of all?  Their husbands are coming home.<br/><br/>Based on the graphic novel, this movie feels more like a part one of a multi-part movie.  Each woman desires the mobster life for different reasons.  Kathy wants to take care of her family.  Ruby wants to have power.  Claire wants control of her life.  Seeing these women get bloody business done is entertaining but something feels like its missing.<br/><br/>3.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rocketman.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rocketman.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thekitchen.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thekitchen.jpg"
     }
 },
 {
-    "option": "3",
-    "mtitle": "Ma",
-    "review": "Sue Ann ignores Maggie's request to buy alcohol until she sees Andy and his truck.  She changes her mind and buys the alcohol.  Later, she offers them a place to party in her home and even makes snacks.  She becomes the party hub for all the kids in town and they nickname her Ma.  After Maggie and Haley break one of the rules and Ma freaks out, the girls decide they don't want to go to Ma's and tells everyone else to do the same.  Ma must get the girls back to complete her ultimate plan of revenge.<br/>_<br/>This movie provides a great backing track of 70's music with some cringe worthy moments.  However, you are never afraid of Ma and you have no sympathy for these kids.  See this movie if you like to yell at the screen.<br/>_<br/>2.5 out of 5 stars.",
+    "option":"3",
+    "mtitle":"Dora and the City of Gold",
+    "review":"After falling into a hole, Dora's parents won't let her go on their next exploration.  They believe they have discovered the City of Gold, Parapata.  Since Dora can't be trusted with her safety, her parents send her to live in the city with her cousin Diego.  Dora worries she won't make friends because she doesn't know how to make friends.  Dora becomes the weird girl in school and needs her parents.  However, she hasn't been able to get in touch with them.  While on a field trip, Dora, Diego, and 2 classmates are kidnapped.  They want Dora to find her parents so her parents will lead them to Parapata.  With Alejandro's help, Dora escapes and plans to find her parents before the treasure hunters do.<br/><br/>Original fans relax.  This movie gives you the classic Dora theme, 4th wall breaks, and the cartoon.  Everyone else, enjoy.  This movie is a mix of Dora, Indiana Jones, and Spy Kids.  You will get a genuine laugh while kids learn about Incas, aqueducts, and frogs.<br/><br/>3.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ma.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ma.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/doraandthecityofgold.png",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/doraandthecityofgold.png"
     }
 },
 {
-    "option": "4",
-    "mtitle": "Godzilla: King of the Monsters",
-    "review": "Emma creates ORCA.  A machine that can replicate the alpha call of any animal.  When she, ORCA, and her daughter Madison are kidnapped by a band of eco-terrorists, led by Alan, her ex-husband Mark is called in to help.  And for his help, he will be betrayed.  To save the world Mark will kill, revive, and team up with his sworn enemy: Godzilla.<br/>_<br/>Godzilla has great CGI and the classic monsters you love.  But the overall plot has too much foreshadowing.  Also, the writer keeps changing the genre of the movie.  Is it an alien movie, monster movie, action movie, or environmental PSA?  No one knows.  However, if you are a fan of the original, you will enjoy this version.  Everyone else, wait for FandangoNow.<br/>_<br/>2.5 out of 5 stars.",
+    "option":"4",
+    "mtitle":"The Art of Racing in the Rain",
+    "review":"Enzo is purchased by Denny and starts the life he always thought he should have.  While he loves Denny's house, Enzo considers the race track to be his true home.  In his heart, Enzo, a dog, wants to be a racer.  Luckily, his owner has a gift for racing in the rain.  He dreams of becoming a great racer while teaching others.  Through love, a baby, death, lawsuits, and joy, Enzo is there for Denny every step of the way.  And Enzo has a plan to be with Denny forever.<br/><br/>Be ready to feel every emotion possible.  This movie is told mostly from Enzo's perspective.  He has trial and tribulations like a human.  When Enzo is sad, conniving, and hurt, you will cry, laugh, and feel his pain.  Don't be surprised if you hug your family, including your dog, after this movie.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/godzillakingofthemonsters.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/godzillakingofthemonsters.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theartofracingintherain.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theartofracingintherain.jpg"
     }
 },
 {
     "option":"5",
-    "mtitle":"Late Night",
-    "review":"After starring in her late night show for decades, Katherine is being replaced due to continuous falling ratings.  She decides to hire a female writer for a change of pace and to prove she doesn't hate women.  Molly entered a contest to meet a corporate executive.  She chooses the owner of Katherine's network to get a job interview on Katherine's show.  Having no background in comedy writing, she is hired on the spot because she's a woman.  While Molly can work and compete with the guys, it's Katherine that's her biggest obstacle.  With great advice from Walter and an office mate, Molly will grow.  But is it enough to save the show and get Katherine through a scandal.<br/>_<br/>If you can't take a political joke, this movie isn't for you.  This movie throws PC out the window for a good laugh.  However, at times, you will be too overcome with shock and awe to laugh.  Emma's Katherine is tougher than Meryl's Miranda and John Lithgow plays a more serious role.<br/>_<br/>3 out of 5 stars.",
+    "mtitle":"The Farewell",
+    "review":"Billi got devastating news.  Her grandmother has stage 4 lung cancer and has 3 months to live.  Billi wants to fly to China to see her grandmother but her parents don't want her to come.  The family is following tradition and decides not to tell her grandmother she's sick.  Her parents worry Billi won't be able to keep the secret.  Tradition states that people who get cancer die.  Not because of cancer but because of fear.  The family chooses to bear the burden of that fear so her grandmother won't have to do it.  Her parents fly to China.  A few days later - shocking her family - Billi flies there too.  Billi has to walk the line between Chinese tradition and American culture.  Will she reveal the good lie?<br/><br/>Based on an actual lie, this movie points out the difference between the cultures without condemning one or the other.  Both are explained to the audience with compassion and understanding.  The movie is 90% in Mandarin.  The story is so compelling, it's like reading a great book.  Sidenote: Bring food.  The eating scenes will make you hungry.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/latenight.png",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/latenight.png"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefarewell.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefarewell.jpg"
     }
 }
 ];
