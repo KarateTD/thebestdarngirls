@@ -38,6 +38,7 @@ var getList = require('./helpers/getList');
 
 var menu;
 var choice;
+var offset=0;
 
 const WelcomeHandler = {
 	canHandle(handlerInput){
@@ -564,7 +565,14 @@ function getResults(searchFor){
                 if(rows.length != 0){
 
                     var newData = JSON.parse(resultString);
-                    var starter = "Here are your search results.  Please pick the corresponding number.\n\n";
+                    var starter;
+                    if(rows.length == 1){
+                        starter = "You have one result.  Please pick the corresponding number.\n\n";
+                    }else if(rows.length > 10){
+                        starter = "You have "+rows.length+" results.  Here are your first 10. For the next 10 say next.  Please pick the corresponding numbers.\n\n";
+                    }else{
+                        starter = "You have "+rows.length+" results.  Please pick the corresponding number.\n\n";
+                    }
                     var requestList;
 
                     starter += getOptions(newData);
