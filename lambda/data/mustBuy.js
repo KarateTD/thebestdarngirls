@@ -1,6 +1,15 @@
 var mustBuy = [
 {
     "option":"1",
+    "mtitle":"Booksmart",
+    "review":"Molly and Amy are inspired to spend their last night as high school students having the 4 years of fun they missed by attending Nick's party.  They just need one thing: the address.<br/><br/>This is not a \"coming-of-age\" movie.  These women are strong, smart, and liked.  They just forgot to have fun.  Their friendship and world views will be tested.  And you will laugh at every milestone.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/booksmart.jpg",
+        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/booksmart.jpg"
+    }
+},
+{
+    "option":"2",
     "mtitle":"The Secret Life of Pets 2",
     "review":"Max wants a life with just him, Duke and Katie.  No kids allowed.  Until Katie gets married to Chuck and gives birth to Liam.  Now, he will do anything to protect Liam.  Max is so stressed with Liam's safety, he is scratching uncontrollably.  Coned by a behavioral specialist, Max his happy to go on a trip in a car.  But this city dog will have to adapt to farm life while caring for Liam.<br/><br/>This is only one of the three plots to this amazing movie.  It is an instant classic with jokes you and your children will be laughing at simultaneously.  While there is nothing after the end credits, you will see pictures of kids and pets and enjoy a Snowball rap.  This movie is award worthy.<br/><br/>5 out of 5 stars.",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
 },
 {
-    "option":"2",
+    "option":"3",
     "mtitle":"Avengers: Endgame",
     "review":"After learning the stones are gone, the team tries to cope with their new reality.  But when Ant-Man comes back from the quantum realm, he develops an idea to get the stones back, recreate the gauntlet and bring everyone back.<br/><br/>This movie is more than you could have imagined.  The 3 hours do not feel long enough.  Stunning sendoffs are given to each original Avenger and Stan Lee.  You will need to see this movie multiple times because it will continue to blow your mind and bring tears to your eyes.<br/><br/>5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
 },
 {
-    "option":"3",
+    "option":"4",
     "mtitle":"Breakthrough",
     "review":"John walked on a frozen lake and fell through the ice.  After 20 minutes underwater and 25 minutes of rescue efforts, the nurses stop working to allow John's mother to say her goodbyes.  As she prays for God to save her son, his heart starts beating again.  She will need her faith, her family, and her pastor to get her through as she prays for her son.<br/><br/>This movie will have you in tears.  While it shows John's journey, it doesn't sugar coat his mom's struggles.  She appeared to be a rock but she was pushing others away.  Also, this movie gives insight into John's experience after his survival.  See it with the whole family.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -27,21 +36,12 @@ var mustBuy = [
     }
 },
 {
-    "option":"4",
+    "option":"5",
     "mtitle":"Captain Marvel",
     "review":"Vers is excited to be granted her first mission by the Supreme Intelligence.  During the battle between the Kree and the Skrulls, Vers is captured and put into a mind hacking machine.  The Skrulls uncover memories she thought were dreams.  She escapes the machine and jumps into an escape pod that veers off course to C-53, a.k.a. Earth.  On earth, Vers will learn the truth about her powers, the Kree, and the Skrulls.<br/><br/>Newcomers to the MCU need to watch the other films before watching this movie.  There are a lot of jokes and references to the past and present that will not make sense without knowledge of these movies.  With so much history to cover before the initial story, the first 10 minutes feels extremely rushed.  If you miss it, you will miss everything.  And 90s babies, be ready for some nostalgia.<br/><br/>4 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/captainmarvel.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/captainmarvel.jpg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Fighting with My Family",
-    "review":"Saraya trained for years to become a WWE superstar.  Finally, when she and her brother, Zak, got a try-out, they were floored.  Changing her name to Paige, they give the tryout their all.  However, the scouts only pick Saraya and she wonders if she can do it alone.  And Zak starts to spiral into depression.  This family needs to stick together to save Zak and encourage Saraya.<br/><br/>This isn't just another wrestling movie, it's about family and dreams versus reality.  Saraya has to overcome her lack of strength, her misconceptions, and self-doubts.  Nevertheless, can she do it with her honest and loving family overseas instead of ringside.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/fightingwithmyfamily.jpeg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/fightingwithmyfamily.jpeg"
     }
 }
 ];
@@ -55,16 +55,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
-
-{
-    "option":"1",
-    "mtitle":"Booksmart",
-    "review":"Molly and Amy are inspired to spend their last night as high school students having the 4 years of fun they missed by attending Nick's party.  They just need one thing: the address.<br/><br/>This is not a \"coming-of-age\" movie.  These women are strong, smart, and liked.  They just forgot to have fun.  Their friendship and world views will be tested.  And you will laugh at every milestone.<br/><br/>5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/booksmart.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/booksmart.jpg"
-    }
-}
 
 {
     "option":"4",
