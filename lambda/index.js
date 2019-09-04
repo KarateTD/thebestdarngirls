@@ -204,6 +204,7 @@ const MovieChoicesHandler = {
 	  	}else if(menu.toLowerCase() === 'video on demand'){
   			element = getCardInfo(videoOnDemand, choice);
   		}else if(menu.toLowerCase() === 'library'){
+  		    offset=0;
   		    console.log(libraryList);
   		    console.log(videoOnDemand);
   		    element = getCardInfo(libraryList, choice);
@@ -544,8 +545,8 @@ function getResults(searchFor){
             database: process.env.database
         });
 
-        var query_str = 'select * from reviews where title like \'%'+searchFor+'%\'';
-
+        var query_str = 'select * from reviews where title like \'%'+searchFor+'%\' order by title  limit 10 offset '+offset;
+        console.log(query_str);
         connection.query(query_str, function (err, rows, fields){
             connection.end();
             var resultString = "[";
