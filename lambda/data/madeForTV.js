@@ -1,47 +1,47 @@
 var madeForTV = [
 {
     "option":"1",
-    "mtitle":"V.C. Andrews' Gates of Paradise",
-    "review":"Heaven, Logan, and Fannie's children are 18 and ready to tackle the world.  Annie dreams about going to Farthinggale Manor but Heaven shuts her down without explanation.  After a night of drinking, Logan crashes the car killing Heaven and himself.  But Annie is still alive.  When Annie wakes up, she can't feel her legs, her parents are dead, and her step great-grandfather, Tony, is standing over her.  Tony offers to take care of her while she recovers and she accepts. Annie has no idea the dark secrets the manor holds.<br/><br/>Knowing the truth of Luke and Annie's kinship makes the longing glances and near kisses palatable.  However, the overall plot feels like a lack-luster Misery.  It just doesn't command your attention like the predecessors.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Who Stole My Daughter",
+    "review":"On the 5th anniversary of their daughter's disappearance, Tim and Janet are floored when she appears at their doorstep.  Katie doesn't speak but is hiding a dark secret.  Tim and Janet must uncover Katie's secret because their family is in danger.<br/><br/>This movie does have a slow start but it has a dependable and strong ending.  You must pay attention while watching this movie.  Every line, gesture, and moment have meaning to the plot.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsgatesofparadise.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsgatesofparadise.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whostolemydaughter.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whostolemydaughter.jpg"
     }
 },
 {
     "option":"2",
-    "mtitle":"Home Abduction",
-    "review":"Maggie and her daughter Ava move into a new home to start a new life.  Maggie worries the home may be haunted after doors and windows open and close themselves.  Then Sylvia, Maggie's neighbor, tells Maggie the homes bad past.  The home is connected to a child's disappearance and a murder.  But Maggie has no idea how close and how deep the past goes.  Maggie has to learn who is turning her life upside down to keep her and Ava safe.<br/><br/>This movie could have been based on a real story.  With a mix of new technology and non-technical methods, Sylvia can get under Maggie's skin and create real fear for her.  There are 2 big reveals in the movie.  The first is predictable and the other is not.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Chronicle Mysteries: The Deep End",
+    "review":"So here's what we know, Stephanie is on trial for her husband's murder and all evidence points to her.  But her lawyer, who is Alex's best friend, Katie, believe she didn't do it.  Before Elliot died, his children overheard Elliot talking to Claire.  Katie asks Alex to use her podcast to find Claire.  Alex agrees.  As more evidence comes to light, Alex and her friends start investigating the case for the real killer.<br/><br/>With well established relationships, this episode in the movie series focuses on the case.  As Alex investigates, she will reveal an underground poker game, planes, and secret storage lockers.  There is a personal aspect missing but this movie still captures your attention.<br/><br/>4.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/homeabduction.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/homeabduction.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/chroniclemysteriesthedeepend.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/chroniclemysteriesthedeepend.jpg"
     }
 },
 {
     "option":"3",
-    "mtitle":"Aurora Teagarden Mysteries: An Inheritance to Die For",
-    "review":"After a fun mystery night, Aurora attends a wedding for Sally's cousin.  Gladys is stuck inbetween her son and her assistant.  They fight like cats and dogs over Gladys's health.  And that fighting continues after Gladys drops dead during the reception.  At the will reading, several members of Gladys' family are fuming when she leaves a large amount of money to her chef and her company to Aida.  But everything is put on hold when police discover Gladys was poisoned.<br/><br/>Score another one for Aurora Teagarden.  With such an unlikable victim, viewers are left with a vast number of suspects.  And to make your sleuthing harder, murder isn't the only crime being committed.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Hitsville: The Making of Motown",
+    "review":"Berry Gordy used his experience as a newspaper salesman, record store owner, and Ford Motors factory worker to create an artist assembly line.  He learned self-reliance from his family who created a family bank.  He asked his sister to borrow $1000 from the family bank to start a record label.  She approved $800.  Berry bought a 2 story home, hired the best of the best, and created a sound that would become ingrained in American culture to this day.<br/><br/>As best friends Berry and Smokey Robinson walk around Hitsville, now the Motown Museum, they discuss the rise, competition, change, and legacy of Motown.  As they talk, they create and settle a 100 dollar bet.  Dare you not to sing while watching this movie.<br/><br/>5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aurorateagardenmysteriesaninheritancetodiefor.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aurorateagardenmysteriesaninheritancetodiefor.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hitsvillethemakingofmotown.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hitsvillethemakingofmotown.jpg"
     }
 },
 {
     "option":"4",
-    "mtitle":"A Taste of Summer",
-    "review":"After quitting her job and relationship, Gabby, a sous chef, heads to New England to visit her sister Christina.  Christina wants Gabby to branch off on her own and she has the perfect rental property.  Christina shows Gabby a restaurant with a great deal.  Gabby is on the fence until she meets the local competition, Caleb.  The two passive-aggressively fight to be the hit in their town and the winner of the Taste of Summer competition.<br/><br/>A Taste of Summer will make you hungry for food and love.  So, have at least one nearby.  The amount of personal growth for each character is amazing and well crafted.  While the movie is predictable, it's still fun to watch.<br/><br/>3 out of 5 stars.",
+    "mtitle":"All Summer Long",
+    "review":"After working 2 years straight on a legal case, Tia wants to take some time off.  She decides to take over as Captain for her uncle's boat, which doubles as a restaurant.  It's not long before she learns her uncle Roland hired her ex-boyfriend, Jake, to be the head chef.  Can Tia put her broken heart and anger to the side to help Roland?<br/><br/>This movie follows the classic plot of former lovers forced to work together and fall in love. It does offer a unique perspective on business but not romance.<br/><br/>2 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/atasteofsummer.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/atasteofsummer.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/allsummerlong.png",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/allsummerlong.png"
     }
 },
 {
     "option":"5",
-    "mtitle":"V.C. Andrews' Fallen Hearts",
-    "review":"Heaven is back home and living with her grandfather.  She is making a good life as a teacher.  But when tragedy strikes her family again, Heaven places the blame on herself.  And uses a wise man's last words to give forgiveness.  Heaven marries Logan and hopes for a brighter future.  It's not long that the ghost of her past start paving a dark road to her future.  What secrets will be revealed in this installment of the Casteel series?<br/><br/>Book lovers rejoice!  This movie fixes a few of the wrongs in the first movie.  Directed by Jason Priestly, this movie captures the actors but the scenery is well.  This is, no doubt, a testament to the great job the set and costume designers are doing.  It makes the story stronger as the Casteel family airs their dirty laundry for the whole town to see.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"V.C. Andrews' Web of Dreams",
+    "review":"Annie returns to Farthinggale Manor to bury her father Troy.  Although she recently discovered her real father, she feels obligated to return to the home where she was kept as a prisoner.  When she walks around the home, she gets flashes of her abusive past at the hands of her grandfather Tony.  Before she leaves, the butler hands her a diary.  The diary belonged to her grandmother Leigh.  Annie sits and reads the painful past endured by Leigh and the courage her grandmother had at such a young age.<br/><br/>Web of Dreams is a prequel for the Castel series.  This prequel may feel unnecessary or out of order to the viewer, it is told at the right time for Annie.  It gives Annie an understanding that she isn't alone in her abuse and she can overcome her trauma.  Also, this movie answers a lot of questions about what happened to Leigh and her volatile relationships.  It's best to watch the prequel last as the author intended.<br/><br/>4 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsfallenhearts.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsfallenhearts.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewswebofdreams.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewswebofdreams.jpg"
     }
 }
 ];
