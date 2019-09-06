@@ -593,7 +593,7 @@ function getResults(searchFor){
            // connection.end();
            // rowcount = result.length;
            console.log("result is "+result[0].count);
-           rowcount = Number(result.count);
+           rowcount = Number(result[0].count);
            console.log("count is "+rowcount)
         });
         console.log(query_str);
