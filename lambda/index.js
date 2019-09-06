@@ -591,7 +591,9 @@ function getResults(searchFor){
         var rowcount_str = 'select count(id) from reviews where title like \'%'+searchFor+'%\''
         connection.query(rowcount_str, function(err,result){
            // connection.end();
-            rowcount = result.length;
+           // rowcount = result.length;
+           rowcount = Number(result);
+           console.log("count is "+rowcount)
         });
         console.log(query_str);
         connection.query(query_str, function (err, rows, fields){
