@@ -589,10 +589,10 @@ function getResults(searchFor){
 
         var query_str = 'select * from reviews where title like \'%'+searchFor+'%\' order by title  limit 10 offset '+offset;
         var rowcount_str = 'select count(id) as count from reviews where title like \'%'+searchFor+'%\''
-        connection.query(rowcount_str, function(err,result){
+        connection.query(rowcount_str, function(err,result,fields){
            // connection.end();
            // rowcount = result.length;
-           console.log("result is "+result.count);
+           console.log("result is "+result[0].count);
            rowcount = Number(result.count);
            console.log("count is "+rowcount)
         });
