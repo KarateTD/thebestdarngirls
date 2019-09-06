@@ -269,7 +269,8 @@ const LibraryHandler = {
     async handle(handlerInput){
         const request = handlerInput.requestEnvelope.request;
         console.log("offset is "+offset+" choice is "+choice);
-        if(offset == 0){
+        //if(offset == 0){
+        if(request.intent.slots.selection && offset == 0){
             if (request.intent.slots.selection.value){
                 choice = request.intent.slots.selection.value;
             }else if(request.intent.slots.query.value){
@@ -624,7 +625,7 @@ function getResults(searchFor){
                     }else if(rowcount > 10 && offset == 0){
                         starter = "You have "+rowcount+" results.  Here are your first 10 results. For the next 10, say skip.  Please pick the corresponding number.\n\n";
                     }else if(rowcount > 10 && ((offset + 10) > rowcount)){
-                        starter = "You have "+rowcount+" results.  Here are your final 10 results.  For the previous 10, say previous.  Please pick the corresponding number.\n\n";
+                        starter = "You have "+rowcount+" results.  Here are your final results.  For the previous 10, say previous.  Please pick the corresponding number.\n\n";
                     }else if(rowcount > 10 && offset > 0){
                         starter = "You have "+rowcount+" results.  Here are your next 10 results.  For the more results, say skip.  For the previous 10, say previous.  Please pick the corresponding numbers.\n\n";
                     }else{
