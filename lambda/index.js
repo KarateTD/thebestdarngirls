@@ -39,6 +39,7 @@ var getList = require('./helpers/getList');
 var menu;
 var choice;
 var offset=0;
+var isEnd=false;
 
 const WelcomeHandler = {
 	canHandle(handlerInput){
@@ -112,7 +113,9 @@ const MainMenuHandler = {
   			requestList = getList(videoOnDemand)
   		}else if(menu.toLowerCase() === 'library'){
   		    starter = "Welcome to The Best Darn Girls Movie Review Library.  Please say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie";
-  		    isLibrary = true
+  		    isLibrary = true;
+  		    isEnd=false;
+  		    offset=0;
   		}else{
       		starter = `${sorry}`;
  		}
@@ -204,7 +207,6 @@ const MovieChoicesHandler = {
 	  	}else if(menu.toLowerCase() === 'video on demand'){
   			element = getCardInfo(videoOnDemand, choice);
   		}else if(menu.toLowerCase() === 'library'){
-  		    offset=0;
   		    console.log(libraryList);
   		    console.log(videoOnDemand);
   		    element = getCardInfo(libraryList, choice);
@@ -266,12 +268,14 @@ const LibraryHandler = {
     },
     async handle(handlerInput){
         const request = handlerInput.requestEnvelope.request;
-        if (request.intent.slots.selection.value){
-            choice = request.intent.slots.selection.value;
-        }else if(request.intent.slots.query.value){
-            choice = request.intent.slots.query.value;
+        if(offset == 0){
+            if (request.intent.slots.selection.value){
+                choice = request.intent.slots.selection.value;
+            }else if(request.intent.slots.query.value){
+                choice = request.intent.slots.query.value;
+            }
         }
-
+        console.log("choice is: "+ choice+" and offset is "+offset);
         const rows = await getResults(choice.toLowerCase().replace(/ /g,'%'));
 
         if(supportsAPL(handlerInput) && rows[0] != null){
@@ -305,7 +309,7 @@ const LibraryHandler = {
                     }
                 }
             }); //end handler
-        }else if(supportsAPL(handlerInput) && rows[0] == null){
+        }else if(supportsAPL(handlerInput) && rows[0] == null && offset == 0){
             starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " and a movie title or say main menu.";
             console.log("in else");
             handlerInput.responseBuilder.addDirective({
@@ -330,6 +334,9 @@ const LibraryHandler = {
                     }
                 }
             });
+        }else if(rows[0] == null && offset != 0){
+            isEnd=true;
+            starter("You are at the end of your selection.  Please say previous or search again");
         }
 
         return handlerInput.responseBuilder
@@ -388,6 +395,37 @@ const CommandsHandler = {
 		}
 	}
 };
+
+const PrevHandler = {
+    canHandle(handlerInput){
+        const request = handlerInput.requestEnvelope.request;
+        return request.type === 'IntentRequest'
+          && (request.intent.name === 'AMAZON.PreviousIntent');
+    },
+    handle(handlerInput) {
+        var starter=null;
+        if(offset != 0){
+            offset=offset-10;
+            return LibraryHandler.handle(handlerInput);
+        }else{
+            return handlerInput.responseBuilder
+            .speak("You are at the beginning of your search.  Please make your selection")
+            .getResponse();
+        }
+    }
+}
+
+const NextHandler = {
+    canHandle(handlerInput){
+        const request = handlerInput.requestEnvelope.request;
+        return request.type === 'IntentRequest'
+          && (request.intent.name === 'AMAZON.NextIntent');
+    },
+    handle(handlerInput) {
+        offset=offset+10;
+        return LibraryHandler.handle(handlerInput);
+    }
+}
 
 const ExitHandler = {
 	canHandle(handlerInput){
@@ -512,6 +550,8 @@ exports.handler = skillBuilder
     CommandsHandler,
     LibraryHandler,
     ExitHandler,
+    PrevHandler,
+    NextHandler,
     HelpHandler,
     SessionEndedRequestHandler
   )
@@ -562,7 +602,7 @@ function getResults(searchFor){
                 }) //end forEach
                 resultString = resultString.slice(0, -1);
                 resultString += "]";
-
+                searchResult = rows.length;
                 if(rows.length != 0){
 
                     var newData = JSON.parse(resultString);
