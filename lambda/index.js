@@ -602,7 +602,7 @@ function getResults(searchFor){
                 }) //end forEach
                 resultString = resultString.slice(0, -1);
                 resultString += "]";
-                searchResult = rows.length;
+
                 if(rows.length != 0){
 
                     var newData = JSON.parse(resultString);
