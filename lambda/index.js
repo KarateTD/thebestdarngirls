@@ -336,7 +336,7 @@ const LibraryHandler = {
             });
         }else if(rows[0] == null && offset != 0){
             isEnd=true;
-            starter("You are at the end of your selection.  Please say previous or search again");
+            starter="You are at the end of your selection.  Please say previous or search again";
         }
 
         return handlerInput.responseBuilder
@@ -585,7 +585,14 @@ function getResults(searchFor){
             database: process.env.database
         });
 
+        var rowcount;
+
         var query_str = 'select * from reviews where title like \'%'+searchFor+'%\' order by title  limit 10 offset '+offset;
+        var rowcount_str = 'select count(id) from reviews where title like \'%'+searchFor+'%\''
+        connection.query(rowcount_str, function(err,result){
+            connection.end();
+            rowcount = result.length;
+        })
         console.log(query_str);
         connection.query(query_str, function (err, rows, fields){
             connection.end();
@@ -603,14 +610,20 @@ function getResults(searchFor){
                 resultString = resultString.slice(0, -1);
                 resultString += "]";
 
-                if(rows.length != 0){
-
+                //if(rows.length != 0){
+                if(rowcount != 0){
                     var newData = JSON.parse(resultString);
                     var starter;
-                    if(rows.length == 1){
+                    //if(rows.length == 1){
+                    if(rowcount == 1){
                         starter = "You have one result.  Please pick the corresponding number.\n\n";
-                    }else if(rows.length > 10){
-                        starter = "You have "+rows.length+" results.  Here are your first 10. For the next 10 say next.  Please pick the corresponding numbers.\n\n";
+                    //}else if(rows.length > 10){
+                    }else if(rowcount > 10 && offset == 0){
+                        starter = "You have "+rowcount+" results.  Here are your first 10 results. For the next 10, say skip.  Please pick the corresponding number.\n\n";
+                    }else if(rowcount > 10 && offset > 0){
+                        starter = "You have "+rowcount+" results.  Here are your next 10 results.  For the more results, say skip.  For the previous 10, say previous.  Please pick the corresponding numbers.\n\n";
+                    }else if(rowcount > 10 && (offset + 10) > rowcount){
+                        starter = "You have "+rowcount+" results.  Here are your final 10 results.  For the previous 10, say previous.  Please pick the corresponding number.\n\n";
                     }else{
                         starter = "You have "+rows.length+" results.  Please pick the corresponding number.\n\n";
                     }
