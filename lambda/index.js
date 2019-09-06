@@ -270,7 +270,7 @@ const LibraryHandler = {
         const request = handlerInput.requestEnvelope.request;
         console.log("offset is "+offset+" choice is "+choice);
         //if(offset == 0){
-        if(request.intent.slots.selection && offset == 0){
+        if(request.intent.slots && offset == 0){
             if (request.intent.slots.selection.value){
                 choice = request.intent.slots.selection.value;
             }else if(request.intent.slots.query.value){
