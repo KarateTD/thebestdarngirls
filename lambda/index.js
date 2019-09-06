@@ -268,6 +268,7 @@ const LibraryHandler = {
     },
     async handle(handlerInput){
         const request = handlerInput.requestEnvelope.request;
+        console.log("offset is "+offset+" choice is "+choice);
         if(offset == 0){
             if (request.intent.slots.selection.value){
                 choice = request.intent.slots.selection.value;
@@ -617,18 +618,17 @@ function getResults(searchFor){
                 if(rowcount != 0){
                     var newData = JSON.parse(resultString);
                     var starter;
-                    //if(rows.length == 1){
+
                     if(rowcount == 1){
                         starter = "You have one result.  Please pick the corresponding number.\n\n";
-                    //}else if(rows.length > 10){
                     }else if(rowcount > 10 && offset == 0){
                         starter = "You have "+rowcount+" results.  Here are your first 10 results. For the next 10, say skip.  Please pick the corresponding number.\n\n";
+                    }else if(rowcount > 10 && ((offset + 10) > rowcount)){
+                        starter = "You have "+rowcount+" results.  Here are your final 10 results.  For the previous 10, say previous.  Please pick the corresponding number.\n\n";
                     }else if(rowcount > 10 && offset > 0){
                         starter = "You have "+rowcount+" results.  Here are your next 10 results.  For the more results, say skip.  For the previous 10, say previous.  Please pick the corresponding numbers.\n\n";
-                    }else if(rowcount > 10 && (offset + 10) > rowcount){
-                        starter = "You have "+rowcount+" results.  Here are your final 10 results.  For the previous 10, say previous.  Please pick the corresponding number.\n\n";
                     }else{
-                        starter = "You have "+rows.length+" results.  Please pick the corresponding number.\n\n";
+                        starter = "You have "+rowcount+" results.  Please pick the corresponding number.\n\n";
                     }
                     var requestList;
 
