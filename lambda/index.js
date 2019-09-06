@@ -592,6 +592,7 @@ function getResults(searchFor){
         connection.query(rowcount_str, function(err,result){
            // connection.end();
            // rowcount = result.length;
+           console.log("result is "+result);
            rowcount = Number(result);
            console.log("count is "+rowcount)
         });
