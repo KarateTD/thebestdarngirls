@@ -11,7 +11,7 @@ var inTheTheaters = [
 {
     "option":"2",
     "mtitle":"Overcomer",
-    "review":"Orphaned, sticky-fingered Hannah is the only runner who showed up for the cross country team.  With a reluctant coach, Hannah will unearth the truth about her past, find a path to faith, and discover the fire of athlete inside of her with a redeemed coach in her ear.  All she needs is in Ephesians, chapter 1 and 2.<br/><br/>This is a Christian film but it also a coming-of-age, sports drama that serves lots of tea.  When you leave you will ask yourself one question, \"Who am I\"?<br/><br/>4.5 out of 5 stars.",
+    "review":"Orphaned, sticky-fingered Hannah is the only runner who showed up for the cross country team.  With a reluctant coach, Hannah will unearth the truth about her past, find a path to faith, and discover the fire of an athlete inside of her with a redeemed coach in her ear.  All she needs is in Ephesians, chapter 1 and 2.<br/><br/>This is a Christian film but it also a coming-of-age, sports drama that serves lots of tea.  When you leave you will ask yourself one question, \"Who am I\"?<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/overcomer.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/overcomer.jpg"
