@@ -11,7 +11,7 @@ var madeForTV = [
 {
     "option":"2",
     "mtitle":"The Secret Lives of Cheerleaders",
-    "review":"Ava and her mother move to a new town to give Ava a fresh start after a bumpy year.  Since the school doesn't have a dance team, her mother tells Ava to try out for the cheerleader team.  At first, Ava doesn't want to but goes for it when she can't make friends.  Ava makes the team but when she is in the path of the queen bee, Katrina, Ava is in for a world of hurt.<br/><br/>This is a movie to watch with your teen.  So much of this story could have been avoided if Ava had talked to her mother.  And Katrina's reign of hazing and bullying could have been stopped if adults did their job.  It doesn't matter if kids stand up to bullies when adults consistently let them down.<br/><br/>4 out of 5 stars.",
+    "review":"Ava and her mother move to a new town to give Ava a fresh start after a bumpy year.  Since the school doesn't have a dance team, her mother tells Ava to try out for the cheerleading team.  At first, Ava doesn't want to try out but does when she can't make friends.  Ava makes the team but when she is in the path of the queen bee, Katrina, Ava is in for a world of hurt.<br/><br/>This is a movie to watch with your teen.  So much of this story could have been avoided if Ava had talked to her mother.  And Katrina's reign of hazing and bullying could have been stopped if adults did their job.  It doesn't matter if kids stand up to bullies when adults consistently let them down.<br/><br/>4 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesecretlivesofcheerleaders.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesecretlivesofcheerleaders.jpg"
@@ -20,7 +20,7 @@ var madeForTV = [
 {
     "option":"3",
     "mtitle":"My One and Only",
-    "review":"Stephanie reluctantly got chosen for a reality T.V. show called The One.  Matchmakers find you the perfect person, you go on 2 weeks of dates, and then decide of that person is the one.  Self-described realist, Stephanie is matched with Oliver.  But she can't keep her eyes off of Alex.  Alex is the ranch owner's son and he left Stephanie with a not-so-good first impression.  So, who will be the one?<br/><br/>The moment Stephanie lays eyes on Alex, you know where the story is going.  This the character development in the subplot that will keep you watching.<br/><br/>3.5 out of 5 stars.",
+    "review":"Stephanie reluctantly got chosen for a reality T.V. show called The One.  Matchmakers find you the perfect person, you go on 2 weeks of dates, and then decide of that person is the one.  Self-described realist, Stephanie is matched with Oliver.  But she can't keep her eyes off of Alex.  Alex is the ranch owner's son and he left Stephanie with a not-so-good first impression.  So, who will be the one?<br/><br/>The moment Stephanie lays eyes on Alex, you know where the story is going.  It's the character development in the subplot that will keep you watching.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myoneandonly.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myoneandonly.jpg"
