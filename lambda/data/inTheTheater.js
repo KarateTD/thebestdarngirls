@@ -2,7 +2,7 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"After the Wedding",
-    "review":"Isabel must meet with her orphanage's benefactor in New York before she will distribute funds.  Isabel meets with Theresa but Theresa is overwhelmed with her daughter Grace getting married, selling her company, and creating the orphanage fund.  She asked Isabel to give her some time to look over the numbers and invites Isabel to Grace's wedding.  At the wedding, Isabel lays eyes on Theresa's husband Oscar and becomes emotional.  When Grace gives her speech, Isabel radiates fury.  After the wedding, one question will unveil an avalanche of secrets.<br/><br/>Your mind will be racing with potential secrets for the first 30 minutes.  But rest assured, the mystery isn't over.  There is a puppet master behind the reveal with a bigger plan in motion.  The natural lighting choice can be distracting for the first few scenes but you will be brought back into focus with strong and sincere performances.<br/><br/>3.5 out of 5 stars.",
+    "review":"Isabel must meet with her orphanage's benefactor in New York before she will distribute funds.  Isabel meets with Theresa but Theresa is overwhelmed with her daughter Grace getting married, selling her company, and creating the orphanage fund.  She asks Isabel to give her some time to look over the numbers and invites Isabel to Grace's wedding.  At the wedding, Isabel lays eyes on Theresa's husband, Oscar, and becomes emotional.  When Grace gives her speech, Isabel quietly radiates with fury.  After the wedding, one question will unveil an avalanche of secrets.<br/><br/>Your mind will be racing with potential secrets for the first 30 minutes.  But rest assured, the mystery isn't over.  There is a puppet master behind the reveal with a bigger plan in motion.  The natural lighting choice can be distracting for the first few scenes but you will be brought back into focus with strong and sincere performances.<br/><br/>3.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/afterthewedding.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/afterthewedding.jpg"
@@ -11,7 +11,7 @@ var inTheTheaters = [
 {
     "option":"2",
     "mtitle":"Overcomer",
-    "review":"Orphaned, sticky-fingered Hannah is the only runner who showed up for the cross country team.  With a reluctant coach, Hannah will unearth the truth about her past, a path to faith, and the fire of athlete inside of her.  All she needs in Ephesians, chapter 1 and 2.<br/><br/>This is a Christian film but it also a coming-of-age, sports drama that serves lots of tea.  When you leave you will ask yourself one question, \"Who am I\"?<br/><br/><br/><br/>4.5 out of 5 stars.",
+    "review":"Orphaned, sticky-fingered Hannah is the only runner who showed up for the cross country team.  With a reluctant coach, Hannah will unearth the truth about her past, find a path to faith, and discover the fire of athlete inside of her with a redeemed coach in her ear.  All she needs is in Ephesians, chapter 1 and 2.<br/><br/>This is a Christian film but it also a coming-of-age, sports drama that serves lots of tea.  When you leave you will ask yourself one question, \"Who am I\"?<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/overcomer.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/overcomer.jpg"
