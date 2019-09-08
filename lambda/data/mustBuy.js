@@ -155,4 +155,14 @@ module.exports = mustBuy;
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefarewell.jpg"
     }
 }
+
+{
+    "option":"5",
+    "mtitle":"Good Boys",
+    "review":"Max is invited to a kissing party with the popular kids, including his crush.  Max requests for the invitation to be extended to his friends Thor and Lucas.   The cool kids decide to let them all come.  Now, Max has one big problem: he has to learn how to kiss.  After several failed attempts to learn kissing, they use Max's dad's drone to watch Thor's neighbor kiss her boyfriend.  She spots the drone and takes it out.  Max has to get the drone back or he will be grounded and can't attend the party.<br/><br/>As a warning, if you can't handle seeing kids curse, drink, and play with adult toys, this isn't the movie for you.  This coming-of-age story is just as raunchy as Superbad.  And with everything being so over-the-top, the resolution was the most honest and heartfelt of anything in this movie.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/goodboys.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/goodboys.jpg"
+    }
+}
 */
