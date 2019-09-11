@@ -207,8 +207,6 @@ const MovieChoicesHandler = {
 	  	}else if(menu.toLowerCase() === 'video on demand'){
   			element = getCardInfo(videoOnDemand, choice);
   		}else if(menu.toLowerCase() === 'library'){
-  		  //  console.log(libraryList);
-  		  //  console.log(videoOnDemand);
   		    element = getCardInfo(libraryList, choice);
   		}
 
@@ -268,8 +266,6 @@ const LibraryHandler = {
     },
     async handle(handlerInput){
         const request = handlerInput.requestEnvelope.request;
-      //  console.log("offset is "+offset+" choice is "+choice);
-        //if(offset == 0){
         if(request.intent.slots && offset == 0){
             if (request.intent.slots.selection.value){
                 choice = request.intent.slots.selection.value;
@@ -277,7 +273,7 @@ const LibraryHandler = {
                 choice = request.intent.slots.query.value;
             }
         }
-      //  console.log("choice is: "+ choice+" and offset is "+offset);
+
         const rows = await getResults(choice.toLowerCase().replace(/ /g,'%'));
 
         if(supportsAPL(handlerInput) && rows[0] != null){
@@ -592,13 +588,9 @@ function getResults(searchFor){
         var query_str = 'select * from reviews where title like \'%'+searchFor+'%\' order by title  limit 10 offset '+offset;
         var rowcount_str = 'select count(id) as count from reviews where title like \'%'+searchFor+'%\''
         connection.query(rowcount_str, function(err,result,fields){
-           // connection.end();
-           // rowcount = result.length;
-           //console.log("result is "+result[0].count);
            rowcount = Number(result[0].count);
-          // console.log("count is "+rowcount)
         });
-       // console.log(query_str);
+
         connection.query(query_str, function (err, rows, fields){
             connection.end();
             var resultString = "[";
@@ -615,7 +607,6 @@ function getResults(searchFor){
                 resultString = resultString.slice(0, -1);
                 resultString += "]";
 
-                //if(rows.length != 0){
                 if(rowcount != 0){
                     var newData = JSON.parse(resultString);
                     var starter;
