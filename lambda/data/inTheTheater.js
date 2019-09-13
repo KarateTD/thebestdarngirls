@@ -2,10 +2,10 @@ var inTheTheaters = [
 {
     "option":"1",
     "mtitle":"Hustlers",
-    "review":"In 2007, Destiny is tired of making next to nothing stripping all night.  She asks Ramona, a headliner, to coach her. Ramona teaches Destiny how to pole dance, private dance, and read the clients.  Everything is going great until the market crashed and Destiny gets pregnant. Two and a half years later, Destiny's unique skills don't translate to a 9 to 5, so she heads back to the club.  But times have changed.  Destiny doesn't know what to do until Ramona walks into the club.  Ramona doesn't pole dance anymore.  She fishes for the club.  She and Mercedes find a guy at the bar, get him drunk, take him to the club, charge his card, and get him to sign the check.  The women get a percentage of whatever the club makes.  Destiny is in.  But when Ramona decides to cut the club out of the deal, things go off the rails.<br/><br/>So, is Ramona a sociopath, psychopath, or neither?  Based on a true story, this movie is an episode of American Greed told in detail.  Like all cons, it goes great until the players get too greedy and too sloppy.<br/><br/>3.5 out ouf 5 stars.",
+    "review":"In 2007, Destiny is tired of making next to nothing stripping all night.  She asks Ramona, a headliner, to coach her. Ramona teaches Destiny how to pole dance, private dance, and read the clients.  Everything is going great until the market crashed and Destiny gets pregnant. Two and a half years later, Destiny's unique skills don't translate to a 9 to 5, so she heads back to the club.  But times have changed.  Destiny doesn't know what to do until Ramona walks into the club.  Ramona doesn't pole dance anymore.  She fishes for the club.  She and Mercedes find a guy at the bar, get him drunk, take him to the club, charge his card, and get him to sign the check.  The women get a percentage of whatever the club makes.  Destiny is in.  But when Ramona decides to cut the club out of the deal, things go off the rails.<br/><br/>So, is Ramona a sociopath, psychopath, or neither?  Based on a true story, this movie is an episode of American Greed told in detail.  Like all cons, it goes great until the players get too greedy and too sloppy.<br/><br/>3.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"",
-        "largeImageUrl":""
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hustlers.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hustlers.jpg"
     }
 },
 {
