@@ -145,4 +145,14 @@ module.exports = mustBuy;
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/goodboys.jpg"
     }
 }
+
+{
+    "option":"1",
+    "mtitle":"Brittany Runs a Marathon",
+    "review":"Brittany tries to scam Adderall from a doctor but he prescribes her a life of healthy living.  He wants her to lose 45 to 55 pounds, get more sleep, and eat better.  Her first attempt leaves her crying on the floor.  Her neighbor, Catherine, asks Brittany to join her running club.  At first reluctant, Brittany attends and meets Seth, a married dad of 2.  After the 3 run together for a while, Catherine admits that in the past she was selected for the New York Marathon.  But she got pregnant and had to drop out.  This inspires Brittany to sign up.  When her dream is deferred due to injury, will the old Brittany come back?<br/><br/>Inspired by a true story, this movie makes you laugh one minute and tear up the next.  This story of triumph includes a love story.  Also, this movie challenges the social norm of acceptance.  See this movie and be inspired to join a 5K of your own.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/brittanyrunsamarathon.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/brittanyrunsamarathon.jpg"
+    }
+}
 */
