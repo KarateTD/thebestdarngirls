@@ -38,6 +38,7 @@ var getList = require('./helpers/getList');
 
 var menu;
 var choice;
+var repeat=false
 var offset=0;
 var isEnd=false;
 
@@ -112,10 +113,16 @@ const MainMenuHandler = {
   			starter += getOptions(videoOnDemand);
   			requestList = getList(videoOnDemand)
   		}else if(menu.toLowerCase() === 'library'){
-  		    starter = "Welcome to The Best Darn Girls Movie Review Library.  Please say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie";
-  		    isLibrary = true;
-  		    isEnd=false;
-  		    offset=0;
+  		    if(repeat == true){
+  		        starter += getOptions(libraryList);
+  		        requestList = getList(libraryList);
+  		        repeat=false;
+  		    }else{
+  		        starter = "Welcome to The Best Darn Girls Movie Review Library.  Please say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie";
+  		        isLibrary = true;
+  		        isEnd=false;
+  		        offset=0;
+  		    }
   		}else{
       		starter = `${sorry}`;
  		}
@@ -357,6 +364,7 @@ const CommandsHandler = {
 		if (com.toLowerCase() === 'goodbye'){
 			return ExitHandler.handle(handlerInput);
 		}else if(com.toLowerCase() === 'repeat'){
+		    repeat=true;
 			return MovieChoicesHandler.handle(handlerInput);
 		}else if(com.toLowerCase() === 'movie options'){
 			return MainMenuHandler.handle(handlerInput);
