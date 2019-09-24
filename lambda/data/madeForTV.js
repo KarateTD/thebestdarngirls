@@ -31,8 +31,8 @@ var madeForTV = [
         "mtitle":"Forever in My Heart",
         "review":"Jenna has decided to leave O'Hanlons in Ireland for a job opportunity in the U.S..  She tells her boyfriend Charlie and they promise to keep their relationship going strong.  Five years later, Jenna is engaged to Dave and became a high-level manager.  She misses interacting with her customers but she loves the pay.  Since she as experience in Ireland, her company wants her to pitch an idea to acquire a new hotel and add it to their flagship.  Jenna uses this trip as a way to visit her old stomping grounds.  The second she lays eyes on Charlie, sparks fly.  What could go wrong?  Maybe Dave flying in for a surprise visit.<br/><br/>While the overall plot and ending are predictable, it is wonderfully acted with amazing wide shots you only see on a screensaver.  Also, using real Irish actors with their accents adds authenticity to the story.<br/><br/>4 out of 5 stars.",
         "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/foreverinmyheart.png",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/foreverinmyheart.png"
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/foreverinmyheart.jpeg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/foreverinmyheart.jpeg"
         }
     },
 {
