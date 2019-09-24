@@ -1,6 +1,33 @@
 var inTheTheaters = [
+    {
+        "option":"1",
+        "mtitle":"Rambo: Last Blood",
+        "review":"John Rambo is dealing with his PTSD by building tunnels under his farm while taking medication.  He cares for his niece Gabby with the help of his farm manager Maria.  Gabby discovered the whereabouts of her father, Manuel and wants to see him.  Maria and John are against.  Under the guise os spending time with friends, Gabby goes to Mexico to see her father.  She doesn't return.  John must go back to the darkest parts of his mind and become Rambo to get Gabby back.<br/><br/>With the drive of Bryan Mills, the ingenuity of Kevin McCallister, and the striking blow of Scarlet Witch, Rambo delivers on the bloody, revenge story we all want to see from this franchise.  New fans don't have to see the first 4 to watch.  Original fans will see the links between First Blood and Last Blood.  If you have a strong stomach, see it today.<br/><br/>4 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rambolastblood.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rambolastblood.jpg"
+        }
+    },
+    {
+        "option":"2",
+        "mtitle":"Ad Astra",
+        "review":"Soon, humans can go to the moon the way we travel to Orlando or LA.  We can do this because the sacrifice Clifford McBride made.  He was the first man on Mars and the first man to attempt to travel to Neptune.  Tragically, his project, the Lima Project, did not survive the main voyage.  Major Roy McBride, Clifford's son, continuous his father's work today.  While working on an antenna outside the Earth's atmosphere, an energy blast hit.  The surge of power knocked out power grids and caused thousands of death.  Roy is called into work to be debriefed.  Roy learns the horrific truth.  Clifford is still alive.  During this mission to Neptune, he killed his team and turned off communications.  The government believes Clifford created the energy blast.  They want Roy to fly to Mars and send a message to Clifford to stop the attacks.  No one knows Roy is depressed.  Staring into the void with Clifford sounds better than being on Earth.<br/><br/>The graphics, weightless rigging, and other special effects are superb.  But that is almost taken away with Roy's incessant monologuing.  The Twilight angst makes the movie extremely dull.<br/><br/>2.5 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adastra.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adastra.jpg"
+        }
+    },
+    {
+        "option":"3",
+        "mtitle":"Official Secrets",
+        "review":"Katharine is an interpreter for the British Government.  It's her job to listen to British enemies' phone conversation and report any terrorist plot.  While working, she gets a Top Secret email.  The US wants to gain damning information about U.N. allies against the war.  They will use the information to blackmail the allies to vote yes.  Katharine won't stand for this government intrusion of our allies.  So, she prints the email and gives it to the friend.  That decision will put her motives, marriage, and freedom in jeopardy.<br/><br/>While watching this movie, you have to determine if Katharine is a whistleblower, traitor, or both.  While her voice did not stop the war, it did make people second guess it and their government.  Although a lot of information is covered, something still feels missing.  You will need to read the book to fill in the holes.<br/><br/>3 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/officialsecrets.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/officialsecrets.jpg"
+        }
+    },
 {
-    "option":"1",
+    "option":"4",
     "mtitle":"Brittany Runs a Marathon",
     "review":"Brittany tries to scam Adderall from a doctor but he prescribes her a life of healthy living.  He wants her to lose 45 to 55 pounds, get more sleep, and eat better.  Her first attempt leaves her crying on the floor.  Her neighbor, Catherine, asks Brittany to join her running club.  At first reluctant, Brittany attends and meets Seth, a married dad of 2.  After the 3 run together for a while, Catherine admits that in the past she was selected for the New York Marathon.  But she got pregnant and had to drop out.  This inspires Brittany to sign up.  When her dream is deferred due to injury, will the old Brittany come back?<br/><br/>Inspired by a true story, this movie makes you laugh one minute and tear up the next.  This story of triumph includes a love story.  Also, this movie challenges the social norm of acceptance.  See this movie and be inspired to join a 5K of your own.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -9,39 +36,12 @@ var inTheTheaters = [
     }
 },
 {
-    "option":"2",
+    "option":"5",
     "mtitle":"The Goldfinch",
     "review":"While looking at paintings with his mother, Theodore admires the Goldfinch.  His mom walks away to look at another painting and an explosive device detonates.  Theodore wakes up and Mr. Blackwell is clinging to life and his mother is dead.  He gives Theo a ring with his company logo on it and tells him to take the Goldfinch painting.  As Theo's life became ever increasingly unstable, he secretly clung to the painting like a life raft.  Now, in a hotel room, a life of depression, loss, abuse, abandonment, and drugs has led Theo to consider suicide.  He only regrets not returning the painting.<br/><br/>Masterfully shot and acted, The Goldfinch is a tragic story of loss and love.  While this mystery is entertaining, it has several moments of lulls.  However the moment Boris and Theo are on the screen, all lulls are forgotten.<br/><br/>3 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegoldfinch.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegoldfinch.jpg"
-    }
-},
-{
-    "option":"3",
-    "mtitle":"Hustlers",
-    "review":"In 2007, Destiny is tired of making next to nothing stripping all night.  She asks Ramona, a headliner, to coach her. Ramona teaches Destiny how to pole dance, private dance, and read the clients.  Everything is going great until the market crashed and Destiny gets pregnant. Two and a half years later, Destiny's unique skills don't translate to a 9 to 5, so she heads back to the club.  But times have changed.  Destiny doesn't know what to do until Ramona walks into the club.  Ramona doesn't pole dance anymore.  She fishes for the club.  She and Mercedes find a guy at the bar, get him drunk, take him to the club, charge his card, and get him to sign the check.  The women get a percentage of whatever the club makes.  Destiny is in.  But when Ramona decides to cut the club out of the deal, things go off the rails.<br/><br/>So, is Ramona a sociopath, psychopath, or neither?  Based on a true story, this movie is an episode of American Greed told in detail.  Like all cons, it goes great until the players get too greedy and too sloppy.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hustlers.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hustlers.jpg"
-    }
-},
-{
-    "option":"4",
-    "mtitle":"After the Wedding",
-    "review":"Isabel must meet with her orphanage's benefactor in New York before she will distribute funds.  Isabel meets with Theresa but Theresa is overwhelmed with her daughter Grace getting married, selling her company, and creating the orphanage fund.  She asks Isabel to give her some time to look over the numbers and invites Isabel to Grace's wedding.  At the wedding, Isabel lays eyes on Theresa's husband, Oscar, and becomes emotional.  When Grace gives her speech, Isabel quietly radiates with fury.  After the wedding, one question will unveil an avalanche of secrets.<br/><br/>Your mind will be racing with potential secrets for the first 30 minutes.  But rest assured, the mystery isn't over.  There is a puppet master behind the reveal with a bigger plan in motion.  The natural lighting choice can be distracting for the first few scenes but you will be brought back into focus with strong and sincere performances.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/afterthewedding.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/afterthewedding.jpg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Overcomer",
-    "review":"Orphaned, sticky-fingered Hannah is the only runner who showed up for the cross country team.  With a reluctant coach, Hannah will unearth the truth about her past, find a path to faith, and discover the fire of an athlete inside of her with a redeemed coach in her ear.  All she needs is in Ephesians, chapter 1 and 2.<br/><br/>This is a Christian film but it also a coming-of-age, sports drama that serves lots of tea.  When you leave you will ask yourself one question, \"Who am I\"?<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/overcomer.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/overcomer.jpg"
     }
 }
 ];
