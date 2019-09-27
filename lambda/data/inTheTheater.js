@@ -3,7 +3,7 @@ var inTheTheaters = [
         "option":"1",
         "mtitle":"Black and Blue",
         "review":"Afghan vet, Alicia West is a 3-week rookie at the New Orleans Police Department.  After hearing gunshots, Alicia walks into an abandoned plant to investigate.  She sees 2 men dead on the ground another begging for his life.  She witnesses NARC Malone shoot the man in cold blood.  Another NARC spots her and shoots her multiple times.  She escapes but they want her body cam.  To cover his tracks, Malone tells the chief Alicia went rogue and shot all 3 men.  When the neighborhood kingpin Darius arrives on the scene, he is heartbroken to see his nephew dead on the ground.  Malone tells him Alicia killed his nephew.  Now, Alicia has dirty armed cops and heavily armed gang members hunting her down.  She must get the camera back to the station to upload the footage.  She hopes to clear her name with the police, call off Darius's hit, and hold Malone accountable for his actions.  Good thing she has a Mouse on her side.<br/><br/>While this movie address profiling and police brutality, it touches on 2 issues that are easy to miss.  First, the lack of technology.  If the footage was wirelessly uploaded to the cloud, this movie would not exist.  Second, good cops holding bad cops accountable.  When Alicia decides to tell the truth, she knew it would be labeled a rat.  She doesn't care.  This movie is a wild ride that doesn't get too preachy by adding some quick wit.<br/><br/>4 out of 5 stars.",
-        "iamge":{
+        "image":{
             "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackandblue.jpg",
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
         }
