@@ -1,49 +1,49 @@
 var inTheTheaters = [
-{
+    {
     "option":"1",
-    "mtitle":"After the Wedding",
-    "review":"Isabel must meet with her orphanage's benefactor in New York before she will distribute funds.  Isabel meets with Theresa but Theresa is overwhelmed with her daughter Grace getting married, selling her company, and creating the orphanage fund.  She asks Isabel to give her some time to look over the numbers and invites Isabel to Grace's wedding.  At the wedding, Isabel lays eyes on Theresa's husband, Oscar, and becomes emotional.  When Grace gives her speech, Isabel quietly radiates with fury.  After the wedding, one question will unveil an avalanche of secrets.<br/><br/>Your mind will be racing with potential secrets for the first 30 minutes.  But rest assured, the mystery isn't over.  There is a puppet master behind the reveal with a bigger plan in motion.  The natural lighting choice can be distracting for the first few scenes but you will be brought back into focus with strong and sincere performances.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Abominable",
+    "review":"After working several odd jobs to earn money to take a tour of China, Yi finds a creature on the roof of her apartment building.   She gets the creature to trust her and names him Everest.  Later, her friends Peng and Jin discovers her secret and try to call the police.  Dr. Zara and Burnish hear the call over their police scanner.  Everest escaped Dr. Zara's lab and Burnish, Dr. Zara's funder, wants Everest back.  Burnish likes to collect rare and exotic creatures.  Yi decides she must do everything to get Everest back home.  And Peng and Jin are unwittingly along for the ride.<br/><br/>You must see this movie in 3D to truly enjoy the magic of Everest.  With all cartoons, Yi has a sad backstory that drives her compassion.  There are a plethora of jokes for parents and kids alike.  See the matinee in 3D.<br/><br/>3.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/afterthewedding.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/afterthewedding.jpg"
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abominable.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abominable.jpg"
+        }
+    },
+    {
+        "option":"2",
+        "mtitle":"Black and Blue",
+        "review":"Afghan vet, Alicia West is a 3-week rookie at the New Orleans Police Department.  After hearing gunshots, Alicia walks into an abandoned plant to investigate.  She sees 2 men dead on the ground an another begging for his life.  She witnesses NARC Malone shoot the man in cold blood.  Another NARC spots her and shoots her multiple times.  She escapes but they want her body cam.  To cover his tracks, Malone tells the chief Alicia went rogue and shot all 3 men.  When the neighborhood kingpin Darius arrives on the scene, he is heartbroken to see his nephew dead on the ground.  Malone tells him Alicia killed his nephew.  Now, Alicia has dirty, armed cops and heavily armed gang members hunting her down.  She must get the camera back to the station to upload the footage.  She hopes to clear her name with the police, call off Darius' hit, and hold Malone accountable for his actions.  Good thing she has a Mouse on her side.<br/><br/>While this movie addresses profiling and police brutality, it touches on 2 issues that are easy to miss.  First, the lack of technology.  If the footage was wirelessly uploaded to the cloud, this movie would not exist.  Second, good cops holding bad cops accountable.  When Alicia decides to tell the truth, she knew she would be labeled a rat.  She doesn't care.  This movie is a wild ride that doesn't get too preachy by adding some quick wit.<br/><br/>4 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackandblue.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
+        }
+    },
+    {
+        "option":"3",
+        "mtitle":"Rambo: Last Blood",
+        "review":"John Rambo is dealing with his PTSD by building tunnels under his farm while taking medication.  He cares for his niece Gabby with the help of his farm manager Maria.  Gabby discovered the whereabouts of her father Manuel and wants to see him.  Maria and John are against it.  Under the guise of spending time with friends, Gabby goes to Mexico to see her father.  She doesn't return.  John must go back to the darkest parts of his mind and become Rambo to get Gabby back.<br/><br/>With the drive of Bryan Mills, the ingenuity of Kevin McCallister, and the striking blow of Scarlet Witch, Rambo delivers the bloody, revenge story we all want to see from this franchise.  New fans don't have to see the first 4 to watch.  Original fans will see the links between First Blood and Last Blood.  If you have a strong stomach, see it today.<br/><br/>4 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rambolastblood.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rambolastblood.jpg"
+        }
+    },
+    {
+        "option":"4",
+        "mtitle":"Ad Astra",
+        "review":"Soon, humans can go to the moon the way we travel to Orlando or LA.  We can do this because the sacrifice Clifford McBride made.  He was the first man on Mars and the first man to attempt to travel to Neptune.  Tragically, his project, the Lima Project, did not survive the main voyage.  Major Roy McBride, Clifford's son, continues his father's work today.  While working on an antenna outside the Earth's atmosphere, an energy blast hits.  The surge of power knocked out power grids and caused thousands of deaths.  Roy is called into work to be debriefed.  Roy learns the horrific truth.  Clifford is still alive.  During his mission to Neptune, he killed his team and turned off all communications.  The government believes Clifford created the energy blast.  They want Roy to fly to Mars and send a message to Clifford to stop the attacks.  No one knows Roy is depressed.  Staring into the void with Clifford sounds better than being on Earth.<br/><br/>The graphics, weightless rigging, and other special effects are superb.  But that is almost taken away with Roy's incessant monologuing.  The Twilight-like dread makes the movie extremely dull.<br/><br/>2.5 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adastra.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adastra.jpg"
+        }
+    },
+    {
+        "option":"5",
+        "mtitle":"Official Secrets",
+        "review":"Katharine is an interpreter for the British Government.  It's her job to listen to British enemies' phone conversations and report any terrorist plot.  While working, she gets a Top Secret email.  The US wants to gain damning information about U.N. allies against the war.  They will use the information to blackmail the allies to vote for the war.  Katharine won't stand for this government intrusion of our allies.  So, she prints the email and gives it to a friend.  That decision will put her motives, marriage, and freedom in jeopardy.<br/><br/>While watching this movie, you have to determine if Katharine is a whistleblower, traitor, or both.  While her voice did not stop the war, it did make people second guess the war and their government.  Although a lot of information is covered, something still feels missing.  You will need to read the book to fill in the holes.<br/><br/>3 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/officialsecrets.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/officialsecrets.jpg"
+        }
     }
-},
-{
-    "option":"2",
-    "mtitle":"Overcomer",
-    "review":"Orphaned, sticky-fingered Hannah is the only runner who showed up for the cross country team.  With a reluctant coach, Hannah will unearth the truth about her past, find a path to faith, and discover the fire of an athlete inside of her with a redeemed coach in her ear.  All she needs is in Ephesians, chapter 1 and 2.<br/><br/>This is a Christian film but it also a coming-of-age, sports drama that serves lots of tea.  When you leave you will ask yourself one question, \"Who am I\"?<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/overcomer.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/overcomer.jpg"
-    }
-},
-{
-    "option":"3",
-    "mtitle":"Don't Let Go",
-    "review":"Jack often picks up the slack for his brother Garrett, especially for Garrett's daughter Ashley.  When Garrett forgets to pick Ashley up again, Jack is there to help.  The two bond at a diner.  Later, Jack gives Garrett an earful.  The next time Ashley calls, Jack is too busy with a case to give Ashley his full attention.  During her final call, Jack hears screaming and the call is disconnected.  When Jack gets to Garrett's home, Garrett, his wife, their dog, and Ashley are all dead.  At the funeral, he prays to fix it.  Weeks later he gets a call and Ashley's picture appears on the screen.  Jack thinks he is going crazy until he can't find Ashley's phone. He finds it at the crime scene.  While he is holding Ashley's phone, Ashley calls Jack again.  Jack realizes Ashley is calling from 2 weeks in the past.  He may have not been able to save Ashley in his time, but he can save Ashley in her own.<br/><br/>This time-bending movie is a cross between the Butterfly Effect and Cradle 2 the Grave.  It wraps a thriller with a mystery.  Be warned, some scenes will make you dizzy.  While the loving bond and time disruption is fun to watch, the overall mystery is predictable.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dontletgo.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dontletgo.jpg"
-    }
-},
-{
-    "option":"4",
-    "mtitle":"Angel Has Fallen",
-    "review":"Mike is facing a tough choice.  His heart is in the secret service action.  But his body can't take the pounding.  President Trumbull and Mike's wife Leah encourages him to take the jobs as Director of the Secret Service.  Before Mike can answer, the president is hit with a drone strike.  When Mike wakes up, his entire team is dead, the president is in a coma, and he is the number one suspect.  Mike has to find out who attacked the president or end up in jail.  Good thing he has dear old dad to help.<br/><br/>While this movie is better than the second, it still does not live up to the first.  However, it is more grounded in reality with discussion on pill dependencies, post-traumatic stress syndrome, and father-son relationships.  If you are a fan of the Fallen series, see the matinee.<br/><br/>3 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/angelhasfallen.png",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/angelhasfallen.png"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Luce",
-    "review":"Adopted from war-torn Eritrea 10 years ago, Luce is an exemplary student, star athlete, and famed speaker within his school.  His mother Amy is confused when she gets a call from Ms. Wilson to discuss Luce.  Ms. Wilson gave the class an assignment to write a paper in the voice of a famous person.  Luce chose a war criminal who uses violence to settle political disputes.  Frightened by the paper, Ms. Wilson searches Luce's locker and finds illegal fireworks.  Now everyone is questioning Luce's past versus his present.  But, are the questions justified?<br/><br/>This is the type of movie that leaves with you and keeps you up at night.  Luce is a complex character with many sides.  While some would see his actions as warranted, others would see it as psychopathic.  While you never know the whole truth, you are left wondering: who is the real Luce.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/luce.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/luce.jpg"
-    }
-}
 ];
 
 module.exports = inTheTheaters;
