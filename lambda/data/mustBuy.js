@@ -1,6 +1,15 @@
 var mustBuy = [
     {
         "option":"1",
+        "mtitle":"Spider-Man: Far From Home",
+        "review":"After everyone was snapped back, people want the next Iron Man.  Spider-Man doesn't feel like he can step into Tony's shoes.  But Nick Fury needs him now.  The Elementals have invaded Earth.  The Wind and Earth elements were stopped by Mysterio.  With the assistance of Spider-Man, Mysterio was able to stop the water element in Venice.  Now, Nick wants Peter to go to Prague with Mysterio to stop the most powerful element, Fire.  Peter wants to enjoy his vacation with his friends, so he turns down Nick's offer.  Before Peter and his friends board the bus, the teacher informs them the trip got an upgrade and they are going to Prague.  Peter knows fury has hijacked their vacation.  With Tony Stark's Glasses and EDITH by his side, Peter will take on Fire.  But can Peter trust what he sees?<br/><br/>While Homecoming introduced us to a younger Spider-Man, Far From Home is his coming of age story without Iron Man by his side.  He has to figure out who he wants to be as a man and a superhero.  While the CGI has gotten better, you can still pinpoint moments where you are witnessing 100% CGI versus live-capture scenes.  There are 2 post-credit scenes and a cameo that original Spider-Man fans will love.  See this movie in IMAX.<br/><br/>4.5 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/spidermanfarfromhome.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spidermanfarfromhome.jpg"
+        }
+    },
+    {
+        "option":"2",
         "mtitle":"Shaft",
         "review":"20 years ago, Maya took John Jr. away to keep him safe from Shaft's dangerous occupation.  Now, John Jr. is an FBI data analyst who is often disrespected.  After Kiram, his best friend, dies of an overdose, John Jr. can't believe it.  Sasha sees the autopsy and confirms Karim was murdered.  After failing to investigate on his own, John decides to go to the only man who can help.  His father, a bad mother - shut your mouth - I'm only talking about Shaft.<br/><br/>This is easily the funniest movie of the year.  Shaft brings the gender gap of masculinity to the surface without getting mushy.  Both men learn something and stand up for their way of life.  See this movie today.<br/><br/>4 out of 5 stars.",
         "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
         }
     },
 {
-    "option":"2",
+    "option":"3",
     "mtitle":"John Wick: Chapter 3 - Parabellum",
     "review":"Winston gives John 1 hour to get his affairs in order.  Then he will be excommunicated and a bounty of $14 million will be placed on his head.  Every assassin in the world will be after him and no one will offer help.  John uses the hour to find a safe place for his dog, get a ticket, get a marker, and get some gold coins.  Since some assassins couldn't wait for an hour, John needed to seek medical treatment.  In the middle of getting stitches, John's time runs out and the doctor stops the work.  John has to complete is stitches and heads to the Director.  He asks the Director to give him passage to Casablanca.  He knows an assassin there who can lead him to the High Table.  He hopes to plead his case so the High Table will let him live.<br/><br/>This movie proves better weapons, excellently choreographed fights, and mind-blowing cinematography is all action lovers need.  With so much going on, this movie provides 30 to 45 minutes of dialogue.  It gives you more of John's training history with the Director but not enough information about the blood oath between him and Sophia.  Seeing John Wick 2 is necessary for this movie.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
 },
 {
-    "option":"3",
+    "option":"4",
     "mtitle":"Disney's Aladdin",
     "review":"Aladdin finds a magic lamp in the Cave of Wonders.  As he runs for his life, he gives the lamp to Jafar.  Jafar takes the lamp and pushes Aladdin off a cliff.  Aladdin is saved and his monkey, Abu, unknowingly steals the lamp from Jafar before the fall.  Trapped inside the Cave of Wonders, Aladdin rubs the lamp and releases a Genie.  The Genie offers him 3 wishes.  He wants the Genie to help him be a prince to get the woman of his dreams, Princess Jasmine.  Only Jafar and his ambition to become Sultan stands in Aladdin's way.<br/><br/>This live-action adaption of the animated movie pays the highest respect to the original material. It doesn't change the story but adds to it.  It gives Princess Jasmine a song and a big dance.  The Genie keeps his comedic appearance while Iago and Abu are the best right-hand men.  The CGI was great for everyone but Genie.  At times, the head moved independently from it's CGI body and it was very distracting.  Because of this, 3D is a bad idea for this movie.  However, it is great for the whole family and you will feel an urge to see the play.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -27,21 +36,12 @@ var mustBuy = [
     }
 },
 {
-    "option":"4",
+    "option":"5",
     "mtitle":"Booksmart",
     "review":"Molly and Amy are inspired to spend their last night as high school students having the 4 years of fun they missed by attending Nick's party.  They just need one thing: the address.<br/><br/>This is not a \"coming-of-age\" movie.  These women are strong, smart, and liked.  They just forgot to have fun.  Their friendship and world views will be tested.  And you will laugh at every milestone.<br/><br/>5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/booksmart.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/booksmart.jpg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"The Secret Life of Pets 2",
-    "review":"Max wants a life with just him, Duke and Katie.  No kids allowed.  Until Katie gets married to Chuck and gives birth to Liam.  Now, he will do anything to protect Liam.  Max is so stressed with Liam's safety, he is scratching uncontrollably.  Coned by a behavioral specialist, Max his happy to go on a trip in a car.  But this city dog will have to adapt to farm life while caring for Liam.<br/><br/>This is only one of the three plots to this amazing movie.  It is an instant classic with jokes you and your children will be laughing at simultaneously.  While there is nothing after the end credits, you will see pictures of kids and pets and enjoy a Snowball rap.  This movie is award worthy.<br/><br/>5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/thesecretlifeofpets2.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/thesecretlifeofpets2.jpg"
     }
 }
 ];
@@ -63,16 +63,6 @@ module.exports = mustBuy;
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toystory4.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toystory4.jpg"
-    }
-}
-
-{
-    "option":"1",
-    "mtitle":"Spider-Man: Far From Home",
-    "review":"After everyone was snapped back, people want the next Iron Man.  Spider-Man doesn't feel like he can step into Tony's shoes.  But Nick Fury needs him now.  The Elementals have invaded Earth.  The Wind and Earth elements were stopped by Mysterio.  With the assistance of Spider-Man, Mysterio was able to stop the water element in Venice.  Now, Nick wants Peter to go to Prague with Mysterio to stop the most powerful element, Fire.  Peter wants to enjoy his vacation with his friends, so he turns down Nick's offer.  Before Peter and his friends board the bus, the teacher informs them the trip got an upgrade and they are going to Prague.  Peter knows fury has hijacked their vacation.  With Tony Stark's Glasses and EDITH by his side, Peter will take on Fire.  But can Peter trust what he sees?<br/><br/>While Homecoming introduced us to a younger Spider-Man, Far From Home is his coming of age story without Iron Man by his side.  He has to figure out who he wants to be as a man and a superhero.  While the CGI has gotten better, you can still pinpoint moments where you are witnessing 100% CGI versus live-capture scenes.  There are 2 post credit scenes and a cameo that original Spider-Man fans will love.  See this movie in IMAX.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/spidermanfarfromhome.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spidermanfarfromhome.jpg"
     }
 }
 
@@ -155,4 +145,14 @@ module.exports = mustBuy;
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/overcomer.jpg"
     }
 }
+
+    {
+        "option":"1",
+        "mtitle":"Black and Blue",
+        "review":"Afghan vet, Alicia West is a 3-week rookie at the New Orleans Police Department.  After hearing gunshots, Alicia walks into an abandoned plant to investigate.  She sees 2 men dead on the ground an another begging for his life.  She witnesses NARC Malone shoot the man in cold blood.  Another NARC spots her and shoots her multiple times.  She escapes but they want her body cam.  To cover his tracks, Malone tells the chief Alicia went rogue and shot all 3 men.  When the neighborhood kingpin Darius arrives on the scene, he is heartbroken to see his nephew dead on the ground.  Malone tells him Alicia killed his nephew.  Now, Alicia has dirty, armed cops and heavily armed gang members hunting her down.  She must get the camera back to the station to upload the footage.  She hopes to clear her name with the police, call off Darius' hit, and hold Malone accountable for his actions.  Good thing she has a Mouse on her side.<br/><br/>While this movie addresses profiling and police brutality, it touches on 2 issues that are easy to miss.  First, the lack of technology.  If the footage was wirelessly uploaded to the cloud, this movie would not exist.  Second, good cops holding bad cops accountable.  When Alicia decides to tell the truth, she knew she would be labeled a rat.  She doesn't care.  This movie is a wild ride that doesn't get too preachy by adding some quick wit.<br/><br/>4 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackandblue.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
+        }
+    },
 */
