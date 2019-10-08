@@ -1,6 +1,15 @@
 var mustBuy = [
     {
         "option":"1",
+        "mtitle":"Toy Story 4",
+        "review":"Nine years after saying goodbye to Bo Peep, Woody is collecting dust bunnies in Bonnie's closet.  Unlike his time with Andy, Woody is not her favorite toy and not the leader of the toys.  Woody, knowing his job is to protect Bonnie, hitches a ride in her backpack to help her with kindergarten orientation.  With Woody's helping hand, Bonnie makes Forky.  While Forky is her favorite toy, he dreams of going into the trash.  Woody spends every moment trying to save Forky from himself for Bonnie.  But when Woody and Forky are separated from Bonnie on a family trip, Woody has to bring Forky back to her.  He will need Bo Peep, Buzz, Duke Caboom, and Officer Giggle McDimples to come to his rescue.<br/><br/>Toy Story 4 is everything you thought it would be and more.  With hilarious running gags, stupendous CGI, and astounding voice acting, you are in a trance of wonderment.  Adults and children will love this story alike.  While Jessie, Rex, and Ham are background characters, the story of Woody shines through.  He is so focused on helping Forky with his existential crisis, Woody doesn't see he is having his own.  Not until Bo Peep calls him a lost toy.  While 3D isn't necessary, stay past the end credits for an oddly satisfying moment.<br/><br/>4.5 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toystory4.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toystory4.jpg"
+        }
+    },
+    {
+        "option":"2",
         "mtitle":"Spider-Man: Far From Home",
         "review":"After everyone was snapped back, people want the next Iron Man.  Spider-Man doesn't feel like he can step into Tony's shoes.  But Nick Fury needs him now.  The Elementals have invaded Earth.  The Wind and Earth elements were stopped by Mysterio.  With the assistance of Spider-Man, Mysterio was able to stop the water element in Venice.  Now, Nick wants Peter to go to Prague with Mysterio to stop the most powerful element, Fire.  Peter wants to enjoy his vacation with his friends, so he turns down Nick's offer.  Before Peter and his friends board the bus, the teacher informs them the trip got an upgrade and they are going to Prague.  Peter knows Fury has hijacked their vacation.  With Tony Stark's Glasses and EDITH by his side, Peter will take on Fire.  But can Peter trust what he sees?<br/><br/>While Homecoming introduced us to a younger Spider-Man, Far From Home is his coming of age story without Iron Man by his side.  He has to figure out who he wants to be as a man and a superhero.  While the CGI has gotten better, you can still pinpoint moments where you are witnessing 100% CGI versus green screen scenes.  There are 2 post-credit scenes and a cameo that original Spider-Man fans will love.  See this movie in IMAX.<br/><br/>4.5 out of 5 stars.",
         "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
         }
     },
     {
-        "option":"2",
+        "option":"3",
         "mtitle":"Shaft",
         "review":"20 years ago, Maya took John Jr. away to keep him safe from Shaft's dangerous occupation.  Now, John Jr. is an FBI data analyst who is often disrespected.  After Kiram, his best friend, dies of an overdose, John Jr. can't believe it.  Sasha sees the autopsy and confirms Karim was murdered.  After failing to investigate on his own, John decides to go to the only man who can help.  His father, a bad mother - shut your mouth - I'm only talking about Shaft.<br/><br/>This is easily the funniest movie of the year.  Shaft brings the gender gap of masculinity to the surface without getting mushy.  Both men learn something and stand up for their way of life.  See this movie today.<br/><br/>4 out of 5 stars.",
         "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
         }
     },
 {
-    "option":"3",
+    "option":"4",
     "mtitle":"John Wick: Chapter 3 - Parabellum",
     "review":"Winston gives John 1 hour to get his affairs in order.  Then he will be excommunicated and a bounty of $14 million will be placed on his head.  Every assassin in the world will be after him and no one will offer help.  John uses the hour to find a safe place for his dog, get a ticket, get a marker, and get some gold coins.  Since some assassins couldn't wait for an hour, John needed to seek medical treatment.  In the middle of getting stitches, John's time runs out and the doctor stops the work.  John has to complete is stitches and heads to the Director.  He asks the Director to give him passage to Casablanca.  He knows an assassin there who can lead him to the High Table.  He hopes to plead his case so the High Table will let him live.<br/><br/>This movie proves better weapons, excellently choreographed fights, and mind-blowing cinematography is all action lovers need.  With so much going on, this movie provides 30 to 45 minutes of dialogue.  It gives you more of John's training history with the Director but not enough information about the blood oath between him and Sophia.  Seeing John Wick 2 is necessary for this movie.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -27,21 +36,12 @@ var mustBuy = [
     }
 },
 {
-    "option":"4",
+    "option":"5",
     "mtitle":"Disney's Aladdin",
     "review":"Aladdin finds a magic lamp in the Cave of Wonders.  As he runs for his life, he gives the lamp to Jafar.  Jafar takes the lamp and pushes Aladdin off a cliff.  Aladdin is saved and his monkey, Abu, unknowingly steals the lamp from Jafar before the fall.  Trapped inside the Cave of Wonders, Aladdin rubs the lamp and releases a Genie.  The Genie offers him 3 wishes.  He wants the Genie to help him be a prince to get the woman of his dreams, Princess Jasmine.  Only Jafar and his ambition to become Sultan stands in Aladdin's way.<br/><br/>This live-action adaption of the animated movie pays the highest respect to the original material. It doesn't change the story but adds to it.  It gives Princess Jasmine a song and a big dance.  The Genie keeps his comedic appearance while Iago and Abu are the best right-hand men.  The CGI was great for everyone but Genie.  At times, the head moved independently from it's CGI body and it was very distracting.  Because of this, 3D is a bad idea for this movie.  However, it is great for the whole family and you will feel an urge to see the play.<br/><br/>4 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/disneysaladdin.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/disneysaladdin.jpg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Booksmart",
-    "review":"Molly and Amy are inspired to spend their last night as high school students having the 4 years of fun they missed by attending Nick's party.  They just need one thing: the address.<br/><br/>This is not a \"coming-of-age\" movie.  These women are strong, smart, and liked.  They just forgot to have fun.  Their friendship and world views will be tested.  And you will laugh at every milestone.<br/><br/>5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/booksmart.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/booksmart.jpg"
     }
 }
 ];
@@ -55,16 +55,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
-
-{
-    "option":"1",
-    "mtitle":"Toy Story 4",
-    "review":"Nine years after saying goodbye to Bo Peep, Woody is collecting dust bunnies in Bonnie's closet.  Unlike with Andy, Woody is not her favorite toy and not the toy leaders.  Woody, knowing his job is to protect Bonnie, hitches a ride in her backpack to help her with kindergarten orientation.  With Woody's helping hand, Bonnie makes Forky.  While Forky is her favorite toy, he dreams of going into the trash.  Woody spends every moment trying to save Forky from himself for Bonnie.  But when Woody and Forky are separated from Bonnie on a family trip, Woody has to bring Forky back to her.  He will need Bo Peep, Buzz, Duke Caboom, and Officer Giggle McDimples to come to his rescue.<br/><br/>Toy Story 4 is everything you thought it would be and more.  With hilarious running gags, stupendous CGI, and astounding voice acting, you are in a trance of wonderment.  Adults and children will love this story alike.  While Jessie, Rex, and Ham are background characters, the story of Woody shines through.  He is so focused on helping Forky with his existential crisis, Woody doesn't see he is having his own.  Not until Bo Peep calls him a lost toy.  While 3D isn't necessary, stay past the end credits for an oddly satisfying moment.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toystory4.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toystory4.jpg"
-    }
-}
 
 {
     "option":"5",
