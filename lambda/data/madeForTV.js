@@ -1,47 +1,47 @@
 var madeForTV = [
     {
-        "option":"1",
-        "mtitle":"Abducted: The Mary Stauffer Story",
-        "review":"The Stauffer family is moving to the Philippines for missionary work.  Before they leave, Mary and Beth go to the salon for a mother-daughter day of beauty.  As they leave the parking lot a man comes up behind them and forces them into the car at gunpoint.  After driving down the road, he makes Mary and Beth get into the trunk.  Jason, a young boy, sees the man on the side of the road and tries to help the man with is car troubles.  The man grabs him and puts him in the trunk with Mary and Beth.  Later he takes Jason out the trunk, Mary and Beth never see Jason again.  The man brings Mary and Beth to a house and locks than in the closet.  That afternoon he takes Mary out and interviews her.  She doesn't remember him.  So, he reminds her.  They met 15 years ago when she taught 9th grade.  His name is Ming and he blames her for everything wrong in his life.  He has been obsessed with her since.  Mary must survive to save her life and her daughter's.<br/><br/>Mary and Beth's ordeal will leave chills up your spine.  Ming romanticized a relationship with her that includes rape and kidnap.  At multiple times they could have been saved but their cries for help were ignored.  Mary and Beth's survival is a testament to love, strength and faith.<br/><br/>5 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedthemarystaufferstory.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedthemarystaufferstory.jpg"
+        "option": "1",
+        "mtitle": "The College Admissions Scandal",
+        "review": "Bethany and Caroline want the best for their children.  Bethany wants her daughter Emma to go to Yale.  Caroline wants her son Danny to go to Stanford.  Emma and Danny have natural talents but they don't have the grades or SAT scores to get into the Ivy League.  They turn to Rick Singer.  He coaches the kids in practical methods at first.  When that doesn't work, the tells the women about the side door to the admissions process.  This side door includes bribery, special test proctors, and psychologist.  While these moms see the side door as a new preference, they have no idea of the lives and institutions they will damage.  Including their children.<br/><br/>Based on true events, this movie will make you sick to your stomach as each mom justifies her actions.  You will have sympathy for Danny because his parents left him in the dark about the side door while ignoring his true passion.  Emma will get less sympathy because she was complacent in the deceit.  Now if you are looking for the story of Felicity Huffman and Lori Loughlin, this isn't the movie for you.  Try American Greed.<br/><br/>3.5 out of 5 stars.",
+        "image": {
+            "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/collegeadmissionscandal.jpg",
+            "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/collegeadmissionscandal.jpg"
         }
     },
     {
-        "option":"2",
-        "mtitle":"Smuggling in Suburbia",
-        "review":"Joanie is invited to a party by Annabelle and Sharane.  She meets Annabelle's boyfriend Danny.  Danny calibrates expensive camera lenses and Annabelle and Sharane hand delivers them because they are too fragile.  He offers to hire Joanie to make a delivery.  She is happy to make her first $1000 but her mother is pissed and starts asking questions.  However, the questions stop when she gives her mom the money.  During the next delivery, Joanie starts getting suspicious and looks into the lenses.  She finds several uncut diamonds.  Joanie wants out.  But when her brother needs surgery, she goes back.  Soon, the feds are at her doorstep.<br/><br/> Joanie's story is the typical naive girl led astray.  You feel some relief when her mother says everything you are thinking but when she caves, you want to scream.  This movie does successfully show the link between diamond smuggling to blood diamonds and the 9/11 attacks.  While the lead up to Joanie's arrest is not typical, the ending is 100% Lifetime.<br/><br/>3.5 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/smugglinginsuburbia.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/smugglinginsuburbia.jpg"
+        "option": "2",
+        "mtitle": "Erasing His Dark Past",
+        "review": "Karen found the love of her life twice.  First, with her deceased husband and now with David.  The icing on the cake: David and her daughter Annie get along beautifully.  So, they are both rocked when David dies in a plane crash.  While grieving, Karen gets a call that her mortgage is 2 months behind.  She is confused because she paid off the mortgage with her first husband's life insurance policy.  But the bank manager has the document with her signature and David filed it.  She can't believe that David would betray her.  When she discovers her 401K, CDs, and Annie's 529 are all gone, she has to find the truth.  Good thing she will hear it all from David's mouth.<br/><br/>You must root for the killer to enjoy this movie.  The overall plotline makes you furious.  Karen is the perfect victim and molds her daughter to be the same.  But lookout, the writers left the plot open to a part 2.<br/><br/>3 out of 5 stars.",
+        "image": {
+            "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/erasinghisdarkpast.jpg",
+            "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/erasinghisdarkpast.jpg"
         }
     },
     {
-        "option":"3",
-        "mtitle":"A Working Mom's Nightmare",
-        "review":"After maternity leave, Kathy is back but on shaky ground.  Her boss, Phillip, decided to keep her replacement Hanna as the C.S.O and her husband, Mark, is lying about where he goes at night.  When her home and work life starts to fall apart, Kathy blames Hanna.  But no one believes her.  They think she is paranoid or is threaten because Hanna is so good.  Kathy will prove them wrong.<br/><br/>Based on a novel, this movie is a slow build to very little climax.  This movie follows all the Lifetime rules and becomes background noise.  You are better off reading the book.<br/><br/>2 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aworkingmomsnightmare.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aworkingmomsnightmare.jpg"
+        "option": "3",
+        "mtitle": "Sinister Seduction",
+        "review": "After her husband's murder, Sharon is getting her life back on track by going to work.  She wants her son Anthony to have the same peace of mind but he is getting picked on in school Anthony is bullied every day by Brent until Dylan steps in to help.  The two become fast friends and Dylan encourages Anthony to try out for football.  Anthony decides to have a pool party and his mother is elated he has made friends.  During the party, Dylan purposely gets lost and Sharon finds him.  The two kiss.  This kiss is the beginning of Dylan's plan for revenge.<br/><br/>This plotline is overdone and can be pulled apart the moment Dylan is on screen.  And Sharon's battle cry is a cheap grab for female viewer support.  It is 1.5 hours of build-up for a lackluster climax.  This movie can be skipped.<br/><br/>1.5 out of 5 stars.",
+        "image": {
+            "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinisterseduction.jpg",
+            "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinisterseduction.jpg"
         }
     },
     {
-        "option":"4",
-        "mtitle":"Ruby Herring Mysteries: Her Last Breath",
-        "review":"Ruby comes to Natalie's yoga studio to interview her about her successful vitamin supplements.  But Natalie is nowhere to be found.  Using the Find My Phone app, Natalie is found dead at the bottom of an embankment.  Ruby must work with Detective Jake to find out who killed her friend and why.<br/><br/> The second episode in the series opens up the life of Detective Jake.  We find out why he left New York for Seattle as well as his other talents.  This mystery does provide plenty of suspects with their motives but it doesn't deliver like its predecessor.<br/><br/>4 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rubyherringmysteriesherlastbreath.jpeg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rubyherringmysteriesherlastbreath.jpeg"
+        "option": "4",
+        "mtitle": "MatchMaker Mysteries: A Killer Engagement",
+        "review": "Angie \"Dove\" Columba is a matchmaker on a popular TV show.  Six months after matching Aaron and Emma, Aaron wants to propose on air.  Angie is elated and gets an invite to the engagement party.  At the party, Angie notices Emma is acting stressed.  Also, Aaron is a no-show.  Then Angie looks up to see Emma, falling down the stairs.  Emma is dead.  Angie will use her keen scene to help Detective Carter solve the case.<br/><br/>This new series gives H.M.M's loyal viewers a more complex character with Angie Dove.  She is an adopted child to recently separated parents.  Her father is a retired detective and her mother is a free spirit.  It will be interesting to see how these dynamics play out in the future.  Now, the mystery is classic Hallmark in the best way possible.  You have plenty of suspects with sketchy behavior and strong motives.  You will be second-guessing our guesses to the end.<br/><br/>4.5 out of 5 stars.",
+        "image": {
+            "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/matchmakermysteriesakillerengagement.jpg",
+            "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/matchmakermysteriesakillerengagement.jpg"
         }
     },
     {
-        "option":"5",
-        "mtitle":"Trapped: The Alex Cooper Story",
-        "review":"Alex has turned her life around.  She stopped partying and attends school and church regularly.  One day she meets Frankie.  They hit it off and Alex starts spending more time with her.  But when she comes home late with a hickey, her parents want answers.  Alex admits she is attracted to girls and her parents kick her out.  Later, in hopes of reconciliation, Alex agrees to stay with her grandparents in Utah.  But her parents pull up to a home she doesn't know and ask her to get out of the car.  Once inside, her parents give the homeowners, Johnny and Tiana, parental custody.  Alex's parents hope they can make her straight.  And they will use physical and emotional abuse to do it.<br/><br/>Regardless of how you feel about homosexuality, it's gut-wrenching to watch Alex's abuse.  You will be horrified when the abuse leads to a suicide attempt.  It's hard to believe people can do this to each other and her parents allowed it.  So watch and discuss.<br/><br/>4 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedthealexcooperstory.jpeg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trappedthealexcooperstory.jpeg"
+        "option": "5",
+        "mtitle": "My Wife's Secret Life",
+        "review": "Counseling has not helped Laurel and James get their marriage back on track after James's affair.  James is trying to be more spontaneous but she feels left out of planning.  Laurel attends a business conference and meets Kent.  She talks to the handsome stranger for hours and they share a forbidden kiss.  She runs off to clear her mind until she gets two phone calls.  First is James and it ends in an argument.  Next is Kent.  They realize they are in the same hotel and spend a passionate night together.  Laurel goes home and tries to forget about the affair but Kent won't let her.  He recorded it and threatens to tell her husband if she doesn't leave him.  She will have to fight for her life to keep her marriage.<br/><br/>Kent is a bad man but Laurel and James make textbook Lifetime mistakes.  You feel as if they deserve it. They are so busy fighting against each other, they don't notice Kent weaseling is way into their family, life, and jobs.  Watch and root for Kent.<br/><br/>3 out of 5 stars.",
+        "image": {
+            "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mywifessecretlife.jpg",
+            "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mywifessecretlife.jpg"
         }
     }
 ];

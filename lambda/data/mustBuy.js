@@ -1,6 +1,15 @@
 var mustBuy = [
     {
         "option":"1",
+        "mtitle":"Stuber",
+        "review":"Stu drives an Uber to help invest in his friend's spin cycle business.  Hopelessly stuck in the friend zone, Stu wishes for more.  Vic is on a path to revenge after Tedjo murders his partner.  After having the case for 6 months, Captain McHenry tells Vic the Feds are ready to take over.  Angry, Vic gets Lasik and has lunch with his daughter.  Since he can't see and she is busy with her gallery opening, she downloads Uber on his phone so he can attend.  While Vic's eyes heal, Vic gets a call from his C.I. Leon.  Leon tells Vic Tedjo has a huge shipment coming today and the call drops.  Vic tries to drive to Leon but crashes his car.  He orders an Uber to take him to Leon's shop and gets Stu.  This ride will change these men's lives forever.  But whether or not it's for the better is up to you.<br/><br/>Be ready to laugh until it hurts.  Don't make the mistake of calling this a buddy-cop movie.  Stu is not a cop and the two men are not friends.  This is a comedy with stunning action sequences and personal character growth.  This movie may not be appropriate for kids under 14.  Also, there are no post-credit scenes.  If you are looking for the best laugh you will get in the theater, Stuber is for you.<br/><br/>5 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stuber.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stuber.jpg"
+        }
+    },
+    {
+        "option":"2",
         "mtitle":"Toy Story 4",
         "review":"Nine years after saying goodbye to Bo Peep, Woody is collecting dust bunnies in Bonnie's closet.  Unlike his time with Andy, Woody is not her favorite toy and not the leader of the toys.  Woody, knowing his job is to protect Bonnie, hitches a ride in her backpack to help her with kindergarten orientation.  With Woody's helping hand, Bonnie makes Forky.  While Forky is her favorite toy, he dreams of going into the trash.  Woody spends every moment trying to save Forky from himself for Bonnie.  But when Woody and Forky are separated from Bonnie on a family trip, Woody has to bring Forky back to her.  He will need Bo Peep, Buzz, Duke Caboom, and Officer Giggle McDimples to come to his rescue.<br/><br/>Toy Story 4 is everything you thought it would be and more.  With hilarious running gags, stupendous CGI, and astounding voice acting, you are in a trance of wonderment.  Adults and children will love this story alike.  While Jessie, Rex, and Ham are background characters, the story of Woody shines through.  He is so focused on helping Forky with his existential crisis, Woody doesn't see he is having his own.  Not until Bo Peep calls him a lost toy.  While 3D isn't necessary, stay past the end credits for an oddly satisfying moment.<br/><br/>4.5 out of 5 stars.",
         "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
         }
     },
     {
-        "option":"2",
+        "option":"3",
         "mtitle":"Spider-Man: Far From Home",
         "review":"After everyone was snapped back, people want the next Iron Man.  Spider-Man doesn't feel like he can step into Tony's shoes.  But Nick Fury needs him now.  The Elementals have invaded Earth.  The Wind and Earth elements were stopped by Mysterio.  With the assistance of Spider-Man, Mysterio was able to stop the water element in Venice.  Now, Nick wants Peter to go to Prague with Mysterio to stop the most powerful element, Fire.  Peter wants to enjoy his vacation with his friends, so he turns down Nick's offer.  Before Peter and his friends board the bus, the teacher informs them the trip got an upgrade and they are going to Prague.  Peter knows Fury has hijacked their vacation.  With Tony Stark's Glasses and EDITH by his side, Peter will take on Fire.  But can Peter trust what he sees?<br/><br/>While Homecoming introduced us to a younger Spider-Man, Far From Home is his coming of age story without Iron Man by his side.  He has to figure out who he wants to be as a man and a superhero.  While the CGI has gotten better, you can still pinpoint moments where you are witnessing 100% CGI versus green screen scenes.  There are 2 post-credit scenes and a cameo that original Spider-Man fans will love.  See this movie in IMAX.<br/><br/>4.5 out of 5 stars.",
         "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
         }
     },
     {
-        "option":"3",
+        "option":"4",
         "mtitle":"Shaft",
         "review":"20 years ago, Maya took John Jr. away to keep him safe from Shaft's dangerous occupation.  Now, John Jr. is an FBI data analyst who is often disrespected.  After Kiram, his best friend, dies of an overdose, John Jr. can't believe it.  Sasha sees the autopsy and confirms Karim was murdered.  After failing to investigate on his own, John decides to go to the only man who can help.  His father, a bad mother - shut your mouth - I'm only talking about Shaft.<br/><br/>This is easily the funniest movie of the year.  Shaft brings the gender gap of masculinity to the surface without getting mushy.  Both men learn something and stand up for their way of life.  See this movie today.<br/><br/>4 out of 5 stars.",
         "image":{
@@ -27,21 +36,12 @@ var mustBuy = [
         }
     },
 {
-    "option":"4",
+    "option":"5",
     "mtitle":"John Wick: Chapter 3 - Parabellum",
     "review":"Winston gives John 1 hour to get his affairs in order.  Then he will be excommunicated and a bounty of $14 million will be placed on his head.  Every assassin in the world will be after him and no one will offer help.  John uses the hour to find a safe place for his dog, get a ticket, get a marker, and get some gold coins.  Since some assassins couldn't wait for an hour, John needed to seek medical treatment.  In the middle of getting stitches, John's time runs out and the doctor stops the work.  John has to complete is stitches and heads to the Director.  He asks the Director to give him passage to Casablanca.  He knows an assassin there who can lead him to the High Table.  He hopes to plead his case so the High Table will let him live.<br/><br/>This movie proves better weapons, excellently choreographed fights, and mind-blowing cinematography is all action lovers need.  With so much going on, this movie provides 30 to 45 minutes of dialogue.  It gives you more of John's training history with the Director but not enough information about the blood oath between him and Sophia.  Seeing John Wick 2 is necessary for this movie.<br/><br/>4.5 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/johnwickchapter3parabellum.jpg",
         "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/johnwickchapter3parabellum.jpg"
-    }
-},
-{
-    "option":"5",
-    "mtitle":"Disney's Aladdin",
-    "review":"Aladdin finds a magic lamp in the Cave of Wonders.  As he runs for his life, he gives the lamp to Jafar.  Jafar takes the lamp and pushes Aladdin off a cliff.  Aladdin is saved and his monkey, Abu, unknowingly steals the lamp from Jafar before the fall.  Trapped inside the Cave of Wonders, Aladdin rubs the lamp and releases a Genie.  The Genie offers him 3 wishes.  He wants the Genie to help him be a prince to get the woman of his dreams, Princess Jasmine.  Only Jafar and his ambition to become Sultan stands in Aladdin's way.<br/><br/>This live-action adaption of the animated movie pays the highest respect to the original material. It doesn't change the story but adds to it.  It gives Princess Jasmine a song and a big dance.  The Genie keeps his comedic appearance while Iago and Abu are the best right-hand men.  The CGI was great for everyone but Genie.  At times, the head moved independently from it's CGI body and it was very distracting.  Because of this, 3D is a bad idea for this movie.  However, it is great for the whole family and you will feel an urge to see the play.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://s3.amazonaws.com/thebestdarngirls/small-image/disneysaladdin.jpg",
-        "largeImageUrl":"https://s3.amazonaws.com/thebestdarngirls/large-image/disneysaladdin.jpg"
     }
 }
 ];
@@ -55,16 +55,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
-
-{
-    "option":"5",
-    "mtitle":"Stuber",
-    "review":"Stu drives an Uber to help invest in his friends spin cycle business.  Hopelessly stuck in the friend zone, Stu wishes for more.  Vic is on a path to revenge after Tedjo murders his partner.  After having the case for 6 months, Captain McHenry tells Vic the Feds are ready to take over.  Angry, Vic gets Lasik and has lunch with his daughter.  Since he can't see and she is busy with her gallery opening, she downloads Uber on his phone so he can attend.  While Vic's eyes heal, Vic gets a call from his C.I. Leon.  Leon tells Vic Tedjo has a huge shipment coming today and the call drops.  Vic tries to drive to Leon but crashes his car.  He orders an Uber to take him to Leon's shop and gets Stu.  This ride will change these men's lives forever.  But whether or not it's for the better, is up to you.<br/><br/>Be ready to laugh until it hurts.  Don't make the mistake of calling this a buddy-cop movie.  Stu is not a cop and the two men are not friends.  This is a comedy with stunning action sequences and personal character growth.  This movie may not be appropriate for kids under 14.  In addition, there are no post-credit scenes.  If you are looking for the best laugh you will get in the theater, Stuber is for you.<br/><br/>5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stuber.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stuber.jpg"
-    }
-}
 
 {
     "option":"4",
@@ -145,4 +135,14 @@ module.exports = mustBuy;
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
         }
     },
+
+    {
+    "option":"4",
+    "mtitle":"Rambo: Last Blood",
+    "review":"John Rambo is dealing with his PTSD by building tunnels under his farm while taking medication.  He cares for his niece Gabby with the help of his farm manager Maria.  Gabby discovered the whereabouts of her father Manuel and wants to see him.  Maria and John are against it.  Under the guise of spending time with friends, Gabby goes to Mexico to see her father.  She doesn't return.  John must go back to the darkest parts of his mind and become Rambo to get Gabby back.<br/><br/>With the drive of Bryan Mills, the ingenuity of Kevin McCallister, and the striking blow of Scarlet Witch, Rambo delivers the bloody, revenge story we all want to see from this franchise.  New fans don't have to see the first 4 to watch.  Original fans will see the links between First Blood and Last Blood.  If you have a strong stomach, see it today.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rambolastblood.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rambolastblood.jpg"
+    }
+},
 */
