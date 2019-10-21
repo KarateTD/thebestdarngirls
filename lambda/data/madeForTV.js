@@ -1,47 +1,47 @@
 var madeForTV = [
     {
-        "option": "1",
-        "mtitle": "The College Admissions Scandal",
-        "review": "Bethany and Caroline want the best for their children.  Bethany wants her daughter Emma to go to Yale.  Caroline wants her son Danny to go to Stanford.  Emma and Danny have natural talents but they don't have the grades or SAT scores to get into the Ivy League.  They turn to Rick Singer.  He coaches the kids in practical methods at first.  When that doesn't work, he tells the women about the side door to the admissions process.  This side door includes bribery, special test proctors, and psychologist.  While these moms see the side door as a new preference, they have no idea of the lives and institutions they will damage.  Including their children.<br/><br/>Based on true events, this movie will make you sick to your stomach as each mom justifies her actions.  You will have sympathy for Danny because his parents left him in the dark about the side door while ignoring his true passion.  Emma will get less sympathy because she was complacent in the deceit.  If you are looking for the story of Felicity Huffman and Lori Loughlin, this isn't the movie for you.  Try American Greed.<br/><br/>3.5 out of 5 stars.",
-        "image": {
-            "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/collegeadmissionscandal.jpg",
-            "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/collegeadmissionscandal.jpg"
+        "option":"1",
+        "mtitle":"Patsy and Loretta",
+        "review":"After waking up in the hospital after her car accident, Patsy hears Loretta singing one of her songs on the radio.  Patsy asks her husband to bring Loretta to her hospital room.  Loretta comes into the room loaded with an apology but Patsy was flattered by her dedication.  The two talk about their music, their husbands, and their children.  Patsy takes Loretta under her wing and helps guide her career.  The two form a friendship that lasts until Patsy's untimely demise.<br/><br/>In a time of hashtag girl power, this movie is the embodiment of female empowerment.  Patsy never saw Loretta as a threat, she saw Loretta as a friend and admirer.  It's difficult to imagine today's artists being able to do the same thing without their ego getting in the way.  We should all be students like Loretta to become teachers like Patsy.<br/><br/>5 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/patsyandloretta.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/patsyandloretta.jpg"
         }
     },
     {
-        "option": "2",
-        "mtitle": "Erasing His Dark Past",
-        "review": "Karen found the love of her life twice.  First, with her deceased husband and now with David.  The icing on the cake: David and her daughter Annie get along beautifully.  So, they are both rocked when David dies in a plane crash.  While grieving, Karen gets a call that her mortgage is 2 months behind.  She is confused because she paid off the mortgage with her first husband's life insurance policy.  But the bank manager has the document with her signature and David filed it.  She can't believe that David would betray her.  When she discovers her 401K, CDs, and Annie's college fund are all gone, she has to find the truth.  Good thing she will hear it all from David's mouth.<br/><br/>You must root for the killer to enjoy this movie.  The overall plotline makes you furious.  Karen is the perfect victim and molds her daughter to be the same.  But lookout, the writers left the plot open to a part 2.<br/><br/>3 out of 5 stars.",
-        "image": {
-            "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/erasinghisdarkpast.jpg",
-            "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/erasinghisdarkpast.jpg"
+        "option":"2",
+        "mtitle":"Sleeping with My Student",
+        "review":"On her girls' trip, Kathy has a sexy tryst with a young maintenance worker named Ian.  She goes home to her daughter and her new job like nothing happened.  That changes on her first day to school as principal.  Ian is there and he is a student.  While he can legally consent, she worries he will talk.  When her daughter Bree starts hanging out with Ian, Kathy tries to put a stop to it.  Kathy believes she has it under control until Ian shows her a video of their night together.  He wants money or he will release the tape.  Ian is blackmailing Kathy for love, but not his love of her.  The love of someone he is bonded within tragedy.<br/><br/>You must watch this movie from beginning to weave in all the moving parts.  Ian is not after Kathy for her body or love, he wants justice.  The story is bland, the twist unimaginative, and the conclusion is average.  This is a movie to watch while you tweet.<br/><br/>3 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sleepingwithmystudent.jpeg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sleepingwithmystudent.jpeg"
         }
     },
     {
-        "option": "3",
-        "mtitle": "Sinister Seduction",
-        "review": "After her husband's murder, Sharon is getting her life back on track by going to work.  She wants her son Anthony to have the same peace of mind but he is getting picked on in school.  Anthony is bullied every day by Brent until Dylan steps in to help.  The two become fast friends and Dylan encourages Anthony to try out for football.  Anthony decides to have a pool party and his mother is elated he has made friends.  During the party, Dylan purposely gets lost and Sharon finds him.  The two kiss.  This kiss is the beginning of Dylan's plan for revenge.<br/><br/>This plotline is overdone and can be pulled apart the moment Dylan is on screen.  And Sharon's battle cry is a cheap grab for female viewer support.  It is 1.5 hours of build-up for a lackluster climax.  This movie can be skipped.<br/><br/>1.5 out of 5 stars.",
-        "image": {
-            "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinisterseduction.jpg",
-            "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinisterseduction.jpg"
+        "option":"3",
+        "mtitle":"Psycho BFF",
+        "review":"New girl Deandra encounters bullies on her first day.  In poetry class, Deandra is paired with Olivia.  They bond over Olivia's poem about her deceased best friend Liberty.  Olivia even steps in to defend Deandra from her bullies.  Soon, Deandra and Olivia are inseparable.  Renee, Deandra's mother, worry Olivia is a bad influence.  With a bond so strong, Olivia will do anything to anyone to keep it.  Only a gun could come between them.<br/><br/>New girl makes a best friend that's crazy and takes a long time to figure it out.  Sounds familiar? It should.  It's like most storylines in the Psycho Genre.  This movie doesn't stand out in any way and can be used as background noise.<br/><br/>2.5 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/psychobff.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/psychobff.jpg"
         }
     },
     {
-        "option": "4",
-        "mtitle": "MatchMaker Mysteries: A Killer Engagement",
-        "review": "Angie \"Dove\" Columba is a matchmaker on a popular TV show.  Six months after matching Aaron and Emma, Aaron wants to propose on air.  Angie is elated and gets an invite to the engagement party.  At the party, Angie notices Emma is acting stressed.  Also, Aaron is a no-show.  Then Angie looks up to see Emma, falling down the stairs.  Emma is dead.  Angie will use her keen sense to help Detective Carter solve the case.<br/><br/>This new series gives H.M.M's loyal viewers a more complex character with Angie Dove.  She is an adopted child to recently separated parents.  Her father is a retired detective and her mother is a free spirit.  It will be interesting to see how these dynamics play out in the future.  The mystery is classic Hallmark in the best way possible.  You have plenty of suspects with sketchy behavior and strong motives.  You will be second-guessing your guesses to the end.<br/><br/>4.5 out of 5 stars.",
-        "image": {
-            "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/matchmakermysteriesakillerengagement.jpg",
-            "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/matchmakermysteriesakillerengagement.jpg"
+        "option":"4",
+        "mtitle":"Swag, Inc;",
+        "review":"After help Reggie get the woman of his dreams, David receives $500 as payment.  This gives David an idea: Create an app and charge to give men dating advice.  The fee will include personal one-on-one training.  David presents his idea to his best friend AJ.  Aj uses his newly acquired certifications to create the app and they call it Swag, Inc.  The first day, they get 20,000 subscribers and quit their jobs.  Both are elated to have the app up and successful but their is trouble brewing around the corner.  AJ paid Swag, Inc. hosting account with his old company's credit card.  AJ's boss wants him to turn over Swag, Inc. or they will sue and have him put in jail.  AJ and David have to find a way to keep Swag, Inc.  The solution is in the question.<br/><br/>While AJ and David can get any woman they want, they can't maintain the relationship.  Unfortunately, they approached creating an app the same way they did dating.  It's easy for the viewer to understand, they must strive for longevity to be successful.  It's the only way the app can grow.  This movie is funny but it can get corny at times.<br/><br/><br/>3.5 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/swaginc.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/swaginc.jpg"
         }
     },
     {
-        "option": "5",
-        "mtitle": "My Wife's Secret Life",
-        "review": "Counseling has not helped Laurel and James get their marriage back on track after James's affair.  James is trying to be more spontaneous but she feels left out of the planning process.  Laurel attends a business conference and meets Kent.  She talks to the handsome stranger for hours and they share a forbidden kiss.  She runs off to clear her mind until she gets two phone calls.  First is James and it ends in an argument.  Next is Kent.  They realize they are in the same hotel and spend a passionate night together.  Laurel goes home and tries to forget about the affair but Kent won't let her.  He recorded it and threatens to tell her husband if she doesn't leave him.  She will have to fight for her life to keep her marriage.<br/><br/>Kent is a bad man but Laurel and James make textbook Lifetime mistakes.  You feel as if they deserve it. They are so busy fighting against each other, they don't notice Kent weaseling is way into their family, life, and jobs.  Watch and root for Kent.<br/><br/>3 out of 5 stars.",
-        "image": {
-            "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mywifessecretlife.jpg",
-            "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mywifessecretlife.jpg"
+        "option":"5",
+        "mtitle":"Crossword Mysteries: Proposing Murder",
+        "review":"Five days ago, Lyle asked his friend Tess to hide his marriage proposal to Abby in her crossword puzzle.  Now, Detective Logan stands over Lyle's body determining what happened to the tenured professor.  His house was ransacked but nothing was stolen.  Tess, against the advice of Detective Logan, starts to investigate.  It will take a cipher, beef stew, and a children's book to solve this mystery.  Will Tess live to see the perpetrator captured.<br/><br/>It is hard to believe but Hallmark has made a detective out of a crossword editor.  The second installment in this series 10 times more captivating than its predecessor.  There are multiple suspects with a plethora of motives.  The viewer is allowed to solve the case along with Tess and gets to know Tess and Logan better.<br/><br/>5 out of 5 stars.",
+        "image":{
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/crosswordmysteriesproposingmurder.jpeg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/crosswordmysteriesproposingmurder.jpeg"
         }
     }
 ];
