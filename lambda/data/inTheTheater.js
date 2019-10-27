@@ -2,7 +2,7 @@ var inTheTheaters = [
   {
     "option":"1",
     "mtitle":"The Current War",
-    "review":".<br/><br/>* out of 5 stars",
+    "review":"Thomas Edison created the light bulb and the Direct Current to bring power to people's homes.  He has asked J.P. Morgan to finance is endeavors to bring the current to homes all over the United States.  George Westinghouse sees false in Edison's design and creates Alternating Currents.  Westinghouse's designs are cheaper and will work in rural areas.  When Edison hears about Westinghouse's improvements, he tells the newspapers the Alternating Current can kill.  The current war begins and spans over a decade.  While Edison and Westinghouse, fight over the present, Nikola Testa is fighting for the future.  He wants to turn water into energy and power machines.  The former Edison employee has ideas and concepts but no inventions to show for it.  The winner of the current war will be decided by the Chicago World's Fair.<br/><br/>When these men couldn't fight in the courtroom, they fought in the papers.  While the current war leaped the United States into to 20th century, it spawned new inventions, new companies, and a deadly consequence.  Seeing these men try every underhanded approach to win, with the wives cheering them on will delight you.  You will walk away from this movie learning more about these great inventors and their lasting impact.<br/><br/>4 out of 5 stars",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecurrentwar.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecurrentwar.jpg"
@@ -11,7 +11,7 @@ var inTheTheaters = [
   {
     "option":"2",
     "mtitle":"Countdown",
-    "review":".<br/><br/>* out of 5 stars",
+    "review":"Quinn downloads a new app called Countdown out of curiosity.  The app tells its users the exact second they will die.  Quinn's clock gives her 2 days to live.  At first, she blows it off as a bad app until her patient dies that exact second the app said he would.  Quinn is starting to see and hear things.  She tries to get a new phone, new number, new carrier, and a new SIM card but the app downloads itself again.  After freaking out at a cell phone store, Matt tries to help.  He has fewer hours to live than Quinn.  The two decide to work together to beat the app and live.<br/><br/>With a mix of Final Destination and Unfriended this movie falls short.  It sends its users a 2-minute warning before they die.  This reduces your jump scares.  One take away from this movie: Always read the user agreement.  Wait to see this movie on Vudu.  And if you do see it, wait until after the end credits.<br/><br/>2 out of 5 stars",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/countdown.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/countdown.jpeg"
