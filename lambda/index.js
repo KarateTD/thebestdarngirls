@@ -22,7 +22,7 @@ const goodbyeScreen='Please visit https://thatdarngirlmovie.reviews'
 const mainMenu='For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the Must Buy movie of the week, say Must Buy.  For Video on Demand reviews, say Video on Demand. To search The Best Darn Girls Library, say Library.'
 const hints=[' show me ',' tell me about ', ' I choose ', ' select ', ' '];
 const libHints=['Look for', 'I would like', 'Find', 'How about', 'Search for' ];
-const background='https://s3.amazonaws.com/thebestdarngirls/library/small-image/darkbluebg.jpeg';
+//const background='https://s3.amazonaws.com/thebestdarngirls/library/small-image/darkbluebg.jpeg';
 const smallLogo='https://s3.amazonaws.com/thebestdarngirls/library/small-image/APP_ICON.png';
 const largeLogo='https://s3.amazonaws.com/thebestdarngirls/library/large-image/APP_ICON.png';
 
