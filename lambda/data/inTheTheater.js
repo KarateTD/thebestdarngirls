@@ -1,6 +1,24 @@
 var inTheTheaters = [
   {
     "option":"1",
+    "mtitle":"Harriet",
+    "review":"After Gideon hears Mint praying for his father's death, he tells her she will be nothing more than property, just one of his pigs.  So, God will never listen to her prayers.  The next morning, Gideon's father dies.  Minty knows Gideon blames her and will make plans to sell her down south in the morning.  Slaves sold to the south never return.  Minty makes a plan to escape with her husband, John.  Unlike Minty, John is free but he doesn't want to have kids with Minty because they will be born slaves.  Minty escapes and tries to meet up with John but Gideon is already confronting him.  So she keeps running.  One hundred miles later, Minty has left enslavement in Maryland to the freedom of Pennsylvania.  She meets with William Still.  He documents her story in his book of runaway slaves and tells her to pick a new name.  She chooses Harriet after her mother and Tubman like her husband John.  Now, she is Harriet Tubman.  A year later, Harriet wants to go back to get her husband and later get her family.  William is against it but her friend and businesswoman Marie gives her guidance on social graces, dress, and gives her free papers.  The decision to go back with turn the woman into the myth of Moses and the legend of Harriet.<br/><br/>If you are looking for a movie that focuses on the brutality and inhumane treatment of enslaved people, this is not the movie for you.  This movie focuses on Harriet's hardships to become the American Historical figure we know today.  At that time her spells were described as messages from God, now we would consider it brain damage.  This should not be mistaken as the writers giving her a superhuman quality.  This movie should be used as a jumping point for you to research the strength of this one woman.  However, the movie's end felt rushed.  It only mentions her work as a spy and within the woman's suffrage movement.  Like many history books, these great strides for women are only a footnote.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/harriet.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/harriet.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Terminator: Dark Fate",
+    "review":"In 1997, Sarah watches her son, John, order food.  In her peripheral, she sees a Terminator model T-800.  He pushes her out the way and kills John. Twenty-two years later, she hunts terminators.  From an encrypted number. she gets coordinates, a date, and a time a terminator will appear.  She follows the information and kills the terminator.  One day, those coordinates lead her to a bridge.  She finds Grace protecting a young woman from a Terminator and shoots.  She goes down to finish the job when Grace stills her SUV.  Sarah tracks them down and finds Grace protecting Dani.  Dani is the new Sarah and the Rev-9 is out to kill her.  Grace is an augmented human sent from the future to project Dani's life at all costs.  The women must find a way to destroy the Rev-9 and save the future.<br/><br/>You should see the first two Terminator movies to understand what is going on in this movie.  The other movies are irrelevant.  The action sequences are well-choreographed and expertly shot with well-blended CGI.  And the new Terminator is a great blend of the T-800 and the T-1000.  However with great action, the dialog and jokes fall flat causing the movie to become boring.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/terminatordarkfate.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/terminatordarkfate.jpg"
+    }
+  },
+  {
+    "option":"3",
     "mtitle":"The Current War",
     "review":"Thomas Edison created the light bulb and the Direct Current to bring power to people's homes.  He has asked J.P. Morgan to finance is endeavors to bring the current to homes all over the United States.  George Westinghouse sees flaws in Edison's design and creates Alternating Currents.  Westinghouse's designs are cheaper and will work in rural areas.  When Edison hears about Westinghouse's improvements, he tells the newspapers the Alternating Current can kill.  The current war begins and spans over a decade.  While Edison and Westinghouse fight over the present, Nikola Tesla is fighting for the future.  He wants to turn water into energy and power machines.  The former Edison employee has ideas and concepts but no inventions to show for it.  The winner of the current war will be decided by the Chicago World's Fair.<br/><br/>When these men couldn't fight in the courtroom, they fought in the papers.  While the current war spearheaded the United States into the 20th century, it spawned new inventions, new companies, and a deadly consequence.  Seeing these men try every underhanded approach to win, with their wives cheering them on, will delight you.  You will walk away from this movie learning more about these great inventors and their lasting impact.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -9,7 +27,7 @@ var inTheTheaters = [
     }
   },
   {
-    "option":"2",
+    "option":"4",
     "mtitle":"Countdown",
     "review":"Quinn downloads a new app called Countdown out of curiosity.  The app tells its users the exact second they will die.  Quinn's clock gives her 2 days to live.  At first, she blows it off as a bad app until her patient dies the exact second the app said he would.  Quinn is starting to see and hear things.  She tries to get a new phone, new number, new carrier, and a new SIM card but the app downloads itself again.  After freaking out at a cell phone store, Matt tries to help.  He has fewer hours to live than Quinn.  The two decide to work together to beat the app and live.<br/><br/>With a mix of Final Destination and Unfriended, this movie falls short.  It sends its users a 2-minute warning before they die.  This reduces your jump scares.  One take away from this movie: Always read the user agreement.  Wait to see this movie on Vudu.  And if you do see it, wait until after the end credits.<br/><br/>2 out of 5 stars.",
     "image":{
@@ -18,30 +36,12 @@ var inTheTheaters = [
     }
   },
     {
-        "option":"3",
+        "option":"5",
         "mtitle":"Maleficent: Mistress of Evil",
         "review":"After asking Aurora to marry him, Prince Phillip extends an invitation for Maleficent to meet his parents, King John and Queen Ingrith.  At the dinner, both women take verbal jabs at each other.  But Maleficent can't take it any longer.  She uses her magic to push everyone away and the king collapses and falls into a deep sleep.  The queen tells her guard, Gerda, to shoot Maleficent with a lead bullet for cursing the king.  Gerda takes the shot and Maleficent falls from the sky.  But she is saved by a dark winged creature.  This creature will show Maleficent a world she never knew existed.  Maleficent will need to decide: bring peace for the love of one human or bring war for the love of all fairies like her.<br/><br/>See this movie in IMAX.  Any other form will be cheating yourself.  Serving as a sequel, this movie gives a new story for Maleficent while respecting the original.  The CGI, make-up, and costume design are second to none.  Each fairy has a unique look but with little details to let you know they are related.  Be prepared to laugh, clutch your pearls, and gasp with amazement.  This movie is only missing a visual aspect of Ingrith's story.  It's hard to understand if she is lying or telling the truth about her past.<br/><br/>4 out of 5 stars.",
         "image":{
             "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maleficentmistressofevil.jpg",
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maleficentmistressofevil.jpg"
-        }
-    },
-    {
-        "option":"4",
-        "mtitle":"Always in Season",
-        "review":"When Claudia receives the news her son Lennon was dead, she was heartbroken.  However, her grief turned to rage when the police declared it a suicide.  She knows her son would never kill himself.  He was happy and making plans for the future.  So Lennon's brother Pierre started investigating.  His results will lead to this case being presented to the F.B.I..  Pierre and Claudia hope Lennon's case will be fully and properly investigated.<br/><br/>This documentary will anger you to your core while bringing a heavy sadness on your chest.  As Lennon's family and friends give you a glimpse of Lennon's life, you are endeared to him.  During the documentary, the lynchings of Moore's Ford and Claude Neal are discussed in great detail.  Hearing first-hand accounts are eye-opening and allow the viewer to see these crimes as a thing of the present.  The film does point the finger at someone but doesn't allow that person to present themselves to the audience.  It's crucial to the validity of the accusations.<br/><br/>4.5 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/alwaysinseason.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alwaysinseason.jpg"
-        }
-    },
-    {
-        "option":"5",
-        "mtitle":"Jexi",
-        "review":"After crashing into Cate, Phil has to replace his phone.  His phone has kept him entertained and isolated from the world.  His phone comes with a digital assistant named Jexi.  Phil accepts the user agreement without reading it.  This is a mistake.  He has given Jexi permission to override his commands if Jexi has an option that will make Phil's life better.  Phil tries to replace his phone but Jexi downloads its software from the cloud.  So, Phil gives in.  At first, Jexi is helping Phil get a job, friends, and Cate.  When Phil ignores Jexi for his better life, Jexi goes crazy like a stalker ex.<br/><br/>This extremely funny comedy will have you examining how much you live by your phone.  You will question if you Instagram life is better than your real life.  When Denise compares cell phone addicts to crackheads, she believes crackheads are better.  Crackheads have friends, exercise, and get out of the house.  Phil is lacking at all 3.  While this movie has a strong message, it doesn't get preachy.  A bonus: Jexi trash talks Alexa, Siri, and Cortana.<br/><br/>4 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/jexi.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/jexi.jpg"
         }
     }
 ];
