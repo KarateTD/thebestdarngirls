@@ -1,47 +1,47 @@
 var inTheTheaters = [
-    {
+  {
     "option":"1",
-    "mtitle":"Abominable",
-    "review":"After working several odd jobs to earn money to take a tour of China, Yi finds a creature on the roof of her apartment building.   She gets the creature to trust her and names him Everest.  Later, her friends Peng and Jin discovers her secret and try to call the police.  Dr. Zara and Burnish hear the call over their police scanner.  Everest escaped Dr. Zara's lab and Burnish, Dr. Zara's funder, wants Everest back.  Burnish likes to collect rare and exotic creatures.  Yi decides she must do everything to get Everest back home.  And Peng and Jin are unwittingly along for the ride.<br/><br/>You must see this movie in 3D to truly enjoy the magic of Everest.  With all cartoons, Yi has a sad backstory that drives her compassion.  There are a plethora of jokes for parents and kids alike.  See the matinee in 3D.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Harriet",
+    "review":"After Gideon hears Minty praying for his father's death, he tells her she will be nothing more than property, just one of his pigs.  So, God will never listen to her prayers.  The next morning, Gideon's father dies.  Minty knows Gideon blames her and will make plans to sell her down south in the morning.  Slaves sold to the south never return.  Minty makes a plan to escape with her husband John.  Unlike Minty, John is free but he doesn't want to have kids with Minty because they will be born slaves.  Minty escapes and tries to meet up with John but Gideon is already confronting him.  So she keeps running.  One hundred miles later, Minty has left enslavement in Maryland to the freedom of Pennsylvania.  She meets with William Still.  He documents her story in his book of runaway slaves and tells her to pick a new name.  She chooses Harriet after her mother and Tubman like her husband John.  Now, she is Harriet Tubman.  A year later, Harriet wants to go back to get her husband and later get her family.  William is against it but her friend and businesswoman, Marie, gives her guidance on social graces, dress, and gives her free papers.  The decision to go back with turn the woman into the myth of Moses and the legend of Harriet.<br/><br/>If you are looking for a movie that focuses on the brutality and inhumane treatment of enslaved people, this is not the movie for you.  This movie focuses on Harriet's hardships to become the American Historical figure we know today.  At that time her spells were described as messages from God, now we would consider it brain damage.  This should not be mistaken as the writers giving her a superhuman quality.  This movie should be used as a jumping point for you to research the strength of this one woman.  However, the movie's end felt rushed.  It only mentions her work as a spy in the Civil War and her envolvement in the woman's suffrage movement.  Like many history books, these great strides for women are only a footnote.<br/><br/>4.5 out of 5 stars.",
     "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abominable.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abominable.jpg"
-        }
-    },
-    {
-        "option":"2",
-        "mtitle":"Black and Blue",
-        "review":"Afghan vet, Alicia West is a 3-week rookie at the New Orleans Police Department.  After hearing gunshots, Alicia walks into an abandoned plant to investigate.  She sees 2 men dead on the ground an another begging for his life.  She witnesses NARC Malone shoot the man in cold blood.  Another NARC spots her and shoots her multiple times.  She escapes but they want her body cam.  To cover his tracks, Malone tells the chief Alicia went rogue and shot all 3 men.  When the neighborhood kingpin Darius arrives on the scene, he is heartbroken to see his nephew dead on the ground.  Malone tells him Alicia killed his nephew.  Now, Alicia has dirty, armed cops and heavily armed gang members hunting her down.  She must get the camera back to the station to upload the footage.  She hopes to clear her name with the police, call off Darius' hit, and hold Malone accountable for his actions.  Good thing she has a Mouse on her side.<br/><br/>While this movie addresses profiling and police brutality, it touches on 2 issues that are easy to miss.  First, the lack of technology.  If the footage was wirelessly uploaded to the cloud, this movie would not exist.  Second, good cops holding bad cops accountable.  When Alicia decides to tell the truth, she knew she would be labeled a rat.  She doesn't care.  This movie is a wild ride that doesn't get too preachy by adding some quick wit.<br/><br/>4 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackandblue.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
-        }
-    },
-    {
-        "option":"3",
-        "mtitle":"Rambo: Last Blood",
-        "review":"John Rambo is dealing with his PTSD by building tunnels under his farm while taking medication.  He cares for his niece Gabby with the help of his farm manager Maria.  Gabby discovered the whereabouts of her father Manuel and wants to see him.  Maria and John are against it.  Under the guise of spending time with friends, Gabby goes to Mexico to see her father.  She doesn't return.  John must go back to the darkest parts of his mind and become Rambo to get Gabby back.<br/><br/>With the drive of Bryan Mills, the ingenuity of Kevin McCallister, and the striking blow of Scarlet Witch, Rambo delivers the bloody, revenge story we all want to see from this franchise.  New fans don't have to see the first 4 to watch.  Original fans will see the links between First Blood and Last Blood.  If you have a strong stomach, see it today.<br/><br/>4 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rambolastblood.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rambolastblood.jpg"
-        }
-    },
-    {
-        "option":"4",
-        "mtitle":"Ad Astra",
-        "review":"Soon, humans can go to the moon the way we travel to Orlando or LA.  We can do this because the sacrifice Clifford McBride made.  He was the first man on Mars and the first man to attempt to travel to Neptune.  Tragically, his project, the Lima Project, did not survive the main voyage.  Major Roy McBride, Clifford's son, continues his father's work today.  While working on an antenna outside the Earth's atmosphere, an energy blast hits.  The surge of power knocked out power grids and caused thousands of deaths.  Roy is called into work to be debriefed.  Roy learns the horrific truth.  Clifford is still alive.  During his mission to Neptune, he killed his team and turned off all communications.  The government believes Clifford created the energy blast.  They want Roy to fly to Mars and send a message to Clifford to stop the attacks.  No one knows Roy is depressed.  Staring into the void with Clifford sounds better than being on Earth.<br/><br/>The graphics, weightless rigging, and other special effects are superb.  But that is almost taken away with Roy's incessant monologuing.  The Twilight-like dread makes the movie extremely dull.<br/><br/>2.5 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adastra.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adastra.jpg"
-        }
-    },
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/harriet.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/harriet.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Terminator: Dark Fate",
+    "review":"In 1997, Sarah watches her son, John, order food.  In her peripheral, she sees a Terminator model T-800.  He pushes her out the way and kills John. Twenty-two years later, she hunts terminators.  From an encrypted number. she gets coordinates, a date, and a time a terminator will appear.  She follows the information and kills the terminator.  One day, those coordinates lead her to a bridge.  She finds Grace protecting a young woman from a Terminator and shoots.  She goes down to finish the job when Grace steals her SUV.  Sarah tracks them down and finds Grace protecting Dani.  Dani is the new Sarah and the Rev-9 is out to kill her.  Grace is an augmented human sent from the future to protect Dani's life at all costs.  The women must find a way to destroy the Rev-9 and save the future.<br/><br/>You should see the first two Terminator movies to understand what is going on in this movie.  The other movies are irrelevant.  The action sequences are well-choreographed and expertly shot with well-blended CGI.  And the new Terminator is a great blend of the T-800 and the T-1000.  However with great action, the dialog and jokes fall flat causing the movie to become boring.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/terminatordarkfate.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/terminatordarkfate.jpg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"The Current War",
+    "review":"Thomas Edison created the light bulb and the Direct Current to bring power to people's homes.  He has asked J.P. Morgan to finance is endeavors to bring the current to homes all over the United States.  George Westinghouse sees flaws in Edison's design and creates Alternating Currents.  Westinghouse's designs are cheaper and will work in rural areas.  When Edison hears about Westinghouse's improvements, he tells the newspapers the Alternating Current can kill.  The current war begins and spans over a decade.  While Edison and Westinghouse fight over the present, Nikola Tesla is fighting for the future.  He wants to turn water into energy and power machines.  The former Edison employee has ideas and concepts but no inventions to show for it.  The winner of the current war will be decided by the Chicago World's Fair.<br/><br/>When these men couldn't fight in the courtroom, they fought in the papers.  While the current war spearheaded the United States into the 20th century, it spawned new inventions, new companies, and a deadly consequence.  Seeing these men try every underhanded approach to win, with their wives cheering them on, will delight you.  You will walk away from this movie learning more about these great inventors and their lasting impact.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecurrentwar.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecurrentwar.jpg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Countdown",
+    "review":"Quinn downloads a new app called Countdown out of curiosity.  The app tells its users the exact second they will die.  Quinn's clock gives her 2 days to live.  At first, she blows it off as a bad app until her patient dies the exact second the app said he would.  Quinn is starting to see and hear things.  She tries to get a new phone, new number, new carrier, and a new SIM card but the app downloads itself again.  After freaking out at a cell phone store, Matt tries to help.  He has fewer hours to live than Quinn.  The two decide to work together to beat the app and live.<br/><br/>With a mix of Final Destination and Unfriended, this movie falls short.  It sends its users a 2-minute warning before they die.  This reduces your jump scares.  One take away from this movie: Always read the user agreement.  Wait to see this movie on Vudu.  And if you do see it, wait until after the end credits.<br/><br/>2 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/countdown.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/countdown.jpeg"
+    }
+  },
     {
         "option":"5",
-        "mtitle":"Official Secrets",
-        "review":"Katharine is an interpreter for the British Government.  It's her job to listen to British enemies' phone conversations and report any terrorist plot.  While working, she gets a Top Secret email.  The US wants to gain damning information about U.N. allies against the war.  They will use the information to blackmail the allies to vote for the war.  Katharine won't stand for this government intrusion of our allies.  So, she prints the email and gives it to a friend.  That decision will put her motives, marriage, and freedom in jeopardy.<br/><br/>While watching this movie, you have to determine if Katharine is a whistleblower, traitor, or both.  While her voice did not stop the war, it did make people second guess the war and their government.  Although a lot of information is covered, something still feels missing.  You will need to read the book to fill in the holes.<br/><br/>3 out of 5 stars.",
+        "mtitle":"Maleficent: Mistress of Evil",
+        "review":"After asking Aurora to marry him, Prince Phillip extends an invitation for Maleficent to meet his parents, King John and Queen Ingrith.  At the dinner, both women take verbal jabs at each other.  But Maleficent can't take it any longer.  She uses her magic to push everyone away and the king collapses and falls into a deep sleep.  The queen tells her guard, Gerda, to shoot Maleficent with a lead bullet for cursing the king.  Gerda takes the shot and Maleficent falls from the sky.  But she is saved by a dark winged creature.  This creature will show Maleficent a world she never knew existed.  Maleficent will need to decide: bring peace for the love of one human or bring war for the love of all fairies like her.<br/><br/>See this movie in IMAX.  Any other form will be cheating yourself.  Serving as a sequel, this movie gives a new story for Maleficent while respecting the original.  The CGI, make-up, and costume design are second to none.  Each fairy has a unique look but with little details to let you know they are related.  Be prepared to laugh, clutch your pearls, and gasp with amazement.  This movie is only missing a visual aspect of Ingrith's story.  It's hard to understand if she is lying or telling the truth about her past.<br/><br/>4 out of 5 stars.",
         "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/officialsecrets.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/officialsecrets.jpg"
+            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maleficentmistressofevil.jpg",
+            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maleficentmistressofevil.jpg"
         }
     }
 ];
