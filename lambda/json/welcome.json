@@ -35,7 +35,7 @@
         {
             "description": "Standard font sizes",
             "dimensions":{
-                "textSizeBody": 48,
+                "textSizeBody": 45,
                 "textSizePrimary": 27,
                 "textSizeSecondary": 23,
                 "textSizeSecondaryHint": 25
@@ -74,7 +74,7 @@
             "description": "Light version of basic font",
             "extend": "textStyleBase",
             "values": {
-                "fontWight": "300"
+                "fontWeight": "300"
             }
         },
         "textStylePrimary": {
@@ -123,7 +123,7 @@
                             {
                                 "type":"Text",
                                 "text":"${datasource.HomeTemplate.textContent.primaryText.text}",
-                                "fontSize": "@textSizePrimary",
+                                "fontSize": "@textSizeSecondary",
                                 "spacing":"@spacingSmall",
                                 "style": "textStyleBody"
                             }
@@ -156,17 +156,17 @@
                         "items": [
                             {
                                 "type": "Text",
-                                "text": "${datasource.HomeTemplate.textContent.helpText.text}",
-                                "fontSize": "@textSizePrimary",
-                                "spacing": "@spacingSmall",
-                                "style": "textStylePrimary"
-                            },
-                            {
-                                "type": "Text",
                                 "text": "${datasource.HomeTemplate.textContent.primaryText.text}",
                                 "fontSize": "@textSizeBody",
                                 "spacing": "@spacingSmall",
                                 "style": "textStyleBody"
+                            },
+                            {
+                                "type": "Text",
+                                "text": "${datasource.HomeTemplate.textContent.helpText.text}",
+                                "fontSize": "@textSizePrimary",
+                                "spacing": "@spacingSmall",
+                                "style": "textStylePrimary"
                             }
                         ]
                     }
