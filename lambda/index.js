@@ -28,16 +28,12 @@ const regLocaleVar = {
 
 }
 
-//const welcome = 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.';
-//const mainOptions = '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand\n\t* Early Screening - Premium Access Only\n\t* Library - Premium Access Only';
-//const mainScreen = '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand<br/>* Early Screening - Premium Access Only<br/>* Library - Premium Access Only';
 const repeatGoBack = '  To hear the review again, say repeat.  To go back to the movie options, say movie options.  To go back to the main menu, say main menu.  To exit, say good bye';
 const sorry = 'Sorry I don\'t understand.  Say your response again';
 const skillName='The Best Darn Girls'
 const goodbyeSpeak='Come back or visit The Best Darn Girls Movie Review website at https:// that darn girl movie dot reviews. Good bye!'
 const goodbyeScreen='* Site: https://thatdarngirlmovie.reviews<br/>* Instagram: @thebestdarngirls<br/>* Twitter: @thebestdarngirl<br/>* Facebook: @thebestdarngirls<br/>* Email: thebestdarngirls@gmail.com'
 const goodbyeCard='\t* Site: https://thatdarngirlmovie.reviews\n\t* Instagram: @thebestdarngirls\n\t* Twitter: @thebestdarngirl\n\t* Facebook: @thebestdarngirls\n\t* Email: thebestdarngirls@gmail.com'
-//const mainMenu='For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For movies not yet in the theater, say Early Screening.   For Video on Demand reviews, say Video on Demand. To search The Best Darn Girls Library, say Library.'
 const hints=[' Show me ',' Tell me about ', ' I choose ', ' Select ', ' '];
 const libHints=['Look for', 'Look up', 'Find', 'How about', 'Search for' ];
 const smallLogo='https://s3.amazonaws.com/thebestdarngirls/library/small-image/APP_ICON.png';
@@ -125,12 +121,12 @@ let product = null;
 }
 
 function makeSettings(myLocale){
-	console.log("local: "+ myLocale)
+	//console.log("local: "+ myLocale)
 	if(myLocale == "en-US" || myLocale == "en-GB"){
-		console.log("with locale and in if");
+		//console.log("with locale and in if");
 		return premLocaleVar;
 	}else{
-		console.log("with locale and else");
+		//console.log("with locale and else");
 		return regLocaleVar;
 	}
 }
@@ -164,8 +160,8 @@ const MainMenuHandler = {
 		const locale = request.locale;
 		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
 		
-		console.log(locale);
-		console.log(menu);
+		//console.log(locale);
+		//console.log(menu);
 		//console.log(ms);
 		let mySettings = makeSettings(locale);
 		if(typeof menu === 'undefined'){
@@ -206,23 +202,23 @@ const MainMenuHandler = {
 			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
 			//console.log(product);
   			if(menu.toLowerCase() === 'in the theater'){
-				console.log("menu if");
+			//	console.log("menu if");
       			starter += getOptions(inTheTheater);
  	     		requestList = getList(inTheTheater);
   			}else if(menu.toLowerCase() === 'made for tv'){
-				console.log("menu 1st else if");
+			//	console.log("menu 1st else if");
       			starter += getOptions(madeForTV);
       			requestList = getList(madeForTV);
  	 		}else if(menu.toLowerCase() === 'in stores'){
-				console.log("menu 2nd else if");
+			//	console.log("menu 2nd else if");
   				starter += getOptions(mustBuy);
   				requestList = getList(mustBuy);
  	 		}else if(menu.toLowerCase() === 'video on demand'){
-				console.log("menu third else if");
+			//	console.log("menu third else if");
   				starter += getOptions(videoOnDemand);
 				requestList = getList(videoOnDemand);
 			}else if(menu.toLowerCase() === 'early screening'){
-				console.log("menu 4th else if");
+			//	console.log("menu 4th else if");
 				if(isEntitled(product)){
 			
 					starter += getOptions(earlyScreening);
@@ -244,7 +240,7 @@ const MainMenuHandler = {
 						}).getResponse();
 				}
   			}else if(menu.toLowerCase() === 'library'){
-				console.log("menu 5th else if");
+			//	console.log("menu 5th else if");
 				if(isEntitled(product)){
   		    		if(repeat == true){
 						repeat=false;
@@ -274,7 +270,7 @@ const MainMenuHandler = {
 						}).getResponse();
 				}
   			}else{
-				console.log("menu 6th else if");
+				//console.log("menu 6th else if");
       			starter = `${sorry}`;
  			}
 
@@ -560,15 +556,15 @@ const MovieChoicesHandler = {
 			choice = request.token;
 		}else if(request.intent.slots.choice){
 			choice = request.intent.slots.choice.value;
-		}else{
-			console.log("no choice value!!!!");
-		}
+		}//else{
+			//console.log("no choice value!!!!");
+		//}
 
-    	let review = `${sorry}`;
+    	//let review = `${sorry}`;
 		let element;
 		let starter = '';
-		console.log("in movie choice handler");
-		console.log("menu: " + menu);
+		//console.log("in movie choice handler");
+		//console.log("menu: " + menu);
 		let mySettings = makeSettings(request.locale);
 		if(typeof menu === 'undefined'){
 			if(supportsAPL(handlerInput)){
@@ -627,13 +623,13 @@ const MovieChoicesHandler = {
 			  starter += getOptions(libraryList);
 		}
 
-		console.log(menu.toLowerCase());
-		console.log(element);
-		console.log(choice);
+		//console.log(menu.toLowerCase());
+		//console.log(element);
+		//console.log(choice);
     	if(typeof element !== 'undefined'){
-			console.log("in typeof if")
+		//	console.log("in typeof if")
     		if(supportsAPL(handlerInput)){
-				console.log("in supportsapl")
+			//	console.log("in supportsapl")
  				handlerInput.responseBuilder.addDirective({
                     type: 'Alexa.Presentation.APL.RenderDocument',
                     document : Review,
@@ -673,7 +669,7 @@ const MovieChoicesHandler = {
       		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       		  .getResponse();
       	}else{
-			  console.log("in the right place");
+			  //console.log("in the right place");
 			  let speakOutput = "You have made an incorrect selection. Pick ";
 			  if(maxResults > 1){
 				  speakOutput += "a number between 1 and " + maxResults+". ";
@@ -707,7 +703,7 @@ const LibraryHandler = {
 		}
 		let rows;
 		let parsedChoice;
-		console.log("in library handler");
+		//console.log("in library handler");
 
 		if(request.intent.slots != null){
 			if(request.intent.slots.MovieList != null || request.intent.slots.query != null){
@@ -786,8 +782,8 @@ const LibraryHandler = {
 		
 		return ms.getInSkillProducts(locale).then(function(res) {
 			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
-			console.log("in return.ms for library handler");
-			console.log(product)
+			//console.log("in return.ms for library handler");
+			//console.log(product)
 			if(isEntitled(product)){
 				if(supportsAPL(handlerInput) && rows[0] != ""){
 
@@ -855,7 +851,7 @@ const LibraryHandler = {
         			.getResponse();
     		}else{
 				const upsell = "To seach the library, you must own Premium Access.  Do you want to learn more?"
-				console.log('in upsell for library handler');
+				//console.log('in upsell for library handler');
 				return handlerInput.responseBuilder
 					.addDirective({
 						'type': 'Connections.SendRequest',
@@ -886,8 +882,8 @@ const CommandsHandler = {
 		let com = request.intent.slots.command.value;
 		let locale = request.locale
 		let mySettings = makeSettings(locale);
-		console.log("in commands handler");
-		console.log(com);
+		//console.log("in commands handler");
+		//console.log(com);
 		if(com.toLowerCase() === 'repeat'){
 		    repeat=true;
 			return MovieChoicesHandler.handle(handlerInput);
@@ -897,7 +893,7 @@ const CommandsHandler = {
 		}else if(com.toLowerCase() === 'main menu'){
 			return WelcomeHandler.handle(handlerInput);
 		}else{
-			console.log("in else for command handler");
+		//	console.log("in else for command handler");
 			if(supportsAPL(handlerInput)){
 			    handlerInput.responseBuilder.addDirective({
  				    type : 'Alexa.Presentation.APL.RenderDocument',
