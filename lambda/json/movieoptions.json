@@ -132,13 +132,13 @@
               "text": "${data.textContent.primaryText.text}",
               "style": "textStylePrimary",
               "textAlign": "center",
-              "maxLines": 2
+              "maxLines": 3
             },
             {
               "type": "Text",
               "text": "${ordinal} | ${listLength}",
               "style": "textStyleSecondary",
-              "paddingBottom": "20dp",
+              "paddingBottom": "100dp",
               "color": "white",
               "spacing": "5dp"
             }
@@ -166,8 +166,8 @@
               "type": "Text",
               "text": "<b>${ordinal}.</b> ${data.textContent.primaryText.text}",
               "style": "textStyleSecondary",
-              "maxLines": 2,
-              "spacing": 12
+              "maxLines": 3,
+              "spacing": 10
             }
           ]
         }

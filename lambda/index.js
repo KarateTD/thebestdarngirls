@@ -8,17 +8,37 @@ const MovieOptions = require('./json/movieoptions.json');
 const Review = require('./json/review.json');
 const Background = require('./json/background.json');
 
-const welcome = 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.';
-const mainOptions = '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand\n\t* Early Screening - Premium Access Only\n\t* Library - Premium Access Only';
-const mainScreen = '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand<br/>* Early Screening - Premium Access Only<br/>* Library - Premium Access Only';
+const premLocaleVar = {
+	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.',
+	mainOptions: '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand\n\t* Early Screening - Premium Access Only\n\t* Library - Premium Access Only',
+	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand<br/>* Early Screening - Premium Access Only<br/>* Library - Premium Access Only',
+	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For movies not yet in the theater, say Early Screening.   For Video on Demand reviews, say Video on Demand. To search The Best Darn Girls Library, say Library.',
+	helpMessage: "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https:// that darn girl movie dot reviews.  ",
+	helpScreen:  "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https://thatdarngirlmovie.reviews.<br/><br/>  "
+
+}
+
+const regLocaleVar = {
+	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand',
+	mainOptions: '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand',
+	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand',
+	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores. For Video on Demand reviews, say Video on Demand.',
+	helpMessage: "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https:// that darn girl movie dot reviews.  ",
+	helpScreen:  "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https://thatdarngirlmovie.reviews.<br/><br/>  "
+
+}
+
+//const welcome = 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.';
+//const mainOptions = '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand\n\t* Early Screening - Premium Access Only\n\t* Library - Premium Access Only';
+//const mainScreen = '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand<br/>* Early Screening - Premium Access Only<br/>* Library - Premium Access Only';
 const repeatGoBack = '  To hear the review again, say repeat.  To go back to the movie options, say movie options.  To go back to the main menu, say main menu.  To exit, say good bye';
 const sorry = 'Sorry I don\'t understand.  Say your response again';
 const skillName='The Best Darn Girls'
 const goodbyeSpeak='Come back or visit The Best Darn Girls Movie Review website at https:// that darn girl movie dot reviews. Good bye!'
 const goodbyeScreen='* Site: https://thatdarngirlmovie.reviews<br/>* Instagram: @thebestdarngirls<br/>* Twitter: @thebestdarngirl<br/>* Facebook: @thebestdarngirls<br/>* Email: thebestdarngirls@gmail.com'
 const goodbyeCard='\t* Site: https://thatdarngirlmovie.reviews\n\t* Instagram: @thebestdarngirls\n\t* Twitter: @thebestdarngirl\n\t* Facebook: @thebestdarngirls\n\t* Email: thebestdarngirls@gmail.com'
-const mainMenu='For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For movies not yet in the theater, say Early Screening.   For Video on Demand reviews, say Video on Demand. To search The Best Darn Girls Library, say Library.'
-const hints=[' Show Me ',' Tell Me About ', ' I Choose ', ' Select ', ' '];
+//const mainMenu='For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For movies not yet in the theater, say Early Screening.   For Video on Demand reviews, say Video on Demand. To search The Best Darn Girls Library, say Library.'
+const hints=[' Show me ',' Tell me about ', ' I choose ', ' Select ', ' '];
 const libHints=['Look for', 'Look up', 'Find', 'How about', 'Search for' ];
 const smallLogo='https://s3.amazonaws.com/thebestdarngirls/library/small-image/APP_ICON.png';
 const largeLogo='https://s3.amazonaws.com/thebestdarngirls/library/large-image/APP_ICON.png';
@@ -39,6 +59,7 @@ let searchChoice = "";
 let choice;
 let repeat=false
 let offset=0;
+let maxResults = 5;
 
 let product = null;
 
@@ -51,6 +72,9 @@ const WelcomeHandler = {
 	},
 	handle(handlerInput) {
 		const request = handlerInput.requestEnvelope.request;
+		resetAll();
+		let mySettings = makeSettings(request.locale);
+
 		if (supportsAPL(handlerInput)) {
 			handlerInput.responseBuilder.addDirective({
 				type: 'Alexa.Presentation.APL.RenderDocument',
@@ -66,7 +90,7 @@ const WelcomeHandler = {
 						"textContent": {
 							"primaryText": {
 								"type": "PlainText",
-								"text": mainScreen
+								"text": mySettings.mainScreen
 							}
 						},
 						"logoSmallUrl": smallLogo,
@@ -79,14 +103,37 @@ const WelcomeHandler = {
 		repeat=false;
 
 		return handlerInput.responseBuilder
-			.speak(welcome)
-			.reprompt(mainMenu)
-			.withSimpleCard(skillName, mainOptions)
+			.speak(mySettings.welcome)
+			.reprompt(mySettings.mainMenu)
+			.withShouldEndSession(false)
+			.withSimpleCard(skillName, mySettings.mainOptions)
 			.getResponse();
 
 	}
 
 };
+
+function resetAll(){
+	menu;
+	searchChoice = "";
+	choice;
+	repeat=false
+	offset=0;
+	maxResults = 5;
+
+let product = null;
+}
+
+function makeSettings(myLocale){
+	console.log("local: "+ myLocale)
+	if(myLocale == "en-US" || myLocale == "en-GB"){
+		console.log("with locale and in if");
+		return premLocaleVar;
+	}else{
+		console.log("with locale and else");
+		return regLocaleVar;
+	}
+}
 
 function isProduct(product)
 {
@@ -118,33 +165,69 @@ const MainMenuHandler = {
 		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
 		
 		console.log(locale);
-		console.log(ms);
+		console.log(menu);
+		//console.log(ms);
+		let mySettings = makeSettings(locale);
+		if(typeof menu === 'undefined'){
+			if(supportsAPL(handlerInput)){
+			    handlerInput.responseBuilder.addDirective({
+ 				    type : 'Alexa.Presentation.APL.RenderDocument',
+ 				    document : Welcome,
+ 				    datasources : {
+ 				        "HomeTemplate":{
+ 				            "type": "object",
+ 			    	        "objectId": "command",
+ 			    	        "backgroundImage": {
+                                "sources": Background
+                            },
+ 				            "title": "Main Menu",
+ 				            "textContent": {
+ 				                "primaryText": {
+ 				                    "type": "PlainText",
+                                    "text": mySettings.mainScreen
+ 		    		            }
+ 			    	        },
+ 				            "logoSmallUrl":smallLogo,
+                            "logoLargeUrl":largeLogo
+ 				        }
+ 				    }
+			    });
+			}
+			resetAll();
+			return handlerInput.responseBuilder
+			.withShouldEndSession(false)
+      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
+      		.getResponse();
+		}
 
 		return ms.getInSkillProducts(locale).then(function(res) {
-			console.log("in return");
-			console.log(process.env.productName);
+			//console.log("in return");
+			//console.log(process.env.productName);
 			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
-			console.log(product);
+			//console.log(product);
   			if(menu.toLowerCase() === 'in the theater'){
+				console.log("menu if");
       			starter += getOptions(inTheTheater);
  	     		requestList = getList(inTheTheater);
   			}else if(menu.toLowerCase() === 'made for tv'){
+				console.log("menu 1st else if");
       			starter += getOptions(madeForTV);
       			requestList = getList(madeForTV);
  	 		}else if(menu.toLowerCase() === 'in stores'){
+				console.log("menu 2nd else if");
   				starter += getOptions(mustBuy);
   				requestList = getList(mustBuy);
  	 		}else if(menu.toLowerCase() === 'video on demand'){
+				console.log("menu third else if");
   				starter += getOptions(videoOnDemand);
 				requestList = getList(videoOnDemand);
 			}else if(menu.toLowerCase() === 'early screening'){
-				console.log("in early screening");
+				console.log("menu 4th else if");
 				if(isEntitled(product)){
-					console.log("entitled");
+			
 					starter += getOptions(earlyScreening);
 					requestList = getList(earlyScreening);
 				}else{
-					console.log("not entitled");
 					const upsell = "To hear early screening reviews, you must own Premium Access.  Do you want to learn more?"
 
 					return handlerInput.responseBuilder
@@ -161,12 +244,13 @@ const MainMenuHandler = {
 						}).getResponse();
 				}
   			}else if(menu.toLowerCase() === 'library'){
+				console.log("menu 5th else if");
 				if(isEntitled(product)){
   		    		if(repeat == true){
 						repeat=false;
 						return LibraryHandler.handle(handlerInput);
   		    		}else{
-  		 	        	starter = "Welcome to The Best Darn Girls Movie Review Library.  Say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie";
+  		 	        	starter = "Welcome to The Best Darn Girls Movie Review Library.  Say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie, like John Wick";
  	 		    	    isLibrary = true;
 						isEnd=false;
 						repeat = false;
@@ -190,6 +274,7 @@ const MainMenuHandler = {
 						}).getResponse();
 				}
   			}else{
+				console.log("menu 6th else if");
       			starter = `${sorry}`;
  			}
 
@@ -238,9 +323,13 @@ const MainMenuHandler = {
 	                            "primaryText":{
     	                            "type":"PlainText",
         	                        "text": starter
-            	                }
-                	        },
-                   	    "hintText": "Try, \""+ getRandomNumber(libHints, libHints.length, false) + "\" Hailey Dean Mysteries\""
+								},
+								"helpText":{
+									"type":"PlainText",
+									"text":"Try, \""+ getRandomNumber(libHints, libHints.length, false) + "\" Hailey Dean Mysteries\""
+								}
+                	        }//,
+                   	  //  "hintText": "Try, \""+ getRandomNumber(libHints, libHints.length, false) + "\" Hailey Dean Mysteries\""
 	                    }
     	            }
         	    });
@@ -248,7 +337,8 @@ const MainMenuHandler = {
 
  		return handlerInput.responseBuilder
  		  .speak(starter)
- 		  .reprompt(starter)
+		   .reprompt(starter)
+		   .withShouldEndSession(false)
  		  .withSimpleCard(skillName, starter)
  		  .getResponse();
 		})
@@ -263,8 +353,11 @@ const WhatCanIBuyHandler = {
 		  || request.intent.name === 'BuyIntent' ));
 	},
 	handle(handlerInput){
-		const locale = handlerInput.requestEnvelope.request.locale;
+		const request = handlerInput.requestEnvelope.request;
+		const locale = request.locale;
 		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
+
+		let mySettings = makeSettings(request.locale);
 
 		return ms.getInSkillProducts(locale).then(function(res) {
 			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
@@ -285,7 +378,7 @@ const WhatCanIBuyHandler = {
 								"textContent": {
 									"primaryText": {
 										"type": "PlainText",
-										"text": mainScreen
+										"text": mySettings.mainScreen
 									}
 								},
 								"logoSmallUrl": smallLogo,
@@ -297,10 +390,11 @@ const WhatCanIBuyHandler = {
 				}
 
 				const speakResponse = "You have Premium Access.  There are no other products to purchase.  ";
-
+				resetAll();
 				return handlerInput.responseBuilder
-				  .speak(speakResponse + " " + mainMenu)
-				  .reprompt(welcome)
+				  .speak(speakResponse + " " + mySettings.mainMenu)
+				  .withShouldEndSession(false)
+				  .reprompt(mySettings.welcome)
 				  .getResponse();
 			}else{
 				return handlerInput.responseBuilder
@@ -327,10 +421,13 @@ const CancelPurchaseHandler = {
 		    && request.intent.name === 'CancelPurchaseIntent';
 	},
 	async handle(handlerInput){
-
+		const request = handlerInput.requestEnvelope.request;
+		const locale = request.locale;
 		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
 
-		return ms.getInSkillProducts(handlerInput.requestEnvelope.request.locale).then((res) => {
+		let mySettings = makeSettings(locale);
+
+		return ms.getInSkillProducts(locale).then((res) => {
 			const product = res.inSkillProducts.filter(record => record.referenceName === process.env.productName);
 			if(isEntitled(product)){
 				return handlerInput.responseBuilder
@@ -361,7 +458,7 @@ const CancelPurchaseHandler = {
 								"textContent":{
 									"primaryText": {
 										"type": "PlainText",
-										"text": mainScreen
+										"text": mySettings.mainScreen
 									}
 								},
 								"logoSmallUrl": smallLogo,
@@ -370,11 +467,12 @@ const CancelPurchaseHandler = {
 						}
 					});
 				}
-
+				resetAll();
 				const speakResponse = "You do not own Premium Access.  If you would like to purchase it say, Alexa ask The Best Darn Girls to purchase Premium Access.  ";
 				return handlerInput.responseBuilder
-				  .speak(speakResponse + " " + mainMenu)
-				  .reprompt(welcome)
+				  .speak(speakResponse + " " + mySettings.mainMenu)
+				  .withShouldEndSession(false)
+				  .reprompt(mySettings.welcome)
 				  .getResponse();
 
 			}
@@ -391,6 +489,10 @@ const UpsellResponseHandler = {
 	},
 	handle(handlerInput){
 		const request = handlerInput.requestEnvelope.request;
+		let locale = request.locale;
+
+		let mySettings = makeSettings(locale);
+
 		if(request.status.code = 200) {
 			if (supportsAPL(handlerInput)) {
 				handlerInput.responseBuilder.addDirective({
@@ -407,7 +509,7 @@ const UpsellResponseHandler = {
 							"textContent": {
 								"primaryText": {
 									"type": "PlainText",
-									"text": mainScreen
+									"text": mySettings.mainScreen
 								}
 							},
 							"logoSmallUrl": smallLogo,
@@ -420,22 +522,26 @@ const UpsellResponseHandler = {
 
 			if(request.payload.purchaseResult == 'DECLINED'){
 				const speakResponse = "You cannot search the library or hear early screening reviews without Premium Access.  However, you can still get the latest reviews.  If you would like to purchase Premium Access say, Alexa ask The Best Darn Girls to purchase Premium Access.  ";
-
+				resetAll();
 				return handlerInput.responseBuilder
-				  .speak(speakResponse + " " + mainMenu)
-				  .reprompt(welcome)
+				  .speak(speakResponse + " " + mySettings.mainMenu)
+				  .reprompt(mySettings.welcome)
+				  .withShouldEndSession(false)
 				  .getResponse();
 			}else if(request.payload.purchaseResult == 'ACCEPTED'){
+				resetAll();
 				const speakResponse = "Congratulations, you have Premium Access!  You can search the library and have access to exclusive reviews.  Happy searching!";
 				return handlerInput.responseBuilder
-				  .speak(speakResponse + " " + mainMenu)
-				  .reprompt(welcome)
+				  .speak(speakResponse + " " + mySettings.mainMenu)
+				  .reprompt(mySettings.mainMenu)
+				  .withShouldEndSession(false)
 				  .getResponse();
 			}
 		}else{
 			console.log("Connections.Response failure.  Error is: " + request.status.message);
 			return handlerInput.responseBuilder
 			  .speak("I did not understand.  Say your response again.")
+			  .withShouldEndSession(false)
 			  .getResponse();
 		}
 	}
@@ -449,31 +555,85 @@ const MovieChoicesHandler = {
 		  || request.type === 'Display.ElementSelected';
 	},
 	handle(handlerInput){
-		if (handlerInput.requestEnvelope.request.token) {
-			choice = handlerInput.requestEnvelope.request.token;
-		}else if(handlerInput.requestEnvelope.request.intent.slots.choice){
-			choice = handlerInput.requestEnvelope.request.intent.slots.choice.value;
+		const request = handlerInput.requestEnvelope.request;
+		if (request.token) {
+			choice = request.token;
+		}else if(request.intent.slots.choice){
+			choice = request.intent.slots.choice.value;
+		}else{
+			console.log("no choice value!!!!");
 		}
 
     	let review = `${sorry}`;
-    	let element;
+		let element;
+		let starter = '';
+		console.log("in movie choice handler");
+		console.log("menu: " + menu);
+		let mySettings = makeSettings(request.locale);
+		if(typeof menu === 'undefined'){
+			if(supportsAPL(handlerInput)){
+			    handlerInput.responseBuilder.addDirective({
+ 				    type : 'Alexa.Presentation.APL.RenderDocument',
+ 				    document : Welcome,
+ 				    datasources : {
+ 				        "HomeTemplate":{
+ 				            "type": "object",
+ 			    	        "objectId": "command",
+ 			    	        "backgroundImage": {
+                                "sources": Background
+                            },
+ 				            "title": "Main Menu",
+ 				            "textContent": {
+ 				                "primaryText": {
+ 				                    "type": "PlainText",
+                                    "text": mySettings.mainScreen
+ 		    		            }
+ 			    	        },
+ 				            "logoSmallUrl":smallLogo,
+                            "logoLargeUrl":largeLogo
+ 				        }
+ 				    }
+			    });
+			}
+			resetAll();
+			return handlerInput.responseBuilder
+			.withShouldEndSession(false)
+      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
+      		.getResponse();
+		}
 
   		if(menu.toLowerCase() === 'in the theater'){
-  			element = getCardInfo(inTheTheater, choice);
+			  element = getCardInfo(inTheTheater, choice);
+			  starter += getOptions(inTheTheater);
+			  maxResults = 5;
 	  	}else if(menu.toLowerCase() === 'made for tv'){
-  			element = getCardInfo(madeForTV, choice);
+			  element = getCardInfo(madeForTV, choice);
+			  starter += getOptions(madeForTV);
+			  maxResults = 5;
  	 	}else if(menu.toLowerCase() === 'in stores'){
-  			element = getCardInfo(mustBuy, choice);
+			  element = getCardInfo(mustBuy, choice);
+			  starter += getOptions(mustBuy);
+			  maxResults = 5;
 	  	}else if(menu.toLowerCase() === 'video on demand'){
 			element = getCardInfo(videoOnDemand, choice);
+			starter += getOptions(videoOnDemand);
+			maxResults = 5;
 		}else if(menu.toLowerCase() === 'early screening'){
 			element = getCardInfo(earlyScreening, choice);
+			starter += getOptions(earlyScreening);
+			maxResults = 2;
   		}else if(menu.toLowerCase() === 'library'){
-  		    element = getCardInfo(libraryList, choice);
-  		}
+			  element = getCardInfo(libraryList, choice);
+			  starter += getOptions(libraryList);
+		}
 
-    	if(element){
+		console.log(menu.toLowerCase());
+		console.log(element);
+		console.log(choice);
+    	if(typeof element !== 'undefined'){
+			console.log("in typeof if")
     		if(supportsAPL(handlerInput)){
+				console.log("in supportsapl")
  				handlerInput.responseBuilder.addDirective({
                     type: 'Alexa.Presentation.APL.RenderDocument',
                     document : Review,
@@ -513,9 +673,17 @@ const MovieChoicesHandler = {
       		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       		  .getResponse();
       	}else{
-      		return handlerInput.responseBuilder
-      		.speak(review)
-      		.getResponse();
+			  console.log("in the right place");
+			  let speakOutput = "You have made an incorrect selection. Pick ";
+			  if(maxResults > 1){
+				  speakOutput += "a number between 1 and " + maxResults+". ";
+			  }else{
+				  speakOutput += "one."
+			  }
+			  return handlerInput.responseBuilder
+			  .speak(speakOutput + starter)
+			  .withShouldEndSession(false)
+      		  .getResponse();
     	}
 	}
 };
@@ -529,9 +697,9 @@ const LibraryHandler = {
     async handle(handlerInput){
         const request = handlerInput.requestEnvelope.request;
         if(request.intent.slots && offset == 0){
-			if(request.intent.slots.selection != null && request.intent.slots.query != null){
-           		if (request.intent.slots.selection.value != null){
-                	choice = request.intent.slots.selection.value;
+			if(request.intent.slots.MovieList != null && request.intent.slots.query != null){
+           		if (request.intent.slots.MovieList.value != null){
+                	choice = request.intent.slots.MovieList.value;
             	}else if(request.intent.slots.query.value != null){
                 	choice = request.intent.slots.query.value;
             	}
@@ -539,10 +707,10 @@ const LibraryHandler = {
 		}
 		let rows;
 		let parsedChoice;
-
+		console.log("in library handler");
 
 		if(request.intent.slots != null){
-			if(request.intent.slots.selection != null || request.intent.slots.query != null){
+			if(request.intent.slots.MovieList != null || request.intent.slots.query != null){
 				parsedChoice = choice.toLowerCase().replace('/ /g','%');
 				searchChoice = parsedChoice;
 			}else{
@@ -617,7 +785,9 @@ const LibraryHandler = {
 		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
 		
 		return ms.getInSkillProducts(locale).then(function(res) {
-		product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
+			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
+			console.log("in return.ms for library handler");
+			console.log(product)
 			if(isEntitled(product)){
 				if(supportsAPL(handlerInput) && rows[0] != ""){
 
@@ -651,7 +821,7 @@ const LibraryHandler = {
 		                }
         		    }); //end handler
 		        }else if(supportsAPL(handlerInput) && rows[0] == "" && offset == 0){
-        		    starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " and a movie title or say main menu.";
+        		    starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " Creed, John Wick, Wreck-it Ralph, Aurora Teagarden, or Hailey Dean Mysteries.  The latest movies added are Good Witch, Shaft, Killer Contractor, and Love, Fall, and Order.";
 
 		            handlerInput.responseBuilder.addDirective({
         		        type: 'Alexa.Presentation.APL.RenderDocument',
@@ -679,11 +849,13 @@ const LibraryHandler = {
 
         		return handlerInput.responseBuilder
         			.speak(starter)
-		        	.reprompt(starter)
+					.reprompt(starter)
+					.withShouldEndSession(false)
         			.withSimpleCard(skillName, starter)
         			.getResponse();
     		}else{
 				const upsell = "To seach the library, you must own Premium Access.  Do you want to learn more?"
+				console.log('in upsell for library handler');
 				return handlerInput.responseBuilder
 					.addDirective({
 						'type': 'Connections.SendRequest',
@@ -710,8 +882,12 @@ const CommandsHandler = {
 		  && request.intent.name === 'Commands');
 	},
 	handle(handlerInput){
-		let com = handlerInput.requestEnvelope.request.intent.slots.command.value;
-
+		const request = handlerInput.requestEnvelope.request
+		let com = request.intent.slots.command.value;
+		let locale = request.locale
+		let mySettings = makeSettings(locale);
+		console.log("in commands handler");
+		console.log(com);
 		if(com.toLowerCase() === 'repeat'){
 		    repeat=true;
 			return MovieChoicesHandler.handle(handlerInput);
@@ -721,6 +897,7 @@ const CommandsHandler = {
 		}else if(com.toLowerCase() === 'main menu'){
 			return WelcomeHandler.handle(handlerInput);
 		}else{
+			console.log("in else for command handler");
 			if(supportsAPL(handlerInput)){
 			    handlerInput.responseBuilder.addDirective({
  				    type : 'Alexa.Presentation.APL.RenderDocument',
@@ -736,7 +913,7 @@ const CommandsHandler = {
  				            "textContent": {
  				                "primaryText": {
  				                    "type": "PlainText",
-                                    "text": mainScreen
+                                    "text": mySettings.mainScreen
  		    		            }
  			    	        },
  				            "logoSmallUrl":smallLogo,
@@ -744,9 +921,11 @@ const CommandsHandler = {
  				        }
  				    }
 			    });
-            }
+			}
+			resetAll();
 			return handlerInput.responseBuilder
-      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mainMenu)
+			.withShouldEndSession(false)
+      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
       		.getResponse();
 		}
 	}
@@ -788,6 +967,7 @@ const ExitHandler = {
 	},
 	handle(handlerInput) {
 		const request = handlerInput.requestEnvelope.request;
+		let mySettings = makeSettings(request.locale);
 
 		if(request.type === 'IntentRequest'){
 			if(supportsAPL(handlerInput)){
@@ -837,7 +1017,7 @@ const ExitHandler = {
 							"textContent": {
 								"primaryText": {
 									"type": "PlainText",
-									"text": mainScreen
+									"text": mySettings.mainScreen
 								}
 							},
 							"logoSmallUrl": smallLogo,
@@ -857,12 +1037,14 @@ const ExitHandler = {
 			}
 
 			return handlerInput.responseBuilder
-           		.speak(speakResponse + " " + mainMenu)
-           		.reprompt(welcome)
+           		.speak(speakResponse + " " + mySettings.mainMenu)
+				.withShouldEndSession(false)
+           		.reprompt(mySettings.welcome)
            		.getResponse();
 		}else{
 			return handlerInput.responseBuilder
     	       .speak("I did not understand.  Say your response again.")
+				.withShouldEndSession(false)
         	   .getResponse();
 		}
 	}
@@ -875,8 +1057,10 @@ const HelpHandler = {
 		  && request.intent.name === 'AMAZON.HelpIntent';
 	},
 	handle(handlerInput){
-		let helpMessage = "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https:// that darn girl movie dot reviews.  "
-		let helpScreen =  "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https://thatdarngirlmovie.reviews.<br/><br/>  "
+		//let helpMessage = "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https:// that darn girl movie dot reviews.  "
+		//let helpScreen =  "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https://thatdarngirlmovie.reviews.<br/><br/>  "
+		const request = handlerInput.requestEnvelope.request;
+		let mySettings = makeSettings(request.locale);
 
 		if(supportsAPL(handlerInput)){
             handlerInput.responseBuilder.addDirective({
@@ -893,11 +1077,11 @@ const HelpHandler = {
             		    "textContent": {
             		        "helpText": {
             		            "type": "PlainText",
-            		            "text": helpScreen
+            		            "text": mySettings.helpScreen 
             		        },
                   		    "primaryText": {
             	    	        "type": "PlainText",
-        	    	            "text": mainScreen
+        	    	            "text": mySettings.mainScreen
         		            }
         		        },
             		    "logoSmallUrl":smallLogo,
@@ -908,10 +1092,11 @@ const HelpHandler = {
         }
 
 		return handlerInput.responseBuilder
-	  	  .speak(helpMessage.concat(welcome))
-	  	  .reprompt(mainOptions)
-	  	  .withSimpleCard(skillName, mainOptions)
-	  	  .getResponse();
+			.speak(mySettings.helpMessage.concat(mySettings.welcome))
+			.withShouldEndSession(false)
+	  	    .reprompt(mySettings.mainOptions)
+	  	    .withSimpleCard(skillName, mySettings.mainOptions)
+	  	    .getResponse();
 	}
 };
 
@@ -923,7 +1108,9 @@ const SessionEndedRequestHandler = {
 	handle(handlerInput){
 		console.log(`Session ended with reason: ${handlerInput.requestEnvelope.request.reason}`);
 
-		return handlerInput.responseBuilder.getResponse();
+		return handlerInput.responseBuilder
+		.withShouldEndSession(true)
+		.getResponse();
 	}
 };
 
@@ -1010,14 +1197,19 @@ function parseResults(rowReturns, rowCount, phrase){
 
 		if(rowCount == Number(1)){
 			starter += "You have one result.  Pick the corresponding number.\n\n";
+			maxResults = 1;
 		}else if(rowCount > Number(10) && offset == Number(0)){
 			starter += "You have "+rowCount+" results.  Here are your first 10 results. For the next 10, say skip.  Pick the corresponding number.\n\n";
+			maxResults = 10;
 		}else if(rowCount > Number(10) && ((offset + 10) >= rowCount)){
 			starter += "You have "+rowCount+" results.  Here are your final results.  For the previous 10, say previous.  Pick the corresponding number.\n\n";
+			maxResults = rowCount - offset;
 		}else if(rowCount > 10 && offset > 0){
 			starter += "You have "+rowCount+" results.  Here are your next 10 results.  For the more results, say skip.  For the previous 10, say previous.  Pick the corresponding numbers.\n\n";
+			maxResults = 10;
 		}else{
 			starter += "You have "+rowCount+" results.  Pick the corresponding number.\n\n";
+			maxResults = rowCount;
 		}
 
 		starter += getOptions(newData);
