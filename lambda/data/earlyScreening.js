@@ -11,7 +11,7 @@ var earlyScreening = [
     {
       "option":"2",
       "mtitle":"Knives Out",
-      "review":"Benoit Blanc recieved an envelope under his door one day.  In side was a newsclipping of Harlan Thrombey and a large sum of money.  A week ago, Harlan committed suicide after his 85th birthday party.  After sitting down with each of his family member, Benoit believes Harlan was murdered.  Now he must figure out who, how, and why?  It comes down to lies, mud, and Watson.<br/><br/>Movies this good are hard to come by.  It is as funny as it mysterious.  So many of his family members, nurse, and housekeeper have a reason to kill him.  It allows the twist and turns to be endless.  You will be guessing, laughing, and intrigued until the end.<br/><br/>5 out of 5 stars.",
+      "review":"Benoit Blanc recieved an envelope under his door one day.  Inside was a newsclipping of Harlan Thrombey and a large sum of money.  A week ago, Harlan committed suicide after his 85th birthday party.  After sitting down with each of his family members, Benoit believes Harlan was murdered.  Now, he must figure out who, how, and why?  It comes down to lies, mud, and Watson.<br/><br/>Movies this good are hard to come by.  It is as funny as it is mysterious.  With his family members, his nurse, and his housekeeper all having a reason to kill him, this movie allows the twist and turns to be endless.  You will be guessing, laughing, and intrigued until the end.<br/><br/>5 out of 5 stars.",
       "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/knivesout.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/knivesout.jpg"

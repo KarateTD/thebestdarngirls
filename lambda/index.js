@@ -12,7 +12,7 @@ const premLocaleVar = {
 	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.',
 	mainOptions: '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand\n\t* Early Screening - Premium Access Only\n\t* Library - Premium Access Only',
 	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand<br/>* Early Screening - Premium Access Only<br/>* Library - Premium Access Only',
-	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For movies not yet in the theater, say Early Screening.   For Video on Demand reviews, say Video on Demand. To search The Best Darn Girls Library, say Library.',
+	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.   For Video on Demand reviews, say Video on Demand.  For movies not yet in the theater, say Early Screening.  To search The Best Darn Girls Library, say Library.',
 	helpMessage: "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https:// that darn girl movie dot reviews.  ",
 	helpScreen:  "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https://thatdarngirlmovie.reviews.<br/><br/>  "
 
@@ -58,6 +58,7 @@ let offset=0;
 let maxResults = 5;
 
 let product = null;
+let firstTime = true;
 
 const WelcomeHandler = {
 	canHandle(handlerInput){
@@ -97,10 +98,15 @@ const WelcomeHandler = {
 			});
 		}
 		repeat=false;
+		let greeting = mySettings.mainMenu;
+		if(firstTime){
+			firstTime=false;
+			greeting = mySettings.welcome
+		}
 
 		return handlerInput.responseBuilder
-			.speak(mySettings.welcome)
-			.reprompt(mySettings.mainMenu)
+			.speak(greeting)
+			.reprompt(greeting)
 			.withShouldEndSession(false)
 			.withSimpleCard(skillName, mySettings.mainOptions)
 			.getResponse();
@@ -390,7 +396,7 @@ const WhatCanIBuyHandler = {
 				return handlerInput.responseBuilder
 				  .speak(speakResponse + " " + mySettings.mainMenu)
 				  .withShouldEndSession(false)
-				  .reprompt(mySettings.welcome)
+				  .reprompt(mySettings.mainMenu)
 				  .getResponse();
 			}else{
 				return handlerInput.responseBuilder
@@ -468,7 +474,7 @@ const CancelPurchaseHandler = {
 				return handlerInput.responseBuilder
 				  .speak(speakResponse + " " + mySettings.mainMenu)
 				  .withShouldEndSession(false)
-				  .reprompt(mySettings.welcome)
+				  .reprompt(mySettings.mainMenu)
 				  .getResponse();
 
 			}
@@ -521,7 +527,7 @@ const UpsellResponseHandler = {
 				resetAll();
 				return handlerInput.responseBuilder
 				  .speak(speakResponse + " " + mySettings.mainMenu)
-				  .reprompt(mySettings.welcome)
+				  .reprompt(mySettings.mainMenu)
 				  .withShouldEndSession(false)
 				  .getResponse();
 			}else if(request.payload.purchaseResult == 'ACCEPTED'){
@@ -665,7 +671,8 @@ const MovieChoicesHandler = {
 
       		return handlerInput.responseBuilder
       		  .speak(element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack))
-      		  .reprompt(repeatGoBack)
+				.reprompt(repeatGoBack)
+				.withShouldEndSession(false)
       		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       		  .getResponse();
       	}else{
@@ -1035,7 +1042,7 @@ const ExitHandler = {
 			return handlerInput.responseBuilder
            		.speak(speakResponse + " " + mySettings.mainMenu)
 				.withShouldEndSession(false)
-           		.reprompt(mySettings.welcome)
+           		.reprompt(mySettings.mainMenu)
            		.getResponse();
 		}else{
 			return handlerInput.responseBuilder
@@ -1088,7 +1095,7 @@ const HelpHandler = {
         }
 
 		return handlerInput.responseBuilder
-			.speak(mySettings.helpMessage.concat(mySettings.welcome))
+			.speak(mySettings.helpMessage.concat(mySettings.mainMenu))
 			.withShouldEndSession(false)
 	  	    .reprompt(mySettings.mainOptions)
 	  	    .withSimpleCard(skillName, mySettings.mainOptions)
@@ -1103,7 +1110,7 @@ const SessionEndedRequestHandler = {
 	},
 	handle(handlerInput){
 		console.log(`Session ended with reason: ${handlerInput.requestEnvelope.request.reason}`);
-
+		firstTime = true;
 		return handlerInput.responseBuilder
 		.withShouldEndSession(true)
 		.getResponse();
@@ -1116,7 +1123,7 @@ const ErrorHandler = {
 	},
 	handle(handlerInput, error){
 	  console.log(`Error handled: ${error.message}`);
-
+		firstTime = true;
 	  return handlerInput.responseBuilder
 	    .speak('Sorry, an error occurred.')
 	    .reprompt('Sorry, an error occurred.')
