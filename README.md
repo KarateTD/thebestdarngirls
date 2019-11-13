@@ -105,7 +105,8 @@ Create an account on the Alexa Developer Console and the AWS Management Console.
 	<li>AWSLambdaBasicExecutonRole</li>
 	<li>AWSLambdaVPCAccessExecutionRole</li>
 </ul>
-Then create an Aurora MySQL 5.6 DB cluster with the following following table setup
+Then create an Aurora MySQL 5.6 DB cluster with the following following table setup:
+
 ```sql
 CREATE TABLE reviews (
 	ID int NOT NULL AUTO_INCREMENT,
@@ -136,7 +137,8 @@ Next, create an AWS Secrets Manager with the automatic rotation disabled.  Then,
 	<li>Execution Role: Role created above</li>
 </ul>
 
-Create a CodePipeline.  The CodeCommit should use your GitHub Repo with this code.  The CodeBuild should run the following steps
+Create a CodePipeline.  The CodeCommit should use your GitHub Repo with this code.  The CodeBuild should run the following steps:
+
 ```bash
 cd lambda
 npm install
