@@ -108,12 +108,12 @@ Create an account on the Alexa Developer Console and the AWS Management Console.
 Then create an Aurora MySQL 5.6 DB cluster with the following following table setup
 ```sql
 CREATE TABLE reviews (
-	ID int NOT NULL AUTO_INCREMENT,
-	Title varchar(255) NOT NULL,
-	Rating float NOT NULL,
-	Image varchar(255) NOT NULL,
-	Review blob(4000) NOT NULL,
-	PRIMARY KEY (ID)
+ID int NOT NULL AUTO_INCREMENT,
+Title varchar(255) NOT NULL,
+Rating float NOT NULL,
+Image varchar(255) NOT NULL,
+Review blob(4000) NOT NULL,
+PRIMARY KEY (ID)
 );
 ```
 Next, create an AWS Secrets Manager with the automatic rotation disabled.  Then, in the AWS Management Console, create 2 Lambda functions with
