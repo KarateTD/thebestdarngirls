@@ -68,6 +68,7 @@ const WelcomeHandler = {
 			&& request.intent.name === 'AMAZON.NavigateHomeIntent');
 	},
 	handle(handlerInput) {
+		console.log("In Welcome Intent");
 		const request = handlerInput.requestEnvelope.request;
 		resetAll();
 		let mySettings = makeSettings(request.locale);
@@ -154,6 +155,7 @@ const MainMenuHandler = {
 		  && request.intent.name === 'MenuSelection');
 	},
 	handle(handlerInput){
+		console.log("In Main Menu Intent");
 		const request = handlerInput.requestEnvelope.request;
 		if(request.intent.slots.menu){
 			menu = request.intent.slots.menu.value;
@@ -166,12 +168,11 @@ const MainMenuHandler = {
 		const locale = request.locale;
 		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
 		
-		//console.log(locale);
-		//console.log(menu);
-		//console.log(ms);
 		let mySettings = makeSettings(locale);
 		if(typeof menu === 'undefined'){
+			console.log("**undefinded type");
 			if(supportsAPL(handlerInput)){
+				console.log("****in if");
 			    handlerInput.responseBuilder.addDirective({
  				    type : 'Alexa.Presentation.APL.RenderDocument',
  				    document : Welcome,
@@ -203,33 +204,33 @@ const MainMenuHandler = {
 		}
 
 		return ms.getInSkillProducts(locale).then(function(res) {
-			//console.log("in return");
-			//console.log(process.env.productName);
+			console.log("** in return");
 			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
-			//console.log(product);
+			
   			if(menu.toLowerCase() === 'in the theater'){
-			//	console.log("menu if");
+				console.log("**** in the theater");
       			starter += getOptions(inTheTheater);
  	     		requestList = getList(inTheTheater);
   			}else if(menu.toLowerCase() === 'made for tv'){
-			//	console.log("menu 1st else if");
+				console.log("**** made for tv");
       			starter += getOptions(madeForTV);
       			requestList = getList(madeForTV);
  	 		}else if(menu.toLowerCase() === 'in stores'){
-			//	console.log("menu 2nd else if");
+				console.log("**** in stores");
   				starter += getOptions(mustBuy);
   				requestList = getList(mustBuy);
  	 		}else if(menu.toLowerCase() === 'video on demand'){
-			//	console.log("menu third else if");
+				console.log("**** video on demand");
   				starter += getOptions(videoOnDemand);
 				requestList = getList(videoOnDemand);
 			}else if(menu.toLowerCase() === 'early screening'){
-			//	console.log("menu 4th else if");
+				console.log("**** early screening");
 				if(isEntitled(product)){
-			
+					console.log("****** if product is entitiled");
 					starter += getOptions(earlyScreening);
 					requestList = getList(earlyScreening);
 				}else{
+					console.log("****** product not entitled");
 					const upsell = "To hear early screening reviews, you must own Premium Access.  Do you want to learn more?"
 
 					return handlerInput.responseBuilder
@@ -246,12 +247,15 @@ const MainMenuHandler = {
 						}).getResponse();
 				}
   			}else if(menu.toLowerCase() === 'library'){
-			//	console.log("menu 5th else if");
+				console.log("**** library");
 				if(isEntitled(product)){
+					console.log("****** entitled");
   		    		if(repeat == true){
+						console.log("******** repeating");
 						repeat=false;
 						return LibraryHandler.handle(handlerInput);
   		    		}else{
+						console.log("******** not repeating");
   		 	        	starter = "Welcome to The Best Darn Girls Movie Review Library.  Say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie, like John Wick";
  	 		    	    isLibrary = true;
 						isEnd=false;
@@ -260,6 +264,7 @@ const MainMenuHandler = {
   		        		offset=0;
 					}
 				}else{
+					console.log("****** not entitled");
 					const upsell = "Before you can search the library, you must own Premium Access.  Do you want to learn more?"
 
 					return handlerInput.responseBuilder
@@ -276,12 +281,12 @@ const MainMenuHandler = {
 						}).getResponse();
 				}
   			}else{
-				//console.log("menu 6th else if");
+				console.log("**** something is wrong");
       			starter = `${sorry}`;
  			}
 
  			if(supportsAPL(handlerInput) && requestList){
-
+				console.log("****** has screen and not library")
             	handlerInput.responseBuilder.addDirective({
                 	type: 'Alexa.Presentation.APL.RenderDocument',
  	               document : MovieOptions,
@@ -309,6 +314,7 @@ const MainMenuHandler = {
            		});
 
  			}else if(supportsAPL(handlerInput) && isLibrary){
+				console.log("****** has screen and is library")
  			    handlerInput.responseBuilder.addDirective({
         	        type: 'Alexa.Presentation.APL.RenderDocument',
             	    document : LibraryWelcome,
@@ -330,8 +336,7 @@ const MainMenuHandler = {
 									"type":"PlainText",
 									"text":"Try, \""+ getRandomNumber(libHints, libHints.length, false) + "\" Hailey Dean Mysteries\""
 								}
-                	        }//,
-                   	  //  "hintText": "Try, \""+ getRandomNumber(libHints, libHints.length, false) + "\" Hailey Dean Mysteries\""
+                	        }
 	                    }
     	            }
         	    });
@@ -557,23 +562,23 @@ const MovieChoicesHandler = {
 		  || request.type === 'Display.ElementSelected';
 	},
 	handle(handlerInput){
+		console.log("in movie choice intent")
 		const request = handlerInput.requestEnvelope.request;
 		if (request.token) {
 			choice = request.token;
 		}else if(request.intent.slots.choice){
 			choice = request.intent.slots.choice.value;
-		}//else{
-			//console.log("no choice value!!!!");
-		//}
+		}
 
-    	//let review = `${sorry}`;
+
 		let element;
 		let starter = '';
-		//console.log("in movie choice handler");
-		//console.log("menu: " + menu);
+
 		let mySettings = makeSettings(request.locale);
 		if(typeof menu === 'undefined'){
+			console.log("** im menu is undefined")
 			if(supportsAPL(handlerInput)){
+				console.log("**** if it has a screen")
 			    handlerInput.responseBuilder.addDirective({
  				    type : 'Alexa.Presentation.APL.RenderDocument',
  				    document : Welcome,
@@ -605,37 +610,40 @@ const MovieChoicesHandler = {
 		}
 
   		if(menu.toLowerCase() === 'in the theater'){
+			console.log("** in the theater")
 			  element = getCardInfo(inTheTheater, choice);
 			  starter += getOptions(inTheTheater);
 			  maxResults = 5;
 	  	}else if(menu.toLowerCase() === 'made for tv'){
+			console.log("** made for tv" )
 			  element = getCardInfo(madeForTV, choice);
 			  starter += getOptions(madeForTV);
 			  maxResults = 5;
  	 	}else if(menu.toLowerCase() === 'in stores'){
+			console.log("** in stores")
 			  element = getCardInfo(mustBuy, choice);
 			  starter += getOptions(mustBuy);
 			  maxResults = 5;
 	  	}else if(menu.toLowerCase() === 'video on demand'){
+			console.log("** video on demand")
 			element = getCardInfo(videoOnDemand, choice);
 			starter += getOptions(videoOnDemand);
 			maxResults = 5;
 		}else if(menu.toLowerCase() === 'early screening'){
+			console.log("**  early screening")
 			element = getCardInfo(earlyScreening, choice);
 			starter += getOptions(earlyScreening);
 			maxResults = 2;
   		}else if(menu.toLowerCase() === 'library'){
+			console.log("** library")
 			  element = getCardInfo(libraryList, choice);
 			  starter += getOptions(libraryList);
 		}
 
-		//console.log(menu.toLowerCase());
-		//console.log(element);
-		//console.log(choice);
     	if(typeof element !== 'undefined'){
-		//	console.log("in typeof if")
+			console.log("** if element is not undefined")
     		if(supportsAPL(handlerInput)){
-			//	console.log("in supportsapl")
+				console.log("**** if it has screen")
  				handlerInput.responseBuilder.addDirective({
                     type: 'Alexa.Presentation.APL.RenderDocument',
                     document : Review,
@@ -676,7 +684,7 @@ const MovieChoicesHandler = {
       		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       		  .getResponse();
       	}else{
-			  //console.log("in the right place");
+			console.log("** else elemnt is defined")
 			  let speakOutput = "You have made an incorrect selection. Pick ";
 			  if(maxResults > 1){
 				  speakOutput += "a number between 1 and " + maxResults+". ";
@@ -698,25 +706,32 @@ const LibraryHandler = {
           && request.intent.name === 'Library');
     },
     async handle(handlerInput){
+		console.log("Library intent")
         const request = handlerInput.requestEnvelope.request;
         if(request.intent.slots && offset == 0){
+			console.log("** if slots defined and offset is 0")
 			if(request.intent.slots.MovieList != null && request.intent.slots.query != null){
+				console.log("**** movielist and query have values")
            		if (request.intent.slots.MovieList.value != null){
+					console.log("****** if movie list has valeu")
                 	choice = request.intent.slots.MovieList.value;
             	}else if(request.intent.slots.query.value != null){
+					console.log("****** if query has value")
                 	choice = request.intent.slots.query.value;
             	}
 			}
 		}
 		let rows;
 		let parsedChoice;
-		//console.log("in library handler");
 
 		if(request.intent.slots != null){
+			console.log("** if slots are not null")
 			if(request.intent.slots.MovieList != null || request.intent.slots.query != null){
+				console.log("**** if movie list is not null or query is not null")
 				parsedChoice = choice.toLowerCase().replace('/ /g','%');
 				searchChoice = parsedChoice;
 			}else{
+				console.log("**** both were empty")
 				parsedChoice = searchChoice;
 			}
 		}else{
@@ -725,7 +740,7 @@ const LibraryHandler = {
 		
 		let starter = null;
 		try{
-
+			console.log("** in try")
 			const paramsSecond = {
 				secretArn: process.env.secretArn,
 				resourceArn: process.env.resourceArn,
@@ -789,14 +804,14 @@ const LibraryHandler = {
 		
 		return ms.getInSkillProducts(locale).then(function(res) {
 			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
-			//console.log("in return.ms for library handler");
-			//console.log(product)
+			console.log("** in return")
 			if(isEntitled(product)){
+				console.log("**** product owned")
+				starter = rows[0];
+		        let requestList = rows[1];
+        		libraryList = rows[2];
 				if(supportsAPL(handlerInput) && rows[0] != ""){
-
-        		    starter = rows[0];
-		            let requestList = rows[1];
-        		    libraryList = rows[2];
+					console.log("******* has screen")
 
 		            handlerInput.responseBuilder.addDirective({
         		        type: 'Alexa.Presentation.APL.RenderDocument',
@@ -825,7 +840,7 @@ const LibraryHandler = {
         		    }); //end handler
 		        }else if(supportsAPL(handlerInput) && rows[0] == "" && offset == 0){
         		    starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " Creed, John Wick, Wreck-it Ralph, Aurora Teagarden, or Hailey Dean Mysteries.  The latest movies added are Good Witch, Shaft, Killer Contractor, and Love, Fall, and Order.";
-
+					console.log("******* no serch values")
 		            handlerInput.responseBuilder.addDirective({
         		        type: 'Alexa.Presentation.APL.RenderDocument',
                 		document : LibraryWelcome,
@@ -858,7 +873,7 @@ const LibraryHandler = {
         			.getResponse();
     		}else{
 				const upsell = "To seach the library, you must own Premium Access.  Do you want to learn more?"
-				//console.log('in upsell for library handler');
+				console.log("**** upsell")
 				return handlerInput.responseBuilder
 					.addDirective({
 						'type': 'Connections.SendRequest',
@@ -889,8 +904,7 @@ const CommandsHandler = {
 		let com = request.intent.slots.command.value;
 		let locale = request.locale
 		let mySettings = makeSettings(locale);
-		//console.log("in commands handler");
-		//console.log(com);
+
 		if(com.toLowerCase() === 'repeat'){
 		    repeat=true;
 			return MovieChoicesHandler.handle(handlerInput);
@@ -900,7 +914,7 @@ const CommandsHandler = {
 		}else if(com.toLowerCase() === 'main menu'){
 			return WelcomeHandler.handle(handlerInput);
 		}else{
-		//	console.log("in else for command handler");
+
 			if(supportsAPL(handlerInput)){
 			    handlerInput.responseBuilder.addDirective({
  				    type : 'Alexa.Presentation.APL.RenderDocument',
@@ -971,9 +985,11 @@ const ExitHandler = {
 	handle(handlerInput) {
 		const request = handlerInput.requestEnvelope.request;
 		let mySettings = makeSettings(request.locale);
-
+		console.log("exit intent")
 		if(request.type === 'IntentRequest'){
+			console.log("** if intent reqeust")
 			if(supportsAPL(handlerInput)){
+				console.log("**** if supports apl")
 			    handlerInput.responseBuilder.addDirective({
 			        type : 'Alexa.Presentation.APL.RenderDocument',
 		    	    document : Welcome,
@@ -998,14 +1014,16 @@ const ExitHandler = {
 				});
 			}
 
-		return handlerInput.responseBuilder
-		  .speak(goodbyeSpeak)
-		  .withSimpleCard(skillName,goodbyeCard)
-		  .withShouldEndSession(true)
-		  .getResponse();
+			return handlerInput.responseBuilder
+		 	 .speak(goodbyeSpeak)
+		  	.withSimpleCard(skillName,goodbyeCard)
+		  	.withShouldEndSession(true)
+		  	.getResponse();
 		}else if(request.type === 'Connections.Response'){
+			console.log("** if connections response ")
 			let speakResponse = null;
 			if (supportsAPL(handlerInput)) {
+				console.log("**** if supports apl")
 				handlerInput.responseBuilder.addDirective({
 					type: 'Alexa.Presentation.APL.RenderDocument',
 					document: Welcome,
@@ -1045,6 +1063,7 @@ const ExitHandler = {
            		.reprompt(mySettings.mainMenu)
            		.getResponse();
 		}else{
+			console.log("** else do not understand")
 			return handlerInput.responseBuilder
     	       .speak("I did not understand.  Say your response again.")
 				.withShouldEndSession(false)
@@ -1060,8 +1079,7 @@ const HelpHandler = {
 		  && request.intent.name === 'AMAZON.HelpIntent';
 	},
 	handle(handlerInput){
-		//let helpMessage = "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https:// that darn girl movie dot reviews.  "
-		//let helpScreen =  "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https://thatdarngirlmovie.reviews.<br/><br/>  "
+		
 		const request = handlerInput.requestEnvelope.request;
 		let mySettings = makeSettings(request.locale);
 
@@ -1123,10 +1141,11 @@ const ErrorHandler = {
 	},
 	handle(handlerInput, error){
 	  console.log(`Error handled: ${error.message}`);
-		firstTime = true;
+	  firstTime = true;
 	  return handlerInput.responseBuilder
 	    .speak('Sorry, an error occurred.')
-	    .reprompt('Sorry, an error occurred.')
+		.reprompt('Sorry, an error occurred.')
+		.withShouldEndSession(true)
 	    .getResponse();
 	}
 };
