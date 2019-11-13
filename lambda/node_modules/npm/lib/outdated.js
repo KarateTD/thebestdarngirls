@@ -91,7 +91,7 @@ function outdated (args, silent, cb) {
   var dir = path.resolve(npm.dir, '..')
 
   // default depth for `outdated` is 0 (cf. `ls`)
-  if (opts.depth) opts = opts.concat({depth: 0})
+  if (opts.depth === Infinity) opts = opts.concat({depth: 0})
 
   readPackageTree(dir, andComputeMetadata(function (er, tree) {
     if (!tree) return cb(er)
@@ -101,7 +101,10 @@ function outdated (args, silent, cb) {
         return aa[0].path.localeCompare(bb[0].path) ||
           aa[1].localeCompare(bb[1])
       })
-      if (er || silent || list.length === 0) return cb(er, list)
+      if (er || silent ||
+          (list.length === 0 && !opts.json)) {
+        return cb(er, list)
+      }
       if (opts.json) {
         output(makeJSON(list, opts))
       } else if (opts.parseable) {
@@ -129,7 +132,7 @@ function outdated (args, silent, cb) {
         }
         output(table(outTable, tableOpts))
       }
-      process.exitCode = 1
+      process.exitCode = list.length ? 1 : 0
       cb(null, list.map(function (item) { return [item[0].parent.path].concat(item.slice(1, 7)) }))
     })
   }))
@@ -149,7 +152,7 @@ function makePretty (p, opts) {
     has || 'MISSING',
     want,
     latest,
-    deppath
+    deppath || 'global'
   ]
   if (long) {
     columns[5] = type
@@ -366,6 +369,8 @@ function shouldUpdate (args, tree, dep, has, req, depth, pkgpath, opts, cb, type
     return doIt('git', 'git')
   } else if (parsed.type === 'file') {
     return updateLocalDeps()
+  } else if (parsed.type === 'remote') {
+    return doIt('remote', 'remote')
   } else {
     return packument(parsed, opts.concat({
       'prefer-online': true
@@ -416,7 +421,7 @@ function shouldUpdate (args, tree, dep, has, req, depth, pkgpath, opts, cb, type
       var l = pickManifest(d, 'latest')
       var m = pickManifest(d, req)
     } catch (er) {
-      if (er.code === 'ETARGET') {
+      if (er.code === 'ETARGET' || er.code === 'E403') {
         return skip(er)
       } else {
         return skip()

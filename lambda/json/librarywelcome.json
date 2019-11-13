@@ -1,0 +1,177 @@
+{
+  "type": "APL",
+  "version": "1.0",
+  "theme": "dark",
+  "import": [
+      {
+          "name": "alexa-layouts",
+          "version": "1.0.0"
+      }
+  ],
+  "resources": [
+      {
+          "description": "Stock color for the light theme",
+          "colors":{
+              "colorTextPrimary": "#9ea4b5"
+          }
+      },
+      {
+          "description": "Stock color for the dark theme",
+          "when": "${viewport.theme == 'dark'}",
+          "colors": {
+              "colorTextPrimary": "#f0f1ef"
+          }
+      },
+      {
+          "description": "Common spacing values",
+          "dimensions": {
+              "spacingThin": 6,
+              "spacingSmall": 12,
+              "spacingMedium": 24,
+              "spacingLarge": 48,
+              "spacingExtraLarge": 72
+          }
+      },
+      {
+          "description": "Standard font sizes",
+          "dimensions":{
+              "textSizeBody": 45,
+              "textSizePrimary": 27,
+              "textSizeSecondary": 23,
+              "textSizeSecondaryHint": 25
+           }
+      },
+      {
+          "description": "Common margins and padding",
+          "dimensions": {
+              "marginTop": 40,
+              "marginLeft": 60,
+              "marginRight": 60,
+              "marginBottom": 40
+          }
+      }
+  ],
+  "styles":{
+      "mixinPrimary": {
+          "values": {
+              "fontSize": "@textSizePrimary"
+          }
+      },
+      "mixinBody": {
+          "values": {
+              "fontSize": "@textSizeBody"
+          }
+      },
+      "textStyleBase": {
+          "description": "Base font description; set color",
+          "values": [
+              {
+                  "color": "@colorTextPrimary"
+              }
+          ]
+      },
+      "textStyleBase1": {
+          "description": "Light version of basic font",
+          "extend": "textStyleBase",
+          "values": {
+              "fontWeight": "300"
+          }
+      },
+      "textStylePrimary": {
+          "extend": [
+              "textStyleBase1",
+              "mixinPrimary"
+          ]
+      },
+      "textStyleBody": {
+          "extend":[
+              "textStyleBase1",
+              "mixinBody"
+          ]
+      }
+  },
+  "mainTemplate": {
+      "parameters": [
+          "datasource"
+      ],
+      "items": [
+          {
+              "when": "${viewport.shape == 'round'}",
+              "type": "Container",
+              "direction": "column",
+              "items":[
+                  {
+                      "type": "Image",
+                      "source": "${datasource.WelcomeLibTemplate.backgroundImage.sources[0].url}",
+                      "position": "absolute",
+                      "width": "100vw",
+                      "height": "100vh",
+                      "scale": "best-fill"
+                  },
+                  {
+                      "type":"AlexaHeader",
+                      "headerTitle": "${datasource.WelcomeLibTemplate.title}",
+                      "headerAttributionImage": "${datasource.WelcomeLibTemplate.logoSmallUrl}"
+                  },
+                  {
+                      "type": "Container",
+                      "grow": 1,
+                      "paddingLeft":"@marginLeft",
+                      "paddingRight":"@marginRight",
+                      "paddingBottom": 250,
+                      "items": [
+                          {
+                              "type":"Text",
+                              "text":"${datasource.WelcomeLibTemplate.textContent.primaryText.text}",
+                              "fontSize": "@textSizeSecondary",
+                              "spacing":"@spacingSmall",
+                              "style": "textStyleBody"
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "type":"Container",
+              "height": "100vh",
+              "items": [
+                  {
+                      "type": "Image",
+                      "source": "${datasource.WelcomeLibTemplate.backgroundImage.sources[0].url}",
+                      "position": "absolute",
+                      "width": "100vw",
+                      "height": "100vh",
+                      "scale": "best-fill"
+                  },
+                  {
+                      "type": "AlexaHeader",
+                      "headerTitle": "${datasource.WelcomeLibTemplate.title}",
+                      "headerAttributionImage": "${datasource.WelcomeLibTemplate.logoLargeUrl}"
+                  },
+                  {
+                      "type": "Container",
+                      "paddingLeft": "@marginLeft",
+                      "paddingRight": "@marginRight",
+                      "paddingBottom": "@marginBottom",
+                      "items": [
+                          {
+                              "type": "Text",
+                              "text": "${datasource.WelcomeLibTemplate.textContent.primaryText.text}",
+                              "fontSize": "@textSizeBody",
+                              "spacing": "@spacingSmall",
+                              "style": "textStyleBody"
+                          },
+                          {
+                              "type": "Text",
+                              "text": "${datasource.WelcomeLibTemplate.textContent.helpText.text}",
+                              "fontSize": "@textSizePrimary",
+                              "spacing": "@spacingSmall",
+                              "style": "textStylePrimary"
+                          }
+                      ]
+                  }
+              ]
+          }
+      ]
+  }
+}
