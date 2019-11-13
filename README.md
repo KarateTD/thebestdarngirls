@@ -115,6 +115,7 @@ CREATE TABLE reviews (
 	Review blob(4000) NOT NULL,
 	PRIMARY KEY (ID)
 );
+
 ```
 Next, create an AWS Secrets Manager with the automatic rotation disabled.  Then, in the AWS Management Console, create 2 Lambda functions with
 <ul>
