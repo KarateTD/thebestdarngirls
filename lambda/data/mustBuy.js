@@ -134,5 +134,46 @@ module.exports = mustBuy;
             "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/jexi.jpg",
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/jexi.jpg"
         }
-    },
+    }
+
+      {
+    "option":"1",
+    "mtitle":"A Beautiful Day in the Neighborhood",
+    "review":"Lloyd Vogel, an investigative journalist for Esquire Magazine is given his next assignment. He has to profile television star, Mr. Rogers. Vogel doesn't want to do a puff piece about a children's show host. For the heroes' issue, Mr. Rogers was the only hero willing to be interviewed by Lloyd. Lloyd is ready to do a piece exposing the man behind Mr. Rogers. Instead, he learns about the man who became Mr. Rogers. A one-minute assignment will put Lloyd's life, his perspective on Mr. Rogers, and Lloyd's family into focus.<br/><br/>It's remarkable to watch his movie because it was shot as one large Mr. Roger's episode. All aerial shots are done with Mr. Roger's town models. You will see a picture-in-picture about how magazines are made. Also, you will sit will the audience for one-minute, completing a Mr. Rogers assignment, and be able to hear a pin drop. This was an amazing tribute to a beautiful man.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abeautifuldayintheneighborhood.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abeautifuldayintheneighborhood.jpeg"
+    }
+  }
+
+      {
+      "option":"3",
+      "mtitle":"Knives Out",
+      "review":"Benoit Blanc recieved an envelope under his door one day.  Inside was a newsclipping of Harlan Thrombey and a large sum of money.  A week ago, Harlan committed suicide after his 85th birthday party.  After sitting down with each of his family members, Benoit believes Harlan was murdered.  Now, he must figure out who, how, and why?  It comes down to lies, mud, and Watson.<br/><br/>Movies this good are hard to come by.  It is as funny as it is mysterious.  With his family members, his nurse, and his housekeeper all having a reason to kill him, this movie allows the twist and turns to be endless.  You will be guessing, laughing, and intrigued until the end.<br/><br/>5 out of 5 stars.",
+      "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/knivesout.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/knivesout.jpg"
+      }
+    }
+
+      {
+    "option":"3",
+    "mtitle":"Harriet",
+    "review":"After Gideon hears Minty praying for his father's death, he tells her she will be nothing more than property, just one of his pigs.  So, God will never listen to her prayers.  The next morning, Gideon's father dies.  Minty knows Gideon blames her and will make plans to sell her down south in the morning.  Slaves sold to the south never return.  Minty makes a plan to escape with her husband John.  Unlike Minty, John is free but he doesn't want to have kids with Minty because they will be born slaves.  Minty escapes and tries to meet up with John but Gideon is already confronting him.  So she keeps running.  One hundred miles later, Minty has left enslavement in Maryland to the freedom of Pennsylvania.  She meets with William Still.  He documents her story in his book of runaway slaves and tells her to pick a new name.  She chooses Harriet after her mother and Tubman like her husband John.  Now, she is Harriet Tubman.  A year later, Harriet wants to go back to get her husband and later get her family.  William is against it but her friend and businesswoman, Marie, gives her guidance on social graces, dress, and gives her free papers.  The decision to go back with turn the woman into the myth of Moses and the legend of Harriet.<br/><br/>If you are looking for a movie that focuses on the brutality and inhumane treatment of enslaved people, this is not the movie for you.  This movie focuses on Harriet's hardships to become the American Historical figure we know today.  At that time her spells were described as messages from God, now we would consider it brain damage.  This should not be mistaken as the writers giving her a superhuman quality.  This movie should be used as a jumping point for you to research the strength of this one woman.  However, the movie's end felt rushed.  It only mentions her work as a spy in the Civil War and her envolvement in the woman's suffrage movement.  Like many history books, these great strides for women are only a footnote.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/harriet.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/harriet.jpg"
+    }
+  }
+
+    {
+    "option":"5",
+    "mtitle":"The Current War",
+    "review":"Thomas Edison created the light bulb and the Direct Current to bring power to people's homes.  He has asked J.P. Morgan to finance is endeavors to bring the current to homes all over the United States.  George Westinghouse sees flaws in Edison's design and creates Alternating Currents.  Westinghouse's designs are cheaper and will work in rural areas.  When Edison hears about Westinghouse's improvements, he tells the newspapers the Alternating Current can kill.  The current war begins and spans over a decade.  While Edison and Westinghouse fight over the present, Nikola Tesla is fighting for the future.  He wants to turn water into energy and power machines.  The former Edison employee has ideas and concepts but no inventions to show for it.  The winner of the current war will be decided by the Chicago World's Fair.<br/><br/>When these men couldn't fight in the courtroom, they fought in the papers.  While the current war spearheaded the United States into the 20th century, it spawned new inventions, new companies, and a deadly consequence.  Seeing these men try every underhanded approach to win, with their wives cheering them on, will delight you.  You will walk away from this movie learning more about these great inventors and their lasting impact.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecurrentwar.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecurrentwar.jpg"
+    }
+  }  
+
 */

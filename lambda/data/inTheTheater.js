@@ -53,3 +53,35 @@ module.exports = inTheTheaters;
 *  small image 720w x 480h (in pixels)
 *  large image 1200w x 800h (in pixels)
 */
+
+/*
+
+{
+  "option":"1",
+  "mtitle":"Ford v. Ferrari",
+  "review":".<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fordvferrari.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fordvferrari.jpg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Charlie's Angels",
+  "review":".<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/charliesangels.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/charliesangels.jpg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"The Good Liar",
+  "review":".<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegoodliar.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegoodliar.jpg"
+  }
+},
+
+*/
