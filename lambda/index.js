@@ -1215,6 +1215,7 @@ function parseResults(rowReturns, rowCount, phrase){
 	
 	if(rowCount != 0){
 		//parse JSON from string
+		console.log(resultString);
 		newData = JSON.parse(resultString);
 
 		if(rowCount == Number(1)){
