@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Christmas in Louisiana",
-    "review":"Fifteen years ago, Sarah and her boyfriend Luke were pinned Mr. and Mrs. Christmas. During the ceremony, Luke breaks up with her in front of the town. Now, it's the 50th anniversary of the ceremony and Sarah is headed home. She knows there will be a lot to do. However, she is not worried about Luke because he spends Christmas in Texas. Once in Louisiana, Sarah looks for her grandmother Doris. Instead. the first person she finds is Luke. Luke is in town to open his veterinary clinic. He promises to stay out of her way. But Doris has something else to say about that. She is determined to meddle until the two find love again.<br/><br/>While Luke and Sarah's relationship are the focal point of this story, it's the subplots that will melt your heart. Sarah's mother Charlotte and Mark, the photographer, will make you want to love. Doris and Timothy will make you want to keep it. While this movie does jump out the format a little, its too soon to declare it a favorite of the holiday.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Twinkle All the Way",
+    "review":"Wedding-planner Cadence and exterior-designer Henry are chosen to work together designing the stage for the winter elementary school performance. Henry is surprised she has plans drafted and color-coded. He prefers to go with the flow. Out of fear, she pushes him away. But when an unforeseen event ruins her customer's wedding, she leans on Henry to get it back on track.<br/><br/>With stunning designs and cute kids, this movie doesn’t make up for a lack-luster script. With the bland plotline, you don’t feel connected to the characters or their story arch. The movie is pretty to watch, it's just not enough to keep you engaged.<br/><br/>2 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasinlouisiana.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasinlouisiana.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/twinklealltheway.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/twinklealltheway.jpg"
     }
   },
   {
     "option":"2",
-    "mtitle":"One Fine Christmas",
-    "review":"Christmas street has the name but doesn't go overboard on the holiday spirit. A few neighbors on this street will learn you can't go home again. Hailey comes home from college to find no festivities or food in the house. Her mother, Susan, is too busy working. Jessie is back from the army with a surprise for his parents, Bob and Diana. He got married and never told them. Diana is not happy about being left out and makes her feelings known. Al and Matty have been married for over a decade. But he is a workaholic. He goes to work thinking he is getting a bonus but gets a severance package instead. Matty thinks this is an opportunity to grow but he feels like a failure. Hailey, Diana, and Al must overcome and learn to accept that home is changing.<br/><br/>Get ready to want some Japanese Christmas Cake with tears in your eyes during the last 2 minutes. Unlike all Christmas movies, this movie doesn't focus on a love story. If focuses on togetherness. It is a true standout this season. But DVR recorders be warned. The two-hour movie is broken into two parts. So if you set up your recording at 9 p.m. make sure you set it up for 10 p.m. too.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Carole's Christmas",
+    "review":"Carole has a wonderful husband, 2 beautiful children, a career helping the community and a lot of bills. She worries about if they can make ends meet because her husband started a new business with no clients and her charity needs millions to keep its doors open until next year. She wonders what would've happened if she made different choices. Iris, her driver, janitor, and new caster, will show her first hand. Which life will Carole choose?<br/><br/>Entering an alternate life to decide if you made the right choice is not a new story. It's a story told during different seasons. If someone is attempting to do this overdone plot, at least make it funny or extremely heartfelt. This script and recycled plot could not be saved by the amazing acting.<br/><br/>2 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/onefinechristmas.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/onefinechristmas.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/caroleschristmas.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/caroleschristmas.jpg"
     }
-  },  
+  },
   {
     "option":"3",
-    "mtitle":"Christmas A La Mode",
-    "review":"Emily prays to her father for a miracle and he sends her a shooting star. Her family farm is failing. She has a few weeks to get $400,000 to buy her sister, Dorothy, out. If Emily can't get the money, Dorothy will sell it to a dairy conglomerate. Charlie, Dorothy's co-worker, comes to help facilitate the deal. After seeing how much pain it causes Emily to sell, Charlie tells her to consider a win-win situation. She crowdfunds the money to buy her sister out with an ice cream competition. The customer creates and votes for the best flavor. The creator of the winning flavor gets free ice cream for a year. But Emily doesn't know that Dorothy has another plan. She realized the land will sell for much more if she sells to a land developer. Charlie has to keep Dorothy's secret while falling in love with Emily.<br/><br/>With the love story in the background, this movie focuses more on the business aspect. It allows the viewer to be more engaged while rooting for the heartland of the country.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"The Magical Christmas Shoes",
+    "review":"Following a dutch tradition, Noel's grandmother sends her shoes filled with candy for Christmas. Each pair of shoes have a different theme with magical qualities. Over the years, each pair of shoes have fallen flat of their expectations. Her bubble gum pink shoes, meant to get her out of sticky situations, get stuck in gum. Luckily, John is there to scrape off the gum. Noel is shocked to see that John is closing Reid's candy store. It has meant so much to her family. So she offers to look over the books to save the store. Working with John will inspire them both to go after their dreams. In the end, she will know the true magic behind the shoes.<br/><br/>Adding shoes to the Christmas mix is not new, but adding the Dutch tradition is a change of pace. It interesting that Noel blames all bad things on the shoes but when good things happen she says she doesn't believe in magic. It's a weird contradiction of power. This is movie is fun but not a classic.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasalamode.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasalamode.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themagicalchristmasshoes.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themagicalchristmasshoes.jpg"
     }
   },
   {
     "option":"4",
-    "mtitle":"A Daughter's Plan to Kill",
-    "review":"Frank is happy to have his daughter, Samantha, back in his life.  Katie, his wife, and their two children Tommy and Lauren are welcoming to her.  After seeing some questionable behavior, Katie is starting to worry that Samantha is dangerous.  Her fears are confirmed when Tommy says Samantha pushed him down a hill and Lauren says she set her up to be raped.  Can Katie convince Frank from the trunk of a car?<br/><br/>Seriously, Frank! Come on! Your fatherly guilt is making you act like an idiot.  The moment Samantha kicked Katie's Mercedes, Frank should have seen the truth.  This movie doesn't require your full attention and should only be watched if you need two hours to kill.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"His Secret Marriage",
+    "review":"Kelsey wakes up in a hospital with no memory of her husband Jason. The doctor assures her that memory loss can happen after a car accident. John says they eloped and got married. They were on their way to their honeymoon when they crashed. Since the honeymoon was in a stress-free, noise-free, tech-free environment, Jason believes it would be better to recuperate there. To ease her, they get separate rooms. Kelsey is fine until she gets flashes of a different side of John. Who is is really?<br/><br/>A slow build to a “REALLY” moment. As a viewer, you know something is off about Jason. You just don’t know how the two know each other and what really happened. Lifetime viewers will be surprised to find out who Jason really is.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adaughtersplantokill.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adaughtersplantokill.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hissecretmarriage.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hissecretmarriage.jpg"
     }
   },
   {
     "option":"5",
-    "mtitle":"A Christmas Miracle",
-    "review":"To land a new junior writing position, Emma must come up with a cover story for the holiday edition of her company's magazine. While she may not be able to write the story, it will make her a shoo-in for the job. She gets the inspiration for an article about Christmas miracles. Her boss, Valerie turns the offer down. Later, Emma walks past Valerie's office and hears Valerie present her idea. Stunned, Emma walks away and tells Marcus. Marcus tells her to write the article before Valerie completes it. Now, Emma must find a miracle, write it, and complete it before Valerie.<br/><br/>Emma is a better woman than most. She has two opportunities to call out her boss but doesn't. While this may make her look like a doormat, it gives Valerie room to grow.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"A Godwink Christmas: Meant for Love",
+    "review":"Godwink: A new word in the language for those little coincidences that aren’t coincidences, but come from a divine origin. When a string of coincidences bring Alice and Jack together, Alice starts to believe in Godwinks. When she gives gut-wrenching news, Alice stops communicating with Jack. With so many Godwinks leading them, will Alice and Jack let an illness stop their love?<br/><br/>Based on a true story and inspired by a book, this sequel will leave you misty-eyed. And seeing the pictures of the real couple will inspire you to look for Godwinks of your own.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/achristmasmiracle.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/achristmasmiracle.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/agodwinkchristmasmeantforlove.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/agodwinkchristmasmeantforlove.jpg"
     }
   }
 ];
