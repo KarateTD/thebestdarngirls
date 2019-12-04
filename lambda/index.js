@@ -98,6 +98,7 @@ const WelcomeHandler = {
 				}
 			});
 		}
+
 		repeat=false;
 		let greeting = mySettings.mainMenu;
 		if(firstTime){
@@ -124,16 +125,13 @@ function resetAll(){
 	offset=0;
 	maxResults = 5;
 
-let product = null;
+	let product = null;
 }
 
 function makeSettings(myLocale){
-	//console.log("local: "+ myLocale)
 	if(myLocale == "en-US" || myLocale == "en-GB"){
-		//console.log("with locale and in if");
 		return premLocaleVar;
 	}else{
-		//console.log("with locale and else");
 		return regLocaleVar;
 	}
 }
@@ -171,6 +169,7 @@ const MainMenuHandler = {
 		let mySettings = makeSettings(locale);
 		if(typeof menu === 'undefined'){
 			console.log("**undefinded type");
+			
 			if(supportsAPL(handlerInput)){
 				console.log("****in if");
 			    handlerInput.responseBuilder.addDirective({
@@ -196,7 +195,9 @@ const MainMenuHandler = {
  				    }
 			    });
 			}
+			
 			resetAll();
+			
 			return handlerInput.responseBuilder
 			.withShouldEndSession(false)
       		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
@@ -286,10 +287,11 @@ const MainMenuHandler = {
  			}
 
  			if(supportsAPL(handlerInput) && requestList){
+				
 				console.log("****** has screen and not library")
             	handlerInput.responseBuilder.addDirective({
                 	type: 'Alexa.Presentation.APL.RenderDocument',
- 	               document : MovieOptions,
+ 	               	document : MovieOptions,
     	            datasources : {
         	            "MovieOptionsTemplateMetadata": {
             	            "type": "object",
@@ -343,11 +345,11 @@ const MainMenuHandler = {
  			}
 
  		return handlerInput.responseBuilder
- 		  .speak(starter)
-		   .reprompt(starter)
-		   .withShouldEndSession(false)
- 		  .withSimpleCard(skillName, starter)
- 		  .getResponse();
+ 		  	.speak(starter)
+		   	.reprompt(starter)
+		   	.withShouldEndSession(false)
+ 		  	.withSimpleCard(skillName, starter)
+ 		  	.getResponse();
 		})
 	}
 };
@@ -398,6 +400,7 @@ const WhatCanIBuyHandler = {
 
 				const speakResponse = "You have Premium Access.  There are no other products to purchase.  ";
 				resetAll();
+				
 				return handlerInput.responseBuilder
 				  .speak(speakResponse + " " + mySettings.mainMenu)
 				  .withShouldEndSession(false)
@@ -577,6 +580,7 @@ const MovieChoicesHandler = {
 		let mySettings = makeSettings(request.locale);
 		if(typeof menu === 'undefined'){
 			console.log("** im menu is undefined")
+			
 			if(supportsAPL(handlerInput)){
 				console.log("**** if it has a screen")
 			    handlerInput.responseBuilder.addDirective({
@@ -603,27 +607,28 @@ const MovieChoicesHandler = {
 			    });
 			}
 			resetAll();
+			
 			return handlerInput.responseBuilder
-			.withShouldEndSession(false)
-      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
-      		.getResponse();
+				.withShouldEndSession(false)
+      			.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
+      			.getResponse();
 		}
 
   		if(menu.toLowerCase() === 'in the theater'){
 			console.log("** in the theater")
-			  element = getCardInfo(inTheTheater, choice);
-			  starter += getOptions(inTheTheater);
-			  maxResults = 5;
+			element = getCardInfo(inTheTheater, choice);
+			starter += getOptions(inTheTheater);
+			maxResults = 5;
 	  	}else if(menu.toLowerCase() === 'made for tv'){
 			console.log("** made for tv" )
-			  element = getCardInfo(madeForTV, choice);
-			  starter += getOptions(madeForTV);
-			  maxResults = 5;
+			element = getCardInfo(madeForTV, choice);
+			starter += getOptions(madeForTV);
+			maxResults = 5;
  	 	}else if(menu.toLowerCase() === 'in stores'){
 			console.log("** in stores")
-			  element = getCardInfo(mustBuy, choice);
-			  starter += getOptions(mustBuy);
-			  maxResults = 5;
+			element = getCardInfo(mustBuy, choice);
+			starter += getOptions(mustBuy);
+			maxResults = 5;
 	  	}else if(menu.toLowerCase() === 'video on demand'){
 			console.log("** video on demand")
 			element = getCardInfo(videoOnDemand, choice);
@@ -636,13 +641,14 @@ const MovieChoicesHandler = {
 			maxResults = 2;
   		}else if(menu.toLowerCase() === 'library'){
 			console.log("** library")
-			  element = getCardInfo(libraryList, choice);
-			  starter += getOptions(libraryList);
+			element = getCardInfo(libraryList, choice);
+			starter += getOptions(libraryList);
 		}
 
     	if(typeof element !== 'undefined'){
 			console.log("** if element is not undefined")
-    		if(supportsAPL(handlerInput)){
+			
+			if(supportsAPL(handlerInput)){
 				console.log("**** if it has screen")
  				handlerInput.responseBuilder.addDirective({
                     type: 'Alexa.Presentation.APL.RenderDocument',
@@ -678,23 +684,24 @@ const MovieChoicesHandler = {
  			}
 
       		return handlerInput.responseBuilder
-      		  .speak(element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack))
+      		  	.speak(element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack))
 				.reprompt(repeatGoBack)
 				.withShouldEndSession(false)
-      		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
-      		  .getResponse();
+      		  	.withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
+      		  	.getResponse();
       	}else{
 			console.log("** else elemnt is defined")
-			  let speakOutput = "You have made an incorrect selection. Pick ";
-			  if(maxResults > 1){
-				  speakOutput += "a number between 1 and " + maxResults+". ";
-			  }else{
-				  speakOutput += "one."
-			  }
-			  return handlerInput.responseBuilder
-			  .speak(speakOutput + starter)
-			  .withShouldEndSession(false)
-      		  .getResponse();
+			let speakOutput = "You have made an incorrect selection. Pick ";
+			if(maxResults > 1){
+				speakOutput += "a number between 1 and " + maxResults+". ";
+			}else{
+				speakOutput += "one."
+			}
+
+			return handlerInput.responseBuilder
+				.speak(speakOutput + starter)
+			  	.withShouldEndSession(false)
+      		  	.getResponse();
     	}
 	}
 };
@@ -710,12 +717,15 @@ const LibraryHandler = {
         const request = handlerInput.requestEnvelope.request;
         if(request.intent.slots && offset == 0){
 			console.log("** if slots defined and offset is 0")
+			
 			if(request.intent.slots.MovieList != null && request.intent.slots.query != null){
 				console.log("**** movielist and query have values")
-           		if (request.intent.slots.MovieList.value != null){
+				   
+				if (request.intent.slots.MovieList.value != null){
 					console.log("****** if movie list has valeu")
                 	choice = request.intent.slots.MovieList.value;
-            	}else if(request.intent.slots.query.value != null){
+				
+				}else if(request.intent.slots.query.value != null){
 					console.log("****** if query has value")
                 	choice = request.intent.slots.query.value;
             	}
@@ -726,6 +736,7 @@ const LibraryHandler = {
 
 		if(request.intent.slots != null){
 			console.log("** if slots are not null")
+			
 			if(request.intent.slots.MovieList != null || request.intent.slots.query != null){
 				console.log("**** if movie list is not null or query is not null")
 				parsedChoice = choice.toLowerCase().replace('/ /g','%');
@@ -816,14 +827,14 @@ const LibraryHandler = {
 		            handlerInput.responseBuilder.addDirective({
         		        type: 'Alexa.Presentation.APL.RenderDocument',
                 		document : MovieOptions,
- 		               datasources : {
+ 		               	datasources : {
         		            "MovieOptionsTemplateMetadata": {
                 		        "type": "object",
                         		"objectId": "moMetadata",
  		                        "backgroundImage": {
         		                    "sources": Background
  		                        },
- 		                       "title": "Search Results",
+ 		                       	"title": "Search Results",
         		                "logoSmallUrl":smallLogo,
                 		        "logoLargeUrl":largeLogo
  		                    },
@@ -940,10 +951,11 @@ const CommandsHandler = {
 			    });
 			}
 			resetAll();
+			
 			return handlerInput.responseBuilder
-			.withShouldEndSession(false)
-      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
-      		.getResponse();
+				.withShouldEndSession(false)
+      			.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
+      			.getResponse();
 		}
 	}
 };
@@ -955,8 +967,8 @@ const PrevHandler = {
           && (request.intent.name === 'AMAZON.PreviousIntent');
     },
     handle(handlerInput) {
-            offset=offset-10;
-            return LibraryHandler.handle(handlerInput);
+        offset=offset-10;
+        return LibraryHandler.handle(handlerInput);
     }
 }
 
@@ -1015,13 +1027,14 @@ const ExitHandler = {
 			}
 
 			return handlerInput.responseBuilder
-		 	 .speak(goodbyeSpeak)
-		  	.withSimpleCard(skillName,goodbyeCard)
-		  	.withShouldEndSession(true)
-		  	.getResponse();
+		 		.speak(goodbyeSpeak)
+		  		.withSimpleCard(skillName,goodbyeCard)
+		  		.withShouldEndSession(true)
+		  		.getResponse();
 		}else if(request.type === 'Connections.Response'){
 			console.log("** if connections response ")
 			let speakResponse = null;
+			
 			if (supportsAPL(handlerInput)) {
 				console.log("**** if supports apl")
 				handlerInput.responseBuilder.addDirective({
@@ -1065,9 +1078,9 @@ const ExitHandler = {
 		}else{
 			console.log("** else do not understand")
 			return handlerInput.responseBuilder
-    	       .speak("I did not understand.  Say your response again.")
+    	       	.speak("I did not understand.  Say your response again.")
 				.withShouldEndSession(false)
-        	   .getResponse();
+        	   	.getResponse();
 		}
 	}
 };
@@ -1140,13 +1153,14 @@ const ErrorHandler = {
 		return true;
 	},
 	handle(handlerInput, error){
-	  console.log(`Error handled: ${error.message}`);
-	  firstTime = true;
-	  return handlerInput.responseBuilder
-	    .speak('Sorry, an error occurred.')
-		.reprompt('Sorry, an error occurred.')
-		.withShouldEndSession(true)
-	    .getResponse();
+	  	console.log(`Error handled: ${error.message}`);
+		firstTime = true;
+		  
+		return handlerInput.responseBuilder
+	    	.speak('Sorry, an error occurred.')
+			.reprompt('Sorry, an error occurred.')
+			.withShouldEndSession(true)
+	    	.getResponse();
 	}
 };
 
