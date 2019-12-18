@@ -1,6 +1,24 @@
 var mustBuy = [
+  {
+      "option":"1",
+      "mtitle":"Overcomer",
+      "review":"Orphaned, sticky-fingered Hannah is the only runner who showed up for the cross country team.  With a reluctant coach, Hannah will unearth the truth about her past, find a path to faith, and discover the fire of an athlete inside of her with a redeemed coach in her ear.  All she needs is in Ephesians, chapter 1 and 2.<br/><br/>This is a Christian film but it also a coming-of-age, sports drama that serves lots of tea.  When you leave you will ask yourself one question, \"Who am I\"?<br/><br/>4.5 out of 5 stars.",
+      "image":{
+          "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/overcomer.jpg",
+          "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/overcomer.jpg"
+      }
+    },
     {
-        "option":"1",
+     "option":"2",
+      "mtitle":"Rambo: Last Blood",
+      "review":"John Rambo is dealing with his PTSD by building tunnels under his farm while taking medication.  He cares for his niece Gabby with the help of his farm manager Maria.  Gabby discovered the whereabouts of her father Manuel and wants to see him.  Maria and John are against it.  Under the guise of spending time with friends, Gabby goes to Mexico to see her father.  She doesn't return.  John must go back to the darkest parts of his mind and become Rambo to get Gabby back.<br/><br/>With the drive of Bryan Mills, the ingenuity of Kevin McCallister, and the striking blow of Scarlet Witch, Rambo delivers the bloody, revenge story we all want to see from this franchise.  New fans don't have to see the first 4 to watch.  Original fans will see the links between First Blood and Last Blood.  If you have a strong stomach, see it today.<br/><br/>4 out of 5 stars.",
+      "image":{
+          "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rambolastblood.jpg",
+          "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rambolastblood.jpg"
+      }
+    },
+    {
+        "option":"3",
         "mtitle":"Brittany Runs a Marathon",
         "review":"Brittany tries to scam Adderall from a doctor but he prescribes her a life of healthy living.  He wants her to lose 45 to 55 pounds, get more sleep, and eat better.  Her first attempt leaves her crying on the floor.  Her neighbor, Catherine, asks Brittany to join her running club.  At first reluctant, Brittany attends and meets Seth, a married dad of 2.  After the 3 run together for a while, Catherine admits that in the past she was selected for the New York Marathon.  But she got pregnant and had to drop out.  This inspires Brittany to sign up.  When her dream is deferred due to injury, will the old Brittany come back?<br/><br/>Inspired by a true story, this movie makes you laugh one minute and tear up the next.  This story of triumph includes a love story.  Also, this movie challenges the social norm of acceptance.  See this movie and be inspired to join a 5K of your own.<br/><br/>4 out of 5 stars.",
         "image":{
@@ -9,7 +27,7 @@ var mustBuy = [
         }
     },
     {
-        "option":"2",
+        "option":"4",
         "mtitle":"Brian Banks",
         "review":"Brian wants to continue his deferred dream of being in the NFL.  But the new law to fit paroled sex-offenders with an ankle monitor has cut that dream short again.  Seven years ago, with bad legal counsel, he pleaded no contest to rape charges.  He was told he would give probation.  Instead, he got 6 years in jail, 3 years on parole, and a lifetime on the sex offenders list.  Now on parole, Brian wants the California Innocence Project to clear his name.  Only then can he live his dream.  A ping on his computer will change his life forever.<br/><br/>Be ready to get angry and cheer.  The hoops Brian has to go through to clear his name is astonishing.  Unbelievably, he never gave up.  But with a ticking clock on his back and Jerome's words propelling him forward, Brian is determined to make it.  This story will inspire you to join in the fight with the California Innocence Project.<br/><br/>4.5 out of 5 stars.",
         "image":{
@@ -18,30 +36,12 @@ var mustBuy = [
         }
     },
     {
-        "option":"3",
+        "option":"5",
         "mtitle":"The Farewell",
         "review":"Billi got devastating news.  Her grandmother has stage 4 lung cancer and 3 months to live.  Billi wants to fly to China to see her grandmother but her parents don't want her to come.  The family is following tradition and decides not to tell her grandmother she is sick.  Her parents worry Billi won't be able to keep the secret.  Tradition states that people who get cancer die.  Not because of cancer but because of fear.  The family chooses to bear the burden of that fear so her grandmother won't have to do it.  Her parents fly to China.  A few days later - shocking her family - Billi flies there too.  Billi has to walk the line between Chinese tradition and American culture.  Will she reveal the good lie?<br/><br/>Based on an actual lie, this movie points out the difference between the cultures without condemning one or the other.  Both are explained to the audience with compassion and understanding.  The movie is 90% in Mandarin.  The story is so compelling, it's like reading a great book.  Sidenote: Bring food.  The eating scenes will make you hungry.<br/><br/>4 out of 5 stars.",
         "image":{
             "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefarewell.jpg",
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefarewell.jpg"
-        }
-    },
-    {
-        "option":"4",
-        "mtitle":"Good Boys",
-        "review":"Max is invited to a kissing party with the popular kids, including his crush.  Max requests for the invitation to be extended to his friends Thor and Lucas.   The cool kids decide to let them all come.  Now, Max has one big problem: he has to learn how to kiss.  After several failed attempts to learn to kiss, they use Max's dad's drone to watch Thor's neighbor kiss her boyfriend.  She spots the drone and takes it out.  Max has to get the drone back or he will be grounded and can't attend the party.<br/><br/>As a warning, if you can't handle seeing kids curse, drink, and play with adult toys, this isn't the movie for you.  This coming-of-age story is just as raunchy as Superbad.  And with everything being so over-the-top, the resolution was the most honest and heartfelt of anything in this movie.<br/><br/>4.5 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/goodboys.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/goodboys.jpg"
-        }
-    },
-    {
-        "option":"5",
-        "mtitle":"The Art of Racing in the Rain",
-        "review":"Enzo is purchased by Denny and starts the life he always thought he should have.  While he loves Denny's house, Enzo considers the race track to be his true home.  In his heart, Enzo, a dog, wants to be a racer.  Luckily, his owner has a gift for racing in the rain.  He dreams of becoming a great racer while teaching others.  Through love, babies, death, lawsuits, and joy, Enzo is there for Denny every step of the way.  And Enzo has a plan to be with Denny forever.<br/><br/>Be ready to feel every emotion possible.  This movie is told mostly from Enzo's perspective.  He has trials and tribulations like a human.  When Enzo is sad, conniving, and hurt, you will cry, laugh, and feel his pain.  Don't be surprised if you hug your family, including your dog, after this movie.<br/><br/>4 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theartofracingintherain.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theartofracingintherain.jpg"
         }
     }
 ];
@@ -56,18 +56,6 @@ module.exports = mustBuy;
 
 /*  For Must Buy later
 
-
-
-{
-    "option":"5",
-    "mtitle":"Overcomer",
-    "review":"Orphaned, sticky-fingered Hannah is the only runner who showed up for the cross country team.  With a reluctant coach, Hannah will unearth the truth about her past, find a path to faith, and discover the fire of an athlete inside of her with a redeemed coach in her ear.  All she needs is in Ephesians, chapter 1 and 2.<br/><br/>This is a Christian film but it also a coming-of-age, sports drama that serves lots of tea.  When you leave you will ask yourself one question, \"Who am I\"?<br/><br/>4.5 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/overcomer.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/overcomer.jpg"
-    }
-}
-
     {
         "option":"1",
         "mtitle":"Black and Blue",
@@ -76,18 +64,8 @@ module.exports = mustBuy;
             "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackandblue.jpg",
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
         }
-    },
-
-    {
-    "option":"4",
-    "mtitle":"Rambo: Last Blood",
-    "review":"John Rambo is dealing with his PTSD by building tunnels under his farm while taking medication.  He cares for his niece Gabby with the help of his farm manager Maria.  Gabby discovered the whereabouts of her father Manuel and wants to see him.  Maria and John are against it.  Under the guise of spending time with friends, Gabby goes to Mexico to see her father.  She doesn't return.  John must go back to the darkest parts of his mind and become Rambo to get Gabby back.<br/><br/>With the drive of Bryan Mills, the ingenuity of Kevin McCallister, and the striking blow of Scarlet Witch, Rambo delivers the bloody, revenge story we all want to see from this franchise.  New fans don't have to see the first 4 to watch.  Original fans will see the links between First Blood and Last Blood.  If you have a strong stomach, see it today.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rambolastblood.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rambolastblood.jpg"
     }
-},
-
+    
     {
         "option":"3",
         "mtitle":"Joker",
@@ -195,6 +173,16 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/darkwaters.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/darkwaters.jpg"
+    }
+  }
+
+    {
+    "option":"4",
+    "mtitle":"Ford versus Ferrari",
+    "review":"Henry Ford the 2nd tried to buy Ferrari with the hopes their superior racing team would boost Ford's car sells. Instead, Enzo Ferrari used Ford's interest in Ferrari to sell to Fiat at a higher price. Now Ford wants to destroy Ferrari by beating them at Le Mans, a 24-hour race. Lee Iacocca knows the engineer to build the car, Carroll Shelby. Shelby, a Le Mans winner, can't race because of a heart condition. But he knows the best racer for the job, Ken Miles. Ken hates the idea. He knows Ford won't let them do what they need to do to win. Shelby promises otherwise. It only takes one race for Shelby to realize Ken was right and it will cost them everything.<br/><br/>Get ready to have all the feels: happiness, anger, sadness, and pure adrenaline. As Ken races, you can feel the pressure on your chest and will hold on to your armrest. This movie reminds you that accountants and corporate honchos ruined American cars.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fordvferrari.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fordvferrari.jpg"
     }
   }
 */
