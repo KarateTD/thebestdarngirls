@@ -2,7 +2,7 @@ var madeForTV = [
   {
     "option":"1",
     "mtitle":"A Christmas Winter Song",
-    "review":"Clio can't imagine performing on stage since her father passed away. He died from cancer but never alluded to the fact he was sick. When she mistakes a kind man for a deviant, she apologizes and offers Mr. Myers a job. Over time she learns he is sick and hasn't spoken to his family in years. She wants to repair his relationship with his family and he wants to repair her heart.<br/><br/>Not to judge. But if you don’t tear up during this movie, you are a monster. Unlike 95% of the holiday movies, Clio’s main goal isn’t falling in love with a guy at the end. It’s about helping Mr. Myer. She helps him reconnect with his family and get treatment. Helping him gives her the ability to understand and accept her dad’s decision to keep his illness a secret. She uses this strength to gain confidence for the stage again.<br/><br/>5 out of 5 stars.",
+    "review":"Cleo can't imagine performing on stage since her father passed away. He died from cancer but never alluded to the fact he was sick. When she mistakes a kind man for a deviant, she apologizes and offers Mr. Myers a job. Over time she learns he is sick and hasn't spoken to his family in years. She wants to repair his relationship with his family and he wants to repair her heart.<br/><br/>Not to judge. But if you don’t get misty-eyed during this movie, you are a monster. Unlike 95% of the holiday movies, Cleo’s main goal isn’t falling in love with a guy at the end. It’s about helping Mr. Myer. She helps him reconnect with his family and get treatment. Helping him gives her the ability to understand and accept her dad’s decision to keep his illness a secret. She uses this strength to gain confidence for the stage again.<br/><br/>5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thechristmaswintersong.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thechristmaswintersong.jpg"
@@ -38,7 +38,7 @@ var madeForTV = [
   {
     "option":"5",
     "mtitle":"Time for You to Come Home for Christmas",
-    "review":"After 2 years, Catherine decides to go home for Christmas to make her son, Will, happy. She didn't want to face the death of her husband. With the help of her new friend, Jack, she will come to terms with his passing.<br/><br/>Based on a novel, this story of love and loss is beautifully written. Jack helps everyone come to terms with Tyler's death and Catherine pain eases with the truth behind his presence.<br/><br/>4.5 out of 5 stars.",
+    "review":"After 2 years, Catherine decides to go home for Christmas to make her son, Will, happy. She didn't want to face the death of her husband. With the help of her new friend, Jack, she will come to terms with his passing.<br/><br/>Based on a novel, this story of love and loss is beautifully written. Jack helps everyone come to terms with Tyler's death and Catherine's pain eases with the truth behind his presence.<br/><br/>4.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/timeforyoutocomehomeforchristmas.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/timeforyoutocomehomeforchristmas.jpeg"
