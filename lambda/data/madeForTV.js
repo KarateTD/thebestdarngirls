@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"A Christmas Winter Song",
-    "review":"Cleo can't imagine performing on stage since her father passed away. He died from cancer but never alluded to the fact he was sick. When she mistakes a kind man for a deviant, she apologizes and offers Mr. Myers a job. Over time she learns he is sick and hasn't spoken to his family in years. She wants to repair his relationship with his family and he wants to repair her heart.<br/><br/>Not to judge. But if you don’t get misty-eyed during this movie, you are a monster. Unlike 95% of the holiday movies, Cleo’s main goal isn’t falling in love with a guy at the end. It’s about helping Mr. Myer. She helps him reconnect with his family and get treatment. Helping him gives her the ability to understand and accept her dad’s decision to keep his illness a secret. She uses this strength to gain confidence for the stage again.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Christmas Hotel",
+    "review":"To get her dream promotion, Erin must open a hotel in her home town. On her first day, she sees protestors outside the hotel. The locals don't want the hotel in their town because it will hurt small businesses. And to add insult to injury, her old crush, Connor is leading the charge. Erin has to ease the fears of the locals to keep her promotion and stop the protesting. Good thing she has love on her side.<br/><br/>With a predictable outcome, this movie has a few redeemable qualities. First, the chemistry between the lead actors. Second, how Erin’s changes have impacted the community. Finally, seeing your favorites from TV shows like Moesha, The Fresh Prince of Bel-Air, and Family Matters on screen again.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thechristmaswintersong.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thechristmaswintersong.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmashotel.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmashotel.jpg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Matchmaker Christmas",
-    "review":"Maggie is a copyright editor but she loves to play matchmaker to her friends. When her boss, Amanda, wants a date for the office Christmas party, Maggie offers her help. After a few unsuccessful matches, Amanda has eyes for Jackson. Jackson is there newest author and Maggie's ex-boyfriend. As Maggie's feelings start growing for Jackson, can she put them aside for Amanda?<br/><br/>This is a Hallmark movie on Lifetime. It does offer some sweet moments and a satisfying conclusion. However, this movie offers nothing new to the barrage of holiday movies available this season.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Christmas Love Letter",
+    "review":"After turning down her boyfriend's lackluster marriage proposal, Amalie must find a new topic for her column. After searching through her ideas folder, Amalie finds an old letter, addressed to her, with no return address. Since it references a lot of landmarks in her home town, she believes the writer lives there. She will travel home to find true love and her next article.<br/><br/>This is an original story we have been looking for this season. As Amalie talks to her 3 ex-boyfriends, she finds the pitfall in her thinking about how to handle relationships. She will learn how to be true to herself just in time for love.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/matchmakerchristmas.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/matchmakerchristmas.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasloveletter.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasloveletter.jpg"
     }
   },
   {
     "option":"3",
-    "mtitle":"His Deadly Affair",
-    "review":"Victoria will do anything to keep her husband James. When she finds his phone with a new match, she finds the girl and kidnaps her. However, the ID bracelet, which James gives every girl he cheats with, doesn't match the name on the dating app profile. Victoria realizes she has the wrong girl. Heidi is the sister of the girl James was cheating with. Now, Victoria has a big mess to clean up. Good thing she has a badge.<br/><br/>Reminiscent of the movie Searching with an LMN twist, you know Victoria had her badge taken away and she is taking medication to regulate her erratic behavior. She uses her status as a cop to interfere with Danielle talking to the police. Victoria is smart and will use technology to get everything she wants. This is a juicy addition to the LMN library.<br/><br/>4 out of 5 stars.",
+    "mtitle":"The Christmas Temp",
+    "review":"When Hazel sees her sister, Cara, is having a creative mental block, she tells Cara to distract herself with a temp job.  The job will be decorating a hotel lobby for Christmas.  The hotel manager, Jonah wants something festive but the owner doesn't want the typical Christmas cliches.  Cara and Jonah will need 3 tries to find the design and love.<br/><br/>This movie is the A Cheerful Christmas and Rediscovering Christmas with a few more tries.  Only the other attempts of Christmas decorations stand out.  The rest of the story falls flat.  This movie is lost with over 50 movies being aired this season.<br/><br/>2 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hisdeadlyaffair.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hisdeadlyaffair.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thechristmastemp.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thechristmastemp.jpg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Christmas Stars",
-    "review":"Nervous, Spence walks into Layla's night club for open mic night. She gives him some words of encouragement and he gives the best performance he has ever done. She asks him to perform for executives a few days later. When he starts to lose confidence on stage, Layla grabs a mic and the solo act becomes a duet. The executives want to sign the duo. Layla has been in the spotlight and no longer dreams of fame but Spence can't be on stage without her. Will the business he wants so much drive a wedge between the songbirds.<br/><br/>This movie should be called Intro to The Recording Business. The executives try to control what the duo wears, writes, and sings. Spense doesn’t understand the business and is hungry for success. Layla is a veteran in this business and is willing to speak up. Layla’s internal struggle will move you.<br/><br/>3 out of 5 stars.",
+    "mtitle":"My Mom's Darkest Secrets",
+    "review":"Ashley can get her birth mother's name after a law is changed allowing sealed adoption records to be unsealed. She finds her mother, Sara, and the two connect instantly. But Sara's husband Trevor and Trevor's daughter Amy never knew Ashley existed. Trevor is tired of his wife's secrets but he is happy to except Ashley. Amy warns Ashley that finding her mom may not be a great thing. One day, Sara wakes up and Trevor is dead. Soon, the police have Sara in handcuffs. Sara asks Ashley to help her and find the real murder. Too bad the police and Amy are not on her side.<br/><br/>This movie is not a bad mystery. With so many adoption-murder stories, you assume you know who the bad guy is but keep watching. The only downfall is the movie gives you the murderer a few steps to early.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasstars.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasstars.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mymomsdarkestsecrets.png",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mymomsdarkestsecrets.png"
     }
   },
   {
     "option":"5",
-    "mtitle":"Time for You to Come Home for Christmas",
-    "review":"After 2 years, Catherine decides to go home for Christmas to make her son, Will, happy. She didn't want to face the death of her husband. With the help of her new friend, Jack, she will come to terms with his passing.<br/><br/>Based on a novel, this story of love and loss is beautifully written. Jack helps everyone come to terms with Tyler's death and Catherine's pain eases with the truth behind his presence.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Angel Falls: A Novel Holiday",
+    "review":"Anthony has been given his next Angel assignment. He has to help someone get love back in their lives. He gets a job as a receptionist at a publishing company. Hanna's parents own the company. She has been trying to get them to expand their authors but they won't listen. And her favorite, unsigned writer, Tina Finnegan, has moved into her ex-boyfriend's Air B.N.B. She must get along with her ex-boyfriend Brian to break the ice with Tina.<br/><br/>Unlike the other Angel Falls movie, you don’t know who the angel, Anthony, is helping. He mentions that love is simple, so you know love is the key and you make assumptions from there. With help, Anthony is able to complete his mission and have a happy accident.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/timeforyoutocomehomeforchristmas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/timeforyoutocomehomeforchristmas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/angelfallsanovelholiday.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/angelfallsanovelholiday.jpg"
     }
   }
 ];
