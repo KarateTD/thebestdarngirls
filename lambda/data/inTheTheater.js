@@ -1,6 +1,33 @@
 var inTheTheaters = [
   {
     "option":"1",
+    "mtitle":"Uncut Gems",
+    "review":"Howie allows Kevin Garnett to borrow a precious, uncut black opal with his championship ring as collateral. He tells Kevin he needs the opal back in time for the auction. Howie takes Garnett's ring and pawns it for gambling money. He hopes the bet will cover his losses, payback bookies, and get Kevin's ring back, so he can get the opal. Once at auction, Howie believes the Opal will fetch $1,000,000. However, someone stopped his bet. Now, he has to keep one step ahead while everyone is on his tail.<br/><br/>This movie will have you on the edge of your seat from beginning to end. You have no idea which way is up the entire time of the movie. There are no good guys or bad guys in the movie, only hustlers. Each time Howie is one step ahead, he gets knocked backward. Get ready for one huge roller coaster ride.<br/><br/>5 out of 5 stars.",
+    "iamge":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/uncutgems.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/uncutgems.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Spies in Disguise",
+    "review":"Lance is upset his bomb released glitter and a video of a cat. This mishap allowed Killian to scan is face and almost get away with a killer drone. Lance confronts Walter and tells him to make things that go boom. Walter believes there is a non-violent way to get things done. He offers to show Lance an invention that will allow him to disappear. Instead of inquiring about the invention, Lance fires Walter. Lance takes the drone to his boss but she discovers the drone is missing. Marcy has a video of Lance stealing it. Lance knows Killian set him up. Lance escapes and wishes he could disappear to find Killian. Lance knocks on Walter's door. Without question, Lance drinks Walter's invention and is turned to a pigeon. When Lance asks to be changed back, Walter admits he doesn't have an antidote. If Walter makes the antidote, Lance will get him re-hired. Together, they will make one strong non-killing team.<br/><br/>This movie will have you laughing while working through a tough subject. Lance believes that criminals should be taken down even with deadly force. Even has a child, he dreamed of making weapons to save the world but not kill. He still believes it’s possible. You only need to see this movie in 2D format, anything else is unnecessary. Parents, just a warning, there is a 15-second moment of cartoon butt and some subtitles.<br/><br/>4 out of 5 stars.",
+    "iamge":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/spiesindisguise.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spiesindisguise.jpg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Little Women",
+    "review":"Joe leaves New York to be by her baby sister's bedside. Beth's illness has weakened her heart and she doesn't have much longer to live. Meg, who lives close to Beth, loves her family but wishes she had more money. Amy, an artist, is not told about the severity of her sister's illness. Beth knows paint in Paris is Amy's dream and she doesn't want to ruin her dream. As the little women are together, they reminisce about their lives together. The betrayal, encouragement, and love within their sisterly bond will bring them closer together as they lose their sister.<br/><br/>This plotline is not given linearly. It moves between now and the past within the blink of an eye. So you have to pay attention to the subtle changes in the women’s appearances. Each actress brings everything to her role and leaves you in awe. This movie will make you curious to read the book and see how it differs from the movie. While it is a good watch, you won’t have an urge to buy it. One viewing is enough to appreciate its artistry.<br/><br/>3.5 out of 5 stars.",
+    "iamge":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/littlewomen.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/littlewomen.jpg"
+    }
+  },
+  {
+    "option":"1",
     "mtitle":"Bombshell",
     "review":"In 2018, the world at Fox News was not ready for the storm looming behind the hills. On-air talent Gretchen Carlson was meeting with her lawyers to create an argument for her harassment claim. She has found a way to sue Roger Ailes and not Fox News. When Gretchen comes forward, dozens will follow. Including Megyn Kelly. When everyone has to take sides, who can be trusted and who will be left standing?<br/><br/>Based on a true scandal, this movie should be seen as an outline of the events, not gospel. Their views on what happened and why can be derived from their real-life interviews. These women went from reporting the news to being a part of the story. The Fox News scandal will be a case study for years to come.<br/><br/>3.5 out of 5 stars.",
     "image":{
@@ -15,33 +42,6 @@ var inTheTheaters = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cats.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cats.jpg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Star Wars: The Rise of Skywalker",
-    "review":"Kylo Ren has been promised the throne to the Final Order, he only has to kill Rey. But he is warned, she is not who she appears to be. Fin, Po, and Chewbacca got a message from a First Order mole that Kylo Ren is coming for Rey and the Sith are on the rise again. They fly to General Leia and Rey to update them with the intel. Rey is still completing her Jedi training. When she gets the intel from Po and Fin, she wants to face Kylo Ren alone. Recently, Rey has been having visions of her sitting on the Sith Throne next to Kylo Ren. She fears what she may become. But her friends refuse to let her do this on her own. They have to get a Wayfinder, discover the Sith planet, and put an end to the First and Final Order.<br/><br/>Extreme Star Wars fans will not like this movie. Strong Star Wars fans will pick apart its inconsistencies but applaud the effort. Casual fans will love the cinematography and plot connections with the 4th, 5th, and 6th Episodes. Action fans will appreciate the choreographed fight scenes but want more blood. Overall, this story provided a final send off for the franchise. Each character was given a solid ending to their story and you got lost in the world of Star Wars. This movie is in 3D but it's not necessary. But, you should see it in IMAX. And don't forget to bring your droid hacker.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/starwarstheriseofskywalker.png",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/starwarstheriseofskywalker.png"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Richard Jewell",
-    "review":"In 1986, Watson noticed Richard Jewell's attention to detail and nicknamed him Radar. When Richard gets a job in law enforcement, Watson gives him $100 to not become a jerk. Ten years later, Watson hears Richard is being interviewed for finding a bomb in Centennial Park. Watson is proud because Richard, labeled a hero, gives praise to everyone involved in the rescue efforts. When Richard is given book offers, he calls the only lawyer he knows, Watson. But when the FBI focuses their investigation on Richard, he will need Watson for a lot more.<br/><br/>It’s so hard to see a system Richard loves and respects so much turn on him. Richard tries to explain the FBI's actions to his family and friends. He believes they are the good guys like him. The FBI’s mistakes are sadly laughable as it is disgusting. In a day when sensationalism and clicks determine innocence and guilt, how long until another Richard Jewell is tried by the media?<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/richardjewell.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/richardjewell.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Jumanji: The Next Level",
-    "review":"Spencer feels like his life is in a rut so he goes back into Jumanji to feel brave.  Realizing what he has done, Beth, Anthony, and Marsha go back in to save him.  However, Bethany is left behind and Spencer's grandfather, Eddie, and Eddie's former friend, Milo are pulled into Jumanji.  With new avatars, missions, and goals, this is the next level of Jumanji.<br/><br/>Jumanji does just what the title says it will do, it goes to the next level.  Every character you know is back and more were added for fun.  It has all of the laughs and craziness you want from this franchise.  As the trailers say, not everyone will leave the game.  Jack Black is the breakout again playing 3 different characters.  Kevin Hart shows his acting chops as he plays Milo Walker.  See this movie as soon as you can.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/jumanjithenextlevel.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/jumanjithenextlevel.jpg"
     }
   }
 ];

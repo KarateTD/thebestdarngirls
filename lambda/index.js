@@ -256,7 +256,7 @@ const MainMenuHandler = {
 						return LibraryHandler.handle(handlerInput);
   		    		}else{
 						console.log("******** not repeating");
-  		 	        	starter = "Welcome to The Best Darn Girls Movie Review Library.  Say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie, like John Wick";
+  		 	        	starter = "Welcome to The Best Darn Girls Movie Review Library.  Say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie, like Merry Liddle Christmas or Good Boys";
  	 		    	    isLibrary = true;
 						isEnd=false;
 						repeat = false;
