@@ -1,6 +1,15 @@
 var mustBuy = [
   {
-      "option":"1",
+    "option":"1",
+    "mtitle":"Joker",
+    "review":"Arthur, an aspiring stand-up comedian, works as a clown.  After being attacked by kids, losing his job, and getting a gun, Arthur shoots and kills 3 businessmen on the train during an assault.  This is the only time Arthur has felt alive and he doesn't feel bad.  The next morning, the downtrodden of Gotham see the masked clown as their voice.  He has stood up to the elite that looks down on him.  Arthur finally feels heard and seen.  But when his mother's letters lead him to a dark truth, he will cross paths with a young Bruce Wayne and brings a new found madness to Gotham.<br/><br/>Now here is the proverbial question: Did the darkness of Gotham create the Joker or did Joker bring out the darkness in Gotham.  This is not for children and it is not the M.C.U..  It's a D.C. comics movie, the way it's supposed to be.  Dark, complicated, gritty, raw, and unfiltered.  You will enjoy this movie from beginning to end.  Don't stay past the end credits and there is no need for IMAX or 3D.  Dolby is good enough.<br/><br/>5 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/joker.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/joker.jpg"
+    }
+  },
+  {
+      "option":"2",
       "mtitle":"Overcomer",
       "review":"Orphaned, sticky-fingered Hannah is the only runner who showed up for the cross country team.  With a reluctant coach, Hannah will unearth the truth about her past, find a path to faith, and discover the fire of an athlete inside of her with a redeemed coach in her ear.  All she needs is in Ephesians, chapter 1 and 2.<br/><br/>This is a Christian film but it also a coming-of-age, sports drama that serves lots of tea.  When you leave you will ask yourself one question, \"Who am I\"?<br/><br/>4.5 out of 5 stars.",
       "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
       }
     },
     {
-     "option":"2",
+     "option":"3",
       "mtitle":"Rambo: Last Blood",
       "review":"John Rambo is dealing with his PTSD by building tunnels under his farm while taking medication.  He cares for his niece Gabby with the help of his farm manager Maria.  Gabby discovered the whereabouts of her father Manuel and wants to see him.  Maria and John are against it.  Under the guise of spending time with friends, Gabby goes to Mexico to see her father.  She doesn't return.  John must go back to the darkest parts of his mind and become Rambo to get Gabby back.<br/><br/>With the drive of Bryan Mills, the ingenuity of Kevin McCallister, and the striking blow of Scarlet Witch, Rambo delivers the bloody, revenge story we all want to see from this franchise.  New fans don't have to see the first 4 to watch.  Original fans will see the links between First Blood and Last Blood.  If you have a strong stomach, see it today.<br/><br/>4 out of 5 stars.",
       "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
       }
     },
     {
-        "option":"3",
+        "option":"4",
         "mtitle":"Brittany Runs a Marathon",
         "review":"Brittany tries to scam Adderall from a doctor but he prescribes her a life of healthy living.  He wants her to lose 45 to 55 pounds, get more sleep, and eat better.  Her first attempt leaves her crying on the floor.  Her neighbor, Catherine, asks Brittany to join her running club.  At first reluctant, Brittany attends and meets Seth, a married dad of 2.  After the 3 run together for a while, Catherine admits that in the past she was selected for the New York Marathon.  But she got pregnant and had to drop out.  This inspires Brittany to sign up.  When her dream is deferred due to injury, will the old Brittany come back?<br/><br/>Inspired by a true story, this movie makes you laugh one minute and tear up the next.  This story of triumph includes a love story.  Also, this movie challenges the social norm of acceptance.  See this movie and be inspired to join a 5K of your own.<br/><br/>4 out of 5 stars.",
         "image":{
@@ -27,21 +36,12 @@ var mustBuy = [
         }
     },
     {
-        "option":"4",
+        "option":"5",
         "mtitle":"Brian Banks",
         "review":"Brian wants to continue his deferred dream of being in the NFL.  But the new law to fit paroled sex-offenders with an ankle monitor has cut that dream short again.  Seven years ago, with bad legal counsel, he pleaded no contest to rape charges.  He was told he would give probation.  Instead, he got 6 years in jail, 3 years on parole, and a lifetime on the sex offenders list.  Now on parole, Brian wants the California Innocence Project to clear his name.  Only then can he live his dream.  A ping on his computer will change his life forever.<br/><br/>Be ready to get angry and cheer.  The hoops Brian has to go through to clear his name is astonishing.  Unbelievably, he never gave up.  But with a ticking clock on his back and Jerome's words propelling him forward, Brian is determined to make it.  This story will inspire you to join in the fight with the California Innocence Project.<br/><br/>4.5 out of 5 stars.",
         "image":{
             "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/brianbanks.jpg",
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/brianbanks.jpg"
-        }
-    },
-    {
-        "option":"5",
-        "mtitle":"The Farewell",
-        "review":"Billi got devastating news.  Her grandmother has stage 4 lung cancer and 3 months to live.  Billi wants to fly to China to see her grandmother but her parents don't want her to come.  The family is following tradition and decides not to tell her grandmother she is sick.  Her parents worry Billi won't be able to keep the secret.  Tradition states that people who get cancer die.  Not because of cancer but because of fear.  The family chooses to bear the burden of that fear so her grandmother won't have to do it.  Her parents fly to China.  A few days later - shocking her family - Billi flies there too.  Billi has to walk the line between Chinese tradition and American culture.  Will she reveal the good lie?<br/><br/>Based on an actual lie, this movie points out the difference between the cultures without condemning one or the other.  Both are explained to the audience with compassion and understanding.  The movie is 90% in Mandarin.  The story is so compelling, it's like reading a great book.  Sidenote: Bring food.  The eating scenes will make you hungry.<br/><br/>4 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefarewell.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefarewell.jpg"
         }
     }
 ];
@@ -63,16 +63,6 @@ module.exports = mustBuy;
         "image":{
             "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackandblue.jpg",
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
-        }
-    }
-    
-    {
-        "option":"3",
-        "mtitle":"Joker",
-        "review":"Arthur, an aspiring stand-up comedian, works as a clown.  After being attacked by kids, losing his job, and getting a gun, Arthur shoots and kills 3 businessmen on the train during an assault.  This is the only time Arthur has felt alive and he doesn't feel bad.  The next morning, the downtrodden of Gotham see the masked clown as their voice.  He has stood up to the elite that looks down on him.  Arthur finally feels heard and seen.  But when his mother's letters lead him to a dark truth, he will cross paths with a young Bruce Wayne and brings a new found madness to Gotham.<br/><br/>Now here is the proverbial question: Did the darkness of Gotham create the Joker or did Joker bring out the darkness in Gotham.  This is not for children and it is not the M.C.U..  It's a D.C. comics movie, the way it's supposed to be.  Dark, complicated, gritty, raw, and unfiltered.  You will enjoy this movie from beginning to end.  Don't stay past the end credits and there is no need for IMAX or 3D.  Dolby is good enough.<br/><br/>5 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/joker.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/joker.jpg"
         }
     }
 
