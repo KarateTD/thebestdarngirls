@@ -27,7 +27,7 @@ var inTheTheaters = [
     }
   },
   {
-    "option":"1",
+    "option":"4",
     "mtitle":"Bombshell",
     "review":"In 2018, the world at Fox News was not ready for the storm looming behind the hills. On-air talent Gretchen Carlson was meeting with her lawyers to create an argument for her harassment claim. She has found a way to sue Roger Ailes and not Fox News. When Gretchen comes forward, dozens will follow. Including Megyn Kelly. When everyone has to take sides, who can be trusted and who will be left standing?<br/><br/>Based on a true scandal, this movie should be seen as an outline of the events, not gospel. Their views on what happened and why can be derived from their real-life interviews. These women went from reporting the news to being a part of the story. The Fox News scandal will be a case study for years to come.<br/><br/>3.5 out of 5 stars.",
     "image":{
@@ -36,7 +36,7 @@ var inTheTheaters = [
     }
   },
   {
-    "option":"2",
+    "option":"5",
     "mtitle":"Cats",
     "review":"Victoria is a young kitten abandoned by her owners and left in an alley. The Jellicle tribe takes interest in Victoria and they tell her about the Jellicle Ball. Each cat performs for Old Deuteronomy and she picks someone to go to the Heaviside Layer for a new life. As talented cats start to disappear, who will win the Jellicle Ball?<br/><br/>Based on the stage musical Cats which derived from Old Possum’s Book of Practical Cats, the graphic and motion capture teams have done A+ work creating this film. Each cats’ essences, even down to the movement of their tails and their ears was perfectly in sync. The plot starts to slow down and the songs were not distinctive enough. The movie is fun for the whole family but only if you know the original play. Others will be lost in the plot.<br/><br/>3 out of 5 stars.",
     "image":{

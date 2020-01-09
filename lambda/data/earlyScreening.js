@@ -1,6 +1,15 @@
 var earlyScreening = [
   {
     "option":"1",
+    "mtitle":"Like a Boss",
+    "review":"Mel and Mia achieved their childhood dream of owning a cosmetics line.  Mia is the creative side and Mel the finance side.  When Claire Luna asks to see them for a partnership, Mia says no.  But Mel tells Mia they are $437,000 in debt and can only keep their store open for 6 more months.  Mia agrees to see Clarie.  Claire offers to pay their debt for 51% of the company.  If their launch goes well, Claire will give them 1.7 million dollars.  Mia says no.  She wants to be the boss.  Mel and Mia argue about the deal but Claire gives them another offer.  She will pay the debt for 49% of the company.  Giving Mia and Mel controlling interest.  If either of them quit, she will give 51%.  They agree.  While they are working for Claire, Claire is working them against each other.  Mel and Mia will have to get honest and use friendship to rise above the corporate world to be a boss.<br/><br/>This movie is a mix of The Boss and Girls Trip.  But with less business sense and less humor.  It does equally flush out the flaws in both characters and lays out their strengths.  You just don't get to see Mel have her greater moments.  Only her moments of weakness and being manipulated.  It would have been great to see her cultivate the ultimate plan and explain it to each member.  This movie is a mix of The Boss and Girls Trip.  But with less business sense and less humor.  It does equally flush out the flaws in both characters and lays out their strengths.  You just don't get to see Mel have her greater moments.  Only her moments of weakness and being manipulated.  It would have been great to see her cultivate the ultimate plan and explain it to each member.<br/><br/>2.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/likeaboss.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/likeaboss.jpg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"Dark Waters",
     "review":"Wilbur Tennant walks into Robbie Bilott's office with a box full of evidence that DuPont is poisoning his farmland. Robbie agrees to check out the farm at the request of his grandmother. At the farm, he sees 190 dead cows with enlarged intestines, rotting teeth, and tumors. Robbie can't ignore the problem. So, this chemical company attorney will fight for the people. With knowledge of every underhanded trick in the book, Robbie will fight DuPont with the people of Parksburg health, Wilbur's safety, and his life on the line.<br/><br/>Based on the New York Times article, you will leave the theater wanting to be tested for P.F.O.A., also known as C-8. Hearing the number of products it’s used in and how long DuPont knew it was making its customer sick will disgust you. And your heart will break when you hear the townspeople defend their biggest employer and benefactor. You know these people.  They are your family, friends, and co-workers. What happened to them, and America, all for the sake of one company’s profits is shameful.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -9,7 +18,7 @@ var earlyScreening = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"A Beautiful Day in the Neighborhood",
     "review":"Lloyd Vogel, an investigative journalist for Esquire Magazine is given his next assignment. He has to profile television star, Mr. Rogers. Vogel doesn't want to do a puff piece about a children's show host. For the heroes' issue, Mr. Rogers was the only hero willing to be interviewed by Lloyd. Lloyd is ready to do a piece exposing the man behind Mr. Rogers. Instead, he learns about the man who became Mr. Rogers. A one-minute assignment will put Lloyd's life, his perspective on Mr. Rogers, and Lloyd's family into focus.<br/><br/>It's remarkable to watch his movie because it was shot as one large Mr. Roger's episode. All aerial shots are done with Mr. Roger's town models. You will see a picture-in-picture about how magazines are made. Also, you will sit will the audience for one-minute, completing a Mr. Rogers assignment, and be able to hear a pin drop. This was an amazing tribute to a beautiful man.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var earlyScreening = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Playing with Fire",
     "review":"Superintendent Jack Carson, a.k.a. Supe, had his Alpha Team leave him for another band of smokejumpers.  Supe doesn't let this get him down.  He still has his Beta team: Rodrigo, Axe, and Mark.  When they get a fire alert, Supe uses Dr. Amy's cameras to find a log cabin on fire with movement inside.  Supe jumps into the burning cabin and rescues 3 kids: Brynn, Will, and Zoey.  With the increasing winds, Supe can't fly the children to the hospital.  Safe Haven Law says they can stay with Supe until they are reunited with their parents.  When the local news catches wind of Supe's bravery, Division Commander Richards calls him.  Richards is retiring and is considering Supe for the job.  Supe needs to apply and be prepared for a surprise inspection.  How hard can that be with 3 kids around?  Especially since one likes to steal, one likes to destroy, and one makes lethal boom-booms.<br/><br/>This movie relies on awkward moments, poop jokes, and running gags to keep you laughing.  Everything you would expect from Nickelodeon.  While this movie does provide laughs, it gives the viewers a lot of heart.  Supe and Brynn must learn to let their guards down and trust.  They will do it together.<br/><br/>3 out of 5 stars.",
     "image":{
@@ -27,7 +36,7 @@ var earlyScreening = [
     }
   },
     {
-      "option":"4",
+      "option":"5",
       "mtitle":"Knives Out",
       "review":"Benoit Blanc recieved an envelope under his door one day.  Inside was a newsclipping of Harlan Thrombey and a large sum of money.  A week ago, Harlan committed suicide after his 85th birthday party.  After sitting down with each of his family members, Benoit believes Harlan was murdered.  Now, he must figure out who, how, and why?  It comes down to lies, mud, and Watson.<br/><br/>Movies this good are hard to come by.  It is as funny as it is mysterious.  With his family members, his nurse, and his housekeeper all having a reason to kill him, this movie allows the twist and turns to be endless.  You will be guessing, laughing, and intrigued until the end.<br/><br/>5 out of 5 stars.",
       "image":{
