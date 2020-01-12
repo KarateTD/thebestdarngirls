@@ -4,13 +4,13 @@
     "alexa-sdk": "^1.0.6",
     "ask-sdk": "^2.7.0",
     "ask-sdk-core": "^2.7.0",
-    "ask-sdk-model": "^1.23.0",
-    "aws-sdk": "^2.562.0",
+    "ask-sdk-model": "^1.25.1",
+    "aws-sdk": "^2.601.0",
     "lodash": "^4.17.15",
-    "npm": "^6.12.1",
+    "npm": ">=6.13.4",
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "@types/node": "^10.17.3"
+    "@types/node": "^10.17.13"
   }
 }
