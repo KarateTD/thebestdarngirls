@@ -235,4 +235,14 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/1917.jpg"
     }
   }
+
+  {
+    "option":"1",
+    "mtitle":"Just Mercy",
+    "review":"In 1987, Walter McMillian, Johnny D to his family, cleared trees and looked up to the evening sky. He had no idea it would be the last day he would look at the sky as a free man. He was arrested for the brutal murder of Ronda Morrison. After the jury sentenced Johnny D to life, the judge overrode their sentence and gave Johnny D the death penalty. In Jackson, Georgia, Bryan Stevenson is an intern meeting with death row inmates to update them about their case. After he graduates Harvard 2 years later, Bryan moves to Alabama, he gets federal funding to start the Equal Justice Initiative or E.J.I., and he hires Eva as his Director of Operations. After meeting 5 other clients, Bryan meets Johnny D. He offers to help Johnny D but Johnny D doesn’t want to hear it. Bryan refuses to quit and meets with Johnny D’s family. They all admit attending a church fish fry with Johnny D the day of the murder. After hearing Bryan met with his family, Johnny D agrees to let Bryan be his lawyer.<br/><br/>Based on Just Mercy: A Story of Justice and Redemption by Bryan Stevenson, this story is moving, painful, and honest. It speaks on the unfair scales of justice based on race, class, economics, and political standing. You will be moved to tears when Bryan’s efforts fall short for some. At first glance, you will become angry at Ralph Myers. But as the film progress, you will learn the true nature of why he has done what he has done. You will sympathize with his agonizing decision. When you watch, remind yourself: This didn’t happen during slavery or Jim Crow laws. This happened in the late 1980s, less than 40 years ago. If you are inspired, donate to the E.J.I..<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/justmercy.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/justmercy.jpeg"
+    }
+ }
 */
