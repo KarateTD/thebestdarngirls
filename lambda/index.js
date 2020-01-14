@@ -721,6 +721,11 @@ const LibraryHandler = {
             	}
 			}
 		}
+
+		if(typeof menu === 'undefined'){
+			menu = "library"
+		}
+
 		let rows;
 		let parsedChoice;
 
