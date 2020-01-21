@@ -1,6 +1,15 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Black and Blue",
+    "review":"Afghan vet, Alicia West is a 3-week rookie at the New Orleans Police Department.  After hearing gunshots, Alicia walks into an abandoned plant to investigate.  She sees 2 men dead on the ground an another begging for his life.  She witnesses NARC Malone shoot the man in cold blood.  Another NARC spots her and shoots her multiple times.  She escapes but they want her body cam.  To cover his tracks, Malone tells the chief Alicia went rogue and shot all 3 men.  When the neighborhood kingpin Darius arrives on the scene, he is heartbroken to see his nephew dead on the ground.  Malone tells him Alicia killed his nephew.  Now, Alicia has dirty, armed cops and heavily armed gang members hunting her down.  She must get the camera back to the station to upload the footage.  She hopes to clear her name with the police, call off Darius' hit, and hold Malone accountable for his actions.  Good thing she has a Mouse on her side.<br/><br/>While this movie addresses profiling and police brutality, it touches on 2 issues that are easy to miss.  First, the lack of technology.  If the footage was wirelessly uploaded to the cloud, this movie would not exist.  Second, good cops holding bad cops accountable.  When Alicia decides to tell the truth, she knew she would be labeled a rat.  She doesn't care.  This movie is a wild ride that doesn't get too preachy by adding some quick wit.<br/><br/>4 out of 5 stars.",
+    "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackandblue.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"Maleficent: Mistress of Evil",
     "review":"After asking Aurora to marry him, Prince Phillip extends an invitation for Maleficent to meet his parents, King John and Queen Ingrith.  At the dinner, both women take verbal jabs at each other.  But Maleficent can't take it any longer.  She uses her magic to push everyone away and the king collapses and falls into a deep sleep.  The queen tells her guard, Gerda, to shoot Maleficent with a lead bullet for cursing the king.  Gerda takes the shot and Maleficent falls from the sky.  But she is saved by a dark winged creature.  This creature will show Maleficent a world she never knew existed.  Maleficent will need to decide: bring peace for the love of one human or bring war for the love of all fairies like her.<br/><br/>Serving as a sequel, this movie gives a new story for Maleficent while respecting the original.  The CGI, make-up, and costume design are second to none.  Each fairy has a unique look but with little details to let you know they are related.  Be prepared to laugh, clutch your pearls, and gasp with amazement.  This movie is only missing a visual aspect of Ingrith's story.  It's hard to understand if she is lying or telling the truth about her past.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Jexi",
     "review":"After crashing into Cate, Phil has to replace his phone.  His phone has kept him entertained and isolated from the world.  His phone comes with a digital assistant named Jexi.  Phil accepts the user agreement without reading it.  This is a mistake.  He has given Jexi permission to override his commands if Jexi has an option that will make Phil's life better.  Phil tries to replace his phone but Jexi downloads its software from the cloud.  So, Phil gives in.  At first, Jexi is helping Phil get a job, friends, and Cate.  When Phil ignores Jexi for his better life, Jexi goes crazy like a stalker ex.<br/><br/>This extremely funny comedy will have you examining how much you live by your phone.  You will question if you Instagram life is better than your real life.  When Denise compares cell phone addicts to crackheads, she believes crackheads are better.  Crackheads have friends, exercise, and get out of the house.  Phil is lacking at all 3.  While this movie has a strong message, it doesn't get preachy.  A bonus: Jexi trash talks Alexa, Siri, and Cortana.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Joker",
     "review":"Arthur, an aspiring stand-up comedian, works as a clown.  After being attacked by kids, losing his job, and getting a gun, Arthur shoots and kills 3 businessmen on the train during an assault.  This is the only time Arthur has felt alive and he doesn't feel bad.  The next morning, the downtrodden of Gotham see the masked clown as their voice.  He has stood up to the elite that looks down on him.  Arthur finally feels heard and seen.  But when his mother's letters lead him to a dark truth, he will cross paths with a young Bruce Wayne and brings a new found madness to Gotham.<br/><br/>Now here is the proverbial question: Did the darkness of Gotham create the Joker or did Joker bring out the darkness in Gotham.  This is not for children and it is not the M.C.U..  It's a D.C. comics movie, the way it's supposed to be.  Dark, complicated, gritty, raw, and unfiltered.  You will enjoy this movie from beginning to end.  Don't stay past the end credits and there is no need for IMAX or 3D.  Dolby is good enough.<br/><br/>5 out of 5 stars.",
     "image":{
@@ -27,21 +36,12 @@ var mustBuy = [
     }
   },
   {
-      "option":"4",
+      "option":"5",
       "mtitle":"Overcomer",
       "review":"Orphaned, sticky-fingered Hannah is the only runner who showed up for the cross country team.  With a reluctant coach, Hannah will unearth the truth about her past, find a path to faith, and discover the fire of an athlete inside of her with a redeemed coach in her ear.  All she needs is in Ephesians, chapter 1 and 2.<br/><br/>This is a Christian film but it also a coming-of-age, sports drama that serves lots of tea.  When you leave you will ask yourself one question, \"Who am I\"?<br/><br/>4.5 out of 5 stars.",
       "image":{
           "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/overcomer.jpg",
           "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/overcomer.jpg"
-      }
-    },
-    {
-     "option":"5",
-      "mtitle":"Rambo: Last Blood",
-      "review":"John Rambo is dealing with his PTSD by building tunnels under his farm while taking medication.  He cares for his niece Gabby with the help of his farm manager Maria.  Gabby discovered the whereabouts of her father Manuel and wants to see him.  Maria and John are against it.  Under the guise of spending time with friends, Gabby goes to Mexico to see her father.  She doesn't return.  John must go back to the darkest parts of his mind and become Rambo to get Gabby back.<br/><br/>With the drive of Bryan Mills, the ingenuity of Kevin McCallister, and the striking blow of Scarlet Witch, Rambo delivers the bloody, revenge story we all want to see from this franchise.  New fans don't have to see the first 4 to watch.  Original fans will see the links between First Blood and Last Blood.  If you have a strong stomach, see it today.<br/><br/>4 out of 5 stars.",
-      "image":{
-          "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rambolastblood.jpg",
-          "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rambolastblood.jpg"
       }
     }
 ];
@@ -54,19 +54,7 @@ module.exports = mustBuy;
 *  large image 1200w x 800h (in pixels)
 */
 
-/*  For Must Buy later
-
-    {
-        "option":"1",
-        "mtitle":"Black and Blue",
-        "review":"Afghan vet, Alicia West is a 3-week rookie at the New Orleans Police Department.  After hearing gunshots, Alicia walks into an abandoned plant to investigate.  She sees 2 men dead on the ground an another begging for his life.  She witnesses NARC Malone shoot the man in cold blood.  Another NARC spots her and shoots her multiple times.  She escapes but they want her body cam.  To cover his tracks, Malone tells the chief Alicia went rogue and shot all 3 men.  When the neighborhood kingpin Darius arrives on the scene, he is heartbroken to see his nephew dead on the ground.  Malone tells him Alicia killed his nephew.  Now, Alicia has dirty, armed cops and heavily armed gang members hunting her down.  She must get the camera back to the station to upload the footage.  She hopes to clear her name with the police, call off Darius' hit, and hold Malone accountable for his actions.  Good thing she has a Mouse on her side.<br/><br/>While this movie addresses profiling and police brutality, it touches on 2 issues that are easy to miss.  First, the lack of technology.  If the footage was wirelessly uploaded to the cloud, this movie would not exist.  Second, good cops holding bad cops accountable.  When Alicia decides to tell the truth, she knew she would be labeled a rat.  She doesn't care.  This movie is a wild ride that doesn't get too preachy by adding some quick wit.<br/><br/>4 out of 5 stars.",
-        "image":{
-            "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackandblue.jpg",
-            "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
-        }
-    }
-
-        
+/*  For Must Buy later    
 
     {
         "option":"2",
