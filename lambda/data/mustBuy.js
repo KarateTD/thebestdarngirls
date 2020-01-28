@@ -215,4 +215,24 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/justmercy.jpeg"
     }
  }
+
+ {
+    "option":"2",
+    "mtitle":"The Last Full Measure",
+    "review":"On September 9, 1999, Scott is stuck in DC traffic. He gets a call that his boss is retiring, leaving his job as a Pentagon staffer up in the air. He leaves his wife, Tara, in traffic and jumps on the metro. Scott sits and reads is daily packet and meets with is 11 o'clock appointment. It's Vietnam Air Force Vet Thomas Tully. Decades ago, Tully applied for William Hope Pitsenbarger to receive the Medal of Honor. After an investigation, it was downgraded to an Air Force Cross. Tully believes this is wrong. Staff Sargent Pitsenbarger was an Air Force Pararescuemen who was on a mission to airlift injured army men out of the battlefield in Vietnam in mission Abilene. When the first man is pulled up, Pitsenbarger realizes it's the Army medic. Pitsenbarger knows the men on the ground will need help to get the others to safety. When the last helicopter was about to fly off, they told Pitsenbarger to get back on the plane. He sent up one more man, signaled them to leave him, got a gun, and prepared for battle. He lost his life for men he never met. To get the Medal of Honor, Scott knows you need 3 things. Pitsenbarger is only missing the approval from the chain of command. Scott starts his investigation and sees the toll the war has taken on these men but he sees their courage in trying to honor their fallen comrade. When Scott's job is at risk because of political football, can he overcome his fear to get Pitsenbarger his medal before his father, Frank Pitsenbarger, dies of cancer?<br/><br/>n a time veterans are fighting for decent healthcare, this movie will make you want to stand up for them. The physical and emotional scars are presented to the viewer for shock and compassion. Each man has worked tirelessly for decades to obtain the Medal of Honor while coping with loss, regret, pain, and PTSD. Their constant disappointment in this country is reflected the moment they see Scott. They believe he is another puppet sent to sweep Pitsenbarger's valor under the rug. When he shows his true dedication to the project, it allows him to open his heart and fight it through to the end.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thelastfullmeasure.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thelastfullmeasure.jpg"
+    }
+  }
+
+  {
+    "option":"1",
+    "mtitle":"The Gentlemen",
+    "review":"Raymond comes home and gets a bottle of liquor when he hears ice rattling behind him.  It's private investigator Fletcher.  Fletcher was hired to find dirt on Raymond's boss, Mickey, for 150,000 pounds.  Fletcher has found a score of information and turned it into a script.  If Raymond pays in 20 million pounds, he can have the script.  Raymond is annoyed by Fletcher but offers to hear him out.  Fletcher starts with his boss Big Dave.  Big Dave hired Fletcher to get dirt on Mickey because Mickey snubbed him at a party in front of some very influential people. Mickey is ready to give up the marijuana business and retire from the mobster lifestyle.  He has decided to sell his operation to Matthew for 400 million. When word gets out that Mickey is going to retire, Dry Eye comes to Mickey to strike a deal.  Mickey thinks Dry Eyes' offer is disrespectful and unapproved by his boss Lord George.  Then, Mickey gets bad news.  One of his stash houses has been robbed and the video is streaming online as a rap video. Mickey knows the underworld sees his retirement as a weakness and everyone is gunning for him, his wife, and his business.  And that's just half of Fletcher's story.<br/><br/>In true Guy Ritchie storytelling, it's not over until it's over.  You have to be at this movie on time or you will miss crucial parts of the setup.  Of course, you can't trust what you see because Fletcher is telling a story for the 1st half of the movie.  The second half is told in real-time and has everyone one-upping each other.  This movie will become an instant cult classic while leaving an ending for part two.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegentlemen.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegentlemen.jpeg"
+    }
+  }
 */
