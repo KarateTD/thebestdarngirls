@@ -714,7 +714,7 @@ const LibraryHandler = {
 				console.log("**** movielist and query have values")
            		if (request.intent.slots.MovieList.value != null){
 					console.log("****** if movie list has value")
-                	choice = request.intent.slots.MovieList.value;
+                	choice = request.intent.slots.MovieList.resolutions.resolutionsPerAuthority[0].values[0].value.name;
             	}else if(request.intent.slots.query.value != null){
 					console.log("****** if query has value")
                 	choice = request.intent.slots.query.value;
