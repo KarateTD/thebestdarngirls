@@ -713,7 +713,7 @@ const LibraryHandler = {
 			if(request.intent.slots.MovieList != null && request.intent.slots.query != null){
 				console.log("**** movielist and query have values")
            		if (request.intent.slots.MovieList.value != null){
-					console.log("****** if movie list has valeu")
+					console.log("****** if movie list has value")
                 	choice = request.intent.slots.MovieList.value;
             	}else if(request.intent.slots.query.value != null){
 					console.log("****** if query has value")
@@ -821,7 +821,7 @@ const LibraryHandler = {
 		            handlerInput.responseBuilder.addDirective({
         		        type: 'Alexa.Presentation.APL.RenderDocument',
                 		document : MovieOptions,
- 		               datasources : {
+ 		                datasources : {
         		            "MovieOptionsTemplateMetadata": {
                 		        "type": "object",
                         		"objectId": "moMetadata",
@@ -844,8 +844,8 @@ const LibraryHandler = {
 		                }
         		    }); //end handler
 		        }else if(supportsAPL(handlerInput) && rows[0] == "" && offset == 0){
-        		    starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " Creed, John Wick, Wreck-it Ralph, Aurora Teagarden, or Hailey Dean Mysteries.  The latest movies added are Good Witch, Shaft, Killer Contractor, and Love, Fall, and Order.";
-					console.log("******* no serch values")
+        		    starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " Creed, John Wick, Wreck-it Ralph, Aurora Teagarden, or Hailey Dean Mysteries.  The latest movies added are Joker, Chris Watts: Confessions of a Killer, and Friends Who Kill.";
+					console.log("******* no serch values Parsed: " + parsedChoice + " Choice: " + choice + " Search: " + searchChoice)
 		            handlerInput.responseBuilder.addDirective({
         		        type: 'Alexa.Presentation.APL.RenderDocument',
                 		document : LibraryWelcome,
