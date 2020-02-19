@@ -1,6 +1,24 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"A Beautiful Day in the Neighborhood",
+    "review":"Lloyd Vogel, an investigative journalist for Esquire Magazine is given his next assignment. He has to profile television star, Mr. Rogers. Vogel doesn't want to do a puff piece about a children's show host. For the heroes' issue, Mr. Rogers was the only hero willing to be interviewed by Lloyd. Lloyd is ready to do a piece exposing the man behind Mr. Rogers. Instead, he learns about the man who became Mr. Rogers. A one-minute assignment will put Lloyd's life, his perspective on Mr. Rogers, and Lloyd's family into focus.<br/><br/>It's remarkable to watch his movie because it was shot as one large Mr. Roger's episode. All aerial shots are done with Mr. Roger's town models. You will see a picture-in-picture about how magazines are made. Also, you will sit will the audience for one-minute, completing a Mr. Rogers assignment, and be able to hear a pin drop. This was an amazing tribute to a beautiful man.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abeautifuldayintheneighborhood.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abeautifuldayintheneighborhood.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"21 Bridges",
+    "review":"Andre is called to a scene with 7 dead officers and another on life support. The store owner is dead with a gun in his hand. A volt is filled with hundreds of kilos of cocaine. Andre deduces their must have been 2 shooters but they were not prepared for the amount of cocaine in the volt or that the police officers were nearby. Andre believes something went wrong for the two shooters, now they are on the run. With so much cocaine on them, Andre knows they have to stay local to convert it into cash. He decides to trap the shooters in Manhanttan by closing the tunnels, trains, ferries, and 21 bridges. To get off the island, they have to go through him.<br/><br/>Now, the first 15 minutes is used to help you understand the type of cop Andre is and the type he isn’t. The rest of the movie is a heart-pounding race to the two shooters. But keep your eyes and ears open. Everything is a clue to a bigger plan in play.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/21bridges.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/21bridges.jpg"
+    }
+  },
+  {
+    "option":"3",
     "mtitle":"Ford versus Ferrari",
     "review":"Henry Ford the 2nd tried to buy Ferrari with the hopes their superior racing team would boost Ford's car sells. Instead, Enzo Ferrari used Ford's interest in Ferrari to sell to Fiat at a higher price. Now Ford wants to destroy Ferrari by beating them at Le Mans, a 24-hour race. Lee Iacocca knows the engineer to build the car, Carroll Shelby. Shelby, a Le Mans winner, can't race because of a heart condition. But he knows the best racer for the job, Ken Miles. Ken hates the idea. He knows Ford won't let them do what they need to do to win. Shelby promises otherwise. It only takes one race for Shelby to realize Ken was right and it will cost them everything.<br/><br/>Get ready to have all the feels: happiness, anger, sadness, and pure adrenaline. As Ken races, you can feel the pressure on your chest and will hold on to your armrest. This movie reminds you that accountants and corporate honchos ruined American cars.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -9,7 +27,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"4",
     "mtitle":"Harriet",
     "review":"After Gideon hears Minty praying for his father's death, he tells her she will be nothing more than property, just one of his pigs.  So, God will never listen to her prayers.  The next morning, Gideon's father dies.  Minty knows Gideon blames her and will make plans to sell her down south in the morning.  Slaves sold to the south never return.  Minty makes a plan to escape with her husband John.  Unlike Minty, John is free but he doesn't want to have kids with Minty because they will be born slaves.  Minty escapes and tries to meet up with John but Gideon is already confronting him.  So she keeps running.  One hundred miles later, Minty has left enslavement in Maryland to the freedom of Pennsylvania.  She meets with William Still.  He documents her story in his book of runaway slaves and tells her to pick a new name.  She chooses Harriet after her mother and Tubman like her husband John.  Now, she is Harriet Tubman.  A year later, Harriet wants to go back to get her husband and later get her family.  William is against it but her friend and businesswoman, Marie, gives her guidance on social graces, dress, and gives her free papers.  The decision to go back will turn this woman into the myth of Moses and the legend of Harriet.<br/><br/>If you are looking for a movie that focuses on the brutality and inhumane treatment of enslaved people, this is not the movie for you.  This movie focuses on Harriet's hardships to become the American Historical figure we know today.  At that time her spells were described as messages from God, now we would consider it brain damage.  This should not be mistaken as the writers giving her a superhuman quality.  This movie should be used as a jumping point for you to research the strength of this one woman.  However, the movie's end felt rushed.  It only mentions her work as a spy in the Civil War and her envolvement in the woman's suffrage movement.  Like many history books, these great strides for women are only a footnote.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -18,30 +36,12 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"5",
     "mtitle":"Black and Blue",
     "review":"Afghan vet, Alicia West is a 3-week rookie at the New Orleans Police Department.  After hearing gunshots, Alicia walks into an abandoned plant to investigate.  She sees 2 men dead on the ground and another begging for his life.  She witnesses NARC Malone shoot the man in cold blood.  Another NARC spots her and shoots her multiple times.  She escapes but they want her body cam.  To cover his tracks, Malone tells the chief Alicia went rogue and shot all 3 men.  When the neighborhood kingpin, Darius, arrives on the scene, he is heartbroken to see his nephew dead on the ground.  Malone tells him Alicia killed his nephew.  Now, Alicia has dirty, armed cops and heavily armed gang members hunting her down.  She must get the camera back to the station to upload the footage.  She hopes to clear her name with the police, call off Darius's hit, and hold Malone accountable for his actions.  Good thing she has a Mouse on her side.<br/><br/>While this movie spotlights profiling and police brutality, it touches on 2 issues that are easy to miss.  First, the lack of technology.  If the footage was wirelessly uploaded to the cloud, this movie would not exist.  Second, good cops holding bad cops accountable.  When Alicia decides to tell the truth, she knew she would be labeled a rat.  She doesn't care.  This movie is a wild ride that doesn't get too preachy by adding some quick wit.<br/><br/>4 out of 5 stars.",
     "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackandblue.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Maleficent: Mistress of Evil",
-    "review":"After asking Aurora to marry him, Prince Phillip extends an invitation for Maleficent to meet his parents, King John and Queen Ingrith.  At the dinner, both women take verbal jabs at each other.  But Maleficent can't take it any longer.  She uses her magic to push everyone away and the king collapses and falls into a deep sleep.  The queen tells her guard, Gerda, to shoot Maleficent with a lead bullet for cursing the king.  Gerda takes the shot and Maleficent falls from the sky.  But she is saved by a dark winged creature.  This creature will show Maleficent a world she never knew existed.  Maleficent will need to decide: bring peace for the love of one human or bring war for the love of all fairies like her.<br/><br/>Serving as a sequel, this movie gives a new story for Maleficent while respecting the original.  The CGI, make-up, and costume design are second to none.  Each fairy has a unique look but with little details to let you know they are related.  Be prepared to laugh, clutch your pearls, and gasp with amazement.  This movie is only missing a visual aspect of Ingrith's story.  It's hard to understand if she is lying or telling the truth about her past.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maleficentmistressofevil.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maleficentmistressofevil.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Jexi",
-    "review":"After crashing into Cate, Phil has to replace his phone.  His phone has kept him entertained and isolated from the world.  His phone comes with a digital assistant named Jexi.  Phil accepts the user agreement without reading it.  This is a mistake.  He has given Jexi permission to override his commands if Jexi has an option that will make Phil's life better.  Phil tries to replace his phone but Jexi downloads its software from the cloud.  So, Phil gives in.  At first, Jexi is helping Phil get a job, friends, and Cate.  When Phil ignores Jexi for his better life, Jexi goes crazy like a stalker ex.<br/><br/>This extremely funny comedy will have you examining how much you live by your phone.  You will question if you Instagram life is better than your real life.  When Denise compares cell phone addicts to crackheads, she believes crackheads are better.  Crackheads have friends, exercise, and get out of the house.  Phil is lacking at all 3.  While this movie has a strong message, it doesn't get preachy.  A bonus: Jexi trash talks Alexa, Siri, and Cortana.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/jexi.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/jexi.jpg"
     }
   }
 ];
@@ -65,16 +65,6 @@ module.exports = mustBuy;
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alwaysinseason.jpg"
         }
     }
-
-      {
-    "option":"1",
-    "mtitle":"A Beautiful Day in the Neighborhood",
-    "review":"Lloyd Vogel, an investigative journalist for Esquire Magazine is given his next assignment. He has to profile television star, Mr. Rogers. Vogel doesn't want to do a puff piece about a children's show host. For the heroes' issue, Mr. Rogers was the only hero willing to be interviewed by Lloyd. Lloyd is ready to do a piece exposing the man behind Mr. Rogers. Instead, he learns about the man who became Mr. Rogers. A one-minute assignment will put Lloyd's life, his perspective on Mr. Rogers, and Lloyd's family into focus.<br/><br/>It's remarkable to watch his movie because it was shot as one large Mr. Roger's episode. All aerial shots are done with Mr. Roger's town models. You will see a picture-in-picture about how magazines are made. Also, you will sit will the audience for one-minute, completing a Mr. Rogers assignment, and be able to hear a pin drop. This was an amazing tribute to a beautiful man.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abeautifuldayintheneighborhood.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abeautifuldayintheneighborhood.jpeg"
-    }
-  }
 
       {
       "option":"3",
@@ -106,16 +96,6 @@ module.exports = mustBuy;
     }
   }
 
-    {
-    "option":"2",
-    "mtitle":"21 Bridges",
-    "review":"Andre is called to a scene with 7 dead officers and another on life support. The store owner is dead with a gun in his hand. A volt is filled with hundreds of kilos of cocaine. Andre deduces their must have been 2 shooters but they were not prepared for the amount of cocaine in the volt or that the police officers were nearby. Andre believes something went wrong for the two shooters, now they are on the run. With so much cocaine on them, Andre knows they have to stay local to convert it into cash. He decides to trap the shooters in Manhanttan by closing the tunnels, trains, ferries, and 21 bridges. To get off the island, they have to go through him.<br/><br/>Now, the first 15 minutes is used to help you understand the type of cop Andre is and the type he isn’t. The rest of the movie is a heart-pounding race to the two shooters. But keep your eyes and ears open. Everything is a clue to a bigger plan in play.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/21bridges.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/21bridges.jpg"
-    }
-  }
-  
     {
     "option":"1",
     "mtitle":"Dark Waters",
@@ -196,8 +176,8 @@ module.exports = mustBuy;
     }
  }
 
- {
-    "option":"2",
+  {
+    "option":"4",
     "mtitle":"The Last Full Measure",
     "review":"On September 9, 1999, Scott is stuck in DC traffic. He gets a call that his boss is retiring, leaving his job as a Pentagon staffer up in the air. He leaves his wife, Tara, in traffic and jumps on the metro. Scott sits and reads is daily packet and meets with is 11 o'clock appointment. It's Vietnam Air Force Vet Thomas Tully. Decades ago, Tully applied for William Hope Pitsenbarger to receive the Medal of Honor. After an investigation, it was downgraded to an Air Force Cross. Tully believes this is wrong. Staff Sargent Pitsenbarger was an Air Force Pararescuemen who was on a mission to airlift injured army men out of the battlefield in Vietnam in mission Abilene. When the first man is pulled up, Pitsenbarger realizes it's the Army medic. Pitsenbarger knows the men on the ground will need help to get the others to safety. When the last helicopter was about to fly off, they told Pitsenbarger to get back on the plane. He sent up one more man, signaled them to leave him, got a gun, and prepared for battle. He lost his life for men he never met. To get the Medal of Honor, Scott knows you need 3 things. Pitsenbarger is only missing the approval from the chain of command. Scott starts his investigation and sees the toll the war has taken on these men but he sees their courage in trying to honor their fallen comrade. When Scott's job is at risk because of political football, can he overcome his fear to get Pitsenbarger his medal before his father, Frank Pitsenbarger, dies of cancer?<br/><br/>n a time veterans are fighting for decent healthcare, this movie will make you want to stand up for them. The physical and emotional scars are presented to the viewer for shock and compassion. Each man has worked tirelessly for decades to obtain the Medal of Honor while coping with loss, regret, pain, and PTSD. Their constant disappointment in this country is reflected the moment they see Scott. They believe he is another puppet sent to sweep Pitsenbarger's valor under the rug. When he shows his true dedication to the project, it allows him to open his heart and fight it through to the end.<br/><br/>4.5 out of 5 stars.",
     "image":{
