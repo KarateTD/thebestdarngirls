@@ -1209,7 +1209,7 @@ function parseResults(rowReturns, rowCount, phrase){
 		let myMtitle = obj[keys[1]]['stringValue']; let myReview = obj[keys[4]]['blobValue'];
 		let myRating = obj[keys[2]]['doubleValue']; let myImage = obj[keys[3]]['stringValue'];
 
-		resultString += "{\n\"option\":\""+count+"\",\n\"mtitle\":\""+ myMtitle+"\",\n\"review\":\""+myReview+"<br/><br/>"+myRating+" out of 5 stars.\",\n\"image\":{\n\"smallImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/small-image/"+myImage+"\",\n\"largeImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/small-image/"+myImage+"\"\n}\n},";
+		resultString += "{\n\"option\":\""+count+"\",\n\"mtitle\":\""+ myMtitle+"\",\n\"review\":\""+myReview+"<br/><br/>"+myRating+" out of 5 stars.\",\n\"image\":{\n\"smallImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/small-image/"+myImage+"\",\n\"largeImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/large-image/"+myImage+"\"\n}\n},";
 		count = count + 1;
 	});
 
