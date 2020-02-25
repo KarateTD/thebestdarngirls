@@ -2,5 +2,6 @@ publish*sh
 *zip
 .idea
 s3move.sh
+s3copy.sh
 desktop.ini
 *.copy

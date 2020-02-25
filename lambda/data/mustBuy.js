@@ -1,6 +1,24 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Knives Out",
+    "review":"Knives Out was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library for Premium Access members only.  To have access to the review and rating say 'I want to buy Premium Access'.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/knivesout.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/knivesout.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Frozen 2",
+    "review":"Fire and water disappear from Arendelle and the wind wreaks havoc on the town. Queen Elsa gets the townspeople to safety. Grand Pabbie tells Elsa the Elemental Spirits in the Enchanted Forest want the truth to come out. Queen Elsa, Princess Anna, Kristoff, Sven, and Olaf walk to the Enchanted Forest. The mist hides the truth about Elsa's powers, Anna's strength, Kristoff's true north, and Olaf's knowledge. But can they sacrifice the world they know for the forgotten past?<br/><br/>First, you must see Frozen before you see this movie. Even though Olaf does an amazing recap, he misses some of the nuances. Second, you should see this movie in IMAX, 3D, or both if you can. This Disney movie is different because their isn't a real villain. This movie focuses more on correcting Arendelle's past with the people of Northuldra. Parents will laugh at some slick jokes while having a sense of nostalgia at Kristoff's 90s power ballad styled music video. Kids will be engrossed in the action scenes. You won't regret seeing this one in the theaters.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/frozen2.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/frozen2.jpeg"
+    }
+  },
+  {
+    "option":"3",
     "mtitle":"A Beautiful Day in the Neighborhood",
     "review":"Lloyd Vogel, an investigative journalist for Esquire Magazine is given his next assignment. He has to profile television star, Mr. Rogers. Vogel doesn't want to do a puff piece about a children's show host. For the heroes' issue, Mr. Rogers was the only hero willing to be interviewed by Lloyd. Lloyd is ready to do a piece exposing the man behind Mr. Rogers. Instead, he learns about the man who became Mr. Rogers. A one-minute assignment will put Lloyd's life, his perspective on Mr. Rogers, and Lloyd's family into focus.<br/><br/>It's remarkable to watch his movie because it was shot as one large Mr. Roger's episode. All aerial shots are done with Mr. Roger's town models. You will see a picture-in-picture about how magazines are made. Also, you will sit will the audience for one-minute, completing a Mr. Rogers assignment, and be able to hear a pin drop. This was an amazing tribute to a beautiful man.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -9,7 +27,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"4",
     "mtitle":"21 Bridges",
     "review":"Andre is called to a scene with 7 dead officers and another on life support. The store owner is dead with a gun in his hand. A volt is filled with hundreds of kilos of cocaine. Andre deduces their must have been 2 shooters but they were not prepared for the amount of cocaine in the volt or that the police officers were nearby. Andre believes something went wrong for the two shooters, now they are on the run. With so much cocaine on them, Andre knows they have to stay local to convert it into cash. He decides to trap the shooters in Manhattan by closing the tunnels, trains, ferries, and 21 bridges. To get off the island, they have to go through him.<br/><br/>Now, the first 15 minutes is used to help you understand the type of cop Andre is and the type he isn’t. The rest of the movie is a heart-pounding race to the two shooters. But keep your eyes and ears open. Everything is a clue to a bigger plan in play.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -18,30 +36,12 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"5",
     "mtitle":"Ford versus Ferrari",
     "review":"Henry Ford the 2nd tried to buy Ferrari with the hopes their superior racing team would boost Ford's car sells. Instead, Enzo Ferrari used Ford's interest in Ferrari to sell to Fiat at a higher price. Now Ford wants to destroy Ferrari by beating them at Le Mans, a 24-hour race. Lee Iacocca knows the engineer to build the car, Carroll Shelby. Shelby, a Le Mans winner, can't race because of a heart condition. But he knows the best racer for the job, Ken Miles. Ken hates the idea. He knows Ford won't let them do what they need to do to win. Shelby promises otherwise. It only takes one race for Shelby to realize Ken was right and it will cost them everything.<br/><br/>Get ready to have all the feels: happiness, anger, sadness, and pure adrenaline. As Ken races, you can feel the pressure on your chest and will hold on to your armrest. This movie reminds you that accountants and corporate honchos ruined American cars.<br/><br/>4 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fordvferrari.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fordvferrari.jpg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Harriet",
-    "review":"After Gideon hears Minty praying for his father's death, he tells her she will be nothing more than property, just one of his pigs.  So, God will never listen to her prayers.  The next morning, Gideon's father dies.  Minty knows Gideon blames her and will make plans to sell her down south in the morning.  Slaves sold to the south never return.  Minty makes a plan to escape with her husband John.  Unlike Minty, John is free but he doesn't want to have kids with Minty because they will be born slaves.  Minty escapes and tries to meet up with John but Gideon is already confronting him.  So she keeps running.  One hundred miles later, Minty has left enslavement in Maryland to the freedom of Pennsylvania.  She meets with William Still.  He documents her story in his book of runaway slaves and tells her to pick a new name.  She chooses Harriet after her mother and Tubman like her husband John.  Now, she is Harriet Tubman.  A year later, Harriet wants to go back to get her husband and later get her family.  William is against it but her friend and businesswoman, Marie, gives her guidance on social graces, dress, and gives her free papers.  The decision to go back will turn this woman into the myth of Moses and the legend of Harriet.<br/><br/>If you are looking for a movie that focuses on the brutality and inhumane treatment of enslaved people, this is not the movie for you.  This movie focuses on Harriet's hardships to become the American Historical figure we know today.  At that time her spells were described as messages from God, now we would consider it brain damage.  This should not be mistaken as the writers giving her a superhuman quality.  This movie should be used as a jumping point for you to research the strength of this one woman.  However, the movie's end felt rushed.  It only mentions her work as a spy in the Civil War and her envolvement in the woman's suffrage movement.  Like many history books, these great strides for women are only a footnote.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/harriet.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/harriet.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Black and Blue",
-    "review":"Afghan vet, Alicia West is a 3-week rookie at the New Orleans Police Department.  After hearing gunshots, Alicia walks into an abandoned plant to investigate.  She sees 2 men dead on the ground and another begging for his life.  She witnesses NARC Malone shoot the man in cold blood.  Another NARC spots her and shoots her multiple times.  She escapes but they want her body cam.  To cover his tracks, Malone tells the chief Alicia went rogue and shot all 3 men.  When the neighborhood kingpin, Darius, arrives on the scene, he is heartbroken to see his nephew dead on the ground.  Malone tells him Alicia killed his nephew.  Now, Alicia has dirty, armed cops and heavily armed gang members hunting her down.  She must get the camera back to the station to upload the footage.  She hopes to clear her name with the police, call off Darius's hit, and hold Malone accountable for his actions.  Good thing she has a Mouse on her side.<br/><br/>While this movie spotlights profiling and police brutality, it touches on 2 issues that are easy to miss.  First, the lack of technology.  If the footage was wirelessly uploaded to the cloud, this movie would not exist.  Second, good cops holding bad cops accountable.  When Alicia decides to tell the truth, she knew she would be labeled a rat.  She doesn't care.  This movie is a wild ride that doesn't get too preachy by adding some quick wit.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackandblue.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackandblue.jpg"
     }
   }
 ];
@@ -64,16 +64,6 @@ module.exports = mustBuy;
             "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/alwaysinseason.jpg",
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alwaysinseason.jpg"
         }
-    }
-
-      {
-      "option":"3",
-      "mtitle":"Knives Out",
-      "review":"Benoit Blanc recieved an envelope under his door one day.  Inside was a newsclipping of Harlan Thrombey and a large sum of money.  A week ago, Harlan committed suicide after his 85th birthday party.  After sitting down with each of his family members, Benoit believes Harlan was murdered.  Now, he must figure out who, how, and why?  It comes down to lies, mud, and Watson.<br/><br/>Movies this good are hard to come by.  It is as funny as it is mysterious.  With his family members, his nurse, and his housekeeper all having a reason to kill him, this movie allows the twist and turns to be endless.  You will be guessing, laughing, and intrigued until the end.<br/><br/>5 out of 5 stars.",
-      "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/knivesout.jpg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/knivesout.jpg"
-      }
     }
 
     {
