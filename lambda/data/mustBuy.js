@@ -2,7 +2,7 @@ var mustBuy = [
   {
     "option":"1",
     "mtitle":"Knives Out",
-    "review":"Knives Out was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library for Premium Access members only.  To have access to the review and rating say 'I want to buy Premium Access'.",
+    "review":"Knives Out was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/knivesout.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/knivesout.jpg"
