@@ -20,7 +20,7 @@ var mustBuy = [
   {
     "option":"3",
     "mtitle":"A Beautiful Day in the Neighborhood",
-    "review":"Lloyd Vogel, an investigative journalist for Esquire Magazine is given his next assignment. He has to profile television star, Mr. Rogers. Vogel doesn't want to do a puff piece about a children's show host. For the heroes' issue, Mr. Rogers was the only hero willing to be interviewed by Lloyd. Lloyd is ready to do a piece exposing the man behind Mr. Rogers. Instead, he learns about the man who became Mr. Rogers. A one-minute assignment will put Lloyd's life, his perspective on Mr. Rogers, and Lloyd's family into focus.<br/><br/>It's remarkable to watch his movie because it was shot as one large Mr. Roger's episode. All aerial shots are done with Mr. Roger's town models. You will see a picture-in-picture about how magazines are made. Also, you will sit will the audience for one-minute, completing a Mr. Rogers assignment, and be able to hear a pin drop. This was an amazing tribute to a beautiful man.<br/><br/>4.5 out of 5 stars.",
+    "review":"A Beautiful Day in the Neighborhood was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abeautifuldayintheneighborhood.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abeautifuldayintheneighborhood.jpeg"
@@ -186,13 +186,4 @@ module.exports = mustBuy;
     }
   }
 
-    {
-    "option":"5",
-    "mtitle":"A Beautiful Day in the Neighborhood",
-    "review":"Lloyd Vogel, an investigative journalist for Esquire Magazine is given his next assignment. He has to profile television star, Mr. Rogers. Vogel doesn't want to do a puff piece about a children's show host. For the heroes' issue, Mr. Rogers was the only hero willing to be interviewed by Lloyd. Lloyd is ready to do a piece exposing the man behind Mr. Rogers. Instead, he learns about the man who became Mr. Rogers. A one-minute assignment will put Lloyd's life, his perspective on Mr. Rogers, and Lloyd's family into focus.<br/><br/>It's remarkable to watch his movie because it was shot as one large Mr. Roger's episode. All aerial shots are done with Mr. Roger's town models. You will see a picture-in-picture about how magazines are made. Also, you will sit will the audience for one-minute, completing a Mr. Rogers assignment, and be able to hear a pin drop. This was an amazing tribute to a beautiful man.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abeautifuldayintheneighborhood.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abeautifuldayintheneighborhood.jpeg"
-    }
-  }
 */
