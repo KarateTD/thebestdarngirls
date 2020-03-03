@@ -1,4 +1,13 @@
 var mustBuy = [
+    {
+      "option":"1",
+      "mtitle":"Dark Waters",
+      "review":"Dark Waters was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'.",
+      "image":{
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/darkwaters.jpg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/darkwaters.jpg"
+      }
+    },
   {
     "option":"1",
     "mtitle":"Knives Out",
@@ -83,16 +92,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/frozen2.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/frozen2.jpeg"
-    }
-  }
-
-    {
-    "option":"1",
-    "mtitle":"Dark Waters",
-    "review":"Wilbur Tennant walks into Robbie Bilott's office with a box full of evidence that DuPont is poisoning his farmland. Robbie agrees to check out the farm at the request of his grandmother. At the farm, he sees 190 dead cows with enlarged intestines, rotting teeth, and tumors. Robbie can't ignore the problem. So, this chemical company attorney will fight for the people. With knowledge of every underhanded trick in the book, Robbie will fight DuPont with the people of Parksburg health, Wilbur's safety, and his life on the line.<br/><br/>Based on the New York Times article, you will leave the theater wanting to be tested for P.F.O.A., also known as C-8. Hearing the number of products it’s used in and how long DuPont knew it was making its customer sick will disgust you. And your heart will break when you hear the townspeople defend their biggest employer and benefactor. You know these people.  They are your family, friends, and co-workers. What happened to them, and America, all for the sake of one company’s profits is shameful.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/darkwaters.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/darkwaters.jpg"
     }
   }
 
