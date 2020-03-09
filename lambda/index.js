@@ -36,8 +36,8 @@ const goodbyeScreen='* Site: https://thatdarngirlmovie.reviews<br/>* Instagram: 
 const goodbyeCard='\t* Site: https://thatdarngirlmovie.reviews\n\t* Instagram: @thebestdarngirls\n\t* Twitter: @thebestdarngirl\n\t* Facebook: @thebestdarngirls\n\t* Email: thebestdarngirls@gmail.com'
 const hints=[' Show me ',' Tell me about ', ' I choose ', ' Select ', ' '];
 const libHints=['Look for', 'Look up', 'Find', 'How about', 'Search for' ];
-const smallLogo='https://s3.amazonaws.com/thebestdarngirls/library/small-image/APP_ICON.png';
-const largeLogo='https://s3.amazonaws.com/thebestdarngirls/library/large-image/APP_ICON.png';
+const smallLogo='https://thebestdarngirls.s3.amazonaws.com/library/small-image/APP_ICON.png';
+const largeLogo='https://thebestdarngirls.s3.amazonaws.com/library/large-image/APP_ICON.png';
 
 let inTheTheater = require('./data/inTheTheater');
 let madeForTV = require('./data/madeForTV');
