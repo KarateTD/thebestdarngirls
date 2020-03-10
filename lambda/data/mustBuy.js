@@ -1,6 +1,24 @@
 var mustBuy = [
+  {
+    "option":"1",
+    "mtitle":"Spies in Disguise",
+    "review":"Lance is upset his bomb released glitter and a video of a cat. This mishap allowed Killian to scan is face and almost get away with a killer drone. Lance confronts Walter and tells him to make things that go boom. Walter believes there is a non-violent way to get things done. He offers to show Lance an invention that will allow him to disappear. Instead of inquiring about the invention, Lance fires Walter. Lance takes the drone to his boss but she discovers the drone is missing. Marcy has a video of Lance stealing it. Lance knows Killian set him up. Lance escapes and wishes he could disappear to find Killian. Lance knocks on Walter's door. Without question, Lance drinks Walter's invention and is turned into a pigeon. When Lance asks to be changed back, Walter admits he doesn't have an antidote. If Walter makes the antidote, Lance will get him re-hired. Together, they will make one strong non-killing team.<br/><br/>This movie will have you laughing while working through a tough subject. Lance believes that criminals should be taken down even with deadly force. Even has a child, Walter dreamed of making weapons to save the world but not kill. He still believes it’s possible. You only need to see this movie in 2D format, anything else is unnecessary. Parents, just a warning, there is a 15-second moment of cartoon butt and some subtitles.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/spiesindisguise.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spiesindisguise.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Uncut Gems",
+    "review":"Howie allows Kevin Garnett to borrow a precious, uncut black opal with his championship ring as collateral. He tells Kevin he needs the opal back in time for the auction. Howie takes Garnett's ring and pawns it for gambling money. He hopes the bet will cover his losses, payback bookies, and get Kevin's ring back, so he can get the opal. Once at auction, Howie believes the Opal will fetch $1,000,000. However, someone stopped his bet. Now, he must stay one step ahead while everyone is on his tail.<br/><br/>This movie will have you on the edge of your seat from beginning to end. You have no idea which way is up the entire time of the movie. There are no good guys or bad guys in the movie, only hustlers. Each time Howie is one step ahead, he gets knocked backward. Get ready for one huge roller coaster ride.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/uncutgems.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/uncutgems.jpg"
+    }
+  },
     {
-      "option":"1",
+      "option":"3",
       "mtitle":"Dark Waters",
       "review":"Dark Waters was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'.",
       "image":{
@@ -9,7 +27,7 @@ var mustBuy = [
       }
     },
   {
-    "option":"2",
+    "option":"4",
     "mtitle":"Knives Out",
     "review":"Knives Out was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'.",
     "image":{
@@ -18,30 +36,12 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"5",
     "mtitle":"Frozen 2",
     "review":"Fire and water disappear from Arendelle and the wind wreaks havoc on the town. Queen Elsa gets the townspeople to safety. Grand Pabbie tells Elsa the Elemental Spirits in the Enchanted Forest want the truth to come out. Queen Elsa, Princess Anna, Kristoff, Sven, and Olaf walk to the Enchanted Forest. The mist hides the truth about Elsa's powers, Anna's strength, Kristoff's true north, and Olaf's knowledge. But can they sacrifice the world they know for the forgotten past?<br/><br/>First, you must see Frozen before you see this movie. Even though Olaf does an amazing recap, he misses some of the nuances. Second, you should see this movie in IMAX, 3D, or both if you can. This Disney movie is different because their isn't a real villain. This movie focuses more on correcting Arendelle's past with the people of Northuldra. Parents will laugh at some slick jokes while having a sense of nostalgia at Kristoff's 90s power ballad styled music video. Kids will be engrossed in the action scenes. You won't regret seeing this one in the theaters.<br/><br/>4.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/frozen2.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/frozen2.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"A Beautiful Day in the Neighborhood",
-    "review":"A Beautiful Day in the Neighborhood was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abeautifuldayintheneighborhood.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abeautifuldayintheneighborhood.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"21 Bridges",
-    "review":"Andre is called to a scene with 7 dead officers and another on life support. The store owner is dead with a gun in his hand. A volt is filled with hundreds of kilos of cocaine. Andre deduces their must have been 2 shooters but they were not prepared for the amount of cocaine in the volt or that the police officers were nearby. Andre believes something went wrong for the two shooters, now they are on the run. With so much cocaine on them, Andre knows they have to stay local to convert it into cash. He decides to trap the shooters in Manhattan by closing the tunnels, trains, ferries, and 21 bridges. To get off the island, they have to go through him.<br/><br/>Now, the first 15 minutes is used to help you understand the type of cop Andre is and the type he isn’t. The rest of the movie is a heart-pounding race to the two shooters. But keep your eyes and ears open. Everything is a clue to a bigger plan in play.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/21bridges.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/21bridges.jpg"
     }
   }
 ];
@@ -113,26 +113,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/jumanjithenextlevel.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/jumanjithenextlevel.jpg"
-    }
-  }
-
-    {
-    "option":"1",
-    "mtitle":"Uncut Gems",
-    "review":"Howie allows Kevin Garnett to borrow a precious, uncut black opal with his championship ring as collateral. He tells Kevin he needs the opal back in time for the auction. Howie takes Garnett's ring and pawns it for gambling money. He hopes the bet will cover his losses, payback bookies, and get Kevin's ring back, so he can get the opal. Once at auction, Howie believes the Opal will fetch $1,000,000. However, someone stopped his bet. Now, he must stay one step ahead while everyone is on his tail.<br/><br/>This movie will have you on the edge of your seat from beginning to end. You have no idea which way is up the entire time of the movie. There are no good guys or bad guys in the movie, only hustlers. Each time Howie is one step ahead, he gets knocked backward. Get ready for one huge roller coaster ride.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/uncutgems.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/uncutgems.jpg"
-    }
-  }
-  
-  {
-    "option":"2",
-    "mtitle":"Spies in Disguise",
-    "review":"Lance is upset his bomb released glitter and a video of a cat. This mishap allowed Killian to scan is face and almost get away with a killer drone. Lance confronts Walter and tells him to make things that go boom. Walter believes there is a non-violent way to get things done. He offers to show Lance an invention that will allow him to disappear. Instead of inquiring about the invention, Lance fires Walter. Lance takes the drone to his boss but she discovers the drone is missing. Marcy has a video of Lance stealing it. Lance knows Killian set him up. Lance escapes and wishes he could disappear to find Killian. Lance knocks on Walter's door. Without question, Lance drinks Walter's invention and is turned into a pigeon. When Lance asks to be changed back, Walter admits he doesn't have an antidote. If Walter makes the antidote, Lance will get him re-hired. Together, they will make one strong non-killing team.<br/><br/>This movie will have you laughing while working through a tough subject. Lance believes that criminals should be taken down even with deadly force. Even has a child, Walter dreamed of making weapons to save the world but not kill. He still believes it’s possible. You only need to see this movie in 2D format, anything else is unnecessary. Parents, just a warning, there is a 15-second moment of cartoon butt and some subtitles.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/spiesindisguise.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spiesindisguise.jpg"
     }
   }
 
