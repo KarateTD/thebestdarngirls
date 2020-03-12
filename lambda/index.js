@@ -9,7 +9,7 @@ const Review = require('./json/review.json');
 const Background = require('./json/background.json');
 
 const premLocaleVar = {
-	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  Emma and The Way back has been added to In The Theater reviews.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.',
+	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  Emma and The Way Back has been added to In The Theater reviews.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.',
 	mainOptions: '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand\n\t* Early Screening - Premium Access Only\n\t* Library - Premium Access Only',
 	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand<br/>* Early Screening - Premium Access Only<br/>* Library - Premium Access Only',
 	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.   For Video on Demand reviews, say Video on Demand.  For movies not yet in the theater, say Early Screening.  To search The Best Darn Girls Library, say Library.',
@@ -19,7 +19,7 @@ const premLocaleVar = {
 }
 
 const regLocaleVar = {
-	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  Emma and The Way back has been added to In The Theater reviews.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand',
+	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  Emma and The Way Back has been added to In The Theater reviews.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand',
 	mainOptions: '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand',
 	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand',
 	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores. For Video on Demand reviews, say Video on Demand.',

@@ -3,5 +3,6 @@ publish*sh
 .idea
 s3move.sh
 s3copy.sh
+s3delete.sh
 desktop.ini
 *.copy
