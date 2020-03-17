@@ -1,6 +1,24 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Jumanji: The Next Level",
+    "review":"Spencer feels like his life is in a rut so he goes back into Jumanji to feel brave.  Realizing what he has done, Beth, Anthony, and Marsha go back in to save him.  However, Bethany is left behind and Spencer's grandfather, Eddie, and Eddie's former friend, Milo are pulled into Jumanji.  With new avatars, missions, and goals, this is the next level of Jumanji.<br/><br/>Jumanji does just what the title says it will do, it goes to the next level.  Every character you know is back and more were added for fun.  It has all of the laughs and craziness you want from this franchise.  As the trailers say, not everyone will leave the game.  Jack Black is the breakout again playing 3 different characters.  Kevin Hart shows his acting chops as he plays Milo Walker.  See this movie as soon as you can.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/jumanjithenextlevel.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/jumanjithenextlevel.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Richard Jewell",
+    "review":"In 1986, Watson noticed Richard Jewell's attention to detail and nicknamed him Radar. When Richard gets a job in law enforcement, Watson gives him $100 to not become a jerk. Ten years later, Watson hears Richard is being interviewed for finding a bomb in Centennial Park. Watson is proud because Richard, labeled a hero, gives praise to everyone involved in the rescue efforts. When Richard is given book offers, he calls the only lawyer he knows, Watson. But when the FBI focuses their investigation on Richard, he will need Watson for a lot more.<br/><br/>It’s so hard to see a system Richard loves and respects so much turn on him. Richard tries to explain the FBI's actions to his family and friends. He believes they are the good guys like him. The FBI’s mistakes are sadly laughable as it is disgusting. In a day when sensationalism and clicks determine innocence and guilt, how long until another Richard Jewell is tried by the media?<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/richardjewell.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/richardjewell.jpg"
+    }
+  },
+  {
+    "option":"3",
     "mtitle":"Spies in Disguise",
     "review":"Lance is upset his bomb released glitter and a video of a cat. This mishap allowed Killian to scan is face and almost get away with a killer drone. Lance confronts Walter and tells him to make things that go boom. Walter believes there is a non-violent way to get things done. He offers to show Lance an invention that will allow him to disappear. Instead of inquiring about the invention, Lance fires Walter. Lance takes the drone to his boss but she discovers the drone is missing. Marcy has a video of Lance stealing it. Lance knows Killian set him up. Lance escapes and wishes he could disappear to find Killian. Lance knocks on Walter's door. Without question, Lance drinks Walter's invention and is turned into a pigeon. When Lance asks to be changed back, Walter admits he doesn't have an antidote. If Walter makes the antidote, Lance will get him re-hired. Together, they will make one strong non-killing team.<br/><br/>This movie will have you laughing while working through a tough subject. Lance believes that criminals should be taken down even with deadly force. Even has a child, Walter dreamed of making weapons to save the world but not kill. He still believes it’s possible. You only need to see this movie in 2D format, anything else is unnecessary. Parents, just a warning, there is a 15-second moment of cartoon butt and some subtitles.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -9,7 +27,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"4",
     "mtitle":"Uncut Gems",
     "review":"Howie allows Kevin Garnett to borrow a precious, uncut black opal with his championship ring as collateral. He tells Kevin he needs the opal back in time for the auction. Howie takes Garnett's ring and pawns it for gambling money. He hopes the bet will cover his losses, payback bookies, and get Kevin's ring back, so he can get the opal. Once at auction, Howie believes the Opal will fetch $1,000,000. However, someone stopped his bet. Now, he must stay one step ahead while everyone is on his tail.<br/><br/>This movie will have you on the edge of your seat from beginning to end. You have no idea which way is up the entire time of the movie. There are no good guys or bad guys in the movie, only hustlers. Each time Howie is one step ahead, he gets knocked backward. Get ready for one huge roller coaster ride.<br/><br/>5 out of 5 stars.",
     "image":{
@@ -18,32 +36,14 @@ var mustBuy = [
     }
   },
     {
-      "option":"3",
+      "option":"5",
       "mtitle":"Dark Waters",
       "review":"Dark Waters was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'.",
       "image":{
         "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/darkwaters.jpg",
         "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/darkwaters.jpg"
       }
-    },
-  {
-    "option":"4",
-    "mtitle":"Knives Out",
-    "review":"Knives Out was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/knivesout.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/knivesout.jpg"
     }
-  },
-  {
-    "option":"5",
-    "mtitle":"Frozen 2",
-    "review":"Fire and water disappear from Arendelle and the wind wreaks havoc on the town. Queen Elsa gets the townspeople to safety. Grand Pabbie tells Elsa the Elemental Spirits in the Enchanted Forest want the truth to come out. Queen Elsa, Princess Anna, Kristoff, Sven, and Olaf walk to the Enchanted Forest. The mist hides the truth about Elsa's powers, Anna's strength, Kristoff's true north, and Olaf's knowledge. But can they sacrifice the world they know for the forgotten past?<br/><br/>First, you must see Frozen before you see this movie. Even though Olaf does an amazing recap, he misses some of the nuances. Second, you should see this movie in IMAX, 3D, or both if you can. This Disney movie is different because their isn't a real villain. This movie focuses more on correcting Arendelle's past with the people of Northuldra. Parents will laugh at some slick jokes while having a sense of nostalgia at Kristoff's 90s power ballad styled music video. Kids will be engrossed in the action scenes. You won't regret seeing this one in the theaters.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/frozen2.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/frozen2.jpeg"
-    }
-  }
 ];
 
 module.exports = mustBuy;
@@ -93,26 +93,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/starwarstheriseofskywalker.png",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/starwarstheriseofskywalker.png"
-    }
-  }
-
-  {
-    "option":"4",
-    "mtitle":"Richard Jewell",
-    "review":"In 1986, Watson noticed Richard Jewell's attention to detail and nicknamed him Radar. When Richard gets a job in law enforcement, Watson gives him $100 to not become a jerk. Ten years later, Watson hears Richard is being interviewed for finding a bomb in Centennial Park. Watson is proud because Richard, labeled a hero, gives praise to everyone involved in the rescue efforts. When Richard is given book offers, he calls the only lawyer he knows, Watson. But when the FBI focuses their investigation on Richard, he will need Watson for a lot more.<br/><br/>It’s so hard to see a system Richard loves and respects so much turn on him. Richard tries to explain the FBI's actions to his family and friends. He believes they are the good guys like him. The FBI’s mistakes are sadly laughable as it is disgusting. In a day when sensationalism and clicks determine innocence and guilt, how long until another Richard Jewell is tried by the media?<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/richardjewell.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/richardjewell.jpg"
-    }
-  }
-
-  {
-    "option":"5",
-    "mtitle":"Jumanji: The Next Level",
-    "review":"Spencer feels like his life is in a rut so he goes back into Jumanji to feel brave.  Realizing what he has done, Beth, Anthony, and Marsha go back in to save him.  However, Bethany is left behind and Spencer's grandfather, Eddie, and Eddie's former friend, Milo are pulled into Jumanji.  With new avatars, missions, and goals, this is the next level of Jumanji.<br/><br/>Jumanji does just what the title says it will do, it goes to the next level.  Every character you know is back and more were added for fun.  It has all of the laughs and craziness you want from this franchise.  As the trailers say, not everyone will leave the game.  Jack Black is the breakout again playing 3 different characters.  Kevin Hart shows his acting chops as he plays Milo Walker.  See this movie as soon as you can.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/jumanjithenextlevel.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/jumanjithenextlevel.jpg"
     }
   }
 
