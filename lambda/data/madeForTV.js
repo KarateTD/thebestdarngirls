@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"A Mother Knows Worst",
+    "review":"After bonding over becoming first-time dads, Glen sees Harry in the hospital hall with tears in his eyes.  Harry and Olivia's baby girl died a few hours after being born.  ix months later, Harry is working for Glen at an accounting firm.  Glen and Brooke invite their friends and family to meet their new baby girl, Sienna.  At the party, Olivia sees her birthing nurse, Nancy, leaving.  Nancy thought she was invited but was asked to leave.  Nancy tells Olivia if she ever needs to talk about losing her baby, Nancy will be there for her.  When Olivia sees baby Sienna, something washes over her and she tells Harry she wants to leave now.  Olivia has made it her mission to be near Sienna.  Nannies, restraining orders, embezzlement, and sexual harassment claims won't stop her.<br/><br/>This movie is like 5 Lifetime movies wrapped into one.  It will keep you guessing with secret text messages, missing money, and one baby in the balance.  Just when you believe you have it all figured out, another curveball is thrown at you.  And you have to stay until the end for a recap of all the clues you missed from the beginning.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amotherknowsworst.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amotherknowsworst.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Killer Dream Home",
+    "review":"Josh and Jules are home flippers with lots of success.  Jules has her eye on a sprawling property with an elevator, large gate, and garden.  Josh believes it's out of their price range, she convinces him to take a look at the property because its the dream home she always drew. They are stunned to hear they got the house.  They decide to move in for a few days to make some changes and updates to the home.  They have Edgar to help with gardening and other handyman duties around the home.  Josh is a licensed contractor with a company.  Bliss, Josh's friend, is moving in to help, too.  As they walk into the house, they find a flyer for an interior decorator named Morgan in the mailbox.  Jules loves Morgan's work and Josh trusts Jules's taste.  Things are working great but they don't know the evil lurking under the surface.   Morgan only wants the house.  She will lie, steal, bribe, and kill go get it.  Her plan goes into full action when Jules and Josh decide to keep the home for themselves instead of flipping it.<br/><br/>If something seems too good to be true then it probably is.  Morgan's portfolio is phenomenal until you learn its all lies.  She seems great on the surface, but she will blackmail anyone to get what she wants.  She will even use sexual harassment, domestic violence, and workman's compensation to get her way.  Nothing is too far or too dirty for her. This movie does follow the normal Lifetime tropes but the characters are getting smarter faster with each movie.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killerdreamhome.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killerdreamhome.jpg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Diagnosis Delicious",
+    "review":"Nina, a cardiologist, cares deeply about her patients.  She plans to do more at the hospital if she is promoted to Chief Resident. With the vote being split, Ed tells Nina she needs to shmooze Beverly for the job.  Beverly will be the deciding vote on the board.  The best way to get in Beverly's good graces is to back her plan for a healthy eating seminar in the hospital.  Beverly invited her favorite chef Dave to cook.  While she wants Dave to teach the seminar, he doesn't want to do it.  As she and her friend Olivia - the neurosurgeon - put on their aprons, Nina tries to talk to Dave.  He abruptly cuts her off.  He will only talk after class is over.  After class, it's clear to Dave that Olivia did all the work.  Dave doesn't want to hear Nina's proposal because she doesn't respect the process.  Self-assured, Nina bets she can cook anything.  If she can, he will teach the seminar.  Confident, Dave takes the bet.  While they cook, Nina will learn that cooking is not only good for the body but good for the soul.<br/><br/>Based on a strong premise, this movie could have been an enjoyable TV series.  This movie sets itself apart because you get pulled into the lives of Nina's patients.  The pull is so strong, you will need tissues.  With so much going on in one movie, the love story between Nina and Dave take a back seat allowing it to evolve naturally for viewers.  This is one to keep on the DVR.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/diagnosisdelicious.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/diagnosisdelicious.jpg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"In the Key of Love",
+    "review":"Maggie is a wedding photographer.  As the boat docks at Piedmont Island, Maggie recognizes the surname of the wedding party.  She is shocked to see her ex-boyfriend Jake disembark the boat.  She congratulates him and asks about his bride.  Jake laughs and tells Maggie he is not get getting married, his sister, Jennifer, is and he will be walking her down the aisle.  For a brief moment, Maggie is relieved but she continues with her wedding duties.  They were a singing duo named Colby and Case, making their way through Nashville and ready to hit the big time.  The music was going well but he stressed out so much.  The constant changes made Maggie calm up on stage.  They lost their record deal and the relationship soon followed.  Maggie retreated to Piedmont Island and Jake became a producer in Nashville.  While helping Jennifer with the wedding, Jake is trying to put the finishing touches on Ashleigh Z's album.  With the slow internet connection, he may not get it done it time.  Maggie will help him see that relaxing is key by dancing, singing, and the guitar.  They will find love and their path while making beautiful music together.<br/><br/>Following the Hallmark format, this movie does have some differences.  In this movie, the male is overstressed and the female is telling him to relax.  She helps him see how slowing down can help him see the beauty around him and be more creative.  The scenery and wedding decorations are exquisite. With all that, it's the last few minutes of this movie that truly make you fall in love with it.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/inthekeyoflove.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/inthekeyoflove.jpg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"A Predator's Obsession",
     "review":"Alison sits on the beach with her boyfriend, Carson, and takes pictures of her little brother, Kevin tubing.  She zooms in and sees a shark’s fin next to her brother.  She screams shark and runs into the water to save her brother.  Daniel, the helmsman, sees the commotion on the beach and looks back to see Kevin fall into the water.  He turns the boat around to get Kevin.  Their rescue made the evening newscast and Daniel can’t stop thinking about her.  Daniel looks up Alison’s information online and goes to her house.  Daniel makes his way to Alison’s bedroom and gets a surprise.  He sees her kiss her boyfriend and says I love you.  Daniel vows to make Alison his.  He will use a spear gun, shock collar, and a tracker to get a ring on her finger.  The first step in his plan, he has to move in.<br/><br/>Sequel to Stalker’s Prey, this movie continues the craziness it’s fans know and love so well.  It brings up Daniel’s, formerly Bruce, past during the movie but you don’t have to watch the first one to understand what is going on.  You see the ticking timebomb in Daniel but you are intrigued by it.  He is not just stalking Alison, he is stalking his past.  This movie will surprise you and leave you wanting a part 3.<br/><br/>4.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/apredatorsobsession.jpg",
       "largeIamgeUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/apredatorsobsession.jpg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"My Daughter's Psycho Friend",
-    "review":"Sierra is getting settled into her new home with her father. Her neighbor, Kaitlyn, and Kaitlyn's friend, Alexis, have come to introduce themselves.  They invite Sierra to a skating party to introduce her to future classmates.  At the party, Alexis points out some of the people who wronged her. She tells Sierra to watch Kaitlyn.  Kaitlyn sprays something on the girl's skate and distances herself without being noticed.  The girl's skate suddenly stops and the girl falls to the ground. They invite Sierra to Alexis's house for some more fun and drinking but she says no.  At the house, Alexis starts to cyberstalk Sierra.  And they learn some dark secrets about her past.  The next day, they invite Sierra to another party at Alexis's house. At the party, Alexis decides to play a prank.  She puts something in Jake's drink. No one sees him walk out the door and into the pool.  Later, Jake is found at the bottom of the pool. Jake dies at the scene. On the first day of school, Alexis tries to frame Lance for Jake's death.  Sierra confronts Alexis for the prank and calls her out in front of all of her friends.  Sierra doesn't care if Alexis admits involvement in Jake's death.  She knows a toxicology report will be done and everything will come to light.  Too bad Alexis put the drugs in Sierra's locker.<br/><br/>If you ever wonder how kids can get so deep into something so wrong, this movie explains it all.  This movie is a great teaching tool for Pack Mentality.  In a pack, there are three personality types: The Alpha, The Lieutenant, and The Follower.  Following these dynamics, Alexis is the alpha who demands loyalty from her lieutenant, Kaitlyn.  Sierra is 'the follower' personality.  Unlike most Lifetime movies, it doesn't take much for Sierra to start questioning Alexis and her sanity.  This movie will keep you on the edge of your seat with shock, humor, and close calls.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mydaughterspsychofriend.jpg",
-      "largeIamgeUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mydaughterspsychofriend.jpg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Revenge for Daddy",
-    "review":"Lisa is trying to get back into the swing of things after breaking up with her boyfriend Bobby.  He cheated on Lisa with her co-worker Simone. If heartbreak isn't bad enough, Lisa's father was killed by a hit and run driver a year ago.  Her friend, Abby, tells her to get out and start dating. While looking at dating profiles, Lisa stumbles onto a man's profile.  She dubs him, Mr. Wonderful.  At work, she jokes she found the man of her dreams and photoshops a picture of them together.  While she and Abby have a good laugh, Simone uses her computer admin rights to log into Lisa's computer, grab the picture, and post it on the company social site.  On another side of town, Michael gets a ping on his computer.  Facial recognition software recognizes his face on a social site.  He finds the picture and laughs. Lisa gets ready to rock climb and sees a familiar face, it's Mr. Wonderful.  He introduces himself as Michael and admits the accidental meeting is on purpose. They start to hit it off but Abby warns Lisa to take it slow.  On a night out, Abby, Bobby, Michael, and Lisa are all out for a late-night company get-together.  Nina and Simone come later. When Michael asks Lisa to dance, Lisa says no but tells him to dance with Nina. Soon, Lisa is woozy.  She starts a fight with Nina about the way she was dancing with Michael.  Cooler heads prevail and everything seems ok.  The next morning Abby can't find Lisa and continues to call.  Lisa is awakened by her vibrating cell phone on a lawn.  She looks around.  In horror, she finds Nina's body next to her with a knife in her chest.  Lisa must find who killed Nina.<br/><br/>This movie is a great mystery with plenty of strong suspects.  The plot allows you to unravel the clues with Lisa as she proves her innocence.  When you discover the who, the why will have you reaching for the rewind button.  You won't believe how the story makes a full circle.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/revengefordaddy.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/revengefordaddy.jpg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Into the Arms of Danger",
-    "review":"After her father's death one year ago, Jenny is tired of her helicopter mom, Laura.  Succeeding a party, Jenny's car wouldn't start, she waited for roadside assistance.  But Drake was able to lend a hand and get her car running. Before Laura leaves for a conference, she goes over Jenny's schedule.  Jenny only plans to have her friend Nicole over and binge watch TV.  After Laura leaves, Jenny changes her mind.  She decides to see Drake's band perform instead.  When her mother finds out, she calls Jenny on the phone.  Jenny answers the call while driving and they start to argue.  During the argument, Jenny has a car accident.  The car is stalled and Laura tells her to call an ambulance. When Laura gets home, she can't find Jenny at home or the hospital.  Laura doesn't know the horrible truth.  A fake ambulance, with 2 fake EMT workers - Guy and Clyde - picked up Jenny.  They drugged her, ankle-cuffed her to a bed, and imprisoned her in a house. Jenny is a surrogate for Momma's daughter, Lizzy.  Jenny must play the part or pay the consequences.<br/><br/>Score one for mom!!! She never gives up.  Even with imbecilic police, who label Jenny a runaway, she keeps working to save Jenny with Drake by her side.  Yes, Jenny does act like a brat but she is a teen trying to gain independence.  Laura needs to learn to let go.  After being with Momma's twisted family, they will both learn these lessons.  Momma, Clyde, and Guy are the creepiest family ever put together in a Lifetime movie.  You know there is more to Lizzy's story, so get ready for the twist that ends with a gunshot.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/intothearmsofdanger.jpg",
-      "largeIamgeUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/intothearmsofdanger.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Advance and Retreat",
-    "review":"Ten years ago, Camp Counselor Allison left Camp Sunny Trails with a broken heart.  She caught her boyfriend, Cody, kissing Simone. Today, Allison works for Hillridge Marketing for a team lead, Vanessa, who constantly steals her ideas and disguise it as teamwork.  Her boss, Nathan, calls for everyone's attention.  He has decided to change the company retreat.  Instead of going to a beach resort, they will be going to an adventure camp called Camp Viewpoint. Camp Viewpoint was Camp Sunny Trails. Cody owns the camp, just like he said he would 10 years ago.  Allison is stunned.  She needs to focus on this retreat to get a promotion. When Allison learns Cody's secret, she is drawn to help him and rediscovers their love.<br/><br/>While this UP TV movie follows the Hallmark formula, there are jokes, plot twists, and subplots to keep you tuned into the movie.  While Allison is dealing with impressing Nathan for the promotion, she has to help her pregnant friend, calm Bryce, keep Vanessa at bay, and encourage Joy. This movie is a good watch that takes a second to poke fun at itself.  And savor the love story of Milo and Joy.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/advanceandretreat.jpg",
-      "largeIamgeUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/advanceandretreat.jpg"
     }
   }
 ];
