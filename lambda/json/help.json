@@ -26,10 +26,10 @@
         {
             "description": "Standard font sizes",
             "dimensions": {
-                "textSizeBody": 46,
+                "textSizeBody": 48,
                 "textSizePrimary": 27,
-                "textSizeSecondary": 20,
-                "textSizeSecondaryHint": 25
+                "textSizeSecondary": 18,
+                "textSizeSecondaryHint": 14
             }
         },
         {
@@ -154,10 +154,17 @@
                         "items": [
                             {
                                 "type": "Text",
+                                "text": "${payload.bodyTemplate1Data.textContent.helpText.text}",
+                                "fontSize": "@textSizeSecondaryHint",
+                                "spacing": "@spacingSmall",
+                                "style": "textStyleSecondaryHint"
+                            },
+                            {
+                                "type": "Text",
                                 "text": "${payload.bodyTemplate1Data.textContent.primaryText.text}",
                                 "fontSize": "@textSizeSecondary",
                                 "spacing": "@spacingSmall",
-                                "style": "textStyleBody"
+                                "style": "textStyleSecondary"
                             }
                         ]
                     }
@@ -188,10 +195,17 @@
                         "items": [
                             {
                                 "type": "Text",
-                                "text": "${payload.bodyTemplate1Data.textContent.primaryText.text}",
-                                "fontSize": "@textSizeBody",
+                                "text": "${payload.bodyTemplate1Data.textContent.helpText.text}",
+                                "fontSize": "@textSizeSecondary",
                                 "spacing": "@spacingSmall",
-                                "style": "textStyleBody"
+                                "style": "textStyleSecondary"
+                            },
+                            {
+                                "type": "Text",
+                                "text": "${payload.bodyTemplate1Data.textContent.primaryText.text}",
+                                "fontSize": "@textSizePrimary",
+                                "spacing": "@spacingSmall",
+                                "style": "textStylePrimary"
                             }
                         ]
                     }

@@ -12,8 +12,14 @@ module.exports = function (data){
 		        }
 		    },
 		    "image": {
-		        "smallSourceUrl": data[x].image.smallImageUrl,
-		        "largeSourceUrl": data[x].image.largeImageUrl
+				"sources": [
+					{
+						"url": data[x].image.smallImageUrl,
+						"size": "small",
+						"widthPixels": 0,
+						"heightPixels": 0
+					}
+				]
 		    },
 		    "token":count
 		}
