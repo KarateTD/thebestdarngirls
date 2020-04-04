@@ -624,11 +624,12 @@ const MovieChoicesHandler = {
 			console.log("**  early screening")
 			element = getCardInfo(earlyScreening, choice);
 			starter += getOptions(earlyScreening);
-			maxResults = 2;
+			maxResults = earlyScreening.length;
   		}else if(menu.toLowerCase() === 'library'){
 			console.log("** library")
 			  element = getCardInfo(libraryList, choice);
 			  starter += getOptions(libraryList);
+			  maxResults = libraryList.length;
 		}
 
     	if(typeof element !== 'undefined'){
