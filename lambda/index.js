@@ -6,10 +6,11 @@ const Welcome = require('./json/welcome.json');
 const LibraryWelcome = require('./json/librarywelcome.json');
 const MovieOptions = require('./json/movieoptions.json');
 const Review = require('./json/review.json');
+const Help = require('./json/help.json');
 const Background = require('./json/background.json');
 
 const premLocaleVar = {
-	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  Bloodshot and I Still Believe have been added to In The Theater reviews.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.',
+	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  '+ process.env.skillAdds +'  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.',
 	mainOptions: '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand\n\t* Early Screening - Premium Access Only\n\t* Library - Premium Access Only',
 	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand<br/>* Early Screening - Premium Access Only<br/>* Library - Premium Access Only',
 	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.   For Video on Demand reviews, say Video on Demand.  For movies not yet in the theater, say Early Screening.  To search The Best Darn Girls Library, say Library.',
@@ -19,7 +20,7 @@ const premLocaleVar = {
 }
 
 const regLocaleVar = {
-	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  Bloodshot and I Still Believe have been added to In The Theater reviews.  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand',
+	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  '+ process.env.skillAdds +'  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand',
 	mainOptions: '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand',
 	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand',
 	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores. For Video on Demand reviews, say Video on Demand.',
@@ -36,8 +37,8 @@ const goodbyeScreen='* Site: https://thatdarngirlmovie.reviews<br/>* Instagram: 
 const goodbyeCard='\t* Site: https://thatdarngirlmovie.reviews\n\t* Instagram: @thebestdarngirls\n\t* Twitter: @thebestdarngirl\n\t* Facebook: @thebestdarngirls\n\t* Email: thebestdarngirls@gmail.com'
 const hints=[' Show me ',' Tell me about ', ' I choose ', ' Select ', ' '];
 const libHints=['Look for', 'Look up', 'Find', 'How about', 'Search for' ];
-const smallLogo='https://thebestdarngirls.s3.amazonaws.com/library/small-image/APP_ICON.png';
-const largeLogo='https://thebestdarngirls.s3.amazonaws.com/library/large-image/APP_ICON.png';
+const smallLogo='https://thebestdarngirls.s3.amazonaws.com/library/small-image/APP_ICON.jpg';
+//const largeLogo='https://thebestdarngirls.s3.amazonaws.com/library/large-image/APP_ICON.jpg';
 
 let inTheTheater = require('./data/inTheTheater');
 let madeForTV = require('./data/madeForTV');
@@ -78,7 +79,7 @@ const WelcomeHandler = {
 				type: 'Alexa.Presentation.APL.RenderDocument',
 				document: Welcome,
 				datasources: {
-					"HomeTemplate": {
+					"bodyTemplate1Data": {
 						"type": "object",
 						"objectId": "ht",
 						"backgroundImage": {
@@ -91,9 +92,7 @@ const WelcomeHandler = {
 								"text": mySettings.mainScreen
 							}
 						},
-						"logoSmallUrl": smallLogo,
-						"logoLargeUrl": largeLogo
-
+						"logoUrl": smallLogo
 					}
 				}
 			});
@@ -177,7 +176,7 @@ const MainMenuHandler = {
  				    type : 'Alexa.Presentation.APL.RenderDocument',
  				    document : Welcome,
  				    datasources : {
- 				        "HomeTemplate":{
+ 				        "bodyTemplate1Data":{
  				            "type": "object",
  			    	        "objectId": "command",
  			    	        "backgroundImage": {
@@ -189,9 +188,8 @@ const MainMenuHandler = {
  				                    "type": "PlainText",
                                     "text": mySettings.mainScreen
  		    		            }
- 			    	        },
- 				            "logoSmallUrl":smallLogo,
-                            "logoLargeUrl":largeLogo
+							 },
+							 "logoUrl":smallLogo,
  				        }
  				    }
 			    });
@@ -256,7 +254,7 @@ const MainMenuHandler = {
 						return LibraryHandler.handle(handlerInput);
   		    		}else{
 						console.log("******** not repeating");
-  		 	        	starter = "Welcome to The Best Darn Girls Movie Review Library.  Say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie, like Merry Liddle Christmas or Good Boys";
+  		 	        	starter = "Welcome to The Best Darn Girls Movie Review Library.  Say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie, like Merry Liddle Christmas or Good Boys.";
  	 		    	    isLibrary = true;
 						isEnd=false;
 						repeat = false;
@@ -289,19 +287,18 @@ const MainMenuHandler = {
 				console.log("****** has screen and not library")
             	handlerInput.responseBuilder.addDirective({
                 	type: 'Alexa.Presentation.APL.RenderDocument',
- 	               document : MovieOptions,
+ 	               	document : MovieOptions,
     	            datasources : {
-        	            "MovieOptionsTemplateMetadata": {
+        	            "listTemplate2Metadata": {
             	            "type": "object",
                 	        "objectId": "moMetadata",
                     	    "backgroundImage": {
                         	    "sources": Background
  	                       },
     	                    "title": "Movie Options",
-        	                "logoSmallUrl":smallLogo,
-            	            "logoLargeUrl":largeLogo
+        	                "logoUrl":smallLogo,
                 	    },
-                    	"MovieOptionsListData": {
+                    	"listTemplate2ListData": {
 	                        "type": "list",
     	                    "listId": "moList",
         	                "totalNumberOfItems": requestList.length,
@@ -319,22 +316,22 @@ const MainMenuHandler = {
         	        type: 'Alexa.Presentation.APL.RenderDocument',
             	    document : LibraryWelcome,
                 	datasources : {
-                    	"WelcomeLibTemplate": {
+                    	"bodyTemplate1Data": {
                         	"type": "object",
  	                       "objectId": "wlMetadata",
     	                    "backgroundImage": {
         	                    "sources": Background
-            	            },
-                	        "logoSmallUrl":smallLogo,
-                    	    "logoLargeUrl":largeLogo,
+							},
+							"logoUrl": smallLogo,
+							"title": "Library",
                         	"textContent": {
 	                            "primaryText":{
     	                            "type":"PlainText",
         	                        "text": starter
 								},
-								"helpText":{
+								"hintText":{
 									"type":"PlainText",
-									"text":"Try, \""+ getRandomNumber(libHints, libHints.length, false) + "\" Hailey Dean Mysteries\""
+									"text":"Try, \""+ getRandomNumber(libHints, libHints.length, false) + " Hailey Dean Mysteries\""
 								}
                 	        }
 	                    }
@@ -375,7 +372,7 @@ const WhatCanIBuyHandler = {
 						type: 'Alexa.Presentation.APL.RenderDocument',
 						document: Welcome,
 						datasources: {
-							"HomeTemplate": {
+							"bodyTemplate1Data": {
 								"type": "object",
 								"objectId": "ht",
 								"backgroundImage": {
@@ -388,9 +385,7 @@ const WhatCanIBuyHandler = {
 										"text": mySettings.mainScreen
 									}
 								},
-								"logoSmallUrl": smallLogo,
-								"logoLargeUrl": largeLogo
-		
+								"logoUrl": smallLogo
 							}
 						}
 					});
@@ -455,7 +450,7 @@ const CancelPurchaseHandler = {
 						type: 'Alexa.Presentation.APL.RenderDocument',
 						document: Welcome,
 						datasources: {
-							"HomeTemplate": {
+							"bodyTemplate1Data": {
 								"type": "object",
 								"objectId": "ht",
 								"backgroundImage":{
@@ -468,8 +463,7 @@ const CancelPurchaseHandler = {
 										"text": mySettings.mainScreen
 									}
 								},
-								"logoSmallUrl": smallLogo,
-								"logoLargeUrl": largeLogo
+								"logoUrl": smallLogo
 							}
 						}
 					});
@@ -506,7 +500,7 @@ const UpsellResponseHandler = {
 					type: 'Alexa.Presentation.APL.RenderDocument',
 					document: Welcome,
 					datasources: {
-						"HomeTemplate": {
+						"bodyTemplate1Data": {
 							"type": "object",
 							"objectId": "ht",
 							"backgroundImage": {
@@ -519,9 +513,7 @@ const UpsellResponseHandler = {
 									"text": mySettings.mainScreen
 								}
 							},
-							"logoSmallUrl": smallLogo,
-							"logoLargeUrl": largeLogo
-	
+							"logoUrl": smallLogo
 						}
 					}
 				});
@@ -583,7 +575,7 @@ const MovieChoicesHandler = {
  				    type : 'Alexa.Presentation.APL.RenderDocument',
  				    document : Welcome,
  				    datasources : {
- 				        "HomeTemplate":{
+ 				        "bodyTemplate1Data":{
  				            "type": "object",
  			    	        "objectId": "command",
  			    	        "backgroundImage": {
@@ -596,8 +588,7 @@ const MovieChoicesHandler = {
                                     "text": mySettings.mainScreen
  		    		            }
  			    	        },
- 				            "logoSmallUrl":smallLogo,
-                            "logoLargeUrl":largeLogo
+ 				            "logoUrl":smallLogo
  				        }
  				    }
 			    });
@@ -633,11 +624,12 @@ const MovieChoicesHandler = {
 			console.log("**  early screening")
 			element = getCardInfo(earlyScreening, choice);
 			starter += getOptions(earlyScreening);
-			maxResults = 2;
+			maxResults = earlyScreening.length;
   		}else if(menu.toLowerCase() === 'library'){
 			console.log("** library")
 			  element = getCardInfo(libraryList, choice);
 			  starter += getOptions(libraryList);
+			  maxResults = libraryList.length;
 		}
 
     	if(typeof element !== 'undefined'){
@@ -648,7 +640,7 @@ const MovieChoicesHandler = {
                     type: 'Alexa.Presentation.APL.RenderDocument',
                     document : Review,
                     datasources : {
-                        "ReviewTemplate": {
+                        "bodyTemplate3Data": {
                             "type": "object",
                             "objectId": "reviewSample",
                             "backgroundImage": {
@@ -656,8 +648,20 @@ const MovieChoicesHandler = {
                             },
                             "title": "Movie Review",
                             "image": {
-                                "smallSourceUrl": element.image.smallImageUrl,
-                                "largeSourceUrl": element.image.largeImageUrl
+								"sources":[
+									{
+										"url": element.image.smallImageUrl,
+										"size": "small",
+										"widthPixels": 0,
+										"heightPixels": 0
+									},
+									{
+										"url": element.image.largeImageUrl,
+										"size": "large",
+										"widthPixels": 0,
+										"heightPixels": 0
+									}
+								]
                             },
                             "textContent":{
                                 "title": {
@@ -669,8 +673,7 @@ const MovieChoicesHandler = {
                                     "text": element.review
                                 }
                             },
-                            "logoSmall": smallLogo,
-                            "logoLarge": largeLogo
+                            "logoUrl": smallLogo
                         }
                     }
                 });
@@ -822,17 +825,16 @@ const LibraryHandler = {
         		        type: 'Alexa.Presentation.APL.RenderDocument',
                 		document : MovieOptions,
  		                datasources : {
-        		            "MovieOptionsTemplateMetadata": {
+        		            "listTemplate2Metadata": {
                 		        "type": "object",
                         		"objectId": "moMetadata",
  		                        "backgroundImage": {
         		                    "sources": Background
  		                        },
- 		                       "title": "Search Results",
-        		                "logoSmallUrl":smallLogo,
-                		        "logoLargeUrl":largeLogo
+ 		                       	"title": "Search Results",
+        		            	"logoUrl":smallLogo
  		                    },
-		                    "MovieOptionsListData": {
+		                    "listTemplate2ListData": {
         		                "type": "list",
                 		        "listId": "moList",
                         		"totalNumberOfItems": requestList.length,
@@ -844,20 +846,20 @@ const LibraryHandler = {
 		                }
         		    }); //end handler
 		        }else if(supportsAPL(handlerInput) && rows[0] == "" && offset == 0){
-        		    starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " Creed, John Wick, Wreck-it Ralph, Aurora Teagarden, or Hailey Dean Mysteries.  The latest movies added are Frozen 2, Knives Out, and Harriet.";
+        		    starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " Creed, John Wick, Wreck-it Ralph, Aurora Teagarden, or Hailey Dean Mysteries.  "+ process.env.libraryAdds;
 					console.log("******* no serch values Parsed: " + parsedChoice + " Choice: " + choice + " Search: " + searchChoice)
 		            handlerInput.responseBuilder.addDirective({
         		        type: 'Alexa.Presentation.APL.RenderDocument',
                 		document : LibraryWelcome,
 		                datasources : {
-        		            "WelcomeLibTemplate": {
+        		            "bodyTemplate1Data": {
                 		        "type": "object",
                         		"objectId": "wlMetadata",
 		                        "backgroundImage": {
         		                    "sources": Background
                 		        },
-                        		"logoSmallUrl":smallLogo,
-		                        "logoLargeUrl":largeLogo,
+								"logoUrl":smallLogo,
+								"title": "Library",
         		                "textContent": {
                 		            "primaryText":{
                         		        "type":"PlainText",
@@ -925,7 +927,7 @@ const CommandsHandler = {
  				    type : 'Alexa.Presentation.APL.RenderDocument',
  				    document : Welcome,
  				    datasources : {
- 				        "HomeTemplate":{
+ 				        "bodyTemplate1Data":{
  				            "type": "object",
  			    	        "objectId": "command",
  			    	        "backgroundImage": {
@@ -938,8 +940,7 @@ const CommandsHandler = {
                                     "text": mySettings.mainScreen
  		    		            }
  			    	        },
- 				            "logoSmallUrl":smallLogo,
-                            "logoLargeUrl":largeLogo
+ 				            "logoUrl":smallLogo
  				        }
  				    }
 			    });
@@ -999,7 +1000,7 @@ const ExitHandler = {
 			        type : 'Alexa.Presentation.APL.RenderDocument',
 		    	    document : Welcome,
 		        	datasources : {
-		            	"HomeTemplate":{
+		            	"bodyTemplate1Data":{
 		                	"type": "object",
 			                "objectId": "exit",
 			                "backgroundImage": {
@@ -1012,8 +1013,7 @@ const ExitHandler = {
 		                        	"text": goodbyeScreen
 			                    }
 			                },
-			                "logoSmallUrl":smallLogo,
-            	            "logoLargeUrl":largeLogo
+			                "logoUrl":smallLogo
 		        	    }
 			        }
 				});
@@ -1033,7 +1033,7 @@ const ExitHandler = {
 					type: 'Alexa.Presentation.APL.RenderDocument',
 					document: Welcome,
 					datasources: {
-						"HomeTemplate": {
+						"bodyTemplate1Data": {
 							"type": "object",
 							"objectId": "ht",
 							"backgroundImage": {
@@ -1046,8 +1046,7 @@ const ExitHandler = {
 									"text": mySettings.mainScreen
 								}
 							},
-							"logoSmallUrl": smallLogo,
-							"logoLargeUrl": largeLogo
+							"logoUrl": smallLogo
 
 						}
 					}
@@ -1091,9 +1090,9 @@ const HelpHandler = {
 		if(supportsAPL(handlerInput)){
             handlerInput.responseBuilder.addDirective({
         	    type : 'Alexa.Presentation.APL.RenderDocument',
-        		document : Welcome,
+        		document : Help,
         		datasources : {
-        		    "HomeTemplate":{
+        		    "bodyTemplate1Data":{
             		    "type": "object",
             		    "objectId": "help",
         	    	    "backgroundImage": {
@@ -1110,8 +1109,7 @@ const HelpHandler = {
         	    	            "text": mySettings.mainScreen
         		            }
         		        },
-            		    "logoSmallUrl":smallLogo,
-                        "logoLargeUrl":largeLogo
+            		    "logoUrl":smallLogo
         	        }
                 }
             });
