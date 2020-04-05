@@ -19,6 +19,7 @@ Built with
 	<li><a href="https://aws.amazon.com/rds/aurora/" target="_blank" rel="noopener">Amazon Aurora</a></li>
 	<li><a href="https://developer.amazon.com/en-US/alexa/alexa-skills-kit/learn/build-a-business/in-skill-purchasing" target="_blank" rel="noopener">In Skill Purchasing</a></li>
 	<li><a href="https://aws.amazon.com/secrets-manager/" target="_blank" rel="noopener">AWS Secrets Manager</a></li>
+	<li><a href="https://developer.amazon.com/en-US/docs/alexa/alexa-design/apl.html" target="_blank" rel="noopener">Alexa Presentation Language (APL)</a></li>
 	<li>GitHub</li>
 	<li>NodeJS 10.x</li>
 </ul>
@@ -34,6 +35,7 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 	<li><b>Release-2.0.1</b>: Release-2.0.0 with bug fixes</li>
 	<li><b>Release-3.0.0</b>: Updated with the <a href="https://developer.amazon.com/docs/alexa-presentation-language/apl-overview.html" target="_blank">Alexa Presentation Language</a> (APL) which optimizes this skill for <a href="https://amzn.to/2IsxHJZ" target="_blank">Echo Spot</a>, <a href="https://amzn.to/2E39VPz" target="_blank">Echo Show 1st Gen</a>, <a href="https://amzn.to/2ItCx9S" target="_blank">Echo Show 2nd Gen</a>, and <a href="https://amzn.to/2DYuP29" target="_blank">Fire TV</a> (<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://thatdarngirlmoviereviews.wordpress.com/about/#disclaimer"><u>FTC Affiliate Disclaimer</u></a></span>)</li>
 	<li><b>Release-4.0.0</b>: Uses Node.js 10.15 with In Skill Purchasing for English speaking US and English Speaking Great Britian.  Adds a library backed by Aurora DB and Early Screening Reviews.  Changed Must Buy to In Stores</li>
+	<li><b>Release-4.1.0</b>: Updated <a href="https://www.npmjs.com/" target="_blank" rel="noopener">NPM</a> packages, added support for <a href="https://www.amazon.com/Introducing-Echo-Show-Compact-Charcoal/dp/B07HZLHPKP/ref=as_li_ss_tl?dchild=1&keywords=Echo+Show+5&qid=1585978413&sr=8-1&linkCode=ll1&tag=thbedagimore-20&linkId=61b4660e977420405a6b5c83c3f658ce&language=en_US" target="_blank" rel="noopener">Echo Spot 5</a>, updated the <a href="https://www.instagram.com/p/B-TFppNHgpm/" target="_blank" rel="noopener">Logo</a>, updated APL to version 1.1, and bug fixes.</li>
 </ul> 
 
 ## Code
@@ -43,7 +45,7 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 			<li>earlyScreening.js - contains data for the <i>Early Screening</i> section
 			<li>inTheTheater.js - contains data for the <i>In The Theater</i> section</li>
 			<li>madeForTV.js - contains data for the <i>Made For TV</i> section</li>
-			<li>mustBuy.js - contains data for the <i>Must Buy</i> section</li>
+			<li>mustBuy.js - contains data for the <i>In Stores</i> section</li>
 			<li>videoOnDemand.js - contains data for the <i>Video On Demand</i> section</li>
 		</ul>
 	</li>
@@ -58,6 +60,7 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 	<li>JSON Folder
 	    <ul>
 	        <li>background.json - sets background images for APL design.  If you change the image here, it will change everywhere</li>
+			<li>help.json - sets up APL design for the help page</li>
 	        <li>librarywelcome.json - sets up APL design for the library home page</li>
 			<li>movieoptions.json - sets up APL design for the movie options section</li>
 	        <li>review.json - sets up APL design for the movie review</li>
@@ -130,6 +133,8 @@ Next, create an AWS Secrets Manager with the automatic rotation disabled.  Then,
 		<li>productName: Name used when ISP was created</li>
 		<li>resourceArn: Aurora ARN</li>
 		<li>secretArn: Secret Manager ARN</li>
+		<li>skillAdds: A sentence to tell the users what movies have been added to the skill</li>
+		<li>libraryAdds: A sentence to tell the users what movies have been added to the library</li>
 	</ul>
 	</li>
 	<li>Code entry type: Upload a .zip file</li>
