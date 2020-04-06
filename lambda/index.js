@@ -41,7 +41,7 @@ const smallLogo='https://thebestdarngirls.s3.amazonaws.com/library/small-image/A
 //const largeLogo='https://thebestdarngirls.s3.amazonaws.com/library/large-image/APP_ICON.jpg';
 
 let inTheTheater = require('./data/inTheTheater');
-let madeForTV = require('./data/madeForTV2');
+let madeForTV = require('./data/madeForTV');
 let mustBuy = require('./data/mustBuy');
 let videoOnDemand = require('./data/videoOnDemand');
 let earlyScreening = require('./data/earlyScreening');
