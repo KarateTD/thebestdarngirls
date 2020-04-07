@@ -163,8 +163,9 @@
                                 "type": "Text",
                                 "text": "${payload.bodyTemplate1Data.textContent.primaryText.text}",
                                 "fontSize": "@textSizeSecondary",
-                                "spacing": "@spacingSmall",
+                                "spacing": "@spacingThin",
                                 "style": "textStyleSecondary"
+                          
                             }
                         ]
                     }

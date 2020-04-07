@@ -14,8 +14,8 @@ const premLocaleVar = {
 	mainOptions: '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand\n\t* Early Screening - Premium Access Only\n\t* Library - Premium Access Only',
 	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand<br/>* Early Screening - Premium Access Only<br/>* Library - Premium Access Only',
 	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.   For Video on Demand reviews, say Video on Demand.  For movies not yet in the theater, say Early Screening.  To search The Best Darn Girls Library, say Library.',
-	helpMessage: "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https:// that darn girl movie dot reviews.  ",
-	helpScreen:  "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchacse Premium Access.  For an indepth review, go to https://thatdarngirlmovie.reviews.<br/><br/>  "
+	helpMessage: "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchase Premium Access.  For an indepth review, go to https:// that darn girl movie dot reviews.  ",
+	helpScreen:  "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  To search the app's library or gain access to exclusive reviews, you must purchase Premium Access.  For an indepth review, go to https://thatdarngirlmovie.reviews."
 
 }
 
@@ -25,7 +25,7 @@ const regLocaleVar = {
 	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand',
 	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores. For Video on Demand reviews, say Video on Demand.',
 	helpMessage: "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https:// that darn girl movie dot reviews.  ",
-	helpScreen:  "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https://thatdarngirlmovie.reviews.<br/><br/>  "
+	helpScreen:  "This is an Alexa app for The Best Darn Girls Movie Review website.  It will give a brief overview of the last 5 movies reviewed along with a short critique and a rating.  For an indepth review, go to https://thatdarngirlmovie.reviews."
 
 }
 
