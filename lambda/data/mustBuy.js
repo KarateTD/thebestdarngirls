@@ -1,6 +1,33 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Bad Boys for Life",
+    "review":"Bad Boys for Life was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/badboysforlife.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/badboysforlife.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"The Last Full Measure",
+    "review":"On September 9, 1999, Scott is stuck in DC traffic. He gets a call that his boss is retiring, leaving his job as a Pentagon staffer up in the air. He leaves his wife, Tara, in traffic and jumps on the metro. Scott sits and reads is daily packet and meets with is 11 o'clock appointment. It's Vietnam Air Force Vet Thomas Tully. Decades ago, Tully applied for William Hope Pitsenbarger to receive the Medal of Honor. After an investigation, it was downgraded to an Air Force Cross. Tully believes this is wrong. Staff Sargent Pitsenbarger was an Air Force Pararescuemen who was on a mission to airlift injured army men out of the battlefield in Vietnam in mission Abilene. When the first man is pulled up, Pitsenbarger realizes it's the Army medic. Pitsenbarger knows the men on the ground will need help to get the others to safety. When the last helicopter was about to fly off, they told Pitsenbarger to get back on the plane. He sent up one more man, signaled them to leave him, got a gun, and prepared for battle. He lost his life for men he never met. To get the Medal of Honor, Scott knows you need 3 things. Pitsenbarger is only missing the approval from the chain of command. Scott starts his investigation and sees the toll the war has taken on these men but he sees their courage in trying to honor their fallen comrade. When Scott's job is at risk because of political football, can he overcome his fear to get Pitsenbarger his medal before his father, Frank Pitsenbarger, dies of cancer?<br/><br/>n a time veterans are fighting for decent healthcare, this movie will make you want to stand up for them. The physical and emotional scars are presented to the viewer for shock and compassion. Each man has worked tirelessly for decades to obtain the Medal of Honor while coping with loss, regret, pain, and PTSD. Their constant disappointment in this country is reflected the moment they see Scott. They believe he is another puppet sent to sweep Pitsenbarger's valor under the rug. When he shows his true dedication to the project, it allows him to open his heart and fight it through to the end.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thelastfullmeasure.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thelastfullmeasure.jpg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"The Gentlemen",
+    "review":"Raymond comes home and gets a bottle of liquor when he hears ice rattling behind him.  It's private investigator Fletcher.  Fletcher was hired to find dirt on Raymond's boss, Mickey, for 150,000 pounds.  Fletcher has found a score of information and turned it into a script.  If Raymond pays in 20 million pounds, he can have the script.  Raymond is annoyed by Fletcher but offers to hear him out.  Fletcher starts with his boss Big Dave.  Big Dave hired Fletcher to get dirt on Mickey because Mickey snubbed him at a party in front of some very influential people. Mickey is ready to give up the marijuana business and retire from the mobster lifestyle.  He has decided to sell his operation to Matthew for 400 million. When word gets out that Mickey is going to retire, Dry Eye comes to Mickey to strike a deal.  Mickey thinks Dry Eyes' offer is disrespectful and unapproved by his boss Lord George.  Then, Mickey gets bad news.  One of his stash houses has been robbed and the video is streaming online as a rap video. Mickey knows the underworld sees his retirement as a weakness and everyone is gunning for him, his wife, and his business.  And that's just half of Fletcher's story.<br/><br/>In true Guy Ritchie storytelling, it's not over until it's over.  You have to be at this movie on time or you will miss crucial parts of the setup.  Of course, you can't trust what you see because Fletcher is telling a story for the 1st half of the movie.  The second half is told in real-time and has everyone one-upping each other.  This movie will become an instant cult classic while leaving an ending for part two.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegentlemen.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegentlemen.jpeg"
+    }
+  },
+  {
+    "option":"4",
     "mtitle":"Just Mercy",
     "review":"In 1987, Walter McMillian, Johnny D to his family, cleared trees and looked up to the evening sky. He had no idea it would be the last day he would look at the sky as a free man. He was arrested for the brutal murder of Ronda Morrison. After the jury sentenced Johnny D to life, the judge overrode their sentence and gave Johnny D the death penalty. In Jackson, Georgia, Bryan Stevenson is an intern meeting with death row inmates to update them about their case. After he graduates Harvard 2 years later, Bryan moves to Alabama, he gets federal funding to start the Equal Justice Initiative or E.J.I., and he hires Eva as his Director of Operations. After meeting 5 other clients, Bryan meets Johnny D. He offers to help Johnny D but Johnny D doesn’t want to hear it. Bryan refuses to quit and meets with Johnny D’s family. They all admit attending a church fish fry with Johnny D the day of the murder. After hearing Bryan met with his family, Johnny D agrees to let Bryan be his lawyer.<br/><br/>Based on Just Mercy: A Story of Justice and Redemption by Bryan Stevenson, this story is moving, painful, and honest. It speaks on the unfair scales of justice based on race, class, economics, and political standing. You will be moved to tears when Bryan’s efforts fall short for some. At first glance, you will become angry at Ralph Myers. But as the film progress, you will learn the true nature of why he has done what he has done. You will sympathize with his agonizing decision. When you watch, remind yourself: This didn’t happen during slavery or Jim Crow laws. This happened in the late 1980s, less than 40 years ago. If you are inspired, donate to the E.J.I..<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -9,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"5",
     "mtitle":"Star Wars: The Rise of Skywalker",
     "review":"Kylo Ren has been promised the throne to the Final Order, he only has to kill Rey. But he is warned, she is not who she appears to be. Fin, Po, and Chewbacca got a message from a First Order mole that Kylo Ren is coming for Rey and the Sith are on the rise again. They fly to General Leia and Rey to update them with the intel. Rey is still completing her Jedi training. When she gets the intel from Po and Fin, she wants to face Kylo Ren alone. Recently, Rey has been having visions of her sitting on the Sith Throne next to Kylo Ren. She fears what she may become. But her friends refuse to let her do this on her own. They have to get a Wayfinder, discover the Sith planet, and put an end to the First and Final Order.<br/><br/>Extreme Star Wars fans will not like this movie. Strong Star Wars fans will pick apart its inconsistencies but applaud the effort. Casual fans will love the cinematography and plot connections with the 4th, 5th, and 6th Episodes. Action fans will appreciate the choreographed fight scenes but want more blood. Overall, this story provided a final send off for the franchise. Each character was given a solid ending to their story and you got lost in the world of Star Wars. This movie is in 3D but it's not necessary. But, you should see it in IMAX. And don't forget to bring your droid hacker.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -17,33 +44,7 @@ var mustBuy = [
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/starwarstheriseofskywalker.png"
     }
   },
-  {
-    "option":"3",
-    "mtitle":"The Current War",
-    "review":"Thomas Edison created the light bulb and the Direct Current to bring power to people's homes.  He has asked J.P. Morgan to finance is endeavors to bring the current to homes all over the United States.  George Westinghouse sees flaws in Edison's design and creates Alternating Currents.  Westinghouse's designs are cheaper and will work in rural areas.  When Edison hears about Westinghouse's improvements, he tells the newspapers the Alternating Current can kill.  The current war begins and spans over a decade.  While Edison and Westinghouse fight over the present, Nikola Tesla is fighting for the future.  He wants to turn water into energy and power machines.  The former Edison employee has ideas and concepts but no inventions to show for it.  The winner of the current war will be decided by the Chicago World's Fair.<br/><br/>When these men couldn't fight in the courtroom, they fought in the papers.  While the current war spearheaded the United States into the 20th century, it spawned new inventions, new companies, and a deadly consequence.  Seeing these men try every underhanded approach to win, with their wives cheering them on, will delight you.  You will walk away from this movie learning more about these great inventors and their lasting impact.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecurrentwar.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecurrentwar.jpg"
-    }
-  },  
-  {
-    "option":"4",
-    "mtitle":"1917",
-    "review":"General Erinmore wants Blake and Schofield to send a message to the 2nd battalion of the Devonshire Regiment.  The Regiment's leader,  Colonel Mackenzie, believes he has the upper hand because the Germans have retreated.  However, this was a strategic maneuver.   The Germans moved their line 9 miles back to ambush them with an attack like no other seen in the war.  Blake and Schofield must find Colonel Mackenzie and tell him to stop the attack.  If Blake and Schofield don't deliver the message in time, 1600 men - including Blake's older brother - will die.  Blake wants to leave now but Schofield tells him to wait until nightfall.  Schofield has been through this before and received a medal for his service.  Hearing his brother is in danger has lit a fire inside Blake, he is determined to go with or without Schofield now.  The two men leave the trenches to carry out their mission.<br/><br/>With well-choreographed, continuous shots, this story - derived from the director's grandfather's accounts - will leave you with awe, heartbreak, and pride.  These men conquer rats, barbed wire, tripwire, being buried alive, and the enemy with a stiff upper lip and bravery.  With each step, they are reminded of the danger that lies ahead.  They run across dead horses and dead men being eaten by scavengers and rotting away on the battlefield.  You should view this movie on the largest screen possible to enjoy its majesty.  Be warned: if you or a loved one suffer from battle-related P.T.S.D., this movie may be too much for you.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/1917.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/1917.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Jumanji: The Next Level",
-    "review":"Spencer feels like his life is in a rut so he goes back into Jumanji to feel brave.  Realizing what he has done, Beth, Anthony, and Marsha go back in to save him.  However, Bethany is left behind and Spencer's grandfather, Eddie, and Eddie's former friend, Milo are pulled into Jumanji.  With new avatars, missions, and goals, this is the next level of Jumanji.<br/><br/>Jumanji does just what the title says it will do, it goes to the next level.  Every character you know is back and more were added for fun.  It has all of the laughs and craziness you want from this franchise.  As the trailers say, not everyone will leave the game.  Jack Black is the breakout again playing 3 different characters.  Kevin Hart shows his acting chops as he plays Milo Walker.  See this movie as soon as you can.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/jumanjithenextlevel.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/jumanjithenextlevel.jpg"
-    }
-  }
+
 ];
 
 module.exports = mustBuy;
@@ -74,26 +75,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/frozen2.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/frozen2.jpeg"
-    }
-  }
-
-  {
-    "option":"4",
-    "mtitle":"The Last Full Measure",
-    "review":"On September 9, 1999, Scott is stuck in DC traffic. He gets a call that his boss is retiring, leaving his job as a Pentagon staffer up in the air. He leaves his wife, Tara, in traffic and jumps on the metro. Scott sits and reads is daily packet and meets with is 11 o'clock appointment. It's Vietnam Air Force Vet Thomas Tully. Decades ago, Tully applied for William Hope Pitsenbarger to receive the Medal of Honor. After an investigation, it was downgraded to an Air Force Cross. Tully believes this is wrong. Staff Sargent Pitsenbarger was an Air Force Pararescuemen who was on a mission to airlift injured army men out of the battlefield in Vietnam in mission Abilene. When the first man is pulled up, Pitsenbarger realizes it's the Army medic. Pitsenbarger knows the men on the ground will need help to get the others to safety. When the last helicopter was about to fly off, they told Pitsenbarger to get back on the plane. He sent up one more man, signaled them to leave him, got a gun, and prepared for battle. He lost his life for men he never met. To get the Medal of Honor, Scott knows you need 3 things. Pitsenbarger is only missing the approval from the chain of command. Scott starts his investigation and sees the toll the war has taken on these men but he sees their courage in trying to honor their fallen comrade. When Scott's job is at risk because of political football, can he overcome his fear to get Pitsenbarger his medal before his father, Frank Pitsenbarger, dies of cancer?<br/><br/>n a time veterans are fighting for decent healthcare, this movie will make you want to stand up for them. The physical and emotional scars are presented to the viewer for shock and compassion. Each man has worked tirelessly for decades to obtain the Medal of Honor while coping with loss, regret, pain, and PTSD. Their constant disappointment in this country is reflected the moment they see Scott. They believe he is another puppet sent to sweep Pitsenbarger's valor under the rug. When he shows his true dedication to the project, it allows him to open his heart and fight it through to the end.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thelastfullmeasure.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thelastfullmeasure.jpg"
-    }
-  }
-
-  {
-    "option":"1",
-    "mtitle":"The Gentlemen",
-    "review":"Raymond comes home and gets a bottle of liquor when he hears ice rattling behind him.  It's private investigator Fletcher.  Fletcher was hired to find dirt on Raymond's boss, Mickey, for 150,000 pounds.  Fletcher has found a score of information and turned it into a script.  If Raymond pays in 20 million pounds, he can have the script.  Raymond is annoyed by Fletcher but offers to hear him out.  Fletcher starts with his boss Big Dave.  Big Dave hired Fletcher to get dirt on Mickey because Mickey snubbed him at a party in front of some very influential people. Mickey is ready to give up the marijuana business and retire from the mobster lifestyle.  He has decided to sell his operation to Matthew for 400 million. When word gets out that Mickey is going to retire, Dry Eye comes to Mickey to strike a deal.  Mickey thinks Dry Eyes' offer is disrespectful and unapproved by his boss Lord George.  Then, Mickey gets bad news.  One of his stash houses has been robbed and the video is streaming online as a rap video. Mickey knows the underworld sees his retirement as a weakness and everyone is gunning for him, his wife, and his business.  And that's just half of Fletcher's story.<br/><br/>In true Guy Ritchie storytelling, it's not over until it's over.  You have to be at this movie on time or you will miss crucial parts of the setup.  Of course, you can't trust what you see because Fletcher is telling a story for the 1st half of the movie.  The second half is told in real-time and has everyone one-upping each other.  This movie will become an instant cult classic while leaving an ending for part two.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegentlemen.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegentlemen.jpeg"
     }
   }
 
