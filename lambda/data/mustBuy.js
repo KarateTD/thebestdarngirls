@@ -67,7 +67,6 @@ module.exports = mustBuy;
         }
     }
 
-    
     {
     "option":"1",
     "mtitle":"Frozen 2",
