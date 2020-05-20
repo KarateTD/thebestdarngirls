@@ -1,6 +1,15 @@
 var mustBuy = [
   {
-    "option":"1",
+		"option":"1",
+		"mtitle":"Endings, Beginnings",
+		"review":"After breaking up with Adrian and quitting her job, Daphne is moving into her sister, Billy's, pool house.  Daphne's friends tell her she needs to take a sabbatical from dating and figure out what she wants in life. During a New Year's Eve party, Daphne walks away to be alone and she is found by Frank.  He bums a cigarette and enters her suffer zone. Moments later, Daphne sees Jack.  Jack is a writer and a friend of Billy's and Frank's.  Jack and Daphne ring in the new year with a conversation.  The next morning Frank sends her a Spotify playlist called \"Music to Suffer To\". At her job, Jack walks in and asks her out on a date. They laugh and connect over art, cigarettes, expectations, and the future.  During their conversation, Frank texts.  He wants to see her. She decides to meet Frank at a local bar.  He accuses her of trying to make him jealous.  They sit and talk about the danger of their passion. But their words come crashing down when they spend the night together.  The next morning, she leaves Frank on the floor and heads home. Daphne text them both goodbye.  Frank says goodbye but Jack believes they have something special and wants to see her again.  She meets Jack at his place and they eat.  He warns her that Frank is unreliable, volatile, and messy. Now, Daphne is stuck between two different but broken men.  When her past collides with her present, it will leave a roller coaster of emotions for her future.<br/><br/>As she lives her life over the year, you see why things slowly unhinged in her relationship with Adrian and her job.  She goes back and forth between the two men with the realization that she doesn't feel right alone. She describes Frank and Jack as two people who give different sides of what she needs. Both men allow her to take the focus off herself. and her plight. The end will leave you with one burning question and fantasies to come.  While part of Daphne's life ends, it brings a beginning.<br/><br/>4 out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/endingsbeginnings.jpg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/endingsbeginnings.jpg"
+		}
+	},
+  {
+    "option":"2",
     "mtitle":"Bad Boys for Life",
     "review":"Bad Boys for Life was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'.",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"The Last Full Measure",
     "review":"On September 9, 1999, Scott is stuck in DC traffic. He gets a call that his boss is retiring, leaving his job as a Pentagon staffer up in the air. He leaves his wife, Tara, in traffic and jumps on the metro. Scott sits and reads is daily packet and meets with is 11 o'clock appointment. It's Vietnam Air Force Vet Thomas Tully. Decades ago, Tully applied for William Hope Pitsenbarger to receive the Medal of Honor. After an investigation, it was downgraded to an Air Force Cross. Tully believes this is wrong. Staff Sargent Pitsenbarger was an Air Force Pararescuemen who was on a mission to airlift injured army men out of the battlefield in Vietnam in mission Abilene. When the first man is pulled up, Pitsenbarger realizes it's the Army medic. Pitsenbarger knows the men on the ground will need help to get the others to safety. When the last helicopter was about to fly off, they told Pitsenbarger to get back on the plane. He sent up one more man, signaled them to leave him, got a gun, and prepared for battle. He lost his life for men he never met. To get the Medal of Honor, Scott knows you need 3 things. Pitsenbarger is only missing the approval from the chain of command. Scott starts his investigation and sees the toll the war has taken on these men but he sees their courage in trying to honor their fallen comrade. When Scott's job is at risk because of political football, can he overcome his fear to get Pitsenbarger his medal before his father, Frank Pitsenbarger, dies of cancer?<br/><br/>n a time veterans are fighting for decent healthcare, this movie will make you want to stand up for them. The physical and emotional scars are presented to the viewer for shock and compassion. Each man has worked tirelessly for decades to obtain the Medal of Honor while coping with loss, regret, pain, and PTSD. Their constant disappointment in this country is reflected the moment they see Scott. They believe he is another puppet sent to sweep Pitsenbarger's valor under the rug. When he shows his true dedication to the project, it allows him to open his heart and fight it through to the end.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"The Gentlemen",
     "review":"Raymond comes home and gets a bottle of liquor when he hears ice rattling behind him.  It's private investigator Fletcher.  Fletcher was hired to find dirt on Raymond's boss, Mickey, for 150,000 pounds.  Fletcher has found a score of information and turned it into a script.  If Raymond pays 20 million pounds, he can have the script.  Raymond is annoyed by Fletcher but offers to hear him out.  Fletcher starts with his boss Big Dave.  Big Dave hired Fletcher to get dirt on Mickey because Mickey snubbed him at a party in front of some very influential people. Mickey is ready to give up the marijuana business and retire from the mobster lifestyle.  He has decided to sell his operation to Matthew for 400 million. When word gets out that Mickey is going to retire, Dry Eye comes to Mickey to strike a deal.  Mickey thinks Dry Eyes' offer is disrespectful and unapproved by his boss Lord George.  Then, Mickey gets bad news.  One of his stash houses has been robbed and the video is streaming online as a rap video. Mickey knows the underworld sees his retirement as a weakness and everyone is gunning for him, his wife, and his business.  And that's just half of Fletcher's story.<br/><br/>In true Guy Ritchie storytelling, it's not over until it's over.  You have to be at this movie on time or you will miss crucial parts of the setup.  Of course, you can't trust what you see because Fletcher is telling a story for the 1st half of the movie.  The second half is told in real-time and has everyone one-upping each other.  This movie will become an instant cult classic while leaving an ending for part two.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -27,23 +36,14 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"Just Mercy",
     "review":"In 1987, Walter McMillian, Johnny D to his family, cleared trees and looked up to the evening sky. He had no idea it would be the last day he would look at the sky as a free man. He was arrested for the brutal murder of Ronda Morrison. After the jury sentenced Johnny D to life, the judge overrode their sentence and gave Johnny D the death penalty. In Jackson, Georgia, Bryan Stevenson is an intern meeting with death row inmates to update them about their case. After he graduates Harvard 2 years later, Bryan moves to Alabama, he gets federal funding to start the Equal Justice Initiative or E.J.I., and he hires Eva as his Director of Operations. After meeting 5 other clients, Bryan meets Johnny D. He offers to help Johnny D but Johnny D doesn’t want to hear it. Bryan refuses to quit and meets with Johnny D’s family. They all admit attending a church fish fry with Johnny D the day of the murder. After hearing Bryan met with his family, Johnny D agrees to let Bryan be his lawyer.<br/><br/>Based on Just Mercy: A Story of Justice and Redemption by Bryan Stevenson, this story is moving, painful, and honest. It speaks on the unfair scales of justice based on race, class, economics, and political standing. You will be moved to tears when Bryan’s efforts fall short for some. At first glance, you will become angry at Ralph Myers. But as the film progress, you will learn the true nature of why he has done what he has done. You will sympathize with his agonizing decision. When you watch, remind yourself: This didn’t happen during slavery or Jim Crow laws. This happened in the late 1980s, less than 40 years ago. If you are inspired, donate to the E.J.I..<br/><br/>4.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/justmercy.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/justmercy.jpeg"
     }
-  },
-  {
-    "option":"5",
-    "mtitle":"Star Wars: The Rise of Skywalker",
-    "review":"Kylo Ren has been promised the throne to the Final Order, he only has to kill Rey. But he is warned, she is not who she appears to be. Fin, Po, and Chewbacca got a message from a First Order mole that Kylo Ren is coming for Rey and the Sith are on the rise again. They fly to General Leia and Rey to update them with the intel. Rey is still completing her Jedi training. When she gets the intel from Po and Fin, she wants to face Kylo Ren alone. Recently, Rey has been having visions of her sitting on the Sith Throne next to Kylo Ren. She fears what she may become. But her friends refuse to let her do this on her own. They have to get a Wayfinder, discover the Sith planet, and put an end to the First and Final Order.<br/><br/>Extreme Star Wars fans will not like this movie. Strong Star Wars fans will pick apart its inconsistencies but applaud the effort. Casual fans will love the cinematography and plot connections with the 4th, 5th, and 6th Episodes. Action fans will appreciate the choreographed fight scenes but want more blood. Overall, this story provided a final send off for the franchise. Each character was given a solid ending to their story and you got lost in the world of Star Wars. This movie is in 3D but it's not necessary. But, you should see it in IMAX. And don't forget to bring your droid hacker.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/starwarstheriseofskywalker.png",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/starwarstheriseofskywalker.png"
-    }
-  },
+  }
 
 ];
 
@@ -66,16 +66,6 @@ module.exports = mustBuy;
             "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alwaysinseason.jpg"
         }
     }
-
-    {
-    "option":"1",
-    "mtitle":"Frozen 2",
-    "review":"Fire and water disappear from Arendelle and the wind wreaks havoc on the town. Queen Elsa gets the townspeople to safety. Grand Pabbie tells Elsa the Elemental Spirits in the Enchanted Forest want the truth to come out. Queen Elsa, Princess Anna, Kristoff, Sven, and Olaf walk to the Enchanted Forest. The mist hides the truth about Elsa's powers, Anna's strength, Kristoff's true north, and Olaf's knowledge. But can they sacrifice the world they know for the forgotten past?<br/><br/>First, you must see Frozen before you see this movie. Even though Olaf does an amazing recap, he misses some of the nuances. Second, you should see this movie in IMAX, 3D, or both if you can. This Disney movie is different because their isn't a real villain. This movie focuses more on correcting Arendelle's past with the people of Northuldra. Parents will laugh at some slick jokes while having a sense of nostalgia at Kristoff's 90s power ballad styled music video. Kids will be engrossed in the action scenes. You won't regret seeing this one in the theaters.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/frozen2.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/frozen2.jpeg"
-    }
-  }
 
     {
     "option":"5",
