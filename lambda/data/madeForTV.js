@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"Sleeping with Danger",
+    "review":"Flight attendant Grace Tanner doesn't believe she will fall in love.  he is 38 and wants real love with a real connection.  Since her love life is on the rocks, Grace finds a new way to better her life.  She meets with a nutritionist named Dr. Paul.  Later that night, Dr. Paul calls, not with a nutrition plan, but with a game plan for her heart.  Within a few dates, Grace is head over heels for Dr. Paul. Their relationship is going great, so she starts to believe in love again.  At a party, Dr. Paul sees a man touch Grace's arm.  He pulls her aside and starts chastising her, questioning her fidelity, and roughing her up. To ease his mind, she promises her commitment and loyalty to him.  Even with that promise, he is quick to anger, tracks her movements, and alienates her from her friends. She reduces her flight schedule and works with him on his new business venture of selling nutrition shakes.  With business booming, they move into a house together.  As she unpacks his boxes, she finds legal paperwork.  She finds sexual harassment, peeping, and stalking charges filed from ex-girlfriends and patients. After a push, Paul slaps her.  Before Grace calls it abuse, she will be on the wrong side of a gun, in hiding, and writing a letter of regret and warning.<br/><br/>Inspired by Ann Rule's Mortal Danger and Other True Crime Cases, this movie shows how the stigma of abuse will force its victims to keep quiet and make excuses for their abuser.  Grace doesn't want to call Paul's actions abuse because she doesn't consider herself a victim. When she sees the truth, Paul is pure evil. This movie is one to watch and discuss with those you love.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sleepingwithdanger.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sleepingwithdanger.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"The Wrong Stepfather",
+    "review":"Sarah Woodley is in a social media war with Marissa over Sarah's ex-boyfriend, Jason.  After arguing on-line becomes a fight in the real world, Principal Higgins calls Sarah to her office.  Soon Sarah's mother and teacher, Ms. Woodley is scolding Sarah about her behavior.  Ms. Woodley hopes to get Sarah back on track.  So, Ms. Woodley has hired a college counselor to guide Sarah through college admissions.  Ms. Woodley has left out one detail: she's dating the counselor, Craig Edgars.  The relationship is easygoing until Sarah finds a college essay that Craig wrote for her.  He wrote about how her stepfather, himself, has been the most influential person in her life. Now, Sarah doesn't trust him as her mother's boyfriend or her college counselor.  Sarah has no idea how right she is.  Craig is obsessed with having a family and will kill to get it.<br/><br/>Craig paternal clock is ticking, but its ticking with crazy.  He will do anything to create the perfect family, even kill one of the members.  It's hard to see Ms. Woodley make so many excuses for his bad behavior.  But fear not Lifetimers, Sarah's bravery offsets her mother's misplaced trust.  The truth is a bad dad mixed with a college admission scandal all rolled into one Lifetime movie.  Part two is possible.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewrongstepfather.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewrongstepfather.jpg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Upside-Down Magic",
+    "review":"For six years, 13-year-old Nory waited for this day.  She is going to Sage Academy to practice magic with her best friend, Reina.  Nory can shapeshift into any combination of animals.  Reina can shoot fire from her hands. As they wait for the bus, Mr. Skriff appears from the woods. Mr. Skriff leads them through a portal, and they enter the well-manicured lawn of Sage Academy. The headmaster, Ms. Knightslinger, introduces herself and the Sage Way of magic.  At the academy, they have five schools of study.  Each student must take a placement test.  The test will determine their school selection and their level.  After the placement test, Professor Argon chooses Reina for Honors Flares.  Nory's report says UDM. Underground, three students and a professor wait for Nory.  Knightslinger explains the students failed their placement test because their magic is upside-down. In the past, a UDM, named Reginald Roberts, was consumed by shadow magic and tried to take over the school.  Sage Academy will not allow the UMDs to practice magic.  They must stay underground with Professor Skriff until their magic dies. While they are trying to hinder the UMDs, Shadow magic found its next victim and plans to destroy the school once and for all.<br/><br/>Based on the Upside-Down Magic Book Series, this movie isn't about changing yourself to conform to others' standards.  The UDMs (Upside-Down Magic) embrace their differences as a strength.  Not a weakness for evil.  This movie gives a great lesson for kids today.  Being different is wrong.  Doing different isn't wrong.  It's forcing others to change their differences that become detrimental, not only to them but to the world too.  Let's celebrate the Upside-Down is all of us.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/upsidedownmagic.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/upsidedownmagic.jpg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Her Deadly Groom",
+    "review":"Brenna wants Alison to put herself out there after her divorce from George.  So she creates a dating profile for Alison on a phone app.  To spite George, Alison publishes the profile.  When George leaves, Alison begs Brenna to delete it because Brenna set up the app profile with her email address and password.  A few days later, Alison wants to delete the profile, but Alison sees a lot of great guys liked her picture.  When she remembers one of them, Brenna swipes right and the two match.  His name is Vincent. They go on a date and have a great time.  Vincent gives her $50,000 for her business and buys her a home.  So when he asks for her hand in marriage, Alison says yes.  Alison doesn't know that Vincent is too perfect.  Someone is setting up Alison, and it could cost her life.<br/><br/>Be prepared to be frustrated.  Alison misses all the clues and falls in love too quickly.  Her friends, family, daughter's boyfriend, and associates try to warn her that something is off.  So, root for Vincent in this movie.  He stays a step ahead, talks to a dead body, and refuses to let anyone outsmart him.  This movie does leave a possibility for a part 2.  But do you want one?<br/><br/>2.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/herdeadlygroom.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/herdeadlygroom.jpg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"Stalked by My Husband's Ex",
     "review":"Kristen is happy.  Her boyfriend, Ryan, has proposed.  She will gain a husband and a precious little girl named Lisa.  Then, Ryan has something to confess.  He believes his ex-wife, Nina, is calling him from a blocked number.  When Lisa was a baby, Nina drove drunk with baby Lisa in the car. Nina was declared unfit, and he got sole legal and physical custody. Ryan thinks he should see Nina and calm her down, but Kristen convinces him that's a bad idea.  She believes it will all blow over with time like she has done with ex-boyfriends in the past.  Kristen couldn't be more wrong.  During their engagement party, Nina throws a drink in Kristen's face and maces Ryan.  Now, the couple is on high alert.  Just one problem: Nina is secretly messaging Lisa through Instagram.  Nina is hell-bent on getting Lisa back, even if it kills her.<br/><br/>This one is worth the watch because there are no stupid people, bratty kids, or moronic cops.  The main characters have an unlucky sequence of events happening to them, so you get a compelling storyline with characters you care about and a fun twist. This movie is a mix of today's social media and classic stalking. Stalked by My Husband's Ex isn't your typical Lifetime movie with the same characters.  And the end puts a satisfying conclusion to each character.<br/><br/>5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalkedbymyhusbandsex.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalkedbymyhusbandsex.jpg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Coins for Love",
-    "review":"Madison is still living paycheck to paycheck.  She got a job as an editor's assistant, but the pay will be low during her 6-month probationary period.  Until then, she is still driving a rideshare car and doing volunteer work when she can.  Alec got the job as a sports commentator on Hard Balling.  However, he is butting heads with his co-host and overspending.  With his increasing schedule, his life is harder to manage. So, Alec calls Madison and asks her to work as his assistant again.  She lays down the terms, and he agrees.  They start getting closer and almost kiss, but Madison puts an end to the love and keeps it professional.  Then, their past comes calling.  Alec's ex-fiance is back to win his love and to fire Madison.  Madison's ex-husband Jake is ready to be a good man to her and a father to his kids. It all comes down to the word 'acrimonious' and a gunshot.<br/><br/>The sequel for Coins for Christmas builds off the last movie and gives the audience some potential for a third.  It's great because the characters' internal struggles didn't get solved in the first movie. They are rebuilding their lives and finding the flaws in their critical thinking. By the way, it helps to see the first, but it's not required.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/coinsforlove.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/coinsforlove.jpg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Mile High Escorts",
-    "review":"Lauren is taking a break from school and working as a flight attendant.  She hopes to earn money for graduate school and attend with her boyfriend, Chris, next year.  Her best friend, Ashley, takes a job as a flight attendant too.  After a few flights, the job doesn't live up to the hype. After missing her hotel shuttle, Lauren gets a ride from another flight attendant named Hannah.  Hannah wines and dines her and puts Lauren in an expensive room.  Hannah explains she works for a private jet company, and the flight attendants offer concierge services.  These services include shows, dinners, and nightcaps. Lauren's pay will be handsome, and she can get tips, which can include cash, jewelry, and clothes.  Lauren turns Hannah's offer down but keeps Hannah's business card. Then, Lauren's life falls apart.  First, her hours are cut in half. Next, she catches Chris cheating, and he kicks her out of his home.  Then, she discovers her father is having money troubles.  Finally, she still needs money for grad school.  She decides to take Hannah on her offer and Ashley is right by her side. Hannah introduces them to the owner, Franklin, and his son, Eric. With a few flights behind them, Lauren can cash in without taking her clothes off.  But when Franklin dies and flight attendants disappear, Lauren is in unspeakable danger.<br/><br/>Lauren's character is different because she doesn't jump into the business headfirst.  She plans on being a regular flight attendant until she has so many obstacles in front of her that she sees no way of making the money she needs faster. She gets sucked into the fast-money lifestyle quick.  This movie does push a \"happy hooker\" narrative but changes pace with the changing of the guard.  Franklin, a man who saw the protection of his \"girls\" as his top priority, dies, and his son, Eric, a man who sees money as his top priority, takes over, and the business and clientele changes overnight.  Then, the reality of what these women do is at the forefront of this movie and shatters the \"happy hooker\" stereotype.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/milehighescorts.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/milehighescorts.jpg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Murder in the Vineyard",
-    "review":"Emma gave up her company and headed back to her old stomping grounds to take over her grandfather's vineyard.  She enrolls her daughter, Beatrice, in high school and runs into her high school sweetheart, Luke.  The principal assigned Chloe to show Beatrice around the school.  During the tour, a loose ball bumps Beatrice.  Soccer player, Bryan runs to get the soccer ball.  The next day, Emma focuses on winemaking while Beatrice walks into chemistry class.  The teacher makes Bryan her lab partner.  Bryan's girlfriend, April, is enraged.  She tells Bryan he can never be alone with Beatrice, so Bryan breaks up with April and starts dating Beatrice.  April decides to make a slam site about Beatrice.  At first, Beatrice stays level-headed and goes to a party.  But, the party turns sinister.  Beatrice is drugged, then provocative photos are taken with the soccer team and posted on the slam site.  Emma tries to defend her daughter, but the cops blame Beatrice.  They worry more about the players' reputation than Beatrice's safety.  Now, Beatrice is in the stalker's crosshairs, just like a girl who committed suicide two years ago.<br/><br/>This storyline is fascinating to watch.  In the first minute, you see a woman running away before someone grabs her.  Then, it becomes a Hallmark movie for 15 minutes.  Next, it becomes an H.M.M. movie.  The plot introduces you to several suspects with convincing motives.  You are reminded it's a Lifetime movie when they address cyberbullying, rape culture, and the stalker's reason for the crime.  With a compelling mystery, the plot gets your attention.  However, the ending will leave you wanting a better understanding of the stalker.  By the way, the website is real.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderinthevineyard.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderinthevineyard.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"The Wrong Wedding Planner",
-    "review":"An excited Ashley and Brad are planning their wedding. During her friend, Clarissa's wedding reception, Ashley bumps into the wedding planner, Mandy. Ashley hires Mandy and uses Clarissa's reception as the only reference needed.  They start to work together, and Ashley promptly opens her home to Mandy. When Brad meets Mandy, Ashley can see something is wrong.  Brad looks as if a truck hit him.  He brushes it off as bad manners.  But, after several strange incidents, Brad comes clean.  Brad and Ashley were engaged and expecting their first child.  However, he broke off the engagement when he learned the pregnancy was a lie.  Since then, Mandy has been stalking him. And she won't let anyone stop her.<br/><br/>The next movie in \"The Wrong\" series offers an intriguing antagonist but not much else to the story.  You don't care enough about Brad or Ashley to feel an urgency for their lives. It follows \"The Wrong\" format, so the movie offers nothing new.  It has a few good one-liners but that's not enough to redeem it.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewrongweddingplanner.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewrongweddingplanner.jpg"
     }
   }
 ];
