@@ -103,7 +103,7 @@ const WelcomeHandler = {
 			firstTime=false;
 			greeting = mySettings.welcome
 		}
-
+		
 		return handlerInput.responseBuilder
 			.speak(greeting)
 			.reprompt(greeting)
