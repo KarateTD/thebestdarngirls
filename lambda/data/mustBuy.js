@@ -4,8 +4,8 @@ var mustBuy = [
 		"mtitle":"Irresistible",
 		"review":"Democratic strategist, Gary Zimmer is reeling from Hilary Clinton's loss in 2016.  He decides they need a new rural friendly message.  He has found his guy.  One of his aides played Gary a viral video of Colonel Jack Hastings arguing in a town hall meeting in Deerlaken, Wisconsin.  Jack argues against showing IDs to receive public assistance. Gary thinks he can turn Jack into a Democrat, then change the community by getting Jack elected mayor of Deerlaken.  Gary wants Jack to be a fresh face of the Democratic Party with his gruff exterior and left ideas. At first Jack says no, but changes his mind.  Jack has decided to run for mayor. Gary thinks this will be an easy win, but one semicolon will strike fear in his heart.  Republican strategist, Faith Brewster, is in town.<br/><br/>This movie shows the dirty side of politics on both sides.  It poignantly describes how one party leads with fear while the other leads with shame.  While both argue they are morally right, it all comes down to money.  With focus groups, statisticians, and super PACs, the money is the only focus and concern. This movie provides plenty of laughs, satirical undertones of the horrible nature of both parties, and false endings like Vice.<br/><br/>4 out of 5 stars.",
 		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/irresistible.jpg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/irresistible.jpg"
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/library/small-image/irresistible.jpg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/library/large-image/irresistible.jpg"
 		}
 	}  ,
   {
