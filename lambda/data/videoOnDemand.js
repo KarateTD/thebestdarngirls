@@ -18,7 +18,7 @@ var videoOnDemand = [
 		}
 	  },
 	{
-		"option":"1",
+		"option":"3",
 		"mtitle":"Project Power",
 		"review":"Robin sells a pill called Power on the streets of New Orleans.  When a user takes Power, they get an unknown, superhuman ability for 5 minutes.  Lately, Power caused its customers to overdose, but it has not deterred others from taking the drug.  While selling, her customers try to steal her product.  Before they can get away, Officer Frank intervenes. Most would be afraid of jail time, but Frank is a customer too.  Frank trades a motorbike for 1 Power pill and lets her go.  While in school, Robin gets a text message from Newt asking to meet for more Power.  However, Newt isn't at their regular meeting spot.  When she comes out, she sees that someone slashed her tire.  She is grabbed from behind and thrown into the trunk of a car. Her kidnapper is Art, A.K.A. The Major.  He wants to save the source behind Power ... his daughter, Tracy.  And Art needs Robin to do it.  This discovery won't be a straight shot.  Frank's boss, Captain Crane, discovered he uses Power and took his badge and gun.  If he wants it back, he has to find enemy number one: The Major.  Robin is in the crosshairs of two men and their missions.<br/><br/>Project Power is as suspenseful as it is funny.  This movie includes superheroes, espionage, coverups, cops, dealers, robbers, race relations, Henrietta Lacks, and a pistol shrimp, all in an engaging, high octane movie.  Pay attention to the radio announcements about Power.  The radio announcements are not filler; they move the story along.  Each character is well-written and highly charismatic. This movie alone is worth a subscription to Netflix.<br/><br/>5 out of 5 stars.",
 		"image":{
@@ -27,7 +27,7 @@ var videoOnDemand = [
 		}
 	},
 	{
-		"option":"2",
+		"option":"4",
 		"mtitle":"The Silencing",
 		"review":"Rayburn, a former hunter, is a forest ranger.  Years ago, his daughter Gwen went missing, the police never found her. Then, he sees a news report of the body of a teen girl found in the river with her voice box removed.  He runs to the morgue and discovers, to his relief and sadness, that it's not Gwen.  He goes back to his cabin and watches CCTV of the woods.  He notices a costumed figured turning off the cameras.  Rayburn rewinds the footage and sees the same figure hunting a woman through the woods.  Rayburn grabs his gun and tries to find the girl, but the killer shoots Rayburn with an arrow. Sherrif Alice believes the killer is the local drug dealer and vows to do anything to stop him.  However, when the killer is closer to home, will Sherrif Alice keep her vow?<br/><br/>While the movie is suspenseful and thrilling, don't expect jump scares or anything memorable.  The killer looks like Big Foot in his ridiculous outfit.  And the killer's motive is pathetic and unimaginative.  This movie is fun to watch but forgettable once the credits roll.  It tries to give the viewers a plot twist, but it's as see-through as saran wrap.<br/><br/>2.5 out of 5 stars.",
 		"image":{
@@ -36,7 +36,7 @@ var videoOnDemand = [
 		}
 	},
 	{
-		"option":"3",
+		"option":"5",
 		"mtitle":"The Tax Collector",
 		"review":"David and Creeper are tax collectors for Wizard.  For a cut of profits from illegal activity, they offer protection to the underworld of Los Angeles.  David, with the help of family, makes sure the count is right.  Creeper makes sure people pay if they come up short.  After a long day of collecting, David goes home to his wife, Alexis, and their children.  Alexis tells David the count is off by $20,000.  From jail, Wizard calls Alexis and informs Alexis the count is small.  Next, Wizard warns Alexis something big is coming. David focuses back on the money when he gets a message that Venom has a $200,000 tax payment.  When David and Creeper show up to collect, Venom surprises them by taking the money back and giving it to another man.  It's Conejo.  Conejo tells David and Creeper that Wizard's reign is over.  They can continue to collect taxes, but it has to be for him, so David and Creeper leave. Later at David's daughter's quinceanera, Louis tells David and Creeper to relax.  Louis and his men will take care of Conejo.  As the party winds down, Conejo's right-hand woman approached them at the party.  Conejo wants to meet them now. Since David and Creeper rejected his offer of power under him, he will destroy Creeper, David, and everyone they love.  David's family is first on the list.<br/><br/>While this movie will develop a cult following, it doesn't have the depth of other gangster-family movies.  It tries to be Belly but lacks sincerity.  The Tax Collector attempts to have the violence of John Wick but lacks the style.  It picks and chooses when to translate Spanish to English and doesn't give enough back story for other characters.  While it could have a part two, it should go straight to DVD.<br/><br/>2.5 out of 5 stars.",
 		"image":{
