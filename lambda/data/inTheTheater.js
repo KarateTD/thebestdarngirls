@@ -1,6 +1,15 @@
 var inTheTheaters = [
   {
     "option":"1",
+    "mtitle":"The New Mutants",
+    "review":"Dani's father wakes her up because a tornado is attacking their reservation.  He tells Dani to hide in the woods and stay there until he comes back.  Moments later, his dead body flies past her, and she runs.  Only to stumble, fall, and hit her head.  She wakes up handcuffed to a hospital bed and locked in a room.  She screams for help, then Dr. Reyes appears. Dr. Reyes tells Dani her entire reservation died, but she survived because she's a mutant. The doctor explains that during Dani's hospital stay, she will discover and learn to control her powers.  When she is not a threat to society or herself, Dani will leave the hospital and met the higher-ups.  During a group session, Dani meets the other mutants.  Each teenage mutant hides a dark secret about their past and wants out of the hospital.  Dani believes if she follows the regimen, she will be released.  And all the mutants hope they will leave the hospital and become X-Men.  But during a session, Dani sees Dr. Reyes's secrets.  She and the other mutants are in danger.  They have to find a way out of the hospital, past Dr. Reyes and her force field, and past their most dangerous enemy: their fears.<br/><br/>The direction of this superhero movie starts as a horror movie.  It is engaging and riveting for the viewer. It allows you to wonder about what Dani can do and how it affects others.  The CGI is better than most, and the cast plays the mutants dynamically. However, The New Mutants ends like a Disney movie. For all the intense drama and character development throughout the storyline, the ending is very disappointing. This movie has such promise and leaves you with nothing.  By the way, there is no post-credit scene.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thenewmutants.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thenewmutants.jpg"
+    }
+  },
+  {
+    "option":"1",
     "mtitle":"Cut Throat City",
     "review":"After Hurricane Katrina, James hasn't been able to find a job as an artist.  He has an associates degree from Tulane and created a graphic novel called Cut Throat City. After FEMA turns down his aid request, James and his three friends - Junior, Miracle, and Dre, visit James's Cousin Bass. Bass gives them a job.  They have to rob a local casino and give Bass the cash and chips from the robbery. During the robbery, Miracle, the lookout and driver, sees several uniformed officers about to enter the casino.  Miracle starts shooting. After a high-speed shootout, Dre was hit and died. The next morning they see Bass.  Bass expects a lot of money because the newspaper says the robbers took $150,000.  However, James reports they only stole $25,000, but they spent some. Even if the paper lied, Bass suspects the men got $100,000, so Bass wants $80,000.  James promises to get the money with interest, but that's not good enough for Bass.  James calls his wife and tells her to leave town with their son, then goes into hiding.  On the other side of New Orleans, Detective Lucinda gets a call from the Councilman.  No police officers reported being in a shoot out.  The cops were fake, so someone set up James and his friends.  Until they know, James, Junior, and Miracle know they can't come back to the 9th ward without Bass's money.  They only know one way to get back home: rob casinos and take the money to the Saint for safe passage.<br/><br/>Cut Throat City starts like a lot of heist movies; the main character is down on their luck and decides to do one crime to make things right. As the plot becomes more complicated, it starts to lose focus.  Instead of a heist movie, it becomes a movie about government and police corruption.  In the end, the conclusion gives an alternate ending, but you don't know where the fake ending started in the story.  So, you will have more questions than answers.  Hopefully, the DVD extras will explain it all.<br/><br/>3 out of 5 stars.",
     "image":{
@@ -33,15 +42,6 @@ var inTheTheaters = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/istillbelieve.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/istillbelieve.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"The Way Back",
-    "review":"Jack Cunningham drinks to wake up, in the shower, on the job, and a case to go to sleep at night.  Jack checks his messages and gets one from his old high school principal.  The principal wants him to coach the new boys' basketball team for Bishop Hayes High School.  The team hasn't had a good year since Jack played in 1995. The principal tells Jack to go home, think about it, and give him an answer in the morning.  Jack practices turning down the principal while drinking a case of beer.  With all his practice, Jack shows up the next morning. Jack sits on the sidelines and watches the boys play.  Jack can't fathom having so few players on the team.  They have to borrow players from the J.V. team just to practice.  Jack sees their best shooter can't make a 3-pointer and the best guy on the team doesn't talk. Their way back to the playoffs is his way back to life.  When his past comes back to haunt him, will the old Jack resurface?<br/><br/>This feels like an episode of Intervention without the confessionals.  You don't have a true understanding of how bad Jack's drinking is until he drinks a case of beer in a few hours.  There is a moment of parallel in the storyline. Marcus is begging to stay on the team after Jack kicks him off for being late and disobedient.  By the end of the film, Jack's drinking leads him to a car crash, breaking and entering, and missed practices.  He has to beg to coach the team like Marcus.  Seeing him beg for a second chance to fix his life will rock you to the core.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewayback.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewayback.jpg"
     }
   }
 ];
