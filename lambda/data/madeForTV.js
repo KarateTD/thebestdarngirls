@@ -1,6 +1,24 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"Secret Life of a Celebrity Surrogate",
+    "review":"Within hours, Liv loses her job, her apartment, and her boyfriend.  She puts a post on social media to find a job that will get her out of New York immediately.  Any job will do.  Moments later, Cassidy replies with an intriguing opportunity.  Cassidy works for Hayden and Ava.  Hayden and Ava are a high-profile celebrity couple. Cassidy tells Liv they want to hire a surrogate to carry their child.  They will provide room and board.  When the baby is born, they will give Liv $150,000. Liv calls Cassidy and says she will do it.  She flies to LA and meets the couple.  While they are eccentric, they are kind, loving, shower Liv with gifts.  So, Liv says yes to being their surrogate.  Soon, Liv is on a constant run on doctor's visits, medications, shots, pills, and weigh-ins.  Liv believes she is doing the right thing until she sees a fight between Hayden and Ava get physical and Ava's abuse of drugs and alcohol.  Cassidy attempts to assure Liv, but its too little too late.  Liv wants answers, but can she handle them?<br/><br/>Talk about a fun twist! With so many storylines involving surrogacy, it's hard to differentiate them.  However, this movie does just that.  It becomes a mystery with breadcrumbs throughout the story to give the viewers clues to Ava's motives. You will clutch your pearls when Ava and Hayden make Liv public enemy number one, they terminate the contract, and they punish Liv.  This movie is worth the watch.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretlifeofacelebritysurrogate.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretlifeofacelebritysurrogate.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Sinfidelity",
+    "review":"Angela is a successful, married, mother of one.  While celebrating her husband's, Greg, pending merger, she gives her company's wine as parting gifts.  At the party, Angela notices Greg getting cozy with his secretary Lisa. Angela confides in her best friend Claire.  With little evidence, Claire tells Angela to keep her eyes open.  Then, Angela meets Franco, Greg's accountant during the merger and photographer at the party.  Angela mentions financial struggles in her company, and Franco offers to find someone to help her. Franco explains his friend is busy, but, to help, he will do it for free.  Angela is happy to hire him.  At night, Angela picks up Greg's phone and sees unsettling texts from Lisa.  Angela's fears are confirmed, Greg is cheating. Claire tells her to get even and have an affair. Angry, but in financial need, Angela keeps the appointment and meets Franco to discuss her books.  The discussion moves to his apartment.  The night ends in Franco's bed.  The next morning, Angela comes home to get some of her belongings.  With pain, anger, and fear, Greg waited for her.  Greg comes clean about all his secrets. If he doesn't get the merger, they will lose the house.  And Greg asked Lisa to hide his biggest secret, a trip to Italy for their 10th anniversary.  He never had an affair.  She tells Franco she's staying with her husband and he erupts.  He threatens to ruin Greg's merger if she doesn't leave Greg.  If she tells Greg, she could lose her family.  How far will Franco go to make Angela come clean?<br/><br/>The biggest twist in this movie is Greg.  While he cheated in the past, he did not cheat this time. But the secret Greg keeps puts his family's financials in danger and Angela trapped.  At first, she thinks she can ignore Franco but he dangles his merger power over her to pull her back in.  She has no idea how dangerous he is.  But you do, in the first 5 minutes.  This movie is a predictable watch, but fun.  So, sit back and have your tea ready.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sinfidelity.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sinfidelity.jpg"
+    }
+  },
+  {
+    "option":"1",
     "mtitle":"Deranged Granny",
     "review":"After losing their child during childbirth, Ethan and Lucy's marriage fell apart.  Ethan's mom, Barbara, thought another child was a solution, but Lucy wouldn't consider it.  After the divorce, Ethan cut Barbara out of his life.  He felt her overbearing ways strained his marriage.  Two years later, Ethan meets Kendall.  She has two children, Amy and Bobby, and co-parents with her ex-husband, Calvin. After months of dating, Ethan asks Kendall to marry him. So, Kendall finds Barbara and, without Ethan's knowledge, invites Barbara over their home for lunch.  Ethan decides to bury the hatchet and lets Barbara back into his life.  Barbara meets Amy and Bobby and can't wait to be their grandmother.  She dotes on and spoils them with trips, treats, and technology.  With the kids on Barbara's side, she will manipulate, threaten, and poison anyone who tries to take them away.<br/><br/>Barbara is truly a deranged grandma.  Covered under the guise of normal grandma activities, Barbara can infiltrate Ethan and Kendall's life and turn the children against them.  With linguistic programming, Barbara creates secrets, drives wedges, and makes divisive comments to accomplish her goal of dominating the family.  The plot gives the viewer a glimpse of why Barbara is fixated on having children but doesn't delve too much more. Be ready to be on the edge of your seat.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -24,24 +42,6 @@ var madeForTV = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/achanceintheworld.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/achanceintheworld.jpg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Secrets in the Woods",
-    "review":"After months of missed opportunities, Brant asks Sandra to spend time with him at his family's cabin. They drive up a deserted dirt road, and Brant gets out of the car.  He explains they have to walk the rest of the way.  Sandra loves the cabin; however, she is slightly crestfallen to learn her cell doesn't work. They enjoy hikes, sitting by the fire, and ax throwing.  On these trips, she lost her phone and her clothes.  Brant suggests she should wear his mom's clothes for the time being.  Sandra felt weird, but Brant convinced her it was ok.  Later, Sandra waited in the bed for Brant wearing sexy lingerie but lost focus when she heard a commotion outside.  Sandra walked out to check on Brant but found another man in the woods.  She tried to run away; however, she didn't get far.  She wakes up with a bruise on her head and a chain cuffed to her ankle.  Brant introduces Sandra to his father, Langley. If she doesn't follow Langley's rules, he will kill her.  If that's not bad enough, Brant horrifies Sandra when he tells her she is a gift for his father.  She will replace his mother and be Langley's new wife.  With no phone, no people within miles, and no internet, how will Sandra escape these sick and evil men?<br/><br/>This movie puts the creepy factor on 11.  You will be grossed out and entertained. At first, it's unclear why Brant continues with his father's plan.  The writers explain everything, but you have to stick to the movie. With that aside, it's eye-opening to ascertain how Brant picked Sandra.  While her looks were just one aspect, she had a lot of red flags for him to read.  He read her profile and saw a woman unsatisfied with her life, little family, and desperate to create a new family. While entertaining, watch with the lights on, and stay out of the woods.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsinthewoods.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsinthewoods.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Sorority Secrets",
-    "review":"After her college defunded her scholarship, Cassie is looking for an alternative to stay in school. She walks past the Kappa Eta Lambda sorority exhibit and overhears the sorority offers housing and tuition assistance.  She approaches them for a flyer, but they tell her no.  Cassie walks away, but runs into a classmate named Lisa.  Lisa says the Lambdas' 'no' was a test.  The Lambdas expect her to come back and ask again.  She goes back, and they give her a flyer.  Soon, Cassie is the newest Lambda, and Monica is assigned to be her big sister. When Wendy, the house mom, sees Cassie's interest in the social committee, she invites Cassie to the white party to meet with benefactors. When Cassie arrives at the sorority house, Wendy has astonishing news.  One of the benefactors liked Cassie and wants to sponsor her.  Wendy wants Cassie to join the social committee.  Cassie's life on campus is debt-free and chores-free.  Cassie doesn't know the social committee is a front for prostitution.  After several sisters die, Cassie vows to put an end to it all.<br/><br/>Give this movie a chance.  With the setup, it's easy to dismiss it as background noise.  During the sting, it becomes a full-blown mystery, twice.  This movie will pleasantly surprise you with its compelling twist.  Cassie will blossom from a timid, naive girl to an intelligent, strong woman within two hours.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sororitysecrets.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sororitysecrets.jpg"
     }
   }
 ];
