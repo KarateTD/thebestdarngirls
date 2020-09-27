@@ -1,15 +1,4 @@
 var videoOnDemand = [
-	/*
-	{
-		"option":"1",
-		"mtitle":"Antebellum",
-		"review":"<br/><br/>* out of 5 stars.",
-		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/antebellum.jpg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/antebellum.jpg"
-		}
-	},
-	*/
 	{
 		"option":"1",
 		"mtitle":"Disney's Mulan",
@@ -64,3 +53,15 @@ module.exports = videoOnDemand;
 *  small image 720w x 480h (in pixels)
 *  large image 1200w x 800h (in pixels)
 */
+
+ 	/*
+	{
+		"option":"1",
+		"mtitle":"Antebellum",
+		"review":"<br/><br/>* out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/antebellum.jpg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/antebellum.jpg"
+		}
+	},
+	*/
