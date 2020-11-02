@@ -56,7 +56,15 @@ module.exports = mustBuy;
 
 /*  For Must Buy later    
 
-  
+  {
+		"option":"4",
+		"mtitle":"Bill and Ted Face the Music",
+		"review":"After playing their famous concert, Wyld Stallyns hasn't had a hit record in decades.  In turn, they haven't written their foretold song to unite the world.  Ted is married to Princess Elizabeth, and they have a daughter named Wilhelmina, also known as Billie.  Bill is married to Princess Joanna, and they have a daughter named Theodora, also known as Thea.  Billie and Thea have a deep passion for music of all genres, and they believe in their dad's ability to unite the world in song.  However, their wives, less so.  Bill and Ted learn their wives are unhappy and are contemplating a divorce.  The men leave the women to talk to the counselor and head home. That's when Kelly, Rufus's daughter, appears.  Kelly takes Bill and Ted to the future to see the Great Leader.  Time and reality are folding on itself.  If Bill and Ted don't write their song, the world will end.  And they must write the music and play it at 7:17 pm at MP 46, which is in 77 minutes.  Bill and Ted decide to steal the telephone booth, go to the future, and steal the song from themselves to save the world.  The Great Leader has lost faith in Bill and Ted and sends a robot to kill them. In fear, Kelly travels back to 2020 to warn Bill and Ted of the Great Leader's alternate plan, but she finds Billie and Thea instead.  Billie and Thea decide to help Bill and Ted by gathering the best musicians in time to back up their dad's band.  With three missions throughout time, who's mission will save the world?<br/><br/>The third installment of Bill and Ted's Excellent Adventures is everything you would expect from the franchise while coming full circle.  As Bill and Ted travel to meet future and worse off versions of themselves, Billie and Thea take the viewers on a musical journey. With their dad's laid-back nature and love of music, they embody everything you love about Bill and Ted while righting their wrongs.  This movie is a love letter to the cult classic fans.<br/><br/>4 out of 5 stars.",
+		"image":{
+		  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/billandtedfacethemusic.jpg",
+		  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/billandtedfacethemusic.jpg"
+		}
+	  }
 
 	{
     "option":"2",
