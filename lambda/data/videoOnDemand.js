@@ -34,16 +34,7 @@ var videoOnDemand = [
 			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/antebellum.jpg",
 			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/antebellum.jpg"
 		}
-	},
-	{
-		"option":"5",
-		"mtitle":"Disney's Mulan",
-		"review":"Hua Zhou sees his daughter, Mulan, who has a strong connection to the qi inside her, practicing her martial arts skills. However, he knows tradition says the qi is for men.  If Mulan uses it, she will be labeled a witch and shunned.  So, he tells Mulan to hide her gifts and bring honor to the family by marrying.  Years later, Mulan has an appointment to see the matchmaker. Mulan, connecting to her qi, catches the tea set, but she slips and drops it.  The matchmaker tells Zhou the Hua family has failed to raise a good daughter, and Mulan brought shame to his family.  Shamed, Mulan leaves the matchmaker with Xiu and her mother, Li, and sees the Imperial Army entering their village.  Bori Khan, a Rouran warrior, is on a mission to destroy Imperial China to avenge his father's death.  He has Xhin Lang protecting him.  Xhin Lang was labeled a witch and cast out of her village because she connected with her qi. The Army delivers the Emperor's decree that every family should give one son to fight the war.  Now, Zhou, a decorated and injured soldier, steps up because he has no sons. Zhou's volunteerism is accepted.  Mulan tries to convince her father not to go, but he boldly and abruptly stops her plea. As her family sleeps, Mulan makes a choice.  She takes her father's armor, horse, sword, and decree scroll and heads for the woods.  She will pretend to be her father's son, Hua Jun, and take her father's place in the Army. Zhou prays for their ancestors to protect Mulan on her journey to become a legend.<br/><br/>Based on Disney's Mulan and The Ballad of Mulan, the live-adaptation of Mulan has some glaring differences from the original movie.  However, it is a bold addition to the franchise.  With glorious landscapes, fantastic wardrobes, and magnificent fight scenes, Mulan will captivate you from beginning to end. With a few changes, viewers get a new story but the same message, never hide your gifts.  This movie classic isn't updated; it's renewed.  And it's enjoyable for the whole family.<br/><br/>4.5 out of 5 stars.",
-		"image":{
-		  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/disneysmulan.jpeg",
-		  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/disneysmulan.jpeg"
-		}
-	  }
+	}
 ];
 
 module.exports = videoOnDemand;
