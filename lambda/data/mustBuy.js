@@ -97,6 +97,14 @@ module.exports = mustBuy;
   }
 
 	
-
+{
+    "option":"5",
+    "mtitle":"True to the Game 2: Gena's Story",
+    "review":"Gena works for a fashion magazine in New York.  She left Philly in the rearview but has thoughts about Quadir every day.   Her boss believes she is overworked.  So he makes her take a mandatory 2-week vacation. However, she checks her inbox and finds an email from Venus, editor of another magazine. Gena takes the job and drives to the west coast with Quadir's money in her bags.  In Philly, Shoog and her crew hit Jerrell's men for their cocaine.  Before Shoog killed the last man standing, she said, 'This is for Quadir.'  While two of her accomplices die, Shoog and Brea got away with the drugs.  However, they didn't see that Titus escaped the gunfire.  After discovering someone robbed him, Jerrell finds Titus. Titus gives Jerrell's enforcer, Saleem, the information and the message about revenge for Quadir.  Jerrell and Saleem sit and contemplate over who has his drugs and wants revenge for Quadir.  Only one name comes to mind: Gena. Jerrell decides to find Gena and get his money and drugs back.  If anyone gets in his way, they're dead.<br/><br/>Sequel to True to the Game, and based on the novel by Teri Woods, this film will make you want to read the book.  There is so much going on in the plot that it's hard to imagine what they left out.  As Jerrell closes in on Gena, you will fear for her safety. When watching this movie, you will realize one glaring fact: Gena has no idea what's going on and why.  She is trying to put the past behind her, but the past won't let her go. This movie will have you excited for the third installment.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/truetothegame2.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/truetothegame2.jpg"
+    }
+  }
   
 */
