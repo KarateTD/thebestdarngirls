@@ -1,6 +1,15 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Honest Thief",
+    "review":"Tom met Annie a year ago at a storage facility where she worked, and he wants to continue his future with her without looking over his shoulder every day.  The FBI knows Tom as the In-and-Out Bandit. Tom buys a house for him and Annie, then he goes to a motel and calls the FBI.  Agent Sam Baker picks up the phone and doesn't believe Tom's story. So, he gives the phone to his partner, Detective Meyers. Over the years, he has stolen $9 million.  He is willing to give it all back if they give him what he wants.  Tom wants to be held for a maximum of two years in a minimum-security prison with full visitation rights.  Meyers still doesn't believe him, so they hand the case to Agent Ramon Hall and Agent Jason Nivens. After meeting Tom, they believe Tom is another liar, so Tom tells them how he committed the crimes.  Tom gives them the location of $3 million.  They go to the storage unit expecting to find nothing.  However, they find the motherload.  John gets an idea.  They can take the money, kill Tom, and tell Baker and Meyers it was all a hoax. Ramon hangs his head and says yes. Ramon and John walk into the hotel room, and John is prepared to kill Tom, but there is a knock at the door.  It's Agent Baker.  Baker walks inside but can tell something is off, then John shoots him point-blank in the head. Tom jumps in Annie's car and drives away.  Tom has to come clean with the woman he loves, clear his name of murder, and peacefully turn himself in before John and Ramon kill him and Annie.<br/><br/>Yes, this is another Liam Neeson kills-everyone movie, but that's why it's fun.  Tom never claims to be perfect or a good guy.  However, he tells everyone he is honest. It's interesting to contrast what drives each pair to fight together.  Tom and Annie find strength through love and the future.  And for Myers, he fights to get justice for Baker and find the person who killed him.  For Ramon and John, their partnership stands on blackmail and money.  Seeing the pairs work together or for each other changes throughout the film, and it will be their downfall or salvation.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/honestthief.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/honestthief.jpg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"TENET",
     "review":"TENET was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Unhinged",
     "review":"Rachel got some bad news; her soon-to-be-ex-husband wants the house.  Exhausted from a late-night, Rachel tells her lawyer, Andy, she will handle it later because she is running late to take her son, Kyle, to school and go to work.  During the drive, Rachel gets a call from her client.  When the client hears Rachel will be late again, the client fires Rachel over the phone. She decides to get off the freeway and take Kyle to school using the backstreets.  At the light, she sits behind a pickup truck, but the driver doesn't move during the green light.  Rachel lays on the horn, then drives around.  At the next light, the pickup truck driver asks Kyle to roll down his window.  He asks if Rachel knows what a courtesy honk is and why she didn't use it.  Frustrated, she tells the man he was in the wrong.  The man apologizes for being upset and ignoring the light.  In turn, the man wants Rachel to apologize too.  She refuses to apologize.  The man vows to make her see what a bad day is.  Then, he starts to follow her down the street, leaving accidents and injuries in his wake. Rachel gets gas and sees the man behind her car.  She alerts the gas station clerk and a good Samaritan. The man hits the Samaritan and stalks Rachel on the road. Rachel doesn't know the man killed his ex-wife and her new husband just hours prior.  He is a monster with pure road rage, and Rachel is in his crosshairs.<br/><br/>Unhinged is a thriller, suspense, and horror movie all rolled into one.  You must be in your seat during the opening credits to see news clips of people losing it on the road.  By witnessing the unhinged man kill in the beginning, it helps you understand that Rachel isn't the driving force behind his actions.  She is just the next victim of his rage. This hard-hitting movie will make you jump in your seat, shock you, and leave you with a lasting impact.  See it in theaters today.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
   },
   {
-		"option":"3",
+		"option":"4",
 		"mtitle":"Disney's Mulan",
 		"review":"Hua Zhou sees his daughter, Mulan, who has a strong connection to the qi inside her, practicing her martial arts skills. However, he knows tradition says the qi is for men.  If Mulan uses it, she will be labeled a witch and shunned.  So, he tells Mulan to hide her gifts and bring honor to the family by marrying.  Years later, Mulan has an appointment to see the matchmaker. Mulan, connecting to her qi, catches the tea set, but she slips and drops it.  The matchmaker tells Zhou the Hua family has failed to raise a good daughter, and Mulan brought shame to his family.  Shamed, Mulan leaves the matchmaker with Xiu and her mother, Li, and sees the Imperial Army entering their village.  Bori Khan, a Rouran warrior, is on a mission to destroy Imperial China to avenge his father's death.  He has Xhin Lang protecting him.  Xhin Lang was labeled a witch and cast out of her village because she connected with her qi. The Army delivers the Emperor's decree that every family should give one son to fight the war.  Now, Zhou, a decorated and injured soldier, steps up because he has no sons. Zhou's volunteerism is accepted.  Mulan tries to convince her father not to go, but he boldly and abruptly stops her plea. As her family sleeps, Mulan makes a choice.  She takes her father's armor, horse, sword, and decree scroll and heads for the woods.  She will pretend to be her father's son, Hua Jun, and take her father's place in the Army. Zhou prays for their ancestors to protect Mulan on her journey to become a legend.<br/><br/>Based on Disney's Mulan and The Ballad of Mulan, the live-adaptation of Mulan has some glaring differences from the original movie.  However, it is a bold addition to the franchise.  With glorious landscapes, fantastic wardrobes, and magnificent fight scenes, Mulan will captivate you from beginning to end. With a few changes, viewers get a new story but the same message, never hide your gifts.  This movie classic isn't updated; it's renewed.  And it's enjoyable for the whole family.<br/><br/>4.5 out of 5 stars.",
 		"image":{
@@ -27,23 +36,14 @@ var mustBuy = [
 		}
 	  },
   {
-		"option":"4",
+		"option":"5",
 		"mtitle":"Bill and Ted Face the Music",
 		"review":"After playing their famous concert, Wyld Stallyns hasn't had a hit record in decades.  In turn, they haven't written their foretold song to unite the world.  Ted is married to Princess Elizabeth, and they have a daughter named Wilhelmina, also known as Billie.  Bill is married to Princess Joanna, and they have a daughter named Theodora, also known as Thea.  Billie and Thea have a deep passion for music of all genres, and they believe in their dad's ability to unite the world in song.  However, their wives, less so.  Bill and Ted learn their wives are unhappy and are contemplating a divorce.  The men leave the women to talk to the counselor and head home. That's when Kelly, Rufus's daughter, appears.  Kelly takes Bill and Ted to the future to see the Great Leader.  Time and reality are folding on itself.  If Bill and Ted don't write their song, the world will end.  And they must write the music and play it at 7:17 pm at MP 46, which is in 77 minutes.  Bill and Ted decide to steal the telephone booth, go to the future, and steal the song from themselves to save the world.  The Great Leader has lost faith in Bill and Ted and sends a robot to kill them. In fear, Kelly travels back to 2020 to warn Bill and Ted of the Great Leader's alternate plan, but she finds Billie and Thea instead.  Billie and Thea decide to help Bill and Ted by gathering the best musicians in time to back up their dad's band.  With three missions throughout time, who's mission will save the world?<br/><br/>The third installment of Bill and Ted's Excellent Adventures is everything you would expect from the franchise while coming full circle.  As Bill and Ted travel to meet future and worse off versions of themselves, Billie and Thea take the viewers on a musical journey. With their dad's laid-back nature and love of music, they embody everything you love about Bill and Ted while righting their wrongs.  This movie is a love letter to the cult classic fans.<br/><br/>4 out of 5 stars.",
 		"image":{
 		  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/billandtedfacethemusic.jpg",
 		  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/billandtedfacethemusic.jpg"
 		}
-	  },
-	{
-		"option":"5",
-		"mtitle":"Irresistible",
-		"review":"Democratic strategist, Gary Zimmer is reeling from Hilary Clinton's loss in 2016.  He decides they need a new rural friendly message.  He has found his guy.  One of his aides played Gary a viral video of Colonel Jack Hastings arguing in a town hall meeting in Deerlaken, Wisconsin.  Jack argues against showing IDs to receive public assistance. Gary thinks he can turn Jack into a Democrat, then change the community by getting Jack elected mayor of Deerlaken.  Gary wants Jack to be a fresh face of the Democratic Party with his gruff exterior and left ideas. At first Jack says no, but changes his mind.  Jack has decided to run for mayor. Gary thinks this will be an easy win, but one semicolon will strike fear in his heart.  Republican strategist, Faith Brewster, is in town.<br/><br/>This movie shows the dirty side of politics on both sides.  It poignantly describes how one party leads with fear while the other leads with shame.  While both argue they are morally right, it all comes down to money.  With focus groups, statisticians, and super PACs, the money is the only focus and concern. This movie provides plenty of laughs, satirical undertones of the horrible nature of both parties, and false endings like Vice.<br/><br/>4 out of 5 stars.",
-		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/library/small-image/irresistible.jpg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/library/large-image/irresistible.jpg"
-		}
-	} 
+	}
 ];
 
 module.exports = mustBuy;
@@ -73,16 +73,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lethimgo.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lethimgo.jpg"
-    }
-  }
-
-{
-    "option":"3",
-    "mtitle":"Honest Thief",
-    "review":"Tom met Annie a year ago at a storage facility where she worked, and he wants to continue his future with her without looking over his shoulder every day.  The FBI knows Tom as the In-and-Out Bandit. Tom buys a house for him and Annie, then he goes to a motel and calls the FBI.  Agent Sam Baker picks up the phone and doesn't believe Tom's story. So, he gives the phone to his partner, Detective Meyers. Over the years, he has stolen $9 million.  He is willing to give it all back if they give him what he wants.  Tom wants to be held for a maximum of two years in a minimum-security prison with full visitation rights.  Meyers still doesn't believe him, so they hand the case to Agent Ramon Hall and Agent Jason Nivens. After meeting Tom, they believe Tom is another liar, so Tom tells them how he committed the crimes.  Tom gives them the location of $3 million.  They go to the storage unit expecting to find nothing.  However, they find the motherload.  John gets an idea.  They can take the money, kill Tom, and tell Baker and Meyers it was all a hoax. Ramon hangs his head and says yes. Ramon and John walk into the hotel room, and John is prepared to kill Tom, but there is a knock at the door.  It's Agent Baker.  Baker walks inside but can tell something is off, then John shoots him point-blank in the head. Tom jumps in Annie's car and drives away.  Tom has to come clean with the woman he loves, clear his name of murder, and peacefully turn himself in before John and Ramon kill him and Annie.<br/><br/>Yes, this is another Liam Neeson kills-everyone movie, but that's why it's fun.  Tom never claims to be perfect or a good guy.  However, he tells everyone he is honest. It's interesting to contrast what drives each pair to fight together.  Tom and Annie find strength through love and the future.  And for Myers, he fights to get justice for Baker and find the person who killed him.  For Ramon and John, their partnership stands on blackmail and money.  Seeing the pairs work together or for each other changes throughout the film, and it will be their downfall or salvation.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/honestthief.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/honestthief.jpg"
     }
   }
 
