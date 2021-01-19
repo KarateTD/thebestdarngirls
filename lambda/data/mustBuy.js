@@ -56,6 +56,36 @@ module.exports = mustBuy;
 
 /*  For Must Buy later  
 
+{
+    "option":"2",
+    "mtitle":"Greenland",
+    "review":"Greenland was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/greenland.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/greenland.jpg"
+    }
+  }
+
+  {
+    "option":"2",
+    "mtitle":"The Way I See It",
+    "review":"The Way I See It was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewayiseeit.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewayiseeit.jpg"
+    }
+  }
+
+{
+		"option":"1",
+		"mtitle":"Disney Pixar Soul",
+		"review":"Joe works as a middle school music teacher in M.S. 70.  During class, the principal calls Joe to the hallway.  They can offer him a full-time teaching position with time off and benefits, no more part-time work for him.  He goes to his mother's tailor shop, and Libba tells him that he must take the job.  Libba wants Joe to have a steady income with benefits, not an unstable gig, so Joe tells Libba he will take the job.  Joe gets a call from Curley, a former student, and Curley is a drummer for Dorothea Williams, a famous local jazz saxophonist.  Dorothea needs a new pianist. Joe runs downtown as fast as he can and meets with Dorothea.  She tells Joe to sit at the piano and join them.  At first, Joe is confused because he doesn't know the song they are playing, but then he gets into a zone.  When he opens his eyes, the band watches in awe.  Dorothea tells him to get a suit, come back at 9 pm tonight, and congratulations.  Joe made the band.  Excited, he runs home, talking on his phone, and falls into an open sewer. Now, Joe is a soul headed to the Great Beyond.  He runs from the Great Beyond, falls off the bridge, and falls into the Great Before.  All the soul counselors introduce themselves as Jerry.  It's their job to give souls their personality, but one spot remains open.  Once the soul fills that spot by going to the Hall of Everything, they get an Earth pass and start their life.  Jerry assumes Joe is a mentor for souls looking for the spark to fill the last spot.  After several failed attempts to return to earth, Joe sees he is not dead but in a coma at the hospital.  Joe decides to pretend to be a mentor and steal an Earth pass to get back.  Jerry assigns Joe to 22. Twenty-two doesn't see the point of living if dying is the result.  Joe and '22' make a promise, if he helps her find her spark, '22' will give Joe her Earth pass.  He will live, and she will never be born.<br/><br/>As usual, Pixar delivers the concept of life, death, and the beyond in a touching, palatable, and beautiful way.  To parents, there are plenty of jokes for you to enjoy.  But one concept that will pull you in is the land of Lost Souls.  Some of these lost souls aren't dead.   They are so focused on one thing that they stopped living their life. Putting an image to this concept will strike a chord with you.  This movie is a film the entire family can enjoy, and it's a strong entry to close out the year.<br/><br/>5 out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/disneypixarsoul.png",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/disneypixarsoul.png"
+		}
+	}
+
   {
     "option":"5",
     "mtitle":"The Croods: A New Age",
