@@ -106,9 +106,6 @@ module.exports = mustBuy;
     }
   }
 
-  
-
-	
 {
     "option":"5",
     "mtitle":"True to the Game 2: Gena's Story",
@@ -137,5 +134,26 @@ module.exports = mustBuy;
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/promisingyoungwoman.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/promisingyoungwoman.jpg"
     }
-  },
+  }
+
+  {
+		"option":"2",
+		"mtitle":"Our Friend",
+		"review":"Journalist Matt Teague sits at his computer and starts to write about his wife, Nicole, who lost her battle to cancer.  The widower and father of two, Molly and Evie, writes about the time he came to Nicole's first play.  Nicole warns Matt that Dane, a stagehand who asked her out, will be at the cast party.  Matt agrees to go and be kind to Dane because Dane is respectful.  Then, Matt writes about Nicole's diagnosis, and Dane dropping his entire life to help them. Soon, Dane went from Nicole's friend to their friend. As their world comes to a foreseeable end, can Matt and Dane keep it together for the girls and Nicole's memory?<br/><br/>Based on The Friend by Matthew Teague, this movie starts as a story for a woman and becomes a thank you letter to a dear friend.  The movie opens with Matt and Nicole deciding to tell Molly and Evie that Nicole is dying in a few months. From that moment, the story isn't told in a linear fashion, so you must pay attention to the time and dates. It does run long but it gives a strong ending for your time.<br/><br/>4 out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ourfriend.jpg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ourfriend.jpg"
+		}
+  }
+  
+  {
+		"option":"1",
+		"mtitle":"One Night in Miami",
+		"review":"On February 25th, 1964, Malcolm X, Sam Cooke, and Jim Brown watch Cassius Clay beat Sonny Liston in a major upset. The four men decided to meet at Malcolm's hotel room later that night.  Sam arrives first and notices that two bodyguards protect Malcolm's dump of a hotel room. As he plays, Cassius, Malcolm, and Jim arrive together and exchange warm greetings with Sam.  Sam, Cassius, and Jim are ready to paint Miami red to celebrate the new champ.  But Malcolm warns Cassius about temptation.  For some time, Cassius sought Malcolm's religious counsel before his fight, decided to convert to Muslim and join the Nation of Islam. Malcolm works with Alex Haley to pen his autobiography because Malcolm can feel death knocking at his door.  While holding the record for most running yards in a season, Jim Brown feels respected on the field, but not off it. As they sit in the hotel room trying to convince Malcolm to party, the men will scold each other's motives, interrogate their role in the black community, and question their future.  After this one night, each man's life will change forever.<br/><br/>Based on the One Night in Miami play, this provocative tale, inspired by real-life events, will leave you awestruck with brilliant performances.  The conversations between these men are poignant, striking, provoking, and critical for their advancement. But after one night together, these in-depth and controversial conversations inspire change in each man.  Whether it's a song, a name, a job, or a book, the world will grow from it.<br/><br/>5 out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/onenightinmiami.jpg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/onenightinmiami.jpg"
+		}
+	}
+
 */
