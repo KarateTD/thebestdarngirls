@@ -53,3 +53,53 @@ module.exports = madeForTV;
 *  small image 720w x 480h (in pixels)
 *  large image 1200w x 800h (in pixels)
 */
+
+/*
+
+{
+  "option":"1",
+  "mtitle":"Death Saved My Life",
+  "review":".<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deathsavedmylife.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deathsavedmylife.jpg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Galentine's Day Nightmare",
+  "review":".<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/galentinesdaynightmare.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/galentinesdaynightmare.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"The Wrong Valentine",
+  "review":".<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewrongvalentine.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewrongvalentine.jpg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Made for You, With Love",
+  "review":".<br/><br/>3.5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/madeforyouwithlove.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/madeforyouwithlove.jpg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Beverly Hills Wedding",
+  "review":".<br/><br/>3 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/beverlyhillswedding.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/beverlyhillswedding.jpeg"
+  }
+}
+
+*/

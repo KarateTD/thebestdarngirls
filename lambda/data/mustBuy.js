@@ -2,7 +2,7 @@ var mustBuy = [
   {
     "option":"1",
     "mtitle":"Greenland",
-    "review":"Greenland was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access",
+    "review":"Greenland was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access'",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/greenland.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/greenland.jpg"
