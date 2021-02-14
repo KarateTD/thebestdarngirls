@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Whitney Houston and Bobbi Kristina: Didn't We Almost Have It All",
-    "review":"Family, friends, and co-workers sit down and talk about Whitney Houston and her daughter, Bobbi Kristina, and their connection. Then, Nick Gordon's brother exposes a small look into Nick's world.  As Whitney dealt with her sexuality, public persona, molestation, and tumultuous relationship, she spiraled deeper into drugs but hoped to be a good mother to Bobbi Kristina.  While Bobbi Kristina wasn't famous for her talents like her parents, she was infamous because of them.  She was the center of tabloid magazines and gossip as Whitney and Bobby's drug addictions caused many to question their parenting skills. With each reveal of abandonment, a need for love, and a need for comfort, the viewer gets a glimpse of how Bobbi's life paralleled Whitney's.  Whether by nature or nurture, fate doomed this pair.<br/><br/>It's great to see people who never spoke about Whitney or Bobbi publicly speak their truth.  But you didn't learn much that you couldn't have learned from the TV movie or the theater movie.  This movie had more new information about Bobbi Kristina than Whitney. But fans were so focused on Whitney they never understood the scope of Bobbi's sorrow.  Bobbi was a tabloid sensation, a money-hungry people's target, and a drug-dealer's dream.  All the while, like her mother, Bobbi had a need to be loved, accepted, and herself.  This movie is the story of two women in pain that died the same.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Death Saved My Life",
+    "review":"Jade comes home from shopping with her sister, Leigh, and bought a sexy red dress to celebrate her award along with co-workers.  Before the party, Jade gets ready and puts on the dress, but her husband, Ed, cut it up.  Ed tells her the dress makes her look trashy. Ed notices Liam, Jade's co-worker, hug her and whisper in her ear, and he is furious.  Later that night, Ed accuses Jade of embarrassing him and beats her. Jade can't take the abuse and controlling behavior.  She packs up her clothes, their daughter, Kayla, and some cash and leaves.  After several attempts to get her back, Ed finally signs the divorce papers. Jade believes the hard times are behind her.  After work, Jade drops her car keys.  She attempts to pick them up when a man approaches her and points a gun in her face.  He runs when he hears potential witnesses.  Jade knows Ed, who is at a conference in another state, sent the hitman. Jade doesn't think anyone will believe her because Ed is a respected heart surgeon with ties to the community.  After his conference, Ed visits Jade's home and finds signs of a struggle and blood.  He calls the police, and they label Jade a missing person. When Ed gets home, he calls the hitman and tells him to get rid of Jade's body.  With Jade gone, Ed is free to raise their daughter, work, and get his final win over Jade.  But is she gone, because her ghost is haunting him?<br/><br/>This movie is the perfect kick-off for the 'Ripped From The Headlines' season.  Based on the story of Noela Rukundo, Jade committed pseudocide to gain control of her life.  In these movies, the antagonist makes the protagonist feel crazy, but this movie flips that script on its head. While watching this movie, take note of the mental abuse along with the physical.  When anyone gives Jade praise, she quickly puts herself down in comparison to Ed. These acts are signs of long term abuse.  So sit back, drink some tea, and learn.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whitneyhoustonandbobbikristinadidntwealmosthaveitall.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whitneyhoustonandbobbikristinadidntwealmosthaveitall.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deathsavedmylife.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deathsavedmylife.jpg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Killer Advice",
-    "review":"After surviving an attack, Beth pretends to be okay.  But her husband, Nick, can see something is wrong.  When Beth arrives at work, her friend, Simone, tells Beth to go to a therapist to work through the trauma, but Beth says no. However, her nightmares and panic attacks get worse.  So, Beth finally agrees to see Simone's therapist and waits anxiously in his lobby.  A woman comes out of Dr. Marsha's office and introduces herself to a nervous Beth.  Seeing Beth needs something to calm her nerves, Marsha offers Beth coffee in her office. Beth leaves Dr. Marsha's office with a renewed sense of self and makes another appointment. Later, Nick has unexpected news.  His boss, Trevor, invited their new client over to Nick's house for a home-cooked meal.  With their business model changing, Nick needs this new client's account to keep his job. Dr. Marsha is Nick's new and most important client.  Beth thinks it's a funny coincidence, but Simone believes something is wrong.  While Beth tries to assure Simone everything is okay, Beth couldn't be more incorrect.  Dr. Marsha is a woman on a mission to destroy Beth's life, and many will suffer so Marsha can get satisfaction.<br/><br/>This movie has a plot that keeps you watching until the end.  You don't know Dr. Marsha's motive for ripping Beth's life apart until Marsha starts monologuing.  During a slobber knocker fight, Marsha reveals her disdain for Beth, Nick, and Jess. The middle gets redundant for a Lifetime movie, but the beginning and end are well worth the watch.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Galentine's Day Nightmare",
+    "review":"Claire gets dressed while video calling her friend, Tiffany.  Tiffany convinced Claire to go out on February 13th to celebrate Galentine's Day. Brian walks over and introduces himself, especially to Claire.  Tiffany and Sophia walk to the ladies' room, leaving Claire at the table alone. Brian asks Claire to go with him to someplace close and special. They gaze at the beautiful view, and at the stroke of midnight, they kiss for Valentine's Day.  When Claire gets back to her table, she sees Tiffany and Sophia left her. Seeing she is in need, Brian offers to give her a ride home.  Soon, they are in Claire's bed.  The next day, Claire wakes up to chocolates and a card on her pillow.  These gifts are a great start to her day because she is meeting her new boss, Margaret. Margaret schedules lunch for them at the restaurant that Claire celebrated Galentine's.  Claire walks into the bistro and sees Brian standing their talking to a patron.  She gives a friendly hello before Margaret walks in and kisses Brian.  Brian and Margaret are married. She declares to never talk to Brian again.  Later, Claire goes for a run to clear her mind and crosses paths with Brian.  She considers running away, but he blurts out that he is divorcing Margaret. Feeling like things are on track, Claire visits Brian at the bistro, but he yells at her to leave and stop stalking him. Claire can't understand his sudden change and goes home with more questions than answers.  Her next day at work only adds more questions when someone finds Margaret dead from stab wounds.  When they find out about Claire's affair with Brian, find her fingerprints on the weapon, and find out about her dangerous past, Claire becomes their number one suspect.  How could she not be? Brian made sure she would.<br/><br/>With a plot close to a Dateline episode, this movie will leave you on the edge of your seat.  Yes, the lead character makes all the typical mistakes, but the villain will keep you watching.  Brian uses technology, gossip, and pure charisma to bring everyone on his side. This movie doesn't do a lot of monologuing to explain why Brian does these things. This film is a great movie that needs your full attention from beginning to end.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killeradvice.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killeradvice.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/galentinesdaynightmare.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/galentinesdaynightmare.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Love is a Piece of Cake",
-    "review":"It's the 65th anniversary of Miriam's Sweet Treats, and her granddaughter, Jessie, inherited the bakery five years ago.  Her friend, Howard, took over the accounting duties from Jessie's mother and her friend, Beatrice, helps with the baking.  While she has no plans on changing the bakery, Howard convinced Jessie to add custom wedding cakes to her repertoire.  She announces the change on a news broadcast about her bakery, and fashion designer Susan hears it.  Susan and her fiancé will get married in a few weeks, and Susan wants the perfect cake for their wedding.  Susan takes her brother, Aiden, and his daughter, Riley, to a cake tasting. After Riley met Jessie and Jessie gave Riley a tiny rolling pin, Riley can't stop talking about baking.  Jessie offers to teach Riley how to bake cookies, and Aiden says yes.  Jessie tells Howard and Beatrice about the lessons, and they get two different ideas.  Beatrice believes Jessie is attracted to Aiden, but Howard gets the idea of selling baking lessons.  Jessie says, 'no way' to both. At first, everything is going well, but Howard gets unfortunate news.  The owner of the building wants to sell it to a developer.  The developer wants to tear it down for condos.  Now, Jessie will take any opportunity to get money to buy her building.  But she doesn't know the answer to her problems is within Susan's advice and Miriam's history.<br/><br/>This movie does an excellent job of putting the inevitable love story in the background, which allows the audience to focus on Jessie and her business.  You worry about her ability to get the down payment so much that you don't hear the connection Aiden will have to the sale later.  And let's not forget one of the cutest kids in a movie. Riley brings out the best in everyone, and she is the linchpin to each character in the movie.  Be ready to love this movie, and have some cake nearby.<br/><br/>4 out of 5 stars.",
+    "mtitle":"The Wrong Valentine",
+    "review":"Emily has always been shy, but it got worse after her father died. Her history club leader, Ms. Connelly, asks Emily to open up more so everyone can see how smart and sweet she is.  As she leaves the club, a new student walks in.  He introduces himself to Ms. Connelly as David.  He recently transferred and wants to join the club. In the morning, Emily's mom, Ashley, tells her to have fun with her life.  She allows Emily to have a party on her birthday, which happens to be Valentine's day. Emily meets with her friend, Michelle, before the first bell, and they notice David checking them out.  They both think he is cute.  During the history club, Ms. Connelly makes a point to introduce David to Emily, and he finds Emily after the club meeting. Instead of spending time getting to know David, Emily meets with her guidance counselor, Mrs. Stein. The next day, everyone notices that Emily is all smiles as she thinks about David.  In history club, David buys a Valentine's rose and hands it to Emily.  With a grin, she invites him to her small birthday party.  When David arrives, he instantly impresses Ashley and Michelle with flowers and complements. The pair bond over having deceased parents, so Emily is head over heels for David.  But when David arrives uninvited, checks her calls, snaps for no reason, and breaks girl code, Emily has had enough.   She wants to end the relationship and figure out why David fixated on her so quickly.  The answer will leave Emily in tears and someone dead.<br/><br/>This movie has a strong premise, smart cops, caring school staff, a strong-willed parent, and a good twist. Emily stands up for herself and points out David's incorrect behavior. Also, she never allows his outbursts and controlling ways to become physical.  Emily and others see the warning signs and respond appropriately.  While the movie gives you these advice gems, it also gives the classic 'The Wrong' movie line.  This film is one to watch and add your 'The Wrong' marathon.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveisapieceofcake.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveisapieceofcake.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewrongvalentine.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewrongvalentine.jpg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Snowkissed",
-    "review":"Kate's boss, Francine, picked Kate to interview Kate's favorite author, Owen Muller.  Owen wrote a book called 'The Answer,' and Kate exists by its words.  If Kate writes an intriguing piece, Francine will hire Kate as a staff writer, and Kate won't have to freelance.  Francine even hires Kate's friend, Jane, to take pictures for the article.  Kate wants to celebrate until Francine tells Kate that she must leave Manhattan to give the interview.  Owen wants Kate to travel to Banff, Alberta, Canada. Kate freaks out every moment of the trip, and it gets worse when they land. Kate gets in line for coffee, and Noah interrupts her music listening.  She talks about Owen's book and his philosophy of life.  Noah laughs, and she ignores him.  Noah walks away and grabs his sign.  Jane notices Kate's name on Noah's sign and realizes he is their driver.  Bemused, Kate sighs and gets into Noah's car with Jane.  Kate and Jane sign into Noah and Simon's Beachwood Bed and Breakfast. The business has been doing well, but with more competition moving into town, they have to find creative ways to appeal to new customers. So, they decided to give activity tours to their customers. After Kate and Jane get settled in, Kate receives a phone call from Owen canceling his interview.  Kate wants to leave town now.  Simon and Noah beg her to stay and offer to help.  Noah gets on the phone and calls Owen.  He convinces Owen to reschedule the interview for Friday, and Owen agrees.  Since Owen agrees to do the interview, Kate offers to help Noah.  Noah wants to do a dry run of the tour, and Simon thinks it would be a good idea for Kate to give Noah criticism because she is a writer. They must get out of their comfort zones to get out of their respective ways to find the love in each other.<br/><br/>While the leads' romance is foreseeable, Simon and Jane's romance will draw you into the plot.  Jane is upfront about her feeling for Simon, but Simon is aloof and unaware.  You sit back in quiet frustration as Simon just doesn't get it. With Kate and Noah, you can see yourself as one or the other. While both benefit from their lifestyles, they see the drawbacks when they start to open up to each other. This film is a great movie to end the season.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Made for You, With Love",
+    "review":"Amanda takes second-hand wedding dresses and alters them to make a dream wedding dress for any blushing bride. At a client's wedding, Amanda meets two guys.  Keith is a friend of the groom, and he gives his number to Amanda.  James is the wedding photographer who displays his cynicism for weddings and wedding dresses before he knew Amanda's profession. When James presents his portfolio to a magazine company, he gets disappointing news.  They don't like his work because it doesn't display emotion, so they decided to go with another photographer.  At Amanda's store, she is hiding information from her best friend, Allie.  Her landlord is raising the rent and Amanda can't cover it.  As she secretly creates a plan to sell treasured items, James comes in and starts taking photos.  Amanda quickly shoos him away, but he posts a few of the pictures on his social media page.  Renee, from the magazine, saw the post and loves the images, Amanda, and Amanda's shop.  If James does the Made For You, With Love shop and Amanda as a feature story, then he will get the magazine job. He asks Amanda to let him shoot more photos and he will pay her $5000, but she says no.  The next day, another uncooperative phone call from her landlord prompts Amanda to say yes with demands. This alliance starts bumpy, and leads to a dance, but could end with romance.<br/><br/>The dresses Amanda creates are fresh and gorgeous, but the plotline is expected.  While they go on a few dates, you know Keith is not a factor or even a hurdle in Amanda's relationship with James. You will spark emotion when Allie comes to Amanda in tears.  Her father's illness got worse and she needs to have her wedding now so he can walk her down the aisle. While the plot is so-so, the overall movie is funny.  That charming aspect is worth the watch.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/snowkissed.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/snowkissed.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/madeforyouwithlove.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/madeforyouwithlove.jpg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Wendy Williams: The Movie",
-    "review":"Wendy Williams grew up as the tallest, heaviest, and only black girl on the block, and her parents never let her forget it. At the store, she would see the gossip rags.  Wendy wanted to be one of the rich and thin celebrities on the cover.  During her sophomore year in college, she got her first radio show. Soon, she is playing the contemporary hits and calling the shots.  It wasn't until later that Wendy found her winning formula.  She turned her love of tabloid magazines into a tell-all radio show about Hip Hop and R and B artists. After her first marriage, Wendy enjoys the single life.  Then, she meets Kevin Hunter. He made himself indispensable in her life as a manager, promoter, counselor, and bodyguard. While Wendy focuses on her rise to the top with Kevin, she has yet to understand he will be her most dominant anchor.  Between miscarriages, emotional abuse, and affairs, Wendy will have to summon all her strength to practice what she preaches.<br/><br/>Wendy only holds back three things from this movie: her son, her first marriage, and her rapist's name.  Otherwise, Wendy exposes her raw and unfiltered self from her formative years to now. Wendy talks about rape, abortion, miscarriages, stillbirth, Eric B, abuse, Kevin, the rise to the top, drug addiction, hyperthyroidism, Grave's disease, on-air fainting, and her family.  She puts it all on the table and took control of her life story. You are in for one hell of a ride, and no, you don't know her story.  So, watch and have your tea ready.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Beverly Hills Wedding",
+    "review":"Photographer Molly helped her future brother-in-law, Jordan, give her sister, Sophia, the sweetest proposal ever.  After the perfect proposal, Jordan has a surprise for Sophia.  He invited both of their families to enjoy the engagement celebration at their farmhouse.  To Molly's annoyance, Jordan's brother and best man, Cory, is there.  Molly dated Cory in high school and college, but when he decided to leave town, and she didn't want to, they broke up.  She wants nothing to do with Cory, but this best man wants to be involved.  Now, Molly wants to help plan the wedding, but Sophia warns her that the budget is tight.  Chloe, Molly's friend, suggests that Molly and Sophia enter a few contests. Molly reads several contests and finds Terrence Roquefort from Beverly Hills Wedding.  His show will cover the entire wedding, but the entrant must write an essay called 'How is Your Love Perfect.'  From all the applicants, Terrence will pick a winner.  Molly writes the letter for Sophia and Jordan. Then Molly gets a phone call from Terrence.  He picked Sophia and Jordan for the Beverly Hills wedding contest. Just one problem, they have to plan it for Valentine's Day, which is six weeks away.  Molly packs up for Beverly Hills and stands in her driveway to meet her dad, but Cory is there. His polite gesture confuses Molly, but Cory mentions she must have forgotten to read the fine print.  The trip was for the bride, groom, maid of honor, and the best man.  Now, Molly has to work with Terrence to plan a dream wedding for Sophia and Jordan while ignoring Cory and their rekindling love.  But is this wedding what Sophia and Jordan want, or are they all falling into the Beverly Hills hype?<br/><br/>After witnessing the cutest proposal ever, you will be more interested in the wedding planning gone wrong than either of the couples.  And your interest will not be regained until Sophia and Jordan speak their truth. While their choices are not Beverly Hills, it's Sophia and Jordan. This movie is a good distraction from daily chores or work, but with the predictable plot and twist, it's nothing more.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/wendywilliamsthemovie.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/wendywilliamsthemovie.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/beverlyhillswedding.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/beverlyhillswedding.jpeg"
     }
   }
 ];
@@ -52,54 +52,4 @@ module.exports = madeForTV;
 *  do not user '&' use the word 'and'
 *  small image 720w x 480h (in pixels)
 *  large image 1200w x 800h (in pixels)
-*/
-
-/*
-
-{
-  "option":"1",
-  "mtitle":"Death Saved My Life",
-  "review":".<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deathsavedmylife.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deathsavedmylife.jpg"
-  }
-},
-{
-  "option":"2",
-  "mtitle":"Galentine's Day Nightmare",
-  "review":".<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/galentinesdaynightmare.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/galentinesdaynightmare.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"The Wrong Valentine",
-  "review":".<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewrongvalentine.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewrongvalentine.jpg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Made for You, With Love",
-  "review":".<br/><br/>3.5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/madeforyouwithlove.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/madeforyouwithlove.jpg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"Beverly Hills Wedding",
-  "review":".<br/><br/>3 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/beverlyhillswedding.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/beverlyhillswedding.jpeg"
-  }
-}
-
 */
