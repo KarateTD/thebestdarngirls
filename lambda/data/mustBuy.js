@@ -136,4 +136,13 @@ module.exports = mustBuy;
 		}
 	}
 
+  {
+    "option":"2",
+    "mtitle":"Judas and the Black Messiah",
+    "review":"In 1968 Chicago, Bill O'Neal stands outside Leon's bar and notices a cherry red GTO.  He goes inside, flashes an FBI badge, and starts body-searching the patrons.  When he finds the keys inside a man's pocket, Bill arrests the man for grand theft auto.  Another man looks Bill in the eye and recognizes him.  He knows Bill is a con-artist, not FBI.  Bill grabs the keys, jumps in the car, locks the doors, and drives off as the patrons try to stop him.  Later, the police catch Bill in the stolen car.  They arrest Bill and put him in a room for questioning.  FBI Special Agent Roy Mitchell tells Bill he will do 18 months for the robbery and five years for impersonating an FBI agent.  Or he can pick another option. Mitchell offers to drop Bill's charges if he becomes an FBI informant to gather intel on Frederick Hampton.  Fred is the chairman of the Black Panther Party of Chicago.  Under constant threat of arrest, Bill is the lynchpin to one of the darkest days in FBI, Black Panther organization, and American history.<br/><br/>While the title seems extreme, the story of Bill and Fred mirror that of Judas and Jesus.  Bill pretended to be a friend, traded information for money and died like Judas. You will notice that when Bill is the focal point, the camera follows behind him. When he is with others, the camera is always in front or on the side of him.  This change in camera angle helps the viewer change perspective mentally and visually.  The music, setting, makeup, technology, and clothing were in line with the period.  This movie and its dismal conclusion for everyone involved will stick with you.  Not only will you watch again, but you will also start researching the names that history tries to forget.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/judasandtheblackmessiah.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/judasandtheblackmessiah.jpg"
+    }
+  }
 */
