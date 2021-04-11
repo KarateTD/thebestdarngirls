@@ -115,4 +115,14 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecourier.jpeg"
     }
   }
+
+  {
+    "option":"1",
+    "mtitle":"Godzilla vs. Kong",
+    "review":"It's been years since Kong defeated King Ghidorah, and now Kong continues his life on Skull Island. Monarch, with Dr. Ilene's guidance, monitors Kong's movements, diet, and attitude.  Also, Dr. Ilene cares for a little girl named Jia.  Jia is the last surviving member of the Iwa tribe. Others warn Ilene that Kong has outgrown the enclosure.  They need to move him, or they won't be able to contain him.  Ilene worries that moving Kong will awaken Godzilla.  In Pensacola, Florida, Apex Cybernetics has a mole with a Titan Conspiracy podcast named Bernie.  He downloads files and uses them to expose the work at Apex. As he delves deeper into the files, Godzilla attacks the Apex compound. Outside, no one understands why Godzilla is attacking Apex.  In the past, Godzilla only attacks when provoked. Madison listens to Bernie's latest broadcast about the attack and runs to her father, Mark Russell, who lost his wife, Emma, in the previous Monarch attack.  Madison tells Mark about the podcast and Godzilla's history, but he doesn't listen.  Madison decides to find Bernie to track Godzilla's reason for attacking Apex.  But Apex's CEO, Walter Simmons, doesn't want to know why; he wants to stop Godzilla.  He goes to Dr. Nathan and requests his help.  Walter wants Nathan to go to Hollow Earth, the Titan's home. Walter created the Hollow Earth Aerial Vehicle or HEAV for short, and it can withstand the reverse-gravitational effect.  And to find the Titan's source of power, they will need a titan, Kong.  With Kong as a divining rod, Ilene, Jia, and Nathan will travel to Hollow Earth to save the world from Godzilla.  But Bernie, Madison, and Madison's friend, Josh, discover that Godzilla isn't the biggest dog in the yard.  Who will come out on top?<br/><br/>Talk about a movie that gets to the point.  You came to see two titans fight, and you won't be waiting for long.  First, they battle at sea, then on land. With so much focus on the titans, the humans were subplots and obstacles for the hero to overcome. The graphics become cartoonish when the titans are on screen alone.  But when they interact with each other or humans, the CGI gets better.  See this movie on the tallest screen possible, whether that's in a theater or at home, and don't stay past the end credits.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/godzillavskong.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/godzillavskong.jpeg"
+    }
+  }
 */

@@ -54,3 +54,25 @@ module.exports = inTheTheaters;
 *  large image 1200w x 800h (in pixels)
 */
 
+/*
+
+{
+  "option":"1",
+  "mtitle":"Voyagers",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/voyagers.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/voyagers.jpg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"French Exit",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/frenchexit.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/frenchexit.jpeg"
+  }
+}
+*/
+
