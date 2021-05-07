@@ -8,7 +8,7 @@
     "aws-sdk": "^2.725.0",
     "dot-prop": "^5.2.0",
     "libnpx": "^10.2.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "request": "^2.88.2",
     "yargs": "^15.4.1",
     "yargs-parser": "^18.1.3"
