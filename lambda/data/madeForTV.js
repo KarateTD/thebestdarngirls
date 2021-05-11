@@ -53,3 +53,45 @@ module.exports = madeForTV;
 *  small image 720w x 480h (in pixels)
 *  large image 1200w x 800h (in pixels)
 */
+
+/*
+
+{
+  "option":"1",
+  "mtitle":"Secrets of Sorority Row",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsonsororityrow.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsonsororityrow.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Mommy's Deadly Con Artist",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mommysdeadlyconartist.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mommysdeadlyconartist.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Burning Little Lies",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/burninglittlelies.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/burninglittlelies.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Baby, It's Cold Outside",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/babyitscoldoutside.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/babyitscoldoutside.jpeg"
+  }
+},
+
+
+*/
