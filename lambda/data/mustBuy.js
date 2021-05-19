@@ -1,6 +1,15 @@
 var mustBuy = [
   {
-    "option":"1",
+		"option":"1",
+		"mtitle":"Disney Raya and the Last Dragon",
+		"review":"Raya passed her final test, and she is the next protector of the orb.  Five hundred years ago, dragons protected Kumandra from evil spirits.  But the Druun was too powerful, so the dragons put all their powers into one orb, and the last dragon, Sisu, fought the Druun and merged her spirit into the orb.  The people of Kumandra battled over the orb, and the fight led Kumandra to divide into factions: Heart, Talon, Spine, Tail, and Fang.  The Heart faction, which Raya and her father, Chief Benji, belong to, possess the orb. At the gathering, Raya meets Namaari, the daughter of Chieftess Virana of Fang.  Both girls love the tale of the dragons, and Namaari gives Raya a necklace of Sisu.  Enamored by this gift, Raya takes Namaari to the orb, but Namaari attempts to steal it. The orb breaks, the Druun return, and each faction take a piece of the orb. Before the Druun turns him into stone, Benji throws Raya off the bridge and into the water below. It's been six years since the Druun returned, and Raya still searches for Sisu. Of course, Raya isn't the only person looking for Sisu; Namaari is too.  After performing a ritual, Raya wakens Sisu, and Sisu wants to see her brothers and sisters.  Raya tells Sisu that the Druun turned her fellow dragons into stone. Sisu and Raya want to put the orb and Kumandra back together, but she and Raya will face old enemies along the way: greed and mistrust.<br/><br/>With a lesson needed in today's society, Raya fits perfectly into the Disney franchise.  With elaborate settings and dazzling fight scenes, Raya and her flaws draw you into the plot.  But it's Sisu that keeps you watching.  This lovable dragon gains the powers of her siblings while maintaining her caring and trusting nature. With all this sentiment, the plot provides an abundance of laughs.  From a con baby to a little Forrest Gump, each character will connect.  Whether you see it on the big screen or watch it on Disney+ Premier Access, you will be an instant fan.<br/><br/>4.5 out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/disneyrayaandthelastdragon.jpg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/disneyrayaandthelastdragon.jpg"
+		}
+	},
+  {
+    "option":"2",
     "mtitle":"The Mauritanian",
     "review":"The Mauritanian was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Judas and the Black Messiah",
     "review":"In 1968 Chicago, Bill O'Neal stands outside Leon's bar and notices a cherry red GTO.  He goes inside, flashes an FBI badge, and starts body-searching the patrons.  When he finds the keys inside a man's pocket, Bill arrests the man for grand theft auto.  Another man looks Bill in the eye and recognizes him.  He knows Bill is a con-artist, not FBI.  Bill grabs the keys, jumps in the car, locks the doors, and drives off as the patrons try to stop him.  Later, the police catch Bill in the stolen car.  They arrest Bill and put him in a room for questioning.  FBI Special Agent Roy Mitchell tells Bill he will do 18 months for the robbery and five years for impersonating an FBI agent.  Or he can pick another option. Mitchell offers to drop Bill's charges if he becomes an FBI informant to gather intel on Frederick Hampton.  Fred is the chairman of the Black Panther Party of Chicago.  Under constant threat of arrest, Bill is the lynchpin to one of the darkest days in FBI, Black Panther organization, and American history.<br/><br/>While the title seems extreme, the story of Bill and Fred mirror that of Judas and Jesus.  Bill pretended to be a friend, traded information for money and died like Judas. You will notice that when Bill is the focal point, the camera follows behind him. When he is with others, the camera is always in front or on the side of him.  This change in camera angle helps the viewer change perspective mentally and visually.  The music, setting, makeup, technology, and clothing were in line with the period.  This movie and its dismal conclusion for everyone involved will stick with you.  Not only will you watch again, but you will also start researching the names that history tries to forget.<br/><br/>5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Wonder Woman 1984",
     "review":"Diana works at the Smithsonian National Museum of Natural History as a senior anthropologist. She sees a woman picking up papers scattered all over the floor and bends down to help her.  The woman introduces herself as Barbara Minerva, a geologist and gemologist that likes cryptography.  As Diana walks away, Carol walks in looking for Barbara.  While investigating a jewelry store robbery, police uncovered the store was a front for selling black market antiquities.  The FBI will bring the items to the museum for Barbara to analyze.  As Barbara looks over the items, Diana comes to check things out.  They notice a unique looking stone, but it has a marking Barbara can't understand.  Diana recognizes the language and tells Barbara it says hold it and make a wish.  Diana holds it and makes a wish, and then she invites Barbara to an early dinner.  Later, Diana holds the stone on her desk and wishes to be more like Diana.  The next day, Carol brings their latest platinum donor, Max Lord, on a private tour.  He notices the stone in Barbara's office and wants to know more about it, but Barbara stops him.  He invites Barbara and Diana to a party in his honor for his donation. Diana goes to the party looking for Max.  Max finds Barbara and goes to her office to make out.  In the middle of the session, he asks to borrow the stone for a few days, and she says yes.  As Diane searches for Max, a man calls out to her and says, 'I wish we had more time.'  She turns in blistering anger and tells him not to say that.  It slowly sinks in that her wish came true, and Steve's ghost is in another man's body.  She forgets about Max and focuses on Steve.  This focus is a mistake.  Max runs Black Gold Corporation and advertises it on TV, and while it may look successful, it's a ponzi scheme. But he doesn't wish for his company to succeed, but he makes a wish to become the stone. Diana goes to Max's office and finds dust.  She sees a metal ring that once held the stone and sees an engraving on the inside.  The stone came from the God of Lies. He is granting wishes for his gain.  Diana must find and destroy him before Max destroys the world.<br/><br/>Sequel to Wonder Woman, this movie has all the hair, shoulder pads, and greed of the 1980s.  Many who have seen this movie complain it doesn't have a villain.  But they fail to realize, in the 1980s, greed was at an all-time high. So, greed is the ultimate villain.  The fight scenes are well choreographed and framed perfectly for each shot.  And let's mentions Steve's visit to the Smithsonian Air and Space Museum.  The look on his face is priceless. It does help to see the first movie to catch the little tidbits from the first.  With all the strong points, the film runs too long.  The romance between Steve and Diana takes up too much time. Some of the CGI turns the movie into a cartoon and takes away from the viewing experience.  This movie is watchable for those willing to enjoy a DC movie, not a DC movie compared to Marvel.  And stay after the first end-credits for a blast-from-the-past cameo.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -27,23 +36,14 @@ var mustBuy = [
     }
   },
   {
-		"option":"4",
+		"option":"5",
 		"mtitle":"Our Friend",
 		"review":"Journalist Matt Teague sits at his computer and starts to write about his wife, Nicole, who lost her battle to cancer.  The widower and father of two, Molly and Evie, writes about the time he came to Nicole's first play.  Nicole warns Matt that Dane, a stagehand who asked her out, will be at the cast party.  Matt agrees to go and be kind to Dane because Dane is respectful.  Then, Matt writes about Nicole's diagnosis, and Dane dropping his entire life to help them. Soon, Dane went from Nicole's friend to their friend. As their world comes to a foreseeable end, can Matt and Dane keep it together for the girls and Nicole's memory?<br/><br/>Based on The Friend by Matthew Teague, this movie starts as a story for a woman and becomes a thank you letter to a dear friend.  The movie opens with Matt and Nicole deciding to tell Molly and Evie that Nicole is dying in a few months. From that moment, the story isn't told in a linear fashion, so you must pay attention to the time and dates. It does run long but it gives a strong ending for your time.<br/><br/>4 out of 5 stars.",
 		"image":{
 			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ourfriend.jpg",
 			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ourfriend.jpg"
 		}
-  },
-  {
-		"option":"5",
-		"mtitle":"Disney Pixar Soul",
-		"review":"Joe works as a middle school music teacher in M.S. 70.  During class, the principal calls Joe to the hallway.  They can offer him a full-time teaching position with time off and benefits, no more part-time work for him.  He goes to his mother's tailor shop, and Libba tells him that he must take the job.  Libba wants Joe to have a steady income with benefits, not an unstable gig, so Joe tells Libba he will take the job.  Joe gets a call from Curley, a former student, and Curley is a drummer for Dorothea Williams, a famous local jazz saxophonist.  Dorothea needs a new pianist. Joe runs downtown as fast as he can and meets with Dorothea.  She tells Joe to sit at the piano and join them.  At first, Joe is confused because he doesn't know the song they are playing, but then he gets into a zone.  When he opens his eyes, the band watches in awe.  Dorothea tells him to get a suit, come back at 9 pm tonight, and congratulations.  Joe made the band.  Excited, he runs home, talking on his phone, and falls into an open sewer. Now, Joe is a soul headed to the Great Beyond.  He runs from the Great Beyond, falls off the bridge, and falls into the Great Before.  All the soul counselors introduce themselves as Jerry.  It's their job to give souls their personality, but one spot remains open.  Once the soul fills that spot by going to the Hall of Everything, they get an Earth pass and start their life.  Jerry assumes Joe is a mentor for souls looking for the spark to fill the last spot.  After several failed attempts to return to earth, Joe sees he is not dead but in a coma at the hospital.  Joe decides to pretend to be a mentor and steal an Earth pass to get back.  Jerry assigns Joe to 22. Twenty-two doesn't see the point of living if dying is the result.  Joe and '22' make a promise, if he helps her find her spark, '22' will give Joe her Earth pass.  He will live, and she will never be born.<br/><br/>As usual, Pixar delivers the concept of life, death, and the beyond in a touching, palatable, and beautiful way.  To parents, there are plenty of jokes for you to enjoy.  But one concept that will pull you in is the land of Lost Souls.  Some of these lost souls aren't dead.   They are so focused on one thing that they stopped living their life. Putting an image to this concept will strike a chord with you.  This movie is a film the entire family can enjoy, and it's a strong entry to close out the year.<br/><br/>5 out of 5 stars.",
-		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/disneypixarsoul.png",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/disneypixarsoul.png"
-		}
-	}
+  }
 ];
 
 module.exports = mustBuy;
