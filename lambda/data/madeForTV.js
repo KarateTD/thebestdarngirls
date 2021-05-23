@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Memories of a Murder",
-    "review":"Gail is the town outcast because of her family's business, Morbid Curiosities.  The store sells murderers' memorabilia from crime scenes, jail cells, and personal effects.  While cleaning egg off the storefront with her best friend, Alexa, Gail sees a package and takes it inside.  Inside the parcel is a knife block, figurine, and Crime and Punishment.  Gail calls her wheelchair-bound grandmother, Margot, to find out if she ordered the items.  But Margot didn't.  Moments later, Gail gets a mysterious phone call asking if she got the package.  The caller hints they are related, and Gail's father is the Midwest Taxidermy Killer, G. W. Stubbs, not Gary Niven.  The caller tells Gail the items in the box are from a recent murder, and she should sell them. Detective Janice comes into the store and asks Margot about a recent customer because someone murdered the customer, who was wearing a jacket from her store.  Gail remembers the customer but tells Janice that she nor Margot had anything to do with the murder. Then, Margot gets another call asking if she sold the items yet.  After seeing a matching figurine on a crime news report, Gail has second thoughts about selling it.  However, Alexa wants to sell to make the creepy caller go away.  In a fury, Gail looks for information and finds her birth certificate.  She can see the father's name is blank.  Now, Gail has two mysteries to solve.  Who is killing her customers, and who is her father?<br/><br/>This movie is a bit slower than the crazier Lifetime films that Lifetimers are used to viewing.  It spends time showing you the hostile nature of the townspeople and Margot's abuse towards Gail.  You will look at Gail as a sympathetic character that is manipulatable. Some will spot the killer before understanding why they killed.  Make sure you stick around for the why and the conclusion.  The end makes for a peaceful resolution.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"A Predator Returns",
+    "review":"Courtney and her friends decide to take a well-deserved break and hop on a boat.  They take a fun swim, but Courtney adds a challenge. While playing in the water, Courtney cuts her hand, and her friends see sharks.  While they make it to the island, Courtney only makes it to the dinghy.  Her friends swim to the boat, but David finds her first. Courtney begs David not to report them because she could lose her scholarship.  He concedes, and Courtney calls him a hero.  Before Courtney leaves, she gives David her phone number.  A day later, David decides to do the noble thing and burn Courtney's number. But as he feeds his sharks, he hears a buzzing.  It's Ryan calling Courtney's phone.  Courtney left it on the island, and David promises to return it.  The property return becomes their first date, and she slowly starts to fall for David.  Courtney believes she found her knight in shining armor, but she is the latest prey on this stalker's list.  And with one revelation, Courtney will have to become Beatrix Kiddo and kill David.  The third installment in the Stalker's Prey series is creepier than the first two.  His toxic behavior knows no bounds. Hacking her phone, framing her for murder, and killing her friends are only the start of David's horrific plan to get his new 'Allison.'  With a higher body count and higher calling, David must keep Courtney in his life.  Even his mother can't get in his way.  This movie will make you cringe in the best way possible.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/memoriesofamurder.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/memoriesofamurder.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/apredatorreturns.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/apredatorreturns.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Deceived by My Mother-in-Law",
-    "review":"After a trying year and two stalkers, Kristen wants to put the past behind her and enjoy her life with her new husband, James, and her daughter, Mara. To help his ill-stricken mother, Maggie, James invited Maggie to live in his and Kristen's home.  The moment Maggie meets Mara and Kristen, Maggie is abrupt, rude, vaguely hostile, and camera shy. When Kristen points out Maggie's attitude problem, James blames it on Maggie's illness.  The next day, Kristen sees a man following her, gets gifts from strangers, and gets hang-up calls.  Kristen believes someone is stalking her again, and she is coming unglued.  And that's what Maggie wants, for Kristen to fall off the rails and into an asylum. With Mara on Kristen's side, Maggie will need a few dead bodies to keep her plan going.<br/><br/>First, a round of applause for Mara because this teen isn't the spoiled, snarky brat we typically get with Lifetime movies. The plot does a great job of keeping viewers in the dark about the plan, the mastermind, and the stalker until needed.  And it warns you about oversharing on the internet.  It's easy to say that this film is flipping good.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Tracking a Killer",
+    "review":"Haley dresses for track practice when her mother, Michelle, gives her an early birthday gift: a pair of expensive sneakers. At practice, Haley sees her friends, Abby and Elaina, stretching and joins them. The three girls line up at the start line and run at their Coach Chris's command.  During the run, Abby gets into Haley's lane, forcing her to run into Elaina.  Both girls fall, and Abby wins.  Haley erupts, and Coach Chris calls Haley over.  After an incident, the school forced Haley to attend anger management classes. He tells Haley to try harder to keep her anger in check and ends practice. After Haley finishes her shower, she hears a loud bang and slowly enters the locker room to find the sound's origin.  She finds Abby on the ground with a head wound and calls for help. The medical examiner concluded that Abby's death wasn't an accident like previously believed.  It was murder.  They found a shoe print on Abby's face, and it matches the shoes Michelle got Haley.  Haley tells the detective she lost her shoes, and Michelle allows them to search her home.  The detective comes out of Haley's room with the shoes in an evidence bag. With the police's laser focus on her, Haley will investigate the crime to find Abby's killer.  Lucky for Haley that her ankle monitor is faulty.<br/><br/>It's not the mystery that keeps you on edge, but it's Haley's close calls and bursts of anger. The premise and mystery are good contenders, but the final fight scene is laughable.  If you decide to watch, you will have to pay attention but don't cancel your plans.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deceivedbymymotherinlaw.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deceivedbymymotherinlaw.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trackingakiller.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trackingakiller.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"How I Met Your Murderer",
-    "review":"Mackenzie, known as Mack, hosts a crime podcast called 'How I Met Your Murderer,' produced by her best friend, June.  Mack and her husband, Henry, moved back to Henry's hometown to start a family with the assistance of IVF. After a broadcast, Mack meets with a fan who alludes to the hometown mystery of the Blue Ribbon Killer.  Curiosity gets the best of Mack, and she starts to look into the crime. But she gets a shock when she learns each victim links to Henry.  Mack worries he could be the Blue Ribbon Killer. A poster left several threatening comments on the podcast's webpage, and Mack and June are uneasy.  However, Mack's newest friend, Oliver, puts her at ease.  Oliver is a police officer by day and photographer by night. Mack hopes having a cop by her side will give her access to police information about the Blue Ribbon Killer.  Mack needs to tread lightly because her life and marriage are at risk.<br/><br/>This movie has the potential to be an H.M.M. mystery, but it lacks enough suspects to make you point your attention elsewhere.  Experienced Lifetimers will pick out the murderer in 5 seconds of the killer being on screen. Your favorite character, hands down, will be June.  She speaks truth into every moment of this film.  June is worth the watch.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Sorority Sister Killer",
+    "review":"Lacey sits with the police and recounts her last encounter with her former best friend, Tara.  During a party, they argued on the roof.  Lacey said her peace, walked away and went into the bathroom to cry. Then, Lacey hears screaming.  Lacey went to the roof, and she saw Tara's shoe.  Lacey looked down and saw Tara dead on the ground.  The cops believe there is more to the story, so Lacey takes them back to their first day in college, just a few short months ago.  Best friends, Tara and Lacey, shared a dorm and couldn't wait to rush Kappa together. Among the sorors, they meet the president, Courtney, and the house mom, Lana.  With Lacey and Tara, Bella will pledge too.  Bella, like Lacey, is a legacy because Lana is her mother, and Courtney is her older sister. At the dorm, Bella tells Lacey and Tara that she doesn't care about the sorority.  She is only rushing for Lana and Courtney.  The first night of rushing, the sisters name-call and fat-shame pledges. Lacey stands up to Courtney and walks out.  She hopes Tara will follow, but Tara stays. Lacey's moment of bravery will be the catalyst to Tara's death and Lacey's arrest.  Good thing Lacey has Britney in her corner to keep her out of jail.<br/><br/>This movie is one of Lifetime's biggest and well-written misdirects.  You are so focused on other characters and their bad behavior that you may completely miss the murderer. With so much evidence pointing to Lacey, the police refuse to look any further.  This forces Lacey and Britney to spring into action and solve the crime together.  And this movie will end the way it started, with someone falling off the roof.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/howimetyourmurderer.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/howimetyourmurderer.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sororitysisterkiller.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sororitysisterkiller.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Just for the Summer",
-    "review":"Penelope has her bags packed to travel home for her Grandma Dot's 75th birthday bash.  But the trip won't be all fun and games.  Her manager, Liam, sent her book to the last publishing company in town, and they are interested but only if she makes extensive edits. Penelope promises to work while on vacation because she wants the published book, a dedication to her grandmother, to be Dot's present.  After arriving at Dot's home, Penelope unloads her luggage from the car when her old high school boyfriend, Jason, comes over to help. Dot asks Penelope about Jason, but Penelope shuts Dot down. She wants to focus on Dot, the party, and the book.  But Dot and Jason's grandmother have a plan up their sleeves.  They are scheming with rags, bread, and poems to get these two together.  After several run-ins, Jason comes up with a plan.  They will pretend to date for the summer to get their grandmothers off their back. Will this fake romance become a reality? Time will tell.<br/><br/>Let's give a round of applause for the grandmas of this story.  They will keep you watching from beginning to end. Every other aspect, while cute, was 100% predictable.  This movie is something to watch if you need to kill two hours or have background noise for your responsibilities.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"Poisoned in Paradise: A Martha's Vineyard Mystery",
+    "review":"After spending the day on Jeff's boat, Dr. Zee heads to the bank, and Jeff goes to a local coffee shop.  At the bank, Zee can't believe the balance on her ATM receipt.  It shows that she has $100,000 more in her account.  She goes inside to report the issue and runs into her old friend, Noah.  Noah's sister, Lauren, is the bank's CEO, and he assures Zee that Lauren can help.  Lauren directs Zee to the bank teller, Hazel, and Hazel starts to gossip about the sibling's relationship.  Lauren's father left her the bank, and Noah decided to take Lauren to court. At the coffee shop, Jeff gets a shock too.  Katie approaches him because she read about him in the local newspaper. Katie hints to Jeff that she is in a difficult situation and needs help to get out.  Jeff tells Katie to get ahead of the problem and go to the police, especially the Chief.  She thanks him and leaves.  At their next fishing outing, Zee and Jeff see a fallen scooter running on the side of the road.  They go to investigate, and Jeff finds a backpack along the shoulder.  Then, Zee finds a body.  It's Katie. Jeff feels a duty to investigate this crime.  When Jeff and Zee examine the contents of Katie's bag, they find an ATM receipt with over $100,000.  Katie was a waitress, so Zee believes her banking error and Katie's maybe the same.  This rabbit hole of crime will include a microwave, flash drive, and greek mythology.  Can you solve it before Zee and Jeff?<br/><br/>Based on the mystery series by Philip R. Craig, this film is the best so far.  This plot will throw experience Sleuthers for a loop.  Unlike most movies, the mystery doesn't hand you the killer by process of elimination. Don't be surprised if you hit the rewind button. This installment includes more nuggets of information about who shot Jeff.  So keep your notepad handy.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/justforthesummer.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/justforthesummer.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/poisonedinparadiseamarthasvineyardmysteries.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/poisonedinparadiseamarthasvineyardmysteries.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Revenge Delivered",
-    "review":"Dr. Victoria Brooks is an awarded OB GYN at St. John's Hospital.  With Dr. Peter Evans's assistance, Victoria will guide three young doctors through their residency programs.  Claire is a bright student with a can-do attitude and quick leadership skills.  Luna is a guarded Dartmouth graduate with a minor in psychology.  Noelle took a year-long sabbatical from medical school, but she is ready to start the program.  However, Claire and Luna feel that Noelle has an unfair advantage because Victoria is Noelle's mother.  After the residents leave, Victoria finishes her paperwork when the printer jams.  She runs to the printer to check, and a message prints off that reads, 'I know what you did 10/22/95.'  Victoria remembers that day because she had to choose between saving a mother or a baby.  Victoria saved the baby's life, and the mother died.  Victoria passed the father, Russel Myers, in the hospital, and she could feel his rage. Victoria leaves work and finds her car vandalized.  She takes pictures of the damage and finds a rock with a note.  The note reads, 'Next time, it won't be the window I break.'  Victoria calls the police and tells them she suspects Russel of the attacks.  Detective Garcia takes Victoria's hunch seriously because Russel has been off the grid for eight years.  But Victoria's stalker is closer than she thinks and ready to deliver revenge.<br/><br/>This movie is the definition of a slow burn with a low body count.  But the last 30 seconds makes watching the film worth every minute.  With a suicide attempt, an uncomfortable dinner, and an unfortunate tattoo, this movie points the viewer in several directions at one time.  Be ready for part two.  And hats off to the wardrobe department for Dr. Victoria's stunning looks.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Cooking Up Love",
+    "review":"Before Zoey presents her ideas to Colin, the CEO of BBQ Bill's, her boss, Rick, tells her to keep it short and sweet.  Instead of a customer satisfaction presentation, Zoey introduces updating the menu to include healthier options.  This pivot catches Colin off guard.  He pulls Rick aside and tells Rick that he has no plans to update the menu. After Colin leaves, Rick fires Zoey.  As Zoey contemplates how to pay her bills, she calls her friend, Shay, for advice. Shay tells Zoey to use this time to focus on her dreams.  To force Zoey's hand, Shay enters Zoey in an amateur food truck competition.  The winning team will get a new food truck and $100,000 for their business.  Since you need two people and a food truck for the competition, Shay offers to find a frugal truck and tells Zoey to asks her retired Grampa to help.  With their secret ingredient, Zoey does some practice runs in the local neighborhood with her Grampa.  After a few customers, Zoey gets one she recognizes: Colin. He tries to make peace, but nothing works until Colin buys a food processor.  She accepts.  On the first day of the competition, awed, Zoey sees that Colin is one of her judges. During the food truck competition, Zoey sees a man lurking around.  Then, she remembers it's Bradley from Rick's firm.  Bradley tried her BBQ sauce and loved it.  Now, he wants samples to recreate it for Colin's BBQ chain.  Will Rick's ill-advised behavior pull Zoey from Colin again?<br/><br/>This movie will make your food curious with potato chip pie and quince jam, but the script doesn't hold your attention.  Grampa's relationship with Claudette is more appealing to watch than the main characters'.  It's a palatable film to kill two hours, but there are better movies to watch instead.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/revengedelivered.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/revengedelivered.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cookinguplove.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cookinguplove.jpeg"
     }
   }
 ];
@@ -55,43 +55,6 @@ module.exports = madeForTV;
 */
 
 /*
-
-{
-  "option":"1",
-  "mtitle":"Secrets of Sorority Row",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsonsororityrow.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsonsororityrow.jpeg"
-  }
-},
-{
-  "option":"2",
-  "mtitle":"Mommy's Deadly Con Artist",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mommysdeadlyconartist.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mommysdeadlyconartist.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"Burning Little Lies",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/burninglittlelies.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/burninglittlelies.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Baby, It's Cold Outside",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/babyitscoldoutside.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/babyitscoldoutside.jpeg"
-  }
-},
 
 
 */
