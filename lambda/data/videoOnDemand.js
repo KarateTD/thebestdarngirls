@@ -34,15 +34,6 @@ var videoOnDemand = [
 			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/onenightinmiami.jpg",
 			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/onenightinmiami.jpg"
 		}
-	},
-	{
-		"option":"5",
-		"mtitle":"Our Friend",
-		"review":"Journalist Matt Teague sits at his computer and starts to write about his wife, Nicole, who lost her battle to cancer.  The widower and father of two, Molly and Evie, writes about the time he came to Nicole's first play.  Nicole warns Matt that Dane, a stagehand who asked her out, will be at the cast party.  Matt agrees to go and be kind to Dane because Dane is respectful.  Then, Matt writes about Nicole's diagnosis, and Dane dropping his entire life to help them. Soon, Dane went from Nicole's friend to their friend. As their world comes to a foreseeable end, can Matt and Dane keep it together for the girls and Nicole's memory?<br/><br/>Based on The Friend by Matthew Teague, this movie starts as a story for a woman and becomes a thank you letter to a dear friend.  The movie opens with Matt and Nicole deciding to tell Molly and Evie that Nicole is dying in a few months. From that moment, the story isn't told in a linear fashion, so you must pay attention to the time and dates. It does run long but it gives a strong ending for your time.<br/><br/>4 out of 5 stars.",
-		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ourfriend.jpg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ourfriend.jpg"
-		}
 	}
 ];
 
