@@ -2,5 +2,6 @@ publish*sh
 *zip
 .idea
 s3*.sh
+build.sh
 desktop.ini
 *.copy
