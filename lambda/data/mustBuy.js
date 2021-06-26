@@ -145,4 +145,14 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cruella.jpeg"
     }
   }
+
+  {
+    "option":"3",
+    "mtitle":"In The Heights",
+    "review":"The neighborhood of Washington Heights has people with dreams in every home.  Usnavi runs the bodega and plans to go to Puerto Rico to re-open his father's bar. Every morning, Usnavi greets Abuela Claudia.  With no kids, Claudia helped raise every kid in Washington Heights. In his bodega, Usnavi sells coffee, food, and lotto tickets to his neighbors, like Kevin, Nina, Benny, and his crush, Vanessa.  Kevin owns a car service and anxiously awaits the arrival of his daughter, Nina, after selling half of his store to send her to Stanford.  Nina is happy to be back on her block, but she worries that her news will disappoint the neighborhood.  Sonny, Usnavi's cousin, works in the bodega and dreams of going to college, but he is too young to understand the obstacle in his way.  Benny works for Kevin and has a crush on Nina. Vanessa wants to move out of Washington Heights and start a fashion label, but she needs to wait for a credit approval to get her dream apartment downtown.  Whether their dream is on the A-train, in the neighborhood, or on another island, they will not stop until they reach it.  Good thing someone has a winning 96,000 dollar lotto ticket in their hands.<br/><br/>Dare you to watch this movie without a tear in your eye.  Based on the award-winning play, someone in this movie will resonate with you.  Their passion, strength, and pride will pull you into each character's story while seeing them dance and sing about their struggles and joy. The music and lyrics will have you dancing and singing along. Like their dreams, each subject is complex and unique.  While they all grew up in the same neighborhood, they are not the same people. If musicals aren't your style, you should still give this one a try.  It will open you to an experience and mindset that many ignore.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/intheheights.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/intheheights.jpg"
+    }
+  }
 */
