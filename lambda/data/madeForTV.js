@@ -36,7 +36,7 @@ var madeForTV = [
     }
   },
   {
-    "option":"1",
+    "option":"5",
     "mtitle":"Doomsday Mom: The Lori Vallow Story",
     "review":"Lori Vallow often worries about the biblical teachings of end days. While most brush her off, her husband, Charles, and her brother, Alex, believe as she does.  Lori has a daughter, Tylee, with her ex-husband and a son, J.J., with Charles.  During a yard sale, Lori finds a book written by Chad Daybell.  He discusses the end of days in great detail and prepping for them.  She decides to go to a preppers convention.  Lori doesn't like shooting guns, but she listens to Mel talk about motherhood.  They connect over having sons with autism.  As they talk, Mel tells Lori that she met Chad at a convention, which amazes Lori. The next day, Mel calls and tells Lori that Chad is coming to a local convention.  Both women attend, and Lori approaches him to get her book signed.  He asks to meet with Lori in private after the event, and she agrees.  Later, Chad tells Lori that they were married nine times before and fought for the Lord each time. This meeting will set off a chain of events that starts with a welfare check and ends with dead bodies.<br/><br/>You think you know Lori's story, but you don't.  She is an extreme apocalypticist which causes her to look for signs of evil in the most insignificant actions. But there is a lingering question that comes to mind.  Would Lori go to these depths of depravity if she never met Chad? Or was she always capable of doing this without Chad? This could be a case of Shared Psychotic Disorder.  Regardless of the answer, several people, including two innocent children, suffered the ultimate price.<br/><br/>5 out of 5 stars.",
     "image":{
