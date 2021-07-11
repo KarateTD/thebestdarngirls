@@ -5,3 +5,4 @@ s3*.sh
 build.sh
 desktop.ini
 *.copy
+.DS_Store

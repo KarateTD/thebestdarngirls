@@ -2,19 +2,19 @@ var madeForTV = [
   {
     "option":"1",
     "mtitle":"Framed by My Husband",
-    "review":"<br/><br/>* out of 5 stars.",
+    "review":"Rick Lowe's novel just made the New York Times bestsellers list, and he wants to celebrate by starting a family with his wife, June.  However, June has aspirations of becoming an author too.  And she doesn't want to have children until she finishes her first novel. June tells her sister, Maggie, that Rick doesn't respect her, but Maggie thinks June is overly sensitive. One day, June gets the mail and finds two vital correspondences.  The first is Rick's bonus check, and the second is a blackmail letter.  A woman claims Rick sexually assaulted her.  And if Rick doesn't pay $50,000, she will tell the police and go public. At the designated drop-off, Rick tells June she should give the blackmailers the money. June agrees to do the drop.  At the location, June calls out to the waiting car, but no one comes out.  She opens the car door, and a dead woman falls out.  June grabs the body and sees a dead man in the passenger seat. With a coat covered in blood, June explains to Rick what happened.  She tells Rick she saw that woman in a hospital the day before with bruises.  The woman's name was Wendy Bach.  He tells her to relax and keep quiet. The next day, June preoccupies herself with the news coverage of the two bodies found in a parking lot with stab wounds.  The police identified the man as Wendy's husband, Simon.  Before June leaves to spend time with Maggie, the police come to the front door.  They have evidence that June had an affair with Simon and told him to leave his wife or else.  She tells them about the blackmail and gets the briefcase of money to back up her story.  But inside it is her bloody coat and the murder weapon.  Rick is the only one who knew about the bloody clothing, and she knows he set her up. June wakes up handcuffed to a hospital bed with questions from Maggie about the murders. With no one on her side, June breaks out of the hospital and crashes her car into a river.  The police declare June dead.  But she is not, and June will exact bloody revenge on Rick.<br/><br/>This movie is one of the best 'framed' movies on Lifetime.  Within the first 20 minutes, the writers lay down the plot and its full steam ahead. This film depicts acts of sexual assault, so there should be a trigger warning for survivors of this crime. With all the positives, the antagonist's monologue is ridiculous.  See if you can spot the fatal flaw in his plan.  However, if this movie won't trigger you, then be prepared to be very entertained.<br/><br/>5 out of 5 stars.",
     "image":{
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/framedbymyhusband.jpeg",
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/framedbymyhusband.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/framedbymyhusband.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/framedbymyhusband.jpeg"
     }
   },
   {
     "option":"2",
     "mtitle":"Keeping Up With the Joneses: The Wrong Family",
-    "review":"<br/><br/>* out of 5 stars.",
+    "review":"Theodore Jones left two legacies after his death: His business and his family.  In his will, Theodore left his company to his wife, Robin, and his four daughters - Pam, Carrie, Kayla, and Tara. Someone sent Robin several letters telling her to back out of the Harborside real estate deal, or she will regret it.  The letters are untraceable and could impact the company's bottom line.  Pam and Robin want to uncover who wrote the letters without involving the police or the investors.  Pam thinks they should call Carlos.  He works for the police, but he would keep the investigation quiet because he is their half-brother.  Theodore Jones had an affair with Carlos's mother when she worked for the family.  Carlos is Theodore's only son. Carlos can't work the case, but he asks his friend and disgraced ex-cop, Jess, to investigate for him.  At the end of Jess's investigation, there will be three dead bodies, two manipulators, and one bomb.<br/><br/>The first part of a three-part series will leave you glued to your seat and wanting more.  With soap opera slaps, Lifetime twists, and quotable comebacks, the Joneses will be Lifetime's next royal family.  It helps to watch the movie from the beginning because it gives an overview of each character and their motivations. Part two can't come fast enough.  Fingers crossed that this movie will be a weekly TV series or an annual movie series.<br/><br/>5 out of 5 stars.",
     "image":{
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/keepingupwiththejonesesthewrongfamily.jpeg",
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/keepingupwiththejonesesthewrongfamily.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/keepingupwiththejonesesthewrongfamily.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/keepingupwiththejonesesthewrongfamily.jpeg"
     }
   },
   {
