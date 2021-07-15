@@ -2,9 +2,9 @@ const aws = require('aws-sdk');
 const RDS = new aws.RDSDataService();
 
 const Alexa = require('ask-sdk-core');
-const Welcome = require('./json/welcome.json');
+const Welcome = require('./json/welcome2.json');
 const LibraryWelcome = require('./json/librarywelcome.json');
-const MovieOptions = require('./json/movieoptions.json');
+const MovieOptions = require('./json/movieoptions2.json');
 const Review = require('./json/review.json');
 const Help = require('./json/help.json');
 const Background = require('./json/background.json');
@@ -49,7 +49,8 @@ let libraryList;
 
 let getOptions = require('./helpers/getOptions');
 let getCardInfo = require('./helpers/getCardInfo');
-let getList = require('./helpers/getList');
+//let getList = require('./helpers/getList');
+let getList = require('./helpers/getList2');
 
 let menu;
 let searchChoice = "";
@@ -73,35 +74,47 @@ const WelcomeHandler = {
 		const request = handlerInput.requestEnvelope.request;
 		resetAll();
 		let mySettings = makeSettings(request.locale);
+		repeat=false;
+
+		let greeting = mySettings.mainMenu;
+		if(firstTime){
+			firstTime=false;
+			greeting = mySettings.welcome
+		}
 
 		if (supportsAPL(handlerInput)) {
 			handlerInput.responseBuilder.addDirective({
 				type: 'Alexa.Presentation.APL.RenderDocument',
 				document: Welcome,
 				datasources: {
-					"bodyTemplate1Data": {
+					"longTextTemplateData": {
 						"type": "object",
-						"objectId": "ht",
-						"backgroundImage": {
-							"sources": Background
+						"objectId": "longTextSample",
+						"properties":{
+							"backgroundImage":{
+								"sources":Background
+							},
+							"title":"Main Menu",
+							"subtitle": "The Best Darn Girls",
+							"textContent":{
+								"primaryText":{
+									"type":"PlainText",
+									"text": mySettings.mainScreen
+								}
+							},
+							"logoUrl": smallLogo,
+							"movieSpeechSSML":"<speak>"+greeting+"</speak>"
 						},
-						"title": "Main Menu",
-						"textContent": {
-							"primaryText": {
-								"type": "PlainText",
-								"text": mySettings.mainScreen
+						"transformers": [
+							{
+								"inputPath":"movieSpeechSSML",
+								"transformer":"ssmlToSpeech",
+								"outputName":"movieInfoSpeech"
 							}
-						},
-						"logoUrl": smallLogo
+						]
 					}
 				}
 			});
-		}
-		repeat=false;
-		let greeting = mySettings.mainMenu;
-		if(firstTime){
-			firstTime=false;
-			greeting = mySettings.welcome
 		}
 		
 		return handlerInput.responseBuilder
@@ -285,7 +298,7 @@ const MainMenuHandler = {
 
  			if(supportsAPL(handlerInput) && requestList){
 				console.log("****** has screen and not library")
-            	handlerInput.responseBuilder.addDirective({
+            	/*handlerInput.responseBuilder.addDirective({
                 	type: 'Alexa.Presentation.APL.RenderDocument',
  	               	document : MovieOptions,
     	            datasources : {
@@ -308,7 +321,23 @@ const MainMenuHandler = {
  	                	   	}
                     	}
                 	}
-           		});
+           		});*/
+				handlerInput.responseBuilder.addDirective({
+					"type": 'Alexa.Presentation.APL.RenderDocument',
+					"document" : MovieOptions,
+					"datasources":{
+						"gridListData":{
+							"type":"object",
+							"objectId": "gridListSample",
+							"backgroundImage":{
+								"sources": Background
+							},
+							"title":"Movie Options",
+							"listItems": requestList,
+							"logoUrl":smallLogo
+						}
+					}
+				})
 
  			}else if(supportsAPL(handlerInput) && isLibrary){
 				console.log("****** has screen and is library")
