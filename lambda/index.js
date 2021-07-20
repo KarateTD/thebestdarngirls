@@ -718,52 +718,10 @@ const MovieChoicesHandler = {
 						}
 					}
 				});
- 				/*handlerInput.responseBuilder.addDirective({
-                    type: 'Alexa.Presentation.APL.RenderDocument',
-                    document : Review,
-                    datasources : {
-                        "bodyTemplate3Data": {
-                            "type": "object",
-                            "objectId": "reviewSample",
-                            "backgroundImage": {
-                                "sources": Background
-                            },
-                            "title": "Movie Review",
-                            "image": {
-								"sources":[
-									{
-										"url": element.image.smallImageUrl,
-										"size": "small",
-										"widthPixels": 0,
-										"heightPixels": 0
-									},
-									{
-										"url": element.image.largeImageUrl,
-										"size": "large",
-										"widthPixels": 0,
-										"heightPixels": 0
-									}
-								]
-                            },
-                            "textContent":{
-                                "title": {
-                                    "type": "PlainText",
-                                    "text": element.mtitle
-                                },
-                                "primaryText": {
-                                    "type": "PlainText",
-                                    "text": element.review
-                                }
-                            },
-                            "logoUrl": smallLogo
-                        }
-                    }
-                });*/
 
  			}
 			console.log("returning")
       		return handlerInput.responseBuilder
-      		//  .speak(speechConcat)
 			  .withShouldEndSession(false)
       		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       		  .getResponse();
