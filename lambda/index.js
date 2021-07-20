@@ -5,7 +5,7 @@ const Alexa = require('ask-sdk-core');
 const Welcome = require('./json/welcome2.json');
 const LibraryWelcome = require('./json/librarywelcome.json');
 const MovieOptions = require('./json/movieoptions2.json');
-const Review = require('./json/review.json');
+const Review = require('./json/review2.json');
 const Help = require('./json/help.json');
 const Background = require('./json/background.json');
 
@@ -629,6 +629,8 @@ const MovieChoicesHandler = {
       		.getResponse();
 		}
 
+		console.log(choice)
+
   		if(menu.toLowerCase() === 'in the theater'){
 			console.log("** in the theater")
 			  element = getCardInfo(inTheTheater, choice);
@@ -661,11 +663,62 @@ const MovieChoicesHandler = {
 			  maxResults = libraryList.length;
 		}
 
+		console.log(element);
+		console.log(starter);
+
     	if(typeof element !== 'undefined'){
 			console.log("** if element is not undefined")
     		if(supportsAPL(handlerInput)){
 				console.log("**** if it has screen")
- 				handlerInput.responseBuilder.addDirective({
+
+				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
+				console.log(speechConcat)
+				console.log(element.image.largeImageUrl)
+				console.log(element.image.smallImageUrl)
+				console.log(element.mtitle)
+				console.log(element.review)
+
+				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Review,
+					datasources: {
+						"longTextTemplateData": {
+							"type": "object",
+							"objectId": "longTextSample",
+							"properties": {
+								"backgroundImage": {
+									"sources": [
+										{
+											"url": element.image.largeImageUrl,
+											"size": "large"
+										},
+										{
+											"url": element.image.smallImageUrl,
+											"size":"small"
+										}
+									]
+								},
+								"title": element.mtitle,
+								"textContent": {
+									"primaryText": {
+										"type": "PlainText",
+										"text": element.review
+									}
+								},
+								"logoUrl": smallLogo,
+								"movieSpeechSSML": "<speak>"+speechConcat+"</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath": "movieSpeechSSML",
+									"transformer": "ssmlToSpeech",
+									"outputName": "movieInfoSpeech"
+								}
+							]
+						}
+					}
+				});
+ 				/*handlerInput.responseBuilder.addDirective({
                     type: 'Alexa.Presentation.APL.RenderDocument',
                     document : Review,
                     datasources : {
@@ -705,14 +758,13 @@ const MovieChoicesHandler = {
                             "logoUrl": smallLogo
                         }
                     }
-                });
+                });*/
 
  			}
-
+			console.log("returning")
       		return handlerInput.responseBuilder
-      		  .speak(element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack))
-				.reprompt(repeatGoBack)
-				.withShouldEndSession(false)
+      		//  .speak(speechConcat)
+			  .withShouldEndSession(false)
       		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       		  .getResponse();
       	}else{
