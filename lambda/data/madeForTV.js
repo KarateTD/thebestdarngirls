@@ -4,8 +4,8 @@ var madeForTV = [
     "mtitle":"You're Not Safe Here",
     "review":"<br/><br/>* out of 5 stars.",
     "image":{
-      "smallImageUrl":"",
-      "largeImageUrl":""
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/yourenotsavehere.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/yourenotsavehere.jpeg"
     }
   },
   {
@@ -13,14 +13,14 @@ var madeForTV = [
     "mtitle":"Malicious Motives",
     "review":"<br/><br/>* out of 5 stars.",
     "image":{
-      "smallImageUrl":"",
-      "largeImageUrl":""
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maliciousmotives.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maliciousmotives.jpeg"
     }
   },
   {
     "option":"3",
     "mtitle":"Murder on Maple Drive",
-    "review":"<br/><br/>* out of 5 stars.",
+    "review":"Willow takes her big sister, Tess, out for a ride to a spectacular home in an affluent neighborhood.  Tess's husband, Mark, walks out of the home and surprises Tess. He bought the house as a gift for her because she passed the bar.  Looking at the size of the home, Tess has no idea how they can afford it. There was a murder in the house.  The previous couple, the Clarks, died in a murder-suicide after Mr. Clark killed Mrs. Clark and himself. As she dumps the trash outside, Tess's neighbor, Shelby, comes by and introduces herself.  Shelby invites Tess on a walk and won't take no for an answer.<br/><br/>During the walk, Shelby spots Mr. Seever, an older, cranky, weird man.  Then, she points out Dave, a handsome neighbor that keeps to himself. When Mark comes back, Tess tells Mark that the house is creepy without him. Mark goes out of town again, and David asks Tess to let in a plumber.  As she walks around David's home, test finds a locked basement with sounds echoing from behind the door.  Before she could investigate, the plumber interrupts her, and she leaves.  Later that night, someone breaks into Tess's home.  Just before the robber attacks Tess, David jumps in and saves her.  She watches over David to ensure he is ok after suffering a head injuring.  When Tess leaves David's house to go home, Mr. Seever tells Tess that Tess is wrong for being in a man's home when Tess is married.  And if she isn't careful, she could end up like Mrs. Clark. She doesn't believe Mr. Clark killed his wife and himself, and she will risk the life of her family and herself to find the truth.<br/><br/>This movie gives a quality mystery for the first hour with memorable jump scares.  But the second hour becomes the typical Lifetime movie.  After a while, you believe that Tess needs to spend more time finding a job than spying on the neighbors. Even with its The Shining moment, the plot gives the killer's identity away too soon to keep you in your seat.<br/><br/>3.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderonmapledrive.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderonmapledrive.jpeg"
