@@ -3,7 +3,7 @@ const RDS = new aws.RDSDataService();
 
 const Alexa = require('ask-sdk-core');
 const Welcome = require('./json/welcome2.json');
-const LibraryWelcome = require('./json/librarywelcome.json');
+const LibraryWelcome = require('./json/librarywelcome2.json');
 const MovieOptions = require('./json/movieoptions2.json');
 const Review = require('./json/review2.json');
 const Help = require('./json/help.json');
@@ -267,7 +267,8 @@ const MainMenuHandler = {
 						return LibraryHandler.handle(handlerInput);
   		    		}else{
 						console.log("******** not repeating");
-  		 	        	starter = "Welcome to The Best Darn Girls Movie Review Library.  Say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie, like Merry Liddle Christmas or Good Boys.";
+						phrase = getRandomNumber(libHints, libHints.length, false)
+  		 	        	starter = "Welcome to The Best Darn Girls Library.  To search, say \""+ phrase + "\" and the title of the movie. For example, "+phrase+" F9 the fast saga";
  	 		    	    isLibrary = true;
 						isEnd=false;
 						repeat = false;
@@ -298,30 +299,7 @@ const MainMenuHandler = {
 
  			if(supportsAPL(handlerInput) && requestList){
 				console.log("****** has screen and not library")
-            	/*handlerInput.responseBuilder.addDirective({
-                	type: 'Alexa.Presentation.APL.RenderDocument',
- 	               	document : MovieOptions,
-    	            datasources : {
-        	            "listTemplate2Metadata": {
-            	            "type": "object",
-                	        "objectId": "moMetadata",
-                    	    "backgroundImage": {
-                        	    "sources": Background
- 	                       },
-    	                    "title": "Movie Options",
-        	                "logoUrl":smallLogo,
-                	    },
-                    	"listTemplate2ListData": {
-	                        "type": "list",
-    	                    "listId": "moList",
-        	                "totalNumberOfItems": requestList.length,
-            	            "hintText": getRandomNumber(hints, requestList.length, true),
-                	        "listPage": {
-                    	        "listItems": requestList
- 	                	   	}
-                    	}
-                	}
-           		});*/
+
 				handlerInput.responseBuilder.addDirective({
 					"type": 'Alexa.Presentation.APL.RenderDocument',
 					"document" : MovieOptions,
@@ -342,7 +320,36 @@ const MainMenuHandler = {
  			}else if(supportsAPL(handlerInput) && isLibrary){
 				console.log("****** has screen and is library")
  			    handlerInput.responseBuilder.addDirective({
-        	        type: 'Alexa.Presentation.APL.RenderDocument',
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: LibraryWelcome,
+					datasources: {
+						"headlineTemplateData":{
+							"type": "object",
+							"objectId": "headlineSample",
+							"properties":{
+								"backgroundImage":{
+									"sources": Background
+								},
+								"textContent":{
+									"primaryText":{
+										"type": "PlainText",
+										"text": "Welcome to The Best Darn Girls Library"
+									}
+								},
+								"logoUrl": smallLogo,
+								"hintText": "Try, \""+ phrase + " Hailey Dean Mysteries\"",
+								"welcomeSpeechSSML":"<speak>"+starter+"</speak>"
+							},
+							"transformers": [
+								{
+									"inputPath": "welcomeSpeechSSML",
+									"transformer": "ssmlToSpeech",
+									"outputName": "welcomeSpeech"
+								}
+							]
+						}
+					}
+        	      /*  type: 'Alexa.Presentation.APL.RenderDocument',
             	    document : LibraryWelcome,
                 	datasources : {
                     	"bodyTemplate1Data": {
@@ -364,7 +371,7 @@ const MainMenuHandler = {
 								}
                 	        }
 	                    }
-    	            }
+    	            }*/
         	    });
  			}
 
