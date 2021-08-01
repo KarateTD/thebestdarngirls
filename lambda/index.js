@@ -349,29 +349,6 @@ const MainMenuHandler = {
 							]
 						}
 					}
-        	      /*  type: 'Alexa.Presentation.APL.RenderDocument',
-            	    document : LibraryWelcome,
-                	datasources : {
-                    	"bodyTemplate1Data": {
-                        	"type": "object",
- 	                       "objectId": "wlMetadata",
-    	                    "backgroundImage": {
-        	                    "sources": Background
-							},
-							"logoUrl": smallLogo,
-							"title": "Library",
-                        	"textContent": {
-	                            "primaryText":{
-    	                            "type":"PlainText",
-        	                        "text": starter
-								},
-								"hintText":{
-									"type":"PlainText",
-									"text":"Try, \""+ getRandomNumber(libHints, libHints.length, false) + " Hailey Dean Mysteries\""
-								}
-                	        }
-	                    }
-    	            }*/
         	    });
  			}
 
