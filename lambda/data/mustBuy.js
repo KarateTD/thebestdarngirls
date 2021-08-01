@@ -155,4 +155,14 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/intheheights.jpg"
     }
   }
+
+  {
+    "option":"4",
+    "mtitle":"Summer of Soul",
+    "review":"Tony Lawrence heard about the upcoming Woodstock festival but realized it was missing key artists.  So, with his hustling skills and connections, he made half promises to managers and the city of Harlem about creating a festival at Mount Morris Park.  But with Maxwell House and Mayor John Lindsay backing him up, Tony Lawrence creates a festival with scores of acts and 300,000 attendees over six weeks. Learning that this cultural festival of jazz, funk, blues, pop, gospel, latin, and pop music would happen, several people came together to film it.  That film sat in a basement for 50 years, until now.  Watch as Questlove talks to spectators, culturalists, artists, and organizers to bring this history out of the darkness and into the light.<br/><br/>1969 was a historic year for all Americans because there were assassinations, political change, and a moon landing.  But there was a culture shift happening in Harlem.  The days of buttoned-up suits disappeared for dashikis and afros, and the music of this time reflected this shift within the small community.  And the Harlem Cultural Festival mirrored it all. Hopefully, with the popularity of this movie, the film's proprietors will release the concert in its entirety.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/summerofsoul.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/summerofsoul.jpeg"
+    }
+  }
 */
