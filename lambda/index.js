@@ -736,7 +736,7 @@ const LibraryHandler = {
 			console.log("** if slots are not null")
 			if(request.intent.slots.MovieList != null || request.intent.slots.query != null){
 				console.log("**** if movie list is not null or query is not null")
-				parsedChoice = choice.toLowerCase().replace('/ /g','%');
+				parsedChoice = choice.toLowerCase().replace('/ /g','%').replace('/:/g','%');
 				searchChoice = parsedChoice;
 			}else{
 				console.log("**** both were empty")
