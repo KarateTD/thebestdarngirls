@@ -745,7 +745,7 @@ const LibraryHandler = {
 		}else{
 			parsedChoice = searchChoice;
 		}
-		
+		console.log("parsedChoice is " + parsedChoice + " and search choice is "+searchChoice);
 		let starter = null;
 		try{
 			console.log("** in try")
