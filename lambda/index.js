@@ -184,8 +184,40 @@ const MainMenuHandler = {
 		if(typeof menu === 'undefined'){
 			console.log("**undefinded type");
 			if(supportsAPL(handlerInput)){
-				console.log("****in if");
-			    handlerInput.responseBuilder.addDirective({
+				console.log("****in if in main menu intent");
+				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type":"object",
+							"objectId":"longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources":Background
+								},
+								"title":"Main Menu",
+								"subtitle": "The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text": mySettings.mainScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu+"</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath":"movieSpeechSSML",
+									"transformer":"ssmlToSpeech",
+									"outputName":"movieInfoSpeech"
+								}
+							]
+						}
+					}
+				});
+/*			    handlerInput.responseBuilder.addDirective({
  				    type : 'Alexa.Presentation.APL.RenderDocument',
  				    document : Welcome,
  				    datasources : {
@@ -205,7 +237,7 @@ const MainMenuHandler = {
 							 "logoUrl":smallLogo,
  				        }
  				    }
-			    });
+			    });*/
 			}
 			resetAll();
 			return handlerInput.responseBuilder
@@ -353,11 +385,11 @@ const MainMenuHandler = {
  			}
 
  		return handlerInput.responseBuilder
- 		  .speak(starter)
-		   .reprompt(starter)
-		   .withShouldEndSession(false)
- 		  .withSimpleCard(skillName, starter)
- 		  .getResponse();
+		 .speak(starter)
+		 .reprompt(starter)
+		 .withShouldEndSession(false)
+		 .withSimpleCard(skillName, starter)
+		 .getResponse();
 		})
 	}
 };
@@ -378,10 +410,43 @@ const WhatCanIBuyHandler = {
 
 		return ms.getInSkillProducts(locale).then(function(res) {
 			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
+			const speakResponse = "You have Premium Access.  There are no other products to purchase.  ";
 
 			if (isEntitled(product)){
 				if (supportsAPL(handlerInput)) {
 					handlerInput.responseBuilder.addDirective({
+						type: 'Alexa.Presentation.APL.RenderDocument',
+						document: Welcome,
+						datasources: {
+							"longTextTemplateData":{
+								"type":"object",
+								"objectId":"longTextSample",
+								"properties":{
+									"backgroundImage":{
+										"sources":Background
+									},
+									"title":"Main Menu",
+									"subtitle":"The Best Darn Girls",
+									"textContent":{
+										"primaryText":{
+											"type":"PlainText",
+											"text":mySettings.mainScreen
+										}
+									},
+									"logoUrl":smallLogo,
+									"movieSpeechSSML":"<speak>" + speakResponse + mySettings.mainMenu + "</speak>"
+								},
+								"transformer":[
+									{
+										"inputPath":"movieSpeechSSML",
+										"transformer":"ssmlToSpeech",
+										"outputName":"movieInfoSpeech"
+									}
+								]
+							}
+						}
+					});
+				/*	handlerInput.responseBuilder.addDirective({
 						type: 'Alexa.Presentation.APL.RenderDocument',
 						document: Welcome,
 						datasources: {
@@ -401,10 +466,9 @@ const WhatCanIBuyHandler = {
 								"logoUrl": smallLogo
 							}
 						}
-					});
+					});*/
 				}
 
-				const speakResponse = "You have Premium Access.  There are no other products to purchase.  ";
 				resetAll();
 				return handlerInput.responseBuilder
 				  .speak(speakResponse + " " + mySettings.mainMenu)
@@ -759,6 +823,7 @@ const LibraryHandler = {
 			console.log("** if slots are not null")
 			if(request.intent.slots.MovieList != null || request.intent.slots.query != null){
 				console.log("**** if movie list is not null or query is not null")
+				console.log("choice is"+ choice)
 				parsedChoice = choice.toLowerCase().replace('/ /g','%');
 				searchChoice = parsedChoice;
 			}else{
