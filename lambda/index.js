@@ -446,27 +446,6 @@ const WhatCanIBuyHandler = {
 							}
 						}
 					});
-				/*	handlerInput.responseBuilder.addDirective({
-						type: 'Alexa.Presentation.APL.RenderDocument',
-						document: Welcome,
-						datasources: {
-							"bodyTemplate1Data": {
-								"type": "object",
-								"objectId": "ht",
-								"backgroundImage": {
-									"sources": Background
-								},
-								"title": "Main Menu",
-								"textContent": {
-									"primaryText": {
-										"type": "PlainText",
-										"text": mySettings.mainScreen
-									}
-								},
-								"logoUrl": smallLogo
-							}
-						}
-					});*/
 				}
 
 				resetAll();
@@ -522,31 +501,43 @@ const CancelPurchaseHandler = {
 				  })
 				  .getResponse();
 			}else{
+				const speakResponse = "You do not own Premium Access.  If you would like to purchase it say, Alexa ask The Best Darn Girls to purchase Premium Access.  ";
 				if(supportsAPL(handlerInput)){
 					handlerInput.responseBuilder.addDirective({
 						type: 'Alexa.Presentation.APL.RenderDocument',
 						document: Welcome,
 						datasources: {
-							"bodyTemplate1Data": {
-								"type": "object",
-								"objectId": "ht",
-								"backgroundImage":{
-									"sources": Background
+							"longTextTemplateData":{
+								"type":"object",
+								"objectId":"longTextSample",
+								"properties":{
+									"backgroundImage":{
+										"sources":Background
+									},
+									"title": "Main Menu",
+									"subtitle": "The Best Darn Girls",
+									"textContent":{
+										"primaryText":{
+											"type":"PlainText",
+											"text":mySettings.mainScreen
+										}
+									},
+									"logoUrl":smallLogo,
+									"movieSpeechSSML":"<speak>"+speakResponse+mySettings.mainMenu+"</speak>"
 								},
-								"title": "Main Menu",
-								"textContent":{
-									"primaryText": {
-										"type": "PlainText",
-										"text": mySettings.mainScreen
+								"transformers":[
+									{
+										"inputPath":"movieSpeechSSML",
+										"transformer":"ssmlToSpeech",
+										"outputName":"movieInfoSpeech"
 									}
-								},
-								"logoUrl": smallLogo
+								]
 							}
 						}
 					});
 				}
 				resetAll();
-				const speakResponse = "You do not own Premium Access.  If you would like to purchase it say, Alexa ask The Best Darn Girls to purchase Premium Access.  ";
+				
 				return handlerInput.responseBuilder
 				  .speak(speakResponse + " " + mySettings.mainMenu)
 				  .withShouldEndSession(false)
@@ -570,10 +561,49 @@ const UpsellResponseHandler = {
 		let locale = request.locale;
 
 		let mySettings = makeSettings(locale);
+		let speakResponse = "";
+
+		if(request.payload.purchaseResult == 'DECLINED'){
+			speakResponse = "You cannot search the library or hear early screening reviews without Premium Access.  However, you can still get the latest reviews.  If you would like to purchase Premium Access say, Alexa ask The Best Darn Girls to purchase Premium Access.  ";
+		}else if(request.payload.purchaseResult == 'ACCEPTED'){
+			speakResponse = "Congratulations, you have Premium Access!  You can search the library and have access to exclusive reviews.  Happy searching! ";
+		}
 
 		if(request.status.code = 200) {
 			if (supportsAPL(handlerInput)) {
 				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type":"object",
+							"objectId":"longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources":Background
+								},
+								"title":"Main Menu",
+								"subtitle":"The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text":mySettings.mainScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>" + speakResponse + mySettings.mainMenu + "</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath":"movieSpeechSSML",
+									"transformer":"ssmlToSpeech",
+									"outputName":"movieInfoSpeech"
+								}
+							]
+						}
+					}
+				});
+			/*	handlerInput.responseBuilder.addDirective({
 					type: 'Alexa.Presentation.APL.RenderDocument',
 					document: Welcome,
 					datasources: {
@@ -593,26 +623,17 @@ const UpsellResponseHandler = {
 							"logoUrl": smallLogo
 						}
 					}
-				});
+				});*/
 			}
 
-			if(request.payload.purchaseResult == 'DECLINED'){
-				const speakResponse = "You cannot search the library or hear early screening reviews without Premium Access.  However, you can still get the latest reviews.  If you would like to purchase Premium Access say, Alexa ask The Best Darn Girls to purchase Premium Access.  ";
-				resetAll();
-				return handlerInput.responseBuilder
-				  .speak(speakResponse + " " + mySettings.mainMenu)
-				  .reprompt(mySettings.mainMenu)
-				  .withShouldEndSession(false)
-				  .getResponse();
-			}else if(request.payload.purchaseResult == 'ACCEPTED'){
-				resetAll();
-				const speakResponse = "Congratulations, you have Premium Access!  You can search the library and have access to exclusive reviews.  Happy searching!";
-				return handlerInput.responseBuilder
-				  .speak(speakResponse + " " + mySettings.mainMenu)
-				  .reprompt(mySettings.mainMenu)
-				  .withShouldEndSession(false)
-				  .getResponse();
-			}
+			resetAll();
+			return handlerInput.responseBuilder
+			.speak(speakResponse + " " + mySettings.mainMenu)
+			.reprompt(mySettings.mainMenu)
+			.withShouldEndSession(false)
+			.getResponse();
+
+			
 		}else{
 			console.log("Connections.Response failure.  Error is: " + request.status.message);
 			return handlerInput.responseBuilder
