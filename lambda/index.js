@@ -181,6 +181,7 @@ const MainMenuHandler = {
 		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
 		
 		let mySettings = makeSettings(locale);
+		
 		if(typeof menu === 'undefined'){
 			console.log("**undefinded type");
 			if(supportsAPL(handlerInput)){
@@ -217,27 +218,6 @@ const MainMenuHandler = {
 						}
 					}
 				});
-/*			    handlerInput.responseBuilder.addDirective({
- 				    type : 'Alexa.Presentation.APL.RenderDocument',
- 				    document : Welcome,
- 				    datasources : {
- 				        "bodyTemplate1Data":{
- 				            "type": "object",
- 			    	        "objectId": "command",
- 			    	        "backgroundImage": {
-                                "sources": Background
-                            },
- 				            "title": "Main Menu",
- 				            "textContent": {
- 				                "primaryText": {
- 				                    "type": "PlainText",
-                                    "text": mySettings.mainScreen
- 		    		            }
-							 },
-							 "logoUrl":smallLogo,
- 				        }
- 				    }
-			    });*/
 			}
 			resetAll();
 			return handlerInput.responseBuilder
@@ -665,36 +645,43 @@ const MovieChoicesHandler = {
 		let starter = '';
 
 		let mySettings = makeSettings(request.locale);
+		
 		if(typeof menu === 'undefined'){
 			console.log("** im menu is undefined")
+			let apology = "Sorry, your response was not understood.  Going back to the main menu.  ";
 			if(supportsAPL(handlerInput)){
 				console.log("**** if it has a screen")
-			    handlerInput.responseBuilder.addDirective({
- 				    type : 'Alexa.Presentation.APL.RenderDocument',
- 				    document : Welcome,
- 				    datasources : {
- 				        "bodyTemplate1Data":{
- 				            "type": "object",
- 			    	        "objectId": "command",
- 			    	        "backgroundImage": {
-                                "sources": Background
-                            },
- 				            "title": "Main Menu",
- 				            "textContent": {
- 				                "primaryText": {
- 				                    "type": "PlainText",
-                                    "text": mySettings.mainScreen
- 		    		            }
- 			    	        },
- 				            "logoUrl":smallLogo
- 				        }
- 				    }
-			    });
+				handlerInput.responseBuilder.addDirective({
+					type:'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type":"object",
+							"objectId": "longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources": Background
+								},
+								"title": "Main Menu",
+								"subtitle": "The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text": mySettings.mainScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>" + apology + mySettings.mainMenu+"</speak>"
+							}
+						}
+					}
+				});
+			
 			}
 			resetAll();
 			return handlerInput.responseBuilder
 			.withShouldEndSession(false)
-      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
+      		.speak(apology + mySettings.mainMenu)
       		.getResponse();
 		}
 
@@ -747,6 +734,7 @@ const MovieChoicesHandler = {
 				console.log(element.mtitle)
 				console.log(element.review)
 
+				//Don't use Background for image.  This section uses the promo photo for the background
 				handlerInput.responseBuilder.addDirective({
 					type: 'Alexa.Presentation.APL.RenderDocument',
 					document: Review,
