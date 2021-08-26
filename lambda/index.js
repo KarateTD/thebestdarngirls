@@ -313,9 +313,9 @@ const MainMenuHandler = {
 				console.log("****** has screen and not library")
 
 				handlerInput.responseBuilder.addDirective({
-					"type": 'Alexa.Presentation.APL.RenderDocument',
-					"document" : MovieOptions,
-					"datasources":{
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document : MovieOptions,
+					datasources:{
 						"gridListData":{
 							"type":"object",
 							"objectId": "gridListSample",
@@ -365,7 +365,6 @@ const MainMenuHandler = {
  			}
 
  		return handlerInput.responseBuilder
-		 .speak(starter)
 		 .reprompt(starter)
 		 .withShouldEndSession(false)
 		 .withSimpleCard(skillName, starter)
@@ -809,6 +808,7 @@ const LibraryHandler = {
         const request = handlerInput.requestEnvelope.request;
         if(request.intent.slots && offset == 0){
 			console.log("** if slots defined and offset is 0")
+
 			if(request.intent.slots.MovieList != null && request.intent.slots.query != null){
 				console.log("**** movielist and query have values")
            		if (request.intent.slots.MovieList.value != null){
@@ -832,7 +832,7 @@ const LibraryHandler = {
 			console.log("** if slots are not null")
 			if(request.intent.slots.MovieList != null || request.intent.slots.query != null){
 				console.log("**** if movie list is not null or query is not null")
-				console.log("choice is"+ choice)
+				console.log("choice is "+ choice)
 				parsedChoice = choice.toLowerCase().replace('/ /g','%');
 				searchChoice = parsedChoice;
 			}else{
@@ -918,59 +918,62 @@ const LibraryHandler = {
 				if(supportsAPL(handlerInput) && rows[0] != ""){
 					console.log("******* has screen")
 
-		            handlerInput.responseBuilder.addDirective({
-        		        type: 'Alexa.Presentation.APL.RenderDocument',
-                		document : MovieOptions,
- 		                datasources : {
-        		            "listTemplate2Metadata": {
-                		        "type": "object",
-                        		"objectId": "moMetadata",
- 		                        "backgroundImage": {
-        		                    "sources": Background
- 		                        },
- 		                       	"title": "Search Results",
-        		            	"logoUrl":smallLogo
- 		                    },
-		                    "listTemplate2ListData": {
-        		                "type": "list",
-                		        "listId": "moList",
-                        		"totalNumberOfItems": requestList.length,
- 		                        "hintText": getRandomNumber(hints, requestList.length, true),
-        		                "listPage": {
-		                            "listItems": requestList
-        		                }
-                		    }
-		                }
-        		    }); //end handler
+					handlerInput.responseBuilder.addDirective({
+						type:'Alexa.Presentation.APL.RenderDocument',
+						document: MovieOptions,
+						datasources:{
+							"gridListData":{
+								"type":"object",
+								"objectId":"gridListSample",
+								"backgroundImage":{
+									"sources":Background
+								},
+								"title":"Search Results",
+								"listItems": requestList,
+								"logoUrl":smallLogo
+
+							}
+						}
+					});
+
 		        }else if(supportsAPL(handlerInput) && rows[0] == "" && offset == 0){
-        		    starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " Creed, John Wick, Wreck-it Ralph, Aurora Teagarden, or Hailey Dean Mysteries.  "+ process.env.libraryAdds;
+        		    starter = "Your search has returned 0 results.  You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " and the movie's title.  "+ process.env.libraryAdds;
+					let myscreen = "Your search has returned 0 results. "+ process.env.libraryAdds;
 					console.log("******* no serch values Parsed: " + parsedChoice + " Choice: " + choice + " Search: " + searchChoice)
-		            handlerInput.responseBuilder.addDirective({
-        		        type: 'Alexa.Presentation.APL.RenderDocument',
-                		document : LibraryWelcome,
-		                datasources : {
-        		            "bodyTemplate1Data": {
-                		        "type": "object",
-                        		"objectId": "wlMetadata",
-		                        "backgroundImage": {
-        		                    "sources": Background
-                		        },
-								"logoUrl":smallLogo,
-								"title": "Library",
-        		                "textContent": {
-                		            "primaryText":{
-                        		        "type":"PlainText",
-		                                "text": starter
-        		                    }
-                		        },
-		                        "hintText": "Try, \""+ getRandomNumber(libHints, libHints.length, false) + "\" Hailey Dean Mysteries\""
-        		            }
-                		}
-            		});
+					handlerInput.responseBuilder.addDirective({
+						type: 'Alexa.Presentation.APL.RenderDocument',
+						document: LibraryWelcome,
+						datasources:{
+							"headlineTemplateData":{
+								"type":"object",
+								"objectId": "headlineSample",
+								"properties":{
+									"backgroundImage":{
+										"sources": Background
+									},
+									"textContent":{
+										"primaryText":{
+											"type":"PlainText",
+											"text": myscreen
+										}
+									},
+									"logoUrl":smallLogo,
+									"hintText": "Try, \""+ getRandomNumber(libHints, libHints.length, false) + " Hailey Dean Mysteries\"",
+									"welcomeSpeechSSML": "<speak>"+ starter + "</speak>"
+								},
+								"transformers":[
+									{
+										"inputPath":"welcomeSpeechSSML",
+										"transformer":"ssmlToSpeech",
+										"outputName":"welcomeSpeech"
+									}
+								]
+							}
+						}
+					});
         		}
 
         		return handlerInput.responseBuilder
-        			.speak(starter)
 					.reprompt(starter)
 					.withShouldEndSession(false)
         			.withSimpleCard(skillName, starter)
