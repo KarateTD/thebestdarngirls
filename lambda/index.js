@@ -6,7 +6,6 @@ const Welcome = require('./json/welcome.json');
 const LibraryWelcome = require('./json/librarywelcome.json');
 const MovieOptions = require('./json/movieoptions.json');
 const Review = require('./json/review.json');
-const Help = require('./json/help.json');
 const Background = require('./json/background.json');
 
 const premLocaleVar = {
@@ -38,7 +37,6 @@ const goodbyeCard='\t* Site: https://thatdarngirlmovie.reviews\n\t* Instagram: @
 const hints=[' Show me ',' Tell me about ', ' I choose ', ' Select ', ' '];
 const libHints=['Look for', 'Look up', 'Find', 'How about', 'Search for' ];
 const smallLogo='https://thebestdarngirls.s3.amazonaws.com/library/small-image/APP_ICON.jpg';
-//const largeLogo='https://thebestdarngirls.s3.amazonaws.com/library/large-image/APP_ICON.jpg';
 
 let inTheTheater = require('./data/inTheTheater');
 let madeForTV = require('./data/madeForTV');
@@ -73,35 +71,47 @@ const WelcomeHandler = {
 		const request = handlerInput.requestEnvelope.request;
 		resetAll();
 		let mySettings = makeSettings(request.locale);
+		repeat=false;
+
+		let greeting = mySettings.mainMenu;
+		if(firstTime){
+			firstTime=false;
+			greeting = mySettings.welcome
+		}
 
 		if (supportsAPL(handlerInput)) {
 			handlerInput.responseBuilder.addDirective({
 				type: 'Alexa.Presentation.APL.RenderDocument',
 				document: Welcome,
 				datasources: {
-					"bodyTemplate1Data": {
+					"longTextTemplateData": {
 						"type": "object",
-						"objectId": "ht",
-						"backgroundImage": {
-							"sources": Background
+						"objectId": "longTextSample",
+						"properties":{
+							"backgroundImage":{
+								"sources":Background
+							},
+							"title":"Main Menu",
+							"subtitle": "The Best Darn Girls",
+							"textContent":{
+								"primaryText":{
+									"type":"PlainText",
+									"text": mySettings.mainScreen
+								}
+							},
+							"logoUrl": smallLogo,
+							"movieSpeechSSML":"<speak>"+greeting+"</speak>"
 						},
-						"title": "Main Menu",
-						"textContent": {
-							"primaryText": {
-								"type": "PlainText",
-								"text": mySettings.mainScreen
+						"transformers": [
+							{
+								"inputPath":"movieSpeechSSML",
+								"transformer":"ssmlToSpeech",
+								"outputName":"movieInfoSpeech"
 							}
-						},
-						"logoUrl": smallLogo
+						]
 					}
 				}
 			});
-		}
-		repeat=false;
-		let greeting = mySettings.mainMenu;
-		if(firstTime){
-			firstTime=false;
-			greeting = mySettings.welcome
 		}
 		
 		return handlerInput.responseBuilder
@@ -168,31 +178,43 @@ const MainMenuHandler = {
 		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
 		
 		let mySettings = makeSettings(locale);
+		
 		if(typeof menu === 'undefined'){
 			console.log("**undefinded type");
 			if(supportsAPL(handlerInput)){
-				console.log("****in if");
-			    handlerInput.responseBuilder.addDirective({
- 				    type : 'Alexa.Presentation.APL.RenderDocument',
- 				    document : Welcome,
- 				    datasources : {
- 				        "bodyTemplate1Data":{
- 				            "type": "object",
- 			    	        "objectId": "command",
- 			    	        "backgroundImage": {
-                                "sources": Background
-                            },
- 				            "title": "Main Menu",
- 				            "textContent": {
- 				                "primaryText": {
- 				                    "type": "PlainText",
-                                    "text": mySettings.mainScreen
- 		    		            }
-							 },
-							 "logoUrl":smallLogo,
- 				        }
- 				    }
-			    });
+				console.log("****in if in main menu intent");
+				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type":"object",
+							"objectId":"longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources":Background
+								},
+								"title":"Main Menu",
+								"subtitle": "The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text": mySettings.mainScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu+"</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath":"movieSpeechSSML",
+									"transformer":"ssmlToSpeech",
+									"outputName":"movieInfoSpeech"
+								}
+							]
+						}
+					}
+				});
 			}
 			resetAll();
 			return handlerInput.responseBuilder
@@ -254,7 +276,8 @@ const MainMenuHandler = {
 						return LibraryHandler.handle(handlerInput);
   		    		}else{
 						console.log("******** not repeating");
-  		 	        	starter = "Welcome to The Best Darn Girls Movie Review Library.  Say \""+ getRandomNumber(libHints, libHints.length, false) + "\" and the title of the movie, like Merry Liddle Christmas or Good Boys.";
+						phrase = getRandomNumber(libHints, libHints.length, false)
+  		 	        	starter = "Welcome to The Best Darn Girls Library.  To search, say \""+ phrase + "\" and the title of the movie. For example, "+phrase+" F9 the fast saga";
  	 		    	    isLibrary = true;
 						isEnd=false;
 						repeat = false;
@@ -285,66 +308,72 @@ const MainMenuHandler = {
 
  			if(supportsAPL(handlerInput) && requestList){
 				console.log("****** has screen and not library")
-            	handlerInput.responseBuilder.addDirective({
-                	type: 'Alexa.Presentation.APL.RenderDocument',
- 	               	document : MovieOptions,
-    	            datasources : {
-        	            "listTemplate2Metadata": {
-            	            "type": "object",
-                	        "objectId": "moMetadata",
-                    	    "backgroundImage": {
-                        	    "sources": Background
- 	                       },
-    	                    "title": "Movie Options",
-        	                "logoUrl":smallLogo,
-                	    },
-                    	"listTemplate2ListData": {
-	                        "type": "list",
-    	                    "listId": "moList",
-        	                "totalNumberOfItems": requestList.length,
-            	            "hintText": getRandomNumber(hints, requestList.length, true),
-                	        "listPage": {
-                    	        "listItems": requestList
- 	                	   	}
-                    	}
-                	}
-           		});
+
+				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document : MovieOptions,
+					datasources:{
+						"gridListData":{
+							"type":"object",
+							"objectId": "gridListSample",
+							"backgroundImage":{
+								"sources": Background
+							},
+							"title":"Movie Options",
+							"listItems": requestList,
+							"logoUrl":smallLogo
+						}
+					}
+				})
 
  			}else if(supportsAPL(handlerInput) && isLibrary){
 				console.log("****** has screen and is library")
  			    handlerInput.responseBuilder.addDirective({
-        	        type: 'Alexa.Presentation.APL.RenderDocument',
-            	    document : LibraryWelcome,
-                	datasources : {
-                    	"bodyTemplate1Data": {
-                        	"type": "object",
- 	                       "objectId": "wlMetadata",
-    	                    "backgroundImage": {
-        	                    "sources": Background
-							},
-							"logoUrl": smallLogo,
-							"title": "Library",
-                        	"textContent": {
-	                            "primaryText":{
-    	                            "type":"PlainText",
-        	                        "text": starter
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: LibraryWelcome,
+					datasources: {
+						"headlineTemplateData":{
+							"type": "object",
+							"objectId": "headlineSample",
+							"properties":{
+								"backgroundImage":{
+									"sources": Background
 								},
-								"hintText":{
-									"type":"PlainText",
-									"text":"Try, \""+ getRandomNumber(libHints, libHints.length, false) + " Hailey Dean Mysteries\""
+								"textContent":{
+									"primaryText":{
+										"type": "PlainText",
+										"text": "Welcome to The Best Darn Girls Library"
+									}
+								},
+								"logoUrl": smallLogo,
+								"hintText": "Try, \""+ phrase + " Hailey Dean Mysteries\"",
+								"welcomeSpeechSSML":"<speak>"+starter+"</speak>"
+							},
+							"transformers": [
+								{
+									"inputPath": "welcomeSpeechSSML",
+									"transformer": "ssmlToSpeech",
+									"outputName": "welcomeSpeech"
 								}
-                	        }
-	                    }
-    	            }
+							]
+						}
+					}
         	    });
+
+				//to stop double talk
+				return handlerInput.responseBuilder
+		        .reprompt(starter)
+		        .withShouldEndSession(false)
+		        .withSimpleCard(skillName, starter)
+		        .getResponse();
  			}
 
  		return handlerInput.responseBuilder
- 		  .speak(starter)
-		   .reprompt(starter)
-		   .withShouldEndSession(false)
- 		  .withSimpleCard(skillName, starter)
- 		  .getResponse();
+		 .speak(starter)
+		 .reprompt(starter)
+		 .withShouldEndSession(false)
+		 .withSimpleCard(skillName, starter)
+		 .getResponse();
 		})
 	}
 };
@@ -365,6 +394,7 @@ const WhatCanIBuyHandler = {
 
 		return ms.getInSkillProducts(locale).then(function(res) {
 			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
+			const speakResponse = "You have Premium Access.  There are no other products to purchase.  ";
 
 			if (isEntitled(product)){
 				if (supportsAPL(handlerInput)) {
@@ -372,26 +402,36 @@ const WhatCanIBuyHandler = {
 						type: 'Alexa.Presentation.APL.RenderDocument',
 						document: Welcome,
 						datasources: {
-							"bodyTemplate1Data": {
-								"type": "object",
-								"objectId": "ht",
-								"backgroundImage": {
-									"sources": Background
+							"longTextTemplateData":{
+								"type":"object",
+								"objectId":"longTextSample",
+								"properties":{
+									"backgroundImage":{
+										"sources":Background
+									},
+									"title":"Main Menu",
+									"subtitle":"The Best Darn Girls",
+									"textContent":{
+										"primaryText":{
+											"type":"PlainText",
+											"text":mySettings.mainScreen
+										}
+									},
+									"logoUrl":smallLogo,
+									"movieSpeechSSML":"<speak>" + speakResponse + mySettings.mainMenu + "</speak>"
 								},
-								"title": "Main Menu",
-								"textContent": {
-									"primaryText": {
-										"type": "PlainText",
-										"text": mySettings.mainScreen
+								"transformer":[
+									{
+										"inputPath":"movieSpeechSSML",
+										"transformer":"ssmlToSpeech",
+										"outputName":"movieInfoSpeech"
 									}
-								},
-								"logoUrl": smallLogo
+								]
 							}
 						}
 					});
 				}
 
-				const speakResponse = "You have Premium Access.  There are no other products to purchase.  ";
 				resetAll();
 				return handlerInput.responseBuilder
 				  .speak(speakResponse + " " + mySettings.mainMenu)
@@ -445,31 +485,43 @@ const CancelPurchaseHandler = {
 				  })
 				  .getResponse();
 			}else{
+				const speakResponse = "You do not own Premium Access.  If you would like to purchase it say, Alexa ask The Best Darn Girls to purchase Premium Access.  ";
 				if(supportsAPL(handlerInput)){
 					handlerInput.responseBuilder.addDirective({
 						type: 'Alexa.Presentation.APL.RenderDocument',
 						document: Welcome,
 						datasources: {
-							"bodyTemplate1Data": {
-								"type": "object",
-								"objectId": "ht",
-								"backgroundImage":{
-									"sources": Background
+							"longTextTemplateData":{
+								"type":"object",
+								"objectId":"longTextSample",
+								"properties":{
+									"backgroundImage":{
+										"sources":Background
+									},
+									"title": "Main Menu",
+									"subtitle": "The Best Darn Girls",
+									"textContent":{
+										"primaryText":{
+											"type":"PlainText",
+											"text":mySettings.mainScreen
+										}
+									},
+									"logoUrl":smallLogo,
+									"movieSpeechSSML":"<speak>"+speakResponse+mySettings.mainMenu+"</speak>"
 								},
-								"title": "Main Menu",
-								"textContent":{
-									"primaryText": {
-										"type": "PlainText",
-										"text": mySettings.mainScreen
+								"transformers":[
+									{
+										"inputPath":"movieSpeechSSML",
+										"transformer":"ssmlToSpeech",
+										"outputName":"movieInfoSpeech"
 									}
-								},
-								"logoUrl": smallLogo
+								]
 							}
 						}
 					});
 				}
 				resetAll();
-				const speakResponse = "You do not own Premium Access.  If you would like to purchase it say, Alexa ask The Best Darn Girls to purchase Premium Access.  ";
+				
 				return handlerInput.responseBuilder
 				  .speak(speakResponse + " " + mySettings.mainMenu)
 				  .withShouldEndSession(false)
@@ -493,49 +545,58 @@ const UpsellResponseHandler = {
 		let locale = request.locale;
 
 		let mySettings = makeSettings(locale);
+		let speakResponse = "";
+
+		if(request.payload.purchaseResult == 'DECLINED'){
+			speakResponse = "You cannot search the library or hear early screening reviews without Premium Access.  However, you can still get the latest reviews.  If you would like to purchase Premium Access say, Alexa ask The Best Darn Girls to purchase Premium Access.  ";
+		}else if(request.payload.purchaseResult == 'ACCEPTED'){
+			speakResponse = "Congratulations, you have Premium Access!  You can search the library and have access to exclusive reviews.  Happy searching! ";
+		}
 
 		if(request.status.code = 200) {
 			if (supportsAPL(handlerInput)) {
 				handlerInput.responseBuilder.addDirective({
 					type: 'Alexa.Presentation.APL.RenderDocument',
 					document: Welcome,
-					datasources: {
-						"bodyTemplate1Data": {
-							"type": "object",
-							"objectId": "ht",
-							"backgroundImage": {
-								"sources": Background
+					datasources:{
+						"longTextTemplateData":{
+							"type":"object",
+							"objectId":"longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources":Background
+								},
+								"title":"Main Menu",
+								"subtitle":"The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text":mySettings.mainScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>" + speakResponse + mySettings.mainMenu + "</speak>"
 							},
-							"title": "Main Menu",
-							"textContent": {
-								"primaryText": {
-									"type": "PlainText",
-									"text": mySettings.mainScreen
+							"transformers":[
+								{
+									"inputPath":"movieSpeechSSML",
+									"transformer":"ssmlToSpeech",
+									"outputName":"movieInfoSpeech"
 								}
-							},
-							"logoUrl": smallLogo
+							]
 						}
 					}
 				});
 			}
 
-			if(request.payload.purchaseResult == 'DECLINED'){
-				const speakResponse = "You cannot search the library or hear early screening reviews without Premium Access.  However, you can still get the latest reviews.  If you would like to purchase Premium Access say, Alexa ask The Best Darn Girls to purchase Premium Access.  ";
-				resetAll();
-				return handlerInput.responseBuilder
-				  .speak(speakResponse + " " + mySettings.mainMenu)
-				  .reprompt(mySettings.mainMenu)
-				  .withShouldEndSession(false)
-				  .getResponse();
-			}else if(request.payload.purchaseResult == 'ACCEPTED'){
-				resetAll();
-				const speakResponse = "Congratulations, you have Premium Access!  You can search the library and have access to exclusive reviews.  Happy searching!";
-				return handlerInput.responseBuilder
-				  .speak(speakResponse + " " + mySettings.mainMenu)
-				  .reprompt(mySettings.mainMenu)
-				  .withShouldEndSession(false)
-				  .getResponse();
-			}
+			resetAll();
+			return handlerInput.responseBuilder
+			.speak(speakResponse + " " + mySettings.mainMenu)
+			.reprompt(mySettings.mainMenu)
+			.withShouldEndSession(false)
+			.getResponse();
+
+			
 		}else{
 			console.log("Connections.Response failure.  Error is: " + request.status.message);
 			return handlerInput.responseBuilder
@@ -567,38 +628,47 @@ const MovieChoicesHandler = {
 		let starter = '';
 
 		let mySettings = makeSettings(request.locale);
+		
 		if(typeof menu === 'undefined'){
 			console.log("** im menu is undefined")
+			let apology = "Sorry, your response was not understood.  Going back to the main menu.  ";
 			if(supportsAPL(handlerInput)){
 				console.log("**** if it has a screen")
-			    handlerInput.responseBuilder.addDirective({
- 				    type : 'Alexa.Presentation.APL.RenderDocument',
- 				    document : Welcome,
- 				    datasources : {
- 				        "bodyTemplate1Data":{
- 				            "type": "object",
- 			    	        "objectId": "command",
- 			    	        "backgroundImage": {
-                                "sources": Background
-                            },
- 				            "title": "Main Menu",
- 				            "textContent": {
- 				                "primaryText": {
- 				                    "type": "PlainText",
-                                    "text": mySettings.mainScreen
- 		    		            }
- 			    	        },
- 				            "logoUrl":smallLogo
- 				        }
- 				    }
-			    });
+				handlerInput.responseBuilder.addDirective({
+					type:'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type":"object",
+							"objectId": "longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources": Background
+								},
+								"title": "Main Menu",
+								"subtitle": "The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text": mySettings.mainScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>" + apology + mySettings.mainMenu+"</speak>"
+							}
+						}
+					}
+				});
+			
 			}
 			resetAll();
 			return handlerInput.responseBuilder
 			.withShouldEndSession(false)
-      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
+      		.speak(apology + mySettings.mainMenu)
       		.getResponse();
 		}
+
+		console.log(choice)
 
   		if(menu.toLowerCase() === 'in the theater'){
 			console.log("** in the theater")
@@ -632,58 +702,67 @@ const MovieChoicesHandler = {
 			  maxResults = libraryList.length;
 		}
 
+		console.log(element);
+		console.log(starter);
+
     	if(typeof element !== 'undefined'){
 			console.log("** if element is not undefined")
     		if(supportsAPL(handlerInput)){
 				console.log("**** if it has screen")
- 				handlerInput.responseBuilder.addDirective({
-                    type: 'Alexa.Presentation.APL.RenderDocument',
-                    document : Review,
-                    datasources : {
-                        "bodyTemplate3Data": {
-                            "type": "object",
-                            "objectId": "reviewSample",
-                            "backgroundImage": {
-                                "sources": Background
-                            },
-                            "title": "Movie Review",
-                            "image": {
-								"sources":[
-									{
-										"url": element.image.smallImageUrl,
-										"size": "small",
-										"widthPixels": 0,
-										"heightPixels": 0
-									},
-									{
-										"url": element.image.largeImageUrl,
-										"size": "large",
-										"widthPixels": 0,
-										"heightPixels": 0
+
+				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
+				console.log(speechConcat)
+				console.log(element.image.largeImageUrl)
+				console.log(element.image.smallImageUrl)
+				console.log(element.mtitle)
+				console.log(element.review)
+
+				//Don't use Background for image.  This section uses the promo photo for the background
+				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Review,
+					datasources: {
+						"longTextTemplateData": {
+							"type": "object",
+							"objectId": "longTextSample",
+							"properties": {
+								"backgroundImage": {
+									"sources": [
+										{
+											"url": element.image.largeImageUrl,
+											"size": "large"
+										},
+										{
+											"url": element.image.smallImageUrl,
+											"size":"small"
+										}
+									]
+								},
+								"title": element.mtitle,
+								"textContent": {
+									"primaryText": {
+										"type": "PlainText",
+										"text": element.review
 									}
-								]
-                            },
-                            "textContent":{
-                                "title": {
-                                    "type": "PlainText",
-                                    "text": element.mtitle
-                                },
-                                "primaryText": {
-                                    "type": "PlainText",
-                                    "text": element.review
-                                }
-                            },
-                            "logoUrl": smallLogo
-                        }
-                    }
-                });
+								},
+								"logoUrl": smallLogo,
+								"movieSpeechSSML": "<speak>"+speechConcat+"</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath": "movieSpeechSSML",
+									"transformer": "ssmlToSpeech",
+									"outputName": "movieInfoSpeech"
+								}
+							]
+						}
+					}
+				});
 
  			}
-
+			console.log("returning")
       		return handlerInput.responseBuilder
-      		  .speak(element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack))
-				.reprompt(repeatGoBack)
-				.withShouldEndSession(false)
+			  .withShouldEndSession(false)
       		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       		  .getResponse();
       	}else{
@@ -713,6 +792,7 @@ const LibraryHandler = {
         const request = handlerInput.requestEnvelope.request;
         if(request.intent.slots && offset == 0){
 			console.log("** if slots defined and offset is 0")
+
 			if(request.intent.slots.MovieList != null && request.intent.slots.query != null){
 				console.log("**** movielist and query have values")
            		if (request.intent.slots.MovieList.value != null){
@@ -736,6 +816,7 @@ const LibraryHandler = {
 			console.log("** if slots are not null")
 			if(request.intent.slots.MovieList != null || request.intent.slots.query != null){
 				console.log("**** if movie list is not null or query is not null")
+				console.log("choice is "+ choice)
 				parsedChoice = choice.toLowerCase().replace('/ /g','%');
 				searchChoice = parsedChoice;
 			}else{
@@ -821,59 +902,68 @@ const LibraryHandler = {
 				if(supportsAPL(handlerInput) && rows[0] != ""){
 					console.log("******* has screen")
 
-		            handlerInput.responseBuilder.addDirective({
-        		        type: 'Alexa.Presentation.APL.RenderDocument',
-                		document : MovieOptions,
- 		                datasources : {
-        		            "listTemplate2Metadata": {
-                		        "type": "object",
-                        		"objectId": "moMetadata",
- 		                        "backgroundImage": {
-        		                    "sources": Background
- 		                        },
- 		                       	"title": "Search Results",
-        		            	"logoUrl":smallLogo
- 		                    },
-		                    "listTemplate2ListData": {
-        		                "type": "list",
-                		        "listId": "moList",
-                        		"totalNumberOfItems": requestList.length,
- 		                        "hintText": getRandomNumber(hints, requestList.length, true),
-        		                "listPage": {
-		                            "listItems": requestList
-        		                }
-                		    }
-		                }
-        		    }); //end handler
+					handlerInput.responseBuilder.addDirective({
+						type:'Alexa.Presentation.APL.RenderDocument',
+						document: MovieOptions,
+						datasources:{
+							"gridListData":{
+								"type":"object",
+								"objectId":"gridListSample",
+								"backgroundImage":{
+									"sources":Background
+								},
+								"title":"Search Results",
+								"listItems": requestList,
+								"logoUrl":smallLogo
+
+							}
+						}
+					});
+
 		        }else if(supportsAPL(handlerInput) && rows[0] == "" && offset == 0){
-        		    starter = "Your search has returned 0 results.   You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " Creed, John Wick, Wreck-it Ralph, Aurora Teagarden, or Hailey Dean Mysteries.  "+ process.env.libraryAdds;
+        		    starter = "Your search has returned 0 results.  You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " and the movie's title.  "+ process.env.libraryAdds;
+					let myscreen = "Your search has returned 0 results. "+ process.env.libraryAdds;
 					console.log("******* no serch values Parsed: " + parsedChoice + " Choice: " + choice + " Search: " + searchChoice)
-		            handlerInput.responseBuilder.addDirective({
-        		        type: 'Alexa.Presentation.APL.RenderDocument',
-                		document : LibraryWelcome,
-		                datasources : {
-        		            "bodyTemplate1Data": {
-                		        "type": "object",
-                        		"objectId": "wlMetadata",
-		                        "backgroundImage": {
-        		                    "sources": Background
-                		        },
-								"logoUrl":smallLogo,
-								"title": "Library",
-        		                "textContent": {
-                		            "primaryText":{
-                        		        "type":"PlainText",
-		                                "text": starter
-        		                    }
-                		        },
-		                        "hintText": "Try, \""+ getRandomNumber(libHints, libHints.length, false) + "\" Hailey Dean Mysteries\""
-        		            }
-                		}
-            		});
+					handlerInput.responseBuilder.addDirective({
+						type: 'Alexa.Presentation.APL.RenderDocument',
+						document: LibraryWelcome,
+						datasources:{
+							"headlineTemplateData":{
+								"type":"object",
+								"objectId": "headlineSample",
+								"properties":{
+									"backgroundImage":{
+										"sources": Background
+									},
+									"textContent":{
+										"primaryText":{
+											"type":"PlainText",
+											"text": myscreen
+										}
+									},
+									"logoUrl":smallLogo,
+									"hintText": "Try, \""+ getRandomNumber(libHints, libHints.length, false) + " Hailey Dean Mysteries\"",
+									"welcomeSpeechSSML": "<speak>"+ starter + "</speak>"
+								},
+								"transformers":[
+									{
+										"inputPath":"welcomeSpeechSSML",
+										"transformer":"ssmlToSpeech",
+										"outputName":"welcomeSpeech"
+									}
+								]
+							}
+						}
+					});
+					return handlerInput.responseBuilder
+					.reprompt(starter)
+					.withShouldEndSession(false)
+        			.withSimpleCard(skillName, starter)
+        			.getResponse();
         		}
 
         		return handlerInput.responseBuilder
-        			.speak(starter)
+					.speak(starter)
 					.reprompt(starter)
 					.withShouldEndSession(false)
         			.withSimpleCard(skillName, starter)
@@ -923,7 +1013,39 @@ const CommandsHandler = {
 		}else{
 
 			if(supportsAPL(handlerInput)){
-			    handlerInput.responseBuilder.addDirective({
+				handleInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type": "object",
+							"objectId":"longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources": Background
+								},
+								"title":"Main Menu",
+								"subtitle":"The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text":mySettings.mainScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>Sorry your response was not understood.  Going back to the main menu. "+ mySettings.mainMenu+"</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath":"movieSpeechSSML",
+									"transformer":"ssmlToSpeech",
+									"outputName":"movieInfoSpeech"
+								}
+							]
+						}
+					}
+				});
+			/*    handlerInput.responseBuilder.addDirective({
  				    type : 'Alexa.Presentation.APL.RenderDocument',
  				    document : Welcome,
  				    datasources : {
@@ -943,7 +1065,7 @@ const CommandsHandler = {
  				            "logoUrl":smallLogo
  				        }
  				    }
-			    });
+			    });*/
 			}
 			resetAll();
 			return handlerInput.responseBuilder
@@ -996,26 +1118,37 @@ const ExitHandler = {
 			console.log("** if intent reqeust")
 			if(supportsAPL(handlerInput)){
 				console.log("**** if supports apl")
-			    handlerInput.responseBuilder.addDirective({
-			        type : 'Alexa.Presentation.APL.RenderDocument',
-		    	    document : Welcome,
-		        	datasources : {
-		            	"bodyTemplate1Data":{
-		                	"type": "object",
-			                "objectId": "exit",
-			                "backgroundImage": {
-        	                   "sources": Background
-            	            },
-		        	        "title": "Good Bye",
-		            	    "textContent": {
-		                	    "primaryText": {
-		                    	    "type": "PlainText",
-		                        	"text": goodbyeScreen
-			                    }
-			                },
-			                "logoUrl":smallLogo
-		        	    }
-			        }
+				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type":"object",
+							"objectId":"longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources": Background
+								},
+								"title":"Good Bye",
+								"subtitle":"The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text":goodbyeScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>" + goodbyeSpeak + "</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath":"movieSpeechSSML",
+									"transformer":"ssmlToSpeech",
+									"outputName":"movieInfoSpeech"
+								}
+							]
+						}
+					}
 				});
 			}
 
@@ -1027,38 +1160,49 @@ const ExitHandler = {
 		}else if(request.type === 'Connections.Response'){
 			console.log("** if connections response ")
 			let speakResponse = null;
-			if (supportsAPL(handlerInput)) {
-				console.log("**** if supports apl")
-				handlerInput.responseBuilder.addDirective({
-					type: 'Alexa.Presentation.APL.RenderDocument',
-					document: Welcome,
-					datasources: {
-						"bodyTemplate1Data": {
-							"type": "object",
-							"objectId": "ht",
-							"backgroundImage": {
-								"sources": Background
-							},
-							"title": "Main Menu",
-							"textContent": {
-								"primaryText": {
-									"type": "PlainText",
-									"text": mySettings.mainScreen
-								}
-							},
-							"logoUrl": smallLogo
-
-						}
-					}
-				});
-			}
 
 			if(request.payload.purchaseResult === 'ACCEPTED'){
 				speakResponse = "I am sorry to see you go.  You can renew your Premium Access in the future.  ";			
 			}else if(request.payload.purchaseResult === 'DECLINED'){
 				speakResponse = "You still have Premium Access.  ";
 			}else{
-				speakResponse = "I did not understand.  Say your response again."
+				speakResponse = "I did not understand.  Say your response again. "
+			}
+
+			if (supportsAPL(handlerInput)) {
+				console.log("**** if supports apl")
+				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type":"object",
+							"objectId":"longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources":Background
+								},
+								"title":"Main Menu",
+								"subtitle":"The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text":mySettings.mainScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>"+speakResponse+mySettings.mainMenu+"</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath":"movieSpeechSSML",
+									"transformer":"ssmlToSpeech",
+									"outputName":"movieInfoSpeech"
+								}
+							]
+						}
+					}
+				});
 			}
 
 			return handlerInput.responseBuilder
@@ -1088,7 +1232,39 @@ const HelpHandler = {
 		let mySettings = makeSettings(request.locale);
 
 		if(supportsAPL(handlerInput)){
-            handlerInput.responseBuilder.addDirective({
+			handlerInput.responseBuilder.addDirective({
+				type:'Alexa.Presentation.APL.RenderDocument',
+				document: Welcome,
+				datasources:{
+					"longTextTemplateData":{
+						"type":"object",
+						"objectId":"longTextSample",
+						"properties":{
+							"backgroundImage":{
+								"sources":Background
+							},
+							"title":"Help & Main Menu",
+							"subtitle":"The Best Darn Girls",
+							"textContent":{
+								"primaryText":{
+									"type":"PlainText",
+									"text":mySettings.mainScreen
+								}
+							},
+							"logoUrl":smallLogo,
+							"movieSpeechSSML":"<speak>"+mySettings.helpMessage.concat(mySettings.mainMenu)+"</speak>"
+						},
+						"transformers":[
+						{
+							"inputPath":"movieSpeechSSML",
+							"transformer":"ssmlToSpeech",
+							"outputName":"movieInfoSpeech"
+						}
+						]
+					}
+				}
+			});
+        /*    handlerInput.responseBuilder.addDirective({
         	    type : 'Alexa.Presentation.APL.RenderDocument',
         		document : Help,
         		datasources : {
@@ -1112,7 +1288,7 @@ const HelpHandler = {
             		    "logoUrl":smallLogo
         	        }
                 }
-            });
+            });*/
         }
 
 		return handlerInput.responseBuilder
