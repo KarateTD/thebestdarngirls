@@ -1221,7 +1221,39 @@ const HelpHandler = {
 		let mySettings = makeSettings(request.locale);
 
 		if(supportsAPL(handlerInput)){
-            handlerInput.responseBuilder.addDirective({
+			handlerInput.responseBuilder.addDirective({
+				type:'Alexa.Presentation.APL.RenderDocument',
+				document: Welcome,
+				datasources:{
+					"longTextTemplateData":{
+						"type":"object",
+						"objectId":"longTextSample",
+						"properties":{
+							"backgroundImage":{
+								"sources":Background
+							},
+							"title":"Help & Main Menu",
+							"subtitle":"The Best Darn Girls",
+							"textContent":{
+								"primaryText":{
+									"type":"PlainText",
+									"text":mySettings.mainScreen
+								}
+							},
+							"logoUrl":smallLogo,
+							"movieSpeechSSML":"<speak>"+mySettings.helpMessage.concat(mySettings.mainMenu)+"</speak>"
+						},
+						"transformers":[
+						{
+							"inputPath":"movieSpeechSSML",
+							"transformer":"ssmlToSpeech",
+							"outputName":"movieInfoSpeech"
+						}
+						]
+					}
+				}
+			});
+        /*    handlerInput.responseBuilder.addDirective({
         	    type : 'Alexa.Presentation.APL.RenderDocument',
         		document : Help,
         		datasources : {
@@ -1245,7 +1277,7 @@ const HelpHandler = {
             		    "logoUrl":smallLogo
         	        }
                 }
-            });
+            });*/
         }
 
 		return handlerInput.responseBuilder
