@@ -359,9 +359,17 @@ const MainMenuHandler = {
 						}
 					}
         	    });
+
+				//to stop double talk
+				return handlerInput.responseBuilder
+		        .reprompt(starter)
+		        .withShouldEndSession(false)
+		        .withSimpleCard(skillName, starter)
+		        .getResponse();
  			}
 
  		return handlerInput.responseBuilder
+		 .speak(starter)
 		 .reprompt(starter)
 		 .withShouldEndSession(false)
 		 .withSimpleCard(skillName, starter)
@@ -947,9 +955,15 @@ const LibraryHandler = {
 							}
 						}
 					});
+					return handlerInput.responseBuilder
+					.reprompt(starter)
+					.withShouldEndSession(false)
+        			.withSimpleCard(skillName, starter)
+        			.getResponse();
         		}
 
         		return handlerInput.responseBuilder
+					.speak(starter)
 					.reprompt(starter)
 					.withShouldEndSession(false)
         			.withSimpleCard(skillName, starter)
