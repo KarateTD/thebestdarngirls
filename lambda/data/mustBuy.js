@@ -127,4 +127,14 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/summerofsoul.jpeg"
     }
   }
+
+  {
+		"option":"5",
+		"mtitle":"Coming 2 America",
+		"review":"It's been 30 years since Prince Akeem went to America and defied his father and tradition to find true love with his Princess, Lisa.  Now, Akeem and Lisa have three daughters: Meeka, Omma, and Tinashe.  While Akeem loves his daughters, his father, King Jaffe, reminds him only a male can be heir to the throne.  General Izzi of Nextdoria is furious with Akeem because Akeem didn't marry his sister Imani. Izzi wants Meeka to marry his son to restore the bond between the two countries. Before Akeem can speak, King Jaffe calls Akeem to his sickbed.  A shaman saw a vision of Akeem's first-born, only son living in Queens. Jaffe tells Akeem to go to Queens and get his son.  Then have his son marry Izzi's only daughter, Bopoto.  Their family would still rule Zamunda, and Nextdoria's tradelines will open.  Semmi and Akeem travel to Queens and notice the changes to the neighborhood instantly.  They go to the local barbershop and show the shaman's drawing of Akeem's son, and the shop owners recognize the boy as Lavelle Junson and give Lavelle's location. After talking to Lavelle, Lavelle brings Akeem and Semmi to meet his family, including his mother, Mary. Lavelle doesn't want to go to Zamunda until he sees the gold bricks Semmi possesses.  Lavelle agrees to go, but only if Mary can go too.  Lavelle can't wait to be a prince.  But when this prince feels like a diplomatic pawn, will he fall in line or blaze his father's path?<br/><br/>The sequel to Coming to America has the laughs and lessons from the first movie.  A very memorable moment is King Jaffe's funeral.  Not because he died but because he decided to do it while he was still alive.  He had Gladys Knight, En Vogue, and Salt-N-Pepa perform with a eulogy from Morgan Freeman. And the movie teaches the same lesson: the king has a lot to learn from his prince.  Seeing a prince follow his heart makes you fall in love with the movie again.<br/><br/>4 out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/coming2america.jpeg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/coming2america.jpeg"
+		}
+	}
 */

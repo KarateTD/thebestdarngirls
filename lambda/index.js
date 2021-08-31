@@ -582,27 +582,6 @@ const UpsellResponseHandler = {
 						}
 					}
 				});
-			/*	handlerInput.responseBuilder.addDirective({
-					type: 'Alexa.Presentation.APL.RenderDocument',
-					document: Welcome,
-					datasources: {
-						"bodyTemplate1Data": {
-							"type": "object",
-							"objectId": "ht",
-							"backgroundImage": {
-								"sources": Background
-							},
-							"title": "Main Menu",
-							"textContent": {
-								"primaryText": {
-									"type": "PlainText",
-									"text": mySettings.mainScreen
-								}
-							},
-							"logoUrl": smallLogo
-						}
-					}
-				});*/
 			}
 
 			resetAll();
@@ -1023,7 +1002,39 @@ const CommandsHandler = {
 		}else{
 
 			if(supportsAPL(handlerInput)){
-			    handlerInput.responseBuilder.addDirective({
+				handleInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type": "object",
+							"objectId":"longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources": Background
+								},
+								"title":"Main Menu",
+								"subtitle":"The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text":mySettings.mainScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>Sorry your response was not understood.  Going back to the main menu. "+ mySettings.mainMenu+"</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath":"movieSpeechSSML",
+									"transformer":"ssmlToSpeech",
+									"outputName":"movieInfoSpeech"
+								}
+							]
+						}
+					}
+				});
+			/*    handlerInput.responseBuilder.addDirective({
  				    type : 'Alexa.Presentation.APL.RenderDocument',
  				    document : Welcome,
  				    datasources : {
@@ -1043,7 +1054,7 @@ const CommandsHandler = {
  				            "logoUrl":smallLogo
  				        }
  				    }
-			    });
+			    });*/
 			}
 			resetAll();
 			return handlerInput.responseBuilder
@@ -1096,26 +1107,37 @@ const ExitHandler = {
 			console.log("** if intent reqeust")
 			if(supportsAPL(handlerInput)){
 				console.log("**** if supports apl")
-			    handlerInput.responseBuilder.addDirective({
-			        type : 'Alexa.Presentation.APL.RenderDocument',
-		    	    document : Welcome,
-		        	datasources : {
-		            	"bodyTemplate1Data":{
-		                	"type": "object",
-			                "objectId": "exit",
-			                "backgroundImage": {
-        	                   "sources": Background
-            	            },
-		        	        "title": "Good Bye",
-		            	    "textContent": {
-		                	    "primaryText": {
-		                    	    "type": "PlainText",
-		                        	"text": goodbyeScreen
-			                    }
-			                },
-			                "logoUrl":smallLogo
-		        	    }
-			        }
+				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type":"object",
+							"objectId":"longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources": Background
+								},
+								"title":"Good Bye",
+								"subtitle":"The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text":goodbyeScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>" + goodbyeSpeak + "</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath":"movieSpeechSSML",
+									"transformer":"ssmlToSpeech",
+									"outputName":"movieInfoSpeech"
+								}
+							]
+						}
+					}
 				});
 			}
 
@@ -1127,38 +1149,49 @@ const ExitHandler = {
 		}else if(request.type === 'Connections.Response'){
 			console.log("** if connections response ")
 			let speakResponse = null;
-			if (supportsAPL(handlerInput)) {
-				console.log("**** if supports apl")
-				handlerInput.responseBuilder.addDirective({
-					type: 'Alexa.Presentation.APL.RenderDocument',
-					document: Welcome,
-					datasources: {
-						"bodyTemplate1Data": {
-							"type": "object",
-							"objectId": "ht",
-							"backgroundImage": {
-								"sources": Background
-							},
-							"title": "Main Menu",
-							"textContent": {
-								"primaryText": {
-									"type": "PlainText",
-									"text": mySettings.mainScreen
-								}
-							},
-							"logoUrl": smallLogo
-
-						}
-					}
-				});
-			}
 
 			if(request.payload.purchaseResult === 'ACCEPTED'){
 				speakResponse = "I am sorry to see you go.  You can renew your Premium Access in the future.  ";			
 			}else if(request.payload.purchaseResult === 'DECLINED'){
 				speakResponse = "You still have Premium Access.  ";
 			}else{
-				speakResponse = "I did not understand.  Say your response again."
+				speakResponse = "I did not understand.  Say your response again. "
+			}
+
+			if (supportsAPL(handlerInput)) {
+				console.log("**** if supports apl")
+				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
+					document: Welcome,
+					datasources:{
+						"longTextTemplateData":{
+							"type":"object",
+							"objectId":"longTextSample",
+							"properties":{
+								"backgroundImage":{
+									"sources":Background
+								},
+								"title":"Main Menu",
+								"subtitle":"The Best Darn Girls",
+								"textContent":{
+									"primaryText":{
+										"type":"PlainText",
+										"text":mySettings.mainScreen
+									}
+								},
+								"logoUrl":smallLogo,
+								"movieSpeechSSML":"<speak>"+speakResponse+mySettings.mainMenu+"</speak>"
+							},
+							"transformers":[
+								{
+									"inputPath":"movieSpeechSSML",
+									"transformer":"ssmlToSpeech",
+									"outputName":"movieInfoSpeech"
+								}
+							]
+						}
+					}
+				});
 			}
 
 			return handlerInput.responseBuilder
