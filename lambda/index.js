@@ -2,11 +2,10 @@ const aws = require('aws-sdk');
 const RDS = new aws.RDSDataService();
 
 const Alexa = require('ask-sdk-core');
-const Welcome = require('./json/welcome2.json');
-const LibraryWelcome = require('./json/librarywelcome2.json');
-const MovieOptions = require('./json/movieoptions2.json');
-const Review = require('./json/review2.json');
-const Help = require('./json/help.json');
+const Welcome = require('./json/welcome.json');
+const LibraryWelcome = require('./json/librarywelcome.json');
+const MovieOptions = require('./json/movieoptions.json');
+const Review = require('./json/review.json');
 const Background = require('./json/background.json');
 
 const premLocaleVar = {
@@ -38,7 +37,6 @@ const goodbyeCard='\t* Site: https://thatdarngirlmovie.reviews\n\t* Instagram: @
 const hints=[' Show me ',' Tell me about ', ' I choose ', ' Select ', ' '];
 const libHints=['Look for', 'Look up', 'Find', 'How about', 'Search for' ];
 const smallLogo='https://thebestdarngirls.s3.amazonaws.com/library/small-image/APP_ICON.jpg';
-//const largeLogo='https://thebestdarngirls.s3.amazonaws.com/library/large-image/APP_ICON.jpg';
 
 let inTheTheater = require('./data/inTheTheater');
 let madeForTV = require('./data/madeForTV');
@@ -49,8 +47,7 @@ let libraryList;
 
 let getOptions = require('./helpers/getOptions');
 let getCardInfo = require('./helpers/getCardInfo');
-//let getList = require('./helpers/getList');
-let getList = require('./helpers/getList2');
+let getList = require('./helpers/getList');
 
 let menu;
 let searchChoice = "";
