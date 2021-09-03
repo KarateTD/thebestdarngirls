@@ -766,7 +766,7 @@ const MovieChoicesHandler = {
       		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       		  .getResponse();
       	}else{
-			console.log("** else elemnt is defined")
+			console.log("** else element is defined")
 			  let speakOutput = "You have made an incorrect selection. Pick ";
 			  if(maxResults > 1){
 				  speakOutput += "a number between 1 and " + maxResults+". ";
@@ -1045,27 +1045,6 @@ const CommandsHandler = {
 						}
 					}
 				});
-			/*    handlerInput.responseBuilder.addDirective({
- 				    type : 'Alexa.Presentation.APL.RenderDocument',
- 				    document : Welcome,
- 				    datasources : {
- 				        "bodyTemplate1Data":{
- 				            "type": "object",
- 			    	        "objectId": "command",
- 			    	        "backgroundImage": {
-                                "sources": Background
-                            },
- 				            "title": "Main Menu",
- 				            "textContent": {
- 				                "primaryText": {
- 				                    "type": "PlainText",
-                                    "text": mySettings.mainScreen
- 		    		            }
- 			    	        },
- 				            "logoUrl":smallLogo
- 				        }
- 				    }
-			    });*/
 			}
 			resetAll();
 			return handlerInput.responseBuilder
