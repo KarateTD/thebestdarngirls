@@ -359,22 +359,17 @@ const MainMenuHandler = {
 						}
 					}
         	    });
-
-				//to stop double talk
-				return handlerInput.responseBuilder
-		        .reprompt(starter)
-		        .withShouldEndSession(false)
-		        .withSimpleCard(skillName, starter)
-		        .getResponse();
- 			}
-
- 		return handlerInput.responseBuilder
-		 .speak(starter)
-		 .reprompt(starter)
-		 .withShouldEndSession(false)
-		 .withSimpleCard(skillName, starter)
-		 .getResponse();
+			}
+			
+			return handlerInput.responseBuilder
+			.speak(starter)
+		    .reprompt(starter)
+		    .withShouldEndSession(false)
+		    .withSimpleCard(skillName, starter)
+		    .getResponse();
+ 			
 		})
+	
 	}
 };
 
@@ -707,10 +702,10 @@ const MovieChoicesHandler = {
 
     	if(typeof element !== 'undefined'){
 			console.log("** if element is not undefined")
+			speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
     		if(supportsAPL(handlerInput)){
 				console.log("**** if it has screen")
 
-				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
 				console.log(speechConcat)
 				console.log(element.image.largeImageUrl)
 				console.log(element.image.smallImageUrl)
@@ -759,12 +754,20 @@ const MovieChoicesHandler = {
 					}
 				});
 
- 			}
-			console.log("returning")
-      		return handlerInput.responseBuilder
-			  .withShouldEndSession(false)
-      		  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
-      		  .getResponse();
+ 			
+				console.log("returning")
+      			return handlerInput.responseBuilder
+				  .withShouldEndSession(false)
+      			  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
+      			  .getResponse();
+			}else{
+				console.log("returning")
+      			return handlerInput.responseBuilder
+				  .speak(speechConcat)
+				  .withShouldEndSession(false)
+      			  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
+      		 	  .getResponse();
+			} //end else no screen
       	}else{
 			console.log("** else element is defined")
 			  let speakOutput = "You have made an incorrect selection. Pick ";
@@ -960,7 +963,14 @@ const LibraryHandler = {
 					.withShouldEndSession(false)
         			.withSimpleCard(skillName, starter)
         			.getResponse();
-        		}
+        		}else if(!supportsAPL(handlerInput) && rows[0] == "" && offset == 0){
+					starter = "Your search has returned 0 results.  You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " and the movie's title.  "+ process.env.libraryAdds;
+					return handlerInput.responseBuilder
+					.reprompt(starter)
+					.withShouldEndSession(false)
+        			.withSimpleCard(skillName, starter)
+        			.getResponse();
+				}
 
         		return handlerInput.responseBuilder
 					.speak(starter)
@@ -1243,31 +1253,6 @@ const HelpHandler = {
 					}
 				}
 			});
-        /*    handlerInput.responseBuilder.addDirective({
-        	    type : 'Alexa.Presentation.APL.RenderDocument',
-        		document : Help,
-        		datasources : {
-        		    "bodyTemplate1Data":{
-            		    "type": "object",
-            		    "objectId": "help",
-        	    	    "backgroundImage": {
-                            "sources": Background
-                        },
-        		        "title": "Help and Main Menu",
-            		    "textContent": {
-            		        "helpText": {
-            		            "type": "PlainText",
-            		            "text": mySettings.helpScreen 
-            		        },
-                  		    "primaryText": {
-            	    	        "type": "PlainText",
-        	    	            "text": mySettings.mainScreen
-        		            }
-        		        },
-            		    "logoUrl":smallLogo
-        	        }
-                }
-            });*/
         }
 
 		return handlerInput.responseBuilder
@@ -1334,7 +1319,8 @@ exports.handler = skillBuilder
 function supportsAPL(handlerInput) {
     const supportedInterfaces = handlerInput.requestEnvelope.context.System.device.supportedInterfaces;
     const aplInterface = supportedInterfaces['Alexa.Presentation.APL'];
-    return aplInterface != null && aplInterface != undefined;
+	return false;
+    //return aplInterface != null && aplInterface != undefined;
 }
 
 function getRandomNumber(array, length, ifNext){
@@ -1386,7 +1372,7 @@ function parseResults(rowReturns, rowCount, phrase){
 			starter += "You have "+rowCount+" results.  Here are your final results.  For the previous 10, say previous.  Pick the corresponding number.\n\n";
 			maxResults = rowCount - offset;
 		}else if(rowCount > 10 && offset > 0){
-			starter += "You have "+rowCount+" results.  Here are your next 10 results.  For the more results, say skip.  For the previous 10, say previous.  Pick the corresponding numbers.\n\n";
+			starter += "You have "+rowCount+" results.  Here are your next 10 results.  For more results, say skip.  For the previous 10, say previous.  Pick the corresponding numbers.\n\n";
 			maxResults = 10;
 		}else{
 			starter += "You have "+rowCount+" results.  Pick the corresponding number.\n\n";
