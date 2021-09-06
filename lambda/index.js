@@ -966,6 +966,7 @@ const LibraryHandler = {
         		}else if(!supportsAPL(handlerInput) && rows[0] == "" && offset == 0){
 					starter = "Your search has returned 0 results.  You can request another search by saying " + getRandomNumber(libHints, libHints.length, false) + " and the movie's title.  "+ process.env.libraryAdds;
 					return handlerInput.responseBuilder
+					.speak(starter)
 					.reprompt(starter)
 					.withShouldEndSession(false)
         			.withSimpleCard(skillName, starter)
@@ -1319,8 +1320,8 @@ exports.handler = skillBuilder
 function supportsAPL(handlerInput) {
     const supportedInterfaces = handlerInput.requestEnvelope.context.System.device.supportedInterfaces;
     const aplInterface = supportedInterfaces['Alexa.Presentation.APL'];
-	return false;
-    //return aplInterface != null && aplInterface != undefined;
+	//return false;
+    return aplInterface != null && aplInterface != undefined;
 }
 
 function getRandomNumber(array, length, ifNext){
