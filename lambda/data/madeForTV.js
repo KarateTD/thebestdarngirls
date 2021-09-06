@@ -2,7 +2,7 @@ var madeForTV = [
   {
     "option":"1",
     "mtitle":"Cheer For Your Life",
-    "review":"<br/><br/>4 out of 5 stars.",
+    "review":"Cindy and Allison got a spot on the senior cheer team.  Last year, their friend, Lisa, made the team, and Lisa started coaching them to help them gain their place on the squad.  Now, Cindy and Allison have to get through initiation week to solidify their spot.  The senior cheer team calls themselves the Queen Bees.  And for initiation week, there are four rules.  The first rule is talk and you die. The second rule is don't be late. The third rule is Queen Bees say what is fair. And the final rule is Queen Bees decide what is fun.  On their first day, the football team sprayed them with a fire extinguisher.  And they still had to practice.  After practice, Cindy finds Lisa dead in the locker room showers. When the Queen Bees go back to hazing the next day, Cindy and Allison feel something is off. Cindy tells Allison that hazing is normal, but they have no idea how strange, dangerous, and evil it will become.<br/><br/>It's astounding how many times people use tradition to mask abuse.  This movie covers peer pressure, hazing, suicide, rape, and drugs.  If you have triggers, be ready or skip this movie.  This film separates itself from others because the lead isn't trying to pull others away from the squad.  It's Allison. Cindy's character goes through a deprogramming of sorts. While the characters will frustrate you, it's still a compelling watch for character development.<br/><br/>4 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cheerforyourlife.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cheerforyourlife.jpeg"
