@@ -45,7 +45,9 @@
                                     {
                                         "text": "${payload.longTextTemplateData.properties.textContent.primaryText.text}",
                                         "fontSize": "30dp",
-                                        "type": "Text"
+                                        "type": "Text",
+                                        "id": "plantContent",
+                                        "speech": "${payload.longTextTemplateData.properties.movieInfoSpeech}"
                                     }
                                 ]
                             }
@@ -85,7 +87,9 @@
                                         "textAlign": "center",
                                         "fontSize": "20dp",
                                         "text": "${payload.longTextTemplateData.properties.textContent.primaryText.text}",
-                                        "type": "Text"
+                                        "type": "Text",
+                                        "id": "plantContent",
+                                        "speech": "${payload.longTextTemplateData.properties.movieInfoSpeech}"
                                     }
                                 ]
                             }
