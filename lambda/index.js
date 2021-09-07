@@ -71,6 +71,7 @@ const WelcomeHandler = {
 		const request = handlerInput.requestEnvelope.request;
 		resetAll();
 		let mySettings = makeSettings(request.locale);
+		console.log(request.locale);
 		repeat=false;
 
 		let greeting = mySettings.mainMenu;
