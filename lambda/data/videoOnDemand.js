@@ -34,15 +34,6 @@ var videoOnDemand = [
 			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewomaninthewindow.jpeg",
 			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewomaninthewindow.jpeg"
 		}
-	},
-	{
-		"option":"5",
-		"mtitle":"Zack Snyder's Justice League",
-		"review":"After the death of Superman, Bruce Wayne, known as Batman, can't forget the warning Lex Luther gave him.  Lex warned something big is coming that will destroy all humankind.  So, Batman does the one thing he never thought he would do: team-up.  First, Bruce went to a small fishing village to find the sea protector, Arthur Curry.  Arthur, better known as Aquaman, gives Bruce a few choice words then disappears.  Diana overhears that the Shrine of the Amazons is on fire, and she knows it's a signal from her mother, the Queen of the Amazons.  She goes to the shrine, opens a cave, and reads the writings on the wall. In the past, man, Amazons, Atlanteans, Gods, and protectors of the stars got together to fight Darkseid and won.  After the battle, Darkseid left 3 Mother Boxes behind. For years, the boxes slept.  However, the Amazon's box awakens, and Steppenwolf followed the call.  He stole the first box from them, and he is on the hunt for the other two.  If he gets them and performs The Unity, the veil between Earth and Darkseid will fall. Bruce tells Diana that Arthur said no, so they decide to split up, go after the other two metahumans, and convince them to join the team.  Soon, they will realize that they need one more member, Superman.  His life kept Darkseid at bay and the Mother Boxes asleep, but they will have to find a way to bring him back to defeat the dark forces to come.  Lois is the key.<br/><br/>After fans demanded this version, they got four hours of what they wanted. Yes!!! This movie is four hours long with six parts and an epilogue.  Each part adds something new to the characters that we haven't seen before. Also, the plot gives us the origin story of the Mother Boxes, Steppenwolf, and the ultimate weapon.  With more time, the CGI team fixed some of the horrible graphics in the first film. And within this retelling, the writers give an alternate ending that feels like a love letter to the fans.<br/><br/>4.5 out of 5 stars.",
-		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/zacksnydersjusticeleague.jpeg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/zacksnydersjusticeleague.jpeg"
-		}
 	}
 ];
 
