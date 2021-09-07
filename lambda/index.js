@@ -361,10 +361,10 @@ const MainMenuHandler = {
         	    });
 
 				return handlerInput.responseBuilder
-		    .reprompt(starter)
-		    .withShouldEndSession(false)
-		    .withSimpleCard(skillName, starter)
-		    .getResponse();
+		    	.reprompt(starter)
+		    	.withShouldEndSession(false)
+		    	.withSimpleCard(skillName, starter)
+		    	.getResponse();
 			}
 			
 			return handlerInput.responseBuilder
@@ -673,19 +673,19 @@ const MovieChoicesHandler = {
 
   		if(menu.toLowerCase() === 'in the theater'){
 			console.log("** in the theater")
-			  element = getCardInfo(inTheTheater, choice);
-			  starter += getOptions(inTheTheater);
-			  maxResults = 5;
+			element = getCardInfo(inTheTheater, choice);
+			starter += getOptions(inTheTheater);
+			maxResults = 5;
 	  	}else if(menu.toLowerCase() === 'made for tv'){
 			console.log("** made for tv" )
-			  element = getCardInfo(madeForTV, choice);
-			  starter += getOptions(madeForTV);
-			  maxResults = 5;
+			element = getCardInfo(madeForTV, choice);
+			starter += getOptions(madeForTV);
+			maxResults = 5;
  	 	}else if(menu.toLowerCase() === 'in stores'){
 			console.log("** in stores")
-			  element = getCardInfo(mustBuy, choice);
-			  starter += getOptions(mustBuy);
-			  maxResults = 5;
+			element = getCardInfo(mustBuy, choice);
+			starter += getOptions(mustBuy);
+			maxResults = 5;
 	  	}else if(menu.toLowerCase() === 'video on demand'){
 			console.log("** video on demand")
 			element = getCardInfo(videoOnDemand, choice);
@@ -698,9 +698,9 @@ const MovieChoicesHandler = {
 			maxResults = earlyScreening.length;
   		}else if(menu.toLowerCase() === 'library'){
 			console.log("** library")
-			  element = getCardInfo(libraryList, choice);
-			  starter += getOptions(libraryList);
-			  maxResults = libraryList.length;
+			element = getCardInfo(libraryList, choice);
+			starter += getOptions(libraryList);
+			maxResults = libraryList.length;
 		}
 
 		console.log(element);
@@ -1149,7 +1149,7 @@ const ExitHandler = {
 			}
 
 			return handlerInput.responseBuilder
-		 	 .speak(goodbyeSpeak)
+		 	.speak(goodbyeSpeak)
 		  	.withSimpleCard(skillName,goodbyeCard)
 		  	.withShouldEndSession(true)
 		  	.getResponse();
