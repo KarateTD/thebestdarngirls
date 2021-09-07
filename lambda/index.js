@@ -359,6 +359,12 @@ const MainMenuHandler = {
 						}
 					}
         	    });
+
+				return handlerInput.responseBuilder
+		    .reprompt(starter)
+		    .withShouldEndSession(false)
+		    .withSimpleCard(skillName, starter)
+		    .getResponse();
 			}
 			
 			return handlerInput.responseBuilder
@@ -1373,7 +1379,7 @@ function parseResults(rowReturns, rowCount, phrase){
 			starter += "You have "+rowCount+" results.  Here are your final results.  For the previous 10, say previous.  Pick the corresponding number.\n\n";
 			maxResults = rowCount - offset;
 		}else if(rowCount > 10 && offset > 0){
-			starter += "You have "+rowCount+" results.  Here are your next 10 results.  For more results, say skip.  For the previous 10, say previous.  Pick the corresponding numbers.\n\n";
+			starter += "You have "+rowCount+" results.  Here are your next 10 results.  For more results, say skip.  For the previous 10, say previous.  Pick the corresponding number.\n\n";
 			maxResults = 10;
 		}else{
 			starter += "You have "+rowCount+" results.  Pick the corresponding number.\n\n";
