@@ -1030,7 +1030,7 @@ const CommandsHandler = {
 		}else{
 
 			if(supportsAPL(handlerInput)){
-				handleInput.responseBuilder.addDirective({
+				handlerInput.responseBuilder.addDirective({
 					type: 'Alexa.Presentation.APL.RenderDocument',
 					document: Welcome,
 					datasources:{
