@@ -38,6 +38,7 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 	<li><b>Release-4.1.0</b>: Updated <a href="https://www.npmjs.com/" target="_blank" rel="noopener">NPM</a> packages, added support for <a href="https://www.amazon.com/Introducing-Echo-Show-Compact-Charcoal/dp/B07HZLHPKP/ref=as_li_ss_tl?dchild=1&keywords=Echo+Show+5&qid=1585978413&sr=8-1&linkCode=ll1&tag=thbedagimore-20&linkId=61b4660e977420405a6b5c83c3f658ce&language=en_US" target="_blank" rel="noopener">Echo Spot 5</a>, updated the <a href="https://www.instagram.com/p/B-TFppNHgpm/" target="_blank" rel="noopener">Logo</a>, updated APL to version 1.1, and bug fixes.</li>
 	<li><b>Release-4.1.1</b>: Updated CodePipeline with more robust CodeBuilds</li>
 	<li><b>Release-4.1.2</b>: Update NodeJS from version 10 to version 14. Updates had to be made to the Lambda function, AWS CodeBuild, and the package.json.</li>
+	<li><b>Release-5.0.0</b>: Updated APL to version 1.6 for improved tablet support, updated templates, and increases response time.  Also, several bug fixes</li>
 </ul> 
 
 ## Code
