@@ -145,4 +145,14 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/freeguy.jpeg"
     }
   }
+
+  {
+    "option":"5",
+    "mtitle":"Copshop",
+    "review":"Rookie, Valerie Young, and her riding partner, Sergeant Mitchell, drop their lunch break for a rowdy fight outside a casino. When Young tries to get a handle on the situation, a man sucker-punches her.  She tases the man, and Young and Mitchell take him to the police station.  The man is Teddy Murretto, and he will be in lock up for a while.  Later, Mitchell gets a call about an abandoned unmarked police cruiser with bullet holes on the side of the road.  As the cops investigate the scene, a drunk driver hits the car and almost kills the cops. They book him as John Doe and put him into another holding cell.  After a throat-closing incident, Young comes down to check on the men.  She finds out that Teddy is a con-man that chose to get locked up to keep himself safe.  However, this was an ill-calculated move.  Across from John Doe, Teddy recognizes the man.  His real name is Bob Viddick, and he is a contract killer.  Viddick got himself locked up to complete the contract on Teddy.  Before the night is over, Young will have to decide who she can trust: a professional, a psychopath, a crooked cop, or a con-man.<br/><br/>This movie takes a second to get started, but it's necessary to set up all the pieces in the game, like Mouse Trap.  Once all the players, plots, and bullets are in place, the knockdown, drag-out fight begins.  Be aware there are no wasted moments on screen.  The broadcasts, backstories, and jokes have a point to the overall plot. This movie takes its time, but it's worth every second to see these opposing forces battle it out.  Based on the ending, maybe we will get a part two.  Fingers crossed.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/copshop.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/copshop.jpeg"
+    }
+  }
 */
