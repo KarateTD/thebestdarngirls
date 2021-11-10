@@ -1,6 +1,15 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Respect",
+    "review":"In Detroit, 1952, Reverend Clarence wakes up his daughter, Aretha, to sing for his famous friends, including Duke, Ella, and Dinah.  She wows the famous crowd.  Since her parents' divorce, Aretha spends some days with her mom, Barbara, but resides with Clarence and her grandmother. A couple of years later, Aretha was a mother of two but refused to name the father.  She sings at marches for Dr. Martin Luther King, Jr., but Aretha wants to do more for the movement. When Aretha announces that she wants to march, Clarence has a surprise for her.  He talked to record companies about Aretha, and a record company in New York wants to sign her.  Four albums later, Aretha doesn't have a hit record.  Dinah tells Aretha to stop being so proper and find her voice.  It will take new management, two husbands, and a drinking problem for Aretha to find her voice in a path she made, one song at a time.<br/><br/>Following the treacherous example set by Clarence, Aretha went from one controlling man to another. She admired leaders like Dr. Martin Luther King, Jr. and Angela Davis, but Aretha didn't know how to stand up for herself.  In meetings, the record producers, tour managers, and her father made the decisions while Aretha sat quietly. She existed with unspeakable pain that followed her, and her family calls it her demon.  It will take a Times article, a heavenly spirit, and a choir director for Aretha to shake that demon and create the best album of her career.  Having an actress that can do Aretha's voice justice, was the best move by the director.  You didn't lose focus with bad dubbing or bad acting.  This story of triumph and its honest telling will inspire and move you.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/repsect.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/repsect.jpg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"The Suicide Squad",
     "review":"Amanda Waller needs to assemble a larger team for her new mission, Operation Starfish.  She gathers three members of the original Suicide Squad - Rick Flag, Harley Quinn, and Boomerang - and adds more firepower to the team.  She gets T.D.K, Savant, Black guard, Javelin, Mongal, and Weasel to join. While this team is a formidable opponent for any enemy, Waller created another without telling Flag.  This team consists of Nanaue, Bloodsport, Polka-Dot Man, Ratcatcher 2, and Peacemaker.  These teams have to travel to Corto Maltese and infiltrate the Jötunheim, a Nazi-era prison and laboratory.  The Thinker is conducting experiments with alien technology to overthrow the American government.  After Team A fails, leaving Harley Quinn and Rick Flag prisoners, Team B will go on a bloody rampage to complete the mission.<br/><br/>O.M.G! James Gunn added the wit of Deadpool to the blood and guts of The Kingsman with Tarantino storytelling.  This movie not only holds up to its name, but it gives you the darkness you would expect from a D.C. comic.  While you are enjoying the often-uncomfortable humor, you see awe-inspiring juxtaposition in many fight scenes. The camera angles and framing give the viewer a different view of each fight scene. Seeing the first movie isn't necessary to enjoy this film. This movie is worth the theater price but not for kids nor tweens.  And stay past the end credits for a glimpse of survivors.<br/><br/>5 out of 5 stars.",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Snake Eyes",
     "review":"Snake Eyes was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"The Protégé",
     "review":"The Protégé was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
     "image":{
@@ -27,21 +36,12 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"Free Guy",
     "review":"Guy works as a banker in Free City.  Every day, Guy wakes up, says hi to his goldfish, gets coffee, goes to work, gets robbed multiple times, and goes home.  The robbers are the sunglasses people. While Guy adores his life, he tells his best friend, Buddy, the bank security guard, that he is missing something: love. As Guy walks down the street with Buddy, he sees a woman humming a familiar song and becomes fixated on her.  Buddy reminds Guy that the woman is wearing sunglasses and sunglasses people don't talk to them. Guy decides to get a pair of sunglasses and talk to his dream woman.  During the next bank robbery, Guy gets up and asks the robber for his glasses.  When Guy tries to take them, he accidently shoots the robber, gets the glasses, and follows the woman.  She is Molotov Girl, a level 197, experienced player. Molotov Girl tells Guy to put on the glasses, and Guy sees a whole new world of experience points, money, and power-ups.  Molotov Girl tells Guy to rob or punch someone, and he will level up quickly.  But Guy doesn't want to hurt people. Guy's nice guy routine catches the world by storm because Guy is an Non-Player Character or NPC in the world's most popular game, Free City. But Guy doesn't know it.  Molotov Girl does, and in real life, she is Millie, a game designer.  In 2015, Millie and Walter, a.k.a. Keys, created a world with AI.  People can watch as the NPCs learn, grow, and develop lives.  While Keys works for Soonami and its owner Antwan, Millie sued them.  She believes Antwan stole their base code to create Free City.  She spends her time in the game trying to find the proof on an unseen level. At first, Millie needed Guy to prove her case, but now she will need Guy to save himself, Free City, and his friends before Antwan destroys the servers.<br/><br/>This movie speaks to anyone who felt like a background character in their lives. While this movie inspires, it highlights issues in the gaming world.  This mix of Jumanji: The Next Level, Ready Player One, and The Lego Movie has memorable moments, laughable dialogue, a love story, and lots of easter eggs.  In the end, you will learn that someone created Guy with a purpose, and he isn't any ordinary NPC.<br/><br/>4.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/freeguy.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/freeguy.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Cruella",
-    "review":"Estella was the odd girl out from birth.  With her natural black and white hair, she was born to stand out.  Her mother, Katherine, helped nurture her love of fashion but observed Estella had a mean streak.  She told her daughter that her name was Estella, not Cruella. At school, Estella became a bully magnet, but she gave as good as she got. With Estella's violent reputation, Katherine decides to travel to London for a fresh start.  But first, Katherine has to visit a friend to get some money.  Outside Hellman House, Katherine gives Estella her necklace, a family heirloom, and tells Estella to wait in the car with Buddy, her dog.  When Buddy escapes, Estella follows him into the house.  Inside, Estella finds the glamour of a Winter Fashion Show.  Soon, security discovers Estella and throws her out with dalmatians chasing after her. The dalmatians jump over her and hit Katherine, pushing her off a cliff. Estella runs to London, but later, sees the necklace is gone.  On her first day there, she meets Jasper and Horace, two street kids with no parents. They decide to team up, but she has to dye her unmistakable hair first.  Ten years later, Estella uses her love of fashion to create disguises for them as they rob the town.  However, Jasper observes Estella staring at the Liberty of London store sign all the time.  So, he steals an application acceptance for her.  Estella believes she is on the right path to being the woman Katherine wanted.  However, this is the first step of introducing the world to Cruella de Vil and her poetic justice for her necklace, fashion, and Katherine.  The Baroness, the Liberty of London's owner and famed fashion designer, has met her match.<br/><br/>Based on The One Hundred and One Dalmatians by Dodie Smith and Disney's One Hundred and One Dalmatians by Bill Peet, this movie is a feast for your eyes and ears.  With eye-popping fashion and a host of colors, Cruella's black, white, and red stand out like her hair. This soundtrack follows the format of Guardians of the Galaxy while being a nod to the era. You will laugh at the Baroness's psychotic actions, but secretly, you will want to be her, all the while wanting Cruella to destroy her. Sit back with the family and enjoy Disney's newest classic with a captivating plot twist.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cruella.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cruella.jpeg"
     }
   }
 ];
@@ -105,16 +105,6 @@ module.exports = mustBuy;
 			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/coming2america.jpeg"
 		}
 	}
-
-  {
-    "option":"4",
-    "mtitle":"Respect",
-    "review":"In Detroit, 1952, Reverend Clarence wakes up his daughter, Aretha, to sing for his famous friends, including Duke, Ella, and Dinah.  She wows the famous crowd.  Since her parents' divorce, Aretha spends some days with her mom, Barbara, but resides with Clarence and her grandmother. A couple of years later, Aretha was a mother of two but refused to name the father.  She sings at marches for Dr. Martin Luther King, Jr., but Aretha wants to do more for the movement. When Aretha announces that she wants to march, Clarence has a surprise for her.  He talked to record companies about Aretha, and a record company in New York wants to sign her.  Four albums later, Aretha doesn't have a hit record.  Dinah tells Aretha to stop being so proper and find her voice.  It will take new management, two husbands, and a drinking problem for Aretha to find her voice in a path she made, one song at a time.<br/><br/>Following the treacherous example set by Clarence, Aretha went from one controlling man to another. She admired leaders like Dr. Martin Luther King, Jr. and Angela Davis, but Aretha didn't know how to stand up for herself.  In meetings, the record producers, tour managers, and her father made the decisions while Aretha sat quietly. She existed with unspeakable pain that followed her, and her family calls it her demon.  It will take a Times article, a heavenly spirit, and a choir director for Aretha to shake that demon and create the best album of her career.  Having an actress that can do Aretha's voice justice, was the best move by the director.  You didn't lose focus with bad dubbing or bad acting.  This story of triumph and its honest telling will inspire and move you.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/repsect.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/repsect.jpg"
-    }
-  }
 
   {
     "option":"3",
