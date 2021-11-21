@@ -56,6 +56,24 @@ module.exports = inTheTheaters;
 
 /*
 
+{
+  "option":"1",
+  "mtitle":"King Richard",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kingrichard.jpeg",
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kingrichard.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Ghostbusters: Aftermath",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ghostbustersafterlife.jpeg",
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ghostbustersafterlife.jpeg"
+  }
+}
 
 */
 
