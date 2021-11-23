@@ -1,47 +1,47 @@
 var videoOnDemand = [
 	{
 		"option":"1",
-		"mtitle":"Cinderlla",
-		"review":"Ella, known as Cinderella to her step-sisters, dreams of having a dress shop in her small village, but women aren't allowed to run businesses. At home, she designs dresses and tries to sell them on the street.  However, her stepmother, Vivian, tells Ella to stop.  She wants Ella and her step-sisters, Narissa and Malvolia, to focus on getting rich husbands, so they can move up on the social ladder and get out of poverty.  At the palace, King Rowan wants his son, Prince Robert, to get married. When Robert says no, Rowan gets an idea.  He will have a ball with all the princesses from other lands so Robert can find a bride. During this royal decree, Ella climbs a statue to get a better look.  It's not long before the entire town is looking at this odd girl. Robert gets an idea.  He will have the ball, but only if all women are eligible. While Queen Beatrice prepares the ball, Robert can't get the girl on the statue off his mind. He loves that she spoke up to Rowan, so he dresses like a villager and goes to town to find her.  He bumps into Ella selling dresses on the street. He says he will meet her at the ball and introduce her to others who will purchase her wears.  She is ecstatic.<br/><br/>Heartbroken, Ella prepares her dress for the ball.  But when Vivian sees Ella, Vivian spills ink on Ella's dress. She tells Ella the ball is for an eligible woman, and Vivian pledged Ella's hand to another male suitor, Mr. Cecil.  Ella cries in her room and dreams of her shop.  But she knows the dream is over without the ball.  However with the help of someone Fabulous, Ella's dreams will come true.<br/><br/>This twist on an all too familiar fairy tale is a welcome change.  They didn't just rewrite the attitude of Ella; the writers did it for Robert, Beatrice, Princess Gwen, and Vivian. The soundtrack will have something for everyone with songs like Rhythm Nation, Material Girl, Whatta Man, and Am I Wrong combined with new songs.  If you are a purist, this won't be a Cinderella film for you.<br/><br/>3.5 out of 5 stars.",
+		"mtitle":"Psych 3: This is Gus",
+		"review":"With his baby on the way, Gus wants to do the honorable thing and marry Selene with his family and friends before the birth.  However, Selene won't give Gus information to divorce her estranged husband. The next day, Shawn goes to Jules for help doing a police search on Selene, but Jules refuses. Then, Shawn goes to Chief Karen Vick for help.  Karen doesn't help but knowingly leaves her computer unlocked with Shawn in the room.  Shawn looks for Selene in the database and finds nothing. With Gus's track record of dating killers, Shawn wants to investigate to protect his friend.  Gus wants to prove Shawn wrong. Will the real Selene please stand up?<br/><br/>Wait for it! This movie feeds its Psychos yet again while allowing the characters to grow.  Gus is the perfect groomzilla, with Shawn being the worst man and best friend at the same time.  Chief Lassie questions his ability to be a cop after his stroke in Psych 2.  And Karen battles with work-life balance after making it to the top.  It's great to see these characters stay grounded while their cases remain crazy. Yes, it helps to view the other movies and TV show because they make jokes from the source material.  Also, keep watching until the post-credits because fans get a glimpse of Psych 4.<br/><br/>5 out of 5 stars.",
 		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cinderella.jpeg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cinderella.jpeg"
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/psych3thisisgus.jpeg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/psych3thisisgus.jpeg"
 		}
 	},
 	{
 		"option":"2",
-		"mtitle":"Sweet Girl",
-		"review":"Years earlier, the Cooper family spent time hiking in the woods and being carefree.  Now, Ray comforts his daughter, Rachel, as the doctor tells them Amanda's cancer is back.  While there is a drug that can help, it's too expensive.  But Dr. Wu has a stunning development.  Another company created a generic version of the drug, and it's in the final stages of FDA approval. But as more time slips by, Ray finds Dr. Wu and asks if the generic is finally available.  Unfortunately, the maker of the original drug, Bioprime Pharmaceuticals, forced the other company to stop.<br/><br/>As Amanda dies, Ray sees Bioprime's CEO, Simon Keeley, on a news program with Congresswoman Diana Morgan.  They are debating Bioprime's business practices and the cost of their life-saving medication.  Ray calls in to the show and threatens Simon. Six months later, Amanda died, and Ray and Rachel have a mountain of hospital bills.  Ray decides what to cook when he gets a call on the phone.  A man named Martin from Vice has information about Bioprime's bribes and other crimes. Ray leaves but doesn't see Rachel following him. Martin needs Ray's story to blow Bioprime's illicit activities into the spotlight.  Before Ray can gather his thoughts, a man stabs Martin and attacks Ray. Two years later, with Martin dead, Ray never stopped looking into Bioprime and its illegal connections.  Now, he is ready to take action and fulfill his promise.  Ray is going to kill Simon.<br/><br/>What a twist!!! And you have no idea that it's coming.  This movie hides the twist like a magician's sleight of hand. Jason Momoa shows his sensitive side without being the butt of the joke. There should be more fathers like this in movies, streaming, and TV.  Yes, this movie has violence, but parents with tweens shouldn't worry.  This film is a wild ride worth watching.<br/><br/>4.5 out of 5 stars.",
+		"mtitle":"Red Notice",
+		"review":"Detective John Hartley is a criminal profiler with the FBI.  He is on the hunt for Nolan Booth, the most wanted thief in the world.  Interpol got a tip that Booth wants to steal Cleopatra's second egg. When John proves the display egg is fake, he spots Booth and chases him.  Before John can get a hand on Booth, Booth slips away to his safe house.  Exactly where John is waiting for him. John believes his work is complete until someone says the egg is fake.  John thinks it was Bishop who swapped it, but Interpol gets another tip and arrests John.  They lock John up in the same cell as Booth.  Before the fight, the captain pulls Booth and John out of their cell to talk.  The person sitting across from them is the mythical Bishop.  She has the first egg and expects to get the 2nd in 48 hours.  She wants to know the location of the 3rd egg and questions Booth.  He says he doesn't know, but Bishop knows Booth is a liar. So Bishop leaves.  John tells Booth that if Booth helps him catch Bishop, then Booth will be the #1 thief in the world and John can clear his name.  These strange bedfellows go on a worldwide mission.  But in a world of cons, who can you trust to act like a pro.<br/><br/>Let's be honest.  Within the first 15 minutes of Booth and John on the screen, you know there is more than meets the eye. With that aside, the comedy and comedic timing is gold. You will be happy to watch, but once is enough.  With the success of this movie and the ending, be ready for Red Notice 2.<br/><br/>3.5 out of 5 stars.",
 		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sweetgirl.jpeg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sweetgirl.jpeg"
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rednotice.jpeg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rednotice.jpeg"
 		}
 	},
 	{
 		"option":"3",
-		"mtitle":"The Tomorrow War",
-		"review":"Veteran Dan Forester works as a high school biology teacher, but he wants to work in a research lab.  He adores his wife, Emmy, and daughter, Muri, but he doesn't talk to his estranged father, James.  After another rejection from a research company, Dan tries to enjoy a world cup match with his family and friends at a holiday party.  During the game, a large electrical storm forms, and soldiers appear on the soccer field.  The leader tells the soccer attendees and the millions watching at home that they are from 30 years in the future.  They are at war with a non-human enemy, and in 11-months, humankind will perish.  They need help from people today to fight in the future.  Within 12 months, the world leaders create a global draft, and if you try to escape, a member of your family will take your place. During class, Dan gets an alert that the government is drafting him. Dan knows James used his engineering skills to help people take off the band without alerting the government.  At first, Dan goes to James, but after an argument, Dan decides to go to war. They explain that they call the enemy White Spikes, and if the soldiers are still alive in seven days, they will bring them back.  Dan's fight in the future will bring in face to face with the person he never wanted to be: his father.  He will fight The Tomorrow War and heal his family today.<br/><br/>This movie has elements of Independence Day and Back to the Future, but it is an original concept.  And within the plot, they set themselves apart from these movies. They can only jump seven years from now because time moves forward.  This random explanation elevates the plot beyond other sci-fi movies.  And the detailed graphics will make you wish you had a larger screen. It does contain violence, so it's up to the parent to determine if their child should watch.<br/><br/>4.5 out of 5 stars.",
+		"mtitle":"Home Sweet Home Alone",
+		"review":"As potential buyers go through their home, Pam and Jeff answer their questions.  While Pam is helpful, Jeff sabotages.  Jeff lost his job months ago and hasn't been able to find work.  They can no longer afford their home. When Jeff goes upstairs, he sees Maxwell come out of the bathroom.  Maxwell's mom, Carol, pretended to be interested in the home so Maxwell could use the restroom.  Maxwell sees Jeff pull a box of dolls from the closet and annoyingly asks questions. One doll is an ugly little boy with an upside-down head.  Carol, looking for Maxwell, comments that the dolls could be worth a lot of money.  After everyone leaves, Jeff looks up the dolls on eBay.  And the little boy doll is a rare mistake worth $200,000.  Jeff runs to the box, but the doll is missing.  He believes Maxwell stole it. At Carol's home, there is a lot of commotion because her entire family is there.<br/><br/>However, in the holiday melee, the airline split Carol's family into two flights. Upset with the crowded house, Maxwell escapes to the garage, gets in a car, and falls asleep watching TV.  In the morning, Jeff comes to Carol's house.  But the family says Carol and Maxwell left.  When the family leaves, Jeff considers breaking in but changes his mind.  Until he looks inside and sees Maxwell's coat with a noticeable bulge; the doll is in Maxwell's coat pocket. When Jeff tells Pam, she believes he has lost his mind.  But she changes her tune when she thinks about all the Christmases her family spent in that house.  Pam and Jeff go to an empty home to steal back the doll, but they discover someone is still inside.  It's Maxwell. He overhears Jeff and Pam talking about stealing the ugly little boy and selling him to an old lady.  He assumes they mean him.  With the boy in the house, Pam and Jeff need to devise another plan to get the doll, but Maxwell will be ready for them.<br/><br/>The sixth installment to the Home Alone series changes the script.  The kid is ultimately the bad guy in this story.  The change in dynamic makes you sympathize each time Pam and Jeff get hurt.  They are desperate people trying to save their homes.  Something a lot of people understand. While it's not the classic, you can use this film to get your kids to watch the first two.<br/><br/>3 out of 5 stars.",
 		"image":{
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thetomorrowwar.jpeg",
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thetomorrowwar.jpeg"
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/homesweethomealone.jpeg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/homesweethomealone.jpeg"
 		}
 	},
 	{
 		"option":"4",
-		"mtitle":"Disney and Pixar's Luca",
-		"review":"Luca is a sea monster that works as a fish herder on his parents' farm.  He hears things about land monsters but never traveled to the surface.  While herding fish, Luca finds a clock and other human items.  Then he hears a voice in the distance claiming the stuff.  The voice belongs to Alberto, another teenage sea monster.  Alberto grabs his stuff, swims to the surface, and changes to human form. Luca goes home to ask his parents, Daniela and Lorenzo, about the surface.  Daniela stops Luca and tells him it's too dangerous.  The next day, Luca finds Alberto and follows him to the surface. Alberto introduces himself, and they go to Alberto's hideout. Luca looks around the room and sees a picture of a Vespa.  This piece of machinery transfixes Luca. Four hours later, Luca and Alberto complete their makeshift Vespa and take it for a joy ride.  After crashing, Luca notices the time and runs home. His parents know he has been to the surface and decides to punish him. Luca runs away to the surface.  On land, Luca finds Alberto, and they head into town.  Then, they spot a Vespa owned by Ercole, the local bully.  He tells them he bought the Vespa after winning the Portorosso Triathlon Cup Race five times in a row.  Then, Ercole tries to push Luca's face into a fountain, but Giulia stops Ercole. She grabs Luca and Alberto and takes them to safety.  Luca and Alberto want to enter the contest and win the prize money to buy a Vespa. So, they ask Giulia to join their team.  But she says no.  When they remind her that she got sick doing it alone, she joins them. But Luca doesn't know his parents came to the surface looking for him and vow to bring him home.<br/><br/>Pixar's animation of a small Italian village looks so real that it will take your breath away at first glance. While the animation is second to none, the storyline doesn't completely engross you into the movie like Pixar's other films. But your children will love the characters and animated transformation from a sea monster to a land monster and back again.  Putting the film on Disney+ was the best choice for viewers.<br/><br/>3 out of 5 stars.",
+		"mtitle":"The Harder They Fall",
+		"review":"Years ago, two men walked into Nat Love's home and killed his mother and father.  The man with the scorpion tattoo held Nat down while the other man took out a knife and carved a cross on Nat's forehead.  Today, Nat is a grown man, and he killed the man with the scorpion tattoo.  With the carver, Rufus Buck, in prison for life, Nat is ready to live the rest of his days with Mary. Nat crosses the bouncer, Cuffee, the door and heads to Mary.  As they talk, a fight breaks out, and Cuffee breaks it up.  But U.S. Marshall Bass Revees arrest Nat for the standoff.  Bass tells Nat that Rufus got a pardon with the help of Trudy and Cherokee Bill. With the man who made him an orphan free, Nat finishes his revenge with a trail of blood, bodies, and money behind him.<br/><br/>While the story is fiction, the people are not.  As this bloody western tale of revenge plays, don't be surprised if you look them up online and see their torrid past.  Using made-up stories with real characters isn't new.  But this movie delivers. However, it's the mix of modern and western slang that throws the movie off.  With so much attention to detail for the costumes and scenery, the dialect, not the dialog, feels neglected. Even if the story isn't true, writers need to have respect for the period.<br/><br/>4.5 out of 5 stars.",
 		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/disneypixarluca.jpeg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/disneypixarluca.jpeg"
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thehardertheyfall.jpeg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thehardertheyfall.jpeg"
 		}
 	},
 	{
 		"option":"5",
-		"mtitle":"The Woman in the Window",
-		"review":"Anna tells her therapist, Dr. Carl, that she watches her neighbors because has agoraphobia. Now separated from her husband, Ed, Jane gave custody of their daughter, Olivia, to him. While watching, Anna spies Alistair and Jane Russell's moving truck across the street and researches the family.  One day, Ethan, the Russell's teenage son, stops by to deliver a gift from his mother. He leaves, and she continues to watch.  During Halloween, kids egg Anna's door.  She tries to accost them but faints when she opens the door.  As Anna awakens, she sees a woman standing over her.  The woman tells Anna she is Ethan's mom and Anna uneasily welcomes Jane into her home. Jane drinks, draws, and gossips with Anna.  Then, Jane leaves and heads across the street.  Later, Anna watches Alistair's home and sees someone attack Jane. Anna calls 911, reports that Alistair killed Jane, and waits for the police to show up.  The police question Anna about what she saw, but the line of questioning leaves Anna confused.  Then, a woman walks in claiming to be Jane Russell.  This woman is not the same woman Anna ate and drank with earlier.  Ethan and Alistair tell Anna that she never met Jane.  Next, the police assure Anna that the Jane in front of her is the real Jane. But when Anna sees the drawing the first Jane left, it gives her new hope.  Anna will put her life in danger to find out what happened to the real Jane and save Ethan from his murderous father.<br/><br/>Based on The Woman in the Window by A.J. Finn, this movie can lead you down the rabbit hole if you don't know the clues to look and listen for while viewing.  This movie does a compelling job of keeping you guessing about each of the characters. While it does get your attention, there are moments the film will lose you.  Whether it's pointless dialogue or lackluster characters, your mind will wander.  Unlike Knives Out, this movie will not make you want to rewatch it for unseen clues.  One watch is enough to entertain and move on.<br/><br/>3 out of 5 stars.",
+		"mtitle":"Passing",
+		"review":"After shopping, Irene takes a cab to a restaurant to escape the sweltering heat.  Inside, Clare spots Irene, but Irene doesn't recognize Clare. They have one thing in common; they are black women who 'pass' for white.  While Irene does it around predominately white towns, Clare does it every day.  Her white husband, John, doesn't know the truth.  Clare invites Irene up to her hotel room, and the two women catch up. When John comes to the room, Irene sits on pins and needles. Before John can say anything else, Irene makes a hasty exit. Clare writes Irene a letter stating that she hopes they can spend time together in Irene's home in Harlem.  Irene ignores the letter and continues with her life.  As Irene gives instructions to the maid, she gets an unannounced visitor.  It's Clare. As Clare spins more time with Irene and her family, Irene goes into a downward spiral of self-reflection, bitterness, and jealousy.  Can these women survive when Irene's reality clashes with Clare's truth?<br/><br/>Be prepared because Passing is a dialogue-heavy movie.  If you favor something fast-paced and funny, you will be disappointed.  When Irene speaks of Clare, backhanded comment or a polite disregard accompanies it. At first, you think Clare's constant passing repulses Irene.  However, you see the women both envy each other.  Based on Passing by Nella Larsen, this film has an ending that will stun you.<br/><br/>3.5 out of 5 stars.",
 		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewomaninthewindow.jpeg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewomaninthewindow.jpeg"
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/passing.jpeg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/passing.jpeg"
 		}
 	}
 ];
@@ -56,50 +56,6 @@ module.exports = videoOnDemand;
 
  	/*
 
-	 {
-		 "option":"1",
-		 "mtitle":"Psych 3: This is Gus",
-		 "review":"<br/><br/>* out of 5 stars.",
-		 "image":{
-			 "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/psych3thisisgus.jpeg",
-			 "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/psych3thisisgus.jpeg"
-		 }
-	 },
-	 {
-		 "option":"2",
-		 "mtitle":"Red Notice",
-		 "review":"<br/><br/>* out of 5 stars.",
-		 "image":{
-			 "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rednotice.jpeg",
-			 "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rednotice.jpeg"
-		 }
-	 },
-	 {
-		 "option":"3",
-		 "mtitle":"Home Sweet Home Alone",
-		 "review":"<br/><br/>* out of 5 stars.",
-		 "image":{
-			 "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/homesweethomealone.jpeg",
-			 "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/homesweethomealone.jpeg"
-		 }
-	 },
-	 {
-		 "option":"4",
-		 "mtitle":"The Harder They Fall",
-		 "review":"<br/><br/>* out of 5 stars.",
-		 "image":{
-			 "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thehardertheyfall.jpeg",
-			 "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thehardertheyfall.jpeg"
-		 }
-	 },
-	 {
-		 "option":"5",
-		 "mtitle":"Passing",
-		 "review":"<br/><br/>* out of 5 stars.",
-		 "image":{
-			 "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/passing.jpeg",
-			 "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/passing.jpeg"
-		 }
-	 }
+	 
 	
 	*/
