@@ -56,4 +56,51 @@ module.exports = madeForTV;
 
 /*
 
+{
+  "option":"1",
+  "mtitle":"A Jenkins Family Christmas",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ajenkinsfamilychristmas.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ajenkinsfamilychristmas.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Christmas Beneath the Stars",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasbeneaththestars.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasbeneaththestars.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Christmas Again",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasagain.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasagain.jpg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Missing and Alone",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/missingandalone.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/missingandalone.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Eight Gifts of Haunkkah",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/eightsgiftsofhanukkah.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/eightsgiftsofhanukkah.jpeg"
+  }
+},
+
+
 */

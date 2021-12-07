@@ -10,15 +10,6 @@ var earlyScreening = [
   },
   {
     "option":"2",
-    "mtitle":"Dear Evan Hansen",
-    "review":"Evan suffers from social anxiety, so his therapist prescribed him medication and gave Evan an assignment.  Evan has to write a letter to himself every day and bring the letters to his next therapy session. In the library, he completes his first letter and prints it.  While in line for the printer, Connor sees that no one signed Evan's cast.  So Connor grabs a sharpie and writes his name. Connor grabs the paper off the printer and starts to read it.  Connor sees that it has his sister's name, and he is furious. Evan chases after Connor to get the letter back, but Connor, with unadulterated rage, screams at Evan and pushes him down.<br/><br/>Over the next few days, Evan fears Connor will show the school the letter, but nothing happens.  Then the principal calls Evan into his office.  Connor's mother, Cynthia, and step-father, Larry, want to speak to Evan in private.  They tell Evan that Connor took his life and addressed his suicide note to Evan. When Evan tries to explain, Cynthia spots his cast with Connor's name on it.  They ask Evan to come to dinner.<br/><br/>At the dinner table, Evan sits with Connor's parents and Connor's sister, Zoe.  As Evan looks at Connor's family, he can see they are waiting with bated breath to hear about Connor.  Everyone except Zoe.  Zoe remembers Connor as a drug addict with rage issues. So Evan starts to talk and doesn't stop. He makes up a friendship with Connor that goes viral and takes on a life of its own.  When Evan speaks his truth, he will reveal more pain than anyone could imagine.<br/><br/>When it comes to this type of film, there are three kinds of people.  People who hate musicals, musical purists, and non-purist who may or may not have seen the play.  This director made this movie for the last group.  With that said, this movie has the best and most heartfelt songs from the musical turned book.  However, it uses the movie format to take advantage of funny cuts and repeats.  This movie beautifully expresses two sides to social anxiety and depression.<br/><br/>Some people will retreat within and hide from the world.  Some people overachieve to mask their insecurities. Let's not forget the social media aspect in this film. With social media, social warriors emerge with words but little to no action.  This film may not be for everyone, but it will strike a chord with everyone who watches.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dearevanhansen.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dearevanhansen.jpeg"
-    }
-  },
-  {
-    "option":"3",
     "mtitle":"CODA",
     "review":"Ruby and Gretia stand in line to sign up for electives.  When Ruby hears her crush, Miles, signing up for choir, she does too.  On the first day of practice, Mr. Bernardo has each of the kids sing to sort them into their respective ranges.  When Ruby has her turn, she runs out of class.  When she goes home, she sees her parents, Jackie and Frank, arguing about money. The next day, Ruby summons the courage to sing for Mr. Bernardo.  He believes she has a unique talent that requires nurturing.  And with guidance, she could use her voice to get into Berklee College of Music. When Ruby comes home to tell Jackie, Ruby gets an unexpected response.<br/><br/>Jackie believes Ruby joined the choir as a sign of teenage rebellion against Jackie, Frank, and Ruby's brother, Leo.  Ruby is a CODA, Child of Deaf Adults, and is the only hearing-abled person in her family. When she works on the fishing boat with Leo and Frank, she fishes and interprets radio calls.  She has translated for them since she was a young child, and they enormously depend on her to help them communicate with other fisherpeople, the townspeople, fish auctioneers, and doctors. When Ruby and Leo feel like the auctioneers cheat them, Leo tries to persuade Frank to start a co-op, but he won't do it. But as the government steps in, it's too much for Frank to take and afford.  He decides to start the co-op with his family.  As the family needs her more than ever, can Ruby fulfill her singing dreams without destroying the family's new business?<br/><br/>This coming-of-age film is unlike any other because Ruby dealt with adult issues long before she was a teenager.  Leo, the eldest sibling, feels like their parents treat him like a baby because he can't hear.  Jackie and Frank need her because they can't afford an interpreter.  Ruby is a teenager that wants to shake off the adult responsibilities she deals with every day. Watching Ruby and her family grow will bring a tear to your eye and make you want to learn how to sign.  It will move you as Ruby shows her pride for her family while singing 'Both Sides, Now.'  A poignant song for the turning point in this film and Ruby's family.<br/><br/>5 out of 5 stars.",
     "image":{
@@ -27,7 +18,7 @@ var earlyScreening = [
     }
   },
   {
-    "option":"4",
+    "option":"3",
     "mtitle":"Songbird",
     "review":"Four years after COVID-19, COVID-23 is airborne, affects the brain, and causes rapid death.  Anyone without an immunity bracelet must stay inside at all times and do a 9 a.m. health scan with their phone.  If they fail the scan, the sanitation department comes to their door with armed guards and escorts them to the Q Zone, also known as the quick death zone.  Some would consider Nico one of the lucky few because he has an immunity bracelet. During the worldwide lockdown, he met Sara. Sara lives with her grandmother and sees people pulled away by Emmett and the sanitation department all the time. On the other side of town, Piper and William raise their daughter, Emma.  While they are immuned, Emma has a weak immune system and could get sick with ease. To make money, Piper and William sell black market immunity bracelets to powerful and wealthy people.  As Piper takes every precaution, William leaves in a suit and breathing mask to meet his mistress, May.  May sings online under the handle MayDay, and people watch and donate money. Their intertwined lives will come to a deadly end when someone gets sick and fails a health check.  They will need an immunity bracelet or die in the Q Zone.<br/><br/>While setting the current pandemic four years in the future, this movie is a mix between Crash and Mission Impossible.  This movie does cover a lot of topics like immuned people passing a disease, disease mutation, and proper quarantine techniques. However, at the core of this movie are three love stories and one obsession story.  The pandemic causes and affects each of these stories.  Seeing the satisfyingly bloody end will entice you to keep watching.<br/><br/>3.5 out of 5 stars.",
     "image":{
@@ -43,4 +34,14 @@ module.exports = earlyScreening;
 *  do not user '&' use the word 'and'
 *  small image 720w x 480h (in pixels)
 *  large image 1200w x 800h (in pixels)
+
+{
+  "option":"1",
+  "mtitle":"West Side Story",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/westsidestory.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/westsidestory.jpeg"
+  }
+}
 */
