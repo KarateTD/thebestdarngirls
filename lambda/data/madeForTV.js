@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Merry Liddle Christmas Baby",
-    "review":"Jacquie and Tyler prepare for the Liddle family Christmas invasion.  But this year, they booked a hotel for Jacquie's family since she needs a stress-free environment during her pregnancy.  As the Liddles arrive, they have unfortunate news.  A pipe bursts at their hotel, and the family has no place to stay.  Without consulting Jacquie, Tyler offers to let them stay at their home. With everything going on, Jacquie questions her abilities to be a mother.  This Liddle family must come together to support each other.<br/><br/>The next movie in the Liddle trilogy does not disappoint.  It provides all the love, laughs, and craziness fans expect. This film leaves you with a conclusion on each character, but you will always want more.  With a wild younger sister, high-strung big sister, and compromising middle sister, fans can relate to someone in this family.<br/><br/>5 out of 5 stars.",
+    "mtitle":"A Jenkins Family Christmas",
+    "review":"This year is the first the Jenkins will have without their patriarch, Bernard.  His daughters, Beverly and Baneatta, want to get the family together to celebrate Christmas and his life.  Bernard was a pastor, but Baneatta's husband, James, took over the church.  As James mulls over the Christmas sermon, Beverly gets a phone call from Bernard's estate lawyer.  Bernard provided another inheritance if his entire family got together on Christmas. As she prepares the house for the family, Baneatta hears a knock at the door.  A woman gives Baneatta the basket and introduces herself as Baneatta's sister.  But it's not Beverly; it's Brianna.  Brianna tells Baneatta that her mother had an affair with Bernard, and she knows about the money.  Brianna thinks Baneatta will let her in, but she gets the door slammed in her face.  Baneatta wants to keep her father's legacy untarnished so she will leave her family in the dark.  To create a perfect holiday, Baneatta enforces her will on everyone in the family while neglecting their feelings.  What will it take for the family to get Baneatta in line?<br/><br/>This family holds so many secrets that the bed montage is heartbreaking. But like most first ladies of the church, Baneatta gave into the sin of vanity. This family drama will serve the tea while pulling you into the story.  While the views are cliché by today's standards, the overall theme rings true.  In the end, holidays with your family will be a breeze.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/merryliddlechristmasbaby.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/merryliddlechristmasbaby.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ajenkinsfamilychristmas.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ajenkinsfamilychristmas.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Making Spirits Bright",
-    "review":"After Bill and Frank fell out, they started separate exterior decorating companies.  Bill works to keep up with flashy upstarts, but his business grew too fast. On the other side of town, all the razzle-dazzle makes Frank's stomach turn. With the Bright Nights competition coming up, Bill's daughter, Grace, thinks the 50,000 dollar grand prize will help.  Frank's son, Tony, believes a win will inspire Frank to create again. Together, they work behind the scenes to help each other and their fathers.  They realize to win the competition Frank and Bill will need to work together again.  But Grace and Tony aren't the only ones pulling the strings.  Can Frank and Bill put their differences aside to win?<br/><br/>This Romeo and Juliet Christmas tale mixed with Grumpy Old Men doesn't need much attention to watch.  You get what you expect within watching the first 20 minutes.  The only surprise is Tony's solutions to Bill's money issues. The rest is predictable from beginning to end.<br/><br/>2 out of 5 stars.",
+    "mtitle":"Christmas Beneath the Stars",
+    "review":"Hannah's boss, Oscar, heard about a town called Christmas World from an anonymous source, and he wants Hannah to report on it.  However, Hannah has to cancel plans with her aunt Lucy to finish the assignment. But Lucy decides to forgo the competition to spend time with Hannah in Christmas World.  When they arrive, Lucy and Hannah listen to the concierge gush over the man, Ben, standing in front of them. They all notice that the town doesn't have the Christmas spirit.  For years, people haven't come to the Christmas World.  Now many of the shop's owners want to sell to Mark. Ben wants to find a way to save all the shops and Christmas World.  He tells Hannah, and she tells him about Lucy's decorating mastery.  Lucy will decorate, and Hannah will write about it. But he doesn't tell her the area is for sale, and she doesn't inform him that her reports can make or break it.<br/><br/>Based on Christmas Beneath the Stars by Melissa Hill, this movie starts to follow the format but ends with a more complex story.  And Ben's ex-girlfriend, Gretta, doesn't bow out gracefully when Hannah comes to town. And Gretta confronts Hannah with an honest dialog.  While this movie creates all the tropes, stick around for the deeper story in the plot.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/makingspiritsbright.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/makingspiritsbright.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasbeneaththestars.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasbeneaththestars.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Sinister Switch",
-    "review":"As Kristen validates her author's book, she gets a phone call from the police.  After six years, the police found her daughter, Olivia, alive.  Kristen and her estranged husband, Justin, wait at the police station and see the police questioning a waif-like figure in a hoodie. They bring her to Kristen's home and give Olivia space.  But when Olivia goes to the guest room, Justin thinks something is off.  Kristen believes it's a side effect of trauma and ignores it. Over the next few days, Olivia will fight to keep her family.  Too bad they aren't her family.  What will it take for Kristen to see and accept the truth?<br/><br/>This movie is a bit wild.  But it is the movie's crazy nature that keeps you watching from beginning to end. She is a desperate woman that wants her child back at any cost.  As Kristen does the unthinkable and unravels the mystery, she will find the evil in the truth, and you will watch from the beginning to an oddly satisfying end.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Christmas Again",
+    "review":"Rowena writes down her top Christmas memories and wants to fulfill them all on Christmas day.  But this Christmas is different.  Her father decided to bring his girlfriend, Diane, and Diane's son, Louie, to her mother's house to celebrate the holiday.  Rowena's parents, Caroline and Mike, chose to co-parent after their split. As her resentment grows, Rowena runs outside for some fresh air.  She yells at the plastic Santa that her family is ruining the holiday.  Then a real Santa appears.  She wishes for Christmas to be like it used to be.  Santa asks Rowena if she wants to do Christmas again.  And she says yes.  When she wakes up in the morning, it's Christmas again.  Rowena is in a Christmas loop and can't get out until she learns her lesson.<br/><br/>This Groundhog Day-inspired movie starts with Rowena manipulating the loop.  With each repeat, she learns something new about her family and herself. When she cares for others, she gains more family in return.  This movie is a fun watch for the entire family with all the laughs you expect from Disney.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sinisterswitch.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sinisterswitch.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasagain.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasagain.jpg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Reba McEntire's Christmas in Tune",
-    "review":"Belle's company booked its most notable client, the U.S. Army, during her high school reunion.  As Belle works to put together the tribute for the troops, her liaison, Troy, meets with her.  Troy's boss, the Captain, uncovered Belle's lineage, and he believes her parents will be the best addition to the show.  Belle's parents are a country duo, Georgia and Joe. But at the height of their career, they broke up, personally and professionally.  Now, they can't be in the same room together. So Belle calls Georgia.  Georgia agrees but under the guise that Joe will say no.  Georgia wants Joe to be the bad guy for once.  Belle calls Joe, and he happily agrees to do it for the troops.  Much to Georgia's chagrin.  Now the embattled exes have to work together for Belle and the troops.  Will anything be left standing?<br/><br/>This movie is funny from beginning to end.  As Georgia and Joe trade shots, they leave nothing on the table except your astonished face. As you watch them go back and forth, you will want them to work things out. This movie will be a favorite of this holiday for the country and non-country fans alike.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Missing and Alone",
+    "review":"Shannon booked a spa day for her and her daughter, Chloe, to enjoy.  Since Chloe's father died during a hiking trip together, Shannon feels like Chloe is pulling away.  Shannon even asked Chloe's volleyball coach, Pete, to keep an eye on her.  Pete understands Shannon's concern because his daughter, Mackenzie, became a wild child after her mom died.  When Shannon reminds Chloe about the spa trip, Chloe has unfortunate news.  She decided to go on a hiking trip with Mackenzie to honor her father. After a night, Chloe hasn't returned a call or text. So Shannon asks Pete and her sister, Ella, to assist her.  When they find Mackenzie coming out of the woods, they question her.  Mackenzie tells them that she left Chloe because Chloe wanted to play the Game of 72. But Shannon won't give up.  She knows something is wrong with Chloe, and she will go to the edge of a cliff to find out the truth.<br/><br/>This movie depicts what happens when a parent goes to the edge for their child.  However, it shows the good and bad of this sense of duty. While this story of survival won't be a favorite, it's worthwhile to watch parents go to the extreme.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rebamcentirechristmasintune.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rebamcentirechristmasintune.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/missingandalone.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/missingandalone.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"An Unexpected Christmas",
-    "review":"Jamie comes home to celebrate the holidays and his grandfather's memory.  When he settles in, his family asks about his girlfriend, Emily.  He tells them she has to work and can't make it for Christmas. When Jamie goes to the airport with his sister, Becca, she spots Emily getting off the plane. Jamie admits to Emily that he lied to his family for five months and never told them about their break-up.  Emily agrees to keep up the lie but has a room booked at a hotel to escape Jamie's deceit.  However, when she tries to check in, Emily gets a shock.  Her boss, Daryl, booked the room under his name, and Emily can't change the reservation. Jamie extends the offer to stay at his parents' place again.  She says yes but with conditions.  Her celebrity endorsement fell through for her company's campaign.  Jamie works as a speechwriter for the governor.  She will lie if Jamie can get the governor for her campaign.  Jamie agrees. With a wedding-focused family watching their every move, can Jamie and Emily keep up the lie?<br/><br/>Score one for Becca.  This funny sister will have you laughing until it hurts.  She, like most sisters, wait for the best and worst moment to comment or quip at Jamie's expense.  She will have you watching until the end. You know how the story will end but watch for Jamie's reason for the break-up and the lie.  It allows viewers to see a man's vulnerabilities.  This insight is refreshing in a Hallmark movie.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Eight Gifts of Hanukkah",
+    "review":"As Sara's optometry practice undergoes construction, supervised by her brother's best friend, Ben, she goes on several blind dates.  While most are substandard, she gets a good one: Famous chef Nigel. During the first night of Hanukkah, Sara spends the holiday with her family, friends, and Ben.  When her friend, Keisha, walks out the door, Keisha finds white roses on the doorstep with a card addressed to Sara.  Inside the card, it reads that this is the first gift of 8 from a secret admirer.  On the last night of Hanukkah, the admirer will reveal himself.  With a list of suitors to choose from, whose Sara's admirer.<br/><br/>Because this is a Hallmark movie with a leading man, viewers know the admirer's identity.  But the question is: when will he reveal himself to Sara.  Seeing her go down the list is daunting, but the gifts are meaningful. And yes, you do get to see all eight gifts.  This movie is a compelling watch, but you shouldn't expect an H.M.M. plot twist.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/anunexpectedchristmas.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/anunexpectedchristmas.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/eightsgiftsofhanukkah.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/eightsgiftsofhanukkah.jpeg"
     }
   }
 ];
@@ -56,51 +56,6 @@ module.exports = madeForTV;
 
 /*
 
-{
-  "option":"1",
-  "mtitle":"A Jenkins Family Christmas",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ajenkinsfamilychristmas.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ajenkinsfamilychristmas.jpeg"
-  }
-},
-{
-  "option":"2",
-  "mtitle":"Christmas Beneath the Stars",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasbeneaththestars.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasbeneaththestars.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"Christmas Again",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasagain.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasagain.jpg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Missing and Alone",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/missingandalone.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/missingandalone.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"Eight Gifts of Haunkkah",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/eightsgiftsofhanukkah.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/eightsgiftsofhanukkah.jpeg"
-  }
-},
 
 
 */
