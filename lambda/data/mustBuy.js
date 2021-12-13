@@ -96,4 +96,34 @@ module.exports = mustBuy;
 		}
 	}
 
+  {
+    "option":"",
+    "mtitle":"Last Night in Soho",
+    "review":"Ellie Turner dances in her bedroom and listens to 60s music when she sees her mother's reflection in her mirror. Then Ellie's grandmother, Peggy, calls Ellie downstairs.  Ellie got an acceptance letter from the London College of Fashion. Peggy begs Ellie to take care of herself because she has the same 'gift' for seeing ghosts as her mother. Ellie rents a room from Ms. Collins and gets comfortable.  On her first night in the house, Ellie dreams she is in 1960s London.  And when Ellie looks at her reflection, Ellie sees a young blonde girl.  The girl's name is Sandie, and she went to the Cafe de Paris to find the owner.  Sandie wants to become a singer and take over the London night scene.  The bartender tells Sandie the owner isn't there but a manager, Jack, is looking for new talent. Soon they are on the dance floor, kissing and running away after Jack defends Sandie's honor.<br/><br/>Then Ellie wakes up and goes to class.  Jocasta spots a hickey on Ellie's neck, and Ellie remembers it's from Jack kissing Sandie.  Soon, Ellie dyes her hair, dresses, and talks like Sandie.  The next night, Ellie watches as Jack gets Sandie an audition at a club, and Sandie wows the owner. When she is fast asleep, Ellie is in the audience.  She expects to see Sandie front and center, singing for the world to see.  But Sandie is another chorus girl in the burlesque show.  Sandie's dream is a nightmare that will leave her looking at the business end of a knife.  This stab into reality will haunt Ellie until she learns what happened to Sandie and the man responsible.<br/><br/>This film mixes the paranormal with teen drama and mystery. As Ellie looks at Sandie's life through Sandie's eyes, Ellie is envious of Sandie's tenacity.  When she learns the path Sandie's life spiraled into, Ellie stands outside of Sandie's body. Being on the outside allowed Ellie to be more critical of Sandie instead of admiring her. The film transports you when Ellie flashes back to Sandie's life. And the edits between Sandie and Ellie are flawless.  When Sandie's end comes across the scene, it will be a poetic justice you were not expecting.  While the film does feel long and has an unnecessary romance, it is highly entertaining and will make you want to do a double-take.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lastnightinsoho.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lastnightinsoho.jpeg"
+    }
+  }
+
+  {
+    "option":"1",
+    "mtitle":"Disney's Encanto",
+    "review":"While running from war with triplets, Pedro stopped, kissed his wife, Alma, and headed towards the soldiers.  He sacrificed himself for his family.  Alma fell to the ground in tears.  Then her candle started to glow, and mountains grew around her.  And from nowhere, a house, Casita, formed out of thin air with magic.  However, it wasn't the only magical entity.  When each family member came of age, they would touch the candle, and their door would reveal their gift.  Mirabel is a decedant of one of the triplets.  Unlike her family, she did not get a gift.  Now, the townspeople and the family worry that the same thing will happen to Mirabel's cousin, Antonio.  The entire community watches the ceremony, but Antonio wants Mirabel by his side.  Antonio touches the door and gets the ability to talk to animals.  The town celebrates, and Mirabel walks around thinking about her purpose.  Then she sees the house starting to crack, and the candle's flame almost extinguished.  Mirabel runs to tell the family, but they see nothing and blame it on jealousy.  After talking to several family members, she learns that her estranged uncle Bruno, gifted with premonitions, had a vision of the family losing the magic but never finished his vision.  Mirabel decides to go through Bruno's door and complete his premonition to save her Casita, her family, and the entire town.<br/><br/>This movie doesn't just point out Mirabel's struggles; it allows her and the audience to see that each of her family members has their struggles too. If you ever feel unimportant or under immense pressure, this movie will speak to you and bring a tear to your eye.  With stunning visual effects, this film will engross your whole family.  And be prepared to dance in your seat.  Be aware this movie isn't about good guys versus bad guys.  It's about the struggle we all face within.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/disneyencanto.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/disneyencanto.jpeg"
+    }
+  }
+
+  {
+    "option":"1",
+    "mtitle":"A Journal for Jordan",
+    "review":"Dana visits her father for his birthday and walks in to find a stranger.  He introduces himself as 1st Sergeant Charles Monroe King.  Charles tells Dana that her father is on the back porch, and he was hanging a picture that he painted.  Soon they are talking on the phone every day. When Charles gets some leave, he visits Dana in New York.  Then, September 11th brought reality to their relationship.  While Charles is at the range, Dana tells him that she wants to start a family.  He one-ups her and asks to get married, and she says yes.  Soon Dana is pregnant, but he has his orders.  So Dana gives Charles a journal filled with questions for a father to answer for his child.  Years later, Dana will use that journal to guide her son, Jordan, through difficult moments of his life, like dealing with Charles's death.<br/><br/>Based on A Journal for Jordan: A Story of Love and Honor by Dana Canedy, this film is a heartfelt love letter to Jordan about his parents.  Although he doesn't remember his father, Jordan can read the love Charles held in his heart.  Because this movie doesn't have a linear timeline, you can't be late.  The film starts with the spark that made Dana write the book.  While their love was short, their words will exist forever.  FYI, this movie is for adults.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ajournalforjordan.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ajournalforjordan.jpeg"
+    }
+  }
+
 */
