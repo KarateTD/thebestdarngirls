@@ -19,7 +19,7 @@ var madeForTV = [
   },
   {
     "option":"3",
-    "mtitle":"Holiday in Sante Fe",
+    "mtitle":"Holiday in Santa Fe",
     "review":"Tony opens Warm Wishes and tells his sister, Maggie, that someone is assessing the business later. The family anxiously waits for Winterfest but none more than Maggie.  Every year, their mother hand-crafted a heart and sold it all year.  Since she passed, they recreated past hearts, but interest wanes, and the shop loses business.  Maggie is trying to create a new heart, but she can't get it right.<br/><br/>Belinda enters town to find out she has a 5-night stay instead of two.  Belinda heard about the hand-crafted Milagros heart and the legend it holds.  But she wants to learn about the family.  She meets with Tony about the business and its direction.  As they fall for each other, Tony and Belinda's company have different futures for Warm Wishes.  Can Belinda keep her job and Tony if Maggie can't get the next heart crafted in time?<br/><br/>The love the family has for each other resonates off the screen.  However, Lifetime makes the brave decision to cover microaggressions in this holiday film.  He is understandably offended.  And he has a right to be.  While this is a holiday movie, this dash of consciousness is needed during the holiday too.<br/><br/>4.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/holidayinsantafe.jpeg",
