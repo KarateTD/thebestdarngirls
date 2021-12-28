@@ -126,4 +126,23 @@ module.exports = mustBuy;
     }
   }
 
+    {
+    "option":"5",
+    "mtitle":"Ghostbusters: Afterlife",
+    "review":"Callie gets her kids, Trevor and Phoebe, ready to meet with an estate lawyer.  Her father died and left Callie a farmhouse in his will. Inside the home, they find books to the ceiling, numbers on the crown molding, and a future riddled with repairs.  Then Janine walks into the home and tells Callie that her father only had the decrepit house, worthless land, and debt. The next day, Callie drops Phoebe off at summer science camp, meets Phoebe's teacher, Gary Grooberson.  Then, Callie drops Trevor off at work.  At work, Trevor meets his crush, Lucky.  She invites Trevor to go to the old mine with other co-workers to have fun.  At the mine shaft, they see a glowing figure and hear noises.<br/><br/>At school, Gary puts on Kujo for his students.  Then, he steps back into his office.  Phoebe walks in, sees his seismic activity map, and asks Gary about it.  Gary explains that Summerville isn't on a fault line, but it shakes every day. When Phoebe gets home, she notices a chess piece moved. She grabs the PKE meter she found earlier and goes through the house.  Under the floor, Phoebe discovers a ghost trap.  She takes it to Gary, and he assumes it's a replica.  But when he touches it, the ghost trap starts to spark. When the trap doesn't open, Gary taps it and releases a hell on earth not seen since 1984.<br/><br/>With a Revelations 6:12 warning, this movie builds up new characters while bridging the gap to the previous ones. With so many technological advancements, the director made a smart move by not changing the look or sound of the proton fire or the slime ghost's look.  However, newer graphics are clean and not distracting from the storyline.  With this careful distinction, the director invited new fans to the franchise without alienating the cult-like following of the 1984 classic.  And stay for the mid-credit and post-credit scenes.  They have fun with the past and build towards the future.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ghostbustersafterlife.jpeg",
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ghostbustersafterlife.jpeg"
+    }
+  }
+
+  {
+    "option":"4",
+    "mtitle":"King Richard",
+    "review":"While Venus and Serena Williams study and practice, their father, Richard, passes out brochures to everyone at the local country club. Before Venus and Serena's birth, Richard wrote a detailed plan for their tennis career.  While he believes in his daughters, Richard can't get someone to coach the girls for free. With his brochure getting little traction, Richard packs up Venus and Serena and drives them to see Paul Cohen.  Richard talks Paul into watching the girls hit a few balls, and Paul is impressed.  But he tells Richard that he can only coach Venus for the junior tournaments.  This moment is the first time something hasn't gone according to the plan. Now, Richard has to make a lasting decision that will affect Venus and Serena's lives forever.  Heavy is the head that wears the crown.<br/><br/>King Richard tells the story of a complicated man in a battle with himself and the world for what he pre-ordained. At the moment, it's hard to understand if Richard is doing this for pride or love.  Often, Brandy calls him out on his pride privately. Although he is instrumental in the girls' success, as Richard steps back, the girls fly. Sit back and watch history in the making.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kingrichard.jpeg",
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kingrichard.jpeg"
+    }
+  }
 */
