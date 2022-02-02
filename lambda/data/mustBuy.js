@@ -1,6 +1,15 @@
 var mustBuy = [
+  {
+    "option":"1",
+    "mtitle":"Ghostbusters: Afterlife",
+    "review":"Callie gets her kids, Trevor and Phoebe, ready to meet with an estate lawyer.  Her father died and left Callie a farmhouse in his will.  Inside the home, they find books to the ceiling, numbers on the crown molding, and a future riddled with repairs.  Then Janine walks into the home and tells Callie that her father only had the decrepit house, worthless land, and debt.  The next day, Callie drops Phoebe off at summer science camp, meets Phoebe's teacher, Gary Grooberson.  Then, Callie drops Trevor off at work.  At work, Trevor meets his crush, Lucky.  She invites Trevor to go to the old mine with other co-workers to have fun.  At the mine shaft, they see a glowing figure and hear noises.<br/><br/>At school, Gary puts on Kujo for his students.  Then, he steps back into his office.  Phoebe walks in, sees his seismic activity map, and asks Gary about it.  Gary explains that Summerville isn't on a fault line, but it shakes every day.  When Phoebe gets home, she notices a chess piece moved.  She grabs the PKE meter she found earlier and goes through the house.  Under the floor, Phoebe discovers a ghost trap.  She takes it to Gary, and he assumes it's a replica.  But when he touches it, the ghost trap starts to spark.  When the trap doesn't open, Gary taps it and releases a hell on earth not seen since 1984.<br/><br/>With a Revelations 6:12 warning, this movie builds up new characters while bridging the gap to the previous ones. With so many technological advancements, the director made a smart move by not changing the look or sound of the proton fire or the slime ghost's look.  However, newer graphics are clean and not distracting from the storyline.  With this careful distinction, the director invited new fans to the franchise without alienating the cult-like following of the 1984 classic.  And stay for the mid-credit and post-credit scenes.  They have fun with the past and build towards the future.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ghostbustersafterlife.jpeg",
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ghostbustersafterlife.jpeg"
+    }
+},
 {
-  "option":"1",
+  "option":"2",
   "mtitle":"Copshop",
   "review":"Rookie, Valerie Young, and her riding partner, Sergeant Mitchell, drop their lunch break for a rowdy fight outside a casino. When Young tries to get a handle on the situation, a man sucker-punches her.  She tases the man, and Young and Mitchell take him to the police station.  The man is Teddy Murretto, and he will be in lock up for a while.  Later, Mitchell gets a call about an abandoned unmarked police cruiser with bullet holes on the side of the road.  As the cops investigate the scene, a drunk driver hits the car and almost kills the cops. They book him as John Doe and put him into another holding cell.  After a throat-closing incident, Young comes down to check on the men.  She finds out that Teddy is a con-man that chose to get locked up to keep himself safe.  However, this was an ill-calculated move.  Across from John Doe, Teddy recognizes the man.  His real name is Bob Viddick, and he is a contract killer.  Viddick got himself locked up to complete the contract on Teddy.  Before the night is over, Young will have to decide who she can trust: a professional, a psychopath, a crooked cop, or a con-man.<br/><br/>This movie takes a second to get started, but it's necessary to set up all the pieces in the game, like Mouse Trap.  Once all the players, plots, and bullets are in place, the knockdown, drag-out fight begins.  Be aware there are no wasted moments on screen.  The broadcasts, backstories, and jokes have a point to the overall plot. This movie takes its time, but it's worth every second to see these opposing forces battle it out.  Based on the ending, maybe we will get a part two.  Fingers crossed.<br/><br/>4.5 out of 5 stars.",
   "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
   }
 },
 {
-  "option":"2",
+  "option":"3",
   "mtitle":"Dear Evan Hansen",
   "review":"Dear Evan Hansen was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
   "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
   }
 },
 {
-  "option":"3",
+  "option":"4",
   "mtitle":"One Night in Miami",
   "review":"On February 25th, 1964, Malcolm X, Sam Cooke, and Jim Brown watch Cassius Clay beat Sonny Liston in a major upset. The four men decided to meet at Malcolm's hotel room later that night.  Sam arrives first and notices that two bodyguards protect Malcolm's dump of a hotel room. As he plays, Cassius, Malcolm, and Jim arrive together and exchange warm greetings with Sam.  Sam, Cassius, and Jim are ready to paint Miami red to celebrate the new champ.  But Malcolm warns Cassius about temptation.  For some time, Cassius sought Malcolm's religious counsel before his fight, decided to convert to Muslim and join the Nation of Islam. Malcolm works with Alex Haley to pen his autobiography because Malcolm can feel death knocking at his door.  While holding the record for most running yards in a season, Jim Brown feels respected on the field, but not off it. As they sit in the hotel room trying to convince Malcolm to party, the men will scold each other's motives, interrogate their role in the black community, and question their future.  After this one night, each man's life will change forever.<br/><br/>Based on the One Night in Miami play, this provocative tale, inspired by real-life events, will leave you awestruck with brilliant performances.  The conversations between these men are poignant, striking, provoking, and critical for their advancement. But after one night together, these in-depth and controversial conversations inspire change in each man.  Whether it's a song, a name, a job, or a book, the world will grow from it.<br/><br/>5 out of 5 stars.",
   "image":{
@@ -27,21 +36,12 @@ var mustBuy = [
   }
 },
 {
-  "option":"4",
+  "option":"5",
   "mtitle":"Ron's Gone Wrong",
   "review":"Barney Pudowski is a middle schooler with no friends, and his old friends, Savannah, Rich, Ava, and Noah, make friends based on their B-Bot matches.  Marc Weidell created B-Bots for the company Bubble.  The B-Bot connects to the Bubble Network, downloads the owner's information, and finds friend matches based on compatibility. Within months Bubble sold millions of B-Bots, except to Barney.  Barney's dad, Graham, is a single, hard-working parent. After seeing Rich and his friends tease Barny about not having a B-Bot, Graham rushes to the Bubble store, but three things stop him from buying the B-Bot.<br/><br/>The store's closed, there is a three-month waiting list, and people can only purchase it online.  Defeated, Graham starts to walk away, but he sees a loading truck loading more B-Bots into the store.  He overhears the truckers say a B-Bot fell off the delivery truck and got damaged.  Graham purchases the damaged B-Bot from the trucker and gives it to Barney. Barney puts his hand on the B-Bot, and it has trouble reading Barney's hand scan.  After several attempts, the B-Bot scans Barney but doesn't complete its download or connection to the Bubble Network.<br/><br/>After several mishaps, Barney decides to take the B-Bot back to the store and exchange it for a new one without telling Graham.  On their way to the store, the B-Bot, named Ron, sees boys playing on the playground and decides to make friends with them. Barney knows the boys on the playground because they are his bullies.  When the bullies attack Barney, Ron beats up the bullies. Elated with his new defender, Barney decides to keep Ron and teach Ron how to be a friend.  Too bad that the video of the attack when viral.  Now Bubble knows it has a rogue B-Bot on its hands that scares parents and intrigues kids.  They have to find and destroy Ron before his code spreads.<br/><br/>This movie is I, Robot, The Social Network, and Big Hero 6 combined, and everyone in your family will love it.  While it entertains, the plot covers complex issues like social anxiety, viral celebrity, online bullying, and friendship. Now, don't be surprised if your child wants a B-Bot in the beginning.  However, by the end, it will change.  Also, the story gives insight into the inner workings of tech companies.  Often privacy and safety come second to profits, no matter how good the intentions. So get the family together and enjoy this film.<br/><br/>5 out of 5 stars.",
   "image":{
     "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ronsgonewrong.jpg",
     "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ronsgonewrong.jpg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"Shang-Chi and the Legend of the Ten Rings",
-  "review":"Shaun works as a valet with his best friend, Katy, and any chance they get to lollygag, they take it.  They talk on the bus about their futures and their family's expectations.  A man approaches Shaun and tells Shaun to give him his pendant.  Shaun refuses, and the gang of men fight.  With unstable motion, the bus knocks out the driver.  Katy gets into the driver's seat during the fight.  Together, Katy and Shaun save the passengers and fight off the men.  But they take Shaun's pendant.  He tells Katy that he has to find his sister, Xialing, and save her from their father, Wenwu.  This detail stuns Katy because she never knew Shaun had any family.  He tells Katy that he is getting on the next flight to see Xialing, and Katy doesn't hesitate to go with him.  On the flight, Shaun explains that his name is Shang-Chi.  And love, pain, and revenge blanket his family history.  For thousands of years, Wenwu grew power exponentially thanks to the ten rings he found or stole, depending on which legend you believe.  Then, Wenwu learned of a forest called Ta Lo with mythical creatures that possessed unknown strength.  He travels to Ta Lo and finds a beautiful woman, Jiang Li.  Jiang Li protects Ta Lo and all its strength.  The two fell in love and tried to stay in Ta Lo, but they ex-communicated Jiang Li and stripped her of her powers.  After Jiang Li died, Wenwu raised Shang-Chi to be an assassin while developing the ten rings gang.  When Shang-Chi turned 16, Wenwu asked Shang-Chi to avenge his mother.  Shang-Chi left and never came back.  Now, Shang-Chi must save his sister before Wenwu comes for her.<br/><br/>Don't worry about the synopsis because there is still more story to go.  The brief overview is only 30 minutes into the movie.  This movie separates itself with a storyline that doesn't focus on good or evil but grief and loss.  In the beginning, everything is more realistic, but as the story delves deeper into Ta Lo, it becomes more magical, like Dr. Strange.  The graphics are the best yet for the MCU, and the bus fight scene is one of the best. It puts Captain Marvel and Spider-Man to shame.  And let's never forget the fight between Wenwu and Jiang Li.  Their combative dance of love and power is a force to be reckoned with.<br/><br/>4 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/shangchiandthelegendofthetenrings.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/shangchiandthelegendofthetenrings.jpeg"
   }
 }
 ];
@@ -123,16 +123,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ajournalforjordan.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ajournalforjordan.jpeg"
-    }
-  }
-
-    {
-    "option":"5",
-    "mtitle":"Ghostbusters: Afterlife",
-    "review":"Callie gets her kids, Trevor and Phoebe, ready to meet with an estate lawyer.  Her father died and left Callie a farmhouse in his will. Inside the home, they find books to the ceiling, numbers on the crown molding, and a future riddled with repairs.  Then Janine walks into the home and tells Callie that her father only had the decrepit house, worthless land, and debt. The next day, Callie drops Phoebe off at summer science camp, meets Phoebe's teacher, Gary Grooberson.  Then, Callie drops Trevor off at work.  At work, Trevor meets his crush, Lucky.  She invites Trevor to go to the old mine with other co-workers to have fun.  At the mine shaft, they see a glowing figure and hear noises.<br/><br/>At school, Gary puts on Kujo for his students.  Then, he steps back into his office.  Phoebe walks in, sees his seismic activity map, and asks Gary about it.  Gary explains that Summerville isn't on a fault line, but it shakes every day. When Phoebe gets home, she notices a chess piece moved. She grabs the PKE meter she found earlier and goes through the house.  Under the floor, Phoebe discovers a ghost trap.  She takes it to Gary, and he assumes it's a replica.  But when he touches it, the ghost trap starts to spark. When the trap doesn't open, Gary taps it and releases a hell on earth not seen since 1984.<br/><br/>With a Revelations 6:12 warning, this movie builds up new characters while bridging the gap to the previous ones. With so many technological advancements, the director made a smart move by not changing the look or sound of the proton fire or the slime ghost's look.  However, newer graphics are clean and not distracting from the storyline.  With this careful distinction, the director invited new fans to the franchise without alienating the cult-like following of the 1984 classic.  And stay for the mid-credit and post-credit scenes.  They have fun with the past and build towards the future.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ghostbustersafterlife.jpeg",
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ghostbustersafterlife.jpeg"
     }
   }
 
