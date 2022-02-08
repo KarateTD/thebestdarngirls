@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"Single Black Female",
+    "review":"After delivering her father's eulogy, Monica deals with her loved ones.  Monica's boyfriend, Andre, wants to get her in bed and-or drunk.  Monica's best friend, B.B., comes to her rescue with laughter and love.  A few days later, Monica has an update for B.B..  Monica broke up with Andre after receiving an anonymous D.M. of Andre cheating at a club.<br/><br/>Monica and her co-host, Elodie, learn that Clarke Montgomery is stepping down.  And Clarke's talk show is up for grabs.  While Monica was away grieving her father, her assistant left.  They replaced Monica's assistant with Simone, a new hire.  Monica can't believe they hired someone without her input but retreats to greet Simone in her office.<br/><br/>Simone is excited to work for Monica and knows everything about her. Later, Monica goes outside and sees Simone on her porch.  Simone explains that she moved in next door while Monica's neighbor, Ms. Fletcher, continues her vacation.  They discuss Andre, and Monica invites Simone into her home for drinks.  And when Monica wakes up, Simone is making her breakfast. While Monica thinks Simone is the perfect assistant, B.B. has reservations.  B.B. wants to do a background check on Simone, but B.B. has no idea the demons she will uncover.<br/><br/>A reboot of the 1992 cult classic, based on SWF Seeks Same by John Lutz, only copies the movie's creepy factor.  Everything else in the film is brand new.  You will watch in shock, awe, and horror as Simone manipulates her way into Monica's life.  And her evil knows no bounds.  Sit back and get your wine ready.  Tea won't be strong enough.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/singleblackfemale.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/singleblackfemale.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"The Wrong High School Sweetheart",
+    "review":"Danielle feels neglected once again when her fiancé, Todd, wants to skip marriage counseling.  The therapist suggests being patient and talking about her feelings with Todd.  After work, Danielle meets with Dee.  Dee and Danielle's mother used to work together at Danielle's old high school.  Often, Danielle goes to Dee for motherly advice.  She tells Dee about her marital issues, and Dee reminds Danielle that Todd is a good man.  Then, Danielle gets a notification from The Circle app.  An old high school boyfriend named Danny wants to get back in touch with Danielle.  Dee remembers that Danny is intelligent and a handsome athlete but warns Danielle about meeting with him.  As a precaution, Danielle invites Todd to come to their meeting.<br/><br/>The three have a fun night out until a drunk accosts Danielle.  Later, Danny invites Danielle to their high school and take a trip down memory lane.  Before they kiss, Dee walks in.  Danny walks away, but Dee tells Danielle she is on thin ice.  Danielle heeds the warning and cuts off communication with Danny, but it's too late.  His obsession started years ago, and he needs Danielle to reclaim his glory.  And Danny will kill anyone who stands in his way.<br/><br/>This chapter of 'The Wrong' genre continues with all the craziness you expect.  However, Danielle doesn't fall into bed with Danny.  Also, Danielle calls out Danny's poor behavior and tries to diffuse the situation.  If there is anything Lifetimers know, it's that you can't talk down crazy.  It takes a wack to the head and a well-timed catchphrase to catch this psycho.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewronghighschoolsweetheart.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewronghighschoolsweetheart.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Love and Where to Find It",
+    "review":"Lena owns the Kismet Café and hopes to sell her baked goods worldwide someday.  On her way to work with her best friend, Ava, they spot The Vic café is opening around the corner.  She decides not to worry about The Vic and focuses on Ava.  Ava is lovesick and spends her days in bed.  Lena suggests Ava try a dating app.  Lena grabs Ava's phone, creates a profile on TruMatch, and they start swiping.  Soon, Ava stumbles across Walker and thinks they are perfect for each other.  She is unsure what to do, so Lena suggests Ava give him a 'like.'<br/><br/>Across town, Jonah is overseeing his next project and relies on his assistant, Walker, to keep him up to date.  Then, Walker gets a ping on his phone that he got a new 'like.'  When he reads Ava's profile, he is smitten with her.  But he doesn't know what to say.  So Walker gives Jonah his phone and asks Jonah to respond. Jonah crafts a response, and Ava gets the message.  Ava doesn't think her reply will be good enough, so she gives the phone back to Lena, and Lena crafts a response.  Walker and Ava ask Jonah and Lena to be their proxies.<br/><br/>When Jonah and Lena meet face to face, there is a spark.  But that spark is diminished when Lena uncovers that Jonah's project is The Vic. Jonah doesn't want to lose his connection to Lena, so he tries to help.  But when Ava reads Lena's words to Walker, Ava worries that Lena is falling for Walker.  And Walker feels the same about Jonah and Ava.  Will these couples work it out, or will their worlds face a messy collision course.<br/><br/>This modern-day twist offers the viewers two Cyranos in one film.  At first, Lena and Jonah take their messaging cues from Ava and Walker.  As they have complications with each other in person, Lena and Jonah's messages get more personal.  You anticipate when and how they will find out the truth.  And it's outcome on Walker and Ava's love story.  This complex but intriguing plot will keep your attention from beginning to end.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveandwheretofindit.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveandwheretofindit.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Butlers in Love",
+    "review":"As a little girl, Emma watched her favorite T.V. show, Plumshire Manor, and dreamed of being a butler.  With another year, she has another disappointment.  The American Butler Academy didn't send an acceptance letter again.<br/><br/>At work, Emma gets a phone call from Charles Willoughby, the dean of the American Butler Academy.  A student dropped out, and Charles wants Emma to fill the spot.  With a scream and a jump, Emma welcomes the invitation to join.  On her first day, Emma meets her roommate, Lisa, and tries to impress the class by carrying a table service for 4.  When she gets all the plates in her hands, Henry swings the door open and bumps her.  Emma drops all the dinnerware but learns a valuable lesson about door proximity.Lisa explains that Henry is a legacy butler with a close relationship with Charles.  The sheer nepotism of Henry's presence annoys Emma.<br/><br/>After the first round of classes, Emma is second to last in the butler ranking.  Charles can see that Emma has the fundamentals, but she can't handle the pressure.  Charles tells Emma that Emma could benefit from Henry's tutoring. Against her better judgment, she seeks Henry for help.  While Henry assists her pursuit for better butling, she will help Henry fight to make his hobby his trade.<br/><br/>This film is fascinating because it spotlights a job performed in the shadows.  Butlers are often seen and not heard.  They do this job with extreme precision.  While the conclusion gives you the expected ending for the love story, it gives you a more fulfilling end with their professional stories.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/butlersinlove.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/butlersinlove.jpeg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"Janet Jackson",
     "review":"On May 16, Katherine and Joe Jackson brought their 9th child into this world and named her Janet Damita Joe Jackson.  Janet never understood that her father, Joe, predetermined her career after her brothers' success.  One day, she had a humble life in Gary, Indiana.  And the next day, Janet moved to Calabasas, California.  While she dreamed of becoming a lawyer, Joe put a microphone in Janet's hand and put her on a Las Vegas stage.  From that moment, Janet's life was no longer in her hands.  It will take several albums, marriages, and scandals for Janet Jackson to gain the control she championed.  As she takes you on a journey of her past, she learns things about herself too.<br/><br/>Watching this film, you learn two things about Janet Jackson.  First, she never plays the victim.  Second, she never speaks ill of anyone.  Janet has taken the time to seek some form of therapy. This self-care allowed her to gain insight and clarity, and her peace radiates across the screen.  Watch, learn, implement, and grow.<br/><br/>5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/janetjackson.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/janetjackson.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Deadly Misconduct",
-    "review":"Annie works as an assistant district attorney, and she is prosecuting the highest-profile case of her career.  However, her most critical witness recanted his story on the stand.  Annie needs to create a new strategy if she wants to get the biggest crime boss off the street and beat his attorney, Larson.  With so much to focus on, Annie meets with Mark.  Mark is a P.I. who helps Annie with her cases.  While he is good at his job, he is a bad boyfriend.  Annie's best friend, Danielle, saw Mark on a date with another woman.  For Annie, this betrayal is unforgivable and ends their relationship.<br/><br/>At a company party, Annie spots Larson and tries to walk away.  However, Larson tells Annie that he has evidence to help her put his client in jail.  However, the evidence is at his home for safekeeping.  Annie goes to Larson's home but starts to feel dizzy.  When she wakes up in Larson's bed, Annie finds him beside her, and Larson is fully dressed and dead.  She cleans her fingerprints and tries to run out of the room, but she hears someone in the house and hides.  When the murderer leaves, Annie makes a hasty retreat.  Annie thinks she's cleared of any wrongdoing, but Mark has startling facts.  A neighbor saw a blond woman leave Larson's home, and a bartender at the company party saw Larson talking to a blonde woman earlier that night.  If she goes to jail, she will lose her job and daughter.<br/><br/>This mystery will have you watching from beginning to end as Annie finds clues while digging herself into a deeper hole.  Now, seasoned Lifetimers will know who the murderer is within the first 45 minutes.  However, the plot does make you second guess your predictions.  In the end, acronyms, a gun, and books will save her life and keep her free.  Sit back and enjoy this mystery.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deadlymisconduct.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deadlymisconduct.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Deadly House Call",
-    "review":"Madison can't believe her mother, Ruth, is gone.  And her father's dementia makes her loss more difficult.  After the funeral, a woman comes to Warren's rescue and soothes him through another episode.  It's Becca, an out-of-work nurse, and she is willing to help.  While Madison appreciates the assistance, she tells Rebecca that Warren has full-time health care.  In the morning, the family advisor, Arnold, tells Madison that she needs to take over Warren's business because Warren's health is in an inevitable decline.  During their meeting, Madison gets a call from her husband, Emmett Warren's aid never showed up, and Emmett requires help with Warren's care. Then Emmett remembers Rebecca and wants to call her.  Madison's not sure about letting a stranger into their home but, out of desperation, says yes.  Madison is right to have reservations because Rebecca is on the path to revenge.  And nothing will stop her from getting what she believes she deserves.<br/><br/>Well, you can't trust references anymore.  While the motive is typical, the depths of Rebecca's deception are not.  She drugs, kills, and coss-plays to get what she wants.  So if you decide to watch this movie, watch it for Rebecca and her conniving ways.  That option will bring you the most entertainment.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deadlyhousecall.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deadlyhousecall.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Love on the Road",
-    "review":"Abby is the host of a restaurant renovation show, but her ratings are slipping.  In a meeting, the producer chooses to shake things up.  The producer picks Rocco's Diner for her next episode.  And if she doesn't, they will cancel Abby's show.<br/><br/>Abby and her director, Kenna, travel to the restaurant but fall victim to a flock blocking the road.  A man, Tom, pulls up and offers help.  Abby and Kenna arrive at Rocco's and order food.  Then Tom appears from the kitchen.  He and his aunt, Marge, operate and own the diner.  Then, Claire walks into the dining area and stands in awe.  She is a fan of Abby and her show.  Together, Marge and Claire entered Tom's diner for the renovation.  But they never told him.  Instantly Tom says no to the show.  Then, Marge pulls him aside.  Marge knows the restaurant's profits are down, and Tom needs a change of pace to get more out-of-town customers.  Tom lowers his emotional armor and allows Abby to do the show.  But Tom's secrets tests Abby's preconceived notions.<br/><br/>While this movie entertains, it gives you all the twists, montages, and strife exactly when and where you expect them.  If you watch this film, do it for Marge's pearls of wisdom.  Also, the witty dialog between Claire and Tom will bring a smile to your face.  Everything else, including the love story, falls flat.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveontheroad.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveontheroad.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Don't Forget, I Love You",
-    "review":"Today is Taylor's 30th birthday, and she plans to spend it like every other day.  As Taylor leaves for work as a professional organizer, she sees her new neighbor, Josh, stumbling over boxes.  While everyone, including her assistant, Kyle, tells her to take a break, she won't. Taylor's father, Richard, hands her a gift when she gets home.  But Richard says it's not from him; it's from her late mother.  It is a treasure map to a time capsule.  When Taylor opens it, she finds childhood mementos and letters with instructions.  Each letter has a task.  Taylor's mother wanted Taylor to complete them and have photo proof for Richard.  With clenched teeth, Taylor accepts the challenge.  This decision to jump into the world of the unknown will bring Taylor purpose, understanding, and love.<br/><br/>Reminiscent of P.S. I Love You, this movie will resonate with anyone who watches it.  While Taylor and Josh's love is at the forefront, Taylor's connection to Josh's daughter, Chloe, will have you in tears.  They bond over the heartbreak of losing a mom, and Taylor guides Chloe with worry angel wings.  When Taylor completes all the task, she will learn the 'why' behind the missions.  And the reason will make you keep this movie on your DVR.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dontforgetiloveyou.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dontforgetiloveyou.jpeg"
     }
   }
 ];
