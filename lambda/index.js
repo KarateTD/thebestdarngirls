@@ -139,7 +139,7 @@ let product = null;
 
 function makeSettings(myLocale){
 	//console.log("local: "+ myLocale)
-	if(myLocale == "en-US" || myLocale == "en-GB"){
+	if(myLocale == "en-US" || myLocale == "en-GB" || myLocale == "en-CA"){
 		//console.log("with locale and in if");
 		return premLocaleVar;
 	}else{
