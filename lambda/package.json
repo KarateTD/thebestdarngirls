@@ -10,6 +10,7 @@
     "aws-sdk": "^2.1076.0",
     "dot-prop": "^5.3.0",
     "hosted-git-info": "^2.8.9",
+    "json-schema": ">=0.4.0",
     "libnpx": "^10.2.4",
     "lodash": "^4.17.21",
     "request": "^2.88.2",
@@ -24,6 +25,7 @@
   },
   "devDependencies": {
     "@types/node": "^14.18.12",
-    "ansi-regex": ">=5.0.1"
+    "ansi-regex": ">=5.0.1",
+    "json-schema": ">=0.4.0"
   }
 }
