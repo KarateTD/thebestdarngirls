@@ -1,12 +1,13 @@
 {
   "author": "Tiffany Gray",
   "dependencies": {
+    "ajv": "^6.12.6",
     "alexa-sdk": "^1.0.6",
     "ansi-regex": "^6.0.1",
-    "ask-sdk": "^2.11.0",
-    "ask-sdk-core": "^2.11.0",
-    "ask-sdk-model": "^1.37.0",
-    "aws-sdk": "^2.1015.0",
+    "ask-sdk": "^2.12.0",
+    "ask-sdk-core": "^2.12.0",
+    "ask-sdk-model": "^1.37.2",
+    "aws-sdk": "^2.1076.0",
     "dot-prop": "^5.3.0",
     "hosted-git-info": "^2.8.9",
     "libnpx": "^10.2.4",
@@ -22,6 +23,6 @@
     "ansi-regex": "5.0.1"
   },
   "devDependencies": {
-    "@types/node": "^14.17.32"
+    "@types/node": "^14.18.12"
   }
 }

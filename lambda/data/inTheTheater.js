@@ -58,29 +58,22 @@ module.exports = inTheTheaters;
 
 {
   "option":"1",
-  "mtitle":"Death on the Nile",
+  "mtitle":"Uncharted",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deathonthenile.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deathonthenile.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/uncharted.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/uncharted.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Marry Me",
-  "review":"<br/><br/>3 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/marryme.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/marryme.jpeg"
-  },
-  {
-  "option":"3",
-  "mtitle":"Blacklight",
+  "mtitle":"Dog",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blacklight.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blacklight.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dog.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dog.jpeg"
   }
+},
 
 
 */
