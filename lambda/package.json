@@ -23,6 +23,7 @@
     "ansi-regex": "5.0.1"
   },
   "devDependencies": {
-    "@types/node": "^14.18.12"
+    "@types/node": "^14.18.12",
+    "ansi-regex": ">=5.0.1"
   }
 }
