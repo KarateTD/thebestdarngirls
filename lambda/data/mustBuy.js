@@ -55,7 +55,27 @@ module.exports = mustBuy;
 *  large image 1200w x 800h (in pixels)
 */
 
-/*  For Must Buy later  
+/*  For Must Buy later
+
+{
+    "option":"1",
+    "mtitle":"The Batman",
+    "review":"It's Halloween.  And while most of Gotham celebrate candy and debauchery, Bruce Wayne uses his mask for vengeance against the city's underbelly.  Batman has looked over the citizens with Lieutenant Gordon and his signal for two years.  Someone killed mayor Don Mitchell, wrapped his head in tape, cut off his thumb, and wrote 'No More Lies' on him.  The killer, The Riddler, left a card for 'The Batman' with a cipher inside.  The Riddler vows to kill more people and unmask the corruption in Gotham.  Batman uncovers pictures of the mayor with a young woman, that is not his wife, coming out of the Iceberg Lounge.<br/><br/>During questioning, a waitress walks into the room.  She freezes when she sees the photos.  The waitress goes to her apartment that she shares with the young woman, Annika, from the images.  The waitress promises to help Annika getaway.  After changing clothes, the waitress gingerly leaves the apartment through a window.  She goes to the mayor's home, an active crime scene, finds a hidden safe and cracks it.  She pulls out Annika's stolen passport when Batman grabs her.  The waitress is Selina Kyle, Catwoman.  Batman worries about the cat burglar and follows Selina back to her apartment.  Annika and their phones are gone.  Selina tells Batman that she will find answers in the 44 Below Club.  It's a private club within the Iceberg Lounge where the crooked politicians and cops hang out.  Batman knows this will be a target-rich environment for the Riddler, so he devises a plan for him and Selina to work together.  In 7 days, Batman will learn that his mask can inspire hope, create resentment, and reveal dark aspirations.  And all roads lead to Arkham.<br/><br/>This film is one of the best Batman movies since The Dark Knight.  It provides action, mystery, a few jump-scares, and intensely emotional moments.  This movie assumes you know Batman's backstory.  While the story and acting were impressive, the running time made the movie drag.  Don't be surprised if you wonder 'is this the end' several times.  The end credits will tempt you to stay, but there are zero spoilers.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thebatman.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thebatman.jpeg"
+    }
+  }
+
+  {
+    "option":"2",
+    "mtitle":"Uncharted",
+    "review":"Fifteen years ago, Nate and his brother, Sam, tried to steal Magellan's map.  It was the first map of the world with a secret to where Magellan and his crew hid billions in gold.  A security guard catches them and turns them over to the nuns at the orphanage.  This is Sam's third strike, and he must leave the orphanage to meet with a judge.  Sam goes upstairs to get his things, and Nate follows.  Nate sees Sam about to escape, and Nate begs him not to leave him.  Sam gives Nate a ring, a lighter, a letter, and a promise to return.<br/><br/>Today, Nate is a bartender with a lot of historical knowledge and sticky fingers.  He lifts a bracelet from a customer when a man, Sully, gives him praise.  Nate refuses to work with Sully, and Sully leaves.  Nate checks his pockets, and Sully's business card is in the bracelet's place.  Nate breaks into Sully's home and finds Sully waiting for him.  Sully notices that Nate stopped at the map on the wall before looking for the bracelet.  Then, Sully tells Nate the map is authentic, like the treasure.  To get it, they need two crosses because they're the key.  Sully already has one, but the other will be in an auction.  Nate doesn't want to be a part of the plan, but Sully mentions Sam.  Sully thinks that finding the treasure will lead to Sam.  Nate will quickly learn that there is no honor among thieves.<br/><br/>Based on Uncharted for Playstation, this movie is how game adaptations should be from this point forward.  It was funny, captivating, and suspenseful.  This film was Indiana Jones and National Treasure with a bit of Goonies.  It's no surprise that the mid-credits scene gives sequel hints.  Some action sequences feel like watching a high-resolution video game.  The film never gets slow or bogged down with unnecessary love stories.  Enjoy this adaption on the big screen for maximum viewing pleasure.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/uncharted.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/uncharted.jpeg"
+    }
+  }
 
   {
     "option":"2",
@@ -86,16 +106,6 @@ module.exports = mustBuy;
 			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/coming2america.jpeg"
 		}
 	}
-
-  {
-    "option":"1",
-    "mtitle":"Disney's Encanto",
-    "review":"While running from war with triplets, Pedro stopped, kissed his wife, Alma, and headed towards the soldiers.  He sacrificed himself for his family.  Alma fell to the ground in tears.  Then her candle started to glow, and mountains grew around her.  And from nowhere, a house, Casita, formed out of thin air with magic.  However, it wasn't the only magical entity.  When each family member came of age, they would touch the candle, and their door would reveal their gift.  Mirabel is a decedant of one of the triplets.  Unlike her family, she did not get a gift.  Now, the townspeople and the family worry that the same thing will happen to Mirabel's cousin, Antonio.  The entire community watches the ceremony, but Antonio wants Mirabel by his side.  Antonio touches the door and gets the ability to talk to animals.  The town celebrates, and Mirabel walks around thinking about her purpose.  Then she sees the house starting to crack, and the candle's flame almost extinguished.  Mirabel runs to tell the family, but they see nothing and blame it on jealousy.  After talking to several family members, she learns that her estranged uncle Bruno, gifted with premonitions, had a vision of the family losing the magic but never finished his vision.  Mirabel decides to go through Bruno's door and complete his premonition to save her Casita, her family, and the entire town.<br/><br/>This movie doesn't just point out Mirabel's struggles; it allows her and the audience to see that each of her family members has their struggles too. If you ever feel unimportant or under immense pressure, this movie will speak to you and bring a tear to your eye.  With stunning visual effects, this film will engross your whole family.  And be prepared to dance in your seat.  Be aware this movie isn't about good guys versus bad guys.  It's about the struggle we all face within.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/disneyencanto.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/disneyencanto.jpeg"
-    }
-  }
 
   {
     "option":"1",
