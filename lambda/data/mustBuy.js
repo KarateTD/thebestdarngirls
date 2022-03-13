@@ -78,6 +78,16 @@ module.exports = mustBuy;
 
   {
     "option":"2",
+    "mtitle":"West Side Story",
+    "review":"West Side Story was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/westsidestory.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/westsidestory.jpeg"
+    }
+  }
+
+  {
+    "option":"2",
     "mtitle":"The Way I See It",
     "review":"The Way I See It was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.",
     "image":{
@@ -125,5 +135,15 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deathonthenile.jpeg"
     }
   }
+
+  {
+		"option":"1",
+		"mtitle":"Turning Red",
+		"review":"Meilin Lee is an intelligent and spirited 13-year-old who is ready to make her mark on the world.  Just don't tell her mother, Ming. Ming believes that Mei's number one priority is family, and she will be the U.N. Secretary-General.  Every day, Mei and Ming honor their eldest ancestor, Sun Yee, the guardian of the Red Panda, and receive prosperity.<br/><br/>After school, Mei's friends, Priya, Miriam, and Abby, ogle the convenience store clerk, Devon.  Mei doesn't think Devon holds a candle to any member of their favorite boy band, 4*Town.  Mei studies after work and doodles.  She notices her doodles look like Devon and obsessively draws romantic scenes with him.  Mei hears Ming at the door and pushes the notebook under her bed.  But Ming finds it and believes Devon accosted Mei.  Ming shows Mei's drawings to Devon and admonishes him for hurting Mei.  Thoroughly embarrassed but quiet, Mei returns home.<br/><br/>After a restless and nightmare-filled night, Mei wakes up, goes to the bathroom, and looks in the mirror.  She finds a giant red panda staring back at her.  Mei calms herself and changes back to her human form, except now Mei has red hair.  She realizes that she must keep calm to stop the change and goes to school with a hat to avoid Ming.<br/><br/>After passing notes, Miriam warns Mei that Ming is outside.  Mei freaks out when she sees Ming with feminine hygiene products, and the panda comes out.  She escapes through the window and runs home.  Ming meets Mei at home and comforts Mei, and Jin says he can't believe it happened so early.  Ming explains that the Red Panda gene passes from mother to daughter.  It started with Sun Yee.  While men fought in a war, the women, children, and the village were unprotected.  So Sun Yee asks the Gods to give her the power to defend the town and its inhabitants.  But there is a cure.  At the next red moon, Ming can perform a ritual to remove the panda from Mei.  The red moon will be on May 25th.<br/><br/>Concerned and with 4*Town news, Mei's friends come by her window to visit.  They tell her 4*Town is coming to Toronto on May 18th.  She unknowingly changes to the panda and pokes her head out the window.  Her friends are happy with her transformation and want to know more.  They all want to go to the concert, but it will cost $200 each and Mei must keep calm.  Mei thinks she can keep it under control with her friends around.  However, that hope is short-lived when a student bullies Mei.  Soon the whole school knows about the panda, but they want to pay for more.  Mei thinks she has everything figured out.  But when Mei has to choose between her friends' happiness or her family duties, her choice will unleash her family's true legacy.<br/><br/>Pixar keeps creating new and complex characters with real-world issues that ground them alongside mystical origins.  Her friends have distinct and loving personalities.  When they discover the truth, they don't shun her.  They embrace her and help Mei find inner peace.  The mix between traditional art, in the storytelling portions, and modern art is effortless.  Don't be so quick to judge.  The film appears to treat Ming as the antagonist, but the plot gets to the heart of her issues and controlling nature.  Now, this movie starts slow because you are anticipating the transformation.  But, the beginning is critical to understand the relationship between Mei, her family, and friends.  So be patient.  And let's not forget the hilarious post-credit scene.<br/><br/>4.5 out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/turningred.jpeg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/turningred.jpeg"
+		}
+	}
 
 */
