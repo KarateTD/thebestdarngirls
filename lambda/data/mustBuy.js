@@ -1,6 +1,15 @@
 var mustBuy = [
   {
-    "option": "1",
+    "option":"1",
+    "mtitle":"West Side Story",
+    "review":"West Side Story was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/westsidestory.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/westsidestory.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "The Matrix Resurrections",
     "review": "Thomas sits at his desk creating a video game named Binary when he gets a warning that a hacker purged the Modal 101 file.  While Thomas looks into the hack, Jude tells him their boss, Smith, wants to see him.  Their parent company, Warner Brothers, wants to make a sequel to his trilogy game, The Matrix.  And they will make it with or without Thomas.  Thomas starts to panic because he had a mental breakdown after creating the game.  He couldn't discern reality from dreams.  Now, Thomas sees a therapist to maintain his mental state.<br/><br/>Thomas goes to a coffee shop with co-worker Jude, and Jude forces Thomas to talk to a woman he fixates on every day.  The woman is Tiffany, and she is married with two sons.  Later, they see each other and question him about his game.  She thinks a character, Trinity, looks like her.  Thomas goes back to his office, and an alarm forces an evacuation.  Before Thomas leaves the building, he gets a text message to go to the bathroom.  A man walks out of the stall and introduces himself as Morpheus, and Thomas panics.  Thomas runs to his therapists to handle reality but ends up on top of the roof.  He attempts to jump off and fly when Bugs grabs him.  She tells him the Matrix is real and shows her bunny tattoo.  Her world knows him as the one Neo, and he follows her into the Matrix.<br/><br/>The fourth installment of the trilogy has all the effects and wild storylines from its predecessor.  It shows clips of the past for people new to the series.  But, there are phrases, jokes, and other nuances you won't understand without seeing the other films.  While it created an end to the trilogy, it left the door open for something new for the next generation.<br/><br/>4 out of 5 stars.",
     "image": {
@@ -9,7 +18,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"A Journal for Jordan",
     "review":"Dana visits her father for his birthday and walks in to find a stranger.  He introduces himself as 1st Sergeant Charles Monroe King.  Charles tells Dana that her father is on the back porch, and he was hanging a picture that he painted.  Soon they are talking on the phone every day. When Charles gets some leave, he visits Dana in New York.  Then, September 11th brought reality to their relationship.  While Charles is at the range, Dana tells him that she wants to start a family.  He one-ups her and asks to get married, and she says yes.  Soon Dana is pregnant, but he has his orders.  So Dana gives Charles a journal filled with questions for a father to answer for his child.  Years later, Dana will use that journal to guide her son, Jordan, through difficult moments of his life, like dealing with Charles's death.<br/><br/>Based on A Journal for Jordan: A Story of Love and Honor by Dana Canedy, this film is a heartfelt love letter to Jordan about his parents.  Although he doesn't remember his father, Jordan can read the love Charles held in his heart.  Because this movie doesn't have a linear timeline, you can't be late.  The film starts with the spark that made Dana write the book.  While their love was short, their words will exist forever.  FYI, this movie is for adults.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var mustBuy = [
     }
   },
   {
-		"option":"3",
+		"option":"4",
 		"mtitle":"Coming 2 America",
 		"review":"It's been 30 years since Prince Akeem went to America and defied his father and tradition to find true love with his Princess, Lisa.  Now, Akeem and Lisa have three daughters: Meeka, Omma, and Tinashe.  While Akeem loves his daughters, his father, King Jaffe, reminds him only a male can be heir to the throne.  General Izzi of Nextdoria is furious with Akeem because Akeem didn't marry his sister Imani.  Izzi wants Meeka to marry his son to restore the bond between the two countries.  Before Akeem can speak, King Jaffe calls Akeem to his sickbed.  A shaman saw a vision of Akeem's first-born, only son living in Queens.  Jaffe tells Akeem to go to Queens and get his son.  Then have his son marry Izzi's only daughter, Bopoto.  Their family would still rule Zamunda, and Nextdoria's tradelines will open.  Semmi and Akeem travel to Queens and notice the changes to the neighborhood instantly.  They go to the local barbershop and show the shaman's drawing of Akeem's son, and the shop owners recognize the boy as Lavelle Junson and give Lavelle's location.  After talking to Lavelle, Lavelle brings Akeem and Semmi to meet his family, including his mother, Mary.  Lavelle doesn't want to go to Zamunda until he sees the gold bricks Semmi possesses.  Lavelle agrees to go, but only if Mary can go too.  Lavelle can't wait to be a prince.  But when this prince feels like a diplomatic pawn, will he fall in line or blaze his father's path?<br/><br/>The sequel to Coming to America has the laughs and lessons from the first movie.  A very memorable moment is King Jaffe's funeral.  Not because he died but because he decided to do it while he was still alive.  He had Gladys Knight, En Vogue, and Salt-N-Pepa perform with a eulogy from Morgan Freeman.  And the movie teaches the same lesson: the king has a lot to learn from his prince.  Seeing a prince follow his heart makes you fall in love with the movie again.<br/><br/>4 out of 5 stars.",
 		"image":{
@@ -27,21 +36,12 @@ var mustBuy = [
 		}
 	},
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"Disney's Encanto",
     "review":"While running from war with triplets, Pedro stopped, kissed his wife, Alma, and headed towards the soldiers.  He sacrificed himself for his family.  Alma fell to the ground in tears.  Then her candle started to glow, and mountains grew around her.  And from nowhere, a house, Casita, formed out of thin air with magic.  However, it wasn't the only magical entity.  When each family member came of age, they would touch the candle, and their door would reveal their gift.  Mirabel is a decedant of one of the triplets.  Unlike her family, she did not get a gift.  Now, the townspeople and the family worry that the same thing will happen to Mirabel's cousin, Antonio.  The entire community watches the ceremony, but Antonio wants Mirabel by his side.  Antonio touches the door and gets the ability to talk to animals.  The town celebrates, and Mirabel walks around thinking about her purpose.  Then she sees the house starting to crack, and the candle's flame almost extinguished.  Mirabel runs to tell the family, but they see nothing and blame it on jealousy.  After talking to several family members, she learns that her estranged uncle Bruno, gifted with premonitions, had a vision of the family losing the magic but never finished his vision.  Mirabel decides to go through Bruno's door and complete his premonition to save her Casita, her family, and the entire town.<br/><br/>This movie doesn't just point out Mirabel's struggles; it allows her and the audience to see that each of her family members has their struggles too. If you ever feel unimportant or under immense pressure, this movie will speak to you and bring a tear to your eye.  With stunning visual effects, this film will engross your whole family.  And be prepared to dance in your seat.  Be aware this movie isn't about good guys versus bad guys.  It's about the struggle we all face within.<br/><br/>4.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/disneyencanto.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/disneyencanto.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"King Richard",
-    "review":"While Venus and Serena Williams study and practice, their father, Richard, passes out brochures to everyone at the local country club.  Before Venus and Serena's birth, Richard wrote a detailed plan for their tennis career.  While he believes in his daughters, Richard can't get someone to coach the girls for free.  With his brochure getting little traction, Richard packs up Venus and Serena and drives them to see Paul Cohen.  Richard talks Paul into watching the girls hit a few balls, and Paul is impressed.  But he tells Richard that he can only coach Venus for the junior tournaments.  This moment is the first time something hasn't gone according to the plan.  Now, Richard has to make a lasting decision that will affect Venus and Serena's lives forever.  Heavy is the head that wears the crown.<br/><br/>King Richard tells the story of a complicated man in a battle with himself and the world for what he pre-ordained.  At the moment, it's hard to understand if Richard is doing this for pride or love.  Often, Brandy calls him out on his pride privately.  Although he is instrumental in the girls' success, as Richard steps back, the girls fly.  Sit back and watch history in the making.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kingrichard.jpeg",
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kingrichard.jpeg"
     }
   }
 ];
@@ -73,16 +73,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/uncharted.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/uncharted.jpeg"
-    }
-  }
-
-  {
-    "option":"2",
-    "mtitle":"West Side Story",
-    "review":"West Side Story was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/westsidestory.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/westsidestory.jpeg"
     }
   }
 
