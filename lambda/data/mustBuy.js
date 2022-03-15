@@ -2,7 +2,7 @@ var mustBuy = [
   {
     "option":"1",
     "mtitle":"West Side Story",
-    "review":"West Side Story was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.",
+    "review":"West Side Story was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/westsidestory.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/westsidestory.jpeg"
@@ -20,10 +20,10 @@ var mustBuy = [
   {
     "option":"3",
     "mtitle":"A Journal for Jordan",
-    "review":"Dana visits her father for his birthday and walks in to find a stranger.  He introduces himself as 1st Sergeant Charles Monroe King.  Charles tells Dana that her father is on the back porch, and he was hanging a picture that he painted.  Soon they are talking on the phone every day. When Charles gets some leave, he visits Dana in New York.  Then, September 11th brought reality to their relationship.  While Charles is at the range, Dana tells him that she wants to start a family.  He one-ups her and asks to get married, and she says yes.  Soon Dana is pregnant, but he has his orders.  So Dana gives Charles a journal filled with questions for a father to answer for his child.  Years later, Dana will use that journal to guide her son, Jordan, through difficult moments of his life, like dealing with Charles's death.<br/><br/>Based on A Journal for Jordan: A Story of Love and Honor by Dana Canedy, this film is a heartfelt love letter to Jordan about his parents.  Although he doesn't remember his father, Jordan can read the love Charles held in his heart.  Because this movie doesn't have a linear timeline, you can't be late.  The film starts with the spark that made Dana write the book.  While their love was short, their words will exist forever.  FYI, this movie is for adults.<br/><br/>4.5 out of 5 stars.",
+    "review":"A Journal for Jordan was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ajournalforjordan.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ajournalforjordan.jpeg"
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ajournalforjordan.jpeg",
     }
   },
   {
