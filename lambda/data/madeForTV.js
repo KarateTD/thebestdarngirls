@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"The Lost Girls",
+    "review":"Angie sits at home with her little sister, Maddie, and waits for their parents.  Once again they are late, so Angie has to miss the party.  The next day, Angie walks with Maddie.  Maddie says she wants ice cream, so Angie pulls out her ukelele and sings for money.  Mario walks up to her and requests a song for $5.  When Mario spots Angie in the park again, he tells her he has an uncle that hires singers.<br/><br/>After her school recital, Angie's parents forget to attend or pick her up.  So Angie calls Mario.  Mario tells Angie he will take her home, but his uncle resides down the street and wants to hear her sing.  Angie walks into a room with Deacon and Ida .  Ida puts some makeup on Angie to add a pop of color, and Deacon walks her to the back.  As Angie starts to play for Rob, Deacon turns on a camera and leaves the room.  Rob gets up and sexually assaults Angie.  When Angie wakes up, Ida names her Angel and threatens to expose her assault if Angie tries to leave.  Angie is a victim of human trafficking, and escaping will only be 10% of the battle.<br/><br/>For survivors, some scenes can be triggering.  This movie stands out because it doesn't give a flowering end to escaping this modern-day slavery.  You witness survivors struggling with reconnecting with family, working with the police, and finding their voice.  And with physical or mental threats, some go back to their captors.  This movie is honest because everyone doesn't have a happy, clean-cut ending.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thelostgirls.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thelostgirls.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Don't Hang Up",
+    "review":"Tracy reminds her husband, Chris, that their daughter, Sarah, will attend a spiritual retreat.  The next day, Chris finishes his lecture on mouth breeders and gets in his car.  He gets a call from an unknown number and ignores it.  But he picks it up the second time.  The caller tells Chris that they have his daughter.  Chris must pay $10,000 to get Sarah back unharmed.  If Chris alerts anyone or hangs up, they will kill Sarah.  Over the next 24 hours, Chris will go to hell and back for Sarah while trying to keep Tracy in the dark.<br/><br/>This movie shines a light on a dark phenomenon that has gained momentum over the years.  This crime happens because so much information is readily available with a mouse click.  While it's easy to play armchair detective while watching, being in this situation in real-time is different.  This film may seem outlandish, but it happens to people every day.  So don't disregard the fear and panic Chris emotes on the screen.  Watch this movie and make a plan with your family.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/donthangup.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/donthangup.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"The Wedding Fix",
+    "review":"Gwen co-hosts Wake Up Washington.  And during the week-long wedding segment, Gwen's producer, Miranda, hands her a bouquet.  Upon closer inspection, Gwen sees a ring attached to it.  Gwen's co-hosts signals for Gwen's boyfriend, Brad, to step up and propose, but he is too busy on the phone.  He got traded and wants to change his plans.  The changes don't include Gwen or the proposal.<br/><br/>The next day, Miranda pulls Gwen into her office.  A jogger filmed the breakup and posted it online.  It has thousands of views in a few hours, and Gwen feels humiliated on top of being heartbroken.  Miranda knows Gwen scheduled a week off to help with the wedding of her best friend, Rachel.  Miranda tells Gwen to leave early and take time to heal.<br/><br/>Gwen arrives at a town known as Weddingsville, gives her keys to the valet, and talks to the concierge.  He tells her the hotel has no vacancies and can't let her check in two days early.  So, Gwen tells him to have the valet bring her car around.  Confused, the concierge tells Gwen the hotel doesn't have a valet.  She runs outside to see Josh exiting her vehicle.  Josh is the tour guide, but he took her keys and parked her car to be kind.  Rachel invites Gwen to stay at her mother's home.  Rachel's mother, Diane, is happy to have help.  Diane tells Gwen she won't do it alone.  Some of the work is a two-person job.  Rachel's fiancé, Pete, asked his best man, Josh, to lend Gwen a hand.  They joke about knowing each other and get started on the list.  While on a path to love, they will find their dreams and learn from each other.  But will Gwen's plus one leave Josh in the dust?<br/><br/>This movie offers a surprise wedding, maritime law, and a final to-do list for the ages.  The romance isn't what viewers will focus on when watching.  You want to see how Diane, Josh, and Gwen will overcome hurdles for Rachel and Pete's wedding.  Between broken legs, quintets, and peacocks, anything will happen.  Come for the romance and stay for the wedding plan flubs.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingfix.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theweddingfix.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Your Boyfriend is Mine",
+    "review":"Ben works at an animal shelter by day and a gentleman service by night.  At his second job, women know him as Lance, the boyfriend for hire.  A bachelorette party hired Ben and his friend, Harrison, to mingle, dance, and be eye candy.  Ben sits down with a woman named Amanda, and they talk all night.  Ben leaves, but Amanda wants to see him again and proves it with a 1000 dollar tip.<br/><br/>Amanda meets with her brother, Walker, and asks him to collect information about Lance.  She pretends to bump into Ben and calls him Lance.  Amanda offers Ben a job as her house manager because he knew what she wanted when they met the first time.  The job pays $100,000, but Callie worries Amanda wants more.  Ben tells her the gentleman rules still apply, and he will be on the lookout for any odd behavior.<br/><br/>Ben shows up at Amanda's home early and is ready to work.  Amanda tries to get Ben to rub her feet, but Ben declines and goes home to Callie.  When they get comfortable in bed, Ben receives a phone call from Amanda.  Someone attempted to break into her home, and she doesn't feel safe alone.  She begs Ben to come over, and he does.  Amanda convinces Ben to remain until she gets a security system installed.  But she paid the installer to work slowly.  Ben has no idea he is in a black widow's web.  And she will do anything to anyone to make Ben her boyfriend.<br/><br/>This woman is brilliant, manipulative, and crazy.  Amanda can spot a weakness and use it to further her agenda.  She shackles, attacks, and drugs Ben to take him from Callie.  And when that's not enough, Amanda threatens Callie and Harrison's life in real-time.  Be ready to sit on the edge of your seat and talk to the screen.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/yourboyfriendismine.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/yourboyfriendismine.jpeg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"Sins in the Suburbs",
     "review":"Heather calls Jess with a smile because she got the painting restoration job and $5,000.  Jess demands a celebration, and they go to a local bar.  They have a few drinks, and Heather walks up to the bartender, Marisol, for another round.  Heather never saw Tyler sitting at the bar, but Marisol thinks she remembers him from her past.<br/><br/>As Heather restores the painting, she sees her new neighbor, Tyler.  He comes over to ask for a glass of water because his system is not on.  Jess comes in and invites Tyler to brunch with them.  Things are going great until Marisol calls Tyler Robert. Marisol is an inconvenient hurdle in Tyler's plan to win Heather's affection.  Tyler will deal with Marisol or anyone else that gets in his way.<br/><br/>Tyler has some decent plans, but they are not well thought out.  This movie has cringe-worthy moments but in a good way.  You are supposed to cringe, cover your eyes, or gasp in horror.  And let's not forget Jess's funny one-liners.  By the way, you get a shovel.<br/><br/>4 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sinsinthesuburbs.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sinsinthesuburbs.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Drowning in Secrets",
-    "review":"Misha got a promotion and feels giddy.  Then, Misha's mother, Emma, calls with terrible news.  Misha's sister, Maya, is missing.  Misha doesn't believe it because Maya is an excellent swimmer.  Misha leaves for some fresh air, and Peyton, Maya's boyfriend, startles her.  Misha tells Detective Tom that Maya left a message last week, and Maya said she was in trouble and needed help.  After everyone leaves, Misha and Emma turn in for the night. Misha goes downstairs for water and sees someone in the house.  The masked figure runs out, and Misha calls Tom.  Tom blames it on a rash of break-ins and leaves.  Misha walks in to see Peyton's dad, Caleb, being extremely friendly with Emma.  They admit they have been dating for a year.<br/><br/>Later, Misha meets with Peyton, and he tells Misha that he thinks Maya had an affair with her boss, Mayor Peter.  Misha declares to find out what happened to Maya and why.  But Misha refuses to acknowledge that Maya drowned.  Misha will discover that everyone in town has a secret they will kill to keep.<br/><br/>Unraveling the secrets will shock you, but the perpetrator will not.  Two engaging twists happen within 5 minutes of each other.  And they save the film from being a typical Lifetime movie.  If you like to see juicy secrets exposed, get your tea ready.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/drowninginsecrets.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/drowninginsecrets.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"A Gift of Murder",
-    "review":"Dylan gets in her mom's car and braces herself.  Her mother, Cindy, lost her job and boyfriend on the same day.  Cindy starts to doze off while driving, and they get in an accident.  Both are ok, but Cindy admits she has a problem with prescription medication.  While Cindy goes to rehab, Dylan's aunt and uncle, Shannon and Scott, will care for her.<br/><br/>Shannon and Scott get Dylan comfortable and tell her they will throw a Sweet 16.  At school, Julia approaches Dylan and shows Dylan around campus.  In chemistry class, Dylan answers a question right.  And it angers Tiffany.  Then, Tiffany's boyfriend, Jonah, asks Dylan to tryout for the track team.  To help put school issues behind her, Shannon takes Dylan and her old friend to see a local venue, Hartcourt Manor.  Dylan is in awe of the location, and Shannon makes the reservation for May 16th.<br/><br/>Tiffany's mother, Gloria, tells Tiffany that she couldn't book the Hartcourt.  Tiffany rages at Gloria and demands she fix it.  Gloria says she can't because a girl name Dylan got it.  This incident is Tiffany's last straw.  She vows to destroy Dylan's reputation, family, and education.<br/><br/>No one is murdered throughout this movie, so the title feels misleading.  Tiffany's entitled, disrespectful ways may have you reaching for the remote.  Also, the conclusion is anti-climatic.  With so much drama throughout the plot, you expect more from the ending: a fight, shoot-out, or standoff.  The resolution needed something more.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/agiftofmurder.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/agiftofmurder.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"The Presence of Love",
-    "review":"Jocelyn finishes her discussion with a student as Dean Robyn walks into the office.  Jocelyn hopes her time as the acting professor will put her in the good graces of the tenure committee.  Robyn tells Jocelyn that the committee returned her paper because she didn't have any unique discoveries about Samuel Taylor Coleridge.  Robyn gives Jocelyn two weeks to resubmit her paper and leaves.<br/><br/>Hearing the update, Jocelyn's friend, Gwen, sits Jocelyn down.  Before Jocelyn's mom, Carol, died, she left Jocelyn a gift, an all-expense-paid trip to England with a ticket to the literary festival.  Jocelyn can't fathom dropping everything and leaving, but Gwen won't take no for an answer.<br/><br/>In England, Daniel meets with turbine contractor Felix without consulting his mother, Merryn.  She approved Daniel's proposal to add a B and B, but changing the landscape is a step too far.  Also, he needs a farmhand but can't afford it.  His daughter, Tegan, resides their and loves to draw.<br/><br/>Jocelyn arrives and sees a woman that looks like Carol.  She walks into the street, and Daniel stops her from walking into an oncoming car.  When settled in, she tries to write her paper.  But, she focuses on Daniel and Merryn's strife and Tegan's struggles.  Daniel and Merryn think Jocelyn should not interfere in their matters.  So, Jocelyn makes Daniel a happy distraction.  That distraction is the first step in their romance.<br/><br/>Viewers will witness a well-acted love story, but it won't be your focus.  It's the connection each of them shares with Tegan.  As they come together for Tegan, the presence of love will overcome you.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thepresenceoflove.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thepresenceoflove.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Cheating for Your Life",
-    "review":"Kayley, her best friend, Monica, and her boyfriend, Jackson, study hard for the SAT.  Kayley checks social media and sees her old friend, Clea, with the rich kids, including Sebastian and Millie.<br/><br/>After the SAT, the proctor runs after Kayley to return her phone.  Then, Kayley sees the proctor talking to someone in a black SUV for a long time.  It seemed a bit suspicious, but Kayley forgets it.  Two weeks later, everyone gets their scores.  Kayley got 12 80, but Clea and her friends scored above 14 hundred.  Kayley and Monica attend Millie's celebration party, and Kayley sees Millie and Clea arguing.  Kayley walks over to comfort Clea, but Clea yells at Kayley.  Later, Kayley and Monica prepare to leave, but they can't find Clea.  They discover Clea dead below the balcony.  The police think Clea had a drunken fall, but Kayley tells them Clea had an alcohol allergy.  The police confirm Kayley's information and rule Clea's death a murder.<br/><br/>Kayley sees the list of students who scored over 14 hundred.  Millie, Clea, and Sebastian are on it, along with eight other students.  She goes through the list with Monica and Jackson.  They believe only four scores are legitimate, but everyone else cheated.  Kayley believes uncovering how they cheated will reveal who killed Clea.  Will digging into the mystery put Kayley in her grave?<br/><br/>First, Jackson is the best boyfriend ever in a Lifetime movie.  The movie gives viewers a red herring, but experienced Lifetimers can spot it before the 2nd half.  So watch for the drama but stay for Jackson.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cheatingforyourlife.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cheatingforyourlife.jpeg"
     }
   }
 ];
