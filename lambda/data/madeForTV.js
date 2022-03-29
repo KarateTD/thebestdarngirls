@@ -56,8 +56,41 @@ module.exports = madeForTV;
 
 /*
 
-
-
-
+{
+  "option":"1",
+  "mtitle":"Fallen Angels Murder Club: Friends to Die For",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fallenangelsmurderclubfriendstodiefor.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fallenangelsmurderclubfriendstodiefor.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Dangerous Methods",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangerousmethods.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangerousmethods.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"True to the Game 3",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/truetothegame3.png",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/truetothegame3.png"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"A Second Chance at Love",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asecondchancelove.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asecondchancelove.jpeg"
+  }
+}
 
 */

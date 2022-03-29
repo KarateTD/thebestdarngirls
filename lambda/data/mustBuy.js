@@ -1,6 +1,15 @@
 var mustBuy = [
   {
-    "option":"1",
+    "option": "1",
+    "mtitle": "Sing 2",
+    "review": "Buster Moon's theater is a raging success with its latest rendition of Alice in Wonderland.  During the performance, Miss Crawly watches Suki in the audience.  Suki is an agent for Crystal Entertainment.  Suki starts to leave before the second act, and Buster chases after her to find out why.  She tells Buster that the show is cute but not ready for the big leagues. Nana tells Buster that nobody can crush his dreams but him.  If he wants something, he needs to fight for it.<br/><br/>Buster comes up with a plan, but he needs one more arrow in his quiver: Ash.  Buster and his friends finagle their way onto the audition stage, but Jimmy won't let them get past their intro.  Jimmy turns to leave.  In an outburst, Gunther says something that makes Jimmy turn around.  Gunther dreamed of a sci-fi play with Clay Calloway as the star.  No one has seen Clay since his wife died. Jimmy agrees to back the show and gives Buster 3 weeks to put it together.  The star, Rosita, needs to make a big dive in her performance.  But she is afraid of heights.  During a progress check, Jimmy's daughter, Porsha, shows Rosita how to do it.  Porsha demands to be the star, and Jimmy makes Buster do it.  But Porsha can't act.  Buster's final hurdle is Clay.  Buster and Ash go to talk to him, but Clay says no.  Ash can see how much Clay is hurting.  So she tells Buster to leave, and she will continue to help Clay take the stage.  After he downgrades Porsha, can Buster pull off the show of his career?<br/><br/>The sequel to Sing has all the laughs and foot-tapping music of the first movie.  But it doesn't have the same inspiring premises as its predecessor.  Also, the funniest moments are in the trailer.  With these few negatives, the movie still entertains with current and original songs.  This sequel makes the film feel final, so it's doubtful they will create a part three.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sing2.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sing2.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"West Side Story",
     "review":"West Side Story was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
     "image":{
@@ -9,7 +18,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "The Matrix Resurrections",
     "review": "Thomas sits at his desk creating a video game named Binary when he gets a warning that a hacker purged the Modal 101 file.  While Thomas looks into the hack, Jude tells him their boss, Smith, wants to see him.  Their parent company, Warner Brothers, wants to make a sequel to his trilogy game, The Matrix.  And they will make it with or without Thomas.  Thomas starts to panic because he had a mental breakdown after creating the game.  He couldn't discern reality from dreams.  Now, Thomas sees a therapist to maintain his mental state.<br/><br/>Thomas goes to a coffee shop with co-worker Jude, and Jude forces Thomas to talk to a woman he fixates on every day.  The woman is Tiffany, and she is married with two sons.  Later, they see each other and question him about his game.  She thinks a character, Trinity, looks like her.  Thomas goes back to his office, and an alarm forces an evacuation.  Before Thomas leaves the building, he gets a text message to go to the bathroom.  A man walks out of the stall and introduces himself as Morpheus, and Thomas panics.  Thomas runs to his therapists to handle reality but ends up on top of the roof.  He attempts to jump off and fly when Bugs grabs him.  She tells him the Matrix is real and shows her bunny tattoo.  Her world knows him as the one Neo, and he follows her into the Matrix.<br/><br/>The fourth installment of the trilogy has all the effects and wild storylines from its predecessor.  It shows clips of the past for people new to the series.  But, there are phrases, jokes, and other nuances you won't understand without seeing the other films.  While it created an end to the trilogy, it left the door open for something new for the next generation.<br/><br/>4 out of 5 stars.",
     "image": {
@@ -18,7 +27,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"A Journal for Jordan",
     "review":"A Journal for Jordan was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
     "image":{
@@ -27,23 +36,14 @@ var mustBuy = [
     }
   },
   {
-		"option":"4",
+		"option":"5",
 		"mtitle":"Coming 2 America",
 		"review":"It's been 30 years since Prince Akeem went to America and defied his father and tradition to find true love with his Princess, Lisa.  Now, Akeem and Lisa have three daughters: Meeka, Omma, and Tinashe.  While Akeem loves his daughters, his father, King Jaffe, reminds him only a male can be heir to the throne.  General Izzi of Nextdoria is furious with Akeem because Akeem didn't marry his sister Imani.  Izzi wants Meeka to marry his son to restore the bond between the two countries.  Before Akeem can speak, King Jaffe calls Akeem to his sickbed.  A shaman saw a vision of Akeem's first-born, only son living in Queens.  Jaffe tells Akeem to go to Queens and get his son.  Then have his son marry Izzi's only daughter, Bopoto.  Their family would still rule Zamunda, and Nextdoria's tradelines will open.  Semmi and Akeem travel to Queens and notice the changes to the neighborhood instantly.  They go to the local barbershop and show the shaman's drawing of Akeem's son, and the shop owners recognize the boy as Lavelle Junson and give Lavelle's location.  After talking to Lavelle, Lavelle brings Akeem and Semmi to meet his family, including his mother, Mary.  Lavelle doesn't want to go to Zamunda until he sees the gold bricks Semmi possesses.  Lavelle agrees to go, but only if Mary can go too.  Lavelle can't wait to be a prince.  But when this prince feels like a diplomatic pawn, will he fall in line or blaze his father's path?<br/><br/>The sequel to Coming to America has the laughs and lessons from the first movie.  A very memorable moment is King Jaffe's funeral.  Not because he died but because he decided to do it while he was still alive.  He had Gladys Knight, En Vogue, and Salt-N-Pepa perform with a eulogy from Morgan Freeman.  And the movie teaches the same lesson: the king has a lot to learn from his prince.  Seeing a prince follow his heart makes you fall in love with the movie again.<br/><br/>4 out of 5 stars.",
 		"image":{
 			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/coming2america.jpeg",
 			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/coming2america.jpeg"
 		}
-	},
-  {
-    "option":"5",
-    "mtitle":"Disney's Encanto",
-    "review":"While running from war with triplets, Pedro stopped, kissed his wife, Alma, and headed towards the soldiers.  He sacrificed himself for his family.  Alma fell to the ground in tears.  Then her candle started to glow, and mountains grew around her.  And from nowhere, a house, Casita, formed out of thin air with magic.  However, it wasn't the only magical entity.  When each family member came of age, they would touch the candle, and their door would reveal their gift.  Mirabel is a decedant of one of the triplets.  Unlike her family, she did not get a gift.  Now, the townspeople and the family worry that the same thing will happen to Mirabel's cousin, Antonio.  The entire community watches the ceremony, but Antonio wants Mirabel by his side.  Antonio touches the door and gets the ability to talk to animals.  The town celebrates, and Mirabel walks around thinking about her purpose.  Then she sees the house starting to crack, and the candle's flame almost extinguished.  Mirabel runs to tell the family, but they see nothing and blame it on jealousy.  After talking to several family members, she learns that her estranged uncle Bruno, gifted with premonitions, had a vision of the family losing the magic but never finished his vision.  Mirabel decides to go through Bruno's door and complete his premonition to save her Casita, her family, and the entire town.<br/><br/>This movie doesn't just point out Mirabel's struggles; it allows her and the audience to see that each of her family members has their struggles too. If you ever feel unimportant or under immense pressure, this movie will speak to you and bring a tear to your eye.  With stunning visual effects, this film will engross your whole family.  And be prepared to dance in your seat.  Be aware this movie isn't about good guys versus bad guys.  It's about the struggle we all face within.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/disneyencanto.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/disneyencanto.jpeg"
-    }
-  }
+	}
 ];
 
 module.exports = mustBuy;
@@ -103,16 +103,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/spidermannowayhome.png",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/spidermannowayhome.png"
-    }
-  }
-
-  {
-    "option": "4",
-    "mtitle": "Sing 2",
-    "review": "Buster Moon's theater is a raging success with its latest rendition of Alice in Wonderland.  During the performance, Miss Crawly watches Suki in the audience.  Suki is an agent for Crystal Entertainment.  Suki starts to leave before the second act, and Buster chases after her to find out why.  She tells Buster that the show is cute but not ready for the big leagues. Nana tells Buster that nobody can crush his dreams but him.  If he wants something, he needs to fight for it.<br/><br/>Buster comes up with a plan, but he needs one more arrow in his quiver: Ash.  Buster and his friends finagle their way onto the audition stage, but Jimmy won't let them get past their intro.  Jimmy turns to leave.  In an outburst, Gunther says something that makes Jimmy turn around.  Gunther dreamed of a sci-fi play with Clay Calloway as the star.  No one has seen Clay since his wife died. Jimmy agrees to back the show and gives Buster 3 weeks to put it together.  The star, Rosita, needs to make a big dive in her performance.  But she is afraid of heights.  During a progress check, Jimmy's daughter, Porsha, shows Rosita how to do it.  Porsha demands to be the star, and Jimmy makes Buster do it.  But Porsha can't act.  Buster's final hurdle is Clay.  Buster and Ash go to talk to him, but Clay says no.  Ash can see how much Clay is hurting.  So she tells Buster to leave, and she will continue to help Clay take the stage.  After he downgrades Porsha, can Buster pull off the show of his career?<br/><br/>The sequel to Sing has all the laughs and foot-tapping music of the first movie.  But it doesn't have the same inspiring premises as its predecessor.  Also, the funniest moments are in the trailer.  With these few negatives, the movie still entertains with current and original songs.  This sequel makes the film feel final, so it's doubtful they will create a part three.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sing2.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sing2.jpeg"
     }
   }
 
