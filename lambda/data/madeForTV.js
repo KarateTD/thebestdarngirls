@@ -56,6 +56,50 @@ module.exports = madeForTV;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Fallen Angels Murder Club: Heroes and Felons",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fallenangelsmurderclubheroesandfelons.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fallenangelsmurderclubheroesandfelons.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Nightmare Neighborhood Moms",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nightmareneighborhoodmoms.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nightmareneighborhoodmoms.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Always Amore",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/alwaysamore.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alwaysamore.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Run the Race",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/runtherace.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/runtherace.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Fatal Fandom",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fatalfandom.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fatalfandom.jpeg"
+  }
+}
 
 */
