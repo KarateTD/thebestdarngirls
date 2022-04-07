@@ -79,7 +79,7 @@ module.exports = mustBuy;
   {
     "option":"2",
     "mtitle":"The Way I See It",
-    "review":"The Way I See It was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.",
+    "review":"The Way I See It was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewayiseeit.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewayiseeit.jpg"
@@ -107,16 +107,6 @@ module.exports = mustBuy;
   }
 
   {
-    "option":"1",
-    "mtitle":"Death on the Nile",
-    "review":"Hercule Poirot sits at a jazz club and watches a love story develop.  Jacqueline introduces her fiancé, Simon, to her friend, Linnet.  To celebrate, Jacqueline asks Simon to dance with Linnet.  Later, Hercule tries to enjoy dessert in front of a sphinx.  Then he sees a man flying a kite from the middle of the pyramid.  Hercule runs to the man to admonish him but stops when Hercule sees it's Bouc.  Bouc takes Hercule to meet his mother, Euphemia, and they invite Hercule to a wedding party.<br/><br/>At the party, Hercule sees Simon with his new bride, Linnet.  Stunning Linnet wears a 2 million dollar Tiffany necklace and a smile for her guests.  But a hush falls over the crowd when Jacqueline walks into the room.  During each leg of their trip, she appears unwanted to spoil their fun.  At the market, Hercule spots Jacqueline and attempts to plead to her better nature.  Jacqueline tells Hercule that she will never give up, and she has the perfect thing to fix a broken heart: a 22.  Hercule tells Simon and Linnet that they should end their trip, go home, and stay on the property until Jacqueline calms down.  But Simon refuses to let Jacqueline ruin their vacation, and he decides to gain distance by renting a ship, The Karnak, to travel the Nile.  And they invite Hercule to come aboard.<br/><br/>They travel to the rock temples at Abu Simbel, and Simon grabs Linnet for some alone time.  Then a rock comes close to killing the couple, but Hercule doesn't think it is an accident caused by the sand storm.  They board the boat in fear and find a shock.  Jacqueline awaits their return.  After night falls, Linnet takes a pill and resigns to her room.  Simon grows tired of Jacqueline's actions and makes his feelings known.  Jacqueline grabs her gun and shoots Simon in the leg.  Others pull them apart and Linnet's school friend, Rosalie, kicks the gun under the couch.  Linnet's ex-fiancé, Dr. Linus, tends to Simon's leg, and Linnet's godmother's nurse, Mrs. Bowers, calms Jacqueline down with morphine.<br/><br/>In the morning, Linnet's maid, Louise, finds Linnet dead with a gunshot to the head and her necklace missing.  At first, everyone blames Jacqueline, but Mrs. Bowers says she never left Jacqueline's side.  Hercule swears to find the killer before they hit land.<br/><br/>Based on Death on the Nile: A Hercule Poirot Mystery by Agatha Christie, this movie doesn't pick up exactly where the first one left off, but it does bring the films together.  You must watch from the beginning because the writer explains Hercule's famous mustache and wartorn start.  Within 30 minutes, the plot introduces all the characters and their connection to Linnet.  This chapter in the Hercule series is better than the first and will make you want more.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deathonthenile.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deathonthenile.jpeg"
-    }
-  }
-
-  {
 		"option":"1",
 		"mtitle":"Turning Red",
 		"review":"Meilin Lee is an intelligent and spirited 13-year-old who is ready to make her mark on the world.  Just don't tell her mother, Ming. Ming believes that Mei's number one priority is family, and she will be the U.N. Secretary-General.  Every day, Mei and Ming honor their eldest ancestor, Sun Yee, the guardian of the Red Panda, and receive prosperity.<br/><br/>After school, Mei's friends, Priya, Miriam, and Abby, ogle the convenience store clerk, Devon.  Mei doesn't think Devon holds a candle to any member of their favorite boy band, 4*Town.  Mei studies after work and doodles.  She notices her doodles look like Devon and obsessively draws romantic scenes with him.  Mei hears Ming at the door and pushes the notebook under her bed.  But Ming finds it and believes Devon accosted Mei.  Ming shows Mei's drawings to Devon and admonishes him for hurting Mei.  Thoroughly embarrassed but quiet, Mei returns home.<br/><br/>After a restless and nightmare-filled night, Mei wakes up, goes to the bathroom, and looks in the mirror.  She finds a giant red panda staring back at her.  Mei calms herself and changes back to her human form, except now Mei has red hair.  She realizes that she must keep calm to stop the change and goes to school with a hat to avoid Ming.<br/><br/>After passing notes, Miriam warns Mei that Ming is outside.  Mei freaks out when she sees Ming with feminine hygiene products, and the panda comes out.  She escapes through the window and runs home.  Ming meets Mei at home and comforts Mei, and Jin says he can't believe it happened so early.  Ming explains that the Red Panda gene passes from mother to daughter.  It started with Sun Yee.  While men fought in a war, the women, children, and the village were unprotected.  So Sun Yee asks the Gods to give her the power to defend the town and its inhabitants.  But there is a cure.  At the next red moon, Ming can perform a ritual to remove the panda from Mei.  The red moon will be on May 25th.<br/><br/>Concerned and with 4*Town news, Mei's friends come by her window to visit.  They tell her 4*Town is coming to Toronto on May 18th.  She unknowingly changes to the panda and pokes her head out the window.  Her friends are happy with her transformation and want to know more.  They all want to go to the concert, but it will cost $200 each and Mei must keep calm.  Mei thinks she can keep it under control with her friends around.  However, that hope is short-lived when a student bullies Mei.  Soon the whole school knows about the panda, but they want to pay for more.  Mei thinks she has everything figured out.  But when Mei has to choose between her friends' happiness or her family duties, her choice will unleash her family's true legacy.<br/><br/>Pixar keeps creating new and complex characters with real-world issues that ground them alongside mystical origins.  Her friends have distinct and loving personalities.  When they discover the truth, they don't shun her.  They embrace her and help Mei find inner peace.  The mix between traditional art, in the storytelling portions, and modern art is effortless.  Don't be so quick to judge.  The film appears to treat Ming as the antagonist, but the plot gets to the heart of her issues and controlling nature.  Now, this movie starts slow because you are anticipating the transformation.  But, the beginning is critical to understand the relationship between Mei, her family, and friends.  So be patient.  And let's not forget the hilarious post-credit scene.<br/><br/>4.5 out of 5 stars.",
@@ -125,5 +115,15 @@ module.exports = mustBuy;
 			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/turningred.jpeg"
 		}
 	}
+
+  {
+    "option":"1",
+    "mtitle":"Sonic the Hedgehog 2",
+    "review":"Sonic the Hedgehog 2 was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sonicthehedgehog2.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sonicthehedgehog2.jpeg"
+    }
+  }
 
 */
