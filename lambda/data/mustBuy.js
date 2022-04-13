@@ -119,7 +119,7 @@ module.exports = mustBuy;
   {
     "option":"5",
     "mtitle":"CODA",
-    "review":"CODA was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'"<br/><br/>5 out of 5 stars.",
+    "review":"CODA was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/coda.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/coda.jpg"
