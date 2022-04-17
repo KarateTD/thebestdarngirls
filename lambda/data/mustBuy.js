@@ -126,4 +126,23 @@ module.exports = mustBuy;
     }
   }
 
+   {
+    "option":"1",
+    "mtitle":"Ambulance",
+    "review":"Veteran William Sharp sits on the phone arguing with insurance companies.  His wife, Amy, needs experimental surgery to save her life.  William hangs up the phone and tells Amy everything will be ok.  Then, he reminds her to turn on the alarm while he goes on a forklift driver interview.  Unbeknownst to Amy, William drives to Danny's chopshop.<br/><br/>As William attempts to ask for a 231,000 dollar loan, Danny collects his crew and cars for his next heist.  He gives William 5 minutes to decide if he is in or out.  If William joins, he will gain millions.  William gears up and jumps on the truck.  But there is a kink in the plan.  Officer Zack built up the nerve to talk to his bank teller crush, Kim.  Seeing Zack won't let up, Danny lets Zack inside.  Soon, Zack realizes something is going on, and all hell breaks loose.  Danny didn't know he was part of a task force sting operation.  They knew Danny wanted to hit a bank and planned to catch him after the robbery without hostages.  But Zack messed up their plan too.<br/><br/>After a fight in the parking garage, William shoots Zack.  They see EMT Cam and Scott loading Zack onto the ambulance.  William pulls Scott from the driver's seat, and Danny tries to force Cam out of the back.  But she will not leave her patient.  Danny agrees because killing a cop is a life sentence.  Also, Danny can use Cam and Zack as bargaining chips with the police.  With millions in their bag and two hostages, can Danny and William get home with the money?<br/><br/>A remake of Ambulancen, this film gives you a brief introduction to William's turmoil.  Then the action gets going.  The synopsis above is the first 20 minutes of the movie.  The tale of family bonds rivals all other films before it.  With a 60-mph surgery, unholy alliances, and sharpshooters, this film allows the audience to care about Cam, Danny, and William.  Watch this movie on the big screen only.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ambulance.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ambulance.jpeg"
+    }
+  }
+
+  {
+    "option":"2",
+    "mtitle":"Everything Everywhere All at Once",
+    "review":"Evelyn prepares the paperwork for their upcoming audit.  Her focus pulls her attention away from her husband, Waymond, when he tries to hand her divorce papers.  Her daughter, Joy, waits for Evelyn with Joy's girlfriend, Becky.  Evelyn brushes off Joy and concentrates on work.<br/><br/>Evelyn grabs her paperwork and goes to the IRS headquarters with Waymond and her father, Gong Gong.  As they ride the elevator up, Waymond deploys an umbrella to block the camera, grabs two earbuds, and puts them in Evelyn's ears.  He tells Evelyn that he is Waymond from another universe, and he needs her help.  If she wants to see him again, follow the instructions on the paper.<br/><br/>While talking with the IRS inspector, Deirdre, Evelyn looks at the paper.  It gives Evelyn 3 steps that land her in the janitor's closet with the other Waymond.  He tells her that the multiverse exists.  When another Evelyn discovered you could connect to another version of yourself, they used the power to gain skills.  But Jobu Tupaki wants to use this ability to destroy all the universes.  So, she is going through each one and killing Evelyns.  Waymond wants this universe's Evelyn to tap into the other Evelyns and defeat Jobu.  Then, Waymond and Deidre start fighting.  Within minutes, Evelyn has to learn how to tap into the multiverse, use her powers, and fight Jobu.  When she is face-to-face with her universe's Jobu, can Evelyn kill Jobu?<br/><br/>This film mixes the lessons of generational pain with some of the most hilarious, painful, and outrageous fight scenes ever crafted.  To tap into another universe's skills, they have to stimulate themselves. And it gets wild with fanny packs, awards, and dogs.  This 3-part film slows down towards the end and loses the audience for a while.  Be ready for a visual feast.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/everythingeverywhereallatonce.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/everythingeverywhereallatonce.jpeg"
+    }
+  },
 */

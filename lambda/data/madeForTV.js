@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Fallen Angels Murder Club: Heroes and Felons",
-    "review":"After hearing that someone murdered their beloved parole officer, Jeffery, the Fallen Angels vow to find justice.  After the funeral, Jeffery's wife, Joelle, approaches Hollis for help with Jeffery's estate.  Hollis agrees to do it.  Then, Hollis hears someone behind her blame Joelle for Jeffery's murder.  It's Brian, Jeffery's son.<br/><br/>After receiving a book, As Heroes Fall, from a dead Jeffery; Hollis, Gene, Rena, Abby, and Miller get together.  Miller finds numbers on the back page.  They check their books and see that they have different numbers.  Hollis asks Miller to figure out what the number means and look into Jeffery's finances.  Then, Hollis tells everyone to read the book for clues.  With the Fallen Angels on the case, they will uncover corruption, murder, and $5 million.<br/><br/>Based on The Fallen Angels Book Clu: A Hollis Morgan Mystery 1 by R. Franklin James, this movie gives you a deeper dive into Detective Lincoln and Faber.  Don't be surprised if you have to watch it twice.  Like most mysteries, unveiling the motive happens in a short amount of time.  With everyone's sketchy history, this film series leaves the door open for many episodes in the future.  So give this one a watch with the DVR recording.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Wrath: A Seven Deadly Sins Story",
+    "review":"Chastity won a $147 million settlement for her client.  Although she thinks it should be 200 million, her friend, Melanie, wants to celebrate.  Melanie thinks Chastity should date more and approaches a man at the bar for her.  Xavier, a lawyer, charms Chastity until one o'clock in the morning.<br/><br/>After a month of dating, Chastity tells Xavier she needs to make herself scarce and focus on work.  Xavier goes silent over the phone, but he pretends to understand.  After the week without her, Xavier gets the urge to propose.  Chastity thinks Xavier is sweet and drunk, so she says no.  He laughs it off, but his fury grows.<br/><br/>Xavier shows up late to lunch and sees Chastity talking to a man at her table.  Chastity explains that the man is Roger, her high school sweetheart.  Xavier sits down after Roger leaves.  He believes Roger still has feelings for Chastity.<br/><br/>Roger tries to cover up a mistake at work and almost gets fired.  He flashes into a fit of rage and smashes Chastity's phone.  Later, Xavier replaces it.  But Chastity warns him that his wrath will end their relationship if he loses his temper again.  Chastity has only scratched the surface.  Xavier is a danger to Chastity, her family, her dog, and himself.<br/><br/>Based on Wrath by Victoria Christopher Murray, this film differs from Envy and Lust because the lead isn't the sin-bearer.  She is the victim of sin.  Xavier tries to apologize, victim blame, and gaslight Chastity every time she attempts to leave him.  This manipulation works until his anger becomes violent.  Within six weeks, Xavier goes from a nice guy to a rage-filled monster with a history of violence.  Although he is the source of wrath, Chastity is the bearer of forgiveness.  And that's the takeaway from this film.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fallenangelsmurderclubheroesandfelons.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fallenangelsmurderclubheroesandfelons.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/wrathasevendeadlysinsstory.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/wrathasevendeadlysinsstory.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Nightmare Neighborhood Moms",
-    "review":"Bonnie runs through Cascades Lake with her neighbors, Renee and Angela.  They spot a new neighbor moving in with her daughter, Jordan.  Bonnie quickly and contentiously assesses the woman, Charlotte, is single and independent.  For Bonnie, this new woman is trouble.  Charlotte is a thorn in Bonnie's side at work and home.  Bonnie thinks Charlotte will take her clientele and husband, Christian.  And Bonnie will kill to keep both.  She's done it before.  When Bonnie discovered Christian's affair with their neighbor, Kira, Bonnie killed Kira.  Bonnie will spy, manipulate, and imprison Charlotte to get ahead in life and her marriage.<br/><br/>Be ready to yell at the screen.  This movie is proof that you can live in someone's head and not even know it.  Bonnie sees Charlotte as a threat the second Bonnie notices that Charlotte is single.  She even goes after Jordan to destroy Charlotte.  While the plot feels generic, the acting will leave you in your seat.  Get your wine and tea ready for this movie.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Killer Design",
+    "review":"Roy offers Jodi the interior design job for his restaurant, and Jodi leaves the meeting on cloud nine.  Then, a man grabs her from behind and puts a knife to her throat.  Jodi hears a scream and sees a woman pointing a phone camera at them.  The would-be robber runs away.  The woman, Wendy, runs toward Jodi to help her calm down after her horrific incident.  Jodi offers to pay Wendy, but Wendy won't take the money.  Instead, Jodi reaches a compromise with coffee.<br/><br/>Jodi explains the day's events with her boyfriend, Eric, and he has something to help her forget the mugging: an engagement ring.  Jodi says yes and runs home to tell her best friend, Monica.<br/><br/>The next day, Jodi meets Wendy for coffee.  Wendy confesses that she moved to town recently because her mother lost her battle with cancer.  Currently, Wendy is looking for work.  Wendy was an assistant for her mother's interior design business.  Jodi gets an idea because she needs help with her latest job.  Jodi decided to pay Wendy back by hiring her for the assistant position.  Jodi has no idea Wendy will do anything to anyone at any time to make Jodi's life better.<br/><br/>At times, Wendy is polite, helpful, and caring.  However, you know she is unhinged.  So, all the niceties come at a hefty price.  You don't feel bad for the first two victims of her killing spree.  Those deaths were a long time coming.  You don't understand why Wendy has a deep infatuation with Jodi until the last 30 minutes.  It will bring the plot back to the beginning.  While this won't be a favorite, it's a fun watch.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nightmareneighborhoodmoms.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nightmareneighborhoodmoms.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killerdesign.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killerdesign.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Always Amore",
-    "review":"During Nonna's 71st birthday party, Richard pulls Elizabeth aside.  He hired a restaurant consultant because Ciba e Vita is not sustainable.  If the restaurant doesn't become profitable, Richard will sell his shares.  Elizabeth's husband, Marco, started and cooked at the restaurant.  The current chef, Antonio, learned from Marco and now refuses to change the menu like Elizabeth.<br/><br/>Ben arrives in town and quickly rubs Elizabeth the wrong way.  Each time Ben worked with an eatery, he helped them gain profits again.  Ben wants to do the same for Elizabeth, but they get an unforeseen obstacle.  Richard's buyers moved up the offer, and he decided to take it.  Elizabeth mulls over getting a bank loan to buy Richard's shares.  But with 0 profits, no bank will work with her.  Elizabeth and Ben must convince Antonio to stray away from Marco's menu and prepare an original dish for a cooking competition.  The grand prize will buy Richard's shares and bring much-needed notoriety to Ciba's.  While making Ben family, can Elizabeth stop looking into the past and worrying about the future?<br/><br/>Executive produced by Giada De Laurentiis, this film shares all the love, tradition, and faux pas in an Italian family.  The love story naturally grows as you discover the roots of Ciba, Antonio's talent, and Elizabeth's hidden skills.  Be ready to fall in love with this new H.M.M. classic.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Curious Caterer: Dying for Chocolate",
+    "review":"Goldy got her first job catering the luncheon for the Elk Park Prep fundraiser.  Goldy makes beignets and chocolate-covered shortbread while her friend Laura watches.  When Laura tries to have a serious conversation, Brian walks into the kitchen.  Brian is Goldy's daughter's teacher and Goldy's crush.  He recommended Goldy for the job to Adele.  Adele is a wealthy member of the community and married to Archie.  Goldy makes her rounds at the fundraiser and runs into her ex-husband, Dr. Richard, the minority investor in the Elk Park Wellness Center.  He tells Goldy not to worry because Archie and Dr. Owen are investors also.  Laura pulls Goldy aside and asks Goldy to come to her home later to discuss something she discovered.<br/><br/>Outside, Brian sees a suspicious man talking on the phone.  He's Julian, Adele's son from her 1st marriage and Brian's former student. Then, Marla sees Richard talking to Laura in the parking lot.  It looked heated, so Marla walked away.<br/><br/>On the way home, a traffic jam stops Goldy from proceeding.  She calls Officer Mason to her car.  Mason tells Goldy a vehicle ran off the cliff.  As she tries to get more information, she can hear the dispatch officer say Laura is the registered car owner over Mason's walkie-talkie.  Goldy panics and runs out of her car to check on Laura, but Detective Tom stops her.  He tells Goldy they have one body down there, and he doesn't want two.  When Goldy hears the word body, she knows Laura is dead.  When Goldy looks like the killer, she will investigate her friends and pry into Laura's secrets to find out what happened and why.<br/><br/>Based on Catering to Nobody and Dying for Chocolate by Diane Mott Davidson, this movie is a solid contender for your new favorite series.  Goldy's job gives her an excuse to be at crime scenes.  As the title claims, she is a curious caterer, not an amateur sleuth.  Set your DVR for this film; you will want to watch it twice.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/alwaysamore.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alwaysamore.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/curiouscatererdyingforchocolate.png",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/curiouscatererdyingforchocolate.png"
     }
   },
   {
     "option":"4",
-    "mtitle":"Run the Race",
-    "review":"Zack had a rough few years.  After his mother died of cancer, his father, Mike, left him and his brother, Dave.  Dave played high school football until a hit caused a career-ending injury.  Zack currently plays for the Bessemer High football team and looks in the stands for college scouts.  Coach Bill tells Zack to stay on the straight and narrow.  If Zack gets the team to state, college recruiters will come.<br/><br/>After a game, Zack hangs with his team and future rivals.  Zack attacks when an opposing team member makes a joke about Dave.  Someone hits Zack behind his knee, causing an ACL injury during the fight.  With surgery and rehabilitation, the injury will heal.  Dave comes up with a way to get Zack back into the game.  However, Zack will need to give himself to his higher power to find the strength in forgiveness.<br/><br/>This film is faith-based, but you don't feel overcome with the message.  Everyone gives Zack lessons on hope, faith, and redemption.  But it takes the most innocent person of his life to fall for Zack to give his life over to Christ.  There is a love story intertwined with the movie.  However, it allows Zack to air his grievances with God.  Otherwise, the love story has zero purpose in the plot.<br/><br/>4 out of 5 stars.",
+    "mtitle":"She Went Missing",
+    "review":"Maya got magnificent news.  Her boss, Elizabeth, put Maya's article on the Chicago Collective cover.  It's Maya's first cover article, and Elizabeth promises more.<br/><br/>At home, Maya gets threatening emails and becomes hypervigilant of noises around.  She sees her estranged husband, Vince, in the doorway.  He offers to help Maya, but she turns him away.<br/><br/>In the morning, Maya goes to Elizabeth to pitch questions.  But Elizabeth has a change of plans.  She wants Maya to go to her hometown and investigate a missing influencer.  At first, Maya hates the idea until she sees the victim's face.  It's her former best friend, Britteny.  Maya takes the next flight out.<br/><br/>In town, Maya heads to the police station to question Sheriff West.  Before Maya enters the station, a man stops her.  She didn't recognize him at first but remembered it was her old friend, Jamie.  Students teased Jamie, but Maya remained a loyal friend.  Before Britteny went missing, she posted a picture online and went jogging.  A determined Maya will do anything to learn what happened to Britteny, even risk her life.<br/><br/>If you are looking for a hard-hitting mystery, look elsewhere.  The moment the perpetrator is on the screen, you know it.  And they continue to do things to make themselves look guilty.  You wonder what takes Maya so long to get it.  This movie doesn't captivate the audience.  It's background noise.<br/><br/>2 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/runtherace.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/runtherace.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/shewentmissing.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/shewentmissing.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Fatal Fandom",
-    "review":"After finishing her latest music video, Eden talks with her manager, Colette, and choreographer, Addison.  Eden realizes her phone is missing when Jackson, a security guard, enters the room.  He delivers it and states that he is a fan.  They are all smiles until a man appears with a gun and tells them he wants Eden.  Before she starts to walk away with the man, Jackson runs the man off.<br/><br/>A few days later, Eden and her friends are in her bungalow.  She worries that someone is squatting on her property.  In fear, Eden decides to hire Jackson as personal security detail.  He teaches Eden self-defense, and they talk about their personal life.  As they grow closer, Eden has no idea that Jackson has a deadly score to settle with her.<br/><br/>Jackson comes off as understanding, protective, and helpful.  But the title lets you know that he will come unglued.  Though, there are moments when you wonder if Eden could be the perpetrator.  However, it's the long con.  There were some lulls with Ozzie's drama, yet it didn't last long.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"A Royal Runaway Romance",
+    "review":"After a whirlwind romance with her painter, Wes, Princess Amelia wants to see him again.  However, Wes lives in Chicago, and she lives in Bundbury.  She approaches her mother, Queen Ava, about Wes, but Ava thinks Wes is not the right man for Amelia.  Then, Amelia remembers her uncle, Andreas, is having a birthday soon, and he lives in LA.  Andreas convinces the queen to let Amelia come to LA along with Amelia's lady in waiting, Camille.<br/><br/>Ava, Amelia, and Camille arrive in LA, and Andreas introduces them to Grady.  Grady is Andreas's head of security.  Andreas has assigned Grady to watch over Camille for her stay.  Since Ava took Amelia and Camille's passports, they know that flying is not an option.  So, Amelia resorts to thievery.  She steals Grady's keys and waits for daylight.  Then, she sees Grady in the passenger seat and screams.  He knew she took his keys, and he got Andreas's approval to take her to Chicago on a road trip.  Amelia will learn the difference between passion and love on the trip.<br/><br/>It's not hard to see where this trip will lead for Grady and Amelia, so the overarching love story isn't attention-grabbing.  However, the side stories are compelling.  Amelia uses this trip to help Grady mend family bonds and his broken heart.  Also, you see that Ava is a benevolent future queen.  This film is like most road trips.  The destination isn't the best part; it's the journey.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fatalfandom.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fatalfandom.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyalrunawayromance.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroyalrunawayromance.jpg"
     }
   }
 ];
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":Wrath: A Seven Deadly Sins Story"",
+  "mtitle":"Greed: A Seven Deadly Sins Story",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/wrathasevendeadlysinsstory.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/wrathasevendeadlysinsstory.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/greedasevendeadlysinsstory.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/greedasevendeadlysinsstory.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Killer Design",
+  "mtitle":"Killer Rivalry",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killerdesign.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killerdesign.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killerrivalry.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killerrivalry.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Curious Caterer: Dying for Chocolate",
+  "mtitle":"Small Group",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/curiouscatererdyingforchocolate.png",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/curiouscatererdyingforchocolate.png"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/smallgroup.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/smallgroup.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"She Went Missing",
+  "mtitle":"Due Season",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/shewentmissing.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/shewentmissing.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dueseason.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dueseason.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"A Royal Runaway Romance",
+  "mtitle":"Faith, Hope, and Love",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyalrunawayromance.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroyalrunawayromance.jpg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/faithhopeandlove.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/faithhopeandlove.jpeg"
   }
 }
 
