@@ -1,6 +1,6 @@
 var madeForTV = [
   {
-    "option":" 1",
+    "option":"1",
     "mtitle":"The Walls are Watching",
     "review":"Erica looks on a bank's website and sees her dream home on the foreclosure list.  She wants her husband of 3 months, Mitch, to bid on it because she thinks it will be the first step to starting their family.  The next day, Mitch goes to the auction and wins.  The auctioneer, Mr. Sims, congratulates Mitch.<br/><br/>Erica and Mitch move in and start making changes.  They turn in after a long day and prepare to sleep but get a knock at the door.  It's Theodore, the previous owner, and he wants to say bye to the home.  They allow him in, but Theodore admits to having an ulterior motive.  He wants to buy it from them.  While Erica and Mitch empathize, they refuse to sell Theodore their home.  Theodore tells them he is persistent, laughs, and leaves.  But it's not the last time they will see him.  Theodore has a secret room in the home and framed Mitch for Mr. Sims's murder.  Now, he only has Erica standing in his way.  Theodore will stop at nothing to get his family home back.<br/><br/>This movie provides enough suspense to keep you watching and laughing.  It starts with a heartfelt plea from Theodore that will leave you near tears.  Then, as Erica predicted, Theodore goes from depression to psychosis in a few days.  Lifetimers, be prepared for a dumb cop, clumsy heroine, and crying madman; you will get a taste of them all, plus two dead bodies.<br/><br/>3.5 out of 5 stars.",
     "image":{
