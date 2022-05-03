@@ -4,8 +4,7 @@ const RDS = new aws.RDSDataService();
 const Alexa = require('ask-sdk-core');
 const Welcome = require('./json/welcome.json');
 const LibraryWelcome = require('./json/librarywelcome.json');
-//const MovieOptions = require('./json/movieoptions.json');
-const MovieOptions = require('./json/movieoptions2.json')
+const MovieOptions = require('./json/movieoptions.json');
 const Review = require('./json/review.json');
 const Background = require('./json/background.json');
 

@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Stolen By Their Father",
-    "review":"Lizbeth leaves her job at the women's shelter to pick up her daughters, and her stomach drops when her ex-husband, Greg, approaches.  Greg tells her that their custody agreement will end in 19 hours.  Now, his visits will be unsupervised.<br/><br/>The next day, Greg picks up their girls for 48 hours.  On their first night away, Lizbeth tries to call her children.  But no one answers.  When she attempts a pick-up at their school, the teacher says she hasn't seen the girls in days.  Lizbeth calls the police, and they confirm her worst fears.  Greg took their children.  After getting through Greg's shield of denial, Lizbeth proves Greg took their daughters on a one-way trip to Greece, and he doesn't plan on coming back.  She thinks the Hague Convention will be enough.  Over the next two years, Lizbeth will fight a country and Greg for her children and freedom.<br/><br/>There aren't enough glasses of wine to get you through this movie without being moved to tears.  Based on Pieces of Me: Rescuing My Kidnapped Daughters by Lizbeth Meredith, this film covers two years of emotional turmoil for Lizbeth and her two daughters.  In a system plagued with corruption, Lizbeth fights a losing battle.  But Lizbeth's biggest struggle is her daughter's mental state.  Each setback will break your heart and make you yell at the TV.  Don't let the year fool you.  While this happened between 1994 and 1996, it still happens today, and getting children back can be just as complex.  This film is an excellent production with detailed clothing, technology, and laws.  It will be a heartfelt favorite.<br/><br/>5 out of 5 stars.",
+    "mtitle":"The Walls are Watching",
+    "review":"Erica looks on a bank's website and sees her dream home on the foreclosure list.  She wants her husband of 3 months, Mitch, to bid on it because she thinks it will be the first step to starting their family.  The next day, Mitch goes to the auction and wins.  The auctioneer, Mr. Sims, congratulates Mitch.<br/><br/>Erica and Mitch move in and start making changes.  They turn in after a long day and prepare to sleep but get a knock at the door.  It's Theodore, the previous owner, and he wants to say bye to the home.  They allow him in, but Theodore admits to having an ulterior motive.  He wants to buy it from them.  While Erica and Mitch empathize, they refuse to sell Theodore their home.  Theodore tells them he is persistent, laughs, and leaves.  But it's not the last time they will see him.  Theodore has a secret room in the home and framed Mitch for Mr. Sims's murder.  Now, he only has Erica standing in his way.  Theodore will stop at nothing to get his family home back.<br/><br/>This movie provides enough suspense to keep you watching and laughing.  It starts with a heartfelt plea from Theodore that will leave you near tears.  Then, as Erica predicted, Theodore goes from depression to psychosis in a few days.  Lifetimers, be prepared for a dumb cop, clumsy heroine, and crying madman; you will get a taste of them all, plus two dead bodies.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stolenbytheirfather.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stolenbytheirfather.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewallsarewatching.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewallsarewatching.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"You Can Never Go Home Again",
-    "review":"After her mom, May, died, Izzy relocates to Mississippi with her husband, Jack, and daughter, Taylor.  However, Izzy has fallen into a depression.  Jack, a former musician, doesn't know how to help Izzy and focuses on work.  For Taylor's first day of school, Jack drops Taylor off and meets Taylor's teacher, Emma.  Jack grew up in this town, and his teachers never looked like Emma.  He trips over his words and flatters Emma.  Later, Emma and Jack run into each other at a coffee shop.  She has sympathy for him and his marital troubles.  She promises to be there for him in his time of need.  They meet again during a run in the woods.  Jack cheats on Izzy with Emma and instantly regrets it.  But he had no idea what he unleashed.  Emma is unhinged, scheming, and extremely dangerous.  She plans to not only end Izzy's life but to become Izzy.<br/><br/>This movie has two redeemable qualities: a cute kid and an intelligent retired cop.  Otherwise, there is no other reason to watch.  With this type of Lifetime film, the plot has a high body count to keep you watching.  But no one dies.  You have no empathy for Jack because he is a horrible husband.  If you want to laugh at a poorly contrived movie, you should watch this one.  Apart from that, don't waste your time.<br/><br/>1.5 out of 5 stars.",
+    "mtitle":"What Lies Behind Closed Doors?",
+    "review":"Kimberly and Gabe stroll down the bridge and talk about her upcoming interview.  Since Kimberly's roommate broke their lease early, Kimberly needs to find a job she can handle while writing her thesis.  And being a nanny feels like the right fit.<br/><br/>Kimberly arrives at the interview early, and Caroline happily takes notice.  They sit and chat before Caroline's husband, Steven, and son, Jasper, enter.  Caroline will be leaving town on Monday.  Caroline's urgent need stuns Kimberly, but Kimberly takes the job after connecting with Jasper.<br/><br/>When Kimberly has ice cream to spare, she calls Caroline to ask permission to bring some over to Jasper.  Caroline says yes.  Kimberly puts the ice cream on the counter and hears noises from another room.  Kimberly finds Steven passionately kissing Serena, Jasper's former Spanish teacher.  Kimberly runs out of the house and accidentally alerts Steven.  He worries Serena's ex-boyfriend, Nick, was in the home because Nick is an obsessed stalker.  Kimberly realizes she is late to pick up Jasper for the first time.  Kimberly rushes to get him and tries to stop him from entering the home.  Steven shocks Kimberly when she discovers him alone.<br/><br/>Later, Kimberly calls Caroline to report being late but not the affair.  Kimberly considers herself lucky until Detective Alex starts to ask questions about Serena.  Someone murdered her, and he is investigating everyone in Serena's life.  Behind this unassuming family are betrayal, psychosis, and gossip, and Kimberly unwittingly enters a viper pit of suburban lies.<br/><br/>Like most families, everything on the surface of Caroline and Steven's home looks idyllic.  Kimberly is confident she found the best job but her bubble bursts when she sees Steven and Serena.  From that moment on, the script attempts to make everyone look guilty.  But Lifetimers can see the writing on the wall.  This film is a compelling albeit predictable watch.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/youcannevergohomeagain.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/youcannevergohomeagain.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whatliesbehindcloseddoors.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whatliesbehindcloseddoors.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Stalked By a Prince",
-    "review":"Alyssa stalks her ex-boyfriend's Facebook page when she can't sleep at night.  Her co-worker, Rachel, tells Alyssa to get over Chuck by going out, having fun, and meeting someone new.  Alyssa is a successful publicist, and their company is hosting an event tonight.<br/><br/>Later, Rachel spots Prince Jack, 6th in line for the throne, walking into the event.  Rachel walks up to Jack and sparks a conversation.  After a moment, Rachel walks Jack over to Alyssa, introduces them, and leaves them alone.  Within 24 hours, Jack calls to go out on a date.  Rachel thinks they will fall in love and have a fairy tale romance.  Only Jack's family and bodyguard, Taffer, know the truth.  Jack is dangerous and must take medication, and without it, he is prone to fits of anger, stalking, and murder.<br/><br/>This movie features one of the best fictional Lifetime heroines of all time.  She is cautious, tenacious, and intelligent.  Before she escapes, she takes off her heels and puts on sneakers.  If the leads' names sound familiar, that's because they are.  These two played in Fit for a Prince, where a woman falls in love with a prince and lives happily ever after.  Consider this film the Lifetime version of a wholesome rom-com that you never knew you wanted.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Kiss the Cook",
+    "review":"Kacey is a food blogger with an impressive following.  Her fans know Kacey for her colorful and attainable dishes.  She wants to grow her brand but doesn't know how to do it.  Vee grabs Kacey's phone and sees a text from Kacey's ex-boyfriend, Francois.  Kacey admits she hopes to mend the relationship, but Vee isn't so sure.<br/><br/>Gavin is the head chef at a local restaurant.  He wants to focus on sustainable farm-to-table items, but the manager wants the latest trends.  When his Uncle Leo visits the restaurant, Gavin tells Leo that he wants to start the next phase in his career.  Gavin wants to write a cookbook and incorporate some of his mother's recipes.  The publishing industry is slumping, and they need more established authors with guaranteed book sales.<br/><br/>Leo works at his desk when a co-worker walks in with an idea.  If they offer an influencer a book deal, the sales and followers could save Leo's company.  They go through a stack of possibilities and select Kacey.  Leo tries one of her recipes and calls Gavin.<br/><br/>They meet at Leo's office to discuss Kacey's deal.  Leo will extend an offer, but she must use Gavin as a consultant.  Kacey says yes after careful consideration about expanding her brand.  If Gavin works with her, it will guarantee a book deal for himself.  Can Gavin and Kacey get along to put the book together with different styles? Only love will tell.<br/><br/>This movie is a classic romance with all the troupes we know.  You have the scheming ex-lover, force cooperation, and misunderstanding.  With colorful avocado toast, blue tea, and lavender cupcakes, don't be surprised if you salivate during this film.  This film won't be a favorite, but it's worth a lazy afternoon viewing.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalkedbyaprince.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalkedbyaprince.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kissthecook.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kissthecook.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"A Wedding to Remember",
-    "review":"Olivia works at the Level Ground community center garden.  She sees two men, Brian and Perry, erecting a sign.  The sign announces that Brian's company will build affordable housing soon.  Olivia thought the city would find another solution, but Brian informs her that there is no other construction site.  Crestfallen Olivia goes home and prepares to tell her staff they will lose their jobs.  But Olivia's roommate, Frankie, tells Olivia to wait until after Jenny and Richard's wedding.  Olivia is the maid of honor and hopes the time away will give her an idea to save her garden.<br/><br/>Olivia boards the bus and settles in for a ride to the venue when she sees a familiar face board.  It's Brian.  Olivia wants to ignore him, but they are assigned seats together.  Later, Brian meets with his best friend, Richard, at the hotel bar.  Richard wants Brian to meet his fiance's best friend.  Jenny and Olivia walk into the bar, and Brian stutters with disbelief.  They quickly let Jenny and Richard know they are not the right fit for each other and have conflicting interests.  Jenny says they need to put their problems beside because Brian is the best man.<br/><br/>During dinner, Olivia and Brian see Jenny and Richard arguing.  They pull their friends aside.  Jenny and Richard admit to having doubts about getting married.  So they will call a truce to help their friends.  After the wedding, they will be bitter rivals again.  What could go wrong?<br/><br/>This movie is funnier than most romantic comedies.  Each event to bring the betrothed together gets muddled and forces Olivia and Brian into a romantic environment.  By helping their friends, they see the other's passion and drive to make people better.  Most viewers will figure out the ultimate solution before the first commercial break.  But you will want to watch for their mishaps assisting the bride and groom.<br/><br/>4 out of 5 stars.",
+    "mtitle":"A Tail of Love",
+    "review":"Bella owns and operates her family's dog rescue.  Their latest rescue is Indi, short for Independence, but Indi's paperwork is missing.  Bella's grandmother, Lily, warns Bella not to get too close to the dogs.<br/><br/>Indi breaks away from Maddie, a rescue worker, and runs toward a guest, J.R., during a luncheon.  Bella quickly grabs Indi and introduces herself.  She thanks all the guests, especially their most enduring and charitable donor, Stockard Pet Food Company.  After her speech, Bella looks for J.R. but can't find him.<br/><br/>Later in the week, Bella opens the mail to see that Stockard won't donate to the Rescue Center anymore.  J.R. was the heir to Stockard, but he decided to leave the family business and join the military ten years ago.  He decided to sell the business to Rachel.  J.R. had no idea Rachel decided to pull funding from Bella.  Rachel tells Bella that the rescue is not a part of the new business plan.  And then, Rachel hands Bella another letter.  Since Bella's home and the center is on Stockard land, they must vacate in 60 days.  Lily assures Bella that she bought the house and land from Mr. and Mrs. Stockard years ago.  She knows there is a deed but doesn't remember where her late husband put it.  Because of a fire, there are zero county records about the sale.<br/><br/>When Bella tells J.R., he feels a call to action to help Bella and protect his family's philanthropic legacy.  He vows to do whatever it takes to help Bella find the deed and a home for Indi. But will their fight for justice guide them to love?<br/><br/>This cuddly film will be a hit with military and dog lovers. While the writing is on the wall for Bella and J.R., the deed's location will keep you invested in this film.  This movie isn't an instant classic, but it's watchable, fun cinema that sheds light on K-9 PTSD.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aweddingtoremember.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aweddingtoremember.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/atailoflove.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/atailoflove.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Welcome to Mama's",
-    "review":"A year ago, Amy promised herself that she would move up in the company or move on.  So when the boss passes her over for a promotion, Amy quits with no job prospects.  Amy tries to determine what to do next when she gets a call from a lawyer.  The lawyer informs Amy that Maria, aka Mama. died, and he will read Mama's will soon.  Mama owned and operated an Italian restaurant with her husband, Roberto.  For years, Amy was the manager of Mama's Ristorante but left to work elsewhere.  Mama and Amy had a falling out afterward.<br/><br/>Before the reading, Amy orders a cannoli and coffee and reads the paper.  A man, Frank, sits next to her because she bought the last cannoli.  Yesterday, a critic came into Frank's restaurant and tried his food.  She said it was lacking an ingredient: Love.  After bothering Amy, she leaves Frank sitting at the cafe with the newspaper and half a cannoli.  Later, Amy sits with the lawyer, and Frank walks into the room.  Amy didn't know that Frank was the head chef at Mama's.  Mama wanted Amy to manage the restaurant and Frank to continue to be the head chef.  Then the lawyer handed Amy Mama's recipe book and money.<br/><br/>When Amy arrives at Mama's, Amy sees the changes Frank made, and she instantly feels out of place.  Amy wants to use the money to redo Mama's back to its original form.  When Amy looks through Mama's book for guidance, she learns that the restaurant will have its 50th anniversary in 14 days.  This date change will push the reopening ahead two weeks, but Amy thinks they can do it.  With all of Amy's changes, Frank feels like there is no place for him at the new Mama's, so he is looking for a job without telling Amy.  With Mama's guidance, Frank and Amy must come to a compromise and find the missing ingredient in each other.<br/><br/>While the plot focuses on the story of Amy and Frank, the love of Maria and Roberto will stay with you.  No matter what, Roberto reveled in Maria's dream and encouraged her to seek her passions.  He taught Maria to throw her worries away and believe in herself.  Amy and Frank's love story is watchable and develops well.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Greed: A Seven Deadly Sins Story",
+    "review":"Zuri, an interior designer, walks up to Viv's home, astonished by the wealth.  Zuri tells Viv that she is dating an artist named Stephon.  Viv offers Zuri the job with no budget or oversight.<br/><br/>Zuri volunteers at the Baltimore Literacy Foundation.  As she teaches, her boss brings in their new chair for the board of trustees, Godfrey Anderson.  Later, Zuri calls Stephon from the parking lot.  She doesn't have enough time to come home and get dressed for their friends' party.  But she has an outfit in the car and needs him to bring the shoes.  Zuri zips up her dress and hears a knock on the vehicle's window.  It's Godfrey.  He talks about his cousin getting work done at her home with an interior designer.  Zuri tells Godfrey about her job, and they compare notes.  They realize that his cousin and Zuri's client are the same people: Miss Viv.<br/><br/>At their friends' gathering, Zuri mentions that Stephon has the talent but not the ambition.  When they get home, Stephon erupts at Zuri.  Her comments embarrassed him.  Zuri meets with Godfrey to consult about his home.  He loves her ideas but wants her more and kisses her.  Zuri calls Stephon to end their relationship.  When Zuri goes home to pack, she finds an engagement ring.  Blistering with rage, Stephon tells Zuri that she doesn't love Godfrey, only his money.  She storms out and builds a new life with her new man.<br/><br/>Godfrey surprises her with a trip, and she doesn't hesitate.  Godfrey informs Zuri that he wants her to be on the board.  Godfrey gives Zuri the paperwork, and she signs it without a second thought.  Zuri's greed got her in a hole too deep to get out unscathed.  That hole includes fraud, overseas accounts, ruthless attacks, and Fentanyl.<br/><br/>Based on Greed: A Seven Deadly Sins Novel by Victoria Christopher Murray, the strongest of the Sin series starts and ends with a bang.  The plot shows the viewer the source of Zuri's greed but rightfully doesn't make you sympathize with her.  Viv and Godfrey spot Zuri's need for more and tell her it's okay to aspire to have those things.  In the end, the biggest gangster makes themselves known with a gun, fire, and one well-timed cigarette.  Give this one your full attention with your wine and tea next to you.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/welcometomamas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/welcometomamas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/greedasevendeadlysinsstory.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/greedasevendeadlysinsstory.jpeg"
     }
   }
 ];
@@ -58,41 +58,48 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Cruel Instruction",
+  "mtitle":"Bound by Blackmail",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cruelinstruction.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cruelinstruction.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/boundbyblackmail.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/boundbyblackmail.jpeg"
   }
 },
 {
-  "option":"2",
-  "mtitle":"Sinister Stepsister",
+  "option":"1",
+  "mtitle":"Mommy's Little Star",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sinisterstepsister.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sinisterstepsister.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mommyslittlestar.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mommyslittlestar.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"If Walls Could Talk",
+  "mtitle":"Stalker",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ifwallscouldtalk.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ifwallscouldtalk.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalker.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalker.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"A Bridesmaid in Love",
+  "mtitle":"Aloha with Love",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abridesmaidinlove.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abridesmaidinlove.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/alohawithlove.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alohawithlove.jpg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Driven to Murder",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/driventomurder.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/driventomurder.jpg"
   }
 }
-
-
 
 */

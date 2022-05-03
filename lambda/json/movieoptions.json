@@ -1,87 +1,32 @@
 {
     "type": "APL",
-    "version": "1.6",
+    "version":"1.8",
     "license": "Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.\nSPDX-License-Identifier: LicenseRef-.amazon.com.-AmznSL-1.0\nLicensed under the Amazon Software License  http://aws.amazon.com/asl/",
-    "theme": "dark",
-    "import": [
+    "theme":"dark",
+    "import":[
         {
-            "name": "alexa-layouts",
-            "version": "1.3.0"
+            "name":"alexa-layouts",
+            "version":"1.5.0"
         }
     ],
-    "mainTemplate": {
-        "parameters": [
+    "mainTemplate":{
+        "parameters":[
             "payload"
         ],
-        "items": [
+        "items":[
             {
-                "type": "Container",
-                "when": "${@viewportProfile == @hubLandscapeLarge}",
-                "items": [
-                    {
-                        "type": "AlexaGridList",
-                        "headerTitle": "${payload.gridListData.title}",
-                        "headerAttributionImage": "${payload.gridListData.logoUrl}",
-                        "headerBackButton": true,
-                        "backgroundImageSource": "${payload.gridListData.backgroundImage.sources[0].url}",
-                        "listItems": "${payload.gridListData.listItems}",
-                        "imageAspectRatio": "widescreen",
-                        "imageScale": "best-fit-down",
-                        "listItemHorizontalCount": 2
-                    }
-                ]
-            },
-            {
-                "type": "Container",
-                "when": "${@viewportProfile == @mobileMedium}",
-                "items": [
-                    {
-                        "type": "AlexaGridList",
-                        "headerTitle": "${payload.gridListData.title}",
-                        "headerAttributionImage": "${payload.gridListData.logoUrl}",
-                        "headerBackButton": true,
-                        "backgroundImageSource": "${payload.gridListData.backgroundImage.sources[0].url}",
-                        "listItems": "${payload.gridListData.listItems}",
-                        "imageAspectRatio": "widescreen",
-                        "imageScale": "best-fit-down",
-                        "listItemHorizontalCount": 1
-                    }
-                ]
-            },
-            {
-                "items": [
-                    {
-                        "type": "AlexaGridList",
-                        "headerTitle": "${payload.gridListData.title}",
-                        "headerAttributionImage": "${payload.gridListData.logoUrl}",
-                        "headerBackButton": true,
-                        "backgroundImageSource": "${payload.gridListData.backgroundImage.sources[0].url}",
-                        "listItems": "${payload.gridListData.listItems}",
-                        "imageAspectRatio": "widescreen",
-                        "imageScale": "best-fit-down",
-                        "listItemHorizontalCount": 1
-                    }
-                ],
-                "type": "Container",
-                "when": "${@viewportProfile == @mobileSmall}"
-            },
-            {
-                "type": "Container",
-                "item": [
-                    {
-                        "type": "AlexaGridList",
-                        "headerTitle": "${payload.gridListData.title}",
-                        "headerBackButton": true,
-                        "headerAttributionImage": "${payload.gridListData.logoUrl}",
-                        "backgroundImageSource": "${payload.gridListData.backgroundImage.sources[0].url}",
-                        "imageScale": "best-fit-down",
-                        "listItems": "${payload.gridListData.listItems}",
-                        "imageAspectRatio": "widescreen",
-                        "id": "plantList"
-                    }
-                ]
+                "type": "AlexaGridList",
+                "id": "movieList",
+                "headerTitle": "${payload.gridListData.title}",
+                "headerBackButton": true,
+                "headerAttributionImage": "${payload.gridListData.logoUrl}",
+                "backgroundImageSource": "${payload.gridListData.backgroundImage.sources[0].url}",
+                "backgroundBlue": false,
+                "backgroundColorOverlay": false,
+                "imageAspectRatio": "standard_landscape",
+                "imageScale": "best-fill",
+                "listItems": "${payload.gridListData.listItems}"
             }
         ]
-    },
-    "layouts": {}
-} 
+    }
+}
