@@ -39,6 +39,7 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 	<li><b>Release-4.1.1</b>: Updated CodePipeline with more robust CodeBuilds</li>
 	<li><b>Release-4.1.2</b>: Update NodeJS from version 10 to version 14. Updates had to be made to the Lambda function, AWS CodeBuild, and the package.json.</li>
 	<li><b>Release-5.0.0</b>: Updated APL to version 1.6 for improved tablet support, updated templates, and increases response time.  Also, several bug fixes</li>
+	<li><b>Release-5.0.1</b>: Updated APL for movieoptions and getList for version 1.8 to support using images as buttons</li>
 </ul> 
 
 ## Code
