@@ -5,4 +5,4 @@ module.exports = function (data){
   	}
 
   	return requestString;
-};
+}; 

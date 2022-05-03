@@ -47,7 +47,8 @@ let libraryList;
 
 let getOptions = require('./helpers/getOptions');
 let getCardInfo = require('./helpers/getCardInfo');
-let getList = require('./helpers/getList');
+//let getList = require('./helpers/getList');
+let getList = require('./helpers/getList2');
 
 let menu;
 let searchChoice = "";
@@ -312,6 +313,24 @@ const MainMenuHandler = {
 
 				handlerInput.responseBuilder.addDirective({
 					type: 'Alexa.Presentation.APL.RenderDocument',
+					token: "movieOptions",
+					document: MovieOptions,
+					datasources: {
+						"gridListData":{
+							"type":"object",
+							"objectId": "gridListSample",
+							"backgroundImage": {
+								"sources": Background
+							},
+							"title": "Movie Options",
+							"listItems": requestList,
+							"logoUrl": smallLogo
+						}
+					}
+				})
+/*
+				handlerInput.responseBuilder.addDirective({
+					type: 'Alexa.Presentation.APL.RenderDocument',
 					document : MovieOptions,
 					datasources:{
 						"gridListData":{
@@ -325,7 +344,7 @@ const MainMenuHandler = {
 							"logoUrl":smallLogo
 						}
 					}
-				})
+				})*/
 
  			}else if(supportsAPL(handlerInput) && isLibrary){
 				console.log("****** has screen and is library")
@@ -614,17 +633,47 @@ const MovieChoicesHandler = {
 		const request = handlerInput.requestEnvelope.request;
 		return (request.type === 'IntentRequest'
 		  && request.intent.name === 'MovieChoices')
-		  || request.type === 'Display.ElementSelected';
+		  || request.type === 'Alexa.Presentation.APL.UserEvent';
 	},
 	handle(handlerInput){
 		console.log("in movie choice intent")
 		const request = handlerInput.requestEnvelope.request;
-		if (request.token) {
-			choice = request.token;
+		console.log(request)
+		if (request.type === 'Alexa.Presentation.APL.UserEvent') {
+			//console.log(request.arguments);
+			//console.log(typeof request.arguments[0].toString());
+			//choice = request.arguments[0].toString();
+			choice = request.arguments[0];
 		}else if(request.intent.slots.choice){
 			choice = request.intent.slots.choice.value;
 		}
 
+		/*
+
+		2022-03-08T04:56:55.984Z	69d30e8b-8611-4ad9-8448-e3015bbe3bb7	INFO	{
+  type: 'Alexa.Presentation.APL.UserEvent',
+  requestId: 'amzn1.echo-api.request.7811bd4e-0fcb-4cbc-9f71-c31629a34532',
+  timestamp: '2022-03-08T04:56:55Z',
+  locale: 'en-US',
+  arguments: [ 4 ],
+  components: {},
+  source: { type: 'TouchWrapper', handler: 'Press', id: '' },
+  token: 'movieOptions'
+}
+
+2022-03-08T05:01:14.530Z	f5b32243-7d30-43c0-9886-65ea305737b3	INFO	{
+  type: 'IntentRequest',
+  requestId: 'amzn1.echo-api.request.6048d39d-c34e-4885-9dbf-fba43fd32b01',
+  locale: 'en-US',
+  timestamp: '2022-03-08T05:01:14Z',
+  intent: {
+    name: 'MovieChoices',
+    confirmationStatus: 'NONE',
+    slots: { choice: [Object] }
+  }
+}
+
+		*/
 
 		let element;
 		let starter = '';
@@ -703,7 +752,7 @@ const MovieChoicesHandler = {
 			starter += getOptions(libraryList);
 			maxResults = libraryList.length;
 		}
-
+ 
 		console.log(element);
 		console.log(starter);
 
