@@ -47,8 +47,7 @@ let libraryList;
 
 let getOptions = require('./helpers/getOptions');
 let getCardInfo = require('./helpers/getCardInfo');
-//let getList = require('./helpers/getList');
-let getList = require('./helpers/getList2');
+let getList = require('./helpers/getList');
 
 let menu;
 let searchChoice = "";
