@@ -165,4 +165,14 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fatherstu.jpeg"
     }
   }
+
+  {
+    "option":"1",
+    "mtitle":"Doctor Strange in the Multiverse of Madness",
+    "review":"Doctor Strange and America Chavez run towards the Book of Vishanti with a demon chasing them.  Doctor Strange realizes the demon is too strong to stop.  There is only one way to win and save the multiverse, kill America.  Then, he wakes up in bed.  Doctor Strange is accustomed to these nightmares and brushes them off.  Today, Christine will marry Charles.<br/><br/>At the reception, Dr. Strange hears car crashes and people screaming.  He looks outside to see cars slamming by themselves.  He uses a spell to reveal a monster chasing a girl.  After Doctor Strange and Sorcerer Supreme Wong save the girl, Doctor Strange remembers her from his dream.  America swipes his sling ring and runs away.  Strange and Wong catch up to her, get the sling ring, and ask why the monster came after her.  She explains a demon desires to steal her power because she has the ability to jump through universes. Doctor Strange's dreams weren't dreams.  However, they were connections to the other Doctor Stranges in different universes.  Wong remembers markings on the monster, but they didn't look like any ruins they know.  They looked like witchcraft.  Doctor Strange decides to consult the strongest witch he knows: Wanda.<br/><br/>As Strange discusses the multiverse with Wanda, she says America's name.  Strange freezes because he never said it.  Wanda sent the creatures after America.  Wanda acquired the Darkhold and used it to move between universes to steal America's powers.  Once she has America's abilities, she can be in another universe with Billy and Tommy forever.  She gives Doctor Strange until sundown to bring America to her, or Scarlet Witch will come for them.<br/><br/>This movie kicks down any preconceived notions about the movie or the multiverse.  Before watching this film, you should watch What If, WandaVision, Spider-Man: No Way Home, and Doctor Strange.  While you won't get that awe-inspiring, stand up and cheer moment fans get with the other movies, you have a good time. You should know this is one of the most ruthless and bloody films in the MCU.  The graphics are stunning and look better in 3D.  And there are mid and post-credit scenes.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/doctorstrangemultiversemadness.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/doctorstrangemultiversemadness.jpeg"
+    }
+  }
 */
