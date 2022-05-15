@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Bound by Blackmail",
-    "review":"Nicole just became an empty nester after dropping her daughter, Ari, off at college.  She gets a welcomed text from her friend, Diana, asking to meet up.  Diana asks Nicole to come to a self-help seminar given by Initiative.  Nicole has never been into self-help, but the idea of community strikes her.  She runs into her high school friend, Phyllis, but something feels off about her demeanor.<br/><br/>After class is over, Phyllis approaches Nicole about her motivation to come.  Nicole was a young mother who dedicated her life to work and Ari.  So her social circle died.  Then, Diana cuts off their conversation to introduce Nicole to their leader, Ken.  Ken runs Initiative with his brother, Justin, handling the finances.  Nicole leaves, but Phyllis stops Nicole in the parking lot.  Phyllis tells Nicole not to join and to leave.  Phyllis promises to meet at Nicole's home later.<br/><br/>After Phyllis is a no-show, Nicole goes back to Initiative.  She learns that there are 11 levels to the program with classes, and each class costs money.  Justin tells Nicole to bring in new members when Nicole questions the fees.  Nicole mentions that this sounds like a pyramid scheme, and Justin stops her immediately.  Nicole asks about Phyllis, and Ken says Phyllis quit in an email.  Nicole leaves to go to Phyllis's home and asks why she quit.  Robyn, Phyllis's sister, meets Nicole at Phyllis's door.  But when Robyn hears the word 'Initiative,' Robyn doesn't want to talk to Nicole and slams the door in her face.<br/><br/>A day later, Rachel calls to tell Nicole that Phyllis died, and the police say it was an overdose.  Phyllis was sober for 15 years, so Rachel thinks that's a lie.  After talking to Megan, a young member, Nicole believes Initiative is a cult holding its members captive.  She wants to save Megan before Megan meets Phyllis's fate.  She wants to free Megan and find out what happened to Phyllis.  Is Nicole willing to sacrifice herself and Ari?<br/><br/>This movie is a full display of the BITE model for cult mind control.  While this plot seems far-fetched, you only need to look at NXIVM, Jonestown, or several MLMs to see that they follow the same structure to gain money and power.  Experienced Lifetimers will have the mystery killer pegged in the first hour.  Instead, use this movie as a teaching tool to recognize these tactics before you, or someone you care about gets in too deep emotionally or financially.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Revenge Best Served Chilled",
+    "review":"Emily samples wine on her YouTube channel and offers advice about wine pairings.  She entered an online contest for the American Wine Academy's Sommelier Contest.  Emily can help her father keep his restaurant open with the prize money.   Jillian startles Emily with aggressive bangs on the door.  Jillian informs Emily that the academy accepted her entry.  Jillian warns Emily that the competition is cutthroat.  Emily thinks of her mother, Lilla, and becomes encouraged to go and win.<br/><br/>Emily arrives, and the competition takes no time marking her as lower class.  Chad, Kristen, Lucia, and Clayton have different reasons for being at the competition, but they have the same drive as Emily.  When the headmaster, Victor, and Jillian walk out of the academy, they take a photo of the class and give them their first test.  Emily is the only contestant that recognized the boxed wine.  She smiles at her first success and walks into the wine cellar with Victor to take a wine home.  Emily hears footsteps behind her walking deeper.  Emily brushes off the event as her active imagination and goes to her room with her new wine.  However, Emily's instincts are correct.  Someone is after her and will use wine, drugs, and down to ensure she loses the competition.<br/><br/>Experienced LIfetimers can decipher who the attacker is the first moment the person is on the screen.  However, don't walk away from this movie.  The attacker is more devious than you know.  As the attacker unfolds, you will see what it takes to pull off something of this magnitude.  And the why is even crazier.  Plus, viewers get a fun fight scene with a much-needed celebratory drink at the end.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/boundbyblackmail.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/boundbyblackmail.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/revengebestservedchilled.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/revengebestservedchilled.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Mommy's Little Star",
-    "review":"Olivia and her father, Brad, go to the rehab center to visit her mother, Lauren, for Lauren's birthday, but Lauren checked out early.  Olivia is disappointed, and Brad consoles her.  Four months later, Olivia attends a drama summer day camp with her friend, Sydney.  Olivia wants to spend time with Lauren, but Lauren is not ready.<br/><br/>Before class, Sydney introduces Olivia to a new social media app, Sparxy.  A few kids got internet famous and turned their dance videos into a profit.  She thinks Lauren will want to be around if she is good at Sparxy. Olivia makes a dance video with Sydney and her nanny, Hope.  Sydney and Olivia post the video at the same time.  When Olivia gets more likes than Sydney, Olivia pledges to become famous to get Lauren back.<br/><br/>Lauren promised to meet with a recovery friend, Felicity, but Felicity stood her up.  Aiden sees her alone and pretends to find her wallet.  Aiden tells Lauren his friend isn't going to make it, so they should eat together.  Olivia texted Lauren because Lauren got thousands of likes in a few hours during Lauren's date with Aiden.  Aiden says good night to Lauren and looks her and Sparxy up online.  He discovers that Sparxy is having a contest.  At the end of the month, the video with the most views will receive $500,000.  Aiden owes dangerous people money, and he needs a payout fast.  He tells Lauren that he is a talent manager and is willing to take on Olivia as a client.  He will have Lauren sign a contract that puts all of Olivia's winnings in his bank account.  Now, he has to make sure Olivia wins.<br/><br/>So let's put this out there. Lauren and Brad are equivalent to Lifetime cops in this movie, and the most intelligent characters are Hope and Sydney.  However, viewers shouldn't overlook the film's message about influencers and social media.  Olivia wanted fame at all costs because she desired attention from her parents.  Even when Olivia physically and emotionally hurts people, it's not enough to stop her.  This movie is a sad reflection of our society that we shouldn't ignore.<br/><br/>4 out of 5 stars.",
+    "mtitle":"A Baby at Any Cost",
+    "review":"Monica and Brad watch their surrogate, Lily, give birth to their daughter, Olivia.  Lily started as a temp for Brad's app company but volunteered to help them start their family.  Monica and Brad hold Olivia, but they get distracted by Jen's constant texting.  Jen is Monica's erratic sister.<br/><br/>Brad warns Jen to be on her best behavior.  Jen complies but mentions that she should have been the surrogate.  In the room, Jen quickly grabs Olivia and attempts to take over.  After a brief hospital stay, Monica, Olivia, and Brad come home to an unknown visit from Jen.<br/><br/>Jen is in a custody dispute with her ex-husband, Sam.  Sam doesn't believe that Jen is a stable mother for their daughter, Ruby.  Each time Jen and Sam see each other face to face, Jen's reaction is violent.  However, Jen wants to prove Sam wrong by taking care of Olivia.  After several mishaps, Monica doesn't think Jen is up to the nanny job and hires Lily.  Jen will do anything to get back into Olivia's life and Monica's good graces, but will she put Olivia in danger to do it?<br/><br/>In the beginning, the script does a great job of making Jen look unstable.  She has moments of rage and improper impulse control.  Monica starts to fear Jen and recommends therapy before taking Olivia away from her.  As Monica's distrust grows, so will your compassion.  Jen does need help, but she is a target.  Everyone in this film could stand to spend some time on a couch.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mommyslittlestar.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mommyslittlestar.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ababyatanycost.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ababyatanycost.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Stalker",
-    "review":"During a scene, the bedpost comes off and almost hurts the star, Tanya.  Her co-star and boyfriend, Adam, screams at the director and prop manager.  Tanya grabs the bedpost and sees a small heart on it.  She thinks it's an innocent prank, completes the scene, and walks toward her trailer.  Her assistant, Riley, applauds Tanya for her bravery.  Then, her accountant has another piece of unfortunate information.  Someone stole Tanya's identity, and the bank froze her accounts.  They think it will take days to figure things out.<br/><br/>Tanya goes home with Adam to forget the day.  When Adam walks away, Tanya gets a text to check his phone.  She sees pictures of Adam with his ex-girlfriend, and she tells Adam to leave.  An unknown person calls Tanya and tells her to fix the past.  Tanya updates Riley but doesn't want to call the police.  Tanya decides to stay home and take a shower.  When she looks at the mirror's condensation, Tanya sees a heart.  Then, Tanya hears someone moving around the house.  Tanya can't stay in a hotel because the bank froze her accounts.  So, she drives 2 hours to her hometown.<br/><br/>Tanya's estranged sister, Shelly, lets Tanya in, and they talk about the past.  Tanya looks around her bedroom and out the window reminiscing about her neighbor, Damon.  Then, she sees something moving in Damon's house.  She and Shelly go over to check it, and Damon spooks them.  He heard Tanya was in town, and he wanted to say hi.  Tanya tells Damon that someone was in the house and calls the police.  Officer Marcus comes over to survey the area and finds nothing.  Although, he takes time to buddy up to Tanya.  Damon sees that Marcus makes Tanya uncomfortable, so he offers to stay with Tanya and Shelly until they find her stalker.  Tanya will confront the darkest corners of her past to reveal the monster.<br/><br/>When the villain appears on the screen, you know that person is the bad guy.  You only want to know why.  As the script peels the layers of Tanya's life, you learn she isn't the squeaky, clean image she portrays in the media.  The plot gives some red herrings, but experienced watchers see them a mile away.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Secret Lives of Housewives",
+    "review":"Peter sits outside the restaurant and watches his wife, Kendra, leave with their contractor, Eric.  Peter follows the pair to Eric's home and drives away when Kendra goes inside.<br/><br/>Inside, Kendra regains her senses and decides to leave before taking the date too far.  Kendra drives home and greets her son, Langston.  She asks Langston about Peter's whereabouts, but Langston doesn't know his father's location.  When Peter comes home, they slyly question each other but get no answers.<br/><br/>Kendra drops Langston off at the home of his friend, Will.  As Kendra walks away, Will's mom, Heather, stops her and asks about Eric.  Heather admits she and Eric are having an affair.  Keeping her composure, Kendra offers insight and retreats.  Kendra calls her friend, Samantha, and confesses the affair with Eric and his dealings with Heather.  Samantha tells Kendra to stop before she loses Peter and Langston.<br/><br/>After picking Langston up from Will's home, Langston admits that he and Will aren't friends.  Kendra drives past Eric's home and sees cops outside.  She walks up and sees them wheeling a body away.  Someone killed Eric, and it doesn't take long for detectives to question Kendra.  They ask Kendra and Peter about their whereabouts and missing items from Eric's home.  As the net tightens, can Kendra and Peter rely on each other? Or should they fear one another?<br/><br/>This film provides a solid mystery with a startling end.  You will need a part two for this compelling mystery because two hours wasn't enough.  These housewives have a lot more secrets to uncover.  Also, you see the shifty-eyed looks after someone leaves the room.  So you know they have something scandalous to hide.  Watch this film with a hot cup of tea and a bottle of wine.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalker.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalker.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretlivesofhousewives.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretlivesofhousewives.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Aloha with Love",
-    "review":"Darren and Gemma go over the proposal before presenting it to Mr. Barrington.  Gemma hopes that winning the bid will cement her relationship with Darren.  However, Mr. Barrington fumes because the condo development design doesn't have the number of homes he wanted.  Darren is furious with Gemma's practical design over customer satisfaction.  Gemma calls her Auntie Lani for guidance.  Lani tells Gemma that she shouldn't give up if she believes in her design.<br/><br/>Later, Gemma meets Darren for lunch, and he talks about their relationship like a business deal.  Gemma decides to end their romantic partnership and walks out.  Then, Gemma gets a call from her sister, Sarah.  Auntie Lani died from a heart attack while eating lunch with their dad, Pono.  Gemma catches the next flight to Maui.<br/><br/>During the wake, Lani's lawyer approaches with Lani's will.  Lani wanted Gemma and Sarah to take over her home to renovate it.  But Lani had one stipulation: the contractor must be Ben.  Ben is Gemma's high school crush.  Their relationship ended when Ben stood Gemma up to compete in a surf competition.  Then they see the house.  She tells Ben the home will be a refresh and not a redo, so he quits.  After some poor karma, Gemma hires Ben again.  And just in time.  Darren wants to buy Lani's land for Mr. Barrington.  If the deal goes through, Darren desires a second chance.  Sarah approves, but Ben makes his unhappiness known.  Between a house and a dollar sign, what will Gemma choose?<br/><br/>Be ready to laugh, cry, and yell at the screen.  Viewers will fall in love with the loving family and picturesque landscapes.  And hearing the actors speak Hawaiian engulfs you into the story.  It's great to see Gemma end her relationship before meeting Ben.  She didn't gain strength because of Ben but through Lani's words of wisdom.  This movie is an instant classic for advice, family connection, and genuine emotions.  Let's keep our fingers crossed for part two.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Yellowstone Romance",
+    "review":"Liv returns to New York hoping to settle back into her everyday life with her friend, Kat, but Kat has a piece of good news.  After several months of dating, Kat got engaged to Dylan.  But that's not all.  Dylan's job in New York is over, and he will be moving back to his Wyoming Ranch.  When Liv begrudgingly accepts the maid of honor job, she calls their friend, Justin.  After a conversation about the bachelorette party, Liv creates a devious plan.  She will schedule the party at a working ranch to convince Kat that ranch life isn't for Kat.<br/><br/>Liv slowly reveals the ranch's focus but not her master plan after they arrive.  However, Kat's gung-ho spirit confuses Liv.  Liv meets the owner, Wade, and Wade's son, Travis.  Wade put the ranch on a travel site, but Travis doesn't want selfie-loving city-slickers on the property.  As Liv spends more time with Travis, she stops complaining about life and starts working to change it.<br/><br/>Liv's plan is manipulative, but it's not the first time friends tried to make a bride or groom break up before the wedding.  With a lot of chemistry, Liv's plans backfire.  She becomes a rancher in love and wants to wake up early, gather eggs, and herd cattle.  This movie packs plenty of laughs, the most cringy karaoke scene, and hair tips for horses.  It's not a classic, but it's an entertaining watch.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/alohawithlove.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alohawithlove.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/yellowstoneromance.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/yellowstoneromance.jpg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Driven to Murder",
-    "review":"After a long night of work, Sarah uses a rideshare app for a lift home.  The driver gets out of the car in the middle of the ride and leaves her alone.  The driver returned and said he walked away to get more change.  They get back in the car and continue the ride.  Sarah shows she has pepper spray, and the driver asks to see it.  He examines the pepper spray and sees it is expired.  When he looks back to show her, he hits and kills a homeless man with his vehicle.  Sarah gets out and starts to call the police, but the driver stops her.  He tells Sarah that they will both be in trouble if they stay.  They drive to a convenience store, and Sarah runs to the bathroom.  Then, Sarah calls another rideshare and gets in the vehicle.  As Sarah tries to rest in the back seat, she gets stalker images on her phone.  Her previous driver is following her, and he wants her back.  He hits the car and runs it off the road.  When Sarah wakes up, her original driver is in the front seat and the other driver is dead.  This evening will be the worst night of Sarah's life because her driver is a murdering identity thief.  His name is Jason, and he killed the actual driver for access to his car and job.  Sarah is in the hands of a murdering psychopath.<br/><br/>This night stalker thriller would be scary if Sarah didn't make so many mistakes in the beginning.  By the time she discovers Jason is crazy, you have little to no sympathy for her.  However, you feel terror and sadness for Jason's murderous crime spree victims.  No one is safe or spared.  While Sarah may anger you, Jason will bring you into the story.  His cunning and manipulation are legendary.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Warming Up to You",
+    "review":"Kate is a highly educated fitness instructor at Santa Monica Fitness.  The fitness coach to the stars has a high demand but hates the center's new direction.  As she complains to the barista, actor Rick walks in for a chocolate milkshake.  She comments about his weight gain, and they argue.  When Kate's boss gets wind of the argument, he fires her.  Kate calls her friend, Sasha.  Sasha offers Kate a job at her Wellness Retreat.<br/><br/>When Kate arrives at Silver Spring Wellness Retreat, she hits the ground running.  She gets a call from a management agency.  Kate helped them get one of their clients, Liza, in shape for a role.  And they want Kate to do the same for their other client.  Kate says yes.<br/><br/>Soon, Kate regrets her decision when she sees Rick coming out of a car with his agent, Jared.  Kate has 30 days to help him lose 20 pounds.  But she understands that losing weight is half the battle.  Kate needs to get to the core of his weight gain.  When Rick discovers that Kate is analyzing him, Rick does the same.  He believes her need for fitness over fun stems from somewhere.  Their connection grows.  But will it end when Rick's girlfriend comes back to make amends?<br/><br/>Along with creative fitness tips, this movie dives into the psychological aspect of weight.  At first, Kate seems judgemental.  But her acknowledgment expresses a depth of understanding.  She isn't a cruel, hard-nosed trainer but a caring, understanding fitness guru.  Let's not forget the subplot between Sasha and Jared.  This romance deserves a movie.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/driventomurder.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/driventomurder.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/warminguptoyou.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/warminguptoyou.jpeg"
     }
   }
 ];
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Revenge Best Served Chilled",
+  "mtitle":"Disappearance in Yellowstone",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/revengebestservedchilled.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/revengebestservedchilled.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/disappearanceinyellowstone.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/disappearanceinyellowstone.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"A Baby at Any Cost",
+  "mtitle":"Stolen in Her Sleep",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ababyatanycost.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ababyatanycost.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stoleninhersleep.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stoleninhersleep.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Secret Lives of Housewives",
+  "mtitle":"Heart of the Matter",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretlivesofhousewives.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretlivesofhousewives.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/heartofthematter.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/heartofthematter.jpg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Yellowstone Romance",
+  "mtitle":"Fit to Kill",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/yellowstoneromance.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/yellowstoneromance.jpg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fittokill.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fittokill.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Warming Up to You",
+  "mtitle":"The Nature of Romance",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/warminguptoyou.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/warminguptoyou.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thenatureofromance.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thenatureofromance.jpg"
   }
 }
 
