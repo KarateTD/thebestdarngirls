@@ -56,7 +56,51 @@ module.exports = madeForTV;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"My Mom Made Me Do It",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mymommademedoit.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mymommademedoit.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Rip in Time",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ripintime.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ripintime.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"The Price of Perfection",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thepriceofperfection.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thepriceofperfection.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Harmony in Paradise",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/harmonyinparadise.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/harmonyinparadise.jpg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Romance to the Rescue",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/romancetotherescue.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/romancetotherescue.jpeg"
+  }
+}
 
 
 */

@@ -4,8 +4,8 @@ var earlyScreening = [
     "mtitle":"Fantastic Beasts: The Secrets of Dumbledore",
     "review":"Newt finds a Qilin about to give birth.  In the magical world, the Qilin can see into someone's soul, and they use it to pick their next leader.  After the creature gives birth, Credence attacks Newt, kills the mother Qilin, and steals the newborn calf.  When Newt wakes up, he realizes that the Qilin gave birth to twins.  He vows to keep this one safe until the Supreme Mugwump election.<br/><br/>At Grindelwald's fortress, he delights in Credence's find and praises Credence.  Queenie stands in the doorway and watches in horror as Grindelwald slits the baby Qilin's throat.  He looks into the pool of blood and sees into the future.  He gathers his allies and heads to Germany.<br/><br/>Dumbledore requested that Newt bring Theseus to him because he needs to explain something to Theseus.  Dumbledore tells Newt and Theseus that Grindelwald wants to make a power play and take over the magical world.  Dumbledore can't fight Grindelwald because they made a blood pact years ago.  Newt asks Professor Eulalie HIcks to find Jacob and bring Jacob to their train.<br/><br/>On the train, Newt lays out Dumbledore's plan.  Dumbledore knows Grindelwald can see into the future.  So Dumbledore wants to confuse Grindelwald by creating multiple ploys to bewilder Grindelwald's visions.  Each member of the team has a different mission and proceeds to Germany.<br/><br/>In Germany, the magical world prepares to vote for its next leader.  However, the Supreme Head of the International Confederation of Wizards, Anton Vogel, has an announcement.  He decided to clear Grindelwald of all charges, stating a lack of evidence.  Grindelwald can roam the world as a free man.  But that's not enough, and Dumbledore knows it.  Dumbledore will need Newt and his friends to stop Grindelwald's climb to power.<br/><br/>The third installment of The Fantastic Series doesn't offer fans new magic.  However, this film has more drama than a daytime soap opera and new beasts.  And if you haven't seen the first two films, don't worry.  Eulalie gives a 30-second synopsis of Jacob and Queenie's relationship that explains the first two plots.  And be prepared for the scariest and funniest prison break of the year.  And yes, you will get plenty of scenes with Niffler and Pickett.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fantasticbeaststhesecretsofdumbledore.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fantasticbeaststhesecretsofdumbledore.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fantasticbeaststhesecretsofdumbledore.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fantasticbeaststhesecretsofdumbledore.jpg"
     }
   },
   {
@@ -53,7 +53,15 @@ module.exports = earlyScreening;
 *  small image 720w x 480h (in pixels)
 *  large image 1200w x 800h (in pixels)
 
-
+{
+  "option":"",
+  "mtitle":"",
+  "review":"<br/><br/>* out of 5 stars",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/topgunmaverick.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/topgunmaverick.jpg"
+  }
+}
 
 
 */
