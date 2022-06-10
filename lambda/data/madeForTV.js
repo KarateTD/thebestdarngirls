@@ -56,7 +56,51 @@ module.exports = madeForTV;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Dirty Little Secret",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dirtylittlesecret.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dirtylittlesecret.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Happily Never After",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/happilyneverafter.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/happilyneverafter.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":""Deadly Yoga Retreat,
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deadlyyogaretreat.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deadlyyogaretreat.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"OUr Dream Wedding",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ourdreamwedding.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ourdreamwedding.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Hidden Gems",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hiddengems.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hiddengems.jpeg"
+  }
+}
 
 
 */
