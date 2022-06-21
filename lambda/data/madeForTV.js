@@ -56,6 +56,51 @@ module.exports = madeForTV;
 
 /*
 
+{
+  "option":"1",
+  "mtitle":"Bid for Love",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bidforlove.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bidforlove.jpg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"He's Not Worth Dying For",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hesnotworthdyingfor.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hesnotworthdyingfor.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Trapped With My Husband",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedwithmyhusband.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedwithmyhusband.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Who Kidnapped My Mom",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whokidnappedmymom.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whokidnappedmymom.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"A Romance Wedding",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aromancewedding.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aromancewedding.jpg"
+  }
+}
 
 
 
