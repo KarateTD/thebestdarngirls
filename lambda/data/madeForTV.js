@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Suitcase Killer: The Melanie McGuire Story",
-    "review":"Melanie works as a waitress while studying for her nurse's exam. Bill walks into the kitchen and takes notice of Melanie. He asks Melanie to join him at the casino. They have a fun night playing blackjack, but Melanie doesn't invite him inside for a nightcap.<br/><br/>Melanie tells her friend, Selene, about the date, and Selene worries because Bill is a flirt and Melanie has a bad temper. But that doesn't stop them from getting married and having two sons. Melanie is a successful nurse at a fertility clinic, and Bill is an engineer. A few years after the birth of their second son, Melanie finds a napkin with a name and number. She never confronts Bill about the note and goes to work. Melanie talks to an egg donor patient and recognizes her name from the napkin. She leaves the room and lets out her frustrations in the bathroom. Doctor Brad Miller sees Melanie, comforts her, and politely flirts. After a few fleeting moments, they give in to their desires and have an affair. While the world thinks Bill and Melanie have a great marriage, three suitcases will prove the world wrong.<br/><br/>This movie has all the sensationalism of Dateline, but it feels incomplete. The film tried to cover too much ground in two hours. With that aside, Melanie is the drowning man. Selene and Bill's ex-wife, Marcy, try to warn Melanie about Bill's ways, but she refuses to listen. If you follow this story, then you will learn something new about Melanie's life with Bill, but nothing new about the murder.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Bid for Love",
+    "review":"After shopping for her future job in real estate, Sasha comes home and trips over garbage bags. Her boyfriend, Memphis, tells her don't ask questions, to get her stuff, and get in the car. Then, armed men ambush Memphis and Sasha. While two men grab Memphis, one shoots Sasha in the shoulder.<br/><br/>Sasha wakes up, handcuffed to a hospital bed with detectives questioning her. Sasha says nothing and demands a lawyer. Five years later, Sasha calls her friend, Jewel, from jail to confirm Sasha's release pick-up. Jewel can't make it, but she asked an old friend, Malik, to do it. Malik turns on the charm, but Sasha rejects him. Sasha is not over Memphis. Sasha learned Memphis died while she was in prison.<br/><br/>Sasha and Jewel reconnect, and Jewel offers Sasha a place to stay, clothes, and a car. However, Jewel doesn't tell Sasha the presents are from Malik. Malik comes to Sasha's job and succeeds by getting a date with her. Sasha thinks she has her life on track, but Malik hides a dark side.<br/><br/>Based on Lawainna Patterson's play, Bid for Love displays one woman's trip through self-discovery. For years, Sasha allowed Memphis to take care of her. After some time in jail, Sasha repeats these mistakes with Malik but with detrimental consequences. This film will confuse you because there is zero conclusion, only more questions. Rumor has it there will be a part two. And the sooner, the better.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/suitcasekillerthemelaniemcguirestory.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/suitcasekillerthemelaniemcguirestory.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bidforlove.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bidforlove.jpg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Love Triangle Nightmare",
-    "review":"Brittany got her divorce papers in the mail. Thea offers moral support while Brittany signs them. Brittany wants to keep the divorce cordial for her daughter, Emma, to help restore Emma's relationship with her father, Austin. Austin is a cheating alcoholic but wants to do better for his family.<br/><br/>Brittany and Thea go to a spa to relax with a massage. Brittany bumps into a man in the lobby. Doctor Jake makes a joke about offering medical attention, but Brittany says no and laughs. Thea and Brittany's friend, Ava, throw a divorce party for Brittany with a stripper. Ava, a recovering alcoholic, tells Brittany to give the marriage another chance, but Thea tells Ava to stop.<br/><br/>Jake recognizes Brittany from across the room and invites himself to her table at the coffee shop. They talk, laugh, and get to know each other. They make plans to go on a hike later to talk more.<br/><br/>After a great hike, Brittany and Jake run into each other again, but she turns down his invitation. On Brittany's morning run, a person comes out from the woods, attacks, and steals her diamond necklace.<br/><br/>Brittany asks if she can bring Jake to Brittany's soft opening. Ava says yes and decides not to invite Austin to keep the peace, but he shows up saying he got an invitation from Brittany. He sees Brittany and Jake together and becomes angry. In a drunken rage, Austin admits that he had an affair with Thea and then starts a fight. However, Ava blames Austin's relapse on Thea and tries to get Brittany to reconsider. And that's the last thing she will do. Later, someone breaks into Ava's and kills her. When all signs point to Austin, Brittany runs to Jake for understanding. But should she trust him?<br/><br/>This movie is all over the place and does a poor job explaining Jake's fixation on Brittany. The movie has some funny one-liners and beautiful backdrops, but the rest falls flat.<br/><br/>2 out of 5 stars.",
+    "mtitle":"He's Not Worth Dying For",
+    "review":"Isla got emancipated at 15, following her father's mental breakdown after her mom left. Isla dreams of becoming an influencer and needs a few thousand more followers. She goes to a party with her friend, Cam, and sees a cute boy across the room. Jake is a military brat who lost his father recently. By the end of the night, he is in Isla's bed.<br/><br/>Grace is a college-bound, church-loving valedictorian. She hopes to become a veterinarian and attend an ivy league school. Grace goes to a restaurant with her friend and makes eyes with the waiter. His name is Jake, and he loves Grace's shy and intelligent persona. They go on a few dates, and he calls Grace his 'nature girl.'<br/><br/>Grace hangs out with her friends, and one of them sees the local influencer got a new boyfriend. Grace looks at the phone and sees Isla and Jake dancing in their underwear. Her heart instantly breaks. When Isla discovers Jake's cheating, she throws him out and shames him on social media. Isla fights to gain more followers and Grace for love. When the girls turn on each other, one will be in jail, and the other will be dead.<br/><br/>This true-crime story is a sad depiction of our social media-driven world. And it's that world that brings Grace and Isla down. Everyone is to blame for what happened between these two teens. Grace, unlike Isla, has two friends she confides in about her troubles with Jake. Isla's self-esteem comes from the number of followers she obtains and the likes she can get. As these teens come to their horrific end, no one lends a hand to stop it. They keep filming and posting. Watch this movie with your teen and pre-teen and discuss every aspect.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovetrianglenightmare.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovetrianglenightmare.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hesnotworthdyingfor.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hesnotworthdyingfor.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Wayward",
-    "review":"Micah and Dawn spark a conversation at a bar over salad and drinks. She is driving her VW van that Dawn calls Emily along the west coast. Micah tells Dawn that Portland is his destination, and she offers to give him a ride. Dawn hands Micah her phone to take a selfie. It slips out of his fingers and into her drink. Micah promises to buy her an upgrade when they get to Portland.<br/><br/>Dawn turns on a true-crime podcast about the Mechanic Maniac during their drive. The maniac murdered 13 lone travelers in 5 states and is on their way to becoming one of the most prolific serial killers. After driving all day, Micah and Dawn pull over to rest. Dawn asks Micah to find kindling while she showers. Dawn's shower is interrupted when Dawn sees a Bronco in the woods. Micah and Dawn forget about the lurker and go to sleep.<br/><br/>Dawn and Micah sleep through the night, eat, and get back on the road. Soon, they notice the same Bronco from the night before following them. After several high-speed close calls, Dawn believes it's the maniac coming after them. They will need to work with and trust each other to survive this road trip from hell with a maniac on their tail, no phones, and zero civilization.<br/><br/>Bravo to Kurt Yochum for making a compelling horror-thriller film. As Dawn and Micah make classic horror movie mistakes, they prove old clichés false. When the plot reveals the stunning twist, it will leave your mouth gaping in amazement and pure, unadulterated delight. Be forewarned, this movie does get a bit bloody, and the killer uses a circular saw. However, the conclusion makes the gore 100% worth it. And the recap helps you spot all the small but blaring clues you missed. Get ready for a wild ride with a potential part 2.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Trapped With My Husband",
+    "review":"Melissa leaves her company and walks to the parking lot to get her car and drive home. Then, a mugger jumps out of the shadows and attempts to rob her. But Kevin steps in and saves her. Afterward, he asks Melissa out for coffee, but she gives Kevin her phone number instead. After a while, Kevin and Melissa get married, but it's not the fairy tale ending. They constantly fight about money, and she doesn't believe his winebar will get off the ground.<br/><br/>Melissa's neighbor, Lauren, sees Melissa in the morning and tells Melissa to thank Kevin for helping Lauren's daughter, Grace, get a job at Kevin's restaurant. Melissa didn't know Kevin got a new job. Melissa goes to work and talks to her co-workers, Mary Ann and Cameron, about her problems at home.<br/><br/>At night, Kevin isn't home, and Melissa hears a noise from the kitchen. She walks downstairs to investigate and finds a strange man cutting an apple. The man tells Melissa that Kevin owes $15,000, and the man wants his money as soon as possible. After a few threats, the man leaves. Melissa confronts Kevin. And he admits to owing $300,000 and having an affair with Grace.<br/><br/>At work, Quinn calls Melissa and tells Melissa to meet her outside. Quinn was a successful designer until she met Kevin after he saved Quinn during a mugging. He took $100,000 from her. Melissa gets home and tells Kevin to leave for good. He refuses because the house is theirs, although she paid for it. Melissa confides to Cameron, and he contacts a lawyer, Erin, for Melissa. Erin tells Melissa that she can't kick Kevin out of the house.<br/><br/>She goes home and finds Kevin in filth and playing loud music. He wants 20% of Melissa's company, or he will stay and make her life miserable. Melissa says two can play at that game. She schedules home repairs and yard work at the crack of dawn. Unable to withstand the noise, Kevin leaves for a hike.<br/><br/>Melissa goes home, and Kevin's absence surprises her. Til she gets a knock at the door. Kevin is dead, and they want to question Melissa. After the police find Quinn dead, Melissa is the number one suspect. Can Melissa clear her name and save her life?<br/><br/>For a while, this film feels typical. Til, Kevin dies. With so many people after Kevin, viewers will have as many questions as the police. Kevin is the perfect villainous victim. To make this film more intriguing, it has plenty of OMG moments to make you perk up. So don't let the setup make you give up on this plot. It's worth it from beginning to end.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/wayward.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/wayward.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedwithmyhusband.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedwithmyhusband.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Color My World with Love",
-    "review":"Kendall lives with her mother, Emma, and paints to make money. Her grandmother, Beth, thinks Emma could give Kendall more independence, but Emma disagrees. Kendall has Down syndrome and deals with prejudice and idiotic behavior each day.<br/><br/>Emma goes to the community center to pick up Kendall and sees her talking to a young man outside. Kendall's friends tell Emma that the man is Brad, Kendall's boyfriend. Beth tells Emma that Emma should attend the upcoming banquet and meet Brad.<br/><br/>Emma watches Kendall and Brad adore each other at the banquet. Brad's brother from another mother, Nick, introduces himself. Nick's family protected Brad after his parents died. Brad takes care of himself and has a part-time job at a T-shirt shop. After meeting and learning about Brad, Emma concedes to letting them have a chaperoned date. Emma writes off their romance as a loving friendship. But when Brad proposes, can Emma let go and see Kendall as an adult?<br/><br/>It is impossible to watch this movie without shedding a tear. This movie lets viewers see the lives of Kendall and Emma without passing judgment on either. Kendall and Brad are two people in love, struggling through the complicated emotions with it, but with an extra chromosome. The film points out the discriminatory and hurtful remarks that people with challenges hear daily. Use this movie to open your mind and start a dialog with everyone in your family. FYI, the link in the end credits has a typo. The link should be NDSC center.org.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Who Kidnapped My Mom",
+    "review":"Eva stands in her driveway, going through a box of her late husband's things. Then someone jumps out and grabs her. Her daughters, Sami and Grace, run out of their house and towards Eva's muffled screams but find no one there. Eva's mother-in-law, Nancy, takes care of Grace and Sami while Sami makes 'missing person' flyers. Nancy thinks Eva killed her son, Ryan. After a week with no word, Sami finds Eva lying on the sidewalk in a diabetic coma.<br/><br/>One year later, Eva has her life on track and a new job, but she will need to move to New York. Nancy thinks Eva is running from a guilty conscience, and Eva kicks Nancy out of the house. In the morning, Eva is gone. Detective Campbell interviews Nancy and Eva's neighbor, Dean, but Nancy won't allow Sami to talk to the officer. Detective Campbell promises to look into Sami's concerns after 48 hours, but Sami refuses to wait for Detective Campbell and recruits her friend, Gabe. Sami vows to find out who kidnapped Eva for the 2nd time.<br/><br/>To quote Samuel L. Jackson, hold on to your butts because this movie will take you on a wild ride. The story keeps viewers guessing with secret meetings, money hand-offs, secret rooms, and a sketchy death. Sami starts as the typical Lifetime spoiled brat, but she redeems herself quickly. Within 30 minutes, you will cheer for Sami and her bad attitude.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/colormyworldwithlove.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/colormyworldwithlove.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whokidnappedmymom.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whokidnappedmymom.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"I Won't Let You Go",
-    "review":"Angie sits with her friends for lunch, but they look uneasy. They barely spend time together, and they believe her new husband, Keith, is the reason. After she gets home, Angie takes a pregnancy test because she feels ill, but it's negative.<br/><br/>Angie wows clients with her presentation, but her boss, Cherise, asking to talk alone, confuses Angie. Keith approached Cherise earlier and asked her to give Angie less work. He wants Angie to have more time to focus on their upcoming family. She can't believe Keith spoke to Cherise behind her back and chews Keith out. After some advice from her friend, Angie takes another pregnancy test and passes. She and Keith are over the moon. Angie posts about her pregnancy on social media, and followers leave comments, including her ex-boyfriend, Tyler. At first, Angie is flatter with Tyler's attention, but Keith and her friends warn Angie to cut off Tyler. When she does, Tyler starts to stalk her. Keith declares he will stay by her side until Angie and his baby are safe.<br/><br/>Most importantly, Angie and Keith did not have enough discussions before getting married. Viewers will see that both sides have their faults. Keith is too controlling, and Angie is too laissez-faire online, at work, and with friends. Be ready to be annoyed by everyone when the plot comes to its foreseeable conclusion.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"A Romance Wedding",
+    "review":"Years after opening her wedding business with Nick, Zoe feels drained. Zoe wants to take time off but doesn't feel like she can. Til she gets a call from her mom, Celeste. Zoe's dad, Richard, broke his leg working in the garden, so he can't cook for their café. Zoe offers to come back to Romance, Oregon, and help.<br/><br/>When she arrives, Celeste tells Zoe the truth. They don't need her at the café because they already have her ex-boyfriend, Will, cooking. She drives to her parents' home and stops at Mason Farm. Zoe notices the 'For Sale' sign and gets an idea. She wants to buy the farm and turn it into a wedding venue. She tells Will, and he says, 'absolutely not.' Mason Farm belongs to his parents. If he doesn't sell the farm soon, he will have to use his savings to cover the payments. Without his nest egg, he can't start his dream restaurant. Also, he thinks farmland should stay farmland and nothing else. Will agrees if the mayor says yes, he will sell. However, Will knows it won't go through because the mayor feels like him. Zoe won't back down and will rally the town of Romance in her favor to restart her business.<br/><br/>Yes, the ending is predictable, but the plot has several layers. It's a lot to keep up with while you drool over roasted root veggies with honey and mint, banana cream pie with homemade vanilla extract, and caramel salted brownies. While this won't be a favorite of the June Grooms season, give this movie a chance. It has entertainment value and great one-liners.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/iwontletyougo.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/iwontletyougo.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aromancewedding.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aromancewedding.jpg"
     }
   }
 ];
@@ -58,47 +58,38 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Bid for Love",
-  "review":"<br/><br/>* out of 5 stars.",
+  "mtitle":"Jailbereak Lovers",
+  "review":"<br/><br/>* out of stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bidforlove.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bidforlove.jpg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/jailbreaklovers.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/jailbreaklovers.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"He's Not Worth Dying For",
-  "review":"<br/><br/>* out of 5 stars.",
+  "mtitle":"Ice Road Killers",
+  "review":"<br/><br/>* out of stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hesnotworthdyingfor.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hesnotworthdyingfor.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/iceroadkillers.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/iceroadkillers.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Trapped With My Husband",
-  "review":"<br/><br/>* out of 5 stars.",
+  "mtitle":"Planning on Forever",
+  "review":"<br/><br/>* out of stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedwithmyhusband.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedwithmyhusband.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/planningonforever.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/planningonforever.jpg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Who Kidnapped My Mom",
-  "review":"<br/><br/>* out of 5 stars.",
+  "mtitle":"Two Tickets to Paradise",
+  "review":"<br/><br/>* out of stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whokidnappedmymom.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whokidnappedmymom.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"A Romance Wedding",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aromancewedding.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aromancewedding.jpg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/twoticketstoparadise.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/twoticketstoparadise.jpg"
   }
 }
 

@@ -115,4 +115,13 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/doctorstrangemultiversemadness.jpeg"
     }
   }
+
+  {
+    "option":"1",
+    "mtitle":"Fantastic Beasts: The Secrets of Dumbledore",
+    "review":"Fantastic Beasts: The Secrets of Dumbledore was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fantasticbeaststhesecretsofdumbledore.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fantasticbeaststhesecretsofdumbledore.jpg"
+  }
 */
