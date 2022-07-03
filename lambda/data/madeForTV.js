@@ -10,7 +10,7 @@ var madeForTV = [
   },
   {
     "option":"2",
-    "mtitle":"Ice Road Killers",
+    "mtitle":"Ice Road Killer",
     "review":"Helen drives to pick up her daughter, Lauren, for winter break. While on the phone with Lauren's school to iron out financial issues, Helen almost hits a woman on the road. The woman, Carly, says she was desperate to get someone to stop for her. Carly needs a ride to town to meet with her family. Carly agrees and gets in Helen's car. Carly opens the glove box and spots a gun. Helen says it's for self-defense, and Carly quietly nods. Carly tries not to show Helen that she is freaking out over the gun, but Carly texts her boyfriend, Boyd, the truth. Carly wants to stop their plan, but Boyd says no.<br/><br/>Carly waits for Boyd to attack when Helen picks up Lauren, but he doesn't, and the women drive to their next stop. Carly doesn't know, but a trucker blocked Boyd's car before he could attack. Carly texts Boyd again, but the trucker messages back that Boyd is dead and she is next. Helen and Lauren ride with the vengeful trucker's next victim. And he won't hesitate to make Lauren and Helen collateral damage.<br/><br/>A lot of suspenseful events driven by stupid decisions are the best way to summarize this movie. At first, viewers will believe that Boyd and Carly are the killers, but they are the least of Helen and Lauren's worries. As he hunts down the couple, you don't sympathize with them. Also, you will have little empathy for Helen because she keeps making countless mistakes. Lauren is the only person using their brain. This movie is frustratingly captivating.<br/><br/>3 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/iceroadkillers.jpeg",
