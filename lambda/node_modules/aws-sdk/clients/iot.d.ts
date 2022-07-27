@@ -52,11 +52,11 @@ declare class Iot extends Service {
    */
   attachPolicy(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Attaches the specified policy to the specified principal (certificate or other credential).  Note: This action is deprecated. Please use AttachPolicy instead. Requires permission to access the AttachPrincipalPolicy action.
+   * Attaches the specified policy to the specified principal (certificate or other credential).  Note: This action is deprecated and works as expected for backward compatibility, but we won't add enhancements. Use AttachPolicy instead. Requires permission to access the AttachPrincipalPolicy action.
    */
   attachPrincipalPolicy(params: Iot.Types.AttachPrincipalPolicyRequest, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Attaches the specified policy to the specified principal (certificate or other credential).  Note: This action is deprecated. Please use AttachPolicy instead. Requires permission to access the AttachPrincipalPolicy action.
+   * Attaches the specified policy to the specified principal (certificate or other credential).  Note: This action is deprecated and works as expected for backward compatibility, but we won't add enhancements. Use AttachPolicy instead. Requires permission to access the AttachPrincipalPolicy action.
    */
   attachPrincipalPolicy(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
@@ -1252,6 +1252,14 @@ declare class Iot extends Service {
    */
   listManagedJobTemplates(callback?: (err: AWSError, data: Iot.Types.ListManagedJobTemplatesResponse) => void): Request<Iot.Types.ListManagedJobTemplatesResponse, AWSError>;
   /**
+   * Lists the values reported for an IoT Device Defender metric (device-side metric, cloud-side metric, or custom metric) by the given thing during the specified time period.
+   */
+  listMetricValues(params: Iot.Types.ListMetricValuesRequest, callback?: (err: AWSError, data: Iot.Types.ListMetricValuesResponse) => void): Request<Iot.Types.ListMetricValuesResponse, AWSError>;
+  /**
+   * Lists the values reported for an IoT Device Defender metric (device-side metric, cloud-side metric, or custom metric) by the given thing during the specified time period.
+   */
+  listMetricValues(callback?: (err: AWSError, data: Iot.Types.ListMetricValuesResponse) => void): Request<Iot.Types.ListMetricValuesResponse, AWSError>;
+  /**
    * Gets a list of all mitigation actions that match the specified filter criteria. Requires permission to access the ListMitigationActions action.
    */
   listMitigationActions(params: Iot.Types.ListMitigationActionsRequest, callback?: (err: AWSError, data: Iot.Types.ListMitigationActionsResponse) => void): Request<Iot.Types.ListMitigationActionsResponse, AWSError>;
@@ -1508,19 +1516,19 @@ declare class Iot extends Service {
    */
   putVerificationStateOnViolation(callback?: (err: AWSError, data: Iot.Types.PutVerificationStateOnViolationResponse) => void): Request<Iot.Types.PutVerificationStateOnViolationResponse, AWSError>;
   /**
-   * Registers a CA certificate with IoT. This CA certificate can then be used to sign device certificates, which can be then registered with IoT. You can register up to 10 CA certificates per Amazon Web Services account that have the same subject field. This enables you to have up to 10 certificate authorities sign your device certificates. If you have more than one CA certificate registered, make sure you pass the CA certificate when you register your device certificates with the RegisterCertificate action. Requires permission to access the RegisterCACertificate action.
+   * Registers a CA certificate with Amazon Web Services IoT Core. There is no limit to the number of CA certificates you can register in your Amazon Web Services account. You can register up to 10 CA certificates with the same CA subject field per Amazon Web Services account. Requires permission to access the RegisterCACertificate action.
    */
   registerCACertificate(params: Iot.Types.RegisterCACertificateRequest, callback?: (err: AWSError, data: Iot.Types.RegisterCACertificateResponse) => void): Request<Iot.Types.RegisterCACertificateResponse, AWSError>;
   /**
-   * Registers a CA certificate with IoT. This CA certificate can then be used to sign device certificates, which can be then registered with IoT. You can register up to 10 CA certificates per Amazon Web Services account that have the same subject field. This enables you to have up to 10 certificate authorities sign your device certificates. If you have more than one CA certificate registered, make sure you pass the CA certificate when you register your device certificates with the RegisterCertificate action. Requires permission to access the RegisterCACertificate action.
+   * Registers a CA certificate with Amazon Web Services IoT Core. There is no limit to the number of CA certificates you can register in your Amazon Web Services account. You can register up to 10 CA certificates with the same CA subject field per Amazon Web Services account. Requires permission to access the RegisterCACertificate action.
    */
   registerCACertificate(callback?: (err: AWSError, data: Iot.Types.RegisterCACertificateResponse) => void): Request<Iot.Types.RegisterCACertificateResponse, AWSError>;
   /**
-   * Registers a device certificate with IoT. If you have more than one CA certificate that has the same subject field, you must specify the CA certificate that was used to sign the device certificate being registered. Requires permission to access the RegisterCertificate action.
+   * Registers a device certificate with IoT in the same certificate mode as the signing CA. If you have more than one CA certificate that has the same subject field, you must specify the CA certificate that was used to sign the device certificate being registered. Requires permission to access the RegisterCertificate action.
    */
   registerCertificate(params: Iot.Types.RegisterCertificateRequest, callback?: (err: AWSError, data: Iot.Types.RegisterCertificateResponse) => void): Request<Iot.Types.RegisterCertificateResponse, AWSError>;
   /**
-   * Registers a device certificate with IoT. If you have more than one CA certificate that has the same subject field, you must specify the CA certificate that was used to sign the device certificate being registered. Requires permission to access the RegisterCertificate action.
+   * Registers a device certificate with IoT in the same certificate mode as the signing CA. If you have more than one CA certificate that has the same subject field, you must specify the CA certificate that was used to sign the device certificate being registered. Requires permission to access the RegisterCertificate action.
    */
   registerCertificate(callback?: (err: AWSError, data: Iot.Types.RegisterCertificateResponse) => void): Request<Iot.Types.RegisterCertificateResponse, AWSError>;
   /**
@@ -2126,7 +2134,7 @@ declare namespace Iot {
     /**
      * Specifies if this mitigation action can move the things that triggered the mitigation action even if they are part of one or more dynamic thing groups.
      */
-    overrideDynamicGroups?: OverrideDynamicGroups;
+    overrideDynamicGroups?: NullableBoolean;
   }
   export type AdditionalMetricsToRetainList = BehaviorMetric[];
   export type AdditionalMetricsToRetainV2List = MetricToRetain[];
@@ -2819,6 +2827,7 @@ declare namespace Iot {
   }
   export type Boolean = boolean;
   export type BooleanKey = boolean;
+  export type BooleanWrapperObject = boolean;
   export interface Bucket {
     /**
      * The value counted for the particular bucket.
@@ -2901,6 +2910,10 @@ declare namespace Iot {
      * When the CA certificate is valid.
      */
     validity?: CertificateValidity;
+    /**
+     * The mode of the CA.  All the device certificates that are registered using this CA will be registered in the same mode as the CA. For more information about certificate mode for device certificates, see certificate mode.
+     */
+    certificateMode?: CertificateMode;
   }
   export type CACertificateStatus = "ACTIVE"|"INACTIVE"|string;
   export type CACertificateUpdateAction = "DEACTIVATE"|string;
@@ -3007,7 +3020,7 @@ declare namespace Iot {
      */
     status?: CertificateStatus;
     /**
-     * The mode of the certificate.
+     * The mode of the certificate.  DEFAULT: A certificate in DEFAULT mode is either generated by Amazon Web Services IoT Core or registered with an issuer certificate authority (CA) in DEFAULT mode. Devices with certificates in DEFAULT mode aren't required to send the Server Name Indication (SNI) extension when connecting to Amazon Web Services IoT Core. However, to use features such as custom domains and VPC endpoints, we recommend that you use the SNI extension when connecting to Amazon Web Services IoT Core.  SNI_ONLY: A certificate in SNI_ONLY mode is registered without an issuer CA. Devices with certificates in SNI_ONLY mode must send the SNI extension when connecting to Amazon Web Services IoT Core. 
      */
     certificateMode?: CertificateMode;
     /**
@@ -3070,7 +3083,7 @@ declare namespace Iot {
      */
     validity?: CertificateValidity;
     /**
-     * The mode of the certificate.
+     * The mode of the certificate.  DEFAULT: A certificate in DEFAULT mode is either generated by Amazon Web Services IoT Core or registered with an issuer certificate authority (CA) in DEFAULT mode. Devices with certificates in DEFAULT mode aren't required to send the Server Name Indication (SNI) extension when connecting to Amazon Web Services IoT Core. However, to use features such as custom domains and VPC endpoints, we recommend that you use the SNI extension when connecting to Amazon Web Services IoT Core.  SNI_ONLY: A certificate in SNI_ONLY mode is registered without an issuer CA. Devices with certificates in SNI_ONLY mode must send the SNI extension when connecting to Amazon Web Services IoT Core.  For more information about the value for SNI extension, see Transport security in IoT.
      */
     certificateMode?: CertificateMode;
   }
@@ -3332,15 +3345,15 @@ declare namespace Iot {
   }
   export interface CreateCustomMetricRequest {
     /**
-     *  The name of the custom metric. This will be used in the metric report submitted from the device/thing. Shouldn't begin with aws:. Cannot be updated once defined.
+     *  The name of the custom metric. This will be used in the metric report submitted from the device/thing. The name can't begin with aws:. You can't change the name after you define it.
      */
     metricName: MetricName;
     /**
-     *  Field represents a friendly name in the console for the custom metric; it doesn't have to be unique. Don't use this name as the metric identifier in the device metric report. Can be updated once defined.
+     *  The friendly name in the console for the custom metric. This name doesn't have to be unique. Don't use this name as the metric identifier in the device metric report. You can update the friendly name after you define it.
      */
     displayName?: CustomMetricDisplayName;
     /**
-     *  The type of the custom metric. Types include string-list, ip-address-list, number-list, and number. 
+     *  The type of the custom metric.   The type number only takes a single metric value as an input, but when you submit the metrics value in the DeviceMetrics report, you must pass it as an array with a single value. 
      */
     metricType: CustomMetricType;
     /**
@@ -3358,7 +3371,7 @@ declare namespace Iot {
      */
     metricName?: MetricName;
     /**
-     *  The Amazon Resource Number (ARN) of the custom metric, e.g. arn:aws-partition:iot:region:accountId:custommetric/metricName  
+     *  The Amazon Resource Number (ARN) of the custom metric. For example, arn:aws-partition:iot:region:accountId:custommetric/metricName  
      */
     metricArn?: CustomMetricArn;
   }
@@ -3564,7 +3577,7 @@ declare namespace Iot {
      */
     presignedUrlConfig?: PresignedUrlConfig;
     /**
-     * Specifies whether the job will continue to run (CONTINUOUS), or will be complete after all those things specified as targets have completed the job (SNAPSHOT). If continuous, the job may also be run on a thing when a change is detected in a target. For example, a job will run on a thing when the thing is added to a target group, even after the job was completed by all things originally in the group.
+     * Specifies whether the job will continue to run (CONTINUOUS), or will be complete after all those things specified as targets have completed the job (SNAPSHOT). If continuous, the job may also be run on a thing when a change is detected in a target. For example, a job will run on a thing when the thing is added to a target group, even after the job was completed by all things originally in the group.  We recommend that you use continuous jobs instead of snapshot jobs for dynamic thing group targets. By using continuous jobs, devices that join the group receive the job execution even after the job has been created. 
      */
     targetSelection?: TargetSelection;
     /**
@@ -3596,7 +3609,7 @@ declare namespace Iot {
      */
     jobExecutionsRetryConfig?: JobExecutionsRetryConfig;
     /**
-     * Parameters of a managed template that you can specify to create the job document.
+     * Parameters of an Amazon Web Services managed template that you can specify to create the job document.   documentParameters can only be used when creating jobs from Amazon Web Services managed templates. This parameter can't be used with custom job templates or to create jobs from them. 
      */
     documentParameters?: ParameterMap;
   }
@@ -3960,7 +3973,7 @@ declare namespace Iot {
      */
     roleArn: RoleArn;
     /**
-     * How long (in seconds) the credentials will be valid. The default value is 3,600 seconds.
+     * How long (in seconds) the credentials will be valid. The default value is 3,600 seconds. This value must be less than or equal to the maximum session duration of the IAM role that the role alias references.
      */
     credentialDurationSeconds?: CredentialDurationSeconds;
     /**
@@ -4221,11 +4234,11 @@ declare namespace Iot {
      */
     certificateChain?: CodeSigningCertificateChain;
     /**
-     * The hash algorithm used to code sign the file.
+     * The hash algorithm used to code sign the file. You can use a string as the algorithm name if the target over-the-air (OTA) update devices are able to verify the signature that was generated using the same signature algorithm. For example, FreeRTOS uses SHA256 or SHA1, so you can pass either of them based on which was used for generating the signature.
      */
     hashAlgorithm?: HashAlgorithm;
     /**
-     * The signature algorithm used to code sign the file.
+     * The signature algorithm used to code sign the file. You can use a string as the algorithm name if the target over-the-air (OTA) update devices are able to verify the signature that was generated using the same signature algorithm. For example, FreeRTOS uses ECDSA or RSA, so you can pass either of them based on which was used for generating the signature.
      */
     signatureAlgorithm?: SignatureAlgorithm;
   }
@@ -4763,7 +4776,7 @@ declare namespace Iot {
      */
     metricArn?: CustomMetricArn;
     /**
-     *  The type of the custom metric. Types include string-list, ip-address-list, number-list, and number. 
+     *  The type of the custom metric.   The type number only takes a single metric value as an input, but while submitting the metrics value in the DeviceMetrics report, it must be passed as an array with a single value. 
      */
     metricType?: CustomMetricType;
     /**
@@ -5091,7 +5104,7 @@ declare namespace Iot {
      */
     environments?: Environments;
     /**
-     * A map of key-value pairs that you can use as guidance to specify the inputs for creating a job from a managed template.
+     * A map of key-value pairs that you can use as guidance to specify the inputs for creating a job from a managed template.   documentParameters can only be used when creating jobs from Amazon Web Services managed templates. This parameter can't be used with custom job templates or to create jobs from them. 
      */
     documentParameters?: DocumentParameters;
     /**
@@ -6382,6 +6395,12 @@ declare namespace Iot {
   export type IndexNamesList = IndexName[];
   export type IndexSchema = string;
   export type IndexStatus = "ACTIVE"|"BUILDING"|"REBUILDING"|string;
+  export interface IndexingFilter {
+    /**
+     * The shadow names that you select to index. The default maximum number of shadow names for indexing is 10. To increase the limit, see Amazon Web Services IoT Device Management Quotas in the Amazon Web Services General Reference. 
+     */
+    namedShadowNames?: NamedShadowNamesFilter;
+  }
   export type InlineDocument = string;
   export type InputName = string;
   export interface IotAnalyticsAction {
@@ -6444,7 +6463,7 @@ declare namespace Iot {
      */
     jobId?: JobId;
     /**
-     * Specifies whether the job will continue to run (CONTINUOUS), or will be complete after all those things specified as targets have completed the job (SNAPSHOT). If continuous, the job may also be run on a thing when a change is detected in a target. For example, a job will run on a device when the thing representing the device is added to a target group, even after the job was completed by all things originally in the group. 
+     * Specifies whether the job will continue to run (CONTINUOUS), or will be complete after all those things specified as targets have completed the job (SNAPSHOT). If continuous, the job may also be run on a thing when a change is detected in a target. For example, a job will run on a device when the thing representing the device is added to a target group, even after the job was completed by all things originally in the group.   We recommend that you use continuous jobs instead of snapshot jobs for dynamic thing group targets. By using continuous jobs, devices that join the group receive the job execution even after the job has been created. 
      */
     targetSelection?: TargetSelection;
     /**
@@ -6516,9 +6535,13 @@ declare namespace Iot {
      */
     jobExecutionsRetryConfig?: JobExecutionsRetryConfig;
     /**
-     * A key-value map that pairs the patterns that need to be replaced in a managed template job document schema. You can use the description of each key as a guidance to specify the inputs during runtime when creating a job.
+     * A key-value map that pairs the patterns that need to be replaced in a managed template job document schema. You can use the description of each key as a guidance to specify the inputs during runtime when creating a job.   documentParameters can only be used when creating jobs from Amazon Web Services managed templates. This parameter can't be used with custom job templates or to create jobs from them. 
      */
     documentParameters?: ParameterMap;
+    /**
+     * Indicates whether a job is concurrent. Will be true when a job is rolling out new job executions or canceling previously created executions, otherwise false.
+     */
+    isConcurrent?: BooleanWrapperObject;
   }
   export type JobArn = string;
   export type JobDescription = string;
@@ -6696,7 +6719,7 @@ declare namespace Iot {
      */
     thingGroupId?: ThingGroupId;
     /**
-     * Specifies whether the job will continue to run (CONTINUOUS), or will be complete after all those things specified as targets have completed the job (SNAPSHOT). If continuous, the job may also be run on a thing when a change is detected in a target. For example, a job will run on a thing when the thing is added to a target group, even after the job was completed by all things originally in the group.
+     * Specifies whether the job will continue to run (CONTINUOUS), or will be complete after all those things specified as targets have completed the job (SNAPSHOT). If continuous, the job may also be run on a thing when a change is detected in a target. For example, a job will run on a thing when the thing is added to a target group, even after the job was completed by all things originally in the group.  We recommend that you use continuous jobs instead of snapshot jobs for dynamic thing group targets. By using continuous jobs, devices that join the group receive the job execution even after the job has been created. 
      */
     targetSelection?: TargetSelection;
     /**
@@ -6715,6 +6738,10 @@ declare namespace Iot {
      * The time, in seconds since the epoch, when the job completed.
      */
     completedAt?: DateType;
+    /**
+     * Indicates whether a job is concurrent. Will be true when a job is rolling out new job executions or canceling previously created executions, otherwise false.
+     */
+    isConcurrent?: BooleanWrapperObject;
   }
   export type JobSummaryList = JobSummary[];
   export type JobTargets = TargetArn[];
@@ -7434,7 +7461,7 @@ declare namespace Iot {
      */
     status?: JobStatus;
     /**
-     * Specifies whether the job will continue to run (CONTINUOUS), or will be complete after all those things specified as targets have completed the job (SNAPSHOT). If continuous, the job may also be run on a thing when a change is detected in a target. For example, a job will run on a thing when the thing is added to a target group, even after the job was completed by all things originally in the group. 
+     * Specifies whether the job will continue to run (CONTINUOUS), or will be complete after all those things specified as targets have completed the job (SNAPSHOT). If continuous, the job may also be run on a thing when a change is detected in a target. For example, a job will run on a thing when the thing is added to a target group, even after the job was completed by all things originally in the group.   We recommend that you use continuous jobs instead of snapshot jobs for dynamic thing group targets. By using continuous jobs, devices that join the group receive the job execution even after the job has been created. 
      */
     targetSelection?: TargetSelection;
     /**
@@ -7489,6 +7516,50 @@ declare namespace Iot {
     managedJobTemplates?: ManagedJobTemplatesSummaryList;
     /**
      * The token to retrieve the next set of results.
+     */
+    nextToken?: NextToken;
+  }
+  export interface ListMetricValuesRequest {
+    /**
+     * The name of the thing for which security profile metric values are returned.
+     */
+    thingName: DeviceDefenderThingName;
+    /**
+     * The name of the security profile metric for which values are returned.
+     */
+    metricName: BehaviorMetric;
+    /**
+     * The dimension name.
+     */
+    dimensionName?: DimensionName;
+    /**
+     * The dimension value operator.
+     */
+    dimensionValueOperator?: DimensionValueOperator;
+    /**
+     * The start of the time period for which metric values are returned.
+     */
+    startTime: Timestamp;
+    /**
+     * The end of the time period for which metric values are returned.
+     */
+    endTime: Timestamp;
+    /**
+     * The maximum number of results to return at one time.
+     */
+    maxResults?: MaxResults;
+    /**
+     * The token for the next set of results.
+     */
+    nextToken?: NextToken;
+  }
+  export interface ListMetricValuesResponse {
+    /**
+     * The data the thing reports for the metric during the specified time period.
+     */
+    metricDatumList?: MetricDatumList;
+    /**
+     * A token that can be used to retrieve the next set of results, or null if there are no additional results.
      */
     nextToken?: NextToken;
   }
@@ -8361,6 +8432,17 @@ declare namespace Iot {
   export type Message = string;
   export type MessageFormat = "RAW"|"JSON"|string;
   export type MessageId = string;
+  export interface MetricDatum {
+    /**
+     * The time the metric value was reported.
+     */
+    timestamp?: Timestamp;
+    /**
+     * The value reported for the metric.
+     */
+    value?: MetricValue;
+  }
+  export type MetricDatumList = MetricDatum[];
   export interface MetricDimension {
     /**
      * A unique identifier for the dimension.
@@ -8498,6 +8580,7 @@ declare namespace Iot {
   export type MqttPassword = Buffer|Uint8Array|Blob|string;
   export type MqttUsername = string;
   export type NamedShadowIndexingMode = "OFF"|"ON"|string;
+  export type NamedShadowNamesFilter = ShadowName[];
   export type NamespaceId = string;
   export type NextToken = string;
   export type NonCompliantChecksCount = number;
@@ -8762,7 +8845,7 @@ declare namespace Iot {
   export type Prefix = string;
   export interface PresignedUrlConfig {
     /**
-     * The ARN of an IAM role that grants grants permission to download files from the S3 bucket where the job data/updates are stored. The role must also grant permission for IoT to download the files.
+     * The ARN of an IAM role that grants grants permission to download files from the S3 bucket where the job data/updates are stored. The role must also grant permission for IoT to download the files.  For information about addressing the confused deputy problem, see cross-service confused deputy prevention in the Amazon Web Services IoT Core developer guide. 
      */
     roleArn?: RoleArn;
     /**
@@ -8916,11 +8999,11 @@ declare namespace Iot {
      */
     caCertificate: CertificatePem;
     /**
-     * The private key verification certificate.
+     * The private key verification certificate. If certificateMode is SNI_ONLY, the verificationCertificate field must be empty. If certificateMode is DEFAULT or not provided, the verificationCertificate field must not be empty. 
      */
-    verificationCertificate: CertificatePem;
+    verificationCertificate?: CertificatePem;
     /**
-     * A boolean value that specifies if the CA certificate is set to active.
+     * A boolean value that specifies if the CA certificate is set to active. Valid values: ACTIVE | INACTIVE 
      */
     setAsActive?: SetAsActive;
     /**
@@ -8935,6 +9018,10 @@ declare namespace Iot {
      * Metadata which can be used to manage the CA certificate.  For URI Request parameters use format: ...key1=value1&amp;key2=value2... For the CLI command-line parameter use format: &amp;&amp;tags "key1=value1&amp;key2=value2..." For the cli-input-json file use format: "tags": "key1=value1&amp;key2=value2..." 
      */
     tags?: TagList;
+    /**
+     * Describes the certificate mode in which the Certificate Authority (CA) will be registered. If the verificationCertificate field is not provided, set certificateMode to be SNI_ONLY. If the verificationCertificate field is provided, set certificateMode to be DEFAULT. When certificateMode is not provided, it defaults to DEFAULT. All the device certificates that are registered using this CA will be registered in the same certificate mode as the CA. For more information about certificate mode for device certificates, see  certificate mode. 
+     */
+    certificateMode?: CertificateMode;
   }
   export interface RegisterCACertificateResponse {
     /**
@@ -8956,11 +9043,11 @@ declare namespace Iot {
      */
     caCertificatePem?: CertificatePem;
     /**
-     * A boolean value that specifies if the certificate is set to active.
+     * A boolean value that specifies if the certificate is set to active. Valid values: ACTIVE | INACTIVE 
      */
     setAsActive?: SetAsActiveFlag;
     /**
-     * The status of the register certificate request.
+     * The status of the register certificate request. Valid values that you can use include ACTIVE, INACTIVE, and REVOKED.
      */
     status?: CertificateStatus;
   }
@@ -9312,7 +9399,7 @@ declare namespace Iot {
      */
     indexName?: IndexName;
     /**
-     * The search query string.
+     * The search query string. For more information about the search query syntax, see Query syntax.
      */
     queryString: QueryString;
     /**
@@ -9459,6 +9546,7 @@ declare namespace Iot {
      */
     disableAllLogs?: DisableAllLogs;
   }
+  export type ShadowName = string;
   export interface SigV4Authorization {
     /**
      * The signing region.
@@ -10139,6 +10227,10 @@ declare namespace Iot {
      * Contains custom field names and their data type.
      */
     customFields?: Fields;
+    /**
+     * Provides additional filters for specific data sources. Named shadow is the only data source that currently supports and requires a filter. To add named shadows to your fleet indexing configuration, set namedShadowIndexingMode to be ON and specify your shadow names in filter.
+     */
+    filter?: IndexingFilter;
   }
   export type ThingIndexingMode = "OFF"|"REGISTRY"|"REGISTRY_AND_SHADOW"|string;
   export type ThingName = string;
@@ -10623,7 +10715,7 @@ declare namespace Iot {
      */
     metricArn?: CustomMetricArn;
     /**
-     *  The type of the custom metric. Types include string-list, ip-address-list, number-list, and number. 
+     *  The type of the custom metric.   The type number only takes a single metric value as an input, but while submitting the metrics value in the DeviceMetrics report, it must be passed as an array with a single value. 
      */
     metricType?: CustomMetricType;
     /**
@@ -10903,7 +10995,7 @@ declare namespace Iot {
      */
     roleArn?: RoleArn;
     /**
-     * The number of seconds the credential will be valid.
+     * The number of seconds the credential will be valid. This value must be less than or equal to the maximum session duration of the IAM role that the role alias references.
      */
     credentialDurationSeconds?: CredentialDurationSeconds;
   }

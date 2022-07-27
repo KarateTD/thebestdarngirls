@@ -108,6 +108,14 @@ declare class LookoutMetrics extends Service {
    */
   describeMetricSet(callback?: (err: AWSError, data: LookoutMetrics.Types.DescribeMetricSetResponse) => void): Request<LookoutMetrics.Types.DescribeMetricSetResponse, AWSError>;
   /**
+   * Detects an Amazon S3 dataset's file format, interval, and offset.
+   */
+  detectMetricSetConfig(params: LookoutMetrics.Types.DetectMetricSetConfigRequest, callback?: (err: AWSError, data: LookoutMetrics.Types.DetectMetricSetConfigResponse) => void): Request<LookoutMetrics.Types.DetectMetricSetConfigResponse, AWSError>;
+  /**
+   * Detects an Amazon S3 dataset's file format, interval, and offset.
+   */
+  detectMetricSetConfig(callback?: (err: AWSError, data: LookoutMetrics.Types.DetectMetricSetConfigResponse) => void): Request<LookoutMetrics.Types.DetectMetricSetConfigResponse, AWSError>;
+  /**
    * Returns details about a group of anomalous metrics.
    */
   getAnomalyGroup(params: LookoutMetrics.Types.GetAnomalyGroupRequest, callback?: (err: AWSError, data: LookoutMetrics.Types.GetAnomalyGroupResponse) => void): Request<LookoutMetrics.Types.GetAnomalyGroupResponse, AWSError>;
@@ -212,6 +220,14 @@ declare class LookoutMetrics extends Service {
    */
   untagResource(callback?: (err: AWSError, data: LookoutMetrics.Types.UntagResourceResponse) => void): Request<LookoutMetrics.Types.UntagResourceResponse, AWSError>;
   /**
+   * Make changes to an existing alert.
+   */
+  updateAlert(params: LookoutMetrics.Types.UpdateAlertRequest, callback?: (err: AWSError, data: LookoutMetrics.Types.UpdateAlertResponse) => void): Request<LookoutMetrics.Types.UpdateAlertResponse, AWSError>;
+  /**
+   * Make changes to an existing alert.
+   */
+  updateAlert(callback?: (err: AWSError, data: LookoutMetrics.Types.UpdateAlertResponse) => void): Request<LookoutMetrics.Types.UpdateAlertResponse, AWSError>;
+  /**
    * Updates a detector. After activation, you can only change a detector's ingestion delay and description.
    */
   updateAnomalyDetector(params: LookoutMetrics.Types.UpdateAnomalyDetectorRequest, callback?: (err: AWSError, data: LookoutMetrics.Types.UpdateAnomalyDetectorResponse) => void): Request<LookoutMetrics.Types.UpdateAnomalyDetectorResponse, AWSError>;
@@ -289,8 +305,22 @@ declare namespace LookoutMetrics {
      * The time at which the alert was created.
      */
     CreationTime?: Timestamp;
+    /**
+     * The configuration of the alert filters, containing MetricList and DimensionFilter.
+     */
+    AlertFilters?: AlertFilters;
   }
   export type AlertDescription = string;
+  export interface AlertFilters {
+    /**
+     * The list of measures that you want to get alerts for.
+     */
+    MetricList?: MetricNameList;
+    /**
+     * The list of DimensionFilter objects that are used for dimension-based filtering.
+     */
+    DimensionFilterList?: DimensionFilterList;
+  }
   export type AlertName = string;
   export type AlertStatus = "ACTIVE"|"INACTIVE"|string;
   export interface AlertSummary {
@@ -480,6 +510,83 @@ declare namespace LookoutMetrics {
     FlowName?: FlowName;
   }
   export type Arn = string;
+  export type AthenaDataCatalog = string;
+  export type AthenaDatabaseName = string;
+  export type AthenaS3ResultsPath = string;
+  export interface AthenaSourceConfig {
+    /**
+     * An IAM role that gives Amazon Lookout for Metrics permission to access the data.
+     */
+    RoleArn?: Arn;
+    /**
+     * The database's name.
+     */
+    DatabaseName?: AthenaDatabaseName;
+    /**
+     * The database's data catalog.
+     */
+    DataCatalog?: AthenaDataCatalog;
+    /**
+     * The database's table name.
+     */
+    TableName?: AthenaTableName;
+    /**
+     * The database's work group name.
+     */
+    WorkGroupName?: AthenaWorkGroupName;
+    /**
+     * The database's results path.
+     */
+    S3ResultsPath?: AthenaS3ResultsPath;
+    /**
+     * Settings for backtest mode.
+     */
+    BackTestConfiguration?: BackTestConfiguration;
+  }
+  export type AthenaTableName = string;
+  export type AthenaWorkGroupName = string;
+  export interface AttributeValue {
+    /**
+     * A string.
+     */
+    S?: StringAttributeValue;
+    /**
+     * A number.
+     */
+    N?: NumberAttributeValue;
+    /**
+     * A binary value.
+     */
+    B?: BinaryAttributeValue;
+    /**
+     * A list of strings.
+     */
+    SS?: StringListAttributeValue;
+    /**
+     * A list of numbers.
+     */
+    NS?: NumberListAttributeValue;
+    /**
+     * A list of binary values.
+     */
+    BS?: BinaryListAttributeValue;
+  }
+  export interface AutoDetectionMetricSource {
+    /**
+     * The source's source config.
+     */
+    S3SourceConfig?: AutoDetectionS3SourceConfig;
+  }
+  export interface AutoDetectionS3SourceConfig {
+    /**
+     * The config's templated path list.
+     */
+    TemplatedPathList?: TemplatedPathList;
+    /**
+     * The config's historical data path list.
+     */
+    HistoricalDataPathList?: HistoricalDataPathList;
+  }
   export interface BackTestAnomalyDetectorRequest {
     /**
      * The Amazon Resource Name (ARN) of the anomaly detector.
@@ -488,6 +595,14 @@ declare namespace LookoutMetrics {
   }
   export interface BackTestAnomalyDetectorResponse {
   }
+  export interface BackTestConfiguration {
+    /**
+     * Run a backtest instead of monitoring new data.
+     */
+    RunBackTestMode: Boolean;
+  }
+  export type BinaryAttributeValue = string;
+  export type BinaryListAttributeValue = BinaryAttributeValue[];
   export type Boolean = boolean;
   export type CSVFileCompression = "NONE"|"GZIP"|string;
   export type Charset = string;
@@ -496,8 +611,13 @@ declare namespace LookoutMetrics {
      * An IAM role that gives Amazon Lookout for Metrics permission to access data in Amazon CloudWatch.
      */
     RoleArn?: Arn;
+    /**
+     * Settings for backtest mode.
+     */
+    BackTestConfiguration?: BackTestConfiguration;
   }
   export type ColumnName = string;
+  export type Confidence = "HIGH"|"LOW"|"NONE"|string;
   export interface ContributionMatrix {
     /**
      * A list of contributing dimensions.
@@ -512,7 +632,7 @@ declare namespace LookoutMetrics {
     /**
      * An integer from 0 to 100 specifying the alert sensitivity threshold.
      */
-    AlertSensitivityThreshold: SensitivityThreshold;
+    AlertSensitivityThreshold?: SensitivityThreshold;
     /**
      * A description of the alert.
      */
@@ -529,6 +649,10 @@ declare namespace LookoutMetrics {
      * A list of tags to apply to the alert.
      */
     Tags?: TagMap;
+    /**
+     * The configuration of the alert filters, containing MetricList and DimensionFilterList.
+     */
+    AlertFilters?: AlertFilters;
   }
   export interface CreateAlertResponse {
     /**
@@ -819,6 +943,108 @@ declare namespace LookoutMetrics {
      */
     MetricSource?: MetricSource;
   }
+  export interface DetectMetricSetConfigRequest {
+    /**
+     * An anomaly detector ARN.
+     */
+    AnomalyDetectorArn: Arn;
+    /**
+     * A data source.
+     */
+    AutoDetectionMetricSource: AutoDetectionMetricSource;
+  }
+  export interface DetectMetricSetConfigResponse {
+    /**
+     * The inferred dataset configuration for the datasource.
+     */
+    DetectedMetricSetConfig?: DetectedMetricSetConfig;
+  }
+  export interface DetectedCsvFormatDescriptor {
+    /**
+     * The format's file compression.
+     */
+    FileCompression?: DetectedField;
+    /**
+     * The format's charset.
+     */
+    Charset?: DetectedField;
+    /**
+     * Whether the format includes a header.
+     */
+    ContainsHeader?: DetectedField;
+    /**
+     * The format's delimiter.
+     */
+    Delimiter?: DetectedField;
+    /**
+     * The format's header list.
+     */
+    HeaderList?: DetectedField;
+    /**
+     * The format's quote symbol.
+     */
+    QuoteSymbol?: DetectedField;
+  }
+  export interface DetectedField {
+    /**
+     * The field's value.
+     */
+    Value?: AttributeValue;
+    /**
+     * The field's confidence.
+     */
+    Confidence?: Confidence;
+    /**
+     * The field's message.
+     */
+    Message?: Message;
+  }
+  export interface DetectedFileFormatDescriptor {
+    /**
+     * Details about a CSV format.
+     */
+    CsvFormatDescriptor?: DetectedCsvFormatDescriptor;
+    /**
+     * Details about a JSON format.
+     */
+    JsonFormatDescriptor?: DetectedJsonFormatDescriptor;
+  }
+  export interface DetectedJsonFormatDescriptor {
+    /**
+     * The format's file compression.
+     */
+    FileCompression?: DetectedField;
+    /**
+     * The format's character set.
+     */
+    Charset?: DetectedField;
+  }
+  export interface DetectedMetricSetConfig {
+    /**
+     * The dataset's offset.
+     */
+    Offset?: DetectedField;
+    /**
+     * The dataset's interval.
+     */
+    MetricSetFrequency?: DetectedField;
+    /**
+     * The dataset's data source.
+     */
+    MetricSource?: DetectedMetricSource;
+  }
+  export interface DetectedMetricSource {
+    /**
+     * The data source's source configuration.
+     */
+    S3SourceConfig?: DetectedS3SourceConfig;
+  }
+  export interface DetectedS3SourceConfig {
+    /**
+     * The source's file format descriptor.
+     */
+    FileFormatDescriptor?: DetectedFileFormatDescriptor;
+  }
   export interface DimensionContribution {
     /**
      * The name of the dimension.
@@ -830,6 +1056,17 @@ declare namespace LookoutMetrics {
     DimensionValueContributionList?: DimensionValueContributionList;
   }
   export type DimensionContributionList = DimensionContribution[];
+  export interface DimensionFilter {
+    /**
+     * The name of the dimension to filter on.
+     */
+    DimensionName?: ColumnName;
+    /**
+     * The list of values for the dimension specified in DimensionName that you want to filter on.
+     */
+    DimensionValueList?: DimensionValueList;
+  }
+  export type DimensionFilterList = DimensionFilter[];
   export type DimensionList = ColumnName[];
   export interface DimensionNameValue {
     /**
@@ -854,6 +1091,7 @@ declare namespace LookoutMetrics {
     ContributionScore?: Score;
   }
   export type DimensionValueContributionList = DimensionValueContribution[];
+  export type DimensionValueList = DimensionValue[];
   export type ErrorMessage = string;
   export type ExecutionList = ExecutionStatus[];
   export interface ExecutionStatus {
@@ -1189,6 +1427,7 @@ declare namespace LookoutMetrics {
     Tags?: TagMap;
   }
   export type MaxResults = number;
+  export type Message = string;
   export interface Metric {
     /**
      * The name of the metric.
@@ -1221,6 +1460,7 @@ declare namespace LookoutMetrics {
   export type MetricLevelImpactList = MetricLevelImpact[];
   export type MetricList = Metric[];
   export type MetricName = string;
+  export type MetricNameList = MetricName[];
   export type MetricSetDescription = string;
   export type MetricSetName = string;
   export interface MetricSetSummary {
@@ -1257,26 +1497,32 @@ declare namespace LookoutMetrics {
   export interface MetricSource {
     S3SourceConfig?: S3SourceConfig;
     /**
-     * An object containing information about the AppFlow configuration.
+     * Details about an AppFlow datasource.
      */
     AppFlowConfig?: AppFlowConfig;
     /**
-     * An object containing information about the Amazon CloudWatch monitoring configuration.
+     * Details about an Amazon CloudWatch monitoring datasource.
      */
     CloudWatchConfig?: CloudWatchConfig;
     /**
-     * An object containing information about the Amazon Relational Database Service (RDS) configuration.
+     * Details about an Amazon Relational Database Service (RDS) datasource.
      */
     RDSSourceConfig?: RDSSourceConfig;
     /**
-     * An object containing information about the Amazon Redshift database configuration.
+     * Details about an Amazon Redshift database datasource.
      */
     RedshiftSourceConfig?: RedshiftSourceConfig;
+    /**
+     * Details about an Amazon Athena datasource.
+     */
+    AthenaSourceConfig?: AthenaSourceConfig;
   }
   export type MetricValue = number;
   export type MetricValueList = MetricValue[];
   export type Namespace = string;
   export type NextToken = string;
+  export type NumberAttributeValue = string;
+  export type NumberListAttributeValue = NumberAttributeValue[];
   export type Offset = number;
   export type PoirotSecretManagerArn = string;
   export interface PutFeedbackRequest {
@@ -1392,6 +1638,10 @@ declare namespace LookoutMetrics {
      * The ARN of the target SNS topic.
      */
     SnsTopicArn: Arn;
+    /**
+     * The format of the SNS topic.    JSON – Send JSON alerts with an anomaly ID and a link to the anomaly detail page. This is the default.    LONG_TEXT – Send human-readable alerts with information about the impacted timeseries and a link to the anomaly detail page. We recommend this for email.    SHORT_TEXT – Send human-readable alerts with a link to the anomaly detail page. We recommend this for SMS.  
+     */
+    SnsFormat?: SnsFormat;
   }
   export interface SampleDataS3SourceConfig {
     /**
@@ -1414,6 +1664,9 @@ declare namespace LookoutMetrics {
   export type SecurityGroupId = string;
   export type SecurityGroupIdList = SecurityGroupId[];
   export type SensitivityThreshold = number;
+  export type SnsFormat = "LONG_TEXT"|"SHORT_TEXT"|"JSON"|string;
+  export type StringAttributeValue = string;
+  export type StringListAttributeValue = StringAttributeValue[];
   export type SubnetId = string;
   export type SubnetIdList = SubnetId[];
   export type TableName = string;
@@ -1488,6 +1741,34 @@ declare namespace LookoutMetrics {
     TagKeys: TagKeyList;
   }
   export interface UntagResourceResponse {
+  }
+  export interface UpdateAlertRequest {
+    /**
+     * The ARN of the alert to update.
+     */
+    AlertArn: Arn;
+    /**
+     * A description of the alert.
+     */
+    AlertDescription?: AlertDescription;
+    /**
+     * An integer from 0 to 100 specifying the alert sensitivity threshold.
+     */
+    AlertSensitivityThreshold?: SensitivityThreshold;
+    /**
+     * Action that will be triggered when there is an alert.
+     */
+    Action?: Action;
+    /**
+     * The configuration of the alert filters, containing MetricList and DimensionFilterList.
+     */
+    AlertFilters?: AlertFilters;
+  }
+  export interface UpdateAlertResponse {
+    /**
+     * The ARN of the updated alert.
+     */
+    AlertArn?: Arn;
   }
   export interface UpdateAnomalyDetectorRequest {
     /**

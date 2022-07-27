@@ -1588,7 +1588,7 @@ declare namespace LexModelsV2 {
     /**
      * The unique identifier for the slot type associated with this slot. The slot type determines the values that can be entered into the slot.
      */
-    slotTypeId: BuiltInOrCustomSlotTypeId;
+    slotTypeId?: BuiltInOrCustomSlotTypeId;
     /**
      * Specifies prompts that Amazon Lex sends to the user to elicit a response that provides the value for the slot. 
      */
@@ -3886,6 +3886,7 @@ declare namespace LexModelsV2 {
     variations?: MessageVariationsList;
   }
   export type MessageGroupsList = MessageGroup[];
+  export type MessageSelectionStrategy = "Random"|"Ordered"|string;
   export type MessageVariationsList = Message[];
   export type MissedCount = number;
   export interface MultipleValuesSetting {
@@ -3971,6 +3972,10 @@ declare namespace LexModelsV2 {
      * Indicates whether the user can interrupt a speech prompt from the bot.
      */
     allowInterrupt?: BoxedBoolean;
+    /**
+     * Indicates how a message is selected from a message group among retries.
+     */
+    messageSelectionStrategy?: MessageSelectionStrategy;
   }
   export type QueryFilterString = string;
   export type RecommendedAction = string;
@@ -5015,7 +5020,7 @@ declare namespace LexModelsV2 {
     /**
      * The unique identifier of the new slot type to associate with this slot. 
      */
-    slotTypeId: BuiltInOrCustomSlotTypeId;
+    slotTypeId?: BuiltInOrCustomSlotTypeId;
     /**
      * A new set of prompts that Amazon Lex sends to the user to elicit a response the provides a value for the slot.
      */

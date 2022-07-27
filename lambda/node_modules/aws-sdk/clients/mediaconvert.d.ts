@@ -354,6 +354,20 @@ declare namespace MediaConvert {
      */
     SampleRate?: __integerMin8000Max192000;
   }
+  export interface AllowedRenditionSize {
+    /**
+     * Use Height to define the video resolution height, in pixels, for this rule.
+     */
+    Height?: __integerMin32Max8192;
+    /**
+     * Set to ENABLED to force a rendition to be included.
+     */
+    Required?: RequiredFlag;
+    /**
+     * Use Width to define the video resolution width, in pixels, for this rule.
+     */
+    Width?: __integerMin32Max8192;
+  }
   export type AlphaBehavior = "DISCARD"|"REMAP_TO_LUMA"|string;
   export type AncillaryConvert608To708 = "UPCONVERT"|"DISABLED"|string;
   export interface AncillarySourceSettings {
@@ -481,6 +495,7 @@ declare namespace MediaConvert {
      */
     StreamName?: __stringPatternWS;
   }
+  export type AudioDurationCorrection = "DISABLED"|"AUTO"|"TRACK"|"FRAME"|string;
   export type AudioLanguageCodeControl = "FOLLOW_INPUT"|"USE_CONFIGURED"|string;
   export type AudioNormalizationAlgorithm = "ITU_BS_1770_1"|"ITU_BS_1770_2"|"ITU_BS_1770_3"|"ITU_BS_1770_4"|string;
   export type AudioNormalizationAlgorithmControl = "CORRECT_AUDIO"|"MEASURE_ONLY"|string;
@@ -513,6 +528,10 @@ declare namespace MediaConvert {
     TargetLkfs?: __doubleMinNegative59Max0;
   }
   export interface AudioSelector {
+    /**
+     * Apply audio timing corrections to help synchronize audio and video in your output. To apply timing corrections, your input must meet the following requirements: * Container: MP4, or MOV, with an accurate time-to-sample (STTS) table. * Audio track: AAC. Choose from the following audio timing correction settings: * Disabled (Default): Apply no correction. * Auto: Recommended for most inputs. MediaConvert analyzes the audio timing in your input and determines which correction setting to use, if needed. * Track: Adjust the duration of each audio frame by a constant amount to align the audio track length with STTS duration. Track-level correction does not affect pitch, and is recommended for tonal audio content such as music. * Frame: Adjust the duration of each audio frame by a variable amount to align audio frames with STTS timestamps. No corrections are made to already-aligned frames. Frame-level correction may affect the pitch of corrected frames, and is recommended for atonal audio content such as speech or percussion.
+     */
+    AudioDurationCorrection?: AudioDurationCorrection;
     /**
      * Selects a specific language code from within an audio source, using the ISO 639-2 or ISO 639-3 three-letter language code
      */
@@ -566,6 +585,28 @@ declare namespace MediaConvert {
   }
   export type AudioSelectorType = "PID"|"TRACK"|"LANGUAGE_CODE"|"HLS_RENDITION_GROUP"|string;
   export type AudioTypeControl = "FOLLOW_INPUT"|"USE_CONFIGURED"|string;
+  export interface AutomatedAbrRule {
+    /**
+     * When customer adds the allowed renditions rule for auto ABR ladder, they are required to add at leat one rendition to allowedRenditions list
+     */
+    AllowedRenditions?: __listOfAllowedRenditionSize;
+    /**
+     * When customer adds the force include renditions rule for auto ABR ladder, they are required to add at leat one rendition to forceIncludeRenditions list
+     */
+    ForceIncludeRenditions?: __listOfForceIncludeRenditionSize;
+    /**
+     * Use Min bottom rendition size to specify a minimum size for the lowest resolution in your ABR stack. * The lowest resolution in your ABR stack will be equal to or greater than the value that you enter. For example: If you specify 640x360 the lowest resolution in your ABR stack will be equal to or greater than to 640x360. * If you specify a Min top rendition size rule, the value that you specify for Min bottom rendition size must be less than, or equal to, Min top rendition size.
+     */
+    MinBottomRenditionSize?: MinBottomRenditionSize;
+    /**
+     * Use Min top rendition size to specify a minimum size for the highest resolution in your ABR stack. * The highest resolution in your ABR stack will be equal to or greater than the value that you enter. For example: If you specify 1280x720 the highest resolution in your ABR stack will be equal to or greater than 1280x720. * If you specify a value for Max resolution, the value that you specify for Min top rendition size must be less than, or equal to, Max resolution.
+     */
+    MinTopRenditionSize?: MinTopRenditionSize;
+    /**
+     * Use Min top rendition size to specify a minimum size for the highest resolution in your ABR stack. * The highest resolution in your ABR stack will be equal to or greater than the value that you enter. For example: If you specify 1280x720 the highest resolution in your ABR stack will be equal to or greater than 1280x720. * If you specify a value for Max resolution, the value that you specify for Min top rendition size must be less than, or equal to, Max resolution. Use Min bottom rendition size to specify a minimum size for the lowest resolution in your ABR stack. * The lowest resolution in your ABR stack will be equal to or greater than the value that you enter. For example: If you specify 640x360 the lowest resolution in your ABR stack will be equal to or greater than to 640x360. * If you specify a Min top rendition size rule, the value that you specify for Min bottom rendition size must be less than, or equal to, Min top rendition size. Use Force include renditions to specify one or more resolutions to include your ABR stack. * (Recommended) To optimize automated ABR, specify as few resolutions as possible. * (Required) The number of resolutions that you specify must be equal to, or less than, the Max renditions setting. * If you specify a Min top rendition size rule, specify at least one resolution that is equal to, or greater than, Min top rendition size. * If you specify a Min bottom rendition size rule, only specify resolutions that are equal to, or greater than, Min bottom rendition size. * If you specify a Force include renditions rule, do not specify a separate rule for Allowed renditions. * Note: The ABR stack may include other resolutions that you do not specify here, depending on the Max renditions setting. Use Allowed renditions to specify a list of possible resolutions in your ABR stack. * (Required) The number of resolutions that you specify must be equal to, or greater than, the Max renditions setting. * MediaConvert will create an ABR stack exclusively from the list of resolutions that you specify. * Some resolutions in the Allowed renditions list may not be included, however you can force a resolution to be included by setting Required to ENABLED. * You must specify at least one resolution that is greater than or equal to any resolutions that you specify in Min top rendition size or Min bottom rendition size. * If you specify Allowed renditions, you must not specify a separate rule for Force include renditions.
+     */
+    Type?: RuleType;
+  }
   export interface AutomatedAbrSettings {
     /**
      * Optional. The maximum target bit rate used in your automated ABR stack. Use this value to set an upper limit on the bandwidth consumed by the highest-quality rendition. This is the rendition that is delivered to viewers with the fastest internet connections. If you don't specify a value, MediaConvert uses 8,000,000 (8 mb/s) by default.
@@ -579,6 +620,10 @@ declare namespace MediaConvert {
      * Optional. The minimum target bitrate used in your automated ABR stack. Use this value to set a lower limit on the bitrate of video delivered to viewers with slow internet connections. If you don't specify a value, MediaConvert uses 600,000 (600 kb/s) by default.
      */
     MinAbrBitrate?: __integerMin100000Max100000000;
+    /**
+     * Optional. Use Automated ABR rules to specify restrictions for the rendition sizes MediaConvert will create in your ABR stack. You can use these rules if your ABR workflow has specific rendition size requirements, but you still want MediaConvert to optimize for video quality and overall file size.
+     */
+    Rules?: __listOfAutomatedAbrRule;
   }
   export interface AutomatedEncodingSettings {
     /**
@@ -1152,6 +1197,7 @@ declare namespace MediaConvert {
   export type CmfcAudioTrackType = "ALTERNATE_AUDIO_AUTO_SELECT_DEFAULT"|"ALTERNATE_AUDIO_AUTO_SELECT"|"ALTERNATE_AUDIO_NOT_AUTO_SELECT"|string;
   export type CmfcDescriptiveVideoServiceFlag = "DONT_FLAG"|"FLAG"|string;
   export type CmfcIFrameOnlyManifest = "INCLUDE"|"EXCLUDE"|string;
+  export type CmfcKlvMetadata = "PASSTHROUGH"|"NONE"|string;
   export type CmfcScte35Esam = "INSERT"|"NONE"|string;
   export type CmfcScte35Source = "PASSTHROUGH"|"NONE"|string;
   export interface CmfcSettings {
@@ -1180,6 +1226,10 @@ declare namespace MediaConvert {
      */
     IFrameOnlyManifest?: CmfcIFrameOnlyManifest;
     /**
+     * To include key-length-value metadata in this output: Set KLV metadata insertion to Passthrough. MediaConvert reads KLV metadata present in your input and writes each instance to a separate event message box in the output, according to MISB ST1910.1. To exclude this KLV metadata: Set KLV metadata insertion to None or leave blank.
+     */
+    KlvMetadata?: CmfcKlvMetadata;
+    /**
      * Use this setting only when you specify SCTE-35 markers from ESAM. Choose INSERT to put SCTE-35 markers in this output at the insertion points that you specify in an ESAM XML document. Provide the document in the setting SCC XML (sccXml).
      */
     Scte35Esam?: CmfcScte35Esam;
@@ -1188,7 +1238,7 @@ declare namespace MediaConvert {
      */
     Scte35Source?: CmfcScte35Source;
     /**
-     * Applies to CMAF outputs. Use this setting to specify whether the service inserts the ID3 timed metadata from the input in this output.
+     * To include ID3 metadata in this output: Set ID3 metadata (timedMetadata) to Passthrough (PASSTHROUGH). Specify this ID3 metadata in Custom ID3 metadata inserter (timedMetadataInsertion). MediaConvert writes each instance of ID3 metadata in a separate Event Message (eMSG) box. To exclude this ID3 metadata: Set ID3 metadata to None (NONE) or leave blank.
      */
     TimedMetadata?: CmfcTimedMetadata;
   }
@@ -1661,7 +1711,11 @@ declare namespace MediaConvert {
      */
     L6Mode?: DolbyVisionLevel6Mode;
     /**
-     * In the current MediaConvert implementation, the Dolby Vision profile is always 5 (PROFILE_5). Therefore, all of your inputs must contain Dolby Vision frame interleaved data.
+     * Required when you set Dolby Vision Profile to Profile 8.1. When you set Content mapping to None, content mapping is not applied to the HDR10-compatible signal. Depending on the source peak nit level, clipping might occur on HDR devices without Dolby Vision. When you set Content mapping to HDR10 1000, the transcoder creates a 1,000 nits peak HDR10-compatible signal by applying static content mapping to the source. This mode is speed-optimized for PQ10 sources with metadata that is created from analysis. For graded Dolby Vision content, be aware that creative intent might not be guaranteed with extreme 1,000 nits trims.
+     */
+    Mapping?: DolbyVisionMapping;
+    /**
+     * Required when you enable Dolby Vision. Use Profile 5 to include frame-interleaved Dolby Vision metadata in your output. Your input must include Dolby Vision metadata or an HDR10 YUV color space. Use Profile 8.1 to include frame-interleaved Dolby Vision metadata and HDR10 metadata in your output. Your input must include Dolby Vision metadata.
      */
     Profile?: DolbyVisionProfile;
   }
@@ -1676,7 +1730,8 @@ declare namespace MediaConvert {
     MaxFall?: __integerMin0Max65535;
   }
   export type DolbyVisionLevel6Mode = "PASSTHROUGH"|"RECALCULATE"|"SPECIFY"|string;
-  export type DolbyVisionProfile = "PROFILE_5"|string;
+  export type DolbyVisionMapping = "HDR10_NOMAP"|"HDR10_1000"|string;
+  export type DolbyVisionProfile = "PROFILE_5"|"PROFILE_8_1"|string;
   export type DropFrameTimecode = "DISABLED"|"ENABLED"|string;
   export interface DvbNitSettings {
     /**
@@ -2055,6 +2110,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
     TerminateCaptions?: EmbeddedTerminateCaptions;
   }
   export type EmbeddedTerminateCaptions = "END_OF_INPUT"|"DISABLED"|string;
+  export type EmbeddedTimecodeOverride = "NONE"|"USE_MDPM"|string;
   export interface Endpoint {
     /**
      * URL of endpoint
@@ -2139,6 +2195,16 @@ Within your job settings, all of your DVB-Sub settings must be identical.
   }
   export type FileSourceTimeDeltaUnits = "SECONDS"|"MILLISECONDS"|string;
   export type FontScript = "AUTOMATIC"|"HANS"|"HANT"|string;
+  export interface ForceIncludeRenditionSize {
+    /**
+     * Use Height to define the video resolution height, in pixels, for this rule.
+     */
+    Height?: __integerMin32Max8192;
+    /**
+     * Use Width to define the video resolution width, in pixels, for this rule.
+     */
+    Width?: __integerMin32Max8192;
+  }
   export interface FrameCaptureSettings {
     /**
      * Frame capture will encode the first frame of the output stream, then one frame every framerateDenominator/framerateNumerator seconds. For example, settings of framerateNumerator = 1 and framerateDenominator = 3 (a rate of 1/3 frame per second) will capture the first frame, then 1 frame every 3s. Files will be named as filename.n.jpg where n is the 0-based sequence number of each Capture.
@@ -2707,6 +2773,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
     LanguageDescription?: __string;
   }
   export type HlsCaptionLanguageSetting = "INSERT"|"OMIT"|"NONE"|string;
+  export type HlsCaptionSegmentLengthControl = "LARGE_SEGMENTS"|"MATCH_VIDEO"|string;
   export type HlsClientCache = "DISABLED"|"ENABLED"|string;
   export type HlsCodecSpecification = "RFC_6381"|"RFC_4281"|string;
   export type HlsDescriptiveVideoServiceFlag = "DONT_FLAG"|"FLAG"|string;
@@ -2767,6 +2834,10 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      * Applies only to 608 Embedded output captions. Insert: Include CLOSED-CAPTIONS lines in the manifest. Specify at least one language in the CC1 Language Code field. One CLOSED-CAPTION line is added for each Language Code you specify. Make sure to specify the languages in the order in which they appear in the original source (if the source is embedded format) or the order of the caption selectors (if the source is other than embedded). Otherwise, languages in the manifest will not match up properly with the output captions. None: Include CLOSED-CAPTIONS=NONE line in the manifest. Omit: Omit any CLOSED-CAPTIONS line from the manifest.
      */
     CaptionLanguageSetting?: HlsCaptionLanguageSetting;
+    /**
+     * Set Caption segment length control (CaptionSegmentLengthControl) to Match video (MATCH_VIDEO) to create caption segments that align with the video segments from the first video output in this output group. For example, if the video segments are 2 seconds long, your WebVTT segments will also be 2 seconds long. Keep the default setting, Large segments (LARGE_SEGMENTS) to create caption segments that are 300 seconds long.
+     */
+    CaptionSegmentLengthControl?: HlsCaptionSegmentLengthControl;
     /**
      * Disable this setting only when your workflow requires the #EXT-X-ALLOW-CACHE:no tag. Otherwise, keep the default value Enabled (ENABLED) and control caching in your video distribution set up. For example, use the Cache-Control http header.
      */
@@ -2852,11 +2923,11 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     TargetDurationCompatibilityMode?: HlsTargetDurationCompatibilityMode;
     /**
-     * Indicates ID3 frame that has the timecode.
+     * Specify the type of the ID3 frame (timedMetadataId3Frame) to use for ID3 timestamps (timedMetadataId3Period) in your output. To include ID3 timestamps: Specify PRIV (PRIV) or TDRL (TDRL) and set ID3 metadata (timedMetadata) to Passthrough (PASSTHROUGH). To exclude ID3 timestamps: Set ID3 timestamp frame type to None (NONE).
      */
     TimedMetadataId3Frame?: HlsTimedMetadataId3Frame;
     /**
-     * Timed Metadata interval in seconds.
+     * Specify the interval in seconds to write ID3 timestamps in your output. The first timestamp starts at the output timecode and date, and increases incrementally with each ID3 timestamp. To use the default interval of 10 seconds: Leave blank. To include this metadata in your output: Set ID3 timestamp frame type (timedMetadataId3Frame) to PRIV (PRIV) or TDRL (TDRL), and set ID3 metadata (timedMetadata) to Passthrough (PASSTHROUGH).
      */
     TimedMetadataId3Period?: __integerMinNegative2147483648Max2147483647;
     /**
@@ -2965,7 +3036,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
   }
   export interface Id3Insertion {
     /**
-     * Use ID3 tag (Id3) to provide a tag value in base64-encode format.
+     * Use ID3 tag (Id3) to provide a fully formed ID3 tag in base64-encode format.
      */
     Id3?: __stringPatternAZaZ0902;
     /**
@@ -2982,7 +3053,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
   export type ImscAccessibilitySubs = "DISABLED"|"ENABLED"|string;
   export interface ImscDestinationSettings {
     /**
-     * Specify whether to flag this caption track as accessibility in your HLS/CMAF parent manifest. When you choose ENABLED, MediaConvert includes the parameters CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound" and AUTOSELECT="YES" in the EXT-X-MEDIA entry for this track. When you keep the default choice, DISABLED, MediaConvert leaves this parameter out.
+     * Set Accessibility subtitles to Enabled if the ISMC or WebVTT captions track is intended to provide accessibility for people who are deaf or hard of hearing. When you enable this feature, MediaConvert adds the following attributes under EXT-X-MEDIA in the HLS or CMAF manifest for this track: CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound" and AUTOSELECT="YES". Keep the default value, Disabled, if the captions track is not intended to provide such accessibility. MediaConvert will not add the above attributes.
      */
     Accessibility?: ImscAccessibilitySubs;
     /**
@@ -3072,6 +3143,10 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      * Specify the timecode that you want the service to use for this input's initial frame. To use this setting, you must set the Timecode source setting, located under the input settings (InputTimecodeSource), to Specified start (SPECIFIEDSTART). For more information about timecodes, see https://docs.aws.amazon.com/console/mediaconvert/timecode.
      */
     TimecodeStart?: __stringMin11Max11Pattern01D20305D205D;
+    /**
+     * When you include Video generator, MediaConvert creates a video input with black frames. Use this setting if you do not have a video input or if you want to add black video frames before, or after, other inputs. You can specify Video generator, or you can specify an Input file, but you cannot specify both. For more information, see https://docs.aws.amazon.com/mediaconvert/latest/ug/video-generator.html
+     */
+    VideoGenerator?: InputVideoGenerator;
     /**
      * Input video selectors contain the video settings for the input. Each of your inputs can have up to one video selector.
      */
@@ -3188,6 +3263,12 @@ Within your job settings, all of your DVB-Sub settings must be identical.
     VideoSelector?: VideoSelector;
   }
   export type InputTimecodeSource = "EMBEDDED"|"ZEROBASED"|"SPECIFIEDSTART"|string;
+  export interface InputVideoGenerator {
+    /**
+     * Specify an integer value for Black video duration from 50 to 86400000 to generate a black video input for that many milliseconds. Required when you include Video generator.
+     */
+    Duration?: __integerMin50Max86400000;
+  }
   export interface InsertableImage {
     /**
      * Specify the time, in milliseconds, for the image to remain on the output video. This duration includes fade-in time but not fade-out time.
@@ -3393,7 +3474,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     TimecodeConfig?: TimecodeConfig;
     /**
-     * Enable Timed metadata insertion (TimedMetadataInsertion) to include ID3 tags in any HLS outputs. To include timed metadata, you must enable it here, enable it in each output container, and specify tags and timecodes in ID3 insertion (Id3Insertion) objects.
+     * Insert user-defined custom ID3 metadata (id3) at timecodes (timecode) that you specify. In each output that you want to include this metadata, you must set ID3 metadata (timedMetadata) to Passthrough (PASSTHROUGH).
      */
     TimedMetadataInsertion?: TimedMetadataInsertion;
   }
@@ -3499,7 +3580,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     TimecodeConfig?: TimecodeConfig;
     /**
-     * Enable Timed metadata insertion (TimedMetadataInsertion) to include ID3 tags in any HLS outputs. To include timed metadata, you must enable it here, enable it in each output container, and specify tags and timecodes in ID3 insertion (Id3Insertion) objects.
+     * Insert user-defined custom ID3 metadata (id3) at timecodes (timecode) that you specify. In each output that you want to include this metadata, you must set ID3 metadata (timedMetadata) to Passthrough (PASSTHROUGH).
      */
     TimedMetadataInsertion?: TimedMetadataInsertion;
   }
@@ -3702,6 +3783,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
   export type M2tsEbpPlacement = "VIDEO_AND_AUDIO_PIDS"|"VIDEO_PID"|string;
   export type M2tsEsRateInPes = "INCLUDE"|"EXCLUDE"|string;
   export type M2tsForceTsVideoEbpOrder = "FORCE"|"DEFAULT"|string;
+  export type M2tsKlvMetadata = "PASSTHROUGH"|"NONE"|string;
   export type M2tsNielsenId3 = "INSERT"|"NONE"|string;
   export type M2tsPcrControl = "PCR_EVERY_PES_PACKET"|"CONFIGURED_PCR_PERIOD"|string;
   export type M2tsRateMode = "VBR"|"CBR"|string;
@@ -3784,6 +3866,10 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     FragmentTime?: __doubleMin0;
     /**
+     * To include key-length-value metadata in this output: Set KLV metadata insertion to Passthrough. MediaConvert reads KLV metadata present in your input and passes it through to the output transport stream. To exclude this KLV metadata: Set KLV metadata insertion to None or leave blank.
+     */
+    KlvMetadata?: M2tsKlvMetadata;
+    /**
      * Specify the maximum time, in milliseconds, between Program Clock References (PCRs) inserted into the transport stream.
      */
     MaxPcrInterval?: __integerMin0Max500;
@@ -3856,7 +3942,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     SegmentationTime?: __doubleMin0;
     /**
-     * Specify the packet identifier (PID) for timed metadata in this output. Default is 502.
+     * Packet Identifier (PID) of the ID3 metadata stream in the transport stream.
      */
     TimedMetadataPid?: __integerMin32Max8182;
     /**
@@ -3935,11 +4021,11 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     Scte35Source?: M3u8Scte35Source;
     /**
-     * Applies to HLS outputs. Use this setting to specify whether the service inserts the ID3 timed metadata from the input in this output.
+     * Set ID3 metadata (timedMetadata) to Passthrough (PASSTHROUGH) to include ID3 metadata in this output. This includes ID3 metadata from the following features: ID3 timestamp period (timedMetadataId3Period), and Custom ID3 metadata inserter (timedMetadataInsertion). To exclude this ID3 metadata in this output: set ID3 metadata to None (NONE) or leave blank.
      */
     TimedMetadata?: TimedMetadata;
     /**
-     * Packet Identifier (PID) of the timed metadata stream in the transport stream.
+     * Packet Identifier (PID) of the ID3 metadata stream in the transport stream.
      */
     TimedMetadataPid?: __integerMin32Max8182;
     /**
@@ -3950,6 +4036,26 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      * Packet Identifier (PID) of the elementary video stream in the transport stream.
      */
     VideoPid?: __integerMin32Max8182;
+  }
+  export interface MinBottomRenditionSize {
+    /**
+     * Use Height to define the video resolution height, in pixels, for this rule.
+     */
+    Height?: __integerMin32Max8192;
+    /**
+     * Use Width to define the video resolution width, in pixels, for this rule.
+     */
+    Width?: __integerMin32Max8192;
+  }
+  export interface MinTopRenditionSize {
+    /**
+     * Use Height to define the video resolution height, in pixels, for this rule.
+     */
+    Height?: __integerMin32Max8192;
+    /**
+     * Use Width to define the video resolution width, in pixels, for this rule.
+     */
+    Width?: __integerMin32Max8192;
   }
   export interface MotionImageInserter {
     /**
@@ -4095,6 +4201,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
   export type MpdAccessibilityCaptionHints = "INCLUDE"|"EXCLUDE"|string;
   export type MpdAudioDuration = "DEFAULT_CODEC_DURATION"|"MATCH_VIDEO_DURATION"|string;
   export type MpdCaptionContainerType = "RAW"|"FRAGMENTED_MP4"|string;
+  export type MpdKlvMetadata = "NONE"|"PASSTHROUGH"|string;
   export type MpdScte35Esam = "INSERT"|"NONE"|string;
   export type MpdScte35Source = "PASSTHROUGH"|"NONE"|string;
   export interface MpdSettings {
@@ -4111,6 +4218,10 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     CaptionContainerType?: MpdCaptionContainerType;
     /**
+     * To include key-length-value metadata in this output: Set KLV metadata insertion to Passthrough. MediaConvert reads KLV metadata present in your input and writes each instance to a separate event message box in the output, according to MISB ST1910.1. To exclude this KLV metadata: Set KLV metadata insertion to None or leave blank.
+     */
+    KlvMetadata?: MpdKlvMetadata;
+    /**
      * Use this setting only when you specify SCTE-35 markers from ESAM. Choose INSERT to put SCTE-35 markers in this output at the insertion points that you specify in an ESAM XML document. Provide the document in the setting SCC XML (sccXml).
      */
     Scte35Esam?: MpdScte35Esam;
@@ -4119,7 +4230,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     Scte35Source?: MpdScte35Source;
     /**
-     * Applies to DASH outputs. Use this setting to specify whether the service inserts the ID3 timed metadata from the input in this output.
+     * To include ID3 metadata in this output: Set ID3 metadata (timedMetadata) to Passthrough (PASSTHROUGH). Specify this ID3 metadata in Custom ID3 metadata inserter (timedMetadataInsertion). MediaConvert writes each instance of ID3 metadata in a separate Event Message (eMSG) box. To exclude this ID3 metadata: Set ID3 metadata to None (NONE) or leave blank.
      */
     TimedMetadata?: MpdTimedMetadata;
   }
@@ -4477,11 +4588,11 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     AggressiveMode?: __integerMin0Max4;
     /**
-     * When you set Noise reducer (noiseReducer) to Temporal (TEMPORAL), the sharpness of your output is reduced. You can optionally use Post temporal sharpening (PostTemporalSharpening) to apply sharpening to the edges of your output. The default behavior, Auto (AUTO), allows the transcoder to determine whether to apply sharpening, depending on your input type and quality. When you set Post temporal sharpening to Enabled (ENABLED), specify how much sharpening is applied using Post temporal sharpening strength (PostTemporalSharpeningStrength). Set Post temporal sharpening to Disabled (DISABLED) to not apply sharpening.
+     * When you set Noise reducer (noiseReducer) to Temporal (TEMPORAL), the bandwidth and sharpness of your output is reduced. You can optionally use Post temporal sharpening (postTemporalSharpening) to apply sharpening to the edges of your output. Note that Post temporal sharpening will also make the bandwidth reduction from the Noise reducer smaller. The default behavior, Auto (AUTO), allows the transcoder to determine whether to apply sharpening, depending on your input type and quality. When you set Post temporal sharpening to Enabled (ENABLED), specify how much sharpening is applied using Post temporal sharpening strength (postTemporalSharpeningStrength). Set Post temporal sharpening to Disabled (DISABLED) to not apply sharpening.
      */
     PostTemporalSharpening?: NoiseFilterPostTemporalSharpening;
     /**
-     * Use Post temporal sharpening strength (PostTemporalSharpeningStrength) to define the amount of sharpening the transcoder applies to your output. Set Post temporal sharpening strength to Low (LOW), or leave blank, to apply a low amount of sharpening. Set Post temporal sharpening strength to Medium (MEDIUM) to apply medium amount of sharpening. Set Post temporal sharpening strength to High (HIGH) to apply a high amount of sharpening.
+     * Use Post temporal sharpening strength (postTemporalSharpeningStrength) to define the amount of sharpening the transcoder applies to your output. Set Post temporal sharpening strength to Low (LOW), Medium (MEDIUM), or High (HIGH) to indicate the amount of sharpening.
      */
     PostTemporalSharpeningStrength?: NoiseFilterPostTemporalSharpeningStrength;
     /**
@@ -4624,6 +4735,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     HlsSettings?: HlsSettings;
   }
+  export type PadVideo = "DISABLED"|"BLACK"|string;
   export interface PartnerWatermarking {
     /**
      * For forensic video watermarking, MediaConvert supports Nagra NexGuard File Marker watermarking. MediaConvert supports both PreRelease Content (NGPR/G2) and OTT Streaming workflows.
@@ -4868,6 +4980,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
     ChannelsOut?: __integerMin1Max64;
   }
   export type RenewalType = "AUTO_RENEW"|"EXPIRE"|string;
+  export type RequiredFlag = "ENABLED"|"DISABLED"|string;
   export interface ReservationPlan {
     /**
      * The length of the term of your reserved queue pricing plan commitment.
@@ -4920,6 +5033,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
     Tags?: __mapOf__string;
   }
   export type RespondToAfd = "NONE"|"RESPOND"|"PASSTHROUGH"|string;
+  export type RuleType = "MIN_TOP_RENDITION_SIZE"|"MIN_BOTTOM_RENDITION_SIZE"|"FORCE_INCLUDE_RENDITIONS"|"ALLOWED_RENDITIONS"|string;
   export interface S3DestinationAccessControl {
     /**
      * Choose an Amazon S3 canned ACL for MediaConvert to apply to this output.
@@ -5448,9 +5562,17 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     ColorSpaceUsage?: ColorSpaceUsage;
     /**
+     * Set Embedded timecode override (embeddedTimecodeOverride) to Use MDPM (USE_MDPM) when your AVCHD input contains timecode tag data in the Modified Digital Video Pack Metadata (MDPM). When you do, we recommend you also set Timecode source (inputTimecodeSource) to Embedded (EMBEDDED). Leave Embedded timecode override blank, or set to None (NONE), when your input does not contain MDPM timecode.
+     */
+    EmbeddedTimecodeOverride?: EmbeddedTimecodeOverride;
+    /**
      * Use these settings to provide HDR 10 metadata that is missing or inaccurate in your input video. Appropriate values vary depending on the input video and must be provided by a color grader. The color grader generates these values during the HDR 10 mastering process. The valid range for each of these settings is 0 to 50,000. Each increment represents 0.00002 in CIE1931 color coordinate. Related settings - When you specify these values, you must also set Color space (ColorSpace) to HDR 10 (HDR10). To specify whether the the values you specify here take precedence over the values in the metadata of your input file, set Color space usage (ColorSpaceUsage). To specify whether color metadata is included in an output, set Color metadata (ColorMetadata). For more information about MediaConvert HDR jobs, see https://docs.aws.amazon.com/console/mediaconvert/hdr.
      */
     Hdr10Metadata?: Hdr10Metadata;
+    /**
+     * Use this setting if your input has video and audio durations that don't align, and your output or player has strict alignment requirements. Examples: Input audio track has a delayed start. Input video track ends before audio ends. When you set Pad video (padVideo) to Black (BLACK), MediaConvert generates black video frames so that output video and audio durations match. Black video frames are added at the beginning or end, depending on your input. To keep the default behavior and not generate black video, set Pad video to Disabled (DISABLED) or leave blank.
+     */
+    PadVideo?: PadVideo;
     /**
      * Use PID (Pid) to select specific video data from an input file. Specify this value as an integer; the system automatically converts it to the hexidecimal value. For example, 257 selects PID 0x101. A PID, or packet identifier, is an identifier for a set of data in an MPEG-2 transport stream container.
      */
@@ -5624,11 +5746,11 @@ Within your job settings, all of your DVB-Sub settings must be identical.
   export type WebvttAccessibilitySubs = "DISABLED"|"ENABLED"|string;
   export interface WebvttDestinationSettings {
     /**
-     * Specify whether to flag this caption track as accessibility in your HLS/CMAF parent manifest. When you choose ENABLED, MediaConvert includes the parameters CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound" and AUTOSELECT="YES" in the EXT-X-MEDIA entry for this track. When you keep the default choice, DISABLED, MediaConvert leaves this parameter out.
+     * Set Accessibility subtitles to Enabled if the ISMC or WebVTT captions track is intended to provide accessibility for people who are deaf or hard of hearing. When you enable this feature, MediaConvert adds the following attributes under EXT-X-MEDIA in the HLS or CMAF manifest for this track: CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound" and AUTOSELECT="YES". Keep the default value, Disabled, if the captions track is not intended to provide such accessibility. MediaConvert will not add the above attributes.
      */
     Accessibility?: WebvttAccessibilitySubs;
     /**
-     * Set Style passthrough (StylePassthrough) to ENABLED to use the available style, color, and position information from your input captions. MediaConvert uses default settings for any missing style and position information in your input captions. Set Style passthrough to DISABLED, or leave blank, to ignore the style and position information from your input captions and use simplified output captions.
+     * To use the available style, color, and position information from your input captions: Set Style passthrough (stylePassthrough) to Enabled (ENABLED). MediaConvert uses default settings when style and position information is missing from your input captions. To recreate the input captions exactly: Set Style passthrough to Strict (STRICT). MediaConvert automatically applies timing adjustments, including adjustments for frame rate conversion, ad avails, and input clipping. Your input captions format must be WebVTT. To ignore the style and position information from your input captions and use simplified output captions: Set Style passthrough to Disabled (DISABLED), or leave blank.
      */
     StylePassthrough?: WebvttStylePassthrough;
   }
@@ -5646,7 +5768,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
      */
     RenditionName?: __string;
   }
-  export type WebvttStylePassthrough = "ENABLED"|"DISABLED"|string;
+  export type WebvttStylePassthrough = "ENABLED"|"DISABLED"|"STRICT"|string;
   export type Xavc4kIntraCbgProfileClass = "CLASS_100"|"CLASS_300"|"CLASS_480"|string;
   export interface Xavc4kIntraCbgProfileSettings {
     /**
@@ -5907,6 +6029,7 @@ Within your job settings, all of your DVB-Sub settings must be identical.
   export type __integerMin3Max15 = number;
   export type __integerMin48000Max48000 = number;
   export type __integerMin4Max12 = number;
+  export type __integerMin50Max86400000 = number;
   export type __integerMin6000Max1024000 = number;
   export type __integerMin64000Max640000 = number;
   export type __integerMin8000Max192000 = number;
@@ -5924,12 +6047,15 @@ Within your job settings, all of your DVB-Sub settings must be identical.
   export type __integerMinNegative5Max5 = number;
   export type __integerMinNegative60Max6 = number;
   export type __integerMinNegative70Max0 = number;
+  export type __listOfAllowedRenditionSize = AllowedRenditionSize[];
   export type __listOfAudioDescription = AudioDescription[];
+  export type __listOfAutomatedAbrRule = AutomatedAbrRule[];
   export type __listOfCaptionDescription = CaptionDescription[];
   export type __listOfCaptionDescriptionPreset = CaptionDescriptionPreset[];
   export type __listOfCmafAdditionalManifest = CmafAdditionalManifest[];
   export type __listOfDashAdditionalManifest = DashAdditionalManifest[];
   export type __listOfEndpoint = Endpoint[];
+  export type __listOfForceIncludeRenditionSize = ForceIncludeRenditionSize[];
   export type __listOfHlsAdMarkers = HlsAdMarkers[];
   export type __listOfHlsAdditionalManifest = HlsAdditionalManifest[];
   export type __listOfHlsCaptionLanguageMapping = HlsCaptionLanguageMapping[];

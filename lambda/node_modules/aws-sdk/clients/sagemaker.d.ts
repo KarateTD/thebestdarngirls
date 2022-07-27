@@ -21,11 +21,11 @@ declare class SageMaker extends Service {
    */
   addAssociation(callback?: (err: AWSError, data: SageMaker.Types.AddAssociationResponse) => void): Request<SageMaker.Types.AddAssociationResponse, AWSError>;
   /**
-   * Adds or overwrites one or more tags for the specified Amazon SageMaker resource. You can add tags to notebook instances, training jobs, hyperparameter tuning jobs, batch transform jobs, models, labeling jobs, work teams, endpoint configurations, and endpoints. Each tag consists of a key and an optional value. Tag keys must be unique per resource. For more information about tags, see For more information, see Amazon Web Services Tagging Strategies.  Tags that you add to a hyperparameter tuning job by calling this API are also added to any training jobs that the hyperparameter tuning job launches after you call this API, but not to training jobs that the hyperparameter tuning job launched before you called this API. To make sure that the tags associated with a hyperparameter tuning job are also added to all training jobs that the hyperparameter tuning job launches, add the tags when you first create the tuning job by specifying them in the Tags parameter of CreateHyperParameterTuningJob    Tags that you add to a SageMaker Studio Domain or User Profile by calling this API are also added to any Apps that the Domain or User Profile launches after you call this API, but not to Apps that the Domain or User Profile launched before you called this API. To make sure that the tags associated with a Domain or User Profile are also added to all Apps that the Domain or User Profile launches, add the tags when you first create the Domain or User Profile by specifying them in the Tags parameter of CreateDomain or CreateUserProfile. 
+   * Adds or overwrites one or more tags for the specified SageMaker resource. You can add tags to notebook instances, training jobs, hyperparameter tuning jobs, batch transform jobs, models, labeling jobs, work teams, endpoint configurations, and endpoints. Each tag consists of a key and an optional value. Tag keys must be unique per resource. For more information about tags, see For more information, see Amazon Web Services Tagging Strategies.  Tags that you add to a hyperparameter tuning job by calling this API are also added to any training jobs that the hyperparameter tuning job launches after you call this API, but not to training jobs that the hyperparameter tuning job launched before you called this API. To make sure that the tags associated with a hyperparameter tuning job are also added to all training jobs that the hyperparameter tuning job launches, add the tags when you first create the tuning job by specifying them in the Tags parameter of CreateHyperParameterTuningJob    Tags that you add to a SageMaker Studio Domain or User Profile by calling this API are also added to any Apps that the Domain or User Profile launches after you call this API, but not to Apps that the Domain or User Profile launched before you called this API. To make sure that the tags associated with a Domain or User Profile are also added to all Apps that the Domain or User Profile launches, add the tags when you first create the Domain or User Profile by specifying them in the Tags parameter of CreateDomain or CreateUserProfile. 
    */
   addTags(params: SageMaker.Types.AddTagsInput, callback?: (err: AWSError, data: SageMaker.Types.AddTagsOutput) => void): Request<SageMaker.Types.AddTagsOutput, AWSError>;
   /**
-   * Adds or overwrites one or more tags for the specified Amazon SageMaker resource. You can add tags to notebook instances, training jobs, hyperparameter tuning jobs, batch transform jobs, models, labeling jobs, work teams, endpoint configurations, and endpoints. Each tag consists of a key and an optional value. Tag keys must be unique per resource. For more information about tags, see For more information, see Amazon Web Services Tagging Strategies.  Tags that you add to a hyperparameter tuning job by calling this API are also added to any training jobs that the hyperparameter tuning job launches after you call this API, but not to training jobs that the hyperparameter tuning job launched before you called this API. To make sure that the tags associated with a hyperparameter tuning job are also added to all training jobs that the hyperparameter tuning job launches, add the tags when you first create the tuning job by specifying them in the Tags parameter of CreateHyperParameterTuningJob    Tags that you add to a SageMaker Studio Domain or User Profile by calling this API are also added to any Apps that the Domain or User Profile launches after you call this API, but not to Apps that the Domain or User Profile launched before you called this API. To make sure that the tags associated with a Domain or User Profile are also added to all Apps that the Domain or User Profile launches, add the tags when you first create the Domain or User Profile by specifying them in the Tags parameter of CreateDomain or CreateUserProfile. 
+   * Adds or overwrites one or more tags for the specified SageMaker resource. You can add tags to notebook instances, training jobs, hyperparameter tuning jobs, batch transform jobs, models, labeling jobs, work teams, endpoint configurations, and endpoints. Each tag consists of a key and an optional value. Tag keys must be unique per resource. For more information about tags, see For more information, see Amazon Web Services Tagging Strategies.  Tags that you add to a hyperparameter tuning job by calling this API are also added to any training jobs that the hyperparameter tuning job launches after you call this API, but not to training jobs that the hyperparameter tuning job launched before you called this API. To make sure that the tags associated with a hyperparameter tuning job are also added to all training jobs that the hyperparameter tuning job launches, add the tags when you first create the tuning job by specifying them in the Tags parameter of CreateHyperParameterTuningJob    Tags that you add to a SageMaker Studio Domain or User Profile by calling this API are also added to any Apps that the Domain or User Profile launches after you call this API, but not to Apps that the Domain or User Profile launched before you called this API. To make sure that the tags associated with a Domain or User Profile are also added to all Apps that the Domain or User Profile launches, add the tags when you first create the Domain or User Profile by specifying them in the Tags parameter of CreateDomain or CreateUserProfile. 
    */
   addTags(callback?: (err: AWSError, data: SageMaker.Types.AddTagsOutput) => void): Request<SageMaker.Types.AddTagsOutput, AWSError>;
   /**
@@ -53,11 +53,11 @@ declare class SageMaker extends Service {
    */
   createAction(callback?: (err: AWSError, data: SageMaker.Types.CreateActionResponse) => void): Request<SageMaker.Types.CreateActionResponse, AWSError>;
   /**
-   * Create a machine learning algorithm that you can use in Amazon SageMaker and list in the Amazon Web Services Marketplace.
+   * Create a machine learning algorithm that you can use in SageMaker and list in the Amazon Web Services Marketplace.
    */
   createAlgorithm(params: SageMaker.Types.CreateAlgorithmInput, callback?: (err: AWSError, data: SageMaker.Types.CreateAlgorithmOutput) => void): Request<SageMaker.Types.CreateAlgorithmOutput, AWSError>;
   /**
-   * Create a machine learning algorithm that you can use in Amazon SageMaker and list in the Amazon Web Services Marketplace.
+   * Create a machine learning algorithm that you can use in SageMaker and list in the Amazon Web Services Marketplace.
    */
   createAlgorithm(callback?: (err: AWSError, data: SageMaker.Types.CreateAlgorithmOutput) => void): Request<SageMaker.Types.CreateAlgorithmOutput, AWSError>;
   /**
@@ -93,11 +93,11 @@ declare class SageMaker extends Service {
    */
   createAutoMLJob(callback?: (err: AWSError, data: SageMaker.Types.CreateAutoMLJobResponse) => void): Request<SageMaker.Types.CreateAutoMLJobResponse, AWSError>;
   /**
-   * Creates a Git repository as a resource in your Amazon SageMaker account. You can associate the repository with notebook instances so that you can use Git source control for the notebooks you create. The Git repository is a resource in your Amazon SageMaker account, so it can be associated with more than one notebook instance, and it persists independently from the lifecycle of any notebook instances it is associated with. The repository can be hosted either in Amazon Web Services CodeCommit or in any other Git repository.
+   * Creates a Git repository as a resource in your SageMaker account. You can associate the repository with notebook instances so that you can use Git source control for the notebooks you create. The Git repository is a resource in your SageMaker account, so it can be associated with more than one notebook instance, and it persists independently from the lifecycle of any notebook instances it is associated with. The repository can be hosted either in Amazon Web Services CodeCommit or in any other Git repository.
    */
   createCodeRepository(params: SageMaker.Types.CreateCodeRepositoryInput, callback?: (err: AWSError, data: SageMaker.Types.CreateCodeRepositoryOutput) => void): Request<SageMaker.Types.CreateCodeRepositoryOutput, AWSError>;
   /**
-   * Creates a Git repository as a resource in your Amazon SageMaker account. You can associate the repository with notebook instances so that you can use Git source control for the notebooks you create. The Git repository is a resource in your Amazon SageMaker account, so it can be associated with more than one notebook instance, and it persists independently from the lifecycle of any notebook instances it is associated with. The repository can be hosted either in Amazon Web Services CodeCommit or in any other Git repository.
+   * Creates a Git repository as a resource in your SageMaker account. You can associate the repository with notebook instances so that you can use Git source control for the notebooks you create. The Git repository is a resource in your SageMaker account, so it can be associated with more than one notebook instance, and it persists independently from the lifecycle of any notebook instances it is associated with. The repository can be hosted either in Amazon Web Services CodeCommit or in any other Git repository.
    */
   createCodeRepository(callback?: (err: AWSError, data: SageMaker.Types.CreateCodeRepositoryOutput) => void): Request<SageMaker.Types.CreateCodeRepositoryOutput, AWSError>;
   /**
@@ -141,6 +141,22 @@ declare class SageMaker extends Service {
    */
   createDomain(callback?: (err: AWSError, data: SageMaker.Types.CreateDomainResponse) => void): Request<SageMaker.Types.CreateDomainResponse, AWSError>;
   /**
+   * Creates an edge deployment plan, consisting of multiple stages. Each stage may have a different deployment configuration and devices.
+   */
+  createEdgeDeploymentPlan(params: SageMaker.Types.CreateEdgeDeploymentPlanRequest, callback?: (err: AWSError, data: SageMaker.Types.CreateEdgeDeploymentPlanResponse) => void): Request<SageMaker.Types.CreateEdgeDeploymentPlanResponse, AWSError>;
+  /**
+   * Creates an edge deployment plan, consisting of multiple stages. Each stage may have a different deployment configuration and devices.
+   */
+  createEdgeDeploymentPlan(callback?: (err: AWSError, data: SageMaker.Types.CreateEdgeDeploymentPlanResponse) => void): Request<SageMaker.Types.CreateEdgeDeploymentPlanResponse, AWSError>;
+  /**
+   * Creates a new stage in an existing edge deployment plan.
+   */
+  createEdgeDeploymentStage(params: SageMaker.Types.CreateEdgeDeploymentStageRequest, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
+   * Creates a new stage in an existing edge deployment plan.
+   */
+  createEdgeDeploymentStage(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
    * Starts a SageMaker Edge Manager model packaging job. Edge Manager will use the model artifacts from the Amazon Simple Storage Service bucket that you specify. After the model has been packaged, Amazon SageMaker saves the resulting artifacts to an S3 bucket that you specify.
    */
   createEdgePackagingJob(params: SageMaker.Types.CreateEdgePackagingJobRequest, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
@@ -149,19 +165,19 @@ declare class SageMaker extends Service {
    */
   createEdgePackagingJob(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Creates an endpoint using the endpoint configuration specified in the request. Amazon SageMaker uses the endpoint to provision resources and deploy models. You create the endpoint configuration with the CreateEndpointConfig API.   Use this API to deploy models using Amazon SageMaker hosting services.  For an example that calls this method when deploying a model to Amazon SageMaker hosting services, see the Create Endpoint example notebook.    You must not delete an EndpointConfig that is in use by an endpoint that is live or while the UpdateEndpoint or CreateEndpoint operations are being performed on the endpoint. To update an endpoint, you must create a new EndpointConfig.  The endpoint name must be unique within an Amazon Web Services Region in your Amazon Web Services account.  When it receives the request, Amazon SageMaker creates the endpoint, launches the resources (ML compute instances), and deploys the model(s) on them.   When you call CreateEndpoint, a load call is made to DynamoDB to verify that your endpoint configuration exists. When you read data from a DynamoDB table supporting  Eventually Consistent Reads , the response might not reflect the results of a recently completed write operation. The response might include some stale data. If the dependent entities are not yet in DynamoDB, this causes a validation error. If you repeat your read request after a short time, the response should return the latest data. So retry logic is recommended to handle these possible issues. We also recommend that customers call DescribeEndpointConfig before calling CreateEndpoint to minimize the potential impact of a DynamoDB eventually consistent read.  When Amazon SageMaker receives the request, it sets the endpoint status to Creating. After it creates the endpoint, it sets the status to InService. Amazon SageMaker can then process incoming requests for inferences. To check the status of an endpoint, use the DescribeEndpoint API. If any of the models hosted at this endpoint get model data from an Amazon S3 location, Amazon SageMaker uses Amazon Web Services Security Token Service to download model artifacts from the S3 path you provided. Amazon Web Services STS is activated in your IAM user account by default. If you previously deactivated Amazon Web Services STS for a region, you need to reactivate Amazon Web Services STS for that region. For more information, see Activating and Deactivating Amazon Web Services STS in an Amazon Web Services Region in the Amazon Web Services Identity and Access Management User Guide.   To add the IAM role policies for using this API operation, go to the IAM console, and choose Roles in the left navigation pane. Search the IAM role that you want to grant access to use the CreateEndpoint and CreateEndpointConfig API operations, add the following policies to the role.    Option 1: For a full SageMaker access, search and attach the AmazonSageMakerFullAccess policy.   Option 2: For granting a limited access to an IAM role, paste the following Action elements manually into the JSON file of the IAM role:   "Action": ["sagemaker:CreateEndpoint", "sagemaker:CreateEndpointConfig"]   "Resource": [   "arn:aws:sagemaker:region:account-id:endpoint/endpointName"   "arn:aws:sagemaker:region:account-id:endpoint-config/endpointConfigName"   ]  For more information, see SageMaker API Permissions: Actions, Permissions, and Resources Reference.   
+   * Creates an endpoint using the endpoint configuration specified in the request. SageMaker uses the endpoint to provision resources and deploy models. You create the endpoint configuration with the CreateEndpointConfig API.   Use this API to deploy models using SageMaker hosting services.  For an example that calls this method when deploying a model to SageMaker hosting services, see the Create Endpoint example notebook.    You must not delete an EndpointConfig that is in use by an endpoint that is live or while the UpdateEndpoint or CreateEndpoint operations are being performed on the endpoint. To update an endpoint, you must create a new EndpointConfig.  The endpoint name must be unique within an Amazon Web Services Region in your Amazon Web Services account.  When it receives the request, SageMaker creates the endpoint, launches the resources (ML compute instances), and deploys the model(s) on them.   When you call CreateEndpoint, a load call is made to DynamoDB to verify that your endpoint configuration exists. When you read data from a DynamoDB table supporting  Eventually Consistent Reads , the response might not reflect the results of a recently completed write operation. The response might include some stale data. If the dependent entities are not yet in DynamoDB, this causes a validation error. If you repeat your read request after a short time, the response should return the latest data. So retry logic is recommended to handle these possible issues. We also recommend that customers call DescribeEndpointConfig before calling CreateEndpoint to minimize the potential impact of a DynamoDB eventually consistent read.  When SageMaker receives the request, it sets the endpoint status to Creating. After it creates the endpoint, it sets the status to InService. SageMaker can then process incoming requests for inferences. To check the status of an endpoint, use the DescribeEndpoint API. If any of the models hosted at this endpoint get model data from an Amazon S3 location, SageMaker uses Amazon Web Services Security Token Service to download model artifacts from the S3 path you provided. Amazon Web Services STS is activated in your IAM user account by default. If you previously deactivated Amazon Web Services STS for a region, you need to reactivate Amazon Web Services STS for that region. For more information, see Activating and Deactivating Amazon Web Services STS in an Amazon Web Services Region in the Amazon Web Services Identity and Access Management User Guide.   To add the IAM role policies for using this API operation, go to the IAM console, and choose Roles in the left navigation pane. Search the IAM role that you want to grant access to use the CreateEndpoint and CreateEndpointConfig API operations, add the following policies to the role.    Option 1: For a full SageMaker access, search and attach the AmazonSageMakerFullAccess policy.   Option 2: For granting a limited access to an IAM role, paste the following Action elements manually into the JSON file of the IAM role:   "Action": ["sagemaker:CreateEndpoint", "sagemaker:CreateEndpointConfig"]   "Resource": [   "arn:aws:sagemaker:region:account-id:endpoint/endpointName"   "arn:aws:sagemaker:region:account-id:endpoint-config/endpointConfigName"   ]  For more information, see SageMaker API Permissions: Actions, Permissions, and Resources Reference.   
    */
   createEndpoint(params: SageMaker.Types.CreateEndpointInput, callback?: (err: AWSError, data: SageMaker.Types.CreateEndpointOutput) => void): Request<SageMaker.Types.CreateEndpointOutput, AWSError>;
   /**
-   * Creates an endpoint using the endpoint configuration specified in the request. Amazon SageMaker uses the endpoint to provision resources and deploy models. You create the endpoint configuration with the CreateEndpointConfig API.   Use this API to deploy models using Amazon SageMaker hosting services.  For an example that calls this method when deploying a model to Amazon SageMaker hosting services, see the Create Endpoint example notebook.    You must not delete an EndpointConfig that is in use by an endpoint that is live or while the UpdateEndpoint or CreateEndpoint operations are being performed on the endpoint. To update an endpoint, you must create a new EndpointConfig.  The endpoint name must be unique within an Amazon Web Services Region in your Amazon Web Services account.  When it receives the request, Amazon SageMaker creates the endpoint, launches the resources (ML compute instances), and deploys the model(s) on them.   When you call CreateEndpoint, a load call is made to DynamoDB to verify that your endpoint configuration exists. When you read data from a DynamoDB table supporting  Eventually Consistent Reads , the response might not reflect the results of a recently completed write operation. The response might include some stale data. If the dependent entities are not yet in DynamoDB, this causes a validation error. If you repeat your read request after a short time, the response should return the latest data. So retry logic is recommended to handle these possible issues. We also recommend that customers call DescribeEndpointConfig before calling CreateEndpoint to minimize the potential impact of a DynamoDB eventually consistent read.  When Amazon SageMaker receives the request, it sets the endpoint status to Creating. After it creates the endpoint, it sets the status to InService. Amazon SageMaker can then process incoming requests for inferences. To check the status of an endpoint, use the DescribeEndpoint API. If any of the models hosted at this endpoint get model data from an Amazon S3 location, Amazon SageMaker uses Amazon Web Services Security Token Service to download model artifacts from the S3 path you provided. Amazon Web Services STS is activated in your IAM user account by default. If you previously deactivated Amazon Web Services STS for a region, you need to reactivate Amazon Web Services STS for that region. For more information, see Activating and Deactivating Amazon Web Services STS in an Amazon Web Services Region in the Amazon Web Services Identity and Access Management User Guide.   To add the IAM role policies for using this API operation, go to the IAM console, and choose Roles in the left navigation pane. Search the IAM role that you want to grant access to use the CreateEndpoint and CreateEndpointConfig API operations, add the following policies to the role.    Option 1: For a full SageMaker access, search and attach the AmazonSageMakerFullAccess policy.   Option 2: For granting a limited access to an IAM role, paste the following Action elements manually into the JSON file of the IAM role:   "Action": ["sagemaker:CreateEndpoint", "sagemaker:CreateEndpointConfig"]   "Resource": [   "arn:aws:sagemaker:region:account-id:endpoint/endpointName"   "arn:aws:sagemaker:region:account-id:endpoint-config/endpointConfigName"   ]  For more information, see SageMaker API Permissions: Actions, Permissions, and Resources Reference.   
+   * Creates an endpoint using the endpoint configuration specified in the request. SageMaker uses the endpoint to provision resources and deploy models. You create the endpoint configuration with the CreateEndpointConfig API.   Use this API to deploy models using SageMaker hosting services.  For an example that calls this method when deploying a model to SageMaker hosting services, see the Create Endpoint example notebook.    You must not delete an EndpointConfig that is in use by an endpoint that is live or while the UpdateEndpoint or CreateEndpoint operations are being performed on the endpoint. To update an endpoint, you must create a new EndpointConfig.  The endpoint name must be unique within an Amazon Web Services Region in your Amazon Web Services account.  When it receives the request, SageMaker creates the endpoint, launches the resources (ML compute instances), and deploys the model(s) on them.   When you call CreateEndpoint, a load call is made to DynamoDB to verify that your endpoint configuration exists. When you read data from a DynamoDB table supporting  Eventually Consistent Reads , the response might not reflect the results of a recently completed write operation. The response might include some stale data. If the dependent entities are not yet in DynamoDB, this causes a validation error. If you repeat your read request after a short time, the response should return the latest data. So retry logic is recommended to handle these possible issues. We also recommend that customers call DescribeEndpointConfig before calling CreateEndpoint to minimize the potential impact of a DynamoDB eventually consistent read.  When SageMaker receives the request, it sets the endpoint status to Creating. After it creates the endpoint, it sets the status to InService. SageMaker can then process incoming requests for inferences. To check the status of an endpoint, use the DescribeEndpoint API. If any of the models hosted at this endpoint get model data from an Amazon S3 location, SageMaker uses Amazon Web Services Security Token Service to download model artifacts from the S3 path you provided. Amazon Web Services STS is activated in your IAM user account by default. If you previously deactivated Amazon Web Services STS for a region, you need to reactivate Amazon Web Services STS for that region. For more information, see Activating and Deactivating Amazon Web Services STS in an Amazon Web Services Region in the Amazon Web Services Identity and Access Management User Guide.   To add the IAM role policies for using this API operation, go to the IAM console, and choose Roles in the left navigation pane. Search the IAM role that you want to grant access to use the CreateEndpoint and CreateEndpointConfig API operations, add the following policies to the role.    Option 1: For a full SageMaker access, search and attach the AmazonSageMakerFullAccess policy.   Option 2: For granting a limited access to an IAM role, paste the following Action elements manually into the JSON file of the IAM role:   "Action": ["sagemaker:CreateEndpoint", "sagemaker:CreateEndpointConfig"]   "Resource": [   "arn:aws:sagemaker:region:account-id:endpoint/endpointName"   "arn:aws:sagemaker:region:account-id:endpoint-config/endpointConfigName"   ]  For more information, see SageMaker API Permissions: Actions, Permissions, and Resources Reference.   
    */
   createEndpoint(callback?: (err: AWSError, data: SageMaker.Types.CreateEndpointOutput) => void): Request<SageMaker.Types.CreateEndpointOutput, AWSError>;
   /**
-   * Creates an endpoint configuration that Amazon SageMaker hosting services uses to deploy models. In the configuration, you identify one or more models, created using the CreateModel API, to deploy and the resources that you want Amazon SageMaker to provision. Then you call the CreateEndpoint API.   Use this API if you want to use Amazon SageMaker hosting services to deploy models into production.   In the request, you define a ProductionVariant, for each model that you want to deploy. Each ProductionVariant parameter also describes the resources that you want Amazon SageMaker to provision. This includes the number and type of ML compute instances to deploy.  If you are hosting multiple models, you also assign a VariantWeight to specify how much traffic you want to allocate to each model. For example, suppose that you want to host two models, A and B, and you assign traffic weight 2 for model A and 1 for model B. Amazon SageMaker distributes two-thirds of the traffic to Model A, and one-third to model B.   When you call CreateEndpoint, a load call is made to DynamoDB to verify that your endpoint configuration exists. When you read data from a DynamoDB table supporting  Eventually Consistent Reads , the response might not reflect the results of a recently completed write operation. The response might include some stale data. If the dependent entities are not yet in DynamoDB, this causes a validation error. If you repeat your read request after a short time, the response should return the latest data. So retry logic is recommended to handle these possible issues. We also recommend that customers call DescribeEndpointConfig before calling CreateEndpoint to minimize the potential impact of a DynamoDB eventually consistent read. 
+   * Creates an endpoint configuration that SageMaker hosting services uses to deploy models. In the configuration, you identify one or more models, created using the CreateModel API, to deploy and the resources that you want SageMaker to provision. Then you call the CreateEndpoint API.   Use this API if you want to use SageMaker hosting services to deploy models into production.   In the request, you define a ProductionVariant, for each model that you want to deploy. Each ProductionVariant parameter also describes the resources that you want SageMaker to provision. This includes the number and type of ML compute instances to deploy.  If you are hosting multiple models, you also assign a VariantWeight to specify how much traffic you want to allocate to each model. For example, suppose that you want to host two models, A and B, and you assign traffic weight 2 for model A and 1 for model B. SageMaker distributes two-thirds of the traffic to Model A, and one-third to model B.   When you call CreateEndpoint, a load call is made to DynamoDB to verify that your endpoint configuration exists. When you read data from a DynamoDB table supporting  Eventually Consistent Reads , the response might not reflect the results of a recently completed write operation. The response might include some stale data. If the dependent entities are not yet in DynamoDB, this causes a validation error. If you repeat your read request after a short time, the response should return the latest data. So retry logic is recommended to handle these possible issues. We also recommend that customers call DescribeEndpointConfig before calling CreateEndpoint to minimize the potential impact of a DynamoDB eventually consistent read. 
    */
   createEndpointConfig(params: SageMaker.Types.CreateEndpointConfigInput, callback?: (err: AWSError, data: SageMaker.Types.CreateEndpointConfigOutput) => void): Request<SageMaker.Types.CreateEndpointConfigOutput, AWSError>;
   /**
-   * Creates an endpoint configuration that Amazon SageMaker hosting services uses to deploy models. In the configuration, you identify one or more models, created using the CreateModel API, to deploy and the resources that you want Amazon SageMaker to provision. Then you call the CreateEndpoint API.   Use this API if you want to use Amazon SageMaker hosting services to deploy models into production.   In the request, you define a ProductionVariant, for each model that you want to deploy. Each ProductionVariant parameter also describes the resources that you want Amazon SageMaker to provision. This includes the number and type of ML compute instances to deploy.  If you are hosting multiple models, you also assign a VariantWeight to specify how much traffic you want to allocate to each model. For example, suppose that you want to host two models, A and B, and you assign traffic weight 2 for model A and 1 for model B. Amazon SageMaker distributes two-thirds of the traffic to Model A, and one-third to model B.   When you call CreateEndpoint, a load call is made to DynamoDB to verify that your endpoint configuration exists. When you read data from a DynamoDB table supporting  Eventually Consistent Reads , the response might not reflect the results of a recently completed write operation. The response might include some stale data. If the dependent entities are not yet in DynamoDB, this causes a validation error. If you repeat your read request after a short time, the response should return the latest data. So retry logic is recommended to handle these possible issues. We also recommend that customers call DescribeEndpointConfig before calling CreateEndpoint to minimize the potential impact of a DynamoDB eventually consistent read. 
+   * Creates an endpoint configuration that SageMaker hosting services uses to deploy models. In the configuration, you identify one or more models, created using the CreateModel API, to deploy and the resources that you want SageMaker to provision. Then you call the CreateEndpoint API.   Use this API if you want to use SageMaker hosting services to deploy models into production.   In the request, you define a ProductionVariant, for each model that you want to deploy. Each ProductionVariant parameter also describes the resources that you want SageMaker to provision. This includes the number and type of ML compute instances to deploy.  If you are hosting multiple models, you also assign a VariantWeight to specify how much traffic you want to allocate to each model. For example, suppose that you want to host two models, A and B, and you assign traffic weight 2 for model A and 1 for model B. SageMaker distributes two-thirds of the traffic to Model A, and one-third to model B.   When you call CreateEndpoint, a load call is made to DynamoDB to verify that your endpoint configuration exists. When you read data from a DynamoDB table supporting  Eventually Consistent Reads , the response might not reflect the results of a recently completed write operation. The response might include some stale data. If the dependent entities are not yet in DynamoDB, this causes a validation error. If you repeat your read request after a short time, the response should return the latest data. So retry logic is recommended to handle these possible issues. We also recommend that customers call DescribeEndpointConfig before calling CreateEndpoint to minimize the potential impact of a DynamoDB eventually consistent read. 
    */
   createEndpointConfig(callback?: (err: AWSError, data: SageMaker.Types.CreateEndpointConfigOutput) => void): Request<SageMaker.Types.CreateEndpointConfigOutput, AWSError>;
   /**
@@ -205,19 +221,19 @@ declare class SageMaker extends Service {
    */
   createHyperParameterTuningJob(callback?: (err: AWSError, data: SageMaker.Types.CreateHyperParameterTuningJobResponse) => void): Request<SageMaker.Types.CreateHyperParameterTuningJobResponse, AWSError>;
   /**
-   * Creates a custom SageMaker image. A SageMaker image is a set of image versions. Each image version represents a container image stored in Amazon Container Registry (ECR). For more information, see Bring your own SageMaker image.
+   * Creates a custom SageMaker image. A SageMaker image is a set of image versions. Each image version represents a container image stored in Amazon Elastic Container Registry (ECR). For more information, see Bring your own SageMaker image.
    */
   createImage(params: SageMaker.Types.CreateImageRequest, callback?: (err: AWSError, data: SageMaker.Types.CreateImageResponse) => void): Request<SageMaker.Types.CreateImageResponse, AWSError>;
   /**
-   * Creates a custom SageMaker image. A SageMaker image is a set of image versions. Each image version represents a container image stored in Amazon Container Registry (ECR). For more information, see Bring your own SageMaker image.
+   * Creates a custom SageMaker image. A SageMaker image is a set of image versions. Each image version represents a container image stored in Amazon Elastic Container Registry (ECR). For more information, see Bring your own SageMaker image.
    */
   createImage(callback?: (err: AWSError, data: SageMaker.Types.CreateImageResponse) => void): Request<SageMaker.Types.CreateImageResponse, AWSError>;
   /**
-   * Creates a version of the SageMaker image specified by ImageName. The version represents the Amazon Container Registry (ECR) container image specified by BaseImage.
+   * Creates a version of the SageMaker image specified by ImageName. The version represents the Amazon Elastic Container Registry (ECR) container image specified by BaseImage.
    */
   createImageVersion(params: SageMaker.Types.CreateImageVersionRequest, callback?: (err: AWSError, data: SageMaker.Types.CreateImageVersionResponse) => void): Request<SageMaker.Types.CreateImageVersionResponse, AWSError>;
   /**
-   * Creates a version of the SageMaker image specified by ImageName. The version represents the Amazon Container Registry (ECR) container image specified by BaseImage.
+   * Creates a version of the SageMaker image specified by ImageName. The version represents the Amazon Elastic Container Registry (ECR) container image specified by BaseImage.
    */
   createImageVersion(callback?: (err: AWSError, data: SageMaker.Types.CreateImageVersionResponse) => void): Request<SageMaker.Types.CreateImageVersionResponse, AWSError>;
   /**
@@ -237,11 +253,11 @@ declare class SageMaker extends Service {
    */
   createLabelingJob(callback?: (err: AWSError, data: SageMaker.Types.CreateLabelingJobResponse) => void): Request<SageMaker.Types.CreateLabelingJobResponse, AWSError>;
   /**
-   * Creates a model in Amazon SageMaker. In the request, you name the model and describe a primary container. For the primary container, you specify the Docker image that contains inference code, artifacts (from prior training), and a custom environment map that the inference code uses when you deploy the model for predictions. Use this API to create a model if you want to use Amazon SageMaker hosting services or run a batch transform job. To host your model, you create an endpoint configuration with the CreateEndpointConfig API, and then create an endpoint with the CreateEndpoint API. Amazon SageMaker then deploys all of the containers that you defined for the model in the hosting environment.  For an example that calls this method when deploying a model to Amazon SageMaker hosting services, see Deploy the Model to Amazon SageMaker Hosting Services (Amazon Web Services SDK for Python (Boto 3)).  To run a batch transform using your model, you start a job with the CreateTransformJob API. Amazon SageMaker uses your model and your dataset to get inferences which are then saved to a specified S3 location. In the CreateModel request, you must define a container with the PrimaryContainer parameter. In the request, you also provide an IAM role that Amazon SageMaker can assume to access model artifacts and docker image for deployment on ML compute hosting instances or for batch transform jobs. In addition, you also use the IAM role to manage permissions the inference code needs. For example, if the inference code access any other Amazon Web Services resources, you grant necessary permissions via this role.
+   * Creates a model in SageMaker. In the request, you name the model and describe a primary container. For the primary container, you specify the Docker image that contains inference code, artifacts (from prior training), and a custom environment map that the inference code uses when you deploy the model for predictions. Use this API to create a model if you want to use SageMaker hosting services or run a batch transform job. To host your model, you create an endpoint configuration with the CreateEndpointConfig API, and then create an endpoint with the CreateEndpoint API. SageMaker then deploys all of the containers that you defined for the model in the hosting environment.  For an example that calls this method when deploying a model to SageMaker hosting services, see Create a Model (Amazon Web Services SDK for Python (Boto 3)).  To run a batch transform using your model, you start a job with the CreateTransformJob API. SageMaker uses your model and your dataset to get inferences which are then saved to a specified S3 location. In the request, you also provide an IAM role that SageMaker can assume to access model artifacts and docker image for deployment on ML compute hosting instances or for batch transform jobs. In addition, you also use the IAM role to manage permissions the inference code needs. For example, if the inference code access any other Amazon Web Services resources, you grant necessary permissions via this role.
    */
   createModel(params: SageMaker.Types.CreateModelInput, callback?: (err: AWSError, data: SageMaker.Types.CreateModelOutput) => void): Request<SageMaker.Types.CreateModelOutput, AWSError>;
   /**
-   * Creates a model in Amazon SageMaker. In the request, you name the model and describe a primary container. For the primary container, you specify the Docker image that contains inference code, artifacts (from prior training), and a custom environment map that the inference code uses when you deploy the model for predictions. Use this API to create a model if you want to use Amazon SageMaker hosting services or run a batch transform job. To host your model, you create an endpoint configuration with the CreateEndpointConfig API, and then create an endpoint with the CreateEndpoint API. Amazon SageMaker then deploys all of the containers that you defined for the model in the hosting environment.  For an example that calls this method when deploying a model to Amazon SageMaker hosting services, see Deploy the Model to Amazon SageMaker Hosting Services (Amazon Web Services SDK for Python (Boto 3)).  To run a batch transform using your model, you start a job with the CreateTransformJob API. Amazon SageMaker uses your model and your dataset to get inferences which are then saved to a specified S3 location. In the CreateModel request, you must define a container with the PrimaryContainer parameter. In the request, you also provide an IAM role that Amazon SageMaker can assume to access model artifacts and docker image for deployment on ML compute hosting instances or for batch transform jobs. In addition, you also use the IAM role to manage permissions the inference code needs. For example, if the inference code access any other Amazon Web Services resources, you grant necessary permissions via this role.
+   * Creates a model in SageMaker. In the request, you name the model and describe a primary container. For the primary container, you specify the Docker image that contains inference code, artifacts (from prior training), and a custom environment map that the inference code uses when you deploy the model for predictions. Use this API to create a model if you want to use SageMaker hosting services or run a batch transform job. To host your model, you create an endpoint configuration with the CreateEndpointConfig API, and then create an endpoint with the CreateEndpoint API. SageMaker then deploys all of the containers that you defined for the model in the hosting environment.  For an example that calls this method when deploying a model to SageMaker hosting services, see Create a Model (Amazon Web Services SDK for Python (Boto 3)).  To run a batch transform using your model, you start a job with the CreateTransformJob API. SageMaker uses your model and your dataset to get inferences which are then saved to a specified S3 location. In the request, you also provide an IAM role that SageMaker can assume to access model artifacts and docker image for deployment on ML compute hosting instances or for batch transform jobs. In addition, you also use the IAM role to manage permissions the inference code needs. For example, if the inference code access any other Amazon Web Services resources, you grant necessary permissions via this role.
    */
   createModel(callback?: (err: AWSError, data: SageMaker.Types.CreateModelOutput) => void): Request<SageMaker.Types.CreateModelOutput, AWSError>;
   /**
@@ -261,11 +277,11 @@ declare class SageMaker extends Service {
    */
   createModelExplainabilityJobDefinition(callback?: (err: AWSError, data: SageMaker.Types.CreateModelExplainabilityJobDefinitionResponse) => void): Request<SageMaker.Types.CreateModelExplainabilityJobDefinitionResponse, AWSError>;
   /**
-   * Creates a model package that you can use to create Amazon SageMaker models or list on Amazon Web Services Marketplace, or a versioned model that is part of a model group. Buyers can subscribe to model packages listed on Amazon Web Services Marketplace to create models in Amazon SageMaker. To create a model package by specifying a Docker container that contains your inference code and the Amazon S3 location of your model artifacts, provide values for InferenceSpecification. To create a model from an algorithm resource that you created or subscribed to in Amazon Web Services Marketplace, provide a value for SourceAlgorithmSpecification.  There are two types of model packages:   Versioned - a model that is part of a model group in the model registry.   Unversioned - a model package that is not part of a model group.   
+   * Creates a model package that you can use to create SageMaker models or list on Amazon Web Services Marketplace, or a versioned model that is part of a model group. Buyers can subscribe to model packages listed on Amazon Web Services Marketplace to create models in SageMaker. To create a model package by specifying a Docker container that contains your inference code and the Amazon S3 location of your model artifacts, provide values for InferenceSpecification. To create a model from an algorithm resource that you created or subscribed to in Amazon Web Services Marketplace, provide a value for SourceAlgorithmSpecification.  There are two types of model packages:   Versioned - a model that is part of a model group in the model registry.   Unversioned - a model package that is not part of a model group.   
    */
   createModelPackage(params: SageMaker.Types.CreateModelPackageInput, callback?: (err: AWSError, data: SageMaker.Types.CreateModelPackageOutput) => void): Request<SageMaker.Types.CreateModelPackageOutput, AWSError>;
   /**
-   * Creates a model package that you can use to create Amazon SageMaker models or list on Amazon Web Services Marketplace, or a versioned model that is part of a model group. Buyers can subscribe to model packages listed on Amazon Web Services Marketplace to create models in Amazon SageMaker. To create a model package by specifying a Docker container that contains your inference code and the Amazon S3 location of your model artifacts, provide values for InferenceSpecification. To create a model from an algorithm resource that you created or subscribed to in Amazon Web Services Marketplace, provide a value for SourceAlgorithmSpecification.  There are two types of model packages:   Versioned - a model that is part of a model group in the model registry.   Unversioned - a model package that is not part of a model group.   
+   * Creates a model package that you can use to create SageMaker models or list on Amazon Web Services Marketplace, or a versioned model that is part of a model group. Buyers can subscribe to model packages listed on Amazon Web Services Marketplace to create models in SageMaker. To create a model package by specifying a Docker container that contains your inference code and the Amazon S3 location of your model artifacts, provide values for InferenceSpecification. To create a model from an algorithm resource that you created or subscribed to in Amazon Web Services Marketplace, provide a value for SourceAlgorithmSpecification.  There are two types of model packages:   Versioned - a model that is part of a model group in the model registry.   Unversioned - a model package that is not part of a model group.   
    */
   createModelPackage(callback?: (err: AWSError, data: SageMaker.Types.CreateModelPackageOutput) => void): Request<SageMaker.Types.CreateModelPackageOutput, AWSError>;
   /**
@@ -293,11 +309,11 @@ declare class SageMaker extends Service {
    */
   createMonitoringSchedule(callback?: (err: AWSError, data: SageMaker.Types.CreateMonitoringScheduleResponse) => void): Request<SageMaker.Types.CreateMonitoringScheduleResponse, AWSError>;
   /**
-   * Creates an Amazon SageMaker notebook instance. A notebook instance is a machine learning (ML) compute instance running on a Jupyter notebook.  In a CreateNotebookInstance request, specify the type of ML compute instance that you want to run. Amazon SageMaker launches the instance, installs common libraries that you can use to explore datasets for model training, and attaches an ML storage volume to the notebook instance.  Amazon SageMaker also provides a set of example notebooks. Each notebook demonstrates how to use Amazon SageMaker with a specific algorithm or with a machine learning framework.  After receiving the request, Amazon SageMaker does the following:   Creates a network interface in the Amazon SageMaker VPC.   (Option) If you specified SubnetId, Amazon SageMaker creates a network interface in your own VPC, which is inferred from the subnet ID that you provide in the input. When creating this network interface, Amazon SageMaker attaches the security group that you specified in the request to the network interface that it creates in your VPC.   Launches an EC2 instance of the type specified in the request in the Amazon SageMaker VPC. If you specified SubnetId of your VPC, Amazon SageMaker specifies both network interfaces when launching this instance. This enables inbound traffic from your own VPC to the notebook instance, assuming that the security groups allow it.   After creating the notebook instance, Amazon SageMaker returns its Amazon Resource Name (ARN). You can't change the name of a notebook instance after you create it. After Amazon SageMaker creates the notebook instance, you can connect to the Jupyter server and work in Jupyter notebooks. For example, you can write code to explore a dataset that you can use for model training, train a model, host models by creating Amazon SageMaker endpoints, and validate hosted models.  For more information, see How It Works. 
+   * Creates an SageMaker notebook instance. A notebook instance is a machine learning (ML) compute instance running on a Jupyter notebook.  In a CreateNotebookInstance request, specify the type of ML compute instance that you want to run. SageMaker launches the instance, installs common libraries that you can use to explore datasets for model training, and attaches an ML storage volume to the notebook instance.  SageMaker also provides a set of example notebooks. Each notebook demonstrates how to use SageMaker with a specific algorithm or with a machine learning framework.  After receiving the request, SageMaker does the following:   Creates a network interface in the SageMaker VPC.   (Option) If you specified SubnetId, SageMaker creates a network interface in your own VPC, which is inferred from the subnet ID that you provide in the input. When creating this network interface, SageMaker attaches the security group that you specified in the request to the network interface that it creates in your VPC.   Launches an EC2 instance of the type specified in the request in the SageMaker VPC. If you specified SubnetId of your VPC, SageMaker specifies both network interfaces when launching this instance. This enables inbound traffic from your own VPC to the notebook instance, assuming that the security groups allow it.   After creating the notebook instance, SageMaker returns its Amazon Resource Name (ARN). You can't change the name of a notebook instance after you create it. After SageMaker creates the notebook instance, you can connect to the Jupyter server and work in Jupyter notebooks. For example, you can write code to explore a dataset that you can use for model training, train a model, host models by creating SageMaker endpoints, and validate hosted models.  For more information, see How It Works. 
    */
   createNotebookInstance(params: SageMaker.Types.CreateNotebookInstanceInput, callback?: (err: AWSError, data: SageMaker.Types.CreateNotebookInstanceOutput) => void): Request<SageMaker.Types.CreateNotebookInstanceOutput, AWSError>;
   /**
-   * Creates an Amazon SageMaker notebook instance. A notebook instance is a machine learning (ML) compute instance running on a Jupyter notebook.  In a CreateNotebookInstance request, specify the type of ML compute instance that you want to run. Amazon SageMaker launches the instance, installs common libraries that you can use to explore datasets for model training, and attaches an ML storage volume to the notebook instance.  Amazon SageMaker also provides a set of example notebooks. Each notebook demonstrates how to use Amazon SageMaker with a specific algorithm or with a machine learning framework.  After receiving the request, Amazon SageMaker does the following:   Creates a network interface in the Amazon SageMaker VPC.   (Option) If you specified SubnetId, Amazon SageMaker creates a network interface in your own VPC, which is inferred from the subnet ID that you provide in the input. When creating this network interface, Amazon SageMaker attaches the security group that you specified in the request to the network interface that it creates in your VPC.   Launches an EC2 instance of the type specified in the request in the Amazon SageMaker VPC. If you specified SubnetId of your VPC, Amazon SageMaker specifies both network interfaces when launching this instance. This enables inbound traffic from your own VPC to the notebook instance, assuming that the security groups allow it.   After creating the notebook instance, Amazon SageMaker returns its Amazon Resource Name (ARN). You can't change the name of a notebook instance after you create it. After Amazon SageMaker creates the notebook instance, you can connect to the Jupyter server and work in Jupyter notebooks. For example, you can write code to explore a dataset that you can use for model training, train a model, host models by creating Amazon SageMaker endpoints, and validate hosted models.  For more information, see How It Works. 
+   * Creates an SageMaker notebook instance. A notebook instance is a machine learning (ML) compute instance running on a Jupyter notebook.  In a CreateNotebookInstance request, specify the type of ML compute instance that you want to run. SageMaker launches the instance, installs common libraries that you can use to explore datasets for model training, and attaches an ML storage volume to the notebook instance.  SageMaker also provides a set of example notebooks. Each notebook demonstrates how to use SageMaker with a specific algorithm or with a machine learning framework.  After receiving the request, SageMaker does the following:   Creates a network interface in the SageMaker VPC.   (Option) If you specified SubnetId, SageMaker creates a network interface in your own VPC, which is inferred from the subnet ID that you provide in the input. When creating this network interface, SageMaker attaches the security group that you specified in the request to the network interface that it creates in your VPC.   Launches an EC2 instance of the type specified in the request in the SageMaker VPC. If you specified SubnetId of your VPC, SageMaker specifies both network interfaces when launching this instance. This enables inbound traffic from your own VPC to the notebook instance, assuming that the security groups allow it.   After creating the notebook instance, SageMaker returns its Amazon Resource Name (ARN). You can't change the name of a notebook instance after you create it. After SageMaker creates the notebook instance, you can connect to the Jupyter server and work in Jupyter notebooks. For example, you can write code to explore a dataset that you can use for model training, train a model, host models by creating SageMaker endpoints, and validate hosted models.  For more information, see How It Works. 
    */
   createNotebookInstance(callback?: (err: AWSError, data: SageMaker.Types.CreateNotebookInstanceOutput) => void): Request<SageMaker.Types.CreateNotebookInstanceOutput, AWSError>;
   /**
@@ -325,11 +341,11 @@ declare class SageMaker extends Service {
    */
   createPresignedDomainUrl(callback?: (err: AWSError, data: SageMaker.Types.CreatePresignedDomainUrlResponse) => void): Request<SageMaker.Types.CreatePresignedDomainUrlResponse, AWSError>;
   /**
-   * Returns a URL that you can use to connect to the Jupyter server from a notebook instance. In the Amazon SageMaker console, when you choose Open next to a notebook instance, Amazon SageMaker opens a new tab showing the Jupyter server home page from the notebook instance. The console uses this API to get the URL and show the page.  The IAM role or user used to call this API defines the permissions to access the notebook instance. Once the presigned URL is created, no additional permission is required to access this URL. IAM authorization policies for this API are also enforced for every HTTP request and WebSocket frame that attempts to connect to the notebook instance. You can restrict access to this API and to the URL that it returns to a list of IP addresses that you specify. Use the NotIpAddress condition operator and the aws:SourceIP condition context key to specify the list of IP addresses that you want to have access to the notebook instance. For more information, see Limit Access to a Notebook Instance by IP Address.  The URL that you get from a call to CreatePresignedNotebookInstanceUrl is valid only for 5 minutes. If you try to use the URL after the 5-minute limit expires, you are directed to the Amazon Web Services console sign-in page. 
+   * Returns a URL that you can use to connect to the Jupyter server from a notebook instance. In the SageMaker console, when you choose Open next to a notebook instance, SageMaker opens a new tab showing the Jupyter server home page from the notebook instance. The console uses this API to get the URL and show the page.  The IAM role or user used to call this API defines the permissions to access the notebook instance. Once the presigned URL is created, no additional permission is required to access this URL. IAM authorization policies for this API are also enforced for every HTTP request and WebSocket frame that attempts to connect to the notebook instance. You can restrict access to this API and to the URL that it returns to a list of IP addresses that you specify. Use the NotIpAddress condition operator and the aws:SourceIP condition context key to specify the list of IP addresses that you want to have access to the notebook instance. For more information, see Limit Access to a Notebook Instance by IP Address.  The URL that you get from a call to CreatePresignedNotebookInstanceUrl is valid only for 5 minutes. If you try to use the URL after the 5-minute limit expires, you are directed to the Amazon Web Services console sign-in page. 
    */
   createPresignedNotebookInstanceUrl(params: SageMaker.Types.CreatePresignedNotebookInstanceUrlInput, callback?: (err: AWSError, data: SageMaker.Types.CreatePresignedNotebookInstanceUrlOutput) => void): Request<SageMaker.Types.CreatePresignedNotebookInstanceUrlOutput, AWSError>;
   /**
-   * Returns a URL that you can use to connect to the Jupyter server from a notebook instance. In the Amazon SageMaker console, when you choose Open next to a notebook instance, Amazon SageMaker opens a new tab showing the Jupyter server home page from the notebook instance. The console uses this API to get the URL and show the page.  The IAM role or user used to call this API defines the permissions to access the notebook instance. Once the presigned URL is created, no additional permission is required to access this URL. IAM authorization policies for this API are also enforced for every HTTP request and WebSocket frame that attempts to connect to the notebook instance. You can restrict access to this API and to the URL that it returns to a list of IP addresses that you specify. Use the NotIpAddress condition operator and the aws:SourceIP condition context key to specify the list of IP addresses that you want to have access to the notebook instance. For more information, see Limit Access to a Notebook Instance by IP Address.  The URL that you get from a call to CreatePresignedNotebookInstanceUrl is valid only for 5 minutes. If you try to use the URL after the 5-minute limit expires, you are directed to the Amazon Web Services console sign-in page. 
+   * Returns a URL that you can use to connect to the Jupyter server from a notebook instance. In the SageMaker console, when you choose Open next to a notebook instance, SageMaker opens a new tab showing the Jupyter server home page from the notebook instance. The console uses this API to get the URL and show the page.  The IAM role or user used to call this API defines the permissions to access the notebook instance. Once the presigned URL is created, no additional permission is required to access this URL. IAM authorization policies for this API are also enforced for every HTTP request and WebSocket frame that attempts to connect to the notebook instance. You can restrict access to this API and to the URL that it returns to a list of IP addresses that you specify. Use the NotIpAddress condition operator and the aws:SourceIP condition context key to specify the list of IP addresses that you want to have access to the notebook instance. For more information, see Limit Access to a Notebook Instance by IP Address.  The URL that you get from a call to CreatePresignedNotebookInstanceUrl is valid only for 5 minutes. If you try to use the URL after the 5-minute limit expires, you are directed to the Amazon Web Services console sign-in page. 
    */
   createPresignedNotebookInstanceUrl(callback?: (err: AWSError, data: SageMaker.Types.CreatePresignedNotebookInstanceUrlOutput) => void): Request<SageMaker.Types.CreatePresignedNotebookInstanceUrlOutput, AWSError>;
   /**
@@ -357,11 +373,11 @@ declare class SageMaker extends Service {
    */
   createStudioLifecycleConfig(callback?: (err: AWSError, data: SageMaker.Types.CreateStudioLifecycleConfigResponse) => void): Request<SageMaker.Types.CreateStudioLifecycleConfigResponse, AWSError>;
   /**
-   * Starts a model training job. After training completes, Amazon SageMaker saves the resulting model artifacts to an Amazon S3 location that you specify.  If you choose to host your model using Amazon SageMaker hosting services, you can use the resulting model artifacts as part of the model. You can also use the artifacts in a machine learning service other than Amazon SageMaker, provided that you know how to use them for inference.  In the request body, you provide the following:     AlgorithmSpecification - Identifies the training algorithm to use.     HyperParameters - Specify these algorithm-specific parameters to enable the estimation of model parameters during training. Hyperparameters can be tuned to optimize this learning process. For a list of hyperparameters for each training algorithm provided by Amazon SageMaker, see Algorithms.     InputDataConfig - Describes the training dataset and the Amazon S3, EFS, or FSx location where it is stored.    OutputDataConfig - Identifies the Amazon S3 bucket where you want Amazon SageMaker to save the results of model training.     ResourceConfig - Identifies the resources, ML compute instances, and ML storage volumes to deploy for model training. In distributed training, you specify more than one instance.     EnableManagedSpotTraining - Optimize the cost of training machine learning models by up to 80% by using Amazon EC2 Spot instances. For more information, see Managed Spot Training.     RoleArn - The Amazon Resource Name (ARN) that Amazon SageMaker assumes to perform tasks on your behalf during model training. You must grant this role the necessary permissions so that Amazon SageMaker can successfully complete model training.     StoppingCondition - To help cap training costs, use MaxRuntimeInSeconds to set a time limit for training. Use MaxWaitTimeInSeconds to specify how long a managed spot training job has to complete.     Environment - The environment variables to set in the Docker container.    RetryStrategy - The number of times to retry the job when the job fails due to an InternalServerError.    For more information about Amazon SageMaker, see How It Works. 
+   * Starts a model training job. After training completes, SageMaker saves the resulting model artifacts to an Amazon S3 location that you specify.  If you choose to host your model using SageMaker hosting services, you can use the resulting model artifacts as part of the model. You can also use the artifacts in a machine learning service other than SageMaker, provided that you know how to use them for inference.  In the request body, you provide the following:     AlgorithmSpecification - Identifies the training algorithm to use.     HyperParameters - Specify these algorithm-specific parameters to enable the estimation of model parameters during training. Hyperparameters can be tuned to optimize this learning process. For a list of hyperparameters for each training algorithm provided by SageMaker, see Algorithms.     InputDataConfig - Describes the training dataset and the Amazon S3, EFS, or FSx location where it is stored.    OutputDataConfig - Identifies the Amazon S3 bucket where you want SageMaker to save the results of model training.     ResourceConfig - Identifies the resources, ML compute instances, and ML storage volumes to deploy for model training. In distributed training, you specify more than one instance.     EnableManagedSpotTraining - Optimize the cost of training machine learning models by up to 80% by using Amazon EC2 Spot instances. For more information, see Managed Spot Training.     RoleArn - The Amazon Resource Name (ARN) that SageMaker assumes to perform tasks on your behalf during model training. You must grant this role the necessary permissions so that SageMaker can successfully complete model training.     StoppingCondition - To help cap training costs, use MaxRuntimeInSeconds to set a time limit for training. Use MaxWaitTimeInSeconds to specify how long a managed spot training job has to complete.     Environment - The environment variables to set in the Docker container.    RetryStrategy - The number of times to retry the job when the job fails due to an InternalServerError.    For more information about SageMaker, see How It Works. 
    */
   createTrainingJob(params: SageMaker.Types.CreateTrainingJobRequest, callback?: (err: AWSError, data: SageMaker.Types.CreateTrainingJobResponse) => void): Request<SageMaker.Types.CreateTrainingJobResponse, AWSError>;
   /**
-   * Starts a model training job. After training completes, Amazon SageMaker saves the resulting model artifacts to an Amazon S3 location that you specify.  If you choose to host your model using Amazon SageMaker hosting services, you can use the resulting model artifacts as part of the model. You can also use the artifacts in a machine learning service other than Amazon SageMaker, provided that you know how to use them for inference.  In the request body, you provide the following:     AlgorithmSpecification - Identifies the training algorithm to use.     HyperParameters - Specify these algorithm-specific parameters to enable the estimation of model parameters during training. Hyperparameters can be tuned to optimize this learning process. For a list of hyperparameters for each training algorithm provided by Amazon SageMaker, see Algorithms.     InputDataConfig - Describes the training dataset and the Amazon S3, EFS, or FSx location where it is stored.    OutputDataConfig - Identifies the Amazon S3 bucket where you want Amazon SageMaker to save the results of model training.     ResourceConfig - Identifies the resources, ML compute instances, and ML storage volumes to deploy for model training. In distributed training, you specify more than one instance.     EnableManagedSpotTraining - Optimize the cost of training machine learning models by up to 80% by using Amazon EC2 Spot instances. For more information, see Managed Spot Training.     RoleArn - The Amazon Resource Name (ARN) that Amazon SageMaker assumes to perform tasks on your behalf during model training. You must grant this role the necessary permissions so that Amazon SageMaker can successfully complete model training.     StoppingCondition - To help cap training costs, use MaxRuntimeInSeconds to set a time limit for training. Use MaxWaitTimeInSeconds to specify how long a managed spot training job has to complete.     Environment - The environment variables to set in the Docker container.    RetryStrategy - The number of times to retry the job when the job fails due to an InternalServerError.    For more information about Amazon SageMaker, see How It Works. 
+   * Starts a model training job. After training completes, SageMaker saves the resulting model artifacts to an Amazon S3 location that you specify.  If you choose to host your model using SageMaker hosting services, you can use the resulting model artifacts as part of the model. You can also use the artifacts in a machine learning service other than SageMaker, provided that you know how to use them for inference.  In the request body, you provide the following:     AlgorithmSpecification - Identifies the training algorithm to use.     HyperParameters - Specify these algorithm-specific parameters to enable the estimation of model parameters during training. Hyperparameters can be tuned to optimize this learning process. For a list of hyperparameters for each training algorithm provided by SageMaker, see Algorithms.     InputDataConfig - Describes the training dataset and the Amazon S3, EFS, or FSx location where it is stored.    OutputDataConfig - Identifies the Amazon S3 bucket where you want SageMaker to save the results of model training.     ResourceConfig - Identifies the resources, ML compute instances, and ML storage volumes to deploy for model training. In distributed training, you specify more than one instance.     EnableManagedSpotTraining - Optimize the cost of training machine learning models by up to 80% by using Amazon EC2 Spot instances. For more information, see Managed Spot Training.     RoleArn - The Amazon Resource Name (ARN) that SageMaker assumes to perform tasks on your behalf during model training. You must grant this role the necessary permissions so that SageMaker can successfully complete model training.     StoppingCondition - To help cap training costs, use MaxRuntimeInSeconds to set a time limit for training. Use MaxWaitTimeInSeconds to specify how long a managed spot training job has to complete.     Environment - The environment variables to set in the Docker container.    RetryStrategy - The number of times to retry the job when the job fails due to an InternalServerError.    For more information about SageMaker, see How It Works. 
    */
   createTrainingJob(callback?: (err: AWSError, data: SageMaker.Types.CreateTrainingJobResponse) => void): Request<SageMaker.Types.CreateTrainingJobResponse, AWSError>;
   /**
@@ -501,11 +517,27 @@ declare class SageMaker extends Service {
    */
   deleteDomain(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Deletes an endpoint. Amazon SageMaker frees up all of the resources that were deployed when the endpoint was created.  Amazon SageMaker retires any custom KMS key grants associated with the endpoint, meaning you don't need to use the RevokeGrant API call.
+   * Deletes an edge deployment plan if (and only if) all the stages in the plan are inactive or there are no stages in the plan.
+   */
+  deleteEdgeDeploymentPlan(params: SageMaker.Types.DeleteEdgeDeploymentPlanRequest, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
+   * Deletes an edge deployment plan if (and only if) all the stages in the plan are inactive or there are no stages in the plan.
+   */
+  deleteEdgeDeploymentPlan(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
+   * Delete a stage in an edge deployment plan if (and only if) the stage is inactive.
+   */
+  deleteEdgeDeploymentStage(params: SageMaker.Types.DeleteEdgeDeploymentStageRequest, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
+   * Delete a stage in an edge deployment plan if (and only if) the stage is inactive.
+   */
+  deleteEdgeDeploymentStage(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
+   * Deletes an endpoint. SageMaker frees up all of the resources that were deployed when the endpoint was created.  SageMaker retires any custom KMS key grants associated with the endpoint, meaning you don't need to use the RevokeGrant API call. When you delete your endpoint, SageMaker asynchronously deletes associated endpoint resources such as KMS key grants. You might still see these resources in your account for a few minutes after deleting your endpoint. Do not delete or revoke the permissions for your  ExecutionRoleArn , otherwise SageMaker cannot delete these resources.
    */
   deleteEndpoint(params: SageMaker.Types.DeleteEndpointInput, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Deletes an endpoint. Amazon SageMaker frees up all of the resources that were deployed when the endpoint was created.  Amazon SageMaker retires any custom KMS key grants associated with the endpoint, meaning you don't need to use the RevokeGrant API call.
+   * Deletes an endpoint. SageMaker frees up all of the resources that were deployed when the endpoint was created.  SageMaker retires any custom KMS key grants associated with the endpoint, meaning you don't need to use the RevokeGrant API call. When you delete your endpoint, SageMaker asynchronously deletes associated endpoint resources such as KMS key grants. You might still see these resources in your account for a few minutes after deleting your endpoint. Do not delete or revoke the permissions for your  ExecutionRoleArn , otherwise SageMaker cannot delete these resources.
    */
   deleteEndpoint(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
@@ -565,11 +597,11 @@ declare class SageMaker extends Service {
    */
   deleteImageVersion(callback?: (err: AWSError, data: SageMaker.Types.DeleteImageVersionResponse) => void): Request<SageMaker.Types.DeleteImageVersionResponse, AWSError>;
   /**
-   * Deletes a model. The DeleteModel API deletes only the model entry that was created in Amazon SageMaker when you called the CreateModel API. It does not delete model artifacts, inference code, or the IAM role that you specified when creating the model. 
+   * Deletes a model. The DeleteModel API deletes only the model entry that was created in SageMaker when you called the CreateModel API. It does not delete model artifacts, inference code, or the IAM role that you specified when creating the model. 
    */
   deleteModel(params: SageMaker.Types.DeleteModelInput, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Deletes a model. The DeleteModel API deletes only the model entry that was created in Amazon SageMaker when you called the CreateModel API. It does not delete model artifacts, inference code, or the IAM role that you specified when creating the model. 
+   * Deletes a model. The DeleteModel API deletes only the model entry that was created in SageMaker when you called the CreateModel API. It does not delete model artifacts, inference code, or the IAM role that you specified when creating the model. 
    */
   deleteModel(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
@@ -589,11 +621,11 @@ declare class SageMaker extends Service {
    */
   deleteModelExplainabilityJobDefinition(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Deletes a model package. A model package is used to create Amazon SageMaker models or list on Amazon Web Services Marketplace. Buyers can subscribe to model packages listed on Amazon Web Services Marketplace to create models in Amazon SageMaker.
+   * Deletes a model package. A model package is used to create SageMaker models or list on Amazon Web Services Marketplace. Buyers can subscribe to model packages listed on Amazon Web Services Marketplace to create models in SageMaker.
    */
   deleteModelPackage(params: SageMaker.Types.DeleteModelPackageInput, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Deletes a model package. A model package is used to create Amazon SageMaker models or list on Amazon Web Services Marketplace. Buyers can subscribe to model packages listed on Amazon Web Services Marketplace to create models in Amazon SageMaker.
+   * Deletes a model package. A model package is used to create SageMaker models or list on Amazon Web Services Marketplace. Buyers can subscribe to model packages listed on Amazon Web Services Marketplace to create models in SageMaker.
    */
   deleteModelPackage(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
@@ -629,11 +661,11 @@ declare class SageMaker extends Service {
    */
   deleteMonitoringSchedule(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   *  Deletes an Amazon SageMaker notebook instance. Before you can delete a notebook instance, you must call the StopNotebookInstance API.   When you delete a notebook instance, you lose all of your data. Amazon SageMaker removes the ML compute instance, and deletes the ML storage volume and the network interface associated with the notebook instance.  
+   *  Deletes an SageMaker notebook instance. Before you can delete a notebook instance, you must call the StopNotebookInstance API.   When you delete a notebook instance, you lose all of your data. SageMaker removes the ML compute instance, and deletes the ML storage volume and the network interface associated with the notebook instance.  
    */
   deleteNotebookInstance(params: SageMaker.Types.DeleteNotebookInstanceInput, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   *  Deletes an Amazon SageMaker notebook instance. Before you can delete a notebook instance, you must call the StopNotebookInstance API.   When you delete a notebook instance, you lose all of your data. Amazon SageMaker removes the ML compute instance, and deletes the ML storage volume and the network interface associated with the notebook instance.  
+   *  Deletes an SageMaker notebook instance. Before you can delete a notebook instance, you must call the StopNotebookInstance API.   When you delete a notebook instance, you lose all of your data. SageMaker removes the ML compute instance, and deletes the ML storage volume and the network interface associated with the notebook instance.  
    */
   deleteNotebookInstance(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
@@ -669,11 +701,11 @@ declare class SageMaker extends Service {
    */
   deleteStudioLifecycleConfig(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Deletes the specified tags from an Amazon SageMaker resource. To list a resource's tags, use the ListTags API.   When you call this API to delete tags from a hyperparameter tuning job, the deleted tags are not removed from training jobs that the hyperparameter tuning job launched before you called this API.   When you call this API to delete tags from a SageMaker Studio Domain or User Profile, the deleted tags are not removed from Apps that the SageMaker Studio Domain or User Profile launched before you called this API. 
+   * Deletes the specified tags from an SageMaker resource. To list a resource's tags, use the ListTags API.   When you call this API to delete tags from a hyperparameter tuning job, the deleted tags are not removed from training jobs that the hyperparameter tuning job launched before you called this API.   When you call this API to delete tags from a SageMaker Studio Domain or User Profile, the deleted tags are not removed from Apps that the SageMaker Studio Domain or User Profile launched before you called this API. 
    */
   deleteTags(params: SageMaker.Types.DeleteTagsInput, callback?: (err: AWSError, data: SageMaker.Types.DeleteTagsOutput) => void): Request<SageMaker.Types.DeleteTagsOutput, AWSError>;
   /**
-   * Deletes the specified tags from an Amazon SageMaker resource. To list a resource's tags, use the ListTags API.   When you call this API to delete tags from a hyperparameter tuning job, the deleted tags are not removed from training jobs that the hyperparameter tuning job launched before you called this API.   When you call this API to delete tags from a SageMaker Studio Domain or User Profile, the deleted tags are not removed from Apps that the SageMaker Studio Domain or User Profile launched before you called this API. 
+   * Deletes the specified tags from an SageMaker resource. To list a resource's tags, use the ListTags API.   When you call this API to delete tags from a hyperparameter tuning job, the deleted tags are not removed from training jobs that the hyperparameter tuning job launched before you called this API.   When you call this API to delete tags from a SageMaker Studio Domain or User Profile, the deleted tags are not removed from Apps that the SageMaker Studio Domain or User Profile launched before you called this API. 
    */
   deleteTags(callback?: (err: AWSError, data: SageMaker.Types.DeleteTagsOutput) => void): Request<SageMaker.Types.DeleteTagsOutput, AWSError>;
   /**
@@ -829,6 +861,14 @@ declare class SageMaker extends Service {
    */
   describeDomain(callback?: (err: AWSError, data: SageMaker.Types.DescribeDomainResponse) => void): Request<SageMaker.Types.DescribeDomainResponse, AWSError>;
   /**
+   * Describes an edge deployment plan with deployment status per stage.
+   */
+  describeEdgeDeploymentPlan(params: SageMaker.Types.DescribeEdgeDeploymentPlanRequest, callback?: (err: AWSError, data: SageMaker.Types.DescribeEdgeDeploymentPlanResponse) => void): Request<SageMaker.Types.DescribeEdgeDeploymentPlanResponse, AWSError>;
+  /**
+   * Describes an edge deployment plan with deployment status per stage.
+   */
+  describeEdgeDeploymentPlan(callback?: (err: AWSError, data: SageMaker.Types.DescribeEdgeDeploymentPlanResponse) => void): Request<SageMaker.Types.DescribeEdgeDeploymentPlanResponse, AWSError>;
+  /**
    * A description of edge packaging jobs.
    */
   describeEdgePackagingJob(params: SageMaker.Types.DescribeEdgePackagingJobRequest, callback?: (err: AWSError, data: SageMaker.Types.DescribeEdgePackagingJobResponse) => void): Request<SageMaker.Types.DescribeEdgePackagingJobResponse, AWSError>;
@@ -868,6 +908,14 @@ declare class SageMaker extends Service {
    * Use this operation to describe a FeatureGroup. The response includes information on the creation time, FeatureGroup name, the unique identifier for each FeatureGroup, and more.
    */
   describeFeatureGroup(callback?: (err: AWSError, data: SageMaker.Types.DescribeFeatureGroupResponse) => void): Request<SageMaker.Types.DescribeFeatureGroupResponse, AWSError>;
+  /**
+   * Shows the metadata for a feature within a feature group.
+   */
+  describeFeatureMetadata(params: SageMaker.Types.DescribeFeatureMetadataRequest, callback?: (err: AWSError, data: SageMaker.Types.DescribeFeatureMetadataResponse) => void): Request<SageMaker.Types.DescribeFeatureMetadataResponse, AWSError>;
+  /**
+   * Shows the metadata for a feature within a feature group.
+   */
+  describeFeatureMetadata(callback?: (err: AWSError, data: SageMaker.Types.DescribeFeatureMetadataResponse) => void): Request<SageMaker.Types.DescribeFeatureMetadataResponse, AWSError>;
   /**
    * Returns information about the specified flow definition.
    */
@@ -1301,6 +1349,14 @@ declare class SageMaker extends Service {
    */
   listDomains(callback?: (err: AWSError, data: SageMaker.Types.ListDomainsResponse) => void): Request<SageMaker.Types.ListDomainsResponse, AWSError>;
   /**
+   * Lists all edge deployment plans.
+   */
+  listEdgeDeploymentPlans(params: SageMaker.Types.ListEdgeDeploymentPlansRequest, callback?: (err: AWSError, data: SageMaker.Types.ListEdgeDeploymentPlansResponse) => void): Request<SageMaker.Types.ListEdgeDeploymentPlansResponse, AWSError>;
+  /**
+   * Lists all edge deployment plans.
+   */
+  listEdgeDeploymentPlans(callback?: (err: AWSError, data: SageMaker.Types.ListEdgeDeploymentPlansResponse) => void): Request<SageMaker.Types.ListEdgeDeploymentPlansResponse, AWSError>;
+  /**
    * Returns a list of edge packaging jobs.
    */
   listEdgePackagingJobs(params: SageMaker.Types.ListEdgePackagingJobsRequest, callback?: (err: AWSError, data: SageMaker.Types.ListEdgePackagingJobsResponse) => void): Request<SageMaker.Types.ListEdgePackagingJobsResponse, AWSError>;
@@ -1493,11 +1549,11 @@ declare class SageMaker extends Service {
    */
   listNotebookInstanceLifecycleConfigs(callback?: (err: AWSError, data: SageMaker.Types.ListNotebookInstanceLifecycleConfigsOutput) => void): Request<SageMaker.Types.ListNotebookInstanceLifecycleConfigsOutput, AWSError>;
   /**
-   * Returns a list of the Amazon SageMaker notebook instances in the requester's account in an Amazon Web Services Region. 
+   * Returns a list of the SageMaker notebook instances in the requester's account in an Amazon Web Services Region. 
    */
   listNotebookInstances(params: SageMaker.Types.ListNotebookInstancesInput, callback?: (err: AWSError, data: SageMaker.Types.ListNotebookInstancesOutput) => void): Request<SageMaker.Types.ListNotebookInstancesOutput, AWSError>;
   /**
-   * Returns a list of the Amazon SageMaker notebook instances in the requester's account in an Amazon Web Services Region. 
+   * Returns a list of the SageMaker notebook instances in the requester's account in an Amazon Web Services Region. 
    */
   listNotebookInstances(callback?: (err: AWSError, data: SageMaker.Types.ListNotebookInstancesOutput) => void): Request<SageMaker.Types.ListNotebookInstancesOutput, AWSError>;
   /**
@@ -1549,6 +1605,14 @@ declare class SageMaker extends Service {
    */
   listProjects(callback?: (err: AWSError, data: SageMaker.Types.ListProjectsOutput) => void): Request<SageMaker.Types.ListProjectsOutput, AWSError>;
   /**
+   * Lists devices allocated to the stage, containing detailed device information and deployment status.
+   */
+  listStageDevices(params: SageMaker.Types.ListStageDevicesRequest, callback?: (err: AWSError, data: SageMaker.Types.ListStageDevicesResponse) => void): Request<SageMaker.Types.ListStageDevicesResponse, AWSError>;
+  /**
+   * Lists devices allocated to the stage, containing detailed device information and deployment status.
+   */
+  listStageDevices(callback?: (err: AWSError, data: SageMaker.Types.ListStageDevicesResponse) => void): Request<SageMaker.Types.ListStageDevicesResponse, AWSError>;
+  /**
    * Lists the Studio Lifecycle Configurations in your Amazon Web Services Account.
    */
   listStudioLifecycleConfigs(params: SageMaker.Types.ListStudioLifecycleConfigsRequest, callback?: (err: AWSError, data: SageMaker.Types.ListStudioLifecycleConfigsResponse) => void): Request<SageMaker.Types.ListStudioLifecycleConfigsResponse, AWSError>;
@@ -1565,11 +1629,11 @@ declare class SageMaker extends Service {
    */
   listSubscribedWorkteams(callback?: (err: AWSError, data: SageMaker.Types.ListSubscribedWorkteamsResponse) => void): Request<SageMaker.Types.ListSubscribedWorkteamsResponse, AWSError>;
   /**
-   * Returns the tags for the specified Amazon SageMaker resource.
+   * Returns the tags for the specified SageMaker resource.
    */
   listTags(params: SageMaker.Types.ListTagsInput, callback?: (err: AWSError, data: SageMaker.Types.ListTagsOutput) => void): Request<SageMaker.Types.ListTagsOutput, AWSError>;
   /**
-   * Returns the tags for the specified Amazon SageMaker resource.
+   * Returns the tags for the specified SageMaker resource.
    */
   listTags(callback?: (err: AWSError, data: SageMaker.Types.ListTagsOutput) => void): Request<SageMaker.Types.ListTagsOutput, AWSError>;
   /**
@@ -1701,6 +1765,14 @@ declare class SageMaker extends Service {
    */
   sendPipelineExecutionStepSuccess(callback?: (err: AWSError, data: SageMaker.Types.SendPipelineExecutionStepSuccessResponse) => void): Request<SageMaker.Types.SendPipelineExecutionStepSuccessResponse, AWSError>;
   /**
+   * Starts a stage in an edge deployment plan.
+   */
+  startEdgeDeploymentStage(params: SageMaker.Types.StartEdgeDeploymentStageRequest, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
+   * Starts a stage in an edge deployment plan.
+   */
+  startEdgeDeploymentStage(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
    * Starts a previously stopped monitoring schedule.  By default, when you successfully create a new schedule, the status of a monitoring schedule is scheduled. 
    */
   startMonitoringSchedule(params: SageMaker.Types.StartMonitoringScheduleRequest, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
@@ -1709,11 +1781,11 @@ declare class SageMaker extends Service {
    */
   startMonitoringSchedule(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Launches an ML compute instance with the latest version of the libraries and attaches your ML storage volume. After configuring the notebook instance, Amazon SageMaker sets the notebook instance status to InService. A notebook instance's status must be InService before you can connect to your Jupyter notebook. 
+   * Launches an ML compute instance with the latest version of the libraries and attaches your ML storage volume. After configuring the notebook instance, SageMaker sets the notebook instance status to InService. A notebook instance's status must be InService before you can connect to your Jupyter notebook. 
    */
   startNotebookInstance(params: SageMaker.Types.StartNotebookInstanceInput, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Launches an ML compute instance with the latest version of the libraries and attaches your ML storage volume. After configuring the notebook instance, Amazon SageMaker sets the notebook instance status to InService. A notebook instance's status must be InService before you can connect to your Jupyter notebook. 
+   * Launches an ML compute instance with the latest version of the libraries and attaches your ML storage volume. After configuring the notebook instance, SageMaker sets the notebook instance status to InService. A notebook instance's status must be InService before you can connect to your Jupyter notebook. 
    */
   startNotebookInstance(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
@@ -1740,6 +1812,14 @@ declare class SageMaker extends Service {
    * Stops a model compilation job.  To stop a job, Amazon SageMaker sends the algorithm the SIGTERM signal. This gracefully shuts the job down. If the job hasn't stopped, it sends the SIGKILL signal. When it receives a StopCompilationJob request, Amazon SageMaker changes the CompilationJobSummary$CompilationJobStatus of the job to Stopping. After Amazon SageMaker stops the job, it sets the CompilationJobSummary$CompilationJobStatus to Stopped. 
    */
   stopCompilationJob(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
+   * Stops a stage in an edge deployment plan.
+   */
+  stopEdgeDeploymentStage(params: SageMaker.Types.StopEdgeDeploymentStageRequest, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
+   * Stops a stage in an edge deployment plan.
+   */
+  stopEdgeDeploymentStage(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
    * Request to stop an edge packaging job.
    */
@@ -1781,11 +1861,11 @@ declare class SageMaker extends Service {
    */
   stopMonitoringSchedule(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Terminates the ML compute instance. Before terminating the instance, Amazon SageMaker disconnects the ML storage volume from it. Amazon SageMaker preserves the ML storage volume. Amazon SageMaker stops charging you for the ML compute instance when you call StopNotebookInstance. To access data on the ML storage volume for a notebook instance that has been terminated, call the StartNotebookInstance API. StartNotebookInstance launches another ML compute instance, configures it, and attaches the preserved ML storage volume so you can continue your work. 
+   * Terminates the ML compute instance. Before terminating the instance, SageMaker disconnects the ML storage volume from it. SageMaker preserves the ML storage volume. SageMaker stops charging you for the ML compute instance when you call StopNotebookInstance. To access data on the ML storage volume for a notebook instance that has been terminated, call the StartNotebookInstance API. StartNotebookInstance launches another ML compute instance, configures it, and attaches the preserved ML storage volume so you can continue your work. 
    */
   stopNotebookInstance(params: SageMaker.Types.StopNotebookInstanceInput, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Terminates the ML compute instance. Before terminating the instance, Amazon SageMaker disconnects the ML storage volume from it. Amazon SageMaker preserves the ML storage volume. Amazon SageMaker stops charging you for the ML compute instance when you call StopNotebookInstance. To access data on the ML storage volume for a notebook instance that has been terminated, call the StartNotebookInstance API. StartNotebookInstance launches another ML compute instance, configures it, and attaches the preserved ML storage volume so you can continue your work. 
+   * Terminates the ML compute instance. Before terminating the instance, SageMaker disconnects the ML storage volume from it. SageMaker preserves the ML storage volume. SageMaker stops charging you for the ML compute instance when you call StopNotebookInstance. To access data on the ML storage volume for a notebook instance that has been terminated, call the StartNotebookInstance API. StartNotebookInstance launches another ML compute instance, configures it, and attaches the preserved ML storage volume so you can continue your work. 
    */
   stopNotebookInstance(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
@@ -1805,11 +1885,11 @@ declare class SageMaker extends Service {
    */
   stopProcessingJob(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Stops a training job. To stop a job, Amazon SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms might use this 120-second window to save the model artifacts, so the results of the training is not lost.  When it receives a StopTrainingJob request, Amazon SageMaker changes the status of the job to Stopping. After Amazon SageMaker stops the job, it sets the status to Stopped.
+   * Stops a training job. To stop a job, SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms might use this 120-second window to save the model artifacts, so the results of the training is not lost.  When it receives a StopTrainingJob request, SageMaker changes the status of the job to Stopping. After SageMaker stops the job, it sets the status to Stopped.
    */
   stopTrainingJob(params: SageMaker.Types.StopTrainingJobRequest, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
-   * Stops a training job. To stop a job, Amazon SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms might use this 120-second window to save the model artifacts, so the results of the training is not lost.  When it receives a StopTrainingJob request, Amazon SageMaker changes the status of the job to Stopping. After Amazon SageMaker stops the job, it sets the status to Stopped.
+   * Stops a training job. To stop a job, SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms might use this 120-second window to save the model artifacts, so the results of the training is not lost.  When it receives a StopTrainingJob request, SageMaker changes the status of the job to Stopping. After SageMaker stops the job, it sets the status to Stopped.
    */
   stopTrainingJob(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
@@ -1885,19 +1965,19 @@ declare class SageMaker extends Service {
    */
   updateDomain(callback?: (err: AWSError, data: SageMaker.Types.UpdateDomainResponse) => void): Request<SageMaker.Types.UpdateDomainResponse, AWSError>;
   /**
-   * Deploys the new EndpointConfig specified in the request, switches to using newly created endpoint, and then deletes resources provisioned for the endpoint using the previous EndpointConfig (there is no availability loss).  When Amazon SageMaker receives the request, it sets the endpoint status to Updating. After updating the endpoint, it sets the status to InService. To check the status of an endpoint, use the DescribeEndpoint API.   You must not delete an EndpointConfig in use by an endpoint that is live or while the UpdateEndpoint or CreateEndpoint operations are being performed on the endpoint. To update an endpoint, you must create a new EndpointConfig. If you delete the EndpointConfig of an endpoint that is active or being created or updated you may lose visibility into the instance type the endpoint is using. The endpoint must be deleted in order to stop incurring charges. 
+   * Deploys the new EndpointConfig specified in the request, switches to using newly created endpoint, and then deletes resources provisioned for the endpoint using the previous EndpointConfig (there is no availability loss).  When SageMaker receives the request, it sets the endpoint status to Updating. After updating the endpoint, it sets the status to InService. To check the status of an endpoint, use the DescribeEndpoint API.   You must not delete an EndpointConfig in use by an endpoint that is live or while the UpdateEndpoint or CreateEndpoint operations are being performed on the endpoint. To update an endpoint, you must create a new EndpointConfig. If you delete the EndpointConfig of an endpoint that is active or being created or updated you may lose visibility into the instance type the endpoint is using. The endpoint must be deleted in order to stop incurring charges. 
    */
   updateEndpoint(params: SageMaker.Types.UpdateEndpointInput, callback?: (err: AWSError, data: SageMaker.Types.UpdateEndpointOutput) => void): Request<SageMaker.Types.UpdateEndpointOutput, AWSError>;
   /**
-   * Deploys the new EndpointConfig specified in the request, switches to using newly created endpoint, and then deletes resources provisioned for the endpoint using the previous EndpointConfig (there is no availability loss).  When Amazon SageMaker receives the request, it sets the endpoint status to Updating. After updating the endpoint, it sets the status to InService. To check the status of an endpoint, use the DescribeEndpoint API.   You must not delete an EndpointConfig in use by an endpoint that is live or while the UpdateEndpoint or CreateEndpoint operations are being performed on the endpoint. To update an endpoint, you must create a new EndpointConfig. If you delete the EndpointConfig of an endpoint that is active or being created or updated you may lose visibility into the instance type the endpoint is using. The endpoint must be deleted in order to stop incurring charges. 
+   * Deploys the new EndpointConfig specified in the request, switches to using newly created endpoint, and then deletes resources provisioned for the endpoint using the previous EndpointConfig (there is no availability loss).  When SageMaker receives the request, it sets the endpoint status to Updating. After updating the endpoint, it sets the status to InService. To check the status of an endpoint, use the DescribeEndpoint API.   You must not delete an EndpointConfig in use by an endpoint that is live or while the UpdateEndpoint or CreateEndpoint operations are being performed on the endpoint. To update an endpoint, you must create a new EndpointConfig. If you delete the EndpointConfig of an endpoint that is active or being created or updated you may lose visibility into the instance type the endpoint is using. The endpoint must be deleted in order to stop incurring charges. 
    */
   updateEndpoint(callback?: (err: AWSError, data: SageMaker.Types.UpdateEndpointOutput) => void): Request<SageMaker.Types.UpdateEndpointOutput, AWSError>;
   /**
-   * Updates variant weight of one or more variants associated with an existing endpoint, or capacity of one variant associated with an existing endpoint. When it receives the request, Amazon SageMaker sets the endpoint status to Updating. After updating the endpoint, it sets the status to InService. To check the status of an endpoint, use the DescribeEndpoint API. 
+   * Updates variant weight of one or more variants associated with an existing endpoint, or capacity of one variant associated with an existing endpoint. When it receives the request, SageMaker sets the endpoint status to Updating. After updating the endpoint, it sets the status to InService. To check the status of an endpoint, use the DescribeEndpoint API. 
    */
   updateEndpointWeightsAndCapacities(params: SageMaker.Types.UpdateEndpointWeightsAndCapacitiesInput, callback?: (err: AWSError, data: SageMaker.Types.UpdateEndpointWeightsAndCapacitiesOutput) => void): Request<SageMaker.Types.UpdateEndpointWeightsAndCapacitiesOutput, AWSError>;
   /**
-   * Updates variant weight of one or more variants associated with an existing endpoint, or capacity of one variant associated with an existing endpoint. When it receives the request, Amazon SageMaker sets the endpoint status to Updating. After updating the endpoint, it sets the status to InService. To check the status of an endpoint, use the DescribeEndpoint API. 
+   * Updates variant weight of one or more variants associated with an existing endpoint, or capacity of one variant associated with an existing endpoint. When it receives the request, SageMaker sets the endpoint status to Updating. After updating the endpoint, it sets the status to InService. To check the status of an endpoint, use the DescribeEndpoint API. 
    */
   updateEndpointWeightsAndCapacities(callback?: (err: AWSError, data: SageMaker.Types.UpdateEndpointWeightsAndCapacitiesOutput) => void): Request<SageMaker.Types.UpdateEndpointWeightsAndCapacitiesOutput, AWSError>;
   /**
@@ -1908,6 +1988,22 @@ declare class SageMaker extends Service {
    * Adds, updates, or removes the description of an experiment. Updates the display name of an experiment.
    */
   updateExperiment(callback?: (err: AWSError, data: SageMaker.Types.UpdateExperimentResponse) => void): Request<SageMaker.Types.UpdateExperimentResponse, AWSError>;
+  /**
+   * Updates the feature group.
+   */
+  updateFeatureGroup(params: SageMaker.Types.UpdateFeatureGroupRequest, callback?: (err: AWSError, data: SageMaker.Types.UpdateFeatureGroupResponse) => void): Request<SageMaker.Types.UpdateFeatureGroupResponse, AWSError>;
+  /**
+   * Updates the feature group.
+   */
+  updateFeatureGroup(callback?: (err: AWSError, data: SageMaker.Types.UpdateFeatureGroupResponse) => void): Request<SageMaker.Types.UpdateFeatureGroupResponse, AWSError>;
+  /**
+   * Updates the description and parameters of the feature group.
+   */
+  updateFeatureMetadata(params: SageMaker.Types.UpdateFeatureMetadataRequest, callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
+  /**
+   * Updates the description and parameters of the feature group.
+   */
+  updateFeatureMetadata(callback?: (err: AWSError, data: {}) => void): Request<{}, AWSError>;
   /**
    * Updates the properties of a SageMaker image. To change the image's tags, use the AddTags and DeleteTags APIs.
    */
@@ -2005,11 +2101,11 @@ declare class SageMaker extends Service {
    */
   updateUserProfile(callback?: (err: AWSError, data: SageMaker.Types.UpdateUserProfileResponse) => void): Request<SageMaker.Types.UpdateUserProfileResponse, AWSError>;
   /**
-   * Use this operation to update your workforce. You can use this operation to require that workers use specific IP addresses to work on tasks and to update your OpenID Connect (OIDC) Identity Provider (IdP) workforce configuration.  Use SourceIpConfig to restrict worker access to tasks to a specific range of IP addresses. You specify allowed IP addresses by creating a list of up to ten CIDRs. By default, a workforce isn't restricted to specific IP addresses. If you specify a range of IP addresses, workers who attempt to access tasks using any IP address outside the specified range are denied and get a Not Found error message on the worker portal. Use OidcConfig to update the configuration of a workforce created using your own OIDC IdP.   You can only update your OIDC IdP configuration when there are no work teams associated with your workforce. You can delete work teams using the operation.  After restricting access to a range of IP addresses or updating your OIDC IdP configuration with this operation, you can view details about your update workforce using the operation.  This operation only applies to private workforces. 
+   * Use this operation to update your workforce. You can use this operation to require that workers use specific IP addresses to work on tasks and to update your OpenID Connect (OIDC) Identity Provider (IdP) workforce configuration. The worker portal is now supported in VPC and public internet.  Use SourceIpConfig to restrict worker access to tasks to a specific range of IP addresses. You specify allowed IP addresses by creating a list of up to ten CIDRs. By default, a workforce isn't restricted to specific IP addresses. If you specify a range of IP addresses, workers who attempt to access tasks using any IP address outside the specified range are denied and get a Not Found error message on the worker portal. To restrict access to all the workers in public internet, add the SourceIpConfig CIDR value as "0.0.0.0/0".  Amazon SageMaker does not support Source Ip restriction for worker portals in VPC.  Use OidcConfig to update the configuration of a workforce created using your own OIDC IdP.   You can only update your OIDC IdP configuration when there are no work teams associated with your workforce. You can delete work teams using the operation.  After restricting access to a range of IP addresses or updating your OIDC IdP configuration with this operation, you can view details about your update workforce using the operation.  This operation only applies to private workforces. 
    */
   updateWorkforce(params: SageMaker.Types.UpdateWorkforceRequest, callback?: (err: AWSError, data: SageMaker.Types.UpdateWorkforceResponse) => void): Request<SageMaker.Types.UpdateWorkforceResponse, AWSError>;
   /**
-   * Use this operation to update your workforce. You can use this operation to require that workers use specific IP addresses to work on tasks and to update your OpenID Connect (OIDC) Identity Provider (IdP) workforce configuration.  Use SourceIpConfig to restrict worker access to tasks to a specific range of IP addresses. You specify allowed IP addresses by creating a list of up to ten CIDRs. By default, a workforce isn't restricted to specific IP addresses. If you specify a range of IP addresses, workers who attempt to access tasks using any IP address outside the specified range are denied and get a Not Found error message on the worker portal. Use OidcConfig to update the configuration of a workforce created using your own OIDC IdP.   You can only update your OIDC IdP configuration when there are no work teams associated with your workforce. You can delete work teams using the operation.  After restricting access to a range of IP addresses or updating your OIDC IdP configuration with this operation, you can view details about your update workforce using the operation.  This operation only applies to private workforces. 
+   * Use this operation to update your workforce. You can use this operation to require that workers use specific IP addresses to work on tasks and to update your OpenID Connect (OIDC) Identity Provider (IdP) workforce configuration. The worker portal is now supported in VPC and public internet.  Use SourceIpConfig to restrict worker access to tasks to a specific range of IP addresses. You specify allowed IP addresses by creating a list of up to ten CIDRs. By default, a workforce isn't restricted to specific IP addresses. If you specify a range of IP addresses, workers who attempt to access tasks using any IP address outside the specified range are denied and get a Not Found error message on the worker portal. To restrict access to all the workers in public internet, add the SourceIpConfig CIDR value as "0.0.0.0/0".  Amazon SageMaker does not support Source Ip restriction for worker portals in VPC.  Use OidcConfig to update the configuration of a workforce created using your own OIDC IdP.   You can only update your OIDC IdP configuration when there are no work teams associated with your workforce. You can delete work teams using the operation.  After restricting access to a range of IP addresses or updating your OIDC IdP configuration with this operation, you can view details about your update workforce using the operation.  This operation only applies to private workforces. 
    */
   updateWorkforce(callback?: (err: AWSError, data: SageMaker.Types.UpdateWorkforceResponse) => void): Request<SageMaker.Types.UpdateWorkforceResponse, AWSError>;
   /**
@@ -2211,7 +2307,7 @@ declare namespace SageMaker {
   }
   export interface AddTagsOutput {
     /**
-     * A list of tags associated with the Amazon SageMaker resource.
+     * A list of tags associated with the SageMaker resource.
      */
     Tags?: TagList;
   }
@@ -2271,20 +2367,20 @@ declare namespace SageMaker {
   export type AlgorithmSortBy = "Name"|"CreationTime"|string;
   export interface AlgorithmSpecification {
     /**
-     * The registry path of the Docker image that contains the training algorithm. For information about docker registry paths for built-in algorithms, see Algorithms Provided by Amazon SageMaker: Common Parameters. Amazon SageMaker supports both registry/repository[:tag] and registry/repository[@digest] image path formats. For more information, see Using Your Own Algorithms with Amazon SageMaker.
+     * The registry path of the Docker image that contains the training algorithm. For information about docker registry paths for SageMaker built-in algorithms, see Docker Registry Paths and Example Code in the Amazon SageMaker developer guide. SageMaker supports both registry/repository[:tag] and registry/repository[@digest] image path formats. For more information about using your custom training container, see Using Your Own Algorithms with Amazon SageMaker.  You must specify either the algorithm name to the AlgorithmName parameter or the image URI of the algorithm container to the TrainingImage parameter. For more information, see the note in the AlgorithmName parameter description. 
      */
     TrainingImage?: AlgorithmImage;
     /**
-     * The name of the algorithm resource to use for the training job. This must be an algorithm resource that you created or subscribe to on Amazon Web Services Marketplace. If you specify a value for this parameter, you can't specify a value for TrainingImage.
+     * The name of the algorithm resource to use for the training job. This must be an algorithm resource that you created or subscribe to on Amazon Web Services Marketplace.  You must specify either the algorithm name to the AlgorithmName parameter or the image URI of the algorithm container to the TrainingImage parameter. Note that the AlgorithmName parameter is mutually exclusive with the TrainingImage parameter. If you specify a value for the AlgorithmName parameter, you can't specify a value for TrainingImage, and vice versa. If you specify values for both parameters, the training job might break; if you don't specify any value for both parameters, the training job might raise a null error. 
      */
     AlgorithmName?: ArnOrName;
     TrainingInputMode: TrainingInputMode;
     /**
-     * A list of metric definition objects. Each object specifies the metric name and regular expressions used to parse algorithm logs. Amazon SageMaker publishes each metric to Amazon CloudWatch.
+     * A list of metric definition objects. Each object specifies the metric name and regular expressions used to parse algorithm logs. SageMaker publishes each metric to Amazon CloudWatch.
      */
     MetricDefinitions?: MetricDefinitionList;
     /**
-     * To generate and save time-series metrics during training, set to true. The default is false and time-series metrics aren't generated except in the following cases:   You use one of the Amazon SageMaker built-in algorithms   You use one of the following Prebuilt Amazon SageMaker Docker Images:   Tensorflow (version &gt;= 1.15)   MXNet (version &gt;= 1.6)   PyTorch (version &gt;= 1.3)     You specify at least one MetricDefinition   
+     * To generate and save time-series metrics during training, set to true. The default is false and time-series metrics aren't generated except in the following cases:   You use one of the SageMaker built-in algorithms   You use one of the following Prebuilt SageMaker Docker Images:   Tensorflow (version &gt;= 1.15)   MXNet (version &gt;= 1.6)   PyTorch (version &gt;= 1.3)     You specify at least one MetricDefinition   
      */
     EnableSageMakerMetricsTimeSeries?: Boolean;
   }
@@ -2343,22 +2439,22 @@ declare namespace SageMaker {
      */
     ProfileName: EntityName;
     /**
-     * The TrainingJobDefinition object that describes the training job that Amazon SageMaker runs to validate your algorithm.
+     * The TrainingJobDefinition object that describes the training job that SageMaker runs to validate your algorithm.
      */
     TrainingJobDefinition: TrainingJobDefinition;
     /**
-     * The TransformJobDefinition object that describes the transform job that Amazon SageMaker runs to validate your algorithm.
+     * The TransformJobDefinition object that describes the transform job that SageMaker runs to validate your algorithm.
      */
     TransformJobDefinition?: TransformJobDefinition;
   }
   export type AlgorithmValidationProfiles = AlgorithmValidationProfile[];
   export interface AlgorithmValidationSpecification {
     /**
-     * The IAM roles that Amazon SageMaker uses to run the training jobs.
+     * The IAM roles that SageMaker uses to run the training jobs.
      */
     ValidationRole: RoleArn;
     /**
-     * An array of AlgorithmValidationProfile objects, each of which specifies a training job and batch transform job that Amazon SageMaker runs to validate your algorithm.
+     * An array of AlgorithmValidationProfile objects, each of which specifies a training job and batch transform job that SageMaker runs to validate your algorithm.
      */
     ValidationProfiles: AlgorithmValidationProfiles;
   }
@@ -2421,7 +2517,7 @@ declare namespace SageMaker {
   export type AppImageConfigList = AppImageConfigDetails[];
   export type AppImageConfigName = string;
   export type AppImageConfigSortKey = "CreationTime"|"LastModifiedTime"|"Name"|string;
-  export type AppInstanceType = "system"|"ml.t3.micro"|"ml.t3.small"|"ml.t3.medium"|"ml.t3.large"|"ml.t3.xlarge"|"ml.t3.2xlarge"|"ml.m5.large"|"ml.m5.xlarge"|"ml.m5.2xlarge"|"ml.m5.4xlarge"|"ml.m5.8xlarge"|"ml.m5.12xlarge"|"ml.m5.16xlarge"|"ml.m5.24xlarge"|"ml.m5d.large"|"ml.m5d.xlarge"|"ml.m5d.2xlarge"|"ml.m5d.4xlarge"|"ml.m5d.8xlarge"|"ml.m5d.12xlarge"|"ml.m5d.16xlarge"|"ml.m5d.24xlarge"|"ml.c5.large"|"ml.c5.xlarge"|"ml.c5.2xlarge"|"ml.c5.4xlarge"|"ml.c5.9xlarge"|"ml.c5.12xlarge"|"ml.c5.18xlarge"|"ml.c5.24xlarge"|"ml.p3.2xlarge"|"ml.p3.8xlarge"|"ml.p3.16xlarge"|"ml.p3dn.24xlarge"|"ml.g4dn.xlarge"|"ml.g4dn.2xlarge"|"ml.g4dn.4xlarge"|"ml.g4dn.8xlarge"|"ml.g4dn.12xlarge"|"ml.g4dn.16xlarge"|"ml.r5.large"|"ml.r5.xlarge"|"ml.r5.2xlarge"|"ml.r5.4xlarge"|"ml.r5.8xlarge"|"ml.r5.12xlarge"|"ml.r5.16xlarge"|"ml.r5.24xlarge"|string;
+  export type AppInstanceType = "system"|"ml.t3.micro"|"ml.t3.small"|"ml.t3.medium"|"ml.t3.large"|"ml.t3.xlarge"|"ml.t3.2xlarge"|"ml.m5.large"|"ml.m5.xlarge"|"ml.m5.2xlarge"|"ml.m5.4xlarge"|"ml.m5.8xlarge"|"ml.m5.12xlarge"|"ml.m5.16xlarge"|"ml.m5.24xlarge"|"ml.m5d.large"|"ml.m5d.xlarge"|"ml.m5d.2xlarge"|"ml.m5d.4xlarge"|"ml.m5d.8xlarge"|"ml.m5d.12xlarge"|"ml.m5d.16xlarge"|"ml.m5d.24xlarge"|"ml.c5.large"|"ml.c5.xlarge"|"ml.c5.2xlarge"|"ml.c5.4xlarge"|"ml.c5.9xlarge"|"ml.c5.12xlarge"|"ml.c5.18xlarge"|"ml.c5.24xlarge"|"ml.p3.2xlarge"|"ml.p3.8xlarge"|"ml.p3.16xlarge"|"ml.p3dn.24xlarge"|"ml.g4dn.xlarge"|"ml.g4dn.2xlarge"|"ml.g4dn.4xlarge"|"ml.g4dn.8xlarge"|"ml.g4dn.12xlarge"|"ml.g4dn.16xlarge"|"ml.r5.large"|"ml.r5.xlarge"|"ml.r5.2xlarge"|"ml.r5.4xlarge"|"ml.r5.8xlarge"|"ml.r5.12xlarge"|"ml.r5.16xlarge"|"ml.r5.24xlarge"|"ml.g5.xlarge"|"ml.g5.2xlarge"|"ml.g5.4xlarge"|"ml.g5.8xlarge"|"ml.g5.16xlarge"|"ml.g5.12xlarge"|"ml.g5.24xlarge"|"ml.g5.48xlarge"|string;
   export type AppList = AppDetails[];
   export type AppManaged = boolean;
   export type AppName = string;
@@ -2558,13 +2654,13 @@ declare namespace SageMaker {
   }
   export interface AsyncInferenceClientConfig {
     /**
-     * The maximum number of concurrent requests sent by the SageMaker client to the model container. If no value is provided, Amazon SageMaker will choose an optimal value for you.
+     * The maximum number of concurrent requests sent by the SageMaker client to the model container. If no value is provided, SageMaker chooses an optimal value.
      */
     MaxConcurrentInvocationsPerInstance?: MaxConcurrentInvocationsPerInstance;
   }
   export interface AsyncInferenceConfig {
     /**
-     * Configures the behavior of the client used by Amazon SageMaker to interact with the model container during asynchronous inference.
+     * Configures the behavior of the client used by SageMaker to interact with the model container during asynchronous inference.
      */
     ClientConfig?: AsyncInferenceClientConfig;
     /**
@@ -2584,7 +2680,7 @@ declare namespace SageMaker {
   }
   export interface AsyncInferenceOutputConfig {
     /**
-     * The Amazon Web Services Key Management Service (Amazon Web Services KMS) key that Amazon SageMaker uses to encrypt the asynchronous inference output in Amazon S3. 
+     * The Amazon Web Services Key Management Service (Amazon Web Services KMS) key that SageMaker uses to encrypt the asynchronous inference output in Amazon S3. 
      */
     KmsKeyId?: KmsKeyId;
     /**
@@ -2665,6 +2761,12 @@ declare namespace SageMaker {
      */
     CandidateProperties?: CandidateProperties;
   }
+  export interface AutoMLCandidateGenerationConfig {
+    /**
+     * A URL to the Amazon S3 data source containing selected features from the input data source to run an Autopilot job (optional). This file should be in json format as shown below:   { "FeatureAttributeNames":["col1", "col2", ...] }. The key name FeatureAttributeNames is fixed. The values listed in ["col1", "col2", ...] is case sensitive and should be a list of strings containing unique values that are a subset of the column names in the input data. The list of columns provided must not include the target column.
+     */
+    FeatureSpecificationS3Uri?: S3Uri;
+  }
   export interface AutoMLCandidateStep {
     /**
      * Whether the candidate is at the transform, training, or processing step.
@@ -2697,7 +2799,12 @@ declare namespace SageMaker {
      * The content type of the data from the input source. You can use text/csv;header=present or x-application/vnd.amazon+parquet. The default value is text/csv;header=present.
      */
     ContentType?: ContentType;
+    /**
+     * The channel type (optional) is an enum string. The default value is training. Channels for training and validation must share the same ContentType and TargetAttributeName. For information on specifying training and validation channel types, see  How to specify training and validation datasets .
+     */
+    ChannelType?: AutoMLChannelType;
   }
+  export type AutoMLChannelType = "training"|"validation"|string;
   export interface AutoMLContainerDefinition {
     /**
      * The Amazon Elastic Container Registry (Amazon ECR) path of the container. For more information, see .
@@ -2715,9 +2822,15 @@ declare namespace SageMaker {
   export type AutoMLContainerDefinitions = AutoMLContainerDefinition[];
   export interface AutoMLDataSource {
     /**
-     * The Amazon S3 location of the input data.  The input data must be in CSV format and contain at least 500 rows. 
+     * The Amazon S3 location of the input data.
      */
     S3DataSource: AutoMLS3DataSource;
+  }
+  export interface AutoMLDataSplitConfig {
+    /**
+     * The validation fraction (optional) is a float that specifies the portion of the training dataset to be used for validation. The default value is 0.2, and values must be greater than 0 and less than 1. We recommend setting this value to be less than 0.5.
+     */
+    ValidationFraction?: ValidationFraction;
   }
   export type AutoMLFailureReason = string;
   export type AutoMLInputDataConfig = AutoMLChannel[];
@@ -2755,6 +2868,14 @@ declare namespace SageMaker {
      * The security configuration for traffic encryption or Amazon VPC settings.
      */
     SecurityConfig?: AutoMLSecurityConfig;
+    /**
+     * The configuration for splitting the input training dataset. Type: AutoMLDataSplitConfig
+     */
+    DataSplitConfig?: AutoMLDataSplitConfig;
+    /**
+     * The configuration for generating a candidate for an AutoML job (optional). 
+     */
+    CandidateGenerationConfig?: AutoMLCandidateGenerationConfig;
   }
   export type AutoMLJobName = string;
   export interface AutoMLJobObjective {
@@ -2807,6 +2928,7 @@ declare namespace SageMaker {
   }
   export type AutoMLMaxResults = number;
   export type AutoMLMetricEnum = "Accuracy"|"MSE"|"F1"|"F1macro"|"AUC"|string;
+  export type AutoMLMetricExtendedEnum = "Accuracy"|"MSE"|"F1"|"F1macro"|"AUC"|"RMSE"|"MAE"|"R2"|"BalancedAccuracy"|"Precision"|"PrecisionMacro"|"Recall"|"RecallMacro"|"LogLoss"|string;
   export type AutoMLNameContains = string;
   export interface AutoMLOutputDataConfig {
     /**
@@ -2827,7 +2949,7 @@ declare namespace SageMaker {
   export type AutoMLPartialFailureReasons = AutoMLPartialFailureReason[];
   export interface AutoMLS3DataSource {
     /**
-     * The data type.
+     * The data type. A ManifestFile should have the format shown below:  [ {"prefix": "s3://DOC-EXAMPLE-BUCKET/DOC-EXAMPLE-FOLDER/DOC-EXAMPLE-PREFIX/"},    "DOC-EXAMPLE-RELATIVE-PATH/DOC-EXAMPLE-FOLDER/DATA-1",   "DOC-EXAMPLE-RELATIVE-PATH/DOC-EXAMPLE-FOLDER/DATA-2",   ... "DOC-EXAMPLE-RELATIVE-PATH/DOC-EXAMPLE-FOLDER/DATA-N" ]  An S3Prefix should have the following format:   s3://DOC-EXAMPLE-BUCKET/DOC-EXAMPLE-FOLDER-OR-FILE 
      */
     S3DataType: AutoMLS3DataType;
     /**
@@ -2923,7 +3045,13 @@ declare namespace SageMaker {
      * The bias report for a model
      */
     Report?: MetricsSource;
+    /**
+     * The pre-training bias report for a model.
+     */
     PreTrainingReport?: MetricsSource;
+    /**
+     * The post-training bias report for a model.
+     */
     PostTrainingReport?: MetricsSource;
   }
   export type BillableTimeInSeconds = number;
@@ -3009,18 +3137,18 @@ declare namespace SageMaker {
   export type CapacitySizeValue = number;
   export interface CaptureContentTypeHeader {
     /**
-     * 
+     * The list of all content type headers that SageMaker will treat as CSV and capture accordingly.
      */
     CsvContentTypes?: CsvContentTypes;
     /**
-     * 
+     * The list of all content type headers that SageMaker will treat as JSON and capture accordingly.
      */
     JsonContentTypes?: JsonContentTypes;
   }
   export type CaptureMode = "Input"|"Output"|string;
   export interface CaptureOption {
     /**
-     * 
+     * Specify the boundary of data to capture.
      */
     CaptureMode: CaptureMode;
   }
@@ -3076,11 +3204,11 @@ declare namespace SageMaker {
      */
     CompressionType?: CompressionType;
     /**
-     *  Specify RecordIO as the value when input data is in raw format but the training algorithm requires the RecordIO format. In this case, Amazon SageMaker wraps each individual S3 object in a RecordIO record. If the input data is already in RecordIO format, you don't need to set this attribute. For more information, see Create a Dataset Using RecordIO.  In File mode, leave this field unset or set it to None.
+     *  Specify RecordIO as the value when input data is in raw format but the training algorithm requires the RecordIO format. In this case, SageMaker wraps each individual S3 object in a RecordIO record. If the input data is already in RecordIO format, you don't need to set this attribute. For more information, see Create a Dataset Using RecordIO.  In File mode, leave this field unset or set it to None.
      */
     RecordWrapperType?: RecordWrapper;
     /**
-     * (Optional) The input mode to use for the data channel in a training job. If you don't set a value for InputMode, Amazon SageMaker uses the value set for TrainingInputMode. Use this parameter to override the TrainingInputMode setting in a AlgorithmSpecification request when you have a channel that needs a different input mode from the training job's general setting. To download the data from Amazon Simple Storage Service (Amazon S3) to the provisioned ML storage volume, and mount the directory to a Docker volume, use File input mode. To stream data directly from Amazon S3 to the container, choose Pipe input mode. To use a model for incremental training, choose File input model.
+     * (Optional) The input mode to use for the data channel in a training job. If you don't set a value for InputMode, SageMaker uses the value set for TrainingInputMode. Use this parameter to override the TrainingInputMode setting in a AlgorithmSpecification request when you have a channel that needs a different input mode from the training job's general setting. To download the data from Amazon Simple Storage Service (Amazon S3) to the provisioned ML storage volume, and mount the directory to a Docker volume, use File input mode. To stream data directly from Amazon S3 to the container, choose Pipe input mode. To use a model for incremental training, choose File input model.
      */
     InputMode?: TrainingInputMode;
     /**
@@ -3118,7 +3246,7 @@ declare namespace SageMaker {
   export type ChannelSpecifications = ChannelSpecification[];
   export interface CheckpointConfig {
     /**
-     * Identifies the S3 path where you want Amazon SageMaker to store checkpoints. For example, s3://bucket-name/key-name-prefix.
+     * Identifies the S3 path where you want SageMaker to store checkpoints. For example, s3://bucket-name/key-name-prefix.
      */
     S3Uri: S3Uri;
     /**
@@ -3302,7 +3430,7 @@ declare namespace SageMaker {
      */
     ContainerHostname?: ContainerHostname;
     /**
-     * The path where inference code is stored. This can be either in Amazon EC2 Container Registry or in a Docker registry that is accessible from the same VPC that you configure for your endpoint. If you are using your own custom algorithm instead of an algorithm provided by Amazon SageMaker, the inference code must meet Amazon SageMaker requirements. Amazon SageMaker supports both registry/repository[:tag] and registry/repository[@digest] image path formats. For more information, see Using Your Own Algorithms with Amazon SageMaker 
+     * The path where inference code is stored. This can be either in Amazon EC2 Container Registry or in a Docker registry that is accessible from the same VPC that you configure for your endpoint. If you are using your own custom algorithm instead of an algorithm provided by SageMaker, the inference code must meet SageMaker requirements. SageMaker supports both registry/repository[:tag] and registry/repository[@digest] image path formats. For more information, see Using Your Own Algorithms with Amazon SageMaker 
      */
     Image?: ContainerImage;
     /**
@@ -3314,7 +3442,7 @@ declare namespace SageMaker {
      */
     Mode?: ContainerMode;
     /**
-     * The S3 path where the model artifacts, which result from model training, are stored. This path must point to a single gzip compressed tar archive (.tar.gz suffix). The S3 path is required for Amazon SageMaker built-in algorithms, but not if you use your own algorithms. For more information on built-in algorithms, see Common Parameters.   The model artifacts must be in an S3 bucket that is in the same region as the model or endpoint you are creating.  If you provide a value for this parameter, Amazon SageMaker uses Amazon Web Services Security Token Service to download model artifacts from the S3 path you provide. Amazon Web Services STS is activated in your IAM user account by default. If you previously deactivated Amazon Web Services STS for a region, you need to reactivate Amazon Web Services STS for that region. For more information, see Activating and Deactivating Amazon Web Services STS in an Amazon Web Services Region in the Amazon Web Services Identity and Access Management User Guide.  If you use a built-in algorithm to create a model, Amazon SageMaker requires that you provide a S3 path to the model artifacts in ModelDataUrl. 
+     * The S3 path where the model artifacts, which result from model training, are stored. This path must point to a single gzip compressed tar archive (.tar.gz suffix). The S3 path is required for SageMaker built-in algorithms, but not if you use your own algorithms. For more information on built-in algorithms, see Common Parameters.   The model artifacts must be in an S3 bucket that is in the same region as the model or endpoint you are creating.  If you provide a value for this parameter, SageMaker uses Amazon Web Services Security Token Service to download model artifacts from the S3 path you provide. Amazon Web Services STS is activated in your IAM user account by default. If you previously deactivated Amazon Web Services STS for a region, you need to reactivate Amazon Web Services STS for that region. For more information, see Activating and Deactivating Amazon Web Services STS in an Amazon Web Services Region in the Amazon Web Services Identity and Access Management User Guide.  If you use a built-in algorithm to create a model, SageMaker requires that you provide a S3 path to the model artifacts in ModelDataUrl. 
      */
     ModelDataUrl?: Url;
     /**
@@ -3401,7 +3529,7 @@ declare namespace SageMaker {
      */
     MaxValue: ParameterValue;
     /**
-     * The scale that hyperparameter tuning uses to search the hyperparameter range. For information about choosing a hyperparameter scale, see Hyperparameter Scaling. One of the following values:  Auto  Amazon SageMaker hyperparameter tuning chooses the best scale for the hyperparameter.  Linear  Hyperparameter tuning searches the values in the hyperparameter range by using a linear scale.  Logarithmic  Hyperparameter tuning searches the values in the hyperparameter range by using a logarithmic scale. Logarithmic scaling works only for ranges that have only values greater than 0.  ReverseLogarithmic  Hyperparameter tuning searches the values in the hyperparameter range by using a reverse logarithmic scale. Reverse logarithmic scaling works only for ranges that are entirely within the range 0&lt;=x&lt;1.0.  
+     * The scale that hyperparameter tuning uses to search the hyperparameter range. For information about choosing a hyperparameter scale, see Hyperparameter Scaling. One of the following values:  Auto  SageMaker hyperparameter tuning chooses the best scale for the hyperparameter.  Linear  Hyperparameter tuning searches the values in the hyperparameter range by using a linear scale.  Logarithmic  Hyperparameter tuning searches the values in the hyperparameter range by using a logarithmic scale. Logarithmic scaling works only for ranges that have only values greater than 0.  ReverseLogarithmic  Hyperparameter tuning searches the values in the hyperparameter range by using a reverse logarithmic scale. Reverse logarithmic scaling works only for ranges that are entirely within the range 0&lt;=x&lt;1.0.  
      */
     ScalingType?: HyperParameterScalingType;
   }
@@ -3471,7 +3599,7 @@ declare namespace SageMaker {
      */
     InferenceSpecification?: InferenceSpecification;
     /**
-     * Specifies configurations for one or more training jobs and that Amazon SageMaker runs to test the algorithm's training code and, optionally, one or more batch transform jobs that Amazon SageMaker runs to test the algorithm's inference code.
+     * Specifies configurations for one or more training jobs and that SageMaker runs to test the algorithm's training code and, optionally, one or more batch transform jobs that SageMaker runs to test the algorithm's inference code.
      */
     ValidationSpecification?: AlgorithmValidationSpecification;
     /**
@@ -3531,7 +3659,7 @@ declare namespace SageMaker {
      */
     Tags?: TagList;
     /**
-     * The instance type and the Amazon Resource Name (ARN) of the SageMaker image created on the instance.
+     * The instance type and the Amazon Resource Name (ARN) of the SageMaker image created on the instance.  The value of InstanceType passed as part of the ResourceSpec in the CreateApp call overrides the value passed as part of the ResourceSpec configured for the user profile or the domain. If InstanceType is not specified in any of those three ResourceSpec values for a KernelGateway app, the CreateApp call fails with a request validation error. 
      */
     ResourceSpec?: ResourceSpec;
   }
@@ -3576,7 +3704,7 @@ declare namespace SageMaker {
      */
     AutoMLJobName: AutoMLJobName;
     /**
-     * An array of channel objects that describes the input data and its location. Each channel is a named input source. Similar to InputDataConfig supported by . Format(s) supported: CSV. Minimum of 500 rows.
+     * An array of channel objects that describes the input data and its location. Each channel is a named input source. Similar to InputDataConfig supported by . Format(s) supported: CSV, Parquet. A minimum of 500 rows is required for the training dataset. There is not a minimum number of rows required for the validation dataset.
      */
     InputDataConfig: AutoMLInputDataConfig;
     /**
@@ -3584,7 +3712,7 @@ declare namespace SageMaker {
      */
     OutputDataConfig: AutoMLOutputDataConfig;
     /**
-     * Defines the type of supervised learning available for the candidates. Options include: BinaryClassification, MulticlassClassification, and Regression. For more information, see  Amazon SageMaker Autopilot problem types and algorithm support.
+     * Defines the type of supervised learning available for the candidates. For more information, see  Amazon SageMaker Autopilot problem types and algorithm support.
      */
     ProblemType?: ProblemType;
     /**
@@ -3592,7 +3720,7 @@ declare namespace SageMaker {
      */
     AutoMLJobObjective?: AutoMLJobObjective;
     /**
-     * Contains CompletionCriteria and SecurityConfig settings for the AutoML job.
+     * A collection of settings used to configure an AutoML job.
      */
     AutoMLJobConfig?: AutoMLJobConfig;
     /**
@@ -3831,6 +3959,44 @@ declare namespace SageMaker {
      */
     Url?: String1024;
   }
+  export interface CreateEdgeDeploymentPlanRequest {
+    /**
+     * The name of the edge deployment plan.
+     */
+    EdgeDeploymentPlanName: EntityName;
+    /**
+     * List of models associated with the edge deployment plan.
+     */
+    ModelConfigs: EdgeDeploymentModelConfigs;
+    /**
+     * The device fleet used for this edge deployment plan.
+     */
+    DeviceFleetName: EntityName;
+    /**
+     * List of stages of the edge deployment plan. The number of stages is limited to 10 per deployment.
+     */
+    Stages?: DeploymentStages;
+    /**
+     * List of tags with which to tag the edge deployment plan.
+     */
+    Tags?: TagList;
+  }
+  export interface CreateEdgeDeploymentPlanResponse {
+    /**
+     * The ARN of the edge deployment plan.
+     */
+    EdgeDeploymentPlanArn: EdgeDeploymentPlanArn;
+  }
+  export interface CreateEdgeDeploymentStageRequest {
+    /**
+     * The name of the edge deployment plan.
+     */
+    EdgeDeploymentPlanName: EntityName;
+    /**
+     * List of stages to be added to the edge deployment plan.
+     */
+    Stages: DeploymentStages;
+  }
   export interface CreateEdgePackagingJobRequest {
     /**
      * The name of the edge packaging job.
@@ -3880,7 +4046,7 @@ declare namespace SageMaker {
      */
     Tags?: TagList;
     /**
-     * The Amazon Resource Name (ARN) of a Amazon Web Services Key Management Service key that Amazon SageMaker uses to encrypt data on the storage volume attached to the ML compute instance that hosts the endpoint. The KmsKeyId can be any of the following formats:    Key ID: 1234abcd-12ab-34cd-56ef-1234567890ab    Key ARN: arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab    Alias name: alias/ExampleAlias    Alias name ARN: arn:aws:kms:us-west-2:111122223333:alias/ExampleAlias    The KMS key policy must grant permission to the IAM role that you specify in your CreateEndpoint, UpdateEndpoint requests. For more information, refer to the Amazon Web Services Key Management Service section Using Key Policies in Amazon Web Services KMS    Certain Nitro-based instances include local storage, dependent on the instance type. Local storage volumes are encrypted using a hardware module on the instance. You can't request a KmsKeyId when using an instance type with local storage. If any of the models that you specify in the ProductionVariants parameter use nitro-based instances with local storage, do not specify a value for the KmsKeyId parameter. If you specify a value for KmsKeyId when using any nitro-based instances with local storage, the call to CreateEndpointConfig fails. For a list of instance types that support local instance storage, see Instance Store Volumes. For more information about local instance storage encryption, see SSD Instance Store Volumes. 
+     * The Amazon Resource Name (ARN) of a Amazon Web Services Key Management Service key that SageMaker uses to encrypt data on the storage volume attached to the ML compute instance that hosts the endpoint. The KmsKeyId can be any of the following formats:    Key ID: 1234abcd-12ab-34cd-56ef-1234567890ab    Key ARN: arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab    Alias name: alias/ExampleAlias    Alias name ARN: arn:aws:kms:us-west-2:111122223333:alias/ExampleAlias    The KMS key policy must grant permission to the IAM role that you specify in your CreateEndpoint, UpdateEndpoint requests. For more information, refer to the Amazon Web Services Key Management Service section Using Key Policies in Amazon Web Services KMS    Certain Nitro-based instances include local storage, dependent on the instance type. Local storage volumes are encrypted using a hardware module on the instance. You can't request a KmsKeyId when using an instance type with local storage. If any of the models that you specify in the ProductionVariants parameter use nitro-based instances with local storage, do not specify a value for the KmsKeyId parameter. If you specify a value for KmsKeyId when using any nitro-based instances with local storage, the call to CreateEndpointConfig fails. For a list of instance types that support local instance storage, see Instance Store Volumes. For more information about local instance storage encryption, see SSD Instance Store Volumes. 
      */
     KmsKeyId?: KmsKeyId;
     /**
@@ -4064,7 +4230,7 @@ declare namespace SageMaker {
   }
   export interface CreateHyperParameterTuningJobResponse {
     /**
-     * The Amazon Resource Name (ARN) of the tuning job. Amazon SageMaker assigns an ARN to a hyperparameter tuning job when you create it.
+     * The Amazon Resource Name (ARN) of the tuning job. SageMaker assigns an ARN to a hyperparameter tuning job when you create it.
      */
     HyperParameterTuningJobArn: HyperParameterTuningJobArn;
   }
@@ -4098,7 +4264,7 @@ declare namespace SageMaker {
   }
   export interface CreateImageVersionRequest {
     /**
-     * The registry path of the container image to use as the starting point for this version. The path is an Amazon Container Registry (ECR) URI in the following format:  &lt;acct-id&gt;.dkr.ecr.&lt;region&gt;.amazonaws.com/&lt;repo-name[:tag] or [@digest]&gt; 
+     * The registry path of the container image to use as the starting point for this version. The path is an Amazon Elastic Container Registry (ECR) URI in the following format:  &lt;acct-id&gt;.dkr.ecr.&lt;region&gt;.amazonaws.com/&lt;repo-name[:tag] or [@digest]&gt; 
      */
     BaseImage: ImageBaseImage;
     /**
@@ -4141,6 +4307,10 @@ declare namespace SageMaker {
      * A set of conditions for stopping a recommendation job. If any of the conditions are met, the job is automatically stopped.
      */
     StoppingConditions?: RecommendationJobStoppingConditions;
+    /**
+     * Provides information about the output artifacts and the KMS key to use for Amazon S3 server-side encryption.
+     */
+    OutputConfig?: RecommendationJobOutputConfig;
     /**
      * The metadata that you apply to Amazon Web Services resources to help you categorize and organize them. Each tag consists of a key and a value, both of which you define. For more information, see Tagging Amazon Web Services Resources in the Amazon Web Services General Reference.
      */
@@ -4296,7 +4466,7 @@ declare namespace SageMaker {
      */
     InferenceExecutionConfig?: InferenceExecutionConfig;
     /**
-     * The Amazon Resource Name (ARN) of the IAM role that Amazon SageMaker can assume to access model artifacts and docker image for deployment on ML compute instances or for batch transform jobs. Deploying on ML compute instances is part of model hosting. For more information, see Amazon SageMaker Roles.   To be able to pass this role to Amazon SageMaker, the caller of this API must have the iam:PassRole permission. 
+     * The Amazon Resource Name (ARN) of the IAM role that SageMaker can assume to access model artifacts and docker image for deployment on ML compute instances or for batch transform jobs. Deploying on ML compute instances is part of model hosting. For more information, see SageMaker Roles.   To be able to pass this role to SageMaker, the caller of this API must have the iam:PassRole permission. 
      */
     ExecutionRoleArn: RoleArn;
     /**
@@ -4314,7 +4484,7 @@ declare namespace SageMaker {
   }
   export interface CreateModelOutput {
     /**
-     * The ARN of the model created in Amazon SageMaker.
+     * The ARN of the model created in SageMaker.
      */
     ModelArn: ModelArn;
   }
@@ -4356,7 +4526,7 @@ declare namespace SageMaker {
      */
     InferenceSpecification?: InferenceSpecification;
     /**
-     * Specifies configurations for one or more transform jobs that Amazon SageMaker runs to test the model package.
+     * Specifies configurations for one or more transform jobs that SageMaker runs to test the model package.
      */
     ValidationSpecification?: ModelPackageValidationSpecification;
     /**
@@ -4397,7 +4567,7 @@ declare namespace SageMaker {
      */
     Domain?: String;
     /**
-     * The machine learning task your model package accomplishes. Common machine learning tasks include object detection and image classification.
+     * The machine learning task your model package accomplishes. Common machine learning tasks include object detection and image classification. The following tasks are supported by Inference Recommender: "IMAGE_CLASSIFICATION" | "OBJECT_DETECTION" | "TEXT_GENERATION" |"IMAGE_SEGMENTATION" | "FILL_MASK" | "CLASSIFICATION" | "REGRESSION" | "OTHER". Specify "OTHER" if none of the tasks listed fit your use case.
      */
     Task?: String;
     /**
@@ -4492,11 +4662,11 @@ declare namespace SageMaker {
      */
     SecurityGroupIds?: SecurityGroupIds;
     /**
-     *  When you send any requests to Amazon Web Services resources from the notebook instance, Amazon SageMaker assumes this role to perform tasks on your behalf. You must grant this role necessary permissions so Amazon SageMaker can perform these tasks. The policy must allow the Amazon SageMaker service principal (sagemaker.amazonaws.com) permissions to assume this role. For more information, see Amazon SageMaker Roles.   To be able to pass this role to Amazon SageMaker, the caller of this API must have the iam:PassRole permission. 
+     *  When you send any requests to Amazon Web Services resources from the notebook instance, SageMaker assumes this role to perform tasks on your behalf. You must grant this role necessary permissions so SageMaker can perform these tasks. The policy must allow the SageMaker service principal (sagemaker.amazonaws.com) permissions to assume this role. For more information, see SageMaker Roles.   To be able to pass this role to SageMaker, the caller of this API must have the iam:PassRole permission. 
      */
     RoleArn: RoleArn;
     /**
-     * The Amazon Resource Name (ARN) of a Amazon Web Services Key Management Service key that Amazon SageMaker uses to encrypt data on the storage volume attached to your notebook instance. The KMS key you provide must be enabled. For information, see Enabling and Disabling Keys in the Amazon Web Services Key Management Service Developer Guide.
+     * The Amazon Resource Name (ARN) of a Amazon Web Services Key Management Service key that SageMaker uses to encrypt data on the storage volume attached to your notebook instance. The KMS key you provide must be enabled. For information, see Enabling and Disabling Keys in the Amazon Web Services Key Management Service Developer Guide.
      */
     KmsKeyId?: KmsKeyId;
     /**
@@ -4508,7 +4678,7 @@ declare namespace SageMaker {
      */
     LifecycleConfigName?: NotebookInstanceLifecycleConfigName;
     /**
-     * Sets whether Amazon SageMaker provides internet access to the notebook instance. If you set this to Disabled this notebook instance is able to access resources only in your VPC, and is not be able to connect to Amazon SageMaker training and endpoint services unless you configure a NAT Gateway in your VPC. For more information, see Notebook Instances Are Internet-Enabled by Default. You can set the value of this parameter to Disabled only if you set a value for the SubnetId parameter.
+     * Sets whether SageMaker provides internet access to the notebook instance. If you set this to Disabled this notebook instance is able to access resources only in your VPC, and is not be able to connect to SageMaker training and endpoint services unless you configure a NAT Gateway in your VPC. For more information, see Notebook Instances Are Internet-Enabled by Default. You can set the value of this parameter to Disabled only if you set a value for the SubnetId parameter.
      */
     DirectInternetAccess?: DirectInternetAccess;
     /**
@@ -4520,11 +4690,11 @@ declare namespace SageMaker {
      */
     AcceleratorTypes?: NotebookInstanceAcceleratorTypes;
     /**
-     * A Git repository to associate with the notebook instance as its default code repository. This can be either the name of a Git repository stored as a resource in your account, or the URL of a Git repository in Amazon Web Services CodeCommit or in any other Git repository. When you open a notebook instance, it opens in the directory that contains this repository. For more information, see Associating Git Repositories with Amazon SageMaker Notebook Instances.
+     * A Git repository to associate with the notebook instance as its default code repository. This can be either the name of a Git repository stored as a resource in your account, or the URL of a Git repository in Amazon Web Services CodeCommit or in any other Git repository. When you open a notebook instance, it opens in the directory that contains this repository. For more information, see Associating Git Repositories with SageMaker Notebook Instances.
      */
     DefaultCodeRepository?: CodeRepositoryNameOrUrl;
     /**
-     * An array of up to three Git repositories to associate with the notebook instance. These can be either the names of Git repositories stored as resources in your account, or the URL of Git repositories in Amazon Web Services CodeCommit or in any other Git repository. These repositories are cloned at the same level as the default repository of your notebook instance. For more information, see Associating Git Repositories with Amazon SageMaker Notebook Instances.
+     * An array of up to three Git repositories to associate with the notebook instance. These can be either the names of Git repositories stored as resources in your account, or the URL of Git repositories in Amazon Web Services CodeCommit or in any other Git repository. These repositories are cloned at the same level as the default repository of your notebook instance. For more information, see Associating Git Repositories with SageMaker Notebook Instances.
      */
     AdditionalCodeRepositories?: AdditionalCodeRepositoryNamesOrUrls;
     /**
@@ -4535,6 +4705,10 @@ declare namespace SageMaker {
      * The platform identifier of the notebook instance runtime environment.
      */
     PlatformIdentifier?: PlatformIdentifier;
+    /**
+     * Information on the IMDS configuration of the notebook instance
+     */
+    InstanceMetadataServiceConfiguration?: InstanceMetadataServiceConfiguration;
   }
   export interface CreateNotebookInstanceLifecycleConfigInput {
     /**
@@ -4753,27 +4927,27 @@ declare namespace SageMaker {
      */
     TrainingJobName: TrainingJobName;
     /**
-     * Algorithm-specific parameters that influence the quality of the model. You set hyperparameters before you start the learning process. For a list of hyperparameters for each training algorithm provided by Amazon SageMaker, see Algorithms.  You can specify a maximum of 100 hyperparameters. Each hyperparameter is a key-value pair. Each key and value is limited to 256 characters, as specified by the Length Constraint. 
+     * Algorithm-specific parameters that influence the quality of the model. You set hyperparameters before you start the learning process. For a list of hyperparameters for each training algorithm provided by SageMaker, see Algorithms.  You can specify a maximum of 100 hyperparameters. Each hyperparameter is a key-value pair. Each key and value is limited to 256 characters, as specified by the Length Constraint. 
      */
     HyperParameters?: HyperParameters;
     /**
-     * The registry path of the Docker image that contains the training algorithm and algorithm-specific metadata, including the input mode. For more information about algorithms provided by Amazon SageMaker, see Algorithms. For information about providing your own algorithms, see Using Your Own Algorithms with Amazon SageMaker. 
+     * The registry path of the Docker image that contains the training algorithm and algorithm-specific metadata, including the input mode. For more information about algorithms provided by SageMaker, see Algorithms. For information about providing your own algorithms, see Using Your Own Algorithms with Amazon SageMaker. 
      */
     AlgorithmSpecification: AlgorithmSpecification;
     /**
-     * The Amazon Resource Name (ARN) of an IAM role that Amazon SageMaker can assume to perform tasks on your behalf.  During model training, Amazon SageMaker needs your permission to read input data from an S3 bucket, download a Docker image that contains training code, write model artifacts to an S3 bucket, write logs to Amazon CloudWatch Logs, and publish metrics to Amazon CloudWatch. You grant permissions for all of these tasks to an IAM role. For more information, see Amazon SageMaker Roles.   To be able to pass this role to Amazon SageMaker, the caller of this API must have the iam:PassRole permission. 
+     * The Amazon Resource Name (ARN) of an IAM role that SageMaker can assume to perform tasks on your behalf.  During model training, SageMaker needs your permission to read input data from an S3 bucket, download a Docker image that contains training code, write model artifacts to an S3 bucket, write logs to Amazon CloudWatch Logs, and publish metrics to Amazon CloudWatch. You grant permissions for all of these tasks to an IAM role. For more information, see SageMaker Roles.   To be able to pass this role to SageMaker, the caller of this API must have the iam:PassRole permission. 
      */
     RoleArn: RoleArn;
     /**
-     * An array of Channel objects. Each channel is a named input source. InputDataConfig describes the input data and its location.  Algorithms can accept input data from one or more channels. For example, an algorithm might have two channels of input data, training_data and validation_data. The configuration for each channel provides the S3, EFS, or FSx location where the input data is stored. It also provides information about the stored data: the MIME type, compression method, and whether the data is wrapped in RecordIO format.  Depending on the input mode that the algorithm supports, Amazon SageMaker either copies input data files from an S3 bucket to a local directory in the Docker container, or makes it available as input streams. For example, if you specify an EFS location, input data files will be made available as input streams. They do not need to be downloaded.
+     * An array of Channel objects. Each channel is a named input source. InputDataConfig describes the input data and its location.  Algorithms can accept input data from one or more channels. For example, an algorithm might have two channels of input data, training_data and validation_data. The configuration for each channel provides the S3, EFS, or FSx location where the input data is stored. It also provides information about the stored data: the MIME type, compression method, and whether the data is wrapped in RecordIO format.  Depending on the input mode that the algorithm supports, SageMaker either copies input data files from an S3 bucket to a local directory in the Docker container, or makes it available as input streams. For example, if you specify an EFS location, input data files are available as input streams. They do not need to be downloaded.
      */
     InputDataConfig?: InputDataConfig;
     /**
-     * Specifies the path to the S3 location where you want to store model artifacts. Amazon SageMaker creates subfolders for the artifacts. 
+     * Specifies the path to the S3 location where you want to store model artifacts. SageMaker creates subfolders for the artifacts. 
      */
     OutputDataConfig: OutputDataConfig;
     /**
-     * The resources, including the ML compute instances and ML storage volumes, to use for model training.  ML storage volumes store model artifacts and incremental states. Training algorithms might also use ML storage volumes for scratch space. If you want Amazon SageMaker to use the ML storage volume to store the training data, choose File as the TrainingInputMode in the algorithm specification. For distributed training algorithms, specify an instance count greater than 1.
+     * The resources, including the ML compute instances and ML storage volumes, to use for model training.  ML storage volumes store model artifacts and incremental states. Training algorithms might also use ML storage volumes for scratch space. If you want SageMaker to use the ML storage volume to store the training data, choose File as the TrainingInputMode in the algorithm specification. For distributed training algorithms, specify an instance count greater than 1.
      */
     ResourceConfig: ResourceConfig;
     /**
@@ -4781,7 +4955,7 @@ declare namespace SageMaker {
      */
     VpcConfig?: VpcConfig;
     /**
-     * Specifies a limit to how long a model training job can run. It also specifies how long a managed Spot training job has to complete. When the job reaches the time limit, Amazon SageMaker ends the training job. Use this API to cap model training costs. To stop a job, Amazon SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms can use this 120-second window to save the model artifacts, so the results of training are not lost. 
+     * Specifies a limit to how long a model training job can run. It also specifies how long a managed Spot training job has to complete. When the job reaches the time limit, SageMaker ends the training job. Use this API to cap model training costs. To stop a job, SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms can use this 120-second window to save the model artifacts, so the results of training are not lost. 
      */
     StoppingCondition: StoppingCondition;
     /**
@@ -4789,7 +4963,7 @@ declare namespace SageMaker {
      */
     Tags?: TagList;
     /**
-     * Isolates the training container. No inbound or outbound network calls can be made, except for calls between peers within a training cluster for distributed training. If you enable network isolation for training jobs that are configured to use a VPC, Amazon SageMaker downloads and uploads customer data and model artifacts through the specified VPC, but the training container does not have network access.
+     * Isolates the training container. No inbound or outbound network calls can be made, except for calls between peers within a training cluster for distributed training. If you enable network isolation for training jobs that are configured to use a VPC, SageMaker downloads and uploads customer data and model artifacts through the specified VPC, but the training container does not have network access.
      */
     EnableNetworkIsolation?: Boolean;
     /**
@@ -4849,7 +5023,7 @@ declare namespace SageMaker {
      */
     ModelClientConfig?: ModelClientConfig;
     /**
-     * The maximum allowed size of the payload, in MB. A payload is the data portion of a record (without metadata). The value in MaxPayloadInMB must be greater than, or equal to, the size of a single record. To estimate the size of a record in MB, divide the size of your dataset by the number of records. To ensure that the records fit within the maximum payload size, we recommend using a slightly larger value. The default value is 6 MB.  For cases where the payload might be arbitrarily large and is transmitted using HTTP chunked encoding, set the value to 0. This feature works only in supported algorithms. Currently, Amazon SageMaker built-in algorithms do not support HTTP chunked encoding.
+     * The maximum allowed size of the payload, in MB. A payload is the data portion of a record (without metadata). The value in MaxPayloadInMB must be greater than, or equal to, the size of a single record. To estimate the size of a record in MB, divide the size of your dataset by the number of records. To ensure that the records fit within the maximum payload size, we recommend using a slightly larger value. The default value is 6 MB.  The value of MaxPayloadInMB cannot be greater than 100 MB. If you specify the MaxConcurrentTransforms parameter, the value of (MaxConcurrentTransforms * MaxPayloadInMB) also cannot exceed 100 MB. For cases where the payload might be arbitrarily large and is transmitted using HTTP chunked encoding, set the value to 0. This feature works only in supported algorithms. Currently, Amazon SageMaker built-in algorithms do not support HTTP chunked encoding.
      */
     MaxPayloadInMB?: MaxPayloadInMB;
     /**
@@ -5008,6 +5182,10 @@ declare namespace SageMaker {
      * An array of key-value pairs that contain metadata to help you categorize and organize our workforce. Each tag consists of a key and a value, both of which you define.
      */
     Tags?: TagList;
+    /**
+     * Use this parameter to configure a workforce using VPC.
+     */
+    WorkforceVpcConfig?: WorkforceVpcConfigRequest;
   }
   export interface CreateWorkforceResponse {
     /**
@@ -5071,49 +5249,49 @@ declare namespace SageMaker {
   export type CustomerMetadataValue = string;
   export interface DataCaptureConfig {
     /**
-     * 
+     * Whether data capture should be enabled or disabled (defaults to enabled).
      */
     EnableCapture?: EnableCapture;
     /**
-     * 
+     * The percentage of requests SageMaker will capture. A lower value is recommended for Endpoints with high traffic.
      */
     InitialSamplingPercentage: SamplingPercentage;
     /**
-     * 
+     * The Amazon S3 location used to capture the data.
      */
     DestinationS3Uri: DestinationS3Uri;
     /**
-     * 
+     * The Amazon Resource Name (ARN) of a Amazon Web Services Key Management Service key that SageMaker uses to encrypt data on the storage volume attached to the ML compute instance that hosts the endpoint. The KmsKeyId can be any of the following formats:    Key ID: 1234abcd-12ab-34cd-56ef-1234567890ab    Key ARN: arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab    Alias name: alias/ExampleAlias    Alias name ARN: arn:aws:kms:us-west-2:111122223333:alias/ExampleAlias   
      */
     KmsKeyId?: KmsKeyId;
     /**
-     * 
+     * Specifies data Model Monitor will capture. You can configure whether to collect only input, only output, or both
      */
     CaptureOptions: CaptureOptionList;
     /**
-     * 
+     * Configuration specifying how to treat different headers. If no headers are specified SageMaker will by default base64 encode when capturing the data.
      */
     CaptureContentTypeHeader?: CaptureContentTypeHeader;
   }
   export interface DataCaptureConfigSummary {
     /**
-     * 
+     * Whether data capture is enabled or disabled.
      */
     EnableCapture: EnableCapture;
     /**
-     * 
+     * Whether data capture is currently functional.
      */
     CaptureStatus: CaptureStatus;
     /**
-     * 
+     * The percentage of requests being captured by your Endpoint.
      */
     CurrentSamplingPercentage: SamplingPercentage;
     /**
-     * 
+     * The Amazon S3 location being used to capture the data.
      */
     DestinationS3Uri: DestinationS3Uri;
     /**
-     * 
+     * The KMS key being used to encrypt the data in Amazon S3.
      */
     KmsKeyId: KmsKeyId;
   }
@@ -5136,11 +5314,11 @@ declare namespace SageMaker {
   export type DataInputConfig = string;
   export interface DataProcessing {
     /**
-     * A JSONPath expression used to select a portion of the input data to pass to the algorithm. Use the InputFilter parameter to exclude fields, such as an ID column, from the input. If you want Amazon SageMaker to pass the entire input dataset to the algorithm, accept the default value $. Examples: "$", "$[1:]", "$.features" 
+     * A JSONPath expression used to select a portion of the input data to pass to the algorithm. Use the InputFilter parameter to exclude fields, such as an ID column, from the input. If you want SageMaker to pass the entire input dataset to the algorithm, accept the default value $. Examples: "$", "$[1:]", "$.features" 
      */
     InputFilter?: JsonPath;
     /**
-     * A JSONPath expression used to select a portion of the joined dataset to save in the output file for a batch transform job. If you want Amazon SageMaker to store the entire input dataset in the output file, leave the default value, $. If you specify indexes that aren't within the dimension size of the joined dataset, you get an error. Examples: "$", "$[0,5:]", "$['id','SageMakerOutput']" 
+     * A JSONPath expression used to select a portion of the joined dataset to save in the output file for a batch transform job. If you want SageMaker to store the entire input dataset in the output file, leave the default value, $. If you specify indexes that aren't within the dimension size of the joined dataset, you get an error. Examples: "$", "$[0,5:]", "$['id','SageMakerOutput']" 
      */
     OutputFilter?: JsonPath;
     /**
@@ -5404,6 +5582,22 @@ declare namespace SageMaker {
      */
     RetentionPolicy?: RetentionPolicy;
   }
+  export interface DeleteEdgeDeploymentPlanRequest {
+    /**
+     * The name of the edge deployment plan to delete.
+     */
+    EdgeDeploymentPlanName: EntityName;
+  }
+  export interface DeleteEdgeDeploymentStageRequest {
+    /**
+     * The name of the edge deployment plan from which the stage will be deleted.
+     */
+    EdgeDeploymentPlanName: EntityName;
+    /**
+     * The name of the stage.
+     */
+    StageName: EntityName;
+  }
   export interface DeleteEndpointConfigInput {
     /**
      * The name of the endpoint configuration that you want to delete.
@@ -5520,7 +5714,7 @@ declare namespace SageMaker {
   }
   export interface DeleteNotebookInstanceInput {
     /**
-     * The name of the Amazon SageMaker notebook instance to delete.
+     * The name of the SageMaker notebook instance to delete.
      */
     NotebookInstanceName: NotebookInstanceName;
   }
@@ -5649,6 +5843,41 @@ declare namespace SageMaker {
      */
     AutoRollbackConfiguration?: AutoRollbackConfig;
   }
+  export interface DeploymentStage {
+    /**
+     * The name of the stage.
+     */
+    StageName: EntityName;
+    /**
+     * Configuration of the devices in the stage.
+     */
+    DeviceSelectionConfig: DeviceSelectionConfig;
+    /**
+     * Configuration of the deployment details.
+     */
+    DeploymentConfig?: EdgeDeploymentConfig;
+  }
+  export type DeploymentStageMaxResults = number;
+  export type DeploymentStageStatusSummaries = DeploymentStageStatusSummary[];
+  export interface DeploymentStageStatusSummary {
+    /**
+     * The name of the stage.
+     */
+    StageName: EntityName;
+    /**
+     * Configuration of the devices in the stage.
+     */
+    DeviceSelectionConfig: DeviceSelectionConfig;
+    /**
+     * Configuration of the deployment details.
+     */
+    DeploymentConfig: EdgeDeploymentConfig;
+    /**
+     * General status of the current state.
+     */
+    DeploymentStatus: EdgeDeploymentStatus;
+  }
+  export type DeploymentStages = DeploymentStage[];
   export interface DeregisterDevicesRequest {
     /**
      * The name of the fleet the devices belong to.
@@ -5742,7 +5971,7 @@ declare namespace SageMaker {
      */
     InferenceSpecification?: InferenceSpecification;
     /**
-     * Details about configurations for one or more training jobs that Amazon SageMaker runs to test the algorithm.
+     * Details about configurations for one or more training jobs that SageMaker runs to test the algorithm.
      */
     ValidationSpecification?: AlgorithmValidationSpecification;
     /**
@@ -6370,6 +6599,66 @@ declare namespace SageMaker {
      */
     SecurityGroupIdForDomainBoundary?: SecurityGroupId;
   }
+  export interface DescribeEdgeDeploymentPlanRequest {
+    /**
+     * The name of the deployment plan to describe.
+     */
+    EdgeDeploymentPlanName: EntityName;
+    /**
+     * If the edge deployment plan has enough stages to require tokening, then this is the response from the last list of stages returned.
+     */
+    NextToken?: NextToken;
+    /**
+     * The maximum number of results to select (50 by default).
+     */
+    MaxResults?: DeploymentStageMaxResults;
+  }
+  export interface DescribeEdgeDeploymentPlanResponse {
+    /**
+     * The ARN of edge deployment plan.
+     */
+    EdgeDeploymentPlanArn: EdgeDeploymentPlanArn;
+    /**
+     * The name of the edge deployment plan.
+     */
+    EdgeDeploymentPlanName: EntityName;
+    /**
+     * List of models associated with the edge deployment plan.
+     */
+    ModelConfigs: EdgeDeploymentModelConfigs;
+    /**
+     * The device fleet used for this edge deployment plan.
+     */
+    DeviceFleetName: EntityName;
+    /**
+     * The number of edge devices with the successful deployment.
+     */
+    EdgeDeploymentSuccess?: Integer;
+    /**
+     * The number of edge devices yet to pick up deployment, or in progress.
+     */
+    EdgeDeploymentPending?: Integer;
+    /**
+     * The number of edge devices that failed the deployment.
+     */
+    EdgeDeploymentFailed?: Integer;
+    /**
+     * List of stages in the edge deployment plan.
+     */
+    Stages: DeploymentStageStatusSummaries;
+    /**
+     * Token to use when calling the next set of stages in the edge deployment plan.
+     */
+    NextToken?: NextToken;
+    /**
+     * The time when the edge deployment plan was created.
+     */
+    CreationTime?: Timestamp;
+    /**
+     * The time when the edge deployment plan was last updated.
+     */
+    LastModifiedTime?: Timestamp;
+  }
   export interface DescribeEdgePackagingJobRequest {
     /**
      * The name of the edge packaging job.
@@ -6446,7 +6735,7 @@ declare namespace SageMaker {
   }
   export interface DescribeEndpointConfigOutput {
     /**
-     * Name of the Amazon SageMaker endpoint configuration.
+     * Name of the SageMaker endpoint configuration.
      */
     EndpointConfigName: EndpointConfigName;
     /**
@@ -6604,6 +6893,10 @@ declare namespace SageMaker {
      */
     CreationTime: CreationTime;
     /**
+     * A timestamp indicating when the feature group was last updated.
+     */
+    LastModifiedTime?: LastModifiedTime;
+    /**
      * The configuration for the OnlineStore.
      */
     OnlineStoreConfig?: OnlineStoreConfig;
@@ -6624,6 +6917,10 @@ declare namespace SageMaker {
      */
     OfflineStoreStatus?: OfflineStoreStatus;
     /**
+     * A value indicating whether the update made to the feature group was successful.
+     */
+    LastUpdateStatus?: LastUpdateStatus;
+    /**
      * The reason that the FeatureGroup failed to be replicated in the OfflineStore. This is failure can occur because:   The FeatureGroup could not be created in the OfflineStore.   The FeatureGroup could not be deleted from the OfflineStore.  
      */
     FailureReason?: FailureReason;
@@ -6635,6 +6932,54 @@ declare namespace SageMaker {
      * A token to resume pagination of the list of Features (FeatureDefinitions).
      */
     NextToken: NextToken;
+    /**
+     * The size of the OnlineStore in bytes.
+     */
+    OnlineStoreTotalSizeBytes?: OnlineStoreTotalSizeBytes;
+  }
+  export interface DescribeFeatureMetadataRequest {
+    /**
+     * The name of the feature group containing the feature.
+     */
+    FeatureGroupName: FeatureGroupName;
+    /**
+     * The name of the feature.
+     */
+    FeatureName: FeatureName;
+  }
+  export interface DescribeFeatureMetadataResponse {
+    /**
+     * The Amazon Resource Number (ARN) of the feature group that contains the feature.
+     */
+    FeatureGroupArn: FeatureGroupArn;
+    /**
+     * The name of the feature group that you've specified.
+     */
+    FeatureGroupName: FeatureGroupName;
+    /**
+     * The name of the feature that you've specified.
+     */
+    FeatureName: FeatureName;
+    /**
+     * The data type of the feature.
+     */
+    FeatureType: FeatureType;
+    /**
+     * A timestamp indicating when the feature was created.
+     */
+    CreationTime: CreationTime;
+    /**
+     * A timestamp indicating when the metadata for the feature group was modified. For example, if you add a parameter describing the feature, the timestamp changes to reflect the last time you 
+     */
+    LastModifiedTime: LastModifiedTime;
+    /**
+     * The description you added to describe the feature.
+     */
+    Description?: FeatureDescription;
+    /**
+     * The key-value pairs that you added to describe the feature.
+     */
+    Parameters?: FeatureParameters;
   }
   export interface DescribeFlowDefinitionRequest {
     /**
@@ -6981,7 +7326,7 @@ declare namespace SageMaker {
      */
     OutputConfig: LabelingJobOutputConfig;
     /**
-     * The Amazon Resource Name (ARN) that Amazon SageMaker assumes to perform tasks on your behalf during data labeling.
+     * The Amazon Resource Name (ARN) that SageMaker assumes to perform tasks on your behalf during data labeling.
      */
     RoleArn: RoleArn;
     /**
@@ -7137,7 +7482,7 @@ declare namespace SageMaker {
   }
   export interface DescribeModelOutput {
     /**
-     * Name of the Amazon SageMaker model.
+     * Name of the SageMaker model.
      */
     ModelName: ModelName;
     /**
@@ -7175,7 +7520,7 @@ declare namespace SageMaker {
   }
   export interface DescribeModelPackageGroupInput {
     /**
-     * The name of the model group to describe.
+     * The name of gthe model group to describe.
      */
     ModelPackageGroupName: ArnOrName;
   }
@@ -7268,7 +7613,7 @@ declare namespace SageMaker {
      */
     ModelMetrics?: ModelMetrics;
     /**
-     * The last time the model package was modified.
+     * The last time that the model package was modified.
      */
     LastModifiedTime?: Timestamp;
     LastModifiedBy?: UserContext;
@@ -7436,7 +7781,7 @@ declare namespace SageMaker {
      */
     NotebookInstanceArn?: NotebookInstanceArn;
     /**
-     * The name of the Amazon SageMaker notebook instance. 
+     * The name of the SageMaker notebook instance. 
      */
     NotebookInstanceName?: NotebookInstanceName;
     /**
@@ -7468,11 +7813,11 @@ declare namespace SageMaker {
      */
     RoleArn?: RoleArn;
     /**
-     * The Amazon Web Services KMS key ID Amazon SageMaker uses to encrypt data when storing it on the ML storage volume attached to the instance. 
+     * The Amazon Web Services KMS key ID SageMaker uses to encrypt data when storing it on the ML storage volume attached to the instance. 
      */
     KmsKeyId?: KmsKeyId;
     /**
-     * The network interface IDs that Amazon SageMaker created at the time of creating the instance. 
+     * The network interface IDs that SageMaker created at the time of creating the instance. 
      */
     NetworkInterfaceId?: NetworkInterfaceId;
     /**
@@ -7488,7 +7833,7 @@ declare namespace SageMaker {
      */
     NotebookInstanceLifecycleConfigName?: NotebookInstanceLifecycleConfigName;
     /**
-     * Describes whether Amazon SageMaker provides internet access to the notebook instance. If this value is set to Disabled, the notebook instance does not have internet access, and cannot connect to Amazon SageMaker training and endpoint services. For more information, see Notebook Instances Are Internet-Enabled by Default.
+     * Describes whether SageMaker provides internet access to the notebook instance. If this value is set to Disabled, the notebook instance does not have internet access, and cannot connect to SageMaker training and endpoint services. For more information, see Notebook Instances Are Internet-Enabled by Default.
      */
     DirectInternetAccess?: DirectInternetAccess;
     /**
@@ -7500,11 +7845,11 @@ declare namespace SageMaker {
      */
     AcceleratorTypes?: NotebookInstanceAcceleratorTypes;
     /**
-     * The Git repository associated with the notebook instance as its default code repository. This can be either the name of a Git repository stored as a resource in your account, or the URL of a Git repository in Amazon Web Services CodeCommit or in any other Git repository. When you open a notebook instance, it opens in the directory that contains this repository. For more information, see Associating Git Repositories with Amazon SageMaker Notebook Instances.
+     * The Git repository associated with the notebook instance as its default code repository. This can be either the name of a Git repository stored as a resource in your account, or the URL of a Git repository in Amazon Web Services CodeCommit or in any other Git repository. When you open a notebook instance, it opens in the directory that contains this repository. For more information, see Associating Git Repositories with SageMaker Notebook Instances.
      */
     DefaultCodeRepository?: CodeRepositoryNameOrUrl;
     /**
-     * An array of up to three Git repositories associated with the notebook instance. These can be either the names of Git repositories stored as resources in your account, or the URL of Git repositories in Amazon Web Services CodeCommit or in any other Git repository. These repositories are cloned at the same level as the default repository of your notebook instance. For more information, see Associating Git Repositories with Amazon SageMaker Notebook Instances.
+     * An array of up to three Git repositories associated with the notebook instance. These can be either the names of Git repositories stored as resources in your account, or the URL of Git repositories in Amazon Web Services CodeCommit or in any other Git repository. These repositories are cloned at the same level as the default repository of your notebook instance. For more information, see Associating Git Repositories with SageMaker Notebook Instances.
      */
     AdditionalCodeRepositories?: AdditionalCodeRepositoryNamesOrUrls;
     /**
@@ -7515,6 +7860,10 @@ declare namespace SageMaker {
      * The platform identifier of the notebook instance runtime environment.
      */
     PlatformIdentifier?: PlatformIdentifier;
+    /**
+     * Information on the IMDS configuration of the notebook instance
+     */
+    InstanceMetadataServiceConfiguration?: InstanceMetadataServiceConfiguration;
   }
   export interface DescribePipelineDefinitionForExecutionRequest {
     /**
@@ -7835,7 +8184,7 @@ declare namespace SageMaker {
      */
     TuningJobArn?: HyperParameterTuningJobArn;
     /**
-     * The Amazon Resource Name (ARN) of the Amazon SageMaker Ground Truth labeling job that created the transform or training job.
+     * The Amazon Resource Name (ARN) of the SageMaker Ground Truth labeling job that created the transform or training job.
      */
     LabelingJobArn?: LabelingJobArn;
     /**
@@ -7847,11 +8196,11 @@ declare namespace SageMaker {
      */
     ModelArtifacts: ModelArtifacts;
     /**
-     * The status of the training job. Amazon SageMaker provides the following training job statuses:    InProgress - The training is in progress.    Completed - The training job has completed.    Failed - The training job has failed. To see the reason for the failure, see the FailureReason field in the response to a DescribeTrainingJobResponse call.    Stopping - The training job is stopping.    Stopped - The training job has stopped.   For more detailed information, see SecondaryStatus. 
+     * The status of the training job. SageMaker provides the following training job statuses:    InProgress - The training is in progress.    Completed - The training job has completed.    Failed - The training job has failed. To see the reason for the failure, see the FailureReason field in the response to a DescribeTrainingJobResponse call.    Stopping - The training job is stopping.    Stopped - The training job has stopped.   For more detailed information, see SecondaryStatus. 
      */
     TrainingJobStatus: TrainingJobStatus;
     /**
-     *  Provides detailed information about the state of the training job. For detailed information on the secondary status of the training job, see StatusMessage under SecondaryStatusTransition. Amazon SageMaker provides primary statuses and secondary statuses that apply to each of them:  InProgress     Starting - Starting the training job.    Downloading - An optional stage for algorithms that support File training input mode. It indicates that data is being downloaded to the ML storage volumes.    Training - Training is in progress.    Interrupted - The job stopped because the managed spot training instances were interrupted.     Uploading - Training is complete and the model artifacts are being uploaded to the S3 location.    Completed     Completed - The training job has completed.    Failed     Failed - The training job has failed. The reason for the failure is returned in the FailureReason field of DescribeTrainingJobResponse.    Stopped     MaxRuntimeExceeded - The job stopped because it exceeded the maximum allowed runtime.    MaxWaitTimeExceeded - The job stopped because it exceeded the maximum allowed wait time.    Stopped - The training job has stopped.    Stopping     Stopping - Stopping the training job.      Valid values for SecondaryStatus are subject to change.   We no longer support the following secondary statuses:    LaunchingMLInstances     PreparingTraining     DownloadingTrainingImage   
+     *  Provides detailed information about the state of the training job. For detailed information on the secondary status of the training job, see StatusMessage under SecondaryStatusTransition. SageMaker provides primary statuses and secondary statuses that apply to each of them:  InProgress     Starting - Starting the training job.    Downloading - An optional stage for algorithms that support File training input mode. It indicates that data is being downloaded to the ML storage volumes.    Training - Training is in progress.    Interrupted - The job stopped because the managed spot training instances were interrupted.     Uploading - Training is complete and the model artifacts are being uploaded to the S3 location.    Completed     Completed - The training job has completed.    Failed     Failed - The training job has failed. The reason for the failure is returned in the FailureReason field of DescribeTrainingJobResponse.    Stopped     MaxRuntimeExceeded - The job stopped because it exceeded the maximum allowed runtime.    MaxWaitTimeExceeded - The job stopped because it exceeded the maximum allowed wait time.    Stopped - The training job has stopped.    Stopping     Stopping - Stopping the training job.      Valid values for SecondaryStatus are subject to change.   We no longer support the following secondary statuses:    LaunchingMLInstances     PreparingTraining     DownloadingTrainingImage   
      */
     SecondaryStatus: SecondaryStatus;
     /**
@@ -7875,7 +8224,7 @@ declare namespace SageMaker {
      */
     InputDataConfig?: InputDataConfig;
     /**
-     * The S3 path where model artifacts that you configured when creating the job are stored. Amazon SageMaker creates subfolders for model artifacts. 
+     * The S3 path where model artifacts that you configured when creating the job are stored. SageMaker creates subfolders for model artifacts. 
      */
     OutputDataConfig?: OutputDataConfig;
     /**
@@ -7887,7 +8236,7 @@ declare namespace SageMaker {
      */
     VpcConfig?: VpcConfig;
     /**
-     * Specifies a limit to how long a model training job can run. It also specifies how long a managed Spot training job has to complete. When the job reaches the time limit, Amazon SageMaker ends the training job. Use this API to cap model training costs. To stop a job, Amazon SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms can use this 120-second window to save the model artifacts, so the results of training are not lost. 
+     * Specifies a limit to how long a model training job can run. It also specifies how long a managed Spot training job has to complete. When the job reaches the time limit, SageMaker ends the training job. Use this API to cap model training costs. To stop a job, SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms can use this 120-second window to save the model artifacts, so the results of training are not lost. 
      */
     StoppingCondition: StoppingCondition;
     /**
@@ -7899,7 +8248,7 @@ declare namespace SageMaker {
      */
     TrainingStartTime?: Timestamp;
     /**
-     * Indicates the time when the training job ends on training instances. You are billed for the time interval between the value of TrainingStartTime and this time. For successful jobs and stopped jobs, this is the time after model artifacts are uploaded. For failed jobs, this is the time when Amazon SageMaker detects a job failure.
+     * Indicates the time when the training job ends on training instances. You are billed for the time interval between the value of TrainingStartTime and this time. For successful jobs and stopped jobs, this is the time after model artifacts are uploaded. For failed jobs, this is the time when SageMaker detects a job failure.
      */
     TrainingEndTime?: Timestamp;
     /**
@@ -7915,7 +8264,7 @@ declare namespace SageMaker {
      */
     FinalMetricDataList?: FinalMetricDataList;
     /**
-     * If you want to allow inbound or outbound network calls, except for calls between peers within a training cluster for distributed training, choose True. If you enable network isolation for training jobs that are configured to use a VPC, Amazon SageMaker downloads and uploads customer data and model artifacts through the specified VPC, but the training container does not have network access.
+     * If you want to allow inbound or outbound network calls, except for calls between peers within a training cluster for distributed training, choose True. If you enable network isolation for training jobs that are configured to use a VPC, SageMaker downloads and uploads customer data and model artifacts through the specified VPC, but the training container does not have network access.
      */
     EnableNetworkIsolation?: Boolean;
     /**
@@ -7932,7 +8281,7 @@ declare namespace SageMaker {
      */
     TrainingTimeInSeconds?: TrainingTimeInSeconds;
     /**
-     * The billable time in seconds. Billable time refers to the absolute wall-clock time. Multiply BillableTimeInSeconds by the number of instances (InstanceCount) in your training cluster to get the total compute time SageMaker will bill you if you run distributed training. The formula is as follows: BillableTimeInSeconds * InstanceCount . You can calculate the savings from using managed spot training using the formula (1 - BillableTimeInSeconds / TrainingTimeInSeconds) * 100. For example, if BillableTimeInSeconds is 100 and TrainingTimeInSeconds is 500, the savings is 80%.
+     * The billable time in seconds. Billable time refers to the absolute wall-clock time. Multiply BillableTimeInSeconds by the number of instances (InstanceCount) in your training cluster to get the total compute time SageMaker bills you if you run distributed training. The formula is as follows: BillableTimeInSeconds * InstanceCount . You can calculate the savings from using managed spot training using the formula (1 - BillableTimeInSeconds / TrainingTimeInSeconds) * 100. For example, if BillableTimeInSeconds is 100 and TrainingTimeInSeconds is 500, the savings is 80%.
      */
     BillableTimeInSeconds?: BillableTimeInSeconds;
     DebugHookConfig?: DebugHookConfig;
@@ -8282,6 +8631,54 @@ declare namespace SageMaker {
     IotThingName?: ThingName;
   }
   export type DeviceArn = string;
+  export type DeviceDeploymentStatus = "READYTODEPLOY"|"INPROGRESS"|"DEPLOYED"|"FAILED"|"STOPPING"|"STOPPED"|string;
+  export type DeviceDeploymentSummaries = DeviceDeploymentSummary[];
+  export interface DeviceDeploymentSummary {
+    /**
+     * The ARN of the edge deployment plan.
+     */
+    EdgeDeploymentPlanArn: EdgeDeploymentPlanArn;
+    /**
+     * The name of the edge deployment plan.
+     */
+    EdgeDeploymentPlanName: EntityName;
+    /**
+     * The name of the stage in the edge deployment plan.
+     */
+    StageName: EntityName;
+    /**
+     * The name of the deployed stage.
+     */
+    DeployedStageName?: EntityName;
+    /**
+     * The name of the fleet to which the device belongs to.
+     */
+    DeviceFleetName?: EntityName;
+    /**
+     * The name of the device.
+     */
+    DeviceName: DeviceName;
+    /**
+     * The ARN of the device.
+     */
+    DeviceArn: DeviceArn;
+    /**
+     * The deployment status of the device.
+     */
+    DeviceDeploymentStatus?: DeviceDeploymentStatus;
+    /**
+     * The detailed error message for the deployoment status result.
+     */
+    DeviceDeploymentStatusMessage?: String;
+    /**
+     * The description of the device.
+     */
+    Description?: DeviceDescription;
+    /**
+     * The time when the deployment on the device started.
+     */
+    DeploymentStartTime?: Timestamp;
+  }
   export type DeviceDescription = string;
   export type DeviceFleetArn = string;
   export type DeviceFleetDescription = string;
@@ -8306,6 +8703,24 @@ declare namespace SageMaker {
   }
   export type DeviceName = string;
   export type DeviceNames = DeviceName[];
+  export interface DeviceSelectionConfig {
+    /**
+     * Type of device subsets to deploy to the current stage.
+     */
+    DeviceSubsetType: DeviceSubsetType;
+    /**
+     * Percentage of devices in the fleet to deploy to the current stage.
+     */
+    Percentage?: Percentage;
+    /**
+     * List of devices chosen to deploy.
+     */
+    DeviceNames?: DeviceNames;
+    /**
+     * A filter to select devices with names containing this name.
+     */
+    DeviceNameContains?: DeviceName;
+  }
   export interface DeviceStats {
     /**
      * The number of devices connected with a heartbeat.
@@ -8316,6 +8731,7 @@ declare namespace SageMaker {
      */
     RegisteredDeviceCount: Long;
   }
+  export type DeviceSubsetType = "PERCENTAGE"|"SELECTION"|"NAMECONTAINS"|string;
   export type DeviceSummaries = DeviceSummary[];
   export interface DeviceSummary {
     /**
@@ -8465,10 +8881,19 @@ declare namespace SageMaker {
      * The bias config file for a model.
      */
     ConfigFile?: FileSource;
+    /**
+     * The pre-training constraints.
+     */
     PreTrainingConstraints?: MetricsSource;
+    /**
+     * The post-training constraints.
+     */
     PostTrainingConstraints?: MetricsSource;
   }
   export interface DriftCheckExplainability {
+    /**
+     * The drift check explainability constraints.
+     */
     Constraints?: MetricsSource;
     /**
      * The explainability config file for the model.
@@ -8476,11 +8901,23 @@ declare namespace SageMaker {
     ConfigFile?: FileSource;
   }
   export interface DriftCheckModelDataQuality {
+    /**
+     * The drift check model data quality statistics.
+     */
     Statistics?: MetricsSource;
+    /**
+     * The drift check model data quality constraints.
+     */
     Constraints?: MetricsSource;
   }
   export interface DriftCheckModelQuality {
+    /**
+     * The drift check model quality statistics.
+     */
     Statistics?: MetricsSource;
+    /**
+     * The drift check model quality constraints.
+     */
     Constraints?: MetricsSource;
   }
   export interface EMRStepMetadata {
@@ -8514,6 +8951,85 @@ declare namespace SageMaker {
      * The type of the Association(Edge) between the source and destination. For example ContributedTo, Produced, or DerivedFrom.
      */
     AssociationType?: AssociationEdgeType;
+  }
+  export interface EdgeDeploymentConfig {
+    /**
+     * Toggle that determines whether to rollback to previous configuration if the current deployment fails. By default this is turned on. You may turn this off if you want to investigate the errors yourself.
+     */
+    FailureHandlingPolicy: FailureHandlingPolicy;
+  }
+  export interface EdgeDeploymentModelConfig {
+    /**
+     * The name the device application uses to reference this model.
+     */
+    ModelHandle: EntityName;
+    /**
+     * The edge packaging job associated with this deployment.
+     */
+    EdgePackagingJobName: EntityName;
+  }
+  export type EdgeDeploymentModelConfigs = EdgeDeploymentModelConfig[];
+  export type EdgeDeploymentPlanArn = string;
+  export type EdgeDeploymentPlanSummaries = EdgeDeploymentPlanSummary[];
+  export interface EdgeDeploymentPlanSummary {
+    /**
+     * The ARN of the edge deployment plan.
+     */
+    EdgeDeploymentPlanArn: EdgeDeploymentPlanArn;
+    /**
+     * The name of the edge deployment plan.
+     */
+    EdgeDeploymentPlanName: EntityName;
+    /**
+     * The name of the device fleet used for the deployment. 
+     */
+    DeviceFleetName: EntityName;
+    /**
+     * The number of edge devices with the successful deployment.
+     */
+    EdgeDeploymentSuccess: Integer;
+    /**
+     * The number of edge devices yet to pick up the deployment, or in progress.
+     */
+    EdgeDeploymentPending: Integer;
+    /**
+     * The number of edge devices that failed the deployment.
+     */
+    EdgeDeploymentFailed: Integer;
+    /**
+     * The time when the edge deployment plan was created.
+     */
+    CreationTime?: Timestamp;
+    /**
+     * The time when the edge deployment plan was last updated.
+     */
+    LastModifiedTime?: Timestamp;
+  }
+  export interface EdgeDeploymentStatus {
+    /**
+     * The general status of the current stage.
+     */
+    StageStatus: StageStatus;
+    /**
+     * The number of edge devices with the successful deployment in the current stage.
+     */
+    EdgeDeploymentSuccessInStage: Integer;
+    /**
+     * The number of edge devices yet to pick up the deployment in current stage, or in progress.
+     */
+    EdgeDeploymentPendingInStage: Integer;
+    /**
+     * The number of edge devices that failed the deployment in current stage.
+     */
+    EdgeDeploymentFailedInStage: Integer;
+    /**
+     * A detailed message about deployment status in current stage.
+     */
+    EdgeDeploymentStatusMessage?: String;
+    /**
+     * The time when the deployment API started.
+     */
+    EdgeDeploymentStageStartTime?: Timestamp;
   }
   export interface EdgeModel {
     /**
@@ -8953,7 +9469,9 @@ declare namespace SageMaker {
      */
     ErrorMessage?: String3072;
   }
+  export type FailureHandlingPolicy = "ROLLBACK_ON_FAILURE"|"DO_NOTHING"|string;
   export type FailureReason = string;
+  export type FeatureAdditions = FeatureDefinition[];
   export interface FeatureDefinition {
     /**
      * The name of a feature. The type must be a string. FeatureName cannot be any of the following: is_deleted, write_time, api_invocation_time.
@@ -8965,6 +9483,7 @@ declare namespace SageMaker {
     FeatureType?: FeatureType;
   }
   export type FeatureDefinitions = FeatureDefinition[];
+  export type FeatureDescription = string;
   export interface FeatureGroup {
     /**
      * The Amazon Resource Name (ARN) of a FeatureGroup.
@@ -8990,6 +9509,10 @@ declare namespace SageMaker {
      * The time a FeatureGroup was created.
      */
     CreationTime?: CreationTime;
+    /**
+     * A timestamp indicating the last time you updated the feature group.
+     */
+    LastModifiedTime?: LastModifiedTime;
     OnlineStoreConfig?: OnlineStoreConfig;
     OfflineStoreConfig?: OfflineStoreConfig;
     /**
@@ -9001,6 +9524,10 @@ declare namespace SageMaker {
      */
     FeatureGroupStatus?: FeatureGroupStatus;
     OfflineStoreStatus?: OfflineStoreStatus;
+    /**
+     * A value that indicates whether the feature group was updated successfully.
+     */
+    LastUpdateStatus?: LastUpdateStatus;
     /**
      * The reason that the FeatureGroup failed to be replicated in the OfflineStore. This is failure may be due to a failure to create a FeatureGroup in or delete a FeatureGroup from the OfflineStore.
      */
@@ -9044,7 +9571,56 @@ declare namespace SageMaker {
      */
     OfflineStoreStatus?: OfflineStoreStatus;
   }
+  export interface FeatureMetadata {
+    /**
+     * The Amazon Resource Number (ARN) of the feature group.
+     */
+    FeatureGroupArn?: FeatureGroupArn;
+    /**
+     * The name of the feature group containing the feature.
+     */
+    FeatureGroupName?: FeatureGroupName;
+    /**
+     * The name of feature.
+     */
+    FeatureName?: FeatureName;
+    /**
+     * The data type of the feature.
+     */
+    FeatureType?: FeatureType;
+    /**
+     * A timestamp indicating when the feature was created.
+     */
+    CreationTime?: CreationTime;
+    /**
+     * A timestamp indicating when the feature was last modified.
+     */
+    LastModifiedTime?: LastModifiedTime;
+    /**
+     * An optional description that you specify to better describe the feature.
+     */
+    Description?: FeatureDescription;
+    /**
+     * Optional key-value pairs that you specify to better describe the feature.
+     */
+    Parameters?: FeatureParameters;
+  }
   export type FeatureName = string;
+  export interface FeatureParameter {
+    /**
+     * A key that must contain a value to describe the feature.
+     */
+    Key?: FeatureParameterKey;
+    /**
+     * The value that belongs to a key.
+     */
+    Value?: FeatureParameterValue;
+  }
+  export type FeatureParameterAdditions = FeatureParameter[];
+  export type FeatureParameterKey = string;
+  export type FeatureParameterRemovals = FeatureParameterKey[];
+  export type FeatureParameterValue = string;
+  export type FeatureParameters = FeatureParameter[];
   export type FeatureType = "Integral"|"Fractional"|"String"|string;
   export interface FileSource {
     /**
@@ -9427,7 +10003,7 @@ declare namespace SageMaker {
   }
   export interface HyperParameterAlgorithmSpecification {
     /**
-     *  The registry path of the Docker image that contains the training algorithm. For information about Docker registry paths for built-in algorithms, see Algorithms Provided by Amazon SageMaker: Common Parameters. Amazon SageMaker supports both registry/repository[:tag] and registry/repository[@digest] image path formats. For more information, see Using Your Own Algorithms with Amazon SageMaker.
+     *  The registry path of the Docker image that contains the training algorithm. For information about Docker registry paths for built-in algorithms, see Algorithms Provided by Amazon SageMaker: Common Parameters. SageMaker supports both registry/repository[:tag] and registry/repository[@digest] image path formats. For more information, see Using Your Own Algorithms with Amazon SageMaker.
      */
     TrainingImage?: AlgorithmImage;
     TrainingInputMode: TrainingInputMode;
@@ -9505,15 +10081,15 @@ declare namespace SageMaker {
      */
     OutputDataConfig: OutputDataConfig;
     /**
-     * The resources, including the compute instances and storage volumes, to use for the training jobs that the tuning job launches. Storage volumes store model artifacts and incremental states. Training algorithms might also use storage volumes for scratch space. If you want Amazon SageMaker to use the storage volume to store the training data, choose File as the TrainingInputMode in the algorithm specification. For distributed training algorithms, specify an instance count greater than 1.
+     * The resources, including the compute instances and storage volumes, to use for the training jobs that the tuning job launches. Storage volumes store model artifacts and incremental states. Training algorithms might also use storage volumes for scratch space. If you want SageMaker to use the storage volume to store the training data, choose File as the TrainingInputMode in the algorithm specification. For distributed training algorithms, specify an instance count greater than 1.
      */
     ResourceConfig: ResourceConfig;
     /**
-     * Specifies a limit to how long a model hyperparameter training job can run. It also specifies how long a managed spot training job has to complete. When the job reaches the time limit, Amazon SageMaker ends the training job. Use this API to cap model training costs.
+     * Specifies a limit to how long a model hyperparameter training job can run. It also specifies how long a managed spot training job has to complete. When the job reaches the time limit, SageMaker ends the training job. Use this API to cap model training costs.
      */
     StoppingCondition: StoppingCondition;
     /**
-     * Isolates the training container. No inbound or outbound network calls can be made, except for calls between peers within a training cluster for distributed training. If network isolation is used for training jobs that are configured to use a VPC, Amazon SageMaker downloads and uploads customer data and model artifacts through the specified VPC, but the training container does not have network access.
+     * Isolates the training container. No inbound or outbound network calls can be made, except for calls between peers within a training cluster for distributed training. If network isolation is used for training jobs that are configured to use a VPC, SageMaker downloads and uploads customer data and model artifacts through the specified VPC, but the training container does not have network access.
      */
     EnableNetworkIsolation?: Boolean;
     /**
@@ -9559,7 +10135,7 @@ declare namespace SageMaker {
      */
     TrainingStartTime?: Timestamp;
     /**
-     * Specifies the time when the training job ends on training instances. You are billed for the time interval between the value of TrainingStartTime and this time. For successful jobs and stopped jobs, this is the time after model artifacts are uploaded. For failed jobs, this is the time when Amazon SageMaker detects a job failure.
+     * Specifies the time when the training job ends on training instances. You are billed for the time interval between the value of TrainingStartTime and this time. For successful jobs and stopped jobs, this is the time after model artifacts are uploaded. For failed jobs, this is the time when SageMaker detects a job failure.
      */
     TrainingEndTime?: Timestamp;
     /**
@@ -9602,7 +10178,7 @@ declare namespace SageMaker {
      */
     ParameterRanges?: ParameterRanges;
     /**
-     * Specifies whether to use early stopping for training jobs launched by the hyperparameter tuning job. This can be one of the following values (the default value is OFF):  OFF  Training jobs launched by the hyperparameter tuning job do not use early stopping.  AUTO  Amazon SageMaker stops training jobs launched by the hyperparameter tuning job when they are unlikely to perform better than previously completed training jobs. For more information, see Stop Training Jobs Early.  
+     * Specifies whether to use early stopping for training jobs launched by the hyperparameter tuning job. This can be one of the following values (the default value is OFF):  OFF  Training jobs launched by the hyperparameter tuning job do not use early stopping.  AUTO  SageMaker stops training jobs launched by the hyperparameter tuning job when they are unlikely to perform better than previously completed training jobs. For more information, see Stop Training Jobs Early.  
      */
     TrainingJobEarlyStoppingType?: TrainingJobEarlyStoppingType;
     /**
@@ -9890,7 +10466,30 @@ declare namespace SageMaker {
   export type InputDataConfig = Channel[];
   export type InputMode = "Pipe"|"File"|string;
   export type InputModes = TrainingInputMode[];
-  export type InstanceType = "ml.t2.medium"|"ml.t2.large"|"ml.t2.xlarge"|"ml.t2.2xlarge"|"ml.t3.medium"|"ml.t3.large"|"ml.t3.xlarge"|"ml.t3.2xlarge"|"ml.m4.xlarge"|"ml.m4.2xlarge"|"ml.m4.4xlarge"|"ml.m4.10xlarge"|"ml.m4.16xlarge"|"ml.m5.xlarge"|"ml.m5.2xlarge"|"ml.m5.4xlarge"|"ml.m5.12xlarge"|"ml.m5.24xlarge"|"ml.m5d.large"|"ml.m5d.xlarge"|"ml.m5d.2xlarge"|"ml.m5d.4xlarge"|"ml.m5d.8xlarge"|"ml.m5d.12xlarge"|"ml.m5d.16xlarge"|"ml.m5d.24xlarge"|"ml.c4.xlarge"|"ml.c4.2xlarge"|"ml.c4.4xlarge"|"ml.c4.8xlarge"|"ml.c5.xlarge"|"ml.c5.2xlarge"|"ml.c5.4xlarge"|"ml.c5.9xlarge"|"ml.c5.18xlarge"|"ml.c5d.xlarge"|"ml.c5d.2xlarge"|"ml.c5d.4xlarge"|"ml.c5d.9xlarge"|"ml.c5d.18xlarge"|"ml.p2.xlarge"|"ml.p2.8xlarge"|"ml.p2.16xlarge"|"ml.p3.2xlarge"|"ml.p3.8xlarge"|"ml.p3.16xlarge"|"ml.p3dn.24xlarge"|"ml.g4dn.xlarge"|"ml.g4dn.2xlarge"|"ml.g4dn.4xlarge"|"ml.g4dn.8xlarge"|"ml.g4dn.12xlarge"|"ml.g4dn.16xlarge"|"ml.r5.large"|"ml.r5.xlarge"|"ml.r5.2xlarge"|"ml.r5.4xlarge"|"ml.r5.8xlarge"|"ml.r5.12xlarge"|"ml.r5.16xlarge"|"ml.r5.24xlarge"|string;
+  export interface InstanceGroup {
+    /**
+     * Specifies the instance type of the instance group.
+     */
+    InstanceType: TrainingInstanceType;
+    /**
+     * Specifies the number of instances of the instance group.
+     */
+    InstanceCount: TrainingInstanceCount;
+    /**
+     * Specifies the name of the instance group.
+     */
+    InstanceGroupName: InstanceGroupName;
+  }
+  export type InstanceGroupName = string;
+  export type InstanceGroupNames = InstanceGroupName[];
+  export type InstanceGroups = InstanceGroup[];
+  export interface InstanceMetadataServiceConfiguration {
+    /**
+     * Indicates the minimum IMDS version that the notebook instance supports. When passed as part of CreateNotebookInstance, if no value is selected, then it defaults to IMDSv1. This means that both IMDSv1 and IMDSv2 are supported. If passed as part of UpdateNotebookInstance, there is no default.
+     */
+    MinimumInstanceMetadataServiceVersion: MinimumInstanceMetadataServiceVersion;
+  }
+  export type InstanceType = "ml.t2.medium"|"ml.t2.large"|"ml.t2.xlarge"|"ml.t2.2xlarge"|"ml.t3.medium"|"ml.t3.large"|"ml.t3.xlarge"|"ml.t3.2xlarge"|"ml.m4.xlarge"|"ml.m4.2xlarge"|"ml.m4.4xlarge"|"ml.m4.10xlarge"|"ml.m4.16xlarge"|"ml.m5.xlarge"|"ml.m5.2xlarge"|"ml.m5.4xlarge"|"ml.m5.12xlarge"|"ml.m5.24xlarge"|"ml.m5d.large"|"ml.m5d.xlarge"|"ml.m5d.2xlarge"|"ml.m5d.4xlarge"|"ml.m5d.8xlarge"|"ml.m5d.12xlarge"|"ml.m5d.16xlarge"|"ml.m5d.24xlarge"|"ml.c4.xlarge"|"ml.c4.2xlarge"|"ml.c4.4xlarge"|"ml.c4.8xlarge"|"ml.c5.xlarge"|"ml.c5.2xlarge"|"ml.c5.4xlarge"|"ml.c5.9xlarge"|"ml.c5.18xlarge"|"ml.c5d.xlarge"|"ml.c5d.2xlarge"|"ml.c5d.4xlarge"|"ml.c5d.9xlarge"|"ml.c5d.18xlarge"|"ml.p2.xlarge"|"ml.p2.8xlarge"|"ml.p2.16xlarge"|"ml.p3.2xlarge"|"ml.p3.8xlarge"|"ml.p3.16xlarge"|"ml.p3dn.24xlarge"|"ml.g4dn.xlarge"|"ml.g4dn.2xlarge"|"ml.g4dn.4xlarge"|"ml.g4dn.8xlarge"|"ml.g4dn.12xlarge"|"ml.g4dn.16xlarge"|"ml.r5.large"|"ml.r5.xlarge"|"ml.r5.2xlarge"|"ml.r5.4xlarge"|"ml.r5.8xlarge"|"ml.r5.12xlarge"|"ml.r5.16xlarge"|"ml.r5.24xlarge"|"ml.g5.xlarge"|"ml.g5.2xlarge"|"ml.g5.4xlarge"|"ml.g5.8xlarge"|"ml.g5.16xlarge"|"ml.g5.12xlarge"|"ml.g5.24xlarge"|"ml.g5.48xlarge"|string;
   export type Integer = number;
   export interface IntegerParameterRange {
     /**
@@ -9906,7 +10505,7 @@ declare namespace SageMaker {
      */
     MaxValue: ParameterValue;
     /**
-     * The scale that hyperparameter tuning uses to search the hyperparameter range. For information about choosing a hyperparameter scale, see Hyperparameter Scaling. One of the following values:  Auto  Amazon SageMaker hyperparameter tuning chooses the best scale for the hyperparameter.  Linear  Hyperparameter tuning searches the values in the hyperparameter range by using a linear scale.  Logarithmic  Hyperparameter tuning searches the values in the hyperparameter range by using a logarithmic scale. Logarithmic scaling works only for ranges that have only values greater than 0.  
+     * The scale that hyperparameter tuning uses to search the hyperparameter range. For information about choosing a hyperparameter scale, see Hyperparameter Scaling. One of the following values:  Auto  SageMaker hyperparameter tuning chooses the best scale for the hyperparameter.  Linear  Hyperparameter tuning searches the values in the hyperparameter range by using a linear scale.  Logarithmic  Hyperparameter tuning searches the values in the hyperparameter range by using a logarithmic scale. Logarithmic scaling works only for ranges that have only values greater than 0.  
      */
     ScalingType?: HyperParameterScalingType;
   }
@@ -9934,18 +10533,18 @@ declare namespace SageMaker {
   export type JsonPath = string;
   export interface JupyterServerAppSettings {
     /**
-     * The default instance type and the Amazon Resource Name (ARN) of the default SageMaker image used by the JupyterServer app.
+     * The default instance type and the Amazon Resource Name (ARN) of the default SageMaker image used by the JupyterServer app. If you use the LifecycleConfigArns parameter, then this parameter is also required.
      */
     DefaultResourceSpec?: ResourceSpec;
     /**
-     *  The Amazon Resource Name (ARN) of the Lifecycle Configurations attached to the JupyterServerApp.
+     *  The Amazon Resource Name (ARN) of the Lifecycle Configurations attached to the JupyterServerApp. If you use this parameter, the DefaultResourceSpec parameter is also required.  To remove a Lifecycle Config, you must set LifecycleConfigArns to an empty list. 
      */
     LifecycleConfigArns?: LifecycleConfigArns;
   }
   export type KernelDisplayName = string;
   export interface KernelGatewayAppSettings {
     /**
-     * The default instance type and the Amazon Resource Name (ARN) of the default SageMaker image used by the KernelGateway app.
+     * The default instance type and the Amazon Resource Name (ARN) of the default SageMaker image used by the KernelGateway app.  The Amazon SageMaker Studio UI does not use the default instance type value set here. The default instance type set here is used when Apps are created using the Amazon Web Services Command Line Interface or Amazon Web Services CloudFormation and the instance type parameter value is not passed. 
      */
     DefaultResourceSpec?: ResourceSpec;
     /**
@@ -9953,7 +10552,7 @@ declare namespace SageMaker {
      */
     CustomImages?: CustomImages;
     /**
-     *  The Amazon Resource Name (ARN) of the Lifecycle Configurations attached to the the user profile or domain.
+     *  The Amazon Resource Name (ARN) of the Lifecycle Configurations attached to the the user profile or domain.  To remove a Lifecycle Config, you must set LifecycleConfigArns to an empty list. 
      */
     LifecycleConfigArns?: LifecycleConfigArns;
   }
@@ -10037,7 +10636,7 @@ declare namespace SageMaker {
   export type LabelingJobArn = string;
   export interface LabelingJobDataAttributes {
     /**
-     * Declares that your content is free of personally identifiable information or adult content. Amazon SageMaker may restrict the Amazon Mechanical Turk workers that can view your task based on this information.
+     * Declares that your content is free of personally identifiable information or adult content. SageMaker may restrict the Amazon Mechanical Turk workers that can view your task based on this information.
      */
     ContentClassifiers?: ContentClassifiers;
   }
@@ -10095,7 +10694,7 @@ declare namespace SageMaker {
      */
     OutputDatasetS3Uri: S3Uri;
     /**
-     * The Amazon Resource Name (ARN) for the most recent Amazon SageMaker model trained as part of automated data labeling. 
+     * The Amazon Resource Name (ARN) for the most recent SageMaker model trained as part of automated data labeling. 
      */
     FinalActiveLearningModelArn?: ModelArn;
   }
@@ -10118,6 +10717,7 @@ declare namespace SageMaker {
      * The Amazon Web Services Key Management Service (Amazon Web Services KMS) key that Amazon SageMaker uses to encrypt data on the storage volume attached to the ML compute instance(s) that run the training and inference jobs used for automated data labeling.  You can only specify a VolumeKmsKeyId when you create a labeling job with automated data labeling enabled using the API operation CreateLabelingJob. You cannot specify an Amazon Web Services KMS key to encrypt the storage volume used for automated data labeling model training and inference when you create a labeling job using the console. To learn more, see Output Data and Storage Volume Encryption. The VolumeKmsKeyId can be any of the following formats:   KMS Key ID  "1234abcd-12ab-34cd-56ef-1234567890ab"    Amazon Resource Name (ARN) of a KMS Key  "arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab"   
      */
     VolumeKmsKeyId?: KmsKeyId;
+    VpcConfig?: VpcConfig;
   }
   export interface LabelingJobS3DataSource {
     /**
@@ -10205,6 +10805,17 @@ declare namespace SageMaker {
     OutputParameters?: OutputParameterList;
   }
   export type LastModifiedTime = Date;
+  export interface LastUpdateStatus {
+    /**
+     * A value that indicates whether the update was made successful.
+     */
+    Status: LastUpdateStatusValue;
+    /**
+     * If the update wasn't successful, indicates the reason why it failed.
+     */
+    FailureReason?: FailureReason;
+  }
+  export type LastUpdateStatusValue = "Successful"|"Failed"|"InProgress"|string;
   export type LifecycleConfigArns = StudioLifecycleConfigArn[];
   export type LineageEntityParameters = {[key: string]: StringParameterValue};
   export type LineageGroupArn = string;
@@ -10313,7 +10924,7 @@ declare namespace SageMaker {
      */
     AlgorithmSummaryList: AlgorithmSummaryList;
     /**
-     * If the response is truncated, Amazon SageMaker returns this token. To retrieve the next set of algorithms, use it in the subsequent request.
+     * If the response is truncated, SageMaker returns this token. To retrieve the next set of algorithms, use it in the subsequent request.
      */
     NextToken?: NextToken;
   }
@@ -10883,6 +11494,59 @@ declare namespace SageMaker {
      */
     NextToken?: NextToken;
   }
+  export interface ListEdgeDeploymentPlansRequest {
+    /**
+     * The response from the last list when returning a list large enough to need tokening.
+     */
+    NextToken?: NextToken;
+    /**
+     * The maximum number of results to select (50 by default).
+     */
+    MaxResults?: ListMaxResults;
+    /**
+     * Selects edge deployment plans created after this time.
+     */
+    CreationTimeAfter?: Timestamp;
+    /**
+     * Selects edge deployment plans created before this time.
+     */
+    CreationTimeBefore?: Timestamp;
+    /**
+     * Selects edge deployment plans that were last updated after this time.
+     */
+    LastModifiedTimeAfter?: Timestamp;
+    /**
+     * Selects edge deployment plans that were last updated before this time.
+     */
+    LastModifiedTimeBefore?: Timestamp;
+    /**
+     * Selects edge deployment plans with names containing this name.
+     */
+    NameContains?: NameContains;
+    /**
+     * Selects edge deployment plans with a device fleet name containing this name.
+     */
+    DeviceFleetNameContains?: NameContains;
+    /**
+     * The column by which to sort the edge deployment plans. Can be one of NAME, DEVICEFLEETNAME, CREATIONTIME, LASTMODIFIEDTIME.
+     */
+    SortBy?: ListEdgeDeploymentPlansSortBy;
+    /**
+     * The direction of the sorting (ascending or descending).
+     */
+    SortOrder?: SortOrder;
+  }
+  export interface ListEdgeDeploymentPlansResponse {
+    /**
+     * List of summaries of edge deployment plans.
+     */
+    EdgeDeploymentPlanSummaries: EdgeDeploymentPlanSummaries;
+    /**
+     * The token to use when calling the next page of results.
+     */
+    NextToken?: NextToken;
+  }
+  export type ListEdgeDeploymentPlansSortBy = "NAME"|"DEVICE_FLEET_NAME"|"CREATION_TIME"|"LAST_MODIFIED_TIME"|string;
   export interface ListEdgePackagingJobsRequest {
     /**
      * The response from the last list when returning a list large enough to need tokening.
@@ -10976,7 +11640,7 @@ declare namespace SageMaker {
      */
     EndpointConfigs: EndpointConfigSummaryList;
     /**
-     *  If the response is truncated, Amazon SageMaker returns this token. To retrieve the next set of endpoint configurations, use it in the subsequent request 
+     *  If the response is truncated, SageMaker returns this token. To retrieve the next set of endpoint configurations, use it in the subsequent request 
      */
     NextToken?: PaginationToken;
   }
@@ -11028,7 +11692,7 @@ declare namespace SageMaker {
      */
     Endpoints: EndpointSummaryList;
     /**
-     *  If the response is truncated, Amazon SageMaker returns this token. To retrieve the next set of training jobs, use it in the subsequent request. 
+     *  If the response is truncated, SageMaker returns this token. To retrieve the next set of training jobs, use it in the subsequent request. 
      */
     NextToken?: PaginationToken;
   }
@@ -11421,7 +12085,7 @@ declare namespace SageMaker {
      */
     LabelingJobSummaryList: LabelingJobForWorkteamSummaryList;
     /**
-     * If the response is truncated, Amazon SageMaker returns this token. To retrieve the next set of labeling jobs, use it in the subsequent request.
+     * If the response is truncated, SageMaker returns this token. To retrieve the next set of labeling jobs, use it in the subsequent request.
      */
     NextToken?: NextToken;
   }
@@ -11474,7 +12138,7 @@ declare namespace SageMaker {
      */
     LabelingJobSummaryList?: LabelingJobSummaryList;
     /**
-     * If the response is truncated, Amazon SageMaker returns this token. To retrieve the next set of labeling jobs, use it in the subsequent request.
+     * If the response is truncated, SageMaker returns this token. To retrieve the next set of labeling jobs, use it in the subsequent request.
      */
     NextToken?: NextToken;
   }
@@ -11716,7 +12380,7 @@ declare namespace SageMaker {
      */
     ModelPackageSummaryList: ModelPackageSummaryList;
     /**
-     * If the response is truncated, Amazon SageMaker returns this token. To retrieve the next set of model packages, use it in the subsequent request.
+     * If the response is truncated, SageMaker returns this token. To retrieve the next set of model packages, use it in the subsequent request.
      */
     NextToken?: NextToken;
   }
@@ -11800,7 +12464,7 @@ declare namespace SageMaker {
      */
     Models: ModelSummaryList;
     /**
-     *  If the response is truncated, Amazon SageMaker returns this token. To retrieve the next set of models, use it in the subsequent request. 
+     *  If the response is truncated, SageMaker returns this token. To retrieve the next set of models, use it in the subsequent request. 
      */
     NextToken?: PaginationToken;
   }
@@ -11980,7 +12644,7 @@ declare namespace SageMaker {
   }
   export interface ListNotebookInstanceLifecycleConfigsOutput {
     /**
-     * If the response is truncated, Amazon SageMaker returns this token. To get the next set of lifecycle configurations, use it in the next request. 
+     * If the response is truncated, SageMaker returns this token. To get the next set of lifecycle configurations, use it in the next request. 
      */
     NextToken?: NextToken;
     /**
@@ -12044,7 +12708,7 @@ declare namespace SageMaker {
   }
   export interface ListNotebookInstancesOutput {
     /**
-     * If the response to the previous ListNotebookInstances request was truncated, Amazon SageMaker returns this token. To retrieve the next set of notebook instances, use the token in the next request.
+     * If the response to the previous ListNotebookInstances request was truncated, SageMaker returns this token. To retrieve the next set of notebook instances, use the token in the next request.
      */
     NextToken?: NextToken;
     /**
@@ -12276,6 +12940,38 @@ declare namespace SageMaker {
      */
     NextToken?: NextToken;
   }
+  export interface ListStageDevicesRequest {
+    /**
+     * The response from the last list when returning a list large enough to neeed tokening.
+     */
+    NextToken?: NextToken;
+    /**
+     * The maximum number of requests to select.
+     */
+    MaxResults?: ListMaxResults;
+    /**
+     * The name of the edge deployment plan.
+     */
+    EdgeDeploymentPlanName: EntityName;
+    /**
+     * Toggle for excluding devices deployed in other stages.
+     */
+    ExcludeDevicesDeployedInOtherStage?: Boolean;
+    /**
+     * The name of the stage in the deployment.
+     */
+    StageName: EntityName;
+  }
+  export interface ListStageDevicesResponse {
+    /**
+     * List of summaries of devices allocated to the stage.
+     */
+    DeviceDeploymentSummaries: DeviceDeploymentSummaries;
+    /**
+     * The token to use when calling the next page of results.
+     */
+    NextToken?: NextToken;
+  }
   export interface ListStudioLifecycleConfigsRequest {
     /**
      * The maximum number of Studio Lifecycle Configurations to return in the response. The default value is 10.
@@ -12358,7 +13054,7 @@ declare namespace SageMaker {
      */
     ResourceArn: ResourceArn;
     /**
-     *  If the response to the previous ListTags request is truncated, Amazon SageMaker returns this token. To retrieve the next set of tags, use it in the subsequent request. 
+     *  If the response to the previous ListTags request is truncated, SageMaker returns this token. To retrieve the next set of tags, use it in the subsequent request. 
      */
     NextToken?: NextToken;
     /**
@@ -12373,7 +13069,7 @@ declare namespace SageMaker {
      */
     Tags?: TagList;
     /**
-     *  If response is truncated, Amazon SageMaker includes a token in the response. You can use this token in your subsequent request to fetch next set of tokens. 
+     *  If response is truncated, SageMaker includes a token in the response. You can use this token in your subsequent request to fetch next set of tokens. 
      */
     NextToken?: NextToken;
   }
@@ -12461,7 +13157,7 @@ declare namespace SageMaker {
      */
     TrainingJobSummaries: TrainingJobSummaries;
     /**
-     * If the response is truncated, Amazon SageMaker returns this token. To retrieve the next set of training jobs, use it in the subsequent request.
+     * If the response is truncated, SageMaker returns this token. To retrieve the next set of training jobs, use it in the subsequent request.
      */
     NextToken?: NextToken;
   }
@@ -12791,6 +13487,10 @@ declare namespace SageMaker {
      * The dataset split from which the AutoML job produced the metric.
      */
     Set?: MetricSetSource;
+    /**
+     * The name of the standard metric.   For definitions of the standard metrics, see  Autopilot candidate metrics . 
+     */
+    StandardMetricName?: AutoMLMetricExtendedEnum;
   }
   export interface MetricDefinition {
     /**
@@ -12809,18 +13509,19 @@ declare namespace SageMaker {
   export type MetricValue = number;
   export interface MetricsSource {
     /**
-     * 
+     * The metric source content type.
      */
     ContentType: ContentType;
     /**
-     * 
+     * The hash key used for the metrics source.
      */
     ContentDigest?: ContentDigest;
     /**
-     * 
+     * The S3 URI for the metrics source.
      */
     S3Uri: S3Uri;
   }
+  export type MinimumInstanceMetadataServiceVersion = string;
   export type ModelApprovalStatus = "Approved"|"Rejected"|"PendingManualApproval"|string;
   export type ModelArn = string;
   export interface ModelArtifacts {
@@ -12860,11 +13561,11 @@ declare namespace SageMaker {
   export type ModelCacheSetting = "Enabled"|"Disabled"|string;
   export interface ModelClientConfig {
     /**
-     * The timeout value in seconds for an invocation request.
+     * The timeout value in seconds for an invocation request. The default value is 600.
      */
     InvocationsTimeoutInSeconds?: InvocationsTimeoutInSeconds;
     /**
-     * The maximum number of retries when invocation requests are failing.
+     * The maximum number of retries when invocation requests are failing. The default value is 3.
      */
     InvocationsMaxRetries?: InvocationsMaxRetries;
   }
@@ -13038,13 +13739,25 @@ declare namespace SageMaker {
      * The time that the model package was created.
      */
     CreationTime?: CreationTime;
+    /**
+     * Defines how to perform inference generation after a training job is run.
+     */
     InferenceSpecification?: InferenceSpecification;
+    /**
+     * A list of algorithms that were used to create a model package.
+     */
     SourceAlgorithmSpecification?: SourceAlgorithmSpecification;
+    /**
+     * Specifies batch transform jobs that SageMaker runs to validate your model package.
+     */
     ValidationSpecification?: ModelPackageValidationSpecification;
     /**
      * The status of the model package. This can be one of the following values.    PENDING - The model package is pending being created.    IN_PROGRESS - The model package is in the process of being created.    COMPLETED - The model package was successfully created.    FAILED - The model package failed.    DELETING - The model package is in the process of being deleted.  
      */
     ModelPackageStatus?: ModelPackageStatus;
+    /**
+     * Specifies the validation and image scan statuses of the model package.
+     */
     ModelPackageStatusDetails?: ModelPackageStatusDetails;
     /**
      * Whether the model package is to be certified to be listed on Amazon Web Services Marketplace. For information about listing model packages on Amazon Web Services Marketplace, see List Your Algorithm or Model Package on Amazon Web Services Marketplace.
@@ -13054,7 +13767,13 @@ declare namespace SageMaker {
      * The approval status of the model. This can be one of the following values.    APPROVED - The model is approved    REJECTED - The model is rejected.    PENDING_MANUAL_APPROVAL - The model is waiting for manual approval.  
      */
     ModelApprovalStatus?: ModelApprovalStatus;
+    /**
+     * Information about the user who created or modified an experiment, trial, trial component, lineage group, or project.
+     */
     CreatedBy?: UserContext;
+    /**
+     * Metadata properties of the tracking entity, trial, or trial component.
+     */
     MetadataProperties?: MetadataProperties;
     /**
      * Metrics for the model.
@@ -13064,6 +13783,9 @@ declare namespace SageMaker {
      * The last time the model package was modified.
      */
     LastModifiedTime?: Timestamp;
+    /**
+     * Information about the user who created or modified an experiment, trial, trial component, lineage group, or project.
+     */
     LastModifiedBy?: UserContext;
     /**
      * A description provided when the model approval is set.
@@ -13106,7 +13828,7 @@ declare namespace SageMaker {
      */
     ContainerHostname?: ContainerHostname;
     /**
-     * The Amazon EC2 Container Registry (Amazon ECR) path where inference code is stored. If you are using your own custom algorithm instead of an algorithm provided by Amazon SageMaker, the inference code must meet Amazon SageMaker requirements. Amazon SageMaker supports both registry/repository[:tag] and registry/repository[@digest] image path formats. For more information, see Using Your Own Algorithms with Amazon SageMaker.
+     * The Amazon EC2 Container Registry (Amazon ECR) path where inference code is stored. If you are using your own custom algorithm instead of an algorithm provided by SageMaker, the inference code must meet SageMaker requirements. SageMaker supports both registry/repository[:tag] and registry/repository[@digest] image path formats. For more information, see Using Your Own Algorithms with Amazon SageMaker.
      */
     Image: ContainerImage;
     /**
@@ -13277,7 +13999,7 @@ declare namespace SageMaker {
      */
     ValidationRole: RoleArn;
     /**
-     * An array of ModelPackageValidationProfile objects, each of which specifies a batch transform job that Amazon SageMaker runs to validate your model package.
+     * An array of ModelPackageValidationProfile objects, each of which specifies a batch transform job that SageMaker runs to validate your model package.
      */
     ValidationProfiles: ModelPackageValidationProfiles;
   }
@@ -13799,7 +14521,7 @@ declare namespace SageMaker {
      */
     NotebookInstanceStatus?: NotebookInstanceStatus;
     /**
-     * The URL that you use to connect to the Jupyter instance running in your notebook instance. 
+     * The URL that you use to connect to the Jupyter notebook running in your notebook instance. 
      */
     Url?: NotebookInstanceUrl;
     /**
@@ -13819,11 +14541,11 @@ declare namespace SageMaker {
      */
     NotebookInstanceLifecycleConfigName?: NotebookInstanceLifecycleConfigName;
     /**
-     * The Git repository associated with the notebook instance as its default code repository. This can be either the name of a Git repository stored as a resource in your account, or the URL of a Git repository in Amazon Web Services CodeCommit or in any other Git repository. When you open a notebook instance, it opens in the directory that contains this repository. For more information, see Associating Git Repositories with Amazon SageMaker Notebook Instances.
+     * The Git repository associated with the notebook instance as its default code repository. This can be either the name of a Git repository stored as a resource in your account, or the URL of a Git repository in Amazon Web Services CodeCommit or in any other Git repository. When you open a notebook instance, it opens in the directory that contains this repository. For more information, see Associating Git Repositories with SageMaker Notebook Instances.
      */
     DefaultCodeRepository?: CodeRepositoryNameOrUrl;
     /**
-     * An array of up to three Git repositories associated with the notebook instance. These can be either the names of Git repositories stored as resources in your account, or the URL of Git repositories in Amazon Web Services CodeCommit or in any other Git repository. These repositories are cloned at the same level as the default repository of your notebook instance. For more information, see Associating Git Repositories with Amazon SageMaker Notebook Instances.
+     * An array of up to three Git repositories associated with the notebook instance. These can be either the names of Git repositories stored as resources in your account, or the URL of Git repositories in Amazon Web Services CodeCommit or in any other Git repository. These repositories are cloned at the same level as the default repository of your notebook instance. For more information, see Associating Git Repositories with SageMaker Notebook Instances.
      */
     AdditionalCodeRepositories?: AdditionalCodeRepositoryNamesOrUrls;
   }
@@ -13967,6 +14689,7 @@ declare namespace SageMaker {
      */
     KmsKeyId?: KmsKeyId;
   }
+  export type OnlineStoreTotalSizeBytes = number;
   export type Operator = "Equals"|"NotEquals"|"GreaterThan"|"GreaterThanOrEqualTo"|"LessThan"|"LessThanOrEqualTo"|"Contains"|"Exists"|"NotExists"|"In"|string;
   export type OptionalDouble = number;
   export type OptionalInteger = number;
@@ -13996,11 +14719,11 @@ declare namespace SageMaker {
   }
   export interface OutputDataConfig {
     /**
-     * The Amazon Web Services Key Management Service (Amazon Web Services KMS) key that Amazon SageMaker uses to encrypt the model artifacts at rest using Amazon S3 server-side encryption. The KmsKeyId can be any of the following formats:    // KMS Key ID  "1234abcd-12ab-34cd-56ef-1234567890ab"    // Amazon Resource Name (ARN) of a KMS Key  "arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab"    // KMS Key Alias  "alias/ExampleAlias"    // Amazon Resource Name (ARN) of a KMS Key Alias  "arn:aws:kms:us-west-2:111122223333:alias/ExampleAlias"    If you use a KMS key ID or an alias of your KMS key, the Amazon SageMaker execution role must include permissions to call kms:Encrypt. If you don't provide a KMS key ID, Amazon SageMaker uses the default KMS key for Amazon S3 for your role's account. Amazon SageMaker uses server-side encryption with KMS-managed keys for OutputDataConfig. If you use a bucket policy with an s3:PutObject permission that only allows objects with server-side encryption, set the condition key of s3:x-amz-server-side-encryption to "aws:kms". For more information, see KMS-Managed Encryption Keys in the Amazon Simple Storage Service Developer Guide.  The KMS key policy must grant permission to the IAM role that you specify in your CreateTrainingJob, CreateTransformJob, or CreateHyperParameterTuningJob requests. For more information, see Using Key Policies in Amazon Web Services KMS in the Amazon Web Services Key Management Service Developer Guide.
+     * The Amazon Web Services Key Management Service (Amazon Web Services KMS) key that SageMaker uses to encrypt the model artifacts at rest using Amazon S3 server-side encryption. The KmsKeyId can be any of the following formats:    // KMS Key ID  "1234abcd-12ab-34cd-56ef-1234567890ab"    // Amazon Resource Name (ARN) of a KMS Key  "arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab"    // KMS Key Alias  "alias/ExampleAlias"    // Amazon Resource Name (ARN) of a KMS Key Alias  "arn:aws:kms:us-west-2:111122223333:alias/ExampleAlias"    If you use a KMS key ID or an alias of your KMS key, the SageMaker execution role must include permissions to call kms:Encrypt. If you don't provide a KMS key ID, SageMaker uses the default KMS key for Amazon S3 for your role's account. SageMaker uses server-side encryption with KMS-managed keys for OutputDataConfig. If you use a bucket policy with an s3:PutObject permission that only allows objects with server-side encryption, set the condition key of s3:x-amz-server-side-encryption to "aws:kms". For more information, see KMS-Managed Encryption Keys in the Amazon Simple Storage Service Developer Guide.  The KMS key policy must grant permission to the IAM role that you specify in your CreateTrainingJob, CreateTransformJob, or CreateHyperParameterTuningJob requests. For more information, see Using Key Policies in Amazon Web Services KMS in the Amazon Web Services Key Management Service Developer Guide.
      */
     KmsKeyId?: KmsKeyId;
     /**
-     * Identifies the S3 path where you want Amazon SageMaker to store the model artifacts. For example, s3://bucket-name/key-name-prefix. 
+     * Identifies the S3 path where you want SageMaker to store the model artifacts. For example, s3://bucket-name/key-name-prefix. 
      */
     S3OutputPath: S3Uri;
   }
@@ -14136,15 +14859,16 @@ declare namespace SageMaker {
      */
     VariantStatus?: ProductionVariantStatusList;
     /**
-     * The serverless configuration for the endpoint.  Serverless Inference is in preview release for Amazon SageMaker and is subject to change. We do not recommend using this feature in production environments. 
+     * The serverless configuration for the endpoint.
      */
     CurrentServerlessConfig?: ProductionVariantServerlessConfig;
     /**
-     * The serverless configuration requested for this deployment, as specified in the endpoint configuration for the endpoint.  Serverless Inference is in preview release for Amazon SageMaker and is subject to change. We do not recommend using this feature in production environments. 
+     * The serverless configuration requested for this deployment, as specified in the endpoint configuration for the endpoint.
      */
     DesiredServerlessConfig?: ProductionVariantServerlessConfig;
   }
   export type PendingProductionVariantSummaryList = PendingProductionVariantSummary[];
+  export type Percentage = number;
   export interface Phase {
     /**
      * Specifies how many concurrent users to start with.
@@ -14737,7 +15461,7 @@ declare namespace SageMaker {
      */
     CoreDumpConfig?: ProductionVariantCoreDumpConfig;
     /**
-     * The serverless configuration for an endpoint. Specifies a serverless endpoint configuration instead of an instance-based endpoint configuration.  Serverless Inference is in preview release for Amazon SageMaker and is subject to change. We do not recommend using this feature in production environments. 
+     * The serverless configuration for an endpoint. Specifies a serverless endpoint configuration instead of an instance-based endpoint configuration.
      */
     ServerlessConfig?: ProductionVariantServerlessConfig;
   }
@@ -14748,11 +15472,11 @@ declare namespace SageMaker {
      */
     DestinationS3Uri: DestinationS3Uri;
     /**
-     * The Amazon Web Services Key Management Service (Amazon Web Services KMS) key that Amazon SageMaker uses to encrypt the core dump data at rest using Amazon S3 server-side encryption. The KmsKeyId can be any of the following formats:    // KMS Key ID  "1234abcd-12ab-34cd-56ef-1234567890ab"    // Amazon Resource Name (ARN) of a KMS Key  "arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab"    // KMS Key Alias  "alias/ExampleAlias"    // Amazon Resource Name (ARN) of a KMS Key Alias  "arn:aws:kms:us-west-2:111122223333:alias/ExampleAlias"    If you use a KMS key ID or an alias of your KMS key, the Amazon SageMaker execution role must include permissions to call kms:Encrypt. If you don't provide a KMS key ID, Amazon SageMaker uses the default KMS key for Amazon S3 for your role's account. Amazon SageMaker uses server-side encryption with KMS-managed keys for OutputDataConfig. If you use a bucket policy with an s3:PutObject permission that only allows objects with server-side encryption, set the condition key of s3:x-amz-server-side-encryption to "aws:kms". For more information, see KMS-Managed Encryption Keys in the Amazon Simple Storage Service Developer Guide.  The KMS key policy must grant permission to the IAM role that you specify in your CreateEndpoint and UpdateEndpoint requests. For more information, see Using Key Policies in Amazon Web Services KMS in the Amazon Web Services Key Management Service Developer Guide.
+     * The Amazon Web Services Key Management Service (Amazon Web Services KMS) key that SageMaker uses to encrypt the core dump data at rest using Amazon S3 server-side encryption. The KmsKeyId can be any of the following formats:    // KMS Key ID  "1234abcd-12ab-34cd-56ef-1234567890ab"    // Amazon Resource Name (ARN) of a KMS Key  "arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab"    // KMS Key Alias  "alias/ExampleAlias"    // Amazon Resource Name (ARN) of a KMS Key Alias  "arn:aws:kms:us-west-2:111122223333:alias/ExampleAlias"    If you use a KMS key ID or an alias of your KMS key, the SageMaker execution role must include permissions to call kms:Encrypt. If you don't provide a KMS key ID, SageMaker uses the default KMS key for Amazon S3 for your role's account. SageMaker uses server-side encryption with KMS-managed keys for OutputDataConfig. If you use a bucket policy with an s3:PutObject permission that only allows objects with server-side encryption, set the condition key of s3:x-amz-server-side-encryption to "aws:kms". For more information, see KMS-Managed Encryption Keys in the Amazon Simple Storage Service Developer Guide.  The KMS key policy must grant permission to the IAM role that you specify in your CreateEndpoint and UpdateEndpoint requests. For more information, see Using Key Policies in Amazon Web Services KMS in the Amazon Web Services Key Management Service Developer Guide.
      */
     KmsKeyId?: KmsKeyId;
   }
-  export type ProductionVariantInstanceType = "ml.t2.medium"|"ml.t2.large"|"ml.t2.xlarge"|"ml.t2.2xlarge"|"ml.m4.xlarge"|"ml.m4.2xlarge"|"ml.m4.4xlarge"|"ml.m4.10xlarge"|"ml.m4.16xlarge"|"ml.m5.large"|"ml.m5.xlarge"|"ml.m5.2xlarge"|"ml.m5.4xlarge"|"ml.m5.12xlarge"|"ml.m5.24xlarge"|"ml.m5d.large"|"ml.m5d.xlarge"|"ml.m5d.2xlarge"|"ml.m5d.4xlarge"|"ml.m5d.12xlarge"|"ml.m5d.24xlarge"|"ml.c4.large"|"ml.c4.xlarge"|"ml.c4.2xlarge"|"ml.c4.4xlarge"|"ml.c4.8xlarge"|"ml.p2.xlarge"|"ml.p2.8xlarge"|"ml.p2.16xlarge"|"ml.p3.2xlarge"|"ml.p3.8xlarge"|"ml.p3.16xlarge"|"ml.c5.large"|"ml.c5.xlarge"|"ml.c5.2xlarge"|"ml.c5.4xlarge"|"ml.c5.9xlarge"|"ml.c5.18xlarge"|"ml.c5d.large"|"ml.c5d.xlarge"|"ml.c5d.2xlarge"|"ml.c5d.4xlarge"|"ml.c5d.9xlarge"|"ml.c5d.18xlarge"|"ml.g4dn.xlarge"|"ml.g4dn.2xlarge"|"ml.g4dn.4xlarge"|"ml.g4dn.8xlarge"|"ml.g4dn.12xlarge"|"ml.g4dn.16xlarge"|"ml.r5.large"|"ml.r5.xlarge"|"ml.r5.2xlarge"|"ml.r5.4xlarge"|"ml.r5.12xlarge"|"ml.r5.24xlarge"|"ml.r5d.large"|"ml.r5d.xlarge"|"ml.r5d.2xlarge"|"ml.r5d.4xlarge"|"ml.r5d.12xlarge"|"ml.r5d.24xlarge"|"ml.inf1.xlarge"|"ml.inf1.2xlarge"|"ml.inf1.6xlarge"|"ml.inf1.24xlarge"|string;
+  export type ProductionVariantInstanceType = "ml.t2.medium"|"ml.t2.large"|"ml.t2.xlarge"|"ml.t2.2xlarge"|"ml.m4.xlarge"|"ml.m4.2xlarge"|"ml.m4.4xlarge"|"ml.m4.10xlarge"|"ml.m4.16xlarge"|"ml.m5.large"|"ml.m5.xlarge"|"ml.m5.2xlarge"|"ml.m5.4xlarge"|"ml.m5.12xlarge"|"ml.m5.24xlarge"|"ml.m5d.large"|"ml.m5d.xlarge"|"ml.m5d.2xlarge"|"ml.m5d.4xlarge"|"ml.m5d.12xlarge"|"ml.m5d.24xlarge"|"ml.c4.large"|"ml.c4.xlarge"|"ml.c4.2xlarge"|"ml.c4.4xlarge"|"ml.c4.8xlarge"|"ml.p2.xlarge"|"ml.p2.8xlarge"|"ml.p2.16xlarge"|"ml.p3.2xlarge"|"ml.p3.8xlarge"|"ml.p3.16xlarge"|"ml.c5.large"|"ml.c5.xlarge"|"ml.c5.2xlarge"|"ml.c5.4xlarge"|"ml.c5.9xlarge"|"ml.c5.18xlarge"|"ml.c5d.large"|"ml.c5d.xlarge"|"ml.c5d.2xlarge"|"ml.c5d.4xlarge"|"ml.c5d.9xlarge"|"ml.c5d.18xlarge"|"ml.g4dn.xlarge"|"ml.g4dn.2xlarge"|"ml.g4dn.4xlarge"|"ml.g4dn.8xlarge"|"ml.g4dn.12xlarge"|"ml.g4dn.16xlarge"|"ml.r5.large"|"ml.r5.xlarge"|"ml.r5.2xlarge"|"ml.r5.4xlarge"|"ml.r5.12xlarge"|"ml.r5.24xlarge"|"ml.r5d.large"|"ml.r5d.xlarge"|"ml.r5d.2xlarge"|"ml.r5d.4xlarge"|"ml.r5d.12xlarge"|"ml.r5d.24xlarge"|"ml.inf1.xlarge"|"ml.inf1.2xlarge"|"ml.inf1.6xlarge"|"ml.inf1.24xlarge"|"ml.c6i.large"|"ml.c6i.xlarge"|"ml.c6i.2xlarge"|"ml.c6i.4xlarge"|"ml.c6i.8xlarge"|"ml.c6i.12xlarge"|"ml.c6i.16xlarge"|"ml.c6i.24xlarge"|"ml.c6i.32xlarge"|"ml.g5.xlarge"|"ml.g5.2xlarge"|"ml.g5.4xlarge"|"ml.g5.8xlarge"|"ml.g5.12xlarge"|"ml.g5.16xlarge"|"ml.g5.24xlarge"|"ml.g5.48xlarge"|"ml.p4d.24xlarge"|string;
   export type ProductionVariantList = ProductionVariant[];
   export interface ProductionVariantServerlessConfig {
     /**
@@ -14809,11 +15533,11 @@ declare namespace SageMaker {
      */
     VariantStatus?: ProductionVariantStatusList;
     /**
-     * The serverless configuration for the endpoint.  Serverless Inference is in preview release for Amazon SageMaker and is subject to change. We do not recommend using this feature in production environments. 
+     * The serverless configuration for the endpoint.
      */
     CurrentServerlessConfig?: ProductionVariantServerlessConfig;
     /**
-     * The serverless configuration requested for the endpoint update.  Serverless Inference is in preview release for Amazon SageMaker and is subject to change. We do not recommend using this feature in production environments. 
+     * The serverless configuration requested for the endpoint update.
      */
     DesiredServerlessConfig?: ProductionVariantServerlessConfig;
   }
@@ -15099,7 +15823,7 @@ declare namespace SageMaker {
      */
     ModifiedAfter?: Timestamp;
     /**
-     * Filter the lineage entities connected to the StartArn(s) by a set if property key value pairs. If multiple pairs are provided, an entity will be included in the results if it matches any of the provided pairs.
+     * Filter the lineage entities connected to the StartArn(s) by a set if property key value pairs. If multiple pairs are provided, an entity is included in the results if it matches any of the provided pairs.
      */
     Properties?: QueryProperties;
   }
@@ -15109,13 +15833,13 @@ declare namespace SageMaker {
     /**
      * A list of resource Amazon Resource Name (ARN) that represent the starting point for your lineage query.
      */
-    StartArns: QueryLineageStartArns;
+    StartArns?: QueryLineageStartArns;
     /**
-     * Associations between lineage entities are directed. This parameter determines the direction from the StartArn(s) the query will look.
+     * Associations between lineage entities have a direction. This parameter determines the direction from the StartArn(s) that the query traverses.
      */
     Direction?: Direction;
     /**
-     *  Setting this value to True will retrieve not only the entities of interest but also the Associations and lineage entities on the path. Set to False to only return lineage entities that match your query.
+     *  Setting this value to True retrieves not only the entities of interest but also the Associations and lineage entities on the path. Set to False to only return lineage entities that match your query.
      */
     IncludeEdges?: Boolean;
     /**
@@ -15123,7 +15847,7 @@ declare namespace SageMaker {
      */
     Filters?: QueryFilters;
     /**
-     * The maximum depth in lineage relationships from the StartArns that will be traversed. Depth is a measure of the number of Associations from the StartArn entity to the matched results.
+     * The maximum depth in lineage relationships from the StartArns that are traversed. Depth is a measure of the number of Associations from the StartArn entity to the matched results.
      */
     MaxDepth?: QueryLineageMaxDepth;
     /**
@@ -15154,6 +15878,11 @@ declare namespace SageMaker {
   export type QueryProperties = {[key: string]: String256};
   export type QueryTypes = String40[];
   export interface RSessionAppSettings {
+    DefaultResourceSpec?: ResourceSpec;
+    /**
+     * A list of custom SageMaker images that are configured to run as a RSession app.
+     */
+    CustomImages?: CustomImages;
   }
   export type RStudioServerProAccessStatus = "ENABLED"|"DISABLED"|string;
   export interface RStudioServerProAppSettings {
@@ -15191,6 +15920,12 @@ declare namespace SageMaker {
   export type RStudioServerProUserGroup = "R_STUDIO_ADMIN"|"R_STUDIO_USER"|string;
   export type RealtimeInferenceInstanceTypes = ProductionVariantInstanceType[];
   export type RecommendationJobArn = string;
+  export interface RecommendationJobCompiledOutputConfig {
+    /**
+     * Identifies the Amazon S3 bucket where you want SageMaker to store the compiled model artifacts.
+     */
+    S3OutputUri?: S3Uri;
+  }
   export type RecommendationJobDescription = string;
   export interface RecommendationJobInputConfig {
     /**
@@ -15213,8 +15948,22 @@ declare namespace SageMaker {
      * Specifies the endpoint configuration to use for a job.
      */
     EndpointConfigurations?: EndpointInputConfigurations;
+    /**
+     * The Amazon Resource Name (ARN) of a Amazon Web Services Key Management Service (Amazon Web Services KMS) key that Amazon SageMaker uses to encrypt data on the storage volume attached to the ML compute instance that hosts the endpoint. This key will be passed to SageMaker Hosting for endpoint creation.  The SageMaker execution role must have kms:CreateGrant permission in order to encrypt data on the storage volume of the endpoints created for inference recommendation. The inference recommendation job will fail asynchronously during endpoint configuration creation if the role passed does not have kms:CreateGrant permission. The KmsKeyId can be any of the following formats:   // KMS Key ID  "1234abcd-12ab-34cd-56ef-1234567890ab"    // Amazon Resource Name (ARN) of a KMS Key  "arn:aws:kms:&lt;region&gt;:&lt;account&gt;:key/&lt;key-id-12ab-34cd-56ef-1234567890ab&gt;"    // KMS Key Alias  "alias/ExampleAlias"    // Amazon Resource Name (ARN) of a KMS Key Alias  "arn:aws:kms:&lt;region&gt;:&lt;account&gt;:alias/&lt;ExampleAlias&gt;"    For more information about key identifiers, see Key identifiers (KeyID) in the Amazon Web Services Key Management Service (Amazon Web Services KMS) documentation.
+     */
+    VolumeKmsKeyId?: KmsKeyId;
   }
   export type RecommendationJobName = string;
+  export interface RecommendationJobOutputConfig {
+    /**
+     * The Amazon Resource Name (ARN) of a Amazon Web Services Key Management Service (Amazon Web Services KMS) key that Amazon SageMaker uses to encrypt your output artifacts with Amazon S3 server-side encryption. The SageMaker execution role must have kms:GenerateDataKey permission. The KmsKeyId can be any of the following formats:   // KMS Key ID  "1234abcd-12ab-34cd-56ef-1234567890ab"    // Amazon Resource Name (ARN) of a KMS Key  "arn:aws:kms:&lt;region&gt;:&lt;account&gt;:key/&lt;key-id-12ab-34cd-56ef-1234567890ab&gt;"    // KMS Key Alias  "alias/ExampleAlias"    // Amazon Resource Name (ARN) of a KMS Key Alias  "arn:aws:kms:&lt;region&gt;:&lt;account&gt;:alias/&lt;ExampleAlias&gt;"    For more information about key identifiers, see Key identifiers (KeyID) in the Amazon Web Services Key Management Service (Amazon Web Services KMS) documentation.
+     */
+    KmsKeyId?: KmsKeyId;
+    /**
+     * Provides information about the output configuration for the compiled model.
+     */
+    CompiledOutputConfig?: RecommendationJobCompiledOutputConfig;
+  }
   export interface RecommendationJobResourceLimit {
     /**
      * Defines the maximum number of load tests.
@@ -15368,19 +16117,23 @@ declare namespace SageMaker {
     /**
      * The ML compute instance type. 
      */
-    InstanceType: TrainingInstanceType;
+    InstanceType?: TrainingInstanceType;
     /**
      * The number of ML compute instances to use. For distributed training, provide a value greater than 1. 
      */
-    InstanceCount: TrainingInstanceCount;
+    InstanceCount?: TrainingInstanceCount;
     /**
-     * The size of the ML storage volume that you want to provision.  ML storage volumes store model artifacts and incremental states. Training algorithms might also use the ML storage volume for scratch space. If you want to store the training data in the ML storage volume, choose File as the TrainingInputMode in the algorithm specification.  You must specify sufficient ML storage for your scenario.    Amazon SageMaker supports only the General Purpose SSD (gp2) ML storage volume type.    Certain Nitro-based instances include local storage with a fixed total size, dependent on the instance type. When using these instances for training, Amazon SageMaker mounts the local instance storage instead of Amazon EBS gp2 storage. You can't request a VolumeSizeInGB greater than the total size of the local instance storage. For a list of instance types that support local instance storage, including the total size per instance type, see Instance Store Volumes. 
+     * The size of the ML storage volume that you want to provision.  ML storage volumes store model artifacts and incremental states. Training algorithms might also use the ML storage volume for scratch space. If you want to store the training data in the ML storage volume, choose File as the TrainingInputMode in the algorithm specification.  You must specify sufficient ML storage for your scenario.    SageMaker supports only the General Purpose SSD (gp2) ML storage volume type.    Certain Nitro-based instances include local storage with a fixed total size, dependent on the instance type. When using these instances for training, SageMaker mounts the local instance storage instead of Amazon EBS gp2 storage. You can't request a VolumeSizeInGB greater than the total size of the local instance storage. For a list of instance types that support local instance storage, including the total size per instance type, see Instance Store Volumes. 
      */
     VolumeSizeInGB: VolumeSizeInGB;
     /**
-     * The Amazon Web Services KMS key that Amazon SageMaker uses to encrypt data on the storage volume attached to the ML compute instance(s) that run the training job.  Certain Nitro-based instances include local storage, dependent on the instance type. Local storage volumes are encrypted using a hardware module on the instance. You can't request a VolumeKmsKeyId when using an instance type with local storage. For a list of instance types that support local instance storage, see Instance Store Volumes. For more information about local instance storage encryption, see SSD Instance Store Volumes.  The VolumeKmsKeyId can be in any of the following formats:   // KMS Key ID  "1234abcd-12ab-34cd-56ef-1234567890ab"    // Amazon Resource Name (ARN) of a KMS Key  "arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab"   
+     * The Amazon Web Services KMS key that SageMaker uses to encrypt data on the storage volume attached to the ML compute instance(s) that run the training job.  Certain Nitro-based instances include local storage, dependent on the instance type. Local storage volumes are encrypted using a hardware module on the instance. You can't request a VolumeKmsKeyId when using an instance type with local storage. For a list of instance types that support local instance storage, see Instance Store Volumes. For more information about local instance storage encryption, see SSD Instance Store Volumes.  The VolumeKmsKeyId can be in any of the following formats:   // KMS Key ID  "1234abcd-12ab-34cd-56ef-1234567890ab"    // Amazon Resource Name (ARN) of a KMS Key  "arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab"   
      */
     VolumeKmsKeyId?: KmsKeyId;
+    /**
+     * The configuration of a heterogeneous cluster in JSON format.
+     */
+    InstanceGroups?: InstanceGroups;
   }
   export type ResourceId = string;
   export interface ResourceLimits {
@@ -15405,7 +16158,7 @@ declare namespace SageMaker {
      */
     SageMakerImageVersionArn?: ImageVersionArn;
     /**
-     * The instance type that the image version runs on.
+     * The instance type that the image version runs on.   JupyterServer apps only support the system value. For KernelGateway apps, the system value is translated to ml.t3.medium. KernelGateway apps also support all other values for available instance types. 
      */
     InstanceType?: AppInstanceType;
     /**
@@ -15413,7 +16166,7 @@ declare namespace SageMaker {
      */
     LifecycleConfigArn?: StudioLifecycleConfigArn;
   }
-  export type ResourceType = "TrainingJob"|"Experiment"|"ExperimentTrial"|"ExperimentTrialComponent"|"Endpoint"|"ModelPackage"|"ModelPackageGroup"|"Pipeline"|"PipelineExecution"|"FeatureGroup"|"Project"|string;
+  export type ResourceType = "TrainingJob"|"Experiment"|"ExperimentTrial"|"ExperimentTrialComponent"|"Endpoint"|"ModelPackage"|"ModelPackageGroup"|"Pipeline"|"PipelineExecution"|"FeatureGroup"|"Project"|"FeatureMetadata"|string;
   export type ResponseMIMEType = string;
   export type ResponseMIMETypes = ResponseMIMEType[];
   export interface RetentionPolicy {
@@ -15457,21 +16210,25 @@ declare namespace SageMaker {
   export type S3DataDistribution = "FullyReplicated"|"ShardedByS3Key"|string;
   export interface S3DataSource {
     /**
-     * If you choose S3Prefix, S3Uri identifies a key name prefix. Amazon SageMaker uses all objects that match the specified key name prefix for model training.  If you choose ManifestFile, S3Uri identifies an object that is a manifest file containing a list of object keys that you want Amazon SageMaker to use for model training.  If you choose AugmentedManifestFile, S3Uri identifies an object that is an augmented manifest file in JSON lines format. This file contains the data you want to use for model training. AugmentedManifestFile can only be used if the Channel's input mode is Pipe.
+     * If you choose S3Prefix, S3Uri identifies a key name prefix. SageMaker uses all objects that match the specified key name prefix for model training.  If you choose ManifestFile, S3Uri identifies an object that is a manifest file containing a list of object keys that you want SageMaker to use for model training.  If you choose AugmentedManifestFile, S3Uri identifies an object that is an augmented manifest file in JSON lines format. This file contains the data you want to use for model training. AugmentedManifestFile can only be used if the Channel's input mode is Pipe.
      */
     S3DataType: S3DataType;
     /**
-     * Depending on the value specified for the S3DataType, identifies either a key name prefix or a manifest. For example:     A key name prefix might look like this: s3://bucketname/exampleprefix     A manifest might look like this: s3://bucketname/example.manifest   A manifest is an S3 object which is a JSON file consisting of an array of elements. The first element is a prefix which is followed by one or more suffixes. SageMaker appends the suffix elements to the prefix to get a full set of S3Uri. Note that the prefix must be a valid non-empty S3Uri that precludes users from specifying a manifest whose individual S3Uri is sourced from different S3 buckets.  The following code example shows a valid manifest format:   [ {"prefix": "s3://customer_bucket/some/prefix/"},    "relative/path/to/custdata-1",    "relative/path/custdata-2",    ...    "relative/path/custdata-N"   ]   This JSON is equivalent to the following S3Uri list:  s3://customer_bucket/some/prefix/relative/path/to/custdata-1   s3://customer_bucket/some/prefix/relative/path/custdata-2   ...   s3://customer_bucket/some/prefix/relative/path/custdata-N  The complete set of S3Uri in this manifest is the input data for the channel for this data source. The object that each S3Uri points to must be readable by the IAM role that Amazon SageMaker uses to perform tasks on your behalf.   
+     * Depending on the value specified for the S3DataType, identifies either a key name prefix or a manifest. For example:     A key name prefix might look like this: s3://bucketname/exampleprefix     A manifest might look like this: s3://bucketname/example.manifest   A manifest is an S3 object which is a JSON file consisting of an array of elements. The first element is a prefix which is followed by one or more suffixes. SageMaker appends the suffix elements to the prefix to get a full set of S3Uri. Note that the prefix must be a valid non-empty S3Uri that precludes users from specifying a manifest whose individual S3Uri is sourced from different S3 buckets.  The following code example shows a valid manifest format:   [ {"prefix": "s3://customer_bucket/some/prefix/"},    "relative/path/to/custdata-1",    "relative/path/custdata-2",    ...    "relative/path/custdata-N"   ]   This JSON is equivalent to the following S3Uri list:  s3://customer_bucket/some/prefix/relative/path/to/custdata-1   s3://customer_bucket/some/prefix/relative/path/custdata-2   ...   s3://customer_bucket/some/prefix/relative/path/custdata-N  The complete set of S3Uri in this manifest is the input data for the channel for this data source. The object that each S3Uri points to must be readable by the IAM role that SageMaker uses to perform tasks on your behalf.   
      */
     S3Uri: S3Uri;
     /**
-     * If you want Amazon SageMaker to replicate the entire dataset on each ML compute instance that is launched for model training, specify FullyReplicated.  If you want Amazon SageMaker to replicate a subset of data on each ML compute instance that is launched for model training, specify ShardedByS3Key. If there are n ML compute instances launched for a training job, each instance gets approximately 1/n of the number of S3 objects. In this case, model training on each machine uses only the subset of training data.  Don't choose more ML compute instances for training than available S3 objects. If you do, some nodes won't get any data and you will pay for nodes that aren't getting any training data. This applies in both File and Pipe modes. Keep this in mind when developing algorithms.  In distributed training, where you use multiple ML compute EC2 instances, you might choose ShardedByS3Key. If the algorithm requires copying training data to the ML storage volume (when TrainingInputMode is set to File), this copies 1/n of the number of objects. 
+     * If you want SageMaker to replicate the entire dataset on each ML compute instance that is launched for model training, specify FullyReplicated.  If you want SageMaker to replicate a subset of data on each ML compute instance that is launched for model training, specify ShardedByS3Key. If there are n ML compute instances launched for a training job, each instance gets approximately 1/n of the number of S3 objects. In this case, model training on each machine uses only the subset of training data.  Don't choose more ML compute instances for training than available S3 objects. If you do, some nodes won't get any data and you will pay for nodes that aren't getting any training data. This applies in both File and Pipe modes. Keep this in mind when developing algorithms.  In distributed training, where you use multiple ML compute EC2 instances, you might choose ShardedByS3Key. If the algorithm requires copying training data to the ML storage volume (when TrainingInputMode is set to File), this copies 1/n of the number of objects. 
      */
     S3DataDistributionType?: S3DataDistribution;
     /**
      * A list of one or more attribute names to use that are found in a specified augmented manifest file.
      */
     AttributeNames?: AttributeNames;
+    /**
+     * A list of names of instance groups that get data from the S3 data source.
+     */
+    InstanceGroupNames?: InstanceGroupNames;
   }
   export type S3DataType = "ManifestFile"|"S3Prefix"|"AugmentedManifestFile"|string;
   export interface S3StorageConfig {
@@ -15545,6 +16302,10 @@ declare namespace SageMaker {
      * The properties of a project.
      */
     Project?: Project;
+    /**
+     * The feature metadata used to search through the features.
+     */
+    FeatureMetadata?: FeatureMetadata;
   }
   export interface SearchRequest {
     /**
@@ -15599,7 +16360,7 @@ declare namespace SageMaker {
      */
     EndTime?: Timestamp;
     /**
-     * A detailed description of the progress within a secondary status.  Amazon SageMaker provides secondary statuses and status messages that apply to each of them:  Starting    Starting the training job.   Launching requested ML instances.   Insufficient capacity error from EC2 while launching instances, retrying!   Launched instance was unhealthy, replacing it!   Preparing the instances for training.    Training    Downloading the training image.   Training image download completed. Training in progress.      Status messages are subject to change. Therefore, we recommend not including them in code that programmatically initiates actions. For examples, don't use status messages in if statements.  To have an overview of your training job's progress, view TrainingJobStatus and SecondaryStatus in DescribeTrainingJob, and StatusMessage together. For example, at the start of a training job, you might see the following:    TrainingJobStatus - InProgress    SecondaryStatus - Training    StatusMessage - Downloading the training image  
+     * A detailed description of the progress within a secondary status.  SageMaker provides secondary statuses and status messages that apply to each of them:  Starting    Starting the training job.   Launching requested ML instances.   Insufficient capacity error from EC2 while launching instances, retrying!   Launched instance was unhealthy, replacing it!   Preparing the instances for training.    Training    Downloading the training image.   Training image download completed. Training in progress.      Status messages are subject to change. Therefore, we recommend not including them in code that programmatically initiates actions. For examples, don't use status messages in if statements.  To have an overview of your training job's progress, view TrainingJobStatus and SecondaryStatus in DescribeTrainingJob, and StatusMessage together. For example, at the start of a training job, you might see the following:    TrainingJobStatus - InProgress    SecondaryStatus - Training    StatusMessage - Downloading the training image  
      */
     StatusMessage?: StatusMessage;
   }
@@ -15730,7 +16491,7 @@ declare namespace SageMaker {
      */
     ModelDataUrl?: Url;
     /**
-     * The name of an algorithm that was used to create the model package. The algorithm must be either an algorithm resource in your Amazon SageMaker account or an algorithm in Amazon Web Services Marketplace that you are subscribed to.
+     * The name of an algorithm that was used to create the model package. The algorithm must be either an algorithm resource in your SageMaker account or an algorithm in Amazon Web Services Marketplace that you are subscribed to.
      */
     AlgorithmName: ArnOrName;
   }
@@ -15751,6 +16512,17 @@ declare namespace SageMaker {
   export type SourceUri = string;
   export type SpawnRate = number;
   export type SplitType = "None"|"Line"|"RecordIO"|"TFRecord"|string;
+  export type StageStatus = "CREATING"|"READYTODEPLOY"|"STARTING"|"INPROGRESS"|"DEPLOYED"|"FAILED"|"STOPPING"|"STOPPED"|string;
+  export interface StartEdgeDeploymentStageRequest {
+    /**
+     * The name of the edge deployment plan to start.
+     */
+    EdgeDeploymentPlanName: EntityName;
+    /**
+     * The name of the stage to start.
+     */
+    StageName: EntityName;
+  }
   export interface StartMonitoringScheduleRequest {
     /**
      * The name of the schedule to start.
@@ -15812,6 +16584,16 @@ declare namespace SageMaker {
      * The name of the model compilation job to stop.
      */
     CompilationJobName: EntityName;
+  }
+  export interface StopEdgeDeploymentStageRequest {
+    /**
+     * The name of the edge deployment plan to stop.
+     */
+    EdgeDeploymentPlanName: EntityName;
+    /**
+     * The name of the stage to stop.
+     */
+    StageName: EntityName;
   }
   export interface StopEdgePackagingJobRequest {
     /**
@@ -15885,11 +16667,11 @@ declare namespace SageMaker {
   }
   export interface StoppingCondition {
     /**
-     * The maximum length of time, in seconds, that a training or compilation job can run. For compilation jobs, if the job does not complete during this time, you will receive a TimeOut error. We recommend starting with 900 seconds and increase as necessary based on your model. For all other jobs, if the job does not complete during this time, Amazon SageMaker ends the job. When RetryStrategy is specified in the job request, MaxRuntimeInSeconds specifies the maximum time for all of the attempts in total, not each individual attempt. The default value is 1 day. The maximum value is 28 days.
+     * The maximum length of time, in seconds, that a training or compilation job can run. For compilation jobs, if the job does not complete during this time, a TimeOut error is generated. We recommend starting with 900 seconds and increasing as necessary based on your model. For all other jobs, if the job does not complete during this time, SageMaker ends the job. When RetryStrategy is specified in the job request, MaxRuntimeInSeconds specifies the maximum time for all of the attempts in total, not each individual attempt. The default value is 1 day. The maximum value is 28 days.
      */
     MaxRuntimeInSeconds?: MaxRuntimeInSeconds;
     /**
-     * The maximum length of time, in seconds, that a managed Spot training job has to complete. It is the amount of time spent waiting for Spot capacity plus the amount of time the job can run. It must be equal to or greater than MaxRuntimeInSeconds. If the job does not complete during this time, Amazon SageMaker ends the job. When RetryStrategy is specified in the job request, MaxWaitTimeInSeconds specifies the maximum time for all of the attempts in total, not each individual attempt.
+     * The maximum length of time, in seconds, that a managed Spot training job has to complete. It is the amount of time spent waiting for Spot capacity plus the amount of time the job can run. It must be equal to or greater than MaxRuntimeInSeconds. If the job does not complete during this time, SageMaker ends the job. When RetryStrategy is specified in the job request, MaxWaitTimeInSeconds specifies the maximum time for all of the attempts in total, not each individual attempt.
      */
     MaxWaitTimeInSeconds?: MaxWaitTimeInSeconds;
   }
@@ -16098,7 +16880,7 @@ declare namespace SageMaker {
      */
     TrainingJobStatus?: TrainingJobStatus;
     /**
-     *  Provides detailed information about the state of the training job. For detailed information about the secondary status of the training job, see StatusMessage under SecondaryStatusTransition. Amazon SageMaker provides primary statuses and secondary statuses that apply to each of them:  InProgress     Starting - Starting the training job.    Downloading - An optional stage for algorithms that support File training input mode. It indicates that data is being downloaded to the ML storage volumes.    Training - Training is in progress.    Uploading - Training is complete and the model artifacts are being uploaded to the S3 location.    Completed     Completed - The training job has completed.    Failed     Failed - The training job has failed. The reason for the failure is returned in the FailureReason field of DescribeTrainingJobResponse.    Stopped     MaxRuntimeExceeded - The job stopped because it exceeded the maximum allowed runtime.    Stopped - The training job has stopped.    Stopping     Stopping - Stopping the training job.      Valid values for SecondaryStatus are subject to change.   We no longer support the following secondary statuses:    LaunchingMLInstances     PreparingTrainingStack     DownloadingTrainingImage   
+     *  Provides detailed information about the state of the training job. For detailed information about the secondary status of the training job, see StatusMessage under SecondaryStatusTransition. SageMaker provides primary statuses and secondary statuses that apply to each of them:  InProgress     Starting - Starting the training job.    Downloading - An optional stage for algorithms that support File training input mode. It indicates that data is being downloaded to the ML storage volumes.    Training - Training is in progress.    Uploading - Training is complete and the model artifacts are being uploaded to the S3 location.    Completed     Completed - The training job has completed.    Failed     Failed - The training job has failed. The reason for the failure is returned in the FailureReason field of DescribeTrainingJobResponse.    Stopped     MaxRuntimeExceeded - The job stopped because it exceeded the maximum allowed runtime.    Stopped - The training job has stopped.    Stopping     Stopping - Stopping the training job.      Valid values for SecondaryStatus are subject to change.   We no longer support the following secondary statuses:    LaunchingMLInstances     PreparingTrainingStack     DownloadingTrainingImage   
      */
     SecondaryStatus?: SecondaryStatus;
     /**
@@ -16122,7 +16904,7 @@ declare namespace SageMaker {
      */
     InputDataConfig?: InputDataConfig;
     /**
-     * The S3 path where model artifacts that you configured when creating the job are stored. Amazon SageMaker creates subfolders for model artifacts.
+     * The S3 path where model artifacts that you configured when creating the job are stored. SageMaker creates subfolders for model artifacts.
      */
     OutputDataConfig?: OutputDataConfig;
     /**
@@ -16134,7 +16916,7 @@ declare namespace SageMaker {
      */
     VpcConfig?: VpcConfig;
     /**
-     * Specifies a limit to how long a model training job can run. It also specifies how long a managed Spot training job has to complete. When the job reaches the time limit, Amazon SageMaker ends the training job. Use this API to cap model training costs. To stop a job, Amazon SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms can use this 120-second window to save the model artifacts, so the results of training are not lost. 
+     * Specifies a limit to how long a model training job can run. It also specifies how long a managed Spot training job has to complete. When the job reaches the time limit, SageMaker ends the training job. Use this API to cap model training costs. To stop a job, SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms can use this 120-second window to save the model artifacts, so the results of training are not lost. 
      */
     StoppingCondition?: StoppingCondition;
     /**
@@ -16146,7 +16928,7 @@ declare namespace SageMaker {
      */
     TrainingStartTime?: Timestamp;
     /**
-     * Indicates the time when the training job ends on training instances. You are billed for the time interval between the value of TrainingStartTime and this time. For successful jobs and stopped jobs, this is the time after model artifacts are uploaded. For failed jobs, this is the time when Amazon SageMaker detects a job failure.
+     * Indicates the time when the training job ends on training instances. You are billed for the time interval between the value of TrainingStartTime and this time. For successful jobs and stopped jobs, this is the time after model artifacts are uploaded. For failed jobs, this is the time when SageMaker detects a job failure.
      */
     TrainingEndTime?: Timestamp;
     /**
@@ -16218,7 +17000,7 @@ declare namespace SageMaker {
      */
     InputDataConfig: InputDataConfig;
     /**
-     * the path to the S3 bucket where you want to store model artifacts. Amazon SageMaker creates subfolders for the artifacts.
+     * the path to the S3 bucket where you want to store model artifacts. SageMaker creates subfolders for the artifacts.
      */
     OutputDataConfig: OutputDataConfig;
     /**
@@ -16226,7 +17008,7 @@ declare namespace SageMaker {
      */
     ResourceConfig: ResourceConfig;
     /**
-     * Specifies a limit to how long a model training job can run. It also specifies how long a managed Spot training job has to complete. When the job reaches the time limit, Amazon SageMaker ends the training job. Use this API to cap model training costs. To stop a job, Amazon SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms can use this 120-second window to save the model artifacts.
+     * Specifies a limit to how long a model training job can run. It also specifies how long a managed Spot training job has to complete. When the job reaches the time limit, SageMaker ends the training job. Use this API to cap model training costs. To stop a job, SageMaker sends the algorithm the SIGTERM signal, which delays job termination for 120 seconds. Algorithms can use this 120-second window to save the model artifacts.
      */
     StoppingCondition: StoppingCondition;
   }
@@ -17098,7 +17880,7 @@ declare namespace SageMaker {
   }
   export interface UpdateEndpointWeightsAndCapacitiesInput {
     /**
-     * The name of an existing Amazon SageMaker endpoint.
+     * The name of an existing SageMaker endpoint.
      */
     EndpointName: EndpointName;
     /**
@@ -17131,6 +17913,44 @@ declare namespace SageMaker {
      * The Amazon Resource Name (ARN) of the experiment.
      */
     ExperimentArn?: ExperimentArn;
+  }
+  export interface UpdateFeatureGroupRequest {
+    /**
+     * The name of the feature group that you're updating.
+     */
+    FeatureGroupName: FeatureGroupName;
+    /**
+     * A list of the features that you're adding to the feature group.
+     */
+    FeatureAdditions?: FeatureAdditions;
+  }
+  export interface UpdateFeatureGroupResponse {
+    /**
+     * The Amazon Resource Number (ARN) of the feature group that you're updating.
+     */
+    FeatureGroupArn: FeatureGroupArn;
+  }
+  export interface UpdateFeatureMetadataRequest {
+    /**
+     * The name of the feature group containing the feature that you're updating.
+     */
+    FeatureGroupName: FeatureGroupName;
+    /**
+     * The name of the feature that you're updating.
+     */
+    FeatureName: FeatureName;
+    /**
+     * A description that you can write to better describe the feature.
+     */
+    Description?: FeatureDescription;
+    /**
+     * A list of key-value pairs that you can add to better describe the feature.
+     */
+    ParameterAdditions?: FeatureParameterAdditions;
+    /**
+     * A list of parameter keys that you can specify to remove parameters that describe your feature.
+     */
+    ParameterRemovals?: FeatureParameterRemovals;
   }
   export interface UpdateImageRequest {
     /**
@@ -17218,7 +18038,7 @@ declare namespace SageMaker {
      */
     InstanceType?: InstanceType;
     /**
-     * The Amazon Resource Name (ARN) of the IAM role that Amazon SageMaker can assume to access the notebook instance. For more information, see Amazon SageMaker Roles.   To be able to pass this role to Amazon SageMaker, the caller of this API must have the iam:PassRole permission. 
+     * The Amazon Resource Name (ARN) of the IAM role that SageMaker can assume to access the notebook instance. For more information, see SageMaker Roles.   To be able to pass this role to SageMaker, the caller of this API must have the iam:PassRole permission. 
      */
     RoleArn?: RoleArn;
     /**
@@ -17230,15 +18050,15 @@ declare namespace SageMaker {
      */
     DisassociateLifecycleConfig?: DisassociateNotebookInstanceLifecycleConfig;
     /**
-     * The size, in GB, of the ML storage volume to attach to the notebook instance. The default value is 5 GB. ML storage volumes are encrypted, so Amazon SageMaker can't determine the amount of available free space on the volume. Because of this, you can increase the volume size when you update a notebook instance, but you can't decrease the volume size. If you want to decrease the size of the ML storage volume in use, create a new notebook instance with the desired size.
+     * The size, in GB, of the ML storage volume to attach to the notebook instance. The default value is 5 GB. ML storage volumes are encrypted, so SageMaker can't determine the amount of available free space on the volume. Because of this, you can increase the volume size when you update a notebook instance, but you can't decrease the volume size. If you want to decrease the size of the ML storage volume in use, create a new notebook instance with the desired size.
      */
     VolumeSizeInGB?: NotebookInstanceVolumeSizeInGB;
     /**
-     * The Git repository to associate with the notebook instance as its default code repository. This can be either the name of a Git repository stored as a resource in your account, or the URL of a Git repository in Amazon Web Services CodeCommit or in any other Git repository. When you open a notebook instance, it opens in the directory that contains this repository. For more information, see Associating Git Repositories with Amazon SageMaker Notebook Instances.
+     * The Git repository to associate with the notebook instance as its default code repository. This can be either the name of a Git repository stored as a resource in your account, or the URL of a Git repository in Amazon Web Services CodeCommit or in any other Git repository. When you open a notebook instance, it opens in the directory that contains this repository. For more information, see Associating Git Repositories with SageMaker Notebook Instances.
      */
     DefaultCodeRepository?: CodeRepositoryNameOrUrl;
     /**
-     * An array of up to three Git repositories to associate with the notebook instance. These can be either the names of Git repositories stored as resources in your account, or the URL of Git repositories in Amazon Web Services CodeCommit or in any other Git repository. These repositories are cloned at the same level as the default repository of your notebook instance. For more information, see Associating Git Repositories with Amazon SageMaker Notebook Instances.
+     * An array of up to three Git repositories to associate with the notebook instance. These can be either the names of Git repositories stored as resources in your account, or the URL of Git repositories in Amazon Web Services CodeCommit or in any other Git repository. These repositories are cloned at the same level as the default repository of your notebook instance. For more information, see Associating Git Repositories with SageMaker Notebook Instances.
      */
     AdditionalCodeRepositories?: AdditionalCodeRepositoryNamesOrUrls;
     /**
@@ -17261,6 +18081,10 @@ declare namespace SageMaker {
      * Whether root access is enabled or disabled for users of the notebook instance. The default value is Enabled.  If you set this to Disabled, users don't have root access on the notebook instance, but lifecycle configuration scripts still run with root permissions. 
      */
     RootAccess?: RootAccess;
+    /**
+     * Information on the IMDS configuration of the notebook instance
+     */
+    InstanceMetadataServiceConfiguration?: InstanceMetadataServiceConfiguration;
   }
   export interface UpdateNotebookInstanceLifecycleConfigInput {
     /**
@@ -17485,6 +18309,10 @@ declare namespace SageMaker {
      * Use this parameter to update your OIDC Identity Provider (IdP) configuration for a workforce made using your own IdP.
      */
     OidcConfig?: OidcConfig;
+    /**
+     * Use this parameter to update your VPC configuration for a workforce.
+     */
+    WorkforceVpcConfig?: WorkforceVpcConfigRequest;
   }
   export interface UpdateWorkforceResponse {
     /**
@@ -17592,6 +18420,7 @@ declare namespace SageMaker {
      */
     RSessionAppSettings?: RSessionAppSettings;
   }
+  export type ValidationFraction = number;
   export type VariantName = string;
   export interface VariantProperty {
     /**
@@ -17668,9 +18497,61 @@ declare namespace SageMaker {
      * The date that the workforce is created.
      */
     CreateDate?: Timestamp;
+    /**
+     * The configuration of a VPC workforce.
+     */
+    WorkforceVpcConfig?: WorkforceVpcConfigResponse;
+    /**
+     * The status of your workforce.
+     */
+    Status?: WorkforceStatus;
+    /**
+     * The reason your workforce failed.
+     */
+    FailureReason?: WorkforceFailureReason;
   }
   export type WorkforceArn = string;
+  export type WorkforceFailureReason = string;
   export type WorkforceName = string;
+  export type WorkforceSecurityGroupId = string;
+  export type WorkforceSecurityGroupIds = WorkforceSecurityGroupId[];
+  export type WorkforceStatus = "Initializing"|"Updating"|"Deleting"|"Failed"|"Active"|string;
+  export type WorkforceSubnetId = string;
+  export type WorkforceSubnets = WorkforceSubnetId[];
+  export interface WorkforceVpcConfigRequest {
+    /**
+     * The ID of the VPC that the workforce uses for communication.
+     */
+    VpcId?: WorkforceVpcId;
+    /**
+     * The VPC security group IDs, in the form sg-xxxxxxxx. The security groups must be for the same VPC as specified in the subnet.
+     */
+    SecurityGroupIds?: WorkforceSecurityGroupIds;
+    /**
+     * The ID of the subnets in the VPC that you want to connect.
+     */
+    Subnets?: WorkforceSubnets;
+  }
+  export interface WorkforceVpcConfigResponse {
+    /**
+     * The ID of the VPC that the workforce uses for communication.
+     */
+    VpcId: WorkforceVpcId;
+    /**
+     * The VPC security group IDs, in the form sg-xxxxxxxx. The security groups must be for the same VPC as specified in the subnet.
+     */
+    SecurityGroupIds: WorkforceSecurityGroupIds;
+    /**
+     * The ID of the subnets in the VPC that you want to connect.
+     */
+    Subnets: WorkforceSubnets;
+    /**
+     * The IDs for the VPC service endpoints of your VPC workforce when it is created and updated.
+     */
+    VpcEndpointId?: WorkforceVpcEndpointId;
+  }
+  export type WorkforceVpcEndpointId = string;
+  export type WorkforceVpcId = string;
   export type Workforces = Workforce[];
   export interface Workteam {
     /**

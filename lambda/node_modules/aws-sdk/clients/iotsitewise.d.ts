@@ -45,6 +45,30 @@ declare class IoTSiteWise extends Service {
    */
   batchDisassociateProjectAssets(callback?: (err: AWSError, data: IoTSiteWise.Types.BatchDisassociateProjectAssetsResponse) => void): Request<IoTSiteWise.Types.BatchDisassociateProjectAssetsResponse, AWSError>;
   /**
+   * Gets aggregated values (for example, average, minimum, and maximum) for one or more asset properties. For more information, see Querying aggregates in the IoT SiteWise User Guide.
+   */
+  batchGetAssetPropertyAggregates(params: IoTSiteWise.Types.BatchGetAssetPropertyAggregatesRequest, callback?: (err: AWSError, data: IoTSiteWise.Types.BatchGetAssetPropertyAggregatesResponse) => void): Request<IoTSiteWise.Types.BatchGetAssetPropertyAggregatesResponse, AWSError>;
+  /**
+   * Gets aggregated values (for example, average, minimum, and maximum) for one or more asset properties. For more information, see Querying aggregates in the IoT SiteWise User Guide.
+   */
+  batchGetAssetPropertyAggregates(callback?: (err: AWSError, data: IoTSiteWise.Types.BatchGetAssetPropertyAggregatesResponse) => void): Request<IoTSiteWise.Types.BatchGetAssetPropertyAggregatesResponse, AWSError>;
+  /**
+   * Gets the current value for one or more asset properties. For more information, see Querying current values in the IoT SiteWise User Guide.
+   */
+  batchGetAssetPropertyValue(params: IoTSiteWise.Types.BatchGetAssetPropertyValueRequest, callback?: (err: AWSError, data: IoTSiteWise.Types.BatchGetAssetPropertyValueResponse) => void): Request<IoTSiteWise.Types.BatchGetAssetPropertyValueResponse, AWSError>;
+  /**
+   * Gets the current value for one or more asset properties. For more information, see Querying current values in the IoT SiteWise User Guide.
+   */
+  batchGetAssetPropertyValue(callback?: (err: AWSError, data: IoTSiteWise.Types.BatchGetAssetPropertyValueResponse) => void): Request<IoTSiteWise.Types.BatchGetAssetPropertyValueResponse, AWSError>;
+  /**
+   * Gets the historical values for one or more asset properties. For more information, see Querying historical values in the IoT SiteWise User Guide.
+   */
+  batchGetAssetPropertyValueHistory(params: IoTSiteWise.Types.BatchGetAssetPropertyValueHistoryRequest, callback?: (err: AWSError, data: IoTSiteWise.Types.BatchGetAssetPropertyValueHistoryResponse) => void): Request<IoTSiteWise.Types.BatchGetAssetPropertyValueHistoryResponse, AWSError>;
+  /**
+   * Gets the historical values for one or more asset properties. For more information, see Querying historical values in the IoT SiteWise User Guide.
+   */
+  batchGetAssetPropertyValueHistory(callback?: (err: AWSError, data: IoTSiteWise.Types.BatchGetAssetPropertyValueHistoryResponse) => void): Request<IoTSiteWise.Types.BatchGetAssetPropertyValueHistoryResponse, AWSError>;
+  /**
    * Sends a list of asset property values to IoT SiteWise. Each value is a timestamp-quality-value (TQV) data point. For more information, see Ingesting data using the API in the IoT SiteWise User Guide. To identify an asset property, you must specify one of the following:   The assetId and propertyId of an asset property.   A propertyAlias, which is a data stream alias (for example, /company/windfarm/3/turbine/7/temperature). To define an asset property's alias, see UpdateAssetProperty.    With respect to Unix epoch time, IoT SiteWise accepts only TQVs that have a timestamp of no more than 7 days in the past and no more than 10 minutes in the future. IoT SiteWise rejects timestamps outside of the inclusive range of [-7 days, +10 minutes] and returns a TimestampOutOfRangeException error. For each asset property, IoT SiteWise overwrites TQVs with duplicate timestamps unless the newer TQV has a different quality. For example, if you store a TQV {T1, GOOD, V1}, then storing {T1, GOOD, V2} replaces the existing TQV.  IoT SiteWise authorizes access to each BatchPutAssetPropertyValue entry individually. For more information, see BatchPutAssetPropertyValue authorization in the IoT SiteWise User Guide.
    */
   batchPutAssetPropertyValue(params: IoTSiteWise.Types.BatchPutAssetPropertyValueRequest, callback?: (err: AWSError, data: IoTSiteWise.Types.BatchPutAssetPropertyValueResponse) => void): Request<IoTSiteWise.Types.BatchPutAssetPropertyValueResponse, AWSError>;
@@ -76,6 +100,14 @@ declare class IoTSiteWise extends Service {
    * Creates an asset model from specified property and hierarchy definitions. You create assets from asset models. With asset models, you can easily create assets of the same type that have standardized definitions. Each asset created from a model inherits the asset model's property and hierarchy definitions. For more information, see Defining asset models in the IoT SiteWise User Guide.
    */
   createAssetModel(callback?: (err: AWSError, data: IoTSiteWise.Types.CreateAssetModelResponse) => void): Request<IoTSiteWise.Types.CreateAssetModelResponse, AWSError>;
+  /**
+   *  This API operation is in preview release for IoT SiteWise and is subject to change. We recommend that you use this operation only with test data, and not in production environments.  Defines a job to ingest data to IoT SiteWise from Amazon S3. For more information, see Create a bulk import job (CLI) in the Amazon Simple Storage Service User Guide.  You must enable IoT SiteWise to export data to Amazon S3 before you create a bulk import job. For more information about how to configure storage settings, see PutStorageConfiguration. 
+   */
+  createBulkImportJob(params: IoTSiteWise.Types.CreateBulkImportJobRequest, callback?: (err: AWSError, data: IoTSiteWise.Types.CreateBulkImportJobResponse) => void): Request<IoTSiteWise.Types.CreateBulkImportJobResponse, AWSError>;
+  /**
+   *  This API operation is in preview release for IoT SiteWise and is subject to change. We recommend that you use this operation only with test data, and not in production environments.  Defines a job to ingest data to IoT SiteWise from Amazon S3. For more information, see Create a bulk import job (CLI) in the Amazon Simple Storage Service User Guide.  You must enable IoT SiteWise to export data to Amazon S3 before you create a bulk import job. For more information about how to configure storage settings, see PutStorageConfiguration. 
+   */
+  createBulkImportJob(callback?: (err: AWSError, data: IoTSiteWise.Types.CreateBulkImportJobResponse) => void): Request<IoTSiteWise.Types.CreateBulkImportJobResponse, AWSError>;
   /**
    * Creates a dashboard in an IoT SiteWise Monitor project.
    */
@@ -204,6 +236,14 @@ declare class IoTSiteWise extends Service {
    * Retrieves information about an asset property.  When you call this operation for an attribute property, this response includes the default attribute value that you define in the asset model. If you update the default value in the model, this operation's response includes the new default value.  This operation doesn't return the value of the asset property. To get the value of an asset property, use GetAssetPropertyValue.
    */
   describeAssetProperty(callback?: (err: AWSError, data: IoTSiteWise.Types.DescribeAssetPropertyResponse) => void): Request<IoTSiteWise.Types.DescribeAssetPropertyResponse, AWSError>;
+  /**
+   *  This API operation is in preview release for IoT SiteWise and is subject to change. We recommend that you use this operation only with test data, and not in production environments.  Retrieves information about a bulk import job request. For more information, see Describe a bulk import job (CLI) in the Amazon Simple Storage Service User Guide.
+   */
+  describeBulkImportJob(params: IoTSiteWise.Types.DescribeBulkImportJobRequest, callback?: (err: AWSError, data: IoTSiteWise.Types.DescribeBulkImportJobResponse) => void): Request<IoTSiteWise.Types.DescribeBulkImportJobResponse, AWSError>;
+  /**
+   *  This API operation is in preview release for IoT SiteWise and is subject to change. We recommend that you use this operation only with test data, and not in production environments.  Retrieves information about a bulk import job request. For more information, see Describe a bulk import job (CLI) in the Amazon Simple Storage Service User Guide.
+   */
+  describeBulkImportJob(callback?: (err: AWSError, data: IoTSiteWise.Types.DescribeBulkImportJobResponse) => void): Request<IoTSiteWise.Types.DescribeBulkImportJobResponse, AWSError>;
   /**
    * Retrieves information about a dashboard.
    */
@@ -364,6 +404,14 @@ declare class IoTSiteWise extends Service {
    * Retrieves a paginated list of associated assets. You can use this operation to do the following:   List child assets associated to a parent asset by a hierarchy that you specify.   List an asset's parent asset.  
    */
   listAssociatedAssets(callback?: (err: AWSError, data: IoTSiteWise.Types.ListAssociatedAssetsResponse) => void): Request<IoTSiteWise.Types.ListAssociatedAssetsResponse, AWSError>;
+  /**
+   *  This API operation is in preview release for IoT SiteWise and is subject to change. We recommend that you use this operation only with test data, and not in production environments.  Retrieves a paginated list of bulk import job requests. For more information, see List bulk import jobs (CLI) in the Amazon Simple Storage Service User Guide.
+   */
+  listBulkImportJobs(params: IoTSiteWise.Types.ListBulkImportJobsRequest, callback?: (err: AWSError, data: IoTSiteWise.Types.ListBulkImportJobsResponse) => void): Request<IoTSiteWise.Types.ListBulkImportJobsResponse, AWSError>;
+  /**
+   *  This API operation is in preview release for IoT SiteWise and is subject to change. We recommend that you use this operation only with test data, and not in production environments.  Retrieves a paginated list of bulk import job requests. For more information, see List bulk import jobs (CLI) in the Amazon Simple Storage Service User Guide.
+   */
+  listBulkImportJobs(callback?: (err: AWSError, data: IoTSiteWise.Types.ListBulkImportJobsResponse) => void): Request<IoTSiteWise.Types.ListBulkImportJobsResponse, AWSError>;
   /**
    * Retrieves a paginated list of dashboards for an IoT SiteWise Monitor project.
    */
@@ -983,6 +1031,10 @@ declare namespace IoTSiteWise {
      * A list of asset hierarchies that each contain a hierarchyId. A hierarchy specifies allowed parent/child asset relationships.
      */
     hierarchies: AssetHierarchies;
+    /**
+     * A description for the asset.
+     */
+    description?: Description;
   }
   export interface AssociateAssetsRequest {
     /**
@@ -1054,6 +1106,10 @@ declare namespace IoTSiteWise {
      * A list of asset hierarchies that each contain a hierarchyId. A hierarchy specifies allowed parent/child asset relationships.
      */
     hierarchies: AssetHierarchies;
+    /**
+     * A description for the asset.
+     */
+    description?: Description;
   }
   export interface Attribute {
     /**
@@ -1104,6 +1160,351 @@ declare namespace IoTSiteWise {
      */
     errors?: BatchDisassociateProjectAssetsErrors;
   }
+  export type BatchEntryCompletionStatus = "SUCCESS"|"ERROR"|string;
+  export type BatchGetAssetPropertyAggregatesEntries = BatchGetAssetPropertyAggregatesEntry[];
+  export interface BatchGetAssetPropertyAggregatesEntry {
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+    /**
+     * The ID of the asset in which the asset property was created.
+     */
+    assetId?: ID;
+    /**
+     * The ID of the asset property.
+     */
+    propertyId?: ID;
+    /**
+     * The alias that identifies the property, such as an OPC-UA server data stream path (for example, /company/windfarm/3/turbine/7/temperature). For more information, see Mapping industrial data streams to asset properties in the IoT SiteWise User Guide.
+     */
+    propertyAlias?: AssetPropertyAlias;
+    /**
+     * The data aggregating function.
+     */
+    aggregateTypes: AggregateTypes;
+    /**
+     * The time interval over which to aggregate data.
+     */
+    resolution: Resolution;
+    /**
+     * The exclusive start of the range from which to query historical data, expressed in seconds in Unix epoch time.
+     */
+    startDate: Timestamp;
+    /**
+     * The inclusive end of the range from which to query historical data, expressed in seconds in Unix epoch time.
+     */
+    endDate: Timestamp;
+    /**
+     * The quality by which to filter asset data.
+     */
+    qualities?: Qualities;
+    /**
+     * The chronological sorting order of the requested information. Default: ASCENDING 
+     */
+    timeOrdering?: TimeOrdering;
+  }
+  export type BatchGetAssetPropertyAggregatesErrorCode = "ResourceNotFoundException"|"InvalidRequestException"|"AccessDeniedException"|string;
+  export type BatchGetAssetPropertyAggregatesErrorEntries = BatchGetAssetPropertyAggregatesErrorEntry[];
+  export interface BatchGetAssetPropertyAggregatesErrorEntry {
+    /**
+     * The error code.
+     */
+    errorCode: BatchGetAssetPropertyAggregatesErrorCode;
+    /**
+     * The associated error message.
+     */
+    errorMessage: ErrorMessage;
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+  }
+  export interface BatchGetAssetPropertyAggregatesErrorInfo {
+    /**
+     * The error code.
+     */
+    errorCode: BatchGetAssetPropertyAggregatesErrorCode;
+    /**
+     * The date the error occurred, in Unix epoch time.
+     */
+    errorTimestamp: Timestamp;
+  }
+  export type BatchGetAssetPropertyAggregatesMaxResults = number;
+  export interface BatchGetAssetPropertyAggregatesRequest {
+    /**
+     * The list of asset property aggregate entries for the batch get request. You can specify up to 16 entries per request.
+     */
+    entries: BatchGetAssetPropertyAggregatesEntries;
+    /**
+     * The token to be used for the next set of paginated results.
+     */
+    nextToken?: NextToken;
+    /**
+     * The maximum number of results to return for each paginated request. A result set is returned in the two cases, whichever occurs first.   The size of the result set is less than 1 MB.   The number of data points in the result set is less than the value of maxResults. The maximum value of maxResults is 4000.  
+     */
+    maxResults?: BatchGetAssetPropertyAggregatesMaxResults;
+  }
+  export interface BatchGetAssetPropertyAggregatesResponse {
+    /**
+     * A list of the errors (if any) associated with the batch request. Each error entry contains the entryId of the entry that failed.
+     */
+    errorEntries: BatchGetAssetPropertyAggregatesErrorEntries;
+    /**
+     * A list of entries that were processed successfully by this batch request. Each success entry contains the entryId of the entry that succeeded and the latest query result.
+     */
+    successEntries: BatchGetAssetPropertyAggregatesSuccessEntries;
+    /**
+     * A list of entries that were not processed by this batch request. because these entries had been completely processed by previous paginated requests. Each skipped entry contains the entryId of the entry that skipped.
+     */
+    skippedEntries: BatchGetAssetPropertyAggregatesSkippedEntries;
+    /**
+     * The token for the next set of results, or null if there are no additional results.
+     */
+    nextToken?: NextToken;
+  }
+  export type BatchGetAssetPropertyAggregatesSkippedEntries = BatchGetAssetPropertyAggregatesSkippedEntry[];
+  export interface BatchGetAssetPropertyAggregatesSkippedEntry {
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+    /**
+     * The completion status of each entry that is associated with the BatchGetAssetPropertyAggregates API.
+     */
+    completionStatus: BatchEntryCompletionStatus;
+    /**
+     * The error information, such as the error code and the timestamp.
+     */
+    errorInfo?: BatchGetAssetPropertyAggregatesErrorInfo;
+  }
+  export type BatchGetAssetPropertyAggregatesSuccessEntries = BatchGetAssetPropertyAggregatesSuccessEntry[];
+  export interface BatchGetAssetPropertyAggregatesSuccessEntry {
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+    /**
+     * The requested aggregated asset property values (for example, average, minimum, and maximum).
+     */
+    aggregatedValues: AggregatedValues;
+  }
+  export type BatchGetAssetPropertyValueEntries = BatchGetAssetPropertyValueEntry[];
+  export interface BatchGetAssetPropertyValueEntry {
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+    /**
+     * The ID of the asset in which the asset property was created.
+     */
+    assetId?: ID;
+    /**
+     * The ID of the asset property.
+     */
+    propertyId?: ID;
+    /**
+     * The alias that identifies the property, such as an OPC-UA server data stream path (for example, /company/windfarm/3/turbine/7/temperature). For more information, see Mapping industrial data streams to asset properties in the IoT SiteWise User Guide.
+     */
+    propertyAlias?: AssetPropertyAlias;
+  }
+  export type BatchGetAssetPropertyValueErrorCode = "ResourceNotFoundException"|"InvalidRequestException"|"AccessDeniedException"|string;
+  export type BatchGetAssetPropertyValueErrorEntries = BatchGetAssetPropertyValueErrorEntry[];
+  export interface BatchGetAssetPropertyValueErrorEntry {
+    /**
+     * The error code.
+     */
+    errorCode: BatchGetAssetPropertyValueErrorCode;
+    /**
+     * The associated error message.
+     */
+    errorMessage: ErrorMessage;
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+  }
+  export interface BatchGetAssetPropertyValueErrorInfo {
+    /**
+     * The error code.
+     */
+    errorCode: BatchGetAssetPropertyValueErrorCode;
+    /**
+     * The date the error occurred, in Unix epoch time.
+     */
+    errorTimestamp: Timestamp;
+  }
+  export type BatchGetAssetPropertyValueHistoryEntries = BatchGetAssetPropertyValueHistoryEntry[];
+  export interface BatchGetAssetPropertyValueHistoryEntry {
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+    /**
+     * The ID of the asset in which the asset property was created.
+     */
+    assetId?: ID;
+    /**
+     * The ID of the asset property.
+     */
+    propertyId?: ID;
+    /**
+     * The alias that identifies the property, such as an OPC-UA server data stream path (for example, /company/windfarm/3/turbine/7/temperature). For more information, see Mapping industrial data streams to asset properties in the IoT SiteWise User Guide.
+     */
+    propertyAlias?: AssetPropertyAlias;
+    /**
+     * The exclusive start of the range from which to query historical data, expressed in seconds in Unix epoch time.
+     */
+    startDate?: Timestamp;
+    /**
+     * The inclusive end of the range from which to query historical data, expressed in seconds in Unix epoch time.
+     */
+    endDate?: Timestamp;
+    /**
+     * The quality by which to filter asset data.
+     */
+    qualities?: Qualities;
+    /**
+     * The chronological sorting order of the requested information. Default: ASCENDING 
+     */
+    timeOrdering?: TimeOrdering;
+  }
+  export type BatchGetAssetPropertyValueHistoryErrorCode = "ResourceNotFoundException"|"InvalidRequestException"|"AccessDeniedException"|string;
+  export type BatchGetAssetPropertyValueHistoryErrorEntries = BatchGetAssetPropertyValueHistoryErrorEntry[];
+  export interface BatchGetAssetPropertyValueHistoryErrorEntry {
+    /**
+     * The error code.
+     */
+    errorCode: BatchGetAssetPropertyValueHistoryErrorCode;
+    /**
+     * The associated error message.
+     */
+    errorMessage: ErrorMessage;
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+  }
+  export interface BatchGetAssetPropertyValueHistoryErrorInfo {
+    /**
+     * The error code.
+     */
+    errorCode: BatchGetAssetPropertyValueHistoryErrorCode;
+    /**
+     * The date the error occurred, in Unix epoch time.
+     */
+    errorTimestamp: Timestamp;
+  }
+  export type BatchGetAssetPropertyValueHistoryMaxResults = number;
+  export interface BatchGetAssetPropertyValueHistoryRequest {
+    /**
+     * The list of asset property historical value entries for the batch get request. You can specify up to 16 entries per request.
+     */
+    entries: BatchGetAssetPropertyValueHistoryEntries;
+    /**
+     * The token to be used for the next set of paginated results.
+     */
+    nextToken?: NextToken;
+    /**
+     * The maximum number of results to return for each paginated request. A result set is returned in the two cases, whichever occurs first.   The size of the result set is less than 1 MB.   The number of data points in the result set is less than the value of maxResults. The maximum value of maxResults is 4000.  
+     */
+    maxResults?: BatchGetAssetPropertyValueHistoryMaxResults;
+  }
+  export interface BatchGetAssetPropertyValueHistoryResponse {
+    /**
+     * A list of the errors (if any) associated with the batch request. Each error entry contains the entryId of the entry that failed.
+     */
+    errorEntries: BatchGetAssetPropertyValueHistoryErrorEntries;
+    /**
+     * A list of entries that were processed successfully by this batch request. Each success entry contains the entryId of the entry that succeeded and the latest query result.
+     */
+    successEntries: BatchGetAssetPropertyValueHistorySuccessEntries;
+    /**
+     * A list of entries that were not processed by this batch request. because these entries had been completely processed by previous paginated requests. Each skipped entry contains the entryId of the entry that skipped.
+     */
+    skippedEntries: BatchGetAssetPropertyValueHistorySkippedEntries;
+    /**
+     * The token for the next set of results, or null if there are no additional results.
+     */
+    nextToken?: NextToken;
+  }
+  export type BatchGetAssetPropertyValueHistorySkippedEntries = BatchGetAssetPropertyValueHistorySkippedEntry[];
+  export interface BatchGetAssetPropertyValueHistorySkippedEntry {
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+    /**
+     * The completion status of each entry that is associated with the BatchGetAssetPropertyValueHistory API.
+     */
+    completionStatus: BatchEntryCompletionStatus;
+    /**
+     * The error information, such as the error code and the timestamp.
+     */
+    errorInfo?: BatchGetAssetPropertyValueHistoryErrorInfo;
+  }
+  export type BatchGetAssetPropertyValueHistorySuccessEntries = BatchGetAssetPropertyValueHistorySuccessEntry[];
+  export interface BatchGetAssetPropertyValueHistorySuccessEntry {
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+    /**
+     * The requested historical values for the specified asset property.
+     */
+    assetPropertyValueHistory: AssetPropertyValueHistory;
+  }
+  export interface BatchGetAssetPropertyValueRequest {
+    /**
+     * The list of asset property value entries for the batch get request. You can specify up to 16 entries per request.
+     */
+    entries: BatchGetAssetPropertyValueEntries;
+    /**
+     * The token to be used for the next set of paginated results.
+     */
+    nextToken?: NextToken;
+  }
+  export interface BatchGetAssetPropertyValueResponse {
+    /**
+     * A list of the errors (if any) associated with the batch request. Each error entry contains the entryId of the entry that failed.
+     */
+    errorEntries: BatchGetAssetPropertyValueErrorEntries;
+    /**
+     * A list of entries that were processed successfully by this batch request. Each success entry contains the entryId of the entry that succeeded and the latest query result.
+     */
+    successEntries: BatchGetAssetPropertyValueSuccessEntries;
+    /**
+     * A list of entries that were not processed by this batch request. because these entries had been completely processed by previous paginated requests. Each skipped entry contains the entryId of the entry that skipped.
+     */
+    skippedEntries: BatchGetAssetPropertyValueSkippedEntries;
+    /**
+     * The token for the next set of results, or null if there are no additional results.
+     */
+    nextToken?: NextToken;
+  }
+  export type BatchGetAssetPropertyValueSkippedEntries = BatchGetAssetPropertyValueSkippedEntry[];
+  export interface BatchGetAssetPropertyValueSkippedEntry {
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+    /**
+     * The completion status of each entry that is associated with the BatchGetAssetPropertyValue request.
+     */
+    completionStatus: BatchEntryCompletionStatus;
+    /**
+     * The error information, such as the error code and the timestamp.
+     */
+    errorInfo?: BatchGetAssetPropertyValueErrorInfo;
+  }
+  export type BatchGetAssetPropertyValueSuccessEntries = BatchGetAssetPropertyValueSuccessEntry[];
+  export interface BatchGetAssetPropertyValueSuccessEntry {
+    /**
+     * The ID of the entry.
+     */
+    entryId: EntryId;
+    assetPropertyValue?: AssetPropertyValue;
+  }
   export interface BatchPutAssetPropertyError {
     /**
      * The error code.
@@ -1143,10 +1544,13 @@ declare namespace IoTSiteWise {
      */
     errorEntries: BatchPutAssetPropertyErrorEntries;
   }
+  export type Bucket = string;
   export type CapabilityConfiguration = string;
   export type CapabilityNamespace = string;
   export type CapabilitySyncStatus = "IN_SYNC"|"OUT_OF_SYNC"|"SYNC_FAILED"|"UNKNOWN"|string;
   export type ClientToken = string;
+  export type ColumnName = "ALIAS"|"ASSET_ID"|"PROPERTY_ID"|"DATA_TYPE"|"TIMESTAMP_SECONDS"|"TIMESTAMP_NANO_OFFSET"|"QUALITY"|"VALUE"|string;
+  export type ColumnNames = ColumnName[];
   export interface CompositeModelProperty {
     /**
      * The name of the property.
@@ -1274,6 +1678,10 @@ declare namespace IoTSiteWise {
      * A list of key-value pairs that contain metadata for the asset. For more information, see Tagging your IoT SiteWise resources in the IoT SiteWise User Guide.
      */
     tags?: TagMap;
+    /**
+     * A description for the asset.
+     */
+    assetDescription?: Description;
   }
   export interface CreateAssetResponse {
     /**
@@ -1288,6 +1696,42 @@ declare namespace IoTSiteWise {
      * The status of the asset, which contains a state (CREATING after successfully calling this operation) and any error message.
      */
     assetStatus: AssetStatus;
+  }
+  export interface CreateBulkImportJobRequest {
+    /**
+     * The unique name that helps identify the job request.
+     */
+    jobName: Name;
+    /**
+     * The ARN of the IAM role that allows IoT SiteWise to read Amazon S3 data.
+     */
+    jobRoleArn: ARN;
+    /**
+     * The files in the specified Amazon S3 bucket that contain your data.
+     */
+    files: Files;
+    /**
+     * The Amazon S3 destination where errors associated with the job creation request are saved.
+     */
+    errorReportLocation: ErrorReportLocation;
+    /**
+     * Contains the configuration information of a job, such as the file format used to save data in Amazon S3.
+     */
+    jobConfiguration: JobConfiguration;
+  }
+  export interface CreateBulkImportJobResponse {
+    /**
+     * The ID of the job.
+     */
+    jobId: ID;
+    /**
+     * The unique name that helps identify the job request.
+     */
+    jobName: Name;
+    /**
+     * The status of the bulk import job can be one of following values.    PENDING – IoT SiteWise is waiting for the current bulk import job to finish.    CANCELLED – The bulk import job has been canceled.    RUNNING – IoT SiteWise is processing your request to import your data from Amazon S3.    COMPLETED – IoT SiteWise successfully completed your request to import data from Amazon S3.    FAILED – IoT SiteWise couldn't process your request to import data from Amazon S3. You can use logs saved in the specified error report location in Amazon S3 to troubleshoot issues.    COMPLETED_WITH_FAILURES – IoT SiteWise completed your request to import data from Amazon S3 with errors. You can use logs saved in the specified error report location in Amazon S3 to troubleshoot issues.  
+     */
+    jobStatus: JobStatus;
   }
   export interface CreateDashboardRequest {
     /**
@@ -1444,6 +1888,12 @@ declare namespace IoTSiteWise {
      * The ARN of the project, which has the following format.  arn:${Partition}:iotsitewise:${Region}:${Account}:project/${ProjectId} 
      */
     projectArn: ARN;
+  }
+  export interface Csv {
+    /**
+     * The column names specified in the .csv file.
+     */
+    columnNames?: ColumnNames;
   }
   export interface CustomerManagedS3Storage {
     /**
@@ -1751,6 +2201,54 @@ declare namespace IoTSiteWise {
      * The current status of the asset, which contains a state and any error message.
      */
     assetStatus: AssetStatus;
+    /**
+     * A description for the asset.
+     */
+    assetDescription?: Description;
+  }
+  export interface DescribeBulkImportJobRequest {
+    /**
+     * The ID of the job.
+     */
+    jobId: ID;
+  }
+  export interface DescribeBulkImportJobResponse {
+    /**
+     * The ID of the job.
+     */
+    jobId: ID;
+    /**
+     * The unique name that helps identify the job request.
+     */
+    jobName: Name;
+    /**
+     * The status of the bulk import job can be one of following values.    PENDING – IoT SiteWise is waiting for the current bulk import job to finish.    CANCELLED – The bulk import job has been canceled.    RUNNING – IoT SiteWise is processing your request to import your data from Amazon S3.    COMPLETED – IoT SiteWise successfully completed your request to import data from Amazon S3.    FAILED – IoT SiteWise couldn't process your request to import data from Amazon S3. You can use logs saved in the specified error report location in Amazon S3 to troubleshoot issues.    COMPLETED_WITH_FAILURES – IoT SiteWise completed your request to import data from Amazon S3 with errors. You can use logs saved in the specified error report location in Amazon S3 to troubleshoot issues.  
+     */
+    jobStatus: JobStatus;
+    /**
+     * The ARN of the IAM role that allows IoT SiteWise to read Amazon S3 data.
+     */
+    jobRoleArn: ARN;
+    /**
+     * The files in the specified Amazon S3 bucket that contain your data.
+     */
+    files: Files;
+    /**
+     * The Amazon S3 destination where errors associated with the job creation request are saved.
+     */
+    errorReportLocation: ErrorReportLocation;
+    /**
+     * Contains the configuration information of a job, such as the file format used to save data in Amazon S3.
+     */
+    jobConfiguration: JobConfiguration;
+    /**
+     * The date the job was created, in Unix epoch TIME.
+     */
+    jobCreationDate: Timestamp;
+    /**
+     * The date the job was last updated, in Unix epoch time.
+     */
+    jobLastUpdateDate: Timestamp;
   }
   export interface DescribeDashboardRequest {
     /**
@@ -1988,7 +2486,7 @@ declare namespace IoTSiteWise {
   }
   export interface DescribeStorageConfigurationResponse {
     /**
-     * The storage tier that you specified for your data. The storageType parameter can be one of the following values:    SITEWISE_DEFAULT_STORAGE – IoT SiteWise saves your data into the hot tier. The hot tier is a service-managed database.    MULTI_LAYER_STORAGE – IoT SiteWise saves your data in both the cold tier and the cold tier. The cold tier is a customer-managed Amazon S3 bucket.  
+     * The storage tier that you specified for your data. The storageType parameter can be one of the following values:    SITEWISE_DEFAULT_STORAGE – IoT SiteWise saves your data into the hot tier. The hot tier is a service-managed database.    MULTI_LAYER_STORAGE – IoT SiteWise saves your data in both the cold tier and the hot tier. The cold tier is a customer-managed Amazon S3 bucket.  
      */
     storageType: StorageType;
     /**
@@ -2127,6 +2625,16 @@ declare namespace IoTSiteWise {
     details?: DetailedErrors;
   }
   export type ErrorMessage = string;
+  export interface ErrorReportLocation {
+    /**
+     * The name of the Amazon S3 bucket to which errors associated with the bulk import job are sent.
+     */
+    bucket: Bucket;
+    /**
+     * Amazon S3 uses the prefix as a folder name to organize data in the bucket. Each Amazon S3 object has a key that is its unique identifier in the bucket. Each object in a bucket has exactly one key. The prefix must end with a forward slash (/). For more information, see Organizing objects using prefixes in the Amazon Simple Storage Service User Guide.
+     */
+    prefix: String;
+  }
   export type Expression = string;
   export interface ExpressionVariable {
     /**
@@ -2139,6 +2647,27 @@ declare namespace IoTSiteWise {
     value: VariableValue;
   }
   export type ExpressionVariables = ExpressionVariable[];
+  export interface File {
+    /**
+     * The name of the Amazon S3 bucket from which data is imported.
+     */
+    bucket: Bucket;
+    /**
+     * The key of the Amazon S3 object that contains your data. Each object has a key that is a unique identifier. Each object has exactly one key.
+     */
+    key: String;
+    /**
+     * The version ID to identify a specific version of the Amazon S3 object that contains your data.
+     */
+    versionId?: String;
+  }
+  export interface FileFormat {
+    /**
+     * The .csv file format.
+     */
+    csv?: Csv;
+  }
+  export type Files = File[];
   export interface ForwardingConfig {
     /**
      * The forwarding state for the given property. 
@@ -2469,6 +2998,28 @@ declare namespace IoTSiteWise {
   export type Interval = string;
   export type IntervalInSeconds = number;
   export type IntervalWindowInSeconds = number;
+  export interface JobConfiguration {
+    /**
+     * The file format of the data in Amazon S3.
+     */
+    fileFormat: FileFormat;
+  }
+  export type JobStatus = "PENDING"|"CANCELLED"|"RUNNING"|"COMPLETED"|"FAILED"|"COMPLETED_WITH_FAILURES"|string;
+  export type JobSummaries = JobSummary[];
+  export interface JobSummary {
+    /**
+     * The ID of the job.
+     */
+    id: ID;
+    /**
+     * The unique name that helps identify the job request.
+     */
+    name: Name;
+    /**
+     * The status of the bulk import job can be one of following values.    PENDING – IoT SiteWise is waiting for the current bulk import job to finish.    CANCELLED – The bulk import job has been canceled.    RUNNING – IoT SiteWise is processing your request to import your data from Amazon S3.    COMPLETED – IoT SiteWise successfully completed your request to import data from Amazon S3.    FAILED – IoT SiteWise couldn't process your request to import data from Amazon S3. You can use logs saved in the specified error report location in Amazon S3 to troubleshoot issues.    COMPLETED_WITH_FAILURES – IoT SiteWise completed your request to import data from Amazon S3 with errors. You can use logs saved in the specified error report location in Amazon S3 to troubleshoot issues.  
+     */
+    status: JobStatus;
+  }
   export type KmsKeyId = string;
   export interface ListAccessPoliciesRequest {
     /**
@@ -2614,6 +3165,31 @@ declare namespace IoTSiteWise {
      * A list that summarizes the associated assets.
      */
     assetSummaries: AssociatedAssetsSummaries;
+    /**
+     * The token for the next set of results, or null if there are no additional results.
+     */
+    nextToken?: NextToken;
+  }
+  export type ListBulkImportJobsFilter = "ALL"|"PENDING"|"RUNNING"|"CANCELLED"|"FAILED"|"COMPLETED_WITH_FAILURES"|"COMPLETED"|string;
+  export interface ListBulkImportJobsRequest {
+    /**
+     * The token to be used for the next set of paginated results.
+     */
+    nextToken?: NextToken;
+    /**
+     * The maximum number of results to return for each paginated request.
+     */
+    maxResults?: MaxResults;
+    /**
+     * You can use a filter to select the bulk import jobs that you want to retrieve.
+     */
+    filter?: ListBulkImportJobsFilter;
+  }
+  export interface ListBulkImportJobsResponse {
+    /**
+     * One or more job summaries to list.
+     */
+    jobSummaries: JobSummaries;
     /**
      * The token for the next set of results, or null if there are no additional results.
      */
@@ -3055,7 +3631,7 @@ declare namespace IoTSiteWise {
   }
   export interface PutStorageConfigurationRequest {
     /**
-     * The storage tier that you specified for your data. The storageType parameter can be one of the following values:    SITEWISE_DEFAULT_STORAGE – IoT SiteWise saves your data into the hot tier. The hot tier is a service-managed database.    MULTI_LAYER_STORAGE – IoT SiteWise saves your data in both the cold tier and the cold tier. The cold tier is a customer-managed Amazon S3 bucket.  
+     * The storage tier that you specified for your data. The storageType parameter can be one of the following values:    SITEWISE_DEFAULT_STORAGE – IoT SiteWise saves your data into the hot tier. The hot tier is a service-managed database.    MULTI_LAYER_STORAGE – IoT SiteWise saves your data in both the cold tier and the hot tier. The cold tier is a customer-managed Amazon S3 bucket.  
      */
     storageType: StorageType;
     /**
@@ -3070,7 +3646,7 @@ declare namespace IoTSiteWise {
   }
   export interface PutStorageConfigurationResponse {
     /**
-     * The storage tier that you specified for your data. The storageType parameter can be one of the following values:    SITEWISE_DEFAULT_STORAGE – IoT SiteWise saves your data into the hot tier. The hot tier is a service-managed database.    MULTI_LAYER_STORAGE – IoT SiteWise saves your data in both the cold tier and the cold tier. The cold tier is a customer-managed Amazon S3 bucket.  
+     * The storage tier that you specified for your data. The storageType parameter can be one of the following values:    SITEWISE_DEFAULT_STORAGE – IoT SiteWise saves your data into the hot tier. The hot tier is a service-managed database.    MULTI_LAYER_STORAGE – IoT SiteWise saves your data in both the cold tier and the hot tier. The cold tier is a customer-managed Amazon S3 bucket.  
      */
     storageType: StorageType;
     /**
@@ -3110,6 +3686,7 @@ declare namespace IoTSiteWise {
   }
   export type SSOApplicationId = string;
   export type StorageType = "SITEWISE_DEFAULT_STORAGE"|"MULTI_LAYER_STORAGE"|string;
+  export type String = string;
   export type TagKey = string;
   export type TagKeyList = TagKey[];
   export type TagMap = {[key: string]: TagValue};
@@ -3317,6 +3894,10 @@ declare namespace IoTSiteWise {
      * A unique case-sensitive identifier that you can provide to ensure the idempotency of the request. Don't reuse this client token if a new idempotent request is required.
      */
     clientToken?: ClientToken;
+    /**
+     * A description for the asset.
+     */
+    assetDescription?: Description;
   }
   export interface UpdateAssetResponse {
     /**
