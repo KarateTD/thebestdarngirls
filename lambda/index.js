@@ -55,6 +55,8 @@ let choice;
 let repeat=false
 let offset=0;
 let maxResults = 5;
+let sku;
+///add array to track what things were advertised
 
 let product = null;
 let firstTime = true;
@@ -710,10 +712,13 @@ const MovieChoicesHandler = {
 
     	if(typeof element !== 'undefined'){
 			console.log("** if element is not undefined")
+			//and if not advertised
 			if( menu.toLowerCase() === 'in stores'){
 				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" Would you like to add ").concat(element.mtitle).concat(" to your Amazon cart?")
-
+				//mark if addveritised 
+				sku = element.asin;
 			}else{
+				//if in stores and adverstise (change array)
 				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
 			}
     		if(supportsAPL(handlerInput)){
@@ -797,35 +802,20 @@ const MovieChoicesHandler = {
 	}
 };
 
-const RecommendAndShopForProductsHandler = {
+const YesAndNoIntentHandler = {
 	canHandle(handlerInput){
 		const request = handlerInput.requestEnvelope.request;
 		return request.type === 'IntentRequest'
-		  && (request.intent.name === 'RecommendAndShopForProducts');
+		  && (request.intent.name === 'AMAZON.YesIntent'
+		  || request.intent.name === 'AMAZON.NoIntent');
 	},
 	handle(handlerInput){
-		console.log("RecommendAndShopForProducts received");
-
-		const speechText = "Product Intro" + " Would You like to add this to your cart on Amazon?"
-	
-		return handlerInput.responseBuilder
-		.speak(speechText)
-		.reprompt(speechText)
-		.getResponse();
-	}
-}
-
-const YesAndNoIntentHandler = {
-	conHandle(handlerInput){
 		const request = handlerInput.requestEnvelope.request;
-		return request.type === 'IntentRequest'
-		  && (request.intent.name === 'YesNo');
-	},
-	handle(handlerInput){
-		const intentName = handlerInput.requestEnvelope.request.name;
-		console.log("User said: " + intentName);
+		const intentName = handlerInput.requestEnvelope.request.intent.name;
+		console.log("***** in yes no")
+		console.log(request)
 
-		if (intentName === 'Amazon.YesIntent'){
+		if (intentName === 'AMAZON.YesIntent'){
 			var actionText = "Staging item with Amazon"
 			let actionTask = {
 				'type': 'Connections.StartConnection',
@@ -833,24 +823,75 @@ const YesAndNoIntentHandler = {
 				'input':{
 					'products':[
 						{
-							'asin':'',
+							'asin':sku,
 							'attribution':{
-								'associateId':'thbedagimore-20',
-								'trackingId':'thbedagimore-20'
+								'associateId': process.env.skillAdds, 
+								'trackingId': process.env.skillAdds
 							}
 						}
 					]
 				},
 				'token': 'AddToShoppingCartToken'
 			};
-
+			console.log(actionTask)
 			return handlerInput.responseBuilder
 			  .speak(actionText)
 			  .addDirective(actionTask)
 			  .getResponse()
+		}else if(intentName === 'AMAZON.NoIntent'){
+			// TO DO
 		}
 	}
 }
+
+const SessionResumedRequestHandler = {
+	canHandle(handlerInput){
+		const request = handlerInput.requestEnvelope.request;
+		return request.type === 'SessionResumedRequest';
+	},
+	handle(handlerInput){
+		const sessionAttributes = handlerInput.attributesManager.getSessionAttributes();
+		console.log("sessionAttribute: " + JSON.stringify(sessionAttributes));
+		const token = handlerInput.requestEnvelope.request.cause.token;
+
+		let request = handler.requestEnvelope.request;
+		let speechText = "Sorry, I had trouble doing what you asked. Please try again.";
+
+		if(request.cause){
+			const token = request.cause.token;
+			const status = request.cause.status;
+			const code = status.code;
+			const message = status.message;
+			const payload = request.cause.result;
+
+			console.info(`[Shopping Response] ${JSON.stringify(request)}`);
+			console.info(`[INFO] Sopping Action Result: Code = ${code}, Message - ${message}, Payload - ${payload}`);
+			
+			switch(code){
+				case '200':
+					if (typeof payload !== "undefined"){
+						if (payload.code === 'AlexaShopping.RetryLaterError'){
+							speechText = "Looks like there was an issue. Let's get back to the skill.";
+						}
+						else{
+							speechText = "I'm sorry, shopping indicated an issue while performing your request. Please try again later.";
+							console.info(`[INFO] Shopping Action had an issue while performing the request. ${payload.message}`);
+						}
+					}
+					else if(token === 'AddToShoppingCartToken'){
+						console.info(`[INFO] Shopping Action: Add to cart action was a success for ${token}.`);
+						speechText = "Thank you for adding the product to your cart.";
+					}
+				break;
+				default:
+					console.info(`[INFO] Shopping Action: There was a problem performing the shopping action.`);
+					speechText = "There was a problem adding the item to your cart.";
+			}
+		}
+
+		return handlerInput.responseBuilder.speak(speechText).getResponse();
+	},
+};
 
 const LibraryHandler = {
     canHandle(handlerInput){
@@ -959,11 +1000,11 @@ const LibraryHandler = {
 			console.log(e);
 			return ErrorHandler.handle(handlerInput);
 		} //end try catch block
-		const locale = request.locale;
-		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
+		const locale = request.locale;
+		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
 		
-		return ms.getInSkillProducts(locale).then(function(res) {
-			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
+		return ms.getInSkillProducts(locale).then(function(res) {
+			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
 			console.log("** in return")
 			if(isEntitled(product)){
 				console.log("**** product owned")
@@ -1375,6 +1416,7 @@ exports.handler = skillBuilder
 	ExitHandler,
 	UpsellResponseHandler,
 	YesAndNoIntentHandler,
+	SessionResumedRequestHandler,
 	WhatCanIBuyHandler,
     PrevHandler,
     NextHandler,
