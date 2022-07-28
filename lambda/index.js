@@ -819,8 +819,7 @@ const YesAndNoIntentHandler = {
 	conHandle(handlerInput){
 		const request = handlerInput.requestEnvelope.request;
 		return request.type === 'IntentRequest'
-		  && (request.intent.name === 'Amazon.YesIntent'
-		  || request.intent.name === 'Amazon.NoIntent');
+		  && (request.intent.name === 'YesNo');
 	},
 	handle(handlerInput){
 		const intentName = handlerInput.requestEnvelope.request.name;
@@ -1265,16 +1264,16 @@ const ExitHandler = {
 			}
 
 			return handlerInput.responseBuilder
-           		.speak(speakResponse + " " + mySettings.mainMenu)
+        		.speak(speakResponse + " " + mySettings.mainMenu)
 				.withShouldEndSession(false)
-           		.reprompt(mySettings.mainMenu)
-           		.getResponse();
+				.reprompt(mySettings.mainMenu)
+				.getResponse();
 		}else{
 			console.log("** else do not understand")
-			return handlerInput.responseBuilder
-    	       .speak("I did not understand.  Say your response again.")
+			return handlerInput.responseBuilder
+			.speak("I did not understand.  Say your response again.")
 				.withShouldEndSession(false)
-        	   .getResponse();
+				.getResponse();
 		}
 	}
 };
