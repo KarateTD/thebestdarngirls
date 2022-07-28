@@ -711,7 +711,7 @@ const MovieChoicesHandler = {
     	if(typeof element !== 'undefined'){
 			console.log("** if element is not undefined")
 			if( menu.toLowerCase() === 'in stores'){
-				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat("Would you like to add ").concat(element.mtitle).concat(" to your Amazon cart?")
+				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" Would you like to add ").concat(element.mtitle).concat(" to your Amazon cart?")
 
 			}else{
 				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
@@ -1375,6 +1375,7 @@ exports.handler = skillBuilder
 	CancelPurchaseHandler,
 	ExitHandler,
 	UpsellResponseHandler,
+	YesAndNoIntentHandler,
 	WhatCanIBuyHandler,
     PrevHandler,
     NextHandler,
