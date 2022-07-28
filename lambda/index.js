@@ -710,7 +710,12 @@ const MovieChoicesHandler = {
 
     	if(typeof element !== 'undefined'){
 			console.log("** if element is not undefined")
-			speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
+			if( menu.toLowerCase() === 'in stores'){
+				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat("Would you like to add ").concat(element.mtitle).concat(" to your Amazon cart?")
+
+			}else{
+				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
+			}
     		if(supportsAPL(handlerInput)){
 				console.log("**** if it has screen")
 
@@ -791,6 +796,62 @@ const MovieChoicesHandler = {
     	}
 	}
 };
+
+const RecommendAndShopForProductsHandler = {
+	canHandle(handlerInput){
+		const request = handlerInput.requestEnvelope.request;
+		return request.type === 'IntentRequest'
+		  && (request.intent.name === 'RecommendAndShopForProducts');
+	},
+	handle(handlerInput){
+		console.log("RecommendAndShopForProducts received");
+
+		const speechText = "Product Intro" + " Would You like to add this to your cart on Amazon?"
+	
+		return handlerInput.responseBuilder
+		.speak(speechText)
+		.reprompt(speechText)
+		.getResponse();
+	}
+}
+
+const YesAndNoIntentHandler = {
+	conHandle(handlerInput){
+		const request = handlerInput.requestEnvelope.request;
+		return request.type === 'IntentRequest'
+		  && (request.intent.name === 'Amazon.YesIntent'
+		  || request.intent.name === 'Amazon.NoIntent');
+	},
+	handle(handlerInput){
+		const intentName = handlerInput.requestEnvelope.request.name;
+		console.log("User said: " + intentName);
+
+		if (intentName === 'Amazon.YesIntent'){
+			var actionText = "Staging item with Amazon"
+			let actionTask = {
+				'type': 'Connections.StartConnection',
+				'uri': 'connection://AMAZON.AddToShoppingCart/1',
+				'input':{
+					'products':[
+						{
+							'asin':'',
+							'attribution':{
+								'associateId':'thbedagimore-20',
+								'trackingId':'thbedagimore-20'
+							}
+						}
+					]
+				},
+				'token': 'AddToShoppingCartToken'
+			};
+
+			return handlerInput.responseBuilder
+			  .speak(actionText)
+			  .addDirective(actionTask)
+			  .getResponse()
+		}
+	}
+}
 
 const LibraryHandler = {
     canHandle(handlerInput){
