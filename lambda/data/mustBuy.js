@@ -114,4 +114,14 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pawsoffurythelegendofhank.jpeg"
     }
   }
+
+  {
+    "option":"5",
+    "mtitle":"Minions: The Rise of Gru",
+    "review":"It's career day in 1976, and while some kids dream of being doctors and lawyers, Gru dreams of joining The Vicious Six and becoming a super villain. The Vicious Six members are Belle Bottom, Jean Clawed, Nunchuck, Svengence, and Stronghold, and their leader is Wild Knuckles, Gru's hero. The Vicious Six accepted his application and wants Gru to interview for a spot on their team at Criminal Records tomorrow.<br/><br/>Gru doesn't know that The Vicious Six is looking for a new member because they turned on Wild Knuckles during their last heist. Wild Knuckles risked his life inside a temple to get the stone. The stone will give someone the power of a Chinese zodiac animal on the Chinese New Year. Instead of saving him, Belle Bottom grabs the stone and pushes Wild Knuckles off the plane. With Wild Knuckles dead, they need a new member to complete their team and use the stone to destroy the Anti-Villain League.<br/><br/>In the interview, Gru tells The Vicious Six that he is despicable and ready to join. Awestruck by Gru's age, they tell Gru no and to go to school. During another interviewee's questions, Gru sneaks around The Vicious Six and gets the stone. With The Vicious Six on his tail, Gru gives the stone to his minion, Otto, to take to their lair. They get away and meet with Otto at the hideout. Gru plans to return the stone to The Vicious Six, so they will accept him. Gru asks Otto for the stone, and Otto gives Gru a pet rock. On the way, Otto saw a birthday party, and the birthday boy got a pet rock. Otto fell in love with it and traded it for the stone. Gru walks out to find it, and Kevin sees someone kidnap Gru.<br/><br/>The kidnappers let Gru out of the bag, and Gru sees Wild Knuckles in front of him. Surprised to see Wild Knuckles alive, Gru hands him the pet rock instead of the stone. Wild Knuckles hangs Gru off a balcony and makes a ransom call to the minions. The Vicious Six still think Gru has the stone. Can the Minions save Gru and get the stone?<br/><br/>This movie has something for the entire family, from the opening credits to the mid-credits scene. The soundtrack will have you dancing in your seat with 70's funk, rock, and disco. The storyline is complex but not entirely original. Although the minions don't articulate well, the animators gave them spot-on non-verbal communication. The plot provides a training montage with Master Chow for an easy but fulfilling laugh. See this one in theaters, but 3D isn't necessary.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/minionstheriseofgru.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/minionstheriseofgru.jpeg"
+    }
+  }
 */
