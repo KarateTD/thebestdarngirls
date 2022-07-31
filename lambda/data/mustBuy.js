@@ -22,8 +22,8 @@ var mustBuy = [
   {
     "option":"3",
     "mtitle":"Fantastic Beasts: The Secrets of Dumbledore",
-    "review":"Fantastic Beasts: The Secrets of Dumbledore was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.'",
-    "asin":"B0B1N8VP6J",
+    "review":"Fantastic Beasts: The Secrets of Dumbledore was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access' or say Library if you have Premium Acces.",
+    "asin":"B0B21TPKLJ",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fantasticbeaststhesecretsofdumbledore.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fantasticbeaststhesecretsofdumbledore.jpg"
@@ -43,7 +43,7 @@ var mustBuy = [
     "option":"5",
     "mtitle":"Ambulance",
     "review":"Veteran William Sharp sits on the phone arguing with insurance companies.  His wife, Amy, needs experimental surgery to save her life.  William hangs up the phone and tells Amy everything will be ok.  Then, he reminds her to turn on the alarm while he goes on a forklift driver interview.  Unbeknownst to Amy, William drives to Danny's chopshop.<br/><br/>As William attempts to ask for a 231,000 dollar loan, Danny collects his crew and cars for his next heist.  He gives William 5 minutes to decide if he is in or out.  If William joins, he will gain millions.  William gears up and jumps on the truck.  But there is a kink in the plan.  Officer Zack built up the nerve to talk to his bank teller crush, Kim.  Seeing Zack won't let up, Danny lets Zack inside.  Soon, Zack realizes something is going on, and all hell breaks loose.  Danny didn't know he was part of a task force sting operation.  They knew Danny wanted to hit a bank and planned to catch him after the robbery without hostages.  But Zack messed up their plan too.<br/><br/>After a fight in the parking garage, William shoots Zack.  They see EMT Cam and Scott loading Zack onto the ambulance.  William pulls Scott from the driver's seat, and Danny tries to force Cam out of the back.  But she will not leave her patient.  Danny agrees because killing a cop is a life sentence.  Also, Danny can use Cam and Zack as bargaining chips with the police.  With millions in their bag and two hostages, can Danny and William get home with the money?<br/><br/>A remake of Ambulancen, this film gives you a brief introduction to William's turmoil.  Then the action gets going.  The synopsis above is the first 20 minutes of the movie.  The tale of family bonds rivals all other films before it.  With a 60-mph surgery, unholy alliances, and sharpshooters, this film allows the audience to care about Cam, Danny, and William.  Watch this movie on the big screen only.<br/><br/>5 out of 5 stars.",
-    "asin":"B09YLBFFXB",
+    "asin":"B09YLC2NQ5",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ambulance.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ambulance.jpeg"
@@ -117,6 +117,16 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pawsoffurythelegendofhank.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pawsoffurythelegendofhank.jpeg"
+    }
+  }
+
+  {
+    "option":"5",
+    "mtitle":"Minions: The Rise of Gru",
+    "review":"It's career day in 1976, and while some kids dream of being doctors and lawyers, Gru dreams of joining The Vicious Six and becoming a super villain. The Vicious Six members are Belle Bottom, Jean Clawed, Nunchuck, Svengence, and Stronghold, and their leader is Wild Knuckles, Gru's hero. The Vicious Six accepted his application and wants Gru to interview for a spot on their team at Criminal Records tomorrow.<br/><br/>Gru doesn't know that The Vicious Six is looking for a new member because they turned on Wild Knuckles during their last heist. Wild Knuckles risked his life inside a temple to get the stone. The stone will give someone the power of a Chinese zodiac animal on the Chinese New Year. Instead of saving him, Belle Bottom grabs the stone and pushes Wild Knuckles off the plane. With Wild Knuckles dead, they need a new member to complete their team and use the stone to destroy the Anti-Villain League.<br/><br/>In the interview, Gru tells The Vicious Six that he is despicable and ready to join. Awestruck by Gru's age, they tell Gru no and to go to school. During another interviewee's questions, Gru sneaks around The Vicious Six and gets the stone. With The Vicious Six on his tail, Gru gives the stone to his minion, Otto, to take to their lair. They get away and meet with Otto at the hideout. Gru plans to return the stone to The Vicious Six, so they will accept him. Gru asks Otto for the stone, and Otto gives Gru a pet rock. On the way, Otto saw a birthday party, and the birthday boy got a pet rock. Otto fell in love with it and traded it for the stone. Gru walks out to find it, and Kevin sees someone kidnap Gru.<br/><br/>The kidnappers let Gru out of the bag, and Gru sees Wild Knuckles in front of him. Surprised to see Wild Knuckles alive, Gru hands him the pet rock instead of the stone. Wild Knuckles hangs Gru off a balcony and makes a ransom call to the minions. The Vicious Six still think Gru has the stone. Can the Minions save Gru and get the stone?<br/><br/>This movie has something for the entire family, from the opening credits to the mid-credits scene. The soundtrack will have you dancing in your seat with 70's funk, rock, and disco. The storyline is complex but not entirely original. Although the minions don't articulate well, the animators gave them spot-on non-verbal communication. The plot provides a training montage with Master Chow for an easy but fulfilling laugh. See this one in theaters, but 3D isn't necessary.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/minionstheriseofgru.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/minionstheriseofgru.jpeg"
     }
   }
 */

@@ -34,7 +34,6 @@ const skillName='The Best Darn Girls'
 const goodbyeSpeak='Come back or visit The Best Darn Girls Movie Review website at https:// that darn girl movie dot reviews. Good bye!'
 const goodbyeScreen='* Site: https://thatdarngirlmovie.reviews<br/>* Instagram: @thebestdarngirls<br/>* Twitter: @thebestdarngirl<br/>* Facebook: @thebestdarngirls<br/>* Tumblr: @thebestdarngirls<br/>* Email: thebestdarngirls@gmail.com'
 const goodbyeCard='\t* Site: https://thatdarngirlmovie.reviews\n\t* Instagram: @thebestdarngirls\n\t* Twitter: @thebestdarngirl\n\t* Facebook: @thebestdarngirls\n\t* Email: thebestdarngirls@gmail.com'
-//const hints=[' Show me ',' Tell me about ', ' I choose ', ' Select ', ' '];
 const libHints=['Look for', 'Look up', 'Find', 'How about', 'Search for' ];
 const smallLogo='https://thebestdarngirls.s3.amazonaws.com/library/small-image/APP_ICON.jpg';
 
@@ -851,7 +850,7 @@ const SessionResumedRequestHandler = {
 	},
 	handle(handlerInput){
 		const sessionAttributes = handlerInput.attributesManager.getSessionAttributes();
-		console.log("sessionAttribute: " + JSON.stringify(sessionAttributes));
+		console.log("sessionAttributes: " + JSON.stringify(sessionAttributes));
 		const token = handlerInput.requestEnvelope.request.cause.token;
 
 		let request = handler.requestEnvelope.request;
@@ -870,25 +869,30 @@ const SessionResumedRequestHandler = {
 			switch(code){
 				case '200':
 					if (typeof payload !== "undefined"){
+						console.log("in first if");
 						if (payload.code === 'AlexaShopping.RetryLaterError'){
+							console.log("in if's if");
 							speechText = "Looks like there was an issue. Let's get back to the skill.";
 						}
 						else{
+							console.log("in if's else");
 							speechText = "I'm sorry, shopping indicated an issue while performing your request. Please try again later.";
 							console.info(`[INFO] Shopping Action had an issue while performing the request. ${payload.message}`);
 						}
 					}
 					else if(token === 'AddToShoppingCartToken'){
+						console.log("in first else");
 						console.info(`[INFO] Shopping Action: Add to cart action was a success for ${token}.`);
 						speechText = "Thank you for adding the product to your cart.";
 					}
 				break;
 				default:
+					console.log("in default");
 					console.info(`[INFO] Shopping Action: There was a problem performing the shopping action.`);
 					speechText = "There was a problem adding the item to your cart.";
 			}
 		}
-
+		console.log("returning after 200");
 		return handlerInput.responseBuilder.speak(speechText).getResponse();
 	},
 };
