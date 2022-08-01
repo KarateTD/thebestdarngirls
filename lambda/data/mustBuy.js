@@ -22,8 +22,8 @@ var mustBuy = [
   {
     "option":"3",
     "mtitle":"Fantastic Beasts: The Secrets of Dumbledore",
-    "review":"Fantastic Beasts: The Secrets of Dumbledore was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access' or say Library if you have Premium Acces.",
-    "asin":"B0B21TPKLJ",
+    "review":"Fantastic Beasts: The Secrets of Dumbledore was an Early Screening review for Premium Access members only.  The review and rating has been moved to the Library.  To have access to the review and rating say, 'I want to buy Premium Access.' If you have Premium Access, say Library.",
+    "asin":"B0B21WTML9",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fantasticbeaststhesecretsofdumbledore.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fantasticbeaststhesecretsofdumbledore.jpg"
