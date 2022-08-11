@@ -716,7 +716,7 @@ const MovieChoicesHandler = {
 			console.log("** if element is not undefined")
 			//and if not advertised
 			if( menu.toLowerCase() === 'in stores' && recommended[parseInt(element.option)]){
-				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" Would you like to add ").concat(element.mtitle).concat(" to your Amazon cart?")
+				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" Would you like to own ").concat(element.mtitle).concat("?")
 				//mark if addveritised 
 				sku = element.asin;
 				recommended[parseInt(element.option)] = false;
@@ -835,6 +835,7 @@ const YesAndNoIntentHandler = {
 						}
 					]
 				},
+				'onCompletion': 'RESUME_SESSION',
 				'token': 'AddToShoppingCartToken'
 			};
 			console.log(actionTask)
@@ -865,7 +866,7 @@ const SessionResumedRequestHandler = {
 		const token = handlerInput.requestEnvelope.request.cause.token;
 
 		let request = handlerInput.requestEnvelope.request;
-		let speechText = "Sorry, I had trouble doing what you asked. Please try again.";
+		let speechText = "Sorry, I had trouble doing what you asked. Please try again. ";
 
 		if(request.cause){
 			const token = request.cause.token;
@@ -894,7 +895,7 @@ const SessionResumedRequestHandler = {
 					else if(token === 'AddToShoppingCartToken'){
 						console.log("in first else");
 						console.info(`[INFO] Shopping Action: Add to cart action was a success for ${token}.`);
-						speechText = "Thank you for adding the product to your cart. To complete your transaction, go to Amazon.com. ".concat(repeatGoBack);
+						speechText = "Let's get back to the reviews! ".concat(repeatGoBack);
 					}
 				break;
 				default:
