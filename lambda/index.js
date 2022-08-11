@@ -829,8 +829,8 @@ const YesAndNoIntentHandler = {
 						{
 							'asin': sku,
 							'attribution':{
-								'associateId': process.env.skillAdds, 
-								'trackingId': process.env.skillAdds
+								'associateId': process.env.associateID, 
+								'trackingId': process.env.associateID
 							}
 						}
 					]
@@ -875,7 +875,7 @@ const SessionResumedRequestHandler = {
 			const payload = request.cause.result;
 
 			console.info(`[Shopping Response] ${JSON.stringify(request)}`);
-			console.info(`[INFO] Sopping Action Result: Code = ${code}, Message - ${message}, Payload - ${payload}`);
+			console.info(`[INFO] Shopping Action Result: Code = ${code}, Message - ${message}, Payload - ${payload}`);
 			
 			switch(code){
 				case '200':
