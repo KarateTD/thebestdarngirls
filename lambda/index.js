@@ -1320,7 +1320,7 @@ const ExitHandler = {
 				});
 			}
 
-			return handlerInput.responseBuilder
+			return handlerInput.responseBuilder
         		.speak(speakResponse + " " + mySettings.mainMenu)
 				.withShouldEndSession(false)
 				.reprompt(mySettings.mainMenu)
