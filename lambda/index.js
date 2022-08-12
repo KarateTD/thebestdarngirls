@@ -778,7 +778,7 @@ const MovieChoicesHandler = {
  			
 				console.log("returning")
       			return handlerInput.responseBuilder
-				  .speak(speechConcat)
+				//  .speak(speechConcat)
 				  .withShouldEndSession(false)
       			  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       			  .getResponse();

@@ -94,8 +94,10 @@
                                     {
                                         "textAlign": "center",
                                         "fontSize": "20",
+                                        "id": "movieContent",
                                         "text": "${payload.longTextTemplateData.properties.textContent.primaryText.text}",
-                                        "type": "Text"
+                                        "type": "Text",
+                                        "speech": "${payload.longTextTemplateData.properties.movieInfoSpeech}"
                                     }
                                 ]
                             }
