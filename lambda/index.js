@@ -1,3 +1,5 @@
+//https://developer.amazon.com/en-US/docs/alexa/alexa-shopping/implement-shopping-actions.html
+
 const aws = require('aws-sdk');
 const RDS = new aws.RDSDataService();
 
@@ -28,13 +30,12 @@ const regLocaleVar = {
 
 }
 
-const repeatGoBack = '  To hear the review again, say repeat.  To go back to the movie options, say movie options.  To go back to the main menu, say main menu.  To exit, say good bye';
+const repeatGoBack = '  To hear the review again, say repeat.  To go back to the movie options, say movie options.  To go back to the main menu, say main menu.  To exit, say good bye.';
 const sorry = 'Sorry I don\'t understand.  Say your response again';
 const skillName='The Best Darn Girls'
 const goodbyeSpeak='Come back or visit The Best Darn Girls Movie Review website at https:// that darn girl movie dot reviews. Good bye!'
 const goodbyeScreen='* Site: https://thatdarngirlmovie.reviews<br/>* Instagram: @thebestdarngirls<br/>* Twitter: @thebestdarngirl<br/>* Facebook: @thebestdarngirls<br/>* Tumblr: @thebestdarngirls<br/>* Email: thebestdarngirls@gmail.com'
 const goodbyeCard='\t* Site: https://thatdarngirlmovie.reviews\n\t* Instagram: @thebestdarngirls\n\t* Twitter: @thebestdarngirl\n\t* Facebook: @thebestdarngirls\n\t* Email: thebestdarngirls@gmail.com'
-//const hints=[' Show me ',' Tell me about ', ' I choose ', ' Select ', ' '];
 const libHints=['Look for', 'Look up', 'Find', 'How about', 'Search for' ];
 const smallLogo='https://thebestdarngirls.s3.amazonaws.com/library/small-image/APP_ICON.jpg';
 
@@ -55,6 +56,9 @@ let choice;
 let repeat=false
 let offset=0;
 let maxResults = 5;
+let recommended=[true, true, true, true, true];
+let sku;
+///add array to track what things were advertised
 
 let product = null;
 let firstTime = true;
@@ -116,7 +120,6 @@ const WelcomeHandler = {
 		}
 		
 		return handlerInput.responseBuilder
-			.speak(greeting)
 			.reprompt(greeting)
 			.withShouldEndSession(false)
 			.withSimpleCard(skillName, mySettings.mainOptions)
@@ -220,7 +223,6 @@ const MainMenuHandler = {
 			resetAll();
 			return handlerInput.responseBuilder
 			.withShouldEndSession(false)
-      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
       		.getResponse();
 		}
 
@@ -437,7 +439,6 @@ const WhatCanIBuyHandler = {
 
 				resetAll();
 				return handlerInput.responseBuilder
-				  .speak(speakResponse + " " + mySettings.mainMenu)
 				  .withShouldEndSession(false)
 				  .reprompt(mySettings.mainMenu)
 				  .getResponse();
@@ -526,7 +527,6 @@ const CancelPurchaseHandler = {
 				resetAll();
 				
 				return handlerInput.responseBuilder
-				  .speak(speakResponse + " " + mySettings.mainMenu)
 				  .withShouldEndSession(false)
 				  .reprompt(mySettings.mainMenu)
 				  .getResponse();
@@ -594,7 +594,6 @@ const UpsellResponseHandler = {
 
 			resetAll();
 			return handlerInput.responseBuilder
-			.speak(speakResponse + " " + mySettings.mainMenu)
 			.reprompt(mySettings.mainMenu)
 			.withShouldEndSession(false)
 			.getResponse();
@@ -667,7 +666,6 @@ const MovieChoicesHandler = {
 			resetAll();
 			return handlerInput.responseBuilder
 			.withShouldEndSession(false)
-      		.speak(apology + mySettings.mainMenu)
       		.getResponse();
 		}
 
@@ -710,7 +708,16 @@ const MovieChoicesHandler = {
 
     	if(typeof element !== 'undefined'){
 			console.log("** if element is not undefined")
-			speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
+			//and if not advertised
+			if( menu.toLowerCase() === 'in stores' && recommended[parseInt(element.option)]){
+				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" Would you like to own ").concat(element.mtitle).concat("? ")
+				//mark if addveritised 
+				sku = element.asin;
+				recommended[parseInt(element.option)] = false;
+			}else{
+				//if in stores and adverstise (change array)
+				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
+			}
     		if(supportsAPL(handlerInput)){
 				console.log("**** if it has screen")
 
@@ -790,6 +797,110 @@ const MovieChoicesHandler = {
       		  .getResponse();
     	}
 	}
+};
+
+const YesAndNoIntentHandler = {
+	canHandle(handlerInput){
+		const request = handlerInput.requestEnvelope.request;
+		return request.type === 'IntentRequest'
+		  && (request.intent.name === 'AMAZON.YesIntent'
+		  ||  request.intent.name === 'AMAZON.NoIntent');
+	},
+	handle(handlerInput){
+		const request = handlerInput.requestEnvelope.request;
+		const intentName = request.intent.name;
+		console.log("User said: " + intentName);
+		console.log("***** in yes no")
+		console.log(request)
+
+		if (intentName === 'AMAZON.YesIntent'){
+			var actionText = "Staging item with Amazon"
+			let actionTask = {
+				'type': 'Connections.StartConnection',
+				'uri': 'connection://AMAZON.AddToShoppingCart/1',
+				'input':{
+					'products':[
+						{
+							'asin': sku,
+							'attribution':{
+								'associateId': process.env.associateID, 
+								'trackingId': process.env.associateID
+							}
+						}
+					]
+				},
+				'onCompletion': 'RESUME_SESSION',
+				'token': 'AddToShoppingCartToken'
+			};
+			console.log(actionTask)
+			return handlerInput.responseBuilder
+			  .speak(actionText)
+			  .addDirective(actionTask)
+			  .getResponse()
+		}else if(intentName === 'AMAZON.NoIntent'){
+			var actionText = "Ok, this product will not be recommended for the rest of your session. ".concat(repeatGoBack);
+
+			return handlerInput.responseBuilder
+			  .speak(actionText)
+			  .getResponse();
+		}
+	}
+}
+
+const SessionResumedRequestHandler = {
+	canHandle(handlerInput){
+		const request = handlerInput.requestEnvelope.request;
+		return request.type === 'SessionResumedRequest';
+	},
+	handle(handlerInput){
+		const sessionAttributes = handlerInput.attributesManager.getSessionAttributes();
+		console.log("handlerInput: " + JSON.stringify(handlerInput));
+		console.log("attributesManager: " + JSON.stringify(handlerInput.attributesManager));
+		console.log("sessionAttributes: " + JSON.stringify(sessionAttributes));
+		const token = handlerInput.requestEnvelope.request.cause.token;
+
+		let request = handlerInput.requestEnvelope.request;
+		let speechText = "Sorry, I had trouble doing what you asked. Please try again. ";
+
+		if(request.cause){
+			const token = request.cause.token;
+			const status = request.cause.status;
+			const code = status.code;
+			const message = status.message;
+			const payload = request.cause.result;
+
+			console.info(`[Shopping Response] ${JSON.stringify(request)}`);
+			console.info(`[INFO] Shopping Action Result: Code = ${code}, Message - ${message}, Payload - ${payload}`);
+			
+			switch(code){
+				case '200':
+					if (typeof payload !== "undefined"){
+						console.log("in first if");
+						if (payload.code === 'AlexaShopping.RetryLaterError'){
+							console.log("in if's if");
+							speechText = "Looks like there was an issue. Let's get back to the skill. Please go to amazon.com for this transaction. ".concat(repeatGoBack);
+						}
+						else{
+							console.log("in if's else");
+							speechText = "I'm sorry, shopping indicated an issue while performing your request. Please try again later. Please go to amazon.com for this transaction. ".concat(repeatGoBack);
+							console.info(`[INFO] Shopping Action had an issue while performing the request. ${payload.message}`);
+						}
+					}
+					else if(token === 'AddToShoppingCartToken'){
+						console.log("in first else");
+						console.info(`[INFO] Shopping Action: Add to cart action was a success for ${token}.`);
+						speechText = "Let's get back to the reviews! ".concat(repeatGoBack);
+					}
+				break;
+				default:
+					console.log("in default");
+					console.info(`[INFO] Shopping Action: There was a problem performing the shopping action.`);
+					speechText = "There was a problem adding the item to your cart. Please go to amazon.com for this transaction. ".concat(repeatGoBack);
+			}
+		}
+		console.log("returning after 200");
+		return handlerInput.responseBuilder.speak(speechText).getResponse();
+	},
 };
 
 const LibraryHandler = {
@@ -899,11 +1010,11 @@ const LibraryHandler = {
 			console.log(e);
 			return ErrorHandler.handle(handlerInput);
 		} //end try catch block
-		const locale = request.locale;
-		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
+		const locale = request.locale;
+		const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
 		
-		return ms.getInSkillProducts(locale).then(function(res) {
-			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
+		return ms.getInSkillProducts(locale).then(function(res) {
+			product = res.inSkillProducts.filter(record => record.referenceName == process.env.productName);
 			console.log("** in return")
 			if(isEntitled(product)){
 				console.log("**** product owned")
@@ -1068,7 +1179,6 @@ const CommandsHandler = {
 			resetAll();
 			return handlerInput.responseBuilder
 			.withShouldEndSession(false)
-      		.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
       		.getResponse();
 		}
 	}
@@ -1151,7 +1261,6 @@ const ExitHandler = {
 			}
 
 			return handlerInput.responseBuilder
-		 	.speak(goodbyeSpeak)
 		  	.withSimpleCard(skillName,goodbyeCard)
 		  	.withShouldEndSession(true)
 		  	.getResponse();
@@ -1203,17 +1312,16 @@ const ExitHandler = {
 				});
 			}
 
-			return handlerInput.responseBuilder
-           		.speak(speakResponse + " " + mySettings.mainMenu)
+			return handlerInput.responseBuilder
 				.withShouldEndSession(false)
-           		.reprompt(mySettings.mainMenu)
-           		.getResponse();
+				.reprompt(mySettings.mainMenu)
+				.getResponse();
 		}else{
 			console.log("** else do not understand")
-			return handlerInput.responseBuilder
-    	       .speak("I did not understand.  Say your response again.")
+			return handlerInput.responseBuilder
+			.speak("I did not understand.  Say your response again.")
 				.withShouldEndSession(false)
-        	   .getResponse();
+				.getResponse();
 		}
 	}
 };
@@ -1265,7 +1373,6 @@ const HelpHandler = {
         }
 
 		return handlerInput.responseBuilder
-			.speak(mySettings.helpMessage.concat(mySettings.mainMenu))
 			.withShouldEndSession(false)
 	  	    .reprompt(mySettings.mainOptions)
 	  	    .withSimpleCard(skillName, mySettings.mainOptions)
@@ -1314,6 +1421,8 @@ exports.handler = skillBuilder
 	CancelPurchaseHandler,
 	ExitHandler,
 	UpsellResponseHandler,
+	YesAndNoIntentHandler,
+	SessionResumedRequestHandler,
 	WhatCanIBuyHandler,
     PrevHandler,
     NextHandler,
