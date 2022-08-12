@@ -120,7 +120,6 @@ const WelcomeHandler = {
 		}
 		
 		return handlerInput.responseBuilder
-		//	.speak(greeting)
 			.reprompt(greeting)
 			.withShouldEndSession(false)
 			.withSimpleCard(skillName, mySettings.mainOptions)
@@ -224,7 +223,6 @@ const MainMenuHandler = {
 			resetAll();
 			return handlerInput.responseBuilder
 			.withShouldEndSession(false)
-      		//.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
       		.getResponse();
 		}
 
@@ -441,7 +439,6 @@ const WhatCanIBuyHandler = {
 
 				resetAll();
 				return handlerInput.responseBuilder
-				//  .speak(speakResponse + " " + mySettings.mainMenu)
 				  .withShouldEndSession(false)
 				  .reprompt(mySettings.mainMenu)
 				  .getResponse();
@@ -530,7 +527,6 @@ const CancelPurchaseHandler = {
 				resetAll();
 				
 				return handlerInput.responseBuilder
-				//  .speak(speakResponse + " " + mySettings.mainMenu)
 				  .withShouldEndSession(false)
 				  .reprompt(mySettings.mainMenu)
 				  .getResponse();
@@ -598,7 +594,6 @@ const UpsellResponseHandler = {
 
 			resetAll();
 			return handlerInput.responseBuilder
-			//.speak(speakResponse + " " + mySettings.mainMenu)
 			.reprompt(mySettings.mainMenu)
 			.withShouldEndSession(false)
 			.getResponse();
@@ -671,7 +666,6 @@ const MovieChoicesHandler = {
 			resetAll();
 			return handlerInput.responseBuilder
 			.withShouldEndSession(false)
-      		//.speak(apology + mySettings.mainMenu)
       		.getResponse();
 		}
 
@@ -778,7 +772,6 @@ const MovieChoicesHandler = {
  			
 				console.log("returning")
       			return handlerInput.responseBuilder
-				//  .speak(speechConcat)
 				  .withShouldEndSession(false)
       			  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       			  .getResponse();
@@ -1186,7 +1179,6 @@ const CommandsHandler = {
 			resetAll();
 			return handlerInput.responseBuilder
 			.withShouldEndSession(false)
-      		//.speak("Sorry, your response was not understood.  Going back to the main menu.  " + mySettings.mainMenu)
       		.getResponse();
 		}
 	}
@@ -1269,7 +1261,6 @@ const ExitHandler = {
 			}
 
 			return handlerInput.responseBuilder
-		 	//.speak(goodbyeSpeak)
 		  	.withSimpleCard(skillName,goodbyeCard)
 		  	.withShouldEndSession(true)
 		  	.getResponse();
@@ -1322,7 +1313,6 @@ const ExitHandler = {
 			}
 
 			return handlerInput.responseBuilder
-        	//	.speak(speakResponse + " " + mySettings.mainMenu)
 				.withShouldEndSession(false)
 				.reprompt(mySettings.mainMenu)
 				.getResponse();
@@ -1383,7 +1373,6 @@ const HelpHandler = {
         }
 
 		return handlerInput.responseBuilder
-			//.speak(mySettings.helpMessage.concat(mySettings.mainMenu))
 			.withShouldEndSession(false)
 	  	    .reprompt(mySettings.mainOptions)
 	  	    .withSimpleCard(skillName, mySettings.mainOptions)
