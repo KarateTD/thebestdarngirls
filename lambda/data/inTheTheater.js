@@ -56,7 +56,24 @@ module.exports = inTheTheaters;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Bodies Bodies Bodies",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bodiesbodiesbodies.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bodiesbodiesbodies.jpg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Fall",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fall.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fall.jpg"
+  }
+}
 
 */
 
