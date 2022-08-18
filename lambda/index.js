@@ -896,7 +896,7 @@ const SessionResumedRequestHandler = {
 					else if(token === 'AddToShoppingCartToken'){
 						console.log("in first else");
 						console.info(`[INFO] Shopping Action: Add to cart action was a success for ${token}.`);
-						speechText = "Let's get back to the reviews! ".concat(repeatGoBack);
+						speechText = "If you added an item to your cart, you can purchase, modify, or remove the item on Amazon.com. Let's get back to the reviews! ".concat(repeatGoBack);
 					}
 				break;
 				default:

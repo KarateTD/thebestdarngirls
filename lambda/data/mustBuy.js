@@ -2,7 +2,7 @@ var mustBuy = [
   {
     "option":"1",
     "mtitle":"Sonic the Hedgehog 2",
-    "review":"Sonic the Hedgehog 2 was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Australian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "review":"Sonic the Hedgehog 2 was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
       "re":"B09WQ2PJWR"
     },
@@ -38,7 +38,7 @@ var mustBuy = [
   {
     "option":"4",
     "mtitle":"Fantastic Beasts: The Secrets of Dumbledore",
-    "review":"Fantastic Beasts: The Secrets of Dumbledore was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Australian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "review":"Fantastic Beasts: The Secrets of Dumbledore was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
       "re":"B0B21WTML9"
     },
