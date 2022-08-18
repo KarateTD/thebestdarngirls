@@ -77,9 +77,7 @@
                         "justifyContent": "start",
                         "items": [
                             {
-                                "type": "AlexaHeader",
-                                "headerTitle": "${payload.longTextTemplateData.properties.title}",
-                                "headerAttributionImage": "${payload.longTextTemplateData.properties.logoUrl}"
+                                "type": "AlexaHeader"
                             },
                             {
                                 "type": "ScrollView",
