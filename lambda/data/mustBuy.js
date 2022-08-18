@@ -4,8 +4,7 @@ var mustBuy = [
     "mtitle":"Sonic the Hedgehog 2",
     "review":"Sonic the Hedgehog 2 was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Australian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":"B09WQ2PJWR",
-      "ca":"B09W73MHJ7"
+      "re":"B09WQ2PJWR"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sonicthehedgehog2.jpeg",
@@ -17,8 +16,7 @@ var mustBuy = [
     "mtitle":"Doctor Strange in the Multiverse of Madness",
     "review":"Doctor Strange and America Chavez run towards the Book of Vishanti with a demon chasing them.  Doctor Strange realizes the demon is too strong to stop.  There is only one way to win and save the multiverse, kill America.  Then, he wakes up in bed.  Doctor Strange is accustomed to these nightmares and brushes them off.  Today, Christine will marry Charles.<br/><br/>At the reception, Dr. Strange hears car crashes and people screaming.  He looks outside to see cars slamming by themselves.  He uses a spell to reveal a monster chasing a girl.  After Doctor Strange and Sorcerer Supreme Wong save the girl, Doctor Strange remembers her from his dream.  America swipes his sling ring and runs away.  Strange and Wong catch up to her, get the sling ring, and ask why the monster came after her.  She explains a demon desires to steal her power because she has the ability to jump through universes. Doctor Strange's dreams weren't dreams.  However, they were connections to the other Doctor Stranges in different universes.  Wong remembers markings on the monster, but they didn't look like any ruins they know.  They looked like witchcraft.  Doctor Strange decides to consult the strongest witch he knows: Wanda.<br/><br/>As Strange discusses the multiverse with Wanda, she says America's name.  Strange freezes because he never said it.  Wanda sent the creatures after America.  Wanda acquired the Darkhold and used it to move between universes to steal America's powers.  Once she has America's abilities, she can be in another universe with Billy and Tommy forever.  She gives Doctor Strange until sundown to bring America to her, or Scarlet Witch will come for them.<br/><br/>This movie kicks down any preconceived notions about the movie or the multiverse.  Before watching this film, you should watch What If, WandaVision, Spider-Man: No Way Home, and Doctor Strange.  While you won't get that awe-inspiring, stand up and cheer moment fans get with the other movies, you have a good time. You should know this is one of the most ruthless and bloody films in the MCU.  The graphics are stunning and look better in 3D.  And there are mid and post-credit scenes.<br/><br/>4 out of 5 stars.",
     "asin":{
-        "re":"B0B3DNT5K5",
-        "ca":"B0B3VYZH6J"
+        "re":"B0B3DNT5K5"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/doctorstrangemultiversemadness.jpeg",
@@ -30,8 +28,7 @@ var mustBuy = [
     "mtitle":"Everything Everywhere All at Once",
     "review":"Evelyn prepares the paperwork for their upcoming audit.  Her focus pulls her attention away from her husband, Waymond, when he tries to hand her divorce papers.  Her daughter, Joy, waits for Evelyn with Joy's girlfriend, Becky.  Evelyn brushes off Joy and concentrates on work.<br/><br/>Evelyn grabs her paperwork and goes to the IRS headquarters with Waymond and her father, Gong Gong.  As they ride the elevator up, Waymond deploys an umbrella to block the camera, grabs two earbuds, and puts them in Evelyn's ears.  He tells Evelyn that he is Waymond from another universe, and he needs her help.  If she wants to see him again, follow the instructions on the paper.<br/><br/>While talking with the IRS inspector, Deirdre, Evelyn looks at the paper.  It gives Evelyn 3 steps that land her in the janitor's closet with the other Waymond.  He tells her that the multiverse exists.  When another Evelyn discovered you could connect to another version of yourself, they used the power to gain skills.  But Jobu Tupaki wants to use this ability to destroy all the universes.  So, she is going through each one and killing Evelyns.  Waymond wants this universe's Evelyn to tap into the other Evelyns and defeat Jobu.  Then, Waymond and Deidre start fighting.  Within minutes, Evelyn has to learn how to tap into the multiverse, use her powers, and fight Jobu.  When she is face-to-face with her universe's Jobu, can Evelyn kill Jobu?<br/><br/>This film mixes the lessons of generational pain with some of the most hilarious, painful, and outrageous fight scenes ever crafted.  To tap into another universe's skills, they have to stimulate themselves. And it gets wild with fanny packs, awards, and dogs.  This 3-part film slows down towards the end and loses the audience for a while.  Be ready for a visual feast.<br/><br/>4 out of 5 stars.",
     "asin":{
-      "re":"B09X175QH5",
-      "ca":"B0B1W2F76P"
+      "re":"B09X175QH5"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/everythingeverywhereallatonce.jpeg",
@@ -43,8 +40,7 @@ var mustBuy = [
     "mtitle":"Fantastic Beasts: The Secrets of Dumbledore",
     "review":"Fantastic Beasts: The Secrets of Dumbledore was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Australian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":"B0B21WTML9",
-      "ca":"B0B2751TMF"
+      "re":"B0B21WTML9"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fantasticbeaststhesecretsofdumbledore.jpg",
@@ -56,8 +52,7 @@ var mustBuy = [
     "mtitle":"The Bad Guys",
     "review":"Mr. Wolf is the mastermind behind a gang of thieves.  Mr. Snake is the safe-cracker of the crew with no fingers.  Ms. Tarantula is the hacker, and everyone calls her Web.  Mr. Shark is a master of disguise.  Mr. Piranha is the craziest member because he is willing to fight no matter how many people stand in his way.  Since the world sees them as bad, they act accordingly by robbing banks, pick-pocketing, and running long cons.  Mr. Wolf watches the news coverage, and Governor Foxington's comments make him angry.  Governor Foxington feels sorry for them because they are playing into a stereotype, and she knows the police will catch them soon.  Mr. Wolf wants revenge and decides to loot the Good Samaritan Award, The Golden Dolphin.  The legendary Crimson Paw came close to stealing it but went into hiding afterward.  Mr. Wolf convinces Mr. Snake to take the job by showing him the recipient: Professor Marmalade, a guinea pig.  Mr. Snake can't resist because guinea pigs are his favorite food.<br/><br/>After a wild, well-executed, stinky heist, the team is ready to walk away scot-free.  Then, Mr. Wolf sees an old lady going down the stairs with an open purse full of money and jewels.  He tries to take it, but she starts to fall down the stairs.  He decides to pull her back and help her.  She pats Mr. Wolf on the hand and calls him a good boy.  It has an instant effect on him.  After exposure, Chief Misty arrests the bad guys and throws them in the police van.  Prof. Marmalade speaks on behalf of The Bad Guys.  He offers to reform them at his private residence instead of jail time.  Mr. Wolf agrees on behalf of the entire crew.<br/><br/>Inside the police van, Mr. Wolf's agreement confuses the crew.  They want to know why Mr. Wolf agreed to go 'good.'  Mr. Wolf explains that the award will be at Prof. Marmalade's home.  If they get inside, they will have a second chance to take it.  The Bad Guys will become The Good Guys to be The Bad Guys.<br/><br/>Based on The Bad Guys by Aaron Blabey, this animated Leverage with Logan Lucky comedy style will have adults and kids laughing.  The basis of the heist is realistic, but for children, the animation adds a lot of fun and creative dramatics.  Without it, you can remove the cartoon, add real people, and the script would work.  Adults may want to watch it twice with all the added plot twists.  Yes, there are several within the con.  This movie teaches kids to be more than a stereotype.  That's a lesson everyone can learn.<br/><br/>4 out of 5 stars.",
     "asin":{
-      "re":"B09YLLWC1H",
-      "ca":"B09YS7DM98",
+      "re":"B09YLLWC1H"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thebadguys.jpeg",
