@@ -711,8 +711,17 @@ const MovieChoicesHandler = {
 			//and if not advertised
 			if( menu.toLowerCase() === 'in stores' && recommended[parseInt(element.option)]){
 				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" Would you like to own ").concat(element.mtitle).concat("? ")
-				//mark if addveritised 
-				sku = element.asin;
+				if(request.locale == "en-IN") {
+					sku = "";
+				}else if(request.locale == "en-CA"){
+					sku = element.asin.ca;
+				}else{
+					sku = element.asin.re;
+				}
+				console.log("INFO: sku is "+sku);
+				if(sku == ""){
+					speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
+				}
 				recommended[parseInt(element.option)] = false;
 			}else{
 				//if in stores and adverstise (change array)
