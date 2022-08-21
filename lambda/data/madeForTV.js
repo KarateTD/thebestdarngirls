@@ -1,49 +1,49 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"In Love With My Partner's Wife",
-    "review":"Paul enters the home of his partner, Frank, and Frank's wife, Eve. Paul thanks Eve for the homemade lunch and leaves with Frank. Frank and Paul stake out Jeffery's home. Frank goes through the front while Paul enters the backyard. Paul stumbles across Jeffery and pleads with Jeffery to put down his knife to talk. Jeffery calms down and tells Paul there is a rat on the force. As they talk, Frank shoots Jeffery.<br/><br/>Paul enters Frank's house, ready for his free lunch and spirited conversation with Paul, but Paul's not there. Due to Addison's Disease, Eve has a dizzy spell, and Paul catches her, but he notices a bruise on her neck. Paul has Eve show all her bruises and learns his partner is abusive. Paul doesn't tell anyone else, but he confronts Frank at work. Frank tells Paul he will attend therapy, but that's a lie.<br/><br/>At their captain's party, Frank and Paul mingle with their co-workers. Frank takes Eve outside the bar and slaps her. Paul runs out to help Eve, punches Frank, and offers her a place to stay.<br/><br/>Paul gets a call from his captain telling him to come to work for an I.A.B. meeting. Paul wants to inform the captain about Frank's abuse. But the captain received a tip that Paul killed Jeffery in cold blood. But that's not all; Frank took Eve's pills and made it impossible to get more. With their lives on the line, Eve and Paul go on the run to clear their name.<br/><br/>Viewers will spot Frank's abusive nature when Eve puts the breakfast on the table. Frank needs constant flattery for any task, even if it's his boss or dad. Also, the movie doesn't end with the typical solution because Frank adds another wrinkle to their plan one hour into the film. So you will want to watch to see the conclusion. The film is watchable but never grabs your full attention.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Temptation Under the Sun",
+    "review":"Cassidy's boss, Detective Murphy, calls Cassidy into his office because she confronted and threatened a politician. Murphy's boss wants Cassidy fired, but Murphy tells her to take a vacation to St. Luke because she has a lot of time off.<br/><br/>Cassidy settles into her comfortable room and calls the concierge for advice on local restaurants. The concierge recommends Minerva's bar. Cassidy comes into the bar and catches Travis's eye. Travis defends Cassidy and asks her out on his boat to see the coral reefs.<br/><br/>After an uncomfortable encounter, Travis and Cassidy enjoy each other's company and leave after midnight. Cassidy and Travis plan to spend the day together until they see cops outside Minerva's bar. Inspector Dexter pulls out an evidence bag containing a knife and Minerva's blood. Travis thinks the weapon looks a lot like his. Dexter puts Travis in handcuffs and plans to question Travis at the station. Cassidy tells Dexter that Travis was with her that night but can't cover the murder's timeline. Cassidy doesn't believe Travis is capable of murder, and she will prove it.<br/><br/>This movie has a deserted island, explosions, and passionate love-making, but they couldn't save this film. This slow burn of moronic actions makes viewers yell at Cassidy, 'Just mind your business.' Winston is the saving grace of this plot with his on-the-mark comic relief. Be assured that you can skip this film in the Love, Lies, and Seduction series.<br/><br/>1.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/inlovewithmypartnerswife.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/inlovewithmypartnerswife.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/temptationunderthesun.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/temptationunderthesun.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"She Is Not Your Daughter",
-    "review":"Dr. Bob leaves his daughter, May, and wife, Liza, at the breakfast table for work. He finds a note on his car that states, 'she is not your daughter.' Bob goes to work and gets a phone call from an unknown caller. The caller tells Bob to meet at a local restaurant to discover who they are and what they want.<br/><br/>Bob goes to the café and sees Jill sitting in a booth. She regrets giving her daughter, May, to Bob and Liza. However, she threatens to tell Liza and May the truth unless Bob pays her $500,000 in 7 days. She gives Bob a phone to contact her later with more instructions.<br/><br/>With time winding down, Bob comes clean to Liza. Bob saw Liza was heartbroken after suffering a miscarriage. She gave birth later, but that baby died shortly after. While Liza was unconscious, Bob heard that Jill wanted to give her baby up for adoption. So he bought May from Jill and gave it to Liza before she woke up. Bob tells Jill that Liza knows everything and her blackmail scheme won't work. Jill turns to her sister, Faye, and explains to Faye the job is over. Faye won't take that lying down and hatches a new plan that involves kidnapping, murder, and $1,000,000.<br/><br/>Liza is the hero in this movie. She spots Bob's lies, protects May, and refuses to throw Bob in front of the bus. Also, Liza is quick on her feet and creates several stories to cover Bob's tracks with May, the police, and Bob's co-workers. While May makes an understandable mistake, she has the determination to keep fighting. This film won't be a favorite of the Stranger Danger series, but it's a compelling watch.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Secret Lives of College Escorts",
+    "review":"Eve urges her friend, Monica, to come home after a hard night of partying. Monica takes pictures of them at the club, and Eve tells Monica to stop. They are underage drinking and out past curfew. Monica says her account is private and to have fun. Monica leaves and apologizes to Eve while explaining that Eve has no idea what's happening. Eve attempts to understand when Monica becomes a hit and run victim.<br/><br/>After Monica's funeral, the university sends Eve a letter. They saw the pictures and revoked her scholarship and her spot on the volleyball team. Without that assistance, Eve needs $15,000 to pay her tuition for this semester in 10 days. Eve can get a job and use her proof of employment to defer payment, and then Eve's roommate, Shiann, remembers an article about Carla Preston. Eve aces her interview and gets the job along with Tamsen and Bryce. Isabella, the vice president, meets with all the young women to discuss the job. The company will pair the girls with a wealthy donor to convince them to give more money to Carla's charity. Carla's company pays $1500 weekly and a 5% commission based on donations. After their meeting, Eve pulls Isabella aside to get a letter for the bursar's office. Eve explains her situation, and Isabella says they can't give Eve a letter because Eve is a contractor. However, they will help.<br/><br/>Eve goes to the bursar with her mother. And to their surprise, an anonymous person paid Eve's tuition. Eve believes it was Isabella's fix and jumps for joy, but her mom has questions. Eve brushes off her mother's concerns and vows to work harder for Isabella and Carla. Unlike Bryce and Tamsen, Eve doesn't know she is now a high-end escort. If she goes against Carla, it will have deadly consequences.<br/><br/>Eve is naive to the 10th degree. No matter the warnings, Eve is too blinded by fame, prestige, and money to look into the company. Eve redeems herself by using her connections, friendship, and a client to bring Carla down. This film isn't the best in the Stranger Danger series, but it has some great outfits.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sheisnotyourdaughter.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sheisnotyourdaughter.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretlivesofcollegeescorts.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretlivesofcollegeescorts.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Twisted House Sitter",
-    "review":"After a public break-up with her boyfriend, Xander, Morgan decides to take an extended, tech-free vacation from her media company. In Morgan's haste, Morgan realizes that she forgot something, runs into her home, turns off the alarm, retrieves the item, and returns to the car. Her driver, Alicia, tries to make small talk, but Morgan focuses on her phone. Morgan arrives at the airport on time and hurries out of the car but forgets her keys. Alicia sees the keys in the back seat as she backs up the car. She drives to Morgan's house and lets herself in. Alicia takes a bath, cooks, and tries on Morgan's clothes. Alicia thinks she has a home, clothes, and money she deserves. When word gets back to Morgan, this inconvenience will become the house sitter from hell.<br/><br/>This movie will make you scream, 'the audacity' more than once as Alicia quickly makes herself at home in Morgan's house. Don't be fooled because it doesn't take long for Morgan to realize something is wrong and come home. At that moment, Alicia's cunning and Morgan's business sense battle it out. While the film has a great set-up, the final fight scene is comically bad.<br/><br/>3 out of 5 stars.",
+    "mtitle":"The Journey Ahead",
+    "review":"Madeline was the top actress in Hollywood, but now Suze is taking Madeline's place at the studio. Then, Madeline's husband, Richard, calls and says he is staying at the beach house for business. Madeline hasn't told anyone that she has a doctor's appointment today. Her doctor found a lump and wants to do a biopsy. Madeline requests they do it in New York because the paparazzi will follow her in L.A.. Overwhelmed by the news, Madeline calls Richard and leaves a voicemail saying she is coming to the beach house.<br/><br/>To her surprise, Madeline walks in on Richard with Suze. Madeline goes home and calls her assistant, Katie. Madeline is afraid to fly, so she wants Katie to find a driver to take her to New York and to schedule a locksmith to change the locks on all her houses. Madeline gets a phone call from an adoption agency and assumes it's about her donation. The caller tells Madeline that this is about the baby she gave up in 1984. Her daughter wants to meet Madeline, but Madeline isn't ready and says no. Katie's friend, Sarah, comes over to return an item before heading east. Madeline offers to pay Sarah to take her to New York. This cross-country road trip will be a path to healing for both women.<br/><br/>Madeline and Sarah appear as opposites until they start to talk to each other. Sarah thinks Madeline is too wealthy to understand her problems, and Madeline believes Sarah is too young. However, they guide each other to a new way of thinking. And forge a new chapter in their lives. This movie has pearls of wisdom for all viewers.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/twistedhousesitter.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/twistedhousesitter.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thejourneyahead.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thejourneyahead.jpg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Big Sky River",
-    "review":"Tara takes one last horseback ride with her stepdaughter, Erin, before leaving New York for a 3-month vacation on a ranch. Erin begs Tara to stay because Erin doesn't want to deal with her dad, James, and James's new girlfriend, Bethany. Tara urges Erin to use this time to connect with Bethany and James.<br/><br/>Tara arrives in town and stops at a gas station. The sheriff, Boone, warns Tara not to leave her purse unattended. His friend tries to set Boone up on a date, but he refuses because the woman isn't ready to be a mother to his two young sons, Fletcher and Griffin.<br/><br/>Boone comes home to a welcome surprise; Tara will be his neighbor for the next three months. They start to connect, but Boone can see that Tara has one foot out the door. As Tara lets down her guard, she gets a call from Erin and later James. Erin discovers that Bethany wants to send her to summer camp and boarding school. Shortly, James calls and asks if Erin can stay on the ranch, and Tara says yes. Tara resolves that Erin's presence could pause her budding relationship. But it's just what she and Boone need to get honest with each other.<br/><br/>Based on Big Sky River by Linda Lael Miller, this movie takes a deep look into the life of a step-parent. When Tara finds her voice in Erin's life, you will cheer in your seat. Boone is the complete opposite of James. You will fall in love with this open-hearted cowboy. Sit back and enjoy.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Sister With a Secret",
+    "review":"Tara and Jess help their mother, Janet, with her T-shirt business and gain a following. They shoot a reel as Janet's ex-husband, Tom, walks through the door. The family is happy about the company, but they prepare to say goodbye to Tara because she is leaving for college soon. Tara doesn't tell her family that she matched with a 25-year-old man, Ryan, online. They meet in private and make out. On their date, Ryan asks Tara about her recent outings because he pinged Tara's location on her phone. Tara turns off her phone's location services so Ryan can't track her anymore.<br/><br/>Tara and Ryan go to breakfast at a coffee house because her old friend, Alex, is working the counter. Ryan becomes upset and tells Tara that he hacked into the community college near hers and enrolled himself. Tara thinks Ryan went too far and breaks up with Ryan. Tara made plans with Tom. But cancels them and attends the party. Tara tries to have fun but gets a text message about her location. Upset, Tara leaves the party, and Sharon sees Tara walk away with a grimace.<br/><br/>Janet tells Jess to check on Tara for breakfast, but Tara's not in her room, and her car is missing. Then Tara calls Tom and asks when Tara left last night. He says that Tara didn't leave because she canceled. The family's worst fears have come true. Their daughter is missing.<br/><br/>This story seems improbable unless you've watched Text Me When You Get Home. Clues to Tara's life are in her text messages and digital footprint. Janet thought she and Tara were close, but Janet uncovers Tara's relationship, sadness, and stalking. This movie sums up the TV series in two hours.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bigskyriver.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bigskyriver.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sisterwithasecret.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sisterwithasecret.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"The Art of Passion",
-    "review":"Dr. Hope and her friend, Nina, attend a gallery show. They converse about the art and the exorbitant cost with a fellow patron. That patron is the artist, James, and both women are embarrassed. The next day, Hope sees a familiar face on her exam table. It's Maggie, an abuse victim, and she has bruises everywhere. Then Arnie enters the hospital and demands to see Maggie, but Hope won't back down.<br/><br/>Hope runs home and feels someone watching her. So she quickens her pace and unknowingly drops her phone. Then she jumps behind a fence and waits for the stalker to pass. James comes up and asks why she is sneaking into his backyard. James offers to help Hope because he has a cousin, Rita, that works as a detective. Hope says no and walks away from the handsome artist.<br/><br/>After not being able to find her phone, Hope gets a new one and updates her contacts. Then, she receives a message from Arnie. He has her phone and stands outside her hospital. He wants Hope to reveal his wife's location, or he will destroy her career and end her life.<br/><br/>Welcome back to 90s Lifetime movies. Luckily, Hope found a strong, sexy, and wealthy man to help her. He awakens something in Dr. Hope that she left behind for her career. This film is a sexy thriller that old-school Lifetime fans miss. And please remember to put a lock on your phone.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Love, Game, Match",
+    "review":"Liz, an economics teacher, beams with pride as two of her students, Dylan and Ariella, turn their class project into a real business. They created an extensive dating app but put all their money into research and development. So, they are asking teachers to sign up to spread the word and test the app. Liz tells them probably and leaves. Liz gets hit by a tennis ball on her way to an appointment. Ted, a coach, comes over, apologizes, and helps her cover the stain. Liz goes home and signs up for the site.<br/><br/>The teachers get together to assign events for the year. When the carnival comes up, everyone in the room is silent. So Liz volunteers. But when the principal asks Ted, he says he is too busy. Liz breathes an audible sigh of relief to her friend, Tammy, and Ted hears it. He changes his mind and joins the carnival committee. Then, Dylan convinces Ted to join the app too. With a string of bad first dates, a thirsty rival, and consolation prizes, will Ted and Liz find love?<br/><br/>This easy-going film makes you fall in love with Ted's parents and the '66 Mustang more than with the lead couple. However, it's hilarious watching Liz go through her bad dates. This movie also sparks an ongoing debate between those who believe winners should get trophies or if everyone should get a prize. But which side are you taking?<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theartofpassion.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theartofpassion.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovegamematch.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovegamematch.jpg"
     }
-  }
+  }  
 ];
 
 module.exports = madeForTV;
@@ -56,50 +56,5 @@ module.exports = madeForTV;
 
 /*
 
-{
-  "option":"1",
-  "mtitle":"Temptation Under the Sun",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/temptationunderthesun.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/temptationunderthesun.jpeg"
-  }
-},
-{
-  "option":"2",
-  "mtitle":"Secret Lives of College Escorts",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretlivesofcollegeescorts.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretlivesofcollegeescorts.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"The Journey Ahead",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thejourneyahead.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thejourneyahead.jpg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Sister With a Secret",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sisterwithasecret.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sisterwithasecret.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"Love, Game, Match",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovegamematch.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovegamematch.jpg"
-  }
-}
 
 */

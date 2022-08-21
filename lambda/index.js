@@ -728,11 +728,11 @@ const MovieChoicesHandler = {
     		if(supportsAPL(handlerInput)){
 				console.log("**** if it has screen")
 
-				console.log(speechConcat)
+				console.log("Saying: "+speechConcat)
 				console.log(element.image.largeImageUrl)
 				console.log(element.image.smallImageUrl)
 				console.log(element.mtitle)
-				console.log(element.review)
+				console.log("Seeing: "+element.review)
 
 				//Don't use Background for image.  This section uses the promo photo for the background
 				handlerInput.responseBuilder.addDirective({
@@ -897,6 +897,7 @@ const SessionResumedRequestHandler = {
 						console.log("in first else");
 						console.info(`[INFO] Shopping Action: Add to cart action was a success for ${token}.`);
 						speechText = "If you added an item to your cart, you can finish purchasing, modify, or remove the item on Amazon.com. Let's get back to the reviews! ".concat(repeatGoBack);
+						console.info(`[INFO] Said ${speechText}`);
 					}
 				break;
 				default:
