@@ -77,8 +77,6 @@ module.exports = mustBuy;
     "review":"Gorr walks the deserts of his land with his daughter. He prays for his God to bring food and water for his child, but she dies in his arms. As he weeps on her grave, an oasis appears. Gorr asks his God why he didn't assist him and his daughter. His God admits he didn't care and can find new followers. Gorr renounces his God and then summons the killer's weapon, Necrosword, to him and slays the God. He vows to become the new God Killer and murder every God and their followers.<br/><br/>After defeating Thanos and his army, Thor joins the Guardians of the Galaxy to defend the universe. The battles are simple for this God of Thunder. After Thor finishes another battle leaving the Guardians useless, they looked for more distressed planets. And Thor spots Sif. Thor and Korg go to Sif and find her injured on the battlefield. She warns Thor that Asgard is Gorr's next stop. Thor, Korg, and Sif head to Asgard.<br/><br/>Dr. Jane Foster wrote a book and is a leader in her field, but she spends more time researching her stage 4 cancer than the stars. Then, Jane hears Mjolnir calling her name. She travels to Asgard, a vacation destination, and searches for the shattered pieces of Mjolnir. In Asgard, King Valkyrie spends more time on politics than battle.<br/><br/>Thor, Korg, and Sif return to Asgard and discover it under attack. Gorr summoned shadow monsters to attack the Asgardians. Thor grabs Stormbreaker for battle but sees a familiar object ripping through creatures. It's Mjolnir. Thor calls the hammer towards him, but it's under the control of someone else: Jane, The Mighty Thor. However, they don't notice other shadow monsters stealing the Asgard children until it's too late.<br/><br/>As Valkyrie, Jane, and Thor create a plan to rescue the kids, Axl, Heimdall's son, connects to Thor using his inherited gifts. Through Axl's eyes, Thor can see the children inside a Shadow Realm cave. Valkyrie and Thor exchange a look. They know the best place to summon a God's army is Omnipotent City and then asking Zeus. They can rescue the Asgardian children and defeat Gorr with Zeus's army. Thor doesn't understand that fighting a war is easy, but battling for love will kill.<br/><br/>During the opening credits, viewers get a glimpse into the battles of the Asgardians of the Galaxy. This film adds insight into the past while giving hints to the overarching antagonist of these MCU phases. So keep your eyes open. Let's not forget that the script introduces us to more Young Avengers. The movie is off-the-charts with well-crafted CGI and flawless fight choreography. During the Shadow Realm fight scene, the contrast of the black and white world with the color from the clashing weapons is worth the 3D price. Unlike other Thor movies, this film gives the characters a satisfying and heart-warming conclusion. And stick around for two post-credit scenes that offer a new villain and a new life.<br/><br/>4.5 out of 5 stars.",
     "asin":{
       "re":"",
-      "ca":"",
-      "in":""
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thorloveandthunder.jpeg",
@@ -136,4 +134,42 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/minionstheriseofgru.jpeg"
     }
   }
+
+  {
+    "option":"4",
+    "mtitle":"Bullet Train",
+    "review":"Yuichi Kimura sits near a hospital bed, where his son, Wataru, is in a coma. As Wataru's grandfather, The Elder, walks in, Yuichi reports that someone pushed Wataru off a roof. Yuichi found a note. The note states that Wataru's attacker will be on the bullet train headed to Kyoto in seat B4. As he approaches B4 with a gun, Yuichi finds a young girl sitting there. He apologizes, and she stuns him. The young girl is known as The Prince and wants to use Yuichi to set up her target, The White Death.<br/><br/>Maria's called her best snatch-and-grab man, Ladybug, for a job after The Carver fell ill. After some time with his therapist, Barry, Ladybug is ready to return to work. Maria wants Ladybug to board the bullet train and find a silver briefcase with train stickers and get off at the next stop.<br/><br/>Lemon and Tangerine are twin brothers working for The White Death. The White Death's enemies kidnapped his son, The Son, and held him for ransom. Lemon and Tangerine faked a ransom drop, killed the kidnappers, and got The Son. They will ride the bullet train and return The Son and the briefcase of money to The White Death.<br/><br/>A mobster raised The Wolf after The Wolf's mother died. Now, The Wolf is a contract killer for the mob boss. Years later, The Wolf marries his girlfriend in a white tuxedo with the mob in attendance. The Wolf raised his glass of red wine just as a waiter bumped him, spilling wine on The Wolf's tux. The Wolf left to clean his suit and got a bloody shock. All his guests, including his wife, were bleeding from their eyes and mouths. They all died. Later, someone uncovered that The Hornet poisoned The Wolf's wedding, and now The Hornet will be on the bullet train. These killers are on the same train with a different mission. However, they will collide with a Fiji bottle, a barrette, a sticker, and one unfortunate incident. Oh, and there is a venomous snake loose on the train.<br/><br/>If you miss one second, go home. Based on Bullet Train by Kōtarō Isaka, this movie has surprises throughout the plot that will make you gasp, laugh, and scream. Between Ladybug's therapy wisdom and Lemon's Thomas the Tank Engine obsession, the audience will find quick laughs between the bloodshed. While the story isn't linear, the director placed the flashbacks in the right place to move the story forward. There is one mid-credit scene that will bring you to a visual zen. If you love Ambulance's action, John Wick's humor, and Death on the Nile's mystery, this is the right movie for you.<br/><br/>5 out of 5 stars.",
+    "asin":{
+      "re":"B0B64HSFTZ"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bullettrain.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bullettrain.jpg"
+    }
+  }
+  
+  {
+    "option":"5",
+    "mtitle":"DC League of Super Pets",
+    "review":"Before Kal-El's parents sent him to earth, his puppy jumped in the spacecraft with him. Years later, Kal-El is Superman, who poses as the mild-mannered Clark Kent. And his puppy is a full-grown dog called Krypto, but his alter-ego is Bark Kent. They work together to fight crime, but Krypto has a bigger enemy, Lois Lane. Lois feels that Krypto is lonely, so she suggests Superman go to the pet store and get Krypto a friend.<br/><br/>When Superman walks in, the proprietor notices one dog, Ace, escaped. Superman uses his x-ray vision to see Krypto immobilizing the escapee. Superman believes Krypto isn't ready for a companion, so he takes the pup home. Superman opens the door, but Lois isn't there. It's a guinea pig named Lulu. She shoots Superman with Kryptonite and throws him out the window. Lulu hid kryptonite in a piece of cheese that Krypto ate, so now he is defenseless. Then, Krypto recognizes Lulu.<br/><br/>Lulu was a guinea pig in Lex Luthor's lab. And as he experimented, she watched and learned. Lex studied different types of kryptonite and discovered the orange one could give him powers. Before Lex could test his theory, Superman and Krypto stopped him and freed all the guinea pigs, putting Lulu in a pet shop with Ace. However, Lulu didn't want Krypto to save her. When orange kryptonite came into orbit, Lex grabbed it, but the Justice League stopped Lex from obtaining it. It gave Lulu the power to move things with her mind. So she went to Superman's house to start step one of her plan.<br/><br/>Krypto wonders aimlessly and without powers until she sees lightning shooting from the ground to the sky. He finds Ace, PB, Merton, and Chip. Lulu didn't know, but they all got powers from the shard. Krypto thinks they should work together to stop Lulu before she destroys Superman and the world.<br/><br/>Adults, don't be surprised if you laugh more than your children at this film. The jokes aren't sexual innuendoes, so don't worry about that. This movie, based on the DC Legion of Super-Pets: The Great Mxy-UP, has the dark humor of a DC comic movie wrapped in adorable pets. The film will strike a chord with pet owners while raising awareness about pet adoption, especially the older pets. The plot is a bit of Snyder's Cut mixed with The Secret Life of Pets. Be prepared to laugh while your kids punch in the air. And there are mid and post-credit scenes.<br/><br/>5 out of 5 stars.",
+    "asin":{
+      "re":"B0B7VBF67Q"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dcleagueofsuperpets.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dcleagueofsuperpets.jpeg"
+    }
+  }
+
+   {
+    "option":"2",
+    "mtitle":"Top Gun: Maverick",
+    "review":"Top Gun: Maverick was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/topgunmaverick.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/topgunmaverick.jpg"
+    }
 */

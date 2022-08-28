@@ -56,7 +56,33 @@ module.exports = inTheTheaters;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Breaking",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/breaking.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/breaking.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"The Invitation",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theinvitation.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theinvitation.jpg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Three Thousand Years of Longing",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/threethousandyearsoflonging.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/threethousandyearsoflonging.jpg"
+  }
+}
 
 */
 
