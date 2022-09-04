@@ -172,4 +172,14 @@ module.exports = mustBuy;
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/topgunmaverick.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/topgunmaverick.jpg"
     }
+
+     {
+    "option":"1",
+    "mtitle":"Breaking",
+    "review":"Brian Brown-Easley stands outside Wells Fargo and thinks about his daughter and ex-wife. He walks inside and enters his information on a deposit slip. Rosa, a bank teller, calls Brian to her counter and makes small talk. He quietly asks Rosa for a piece of paper and writes a note. It reads, 'I have a bomb.' Rosa looks at her bank manager, Estel, with unbridled panic and fear in her eyes. They offer to give him money, but that's not what Brian wants. He wants Rosa and Estel to get news reporters and police on the scene. For months, Brian felt ignored and unheard. The VA and Lincoln College of Technology stole his money, and he wants the VA to pay it back.<br/><br/>Based on 'They Didn't Have to Kill Him': The Death of Lance Cpl. Brian Easley by Aaron Gell, this movie covers many topics plaguing US veterans, including homelessness, PTSD, job insecurity, and the VA.. It's painful to watch this kind man fight for the little money he had. For the soldiers that give everything for the US, it's disgusting that they have to jump through hoops to get anything back. Your heart will sink when Brian says the amount he's fighting over. Maybe, this movie will be the first step to righting some wrongs.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/breaking.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/breaking.jpeg"
+    }
+  }
 */
