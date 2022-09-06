@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Minions: The Rise of Gru",
+    "review":"It's career day in 1976, and while some kids dream of being doctors and lawyers, Gru dreams of joining The Vicious Six and becoming a super villain. The Vicious Six members are Belle Bottom, Jean Clawed, Nunchuck, Svengence, and Stronghold, and their leader is Wild Knuckles, Gru's hero. The Vicious Six accepted his application and wants Gru to interview for a spot on their team at Criminal Records tomorrow.<br/><br/>Gru doesn't know that The Vicious Six is looking for a new member because they turned on Wild Knuckles during their last heist. Wild Knuckles risked his life inside a temple to get the stone. The stone will give someone the power of a Chinese zodiac animal on the Chinese New Year. Instead of saving him, Belle Bottom grabs the stone and pushes Wild Knuckles off the plane. With Wild Knuckles dead, they need a new member to complete their team and use the stone to destroy the Anti-Villain League.<br/><br/>In the interview, Gru tells The Vicious Six that he is despicable and ready to join. Awestruck by Gru's age, they tell Gru no and to go to school. During another interviewee's questions, Gru sneaks around The Vicious Six and gets the stone. With The Vicious Six on his tail, Gru gives the stone to his minion, Otto, to take to their lair. They get away and meet with Otto at the hideout. Gru plans to return the stone to The Vicious Six, so they will accept him. Gru asks Otto for the stone, and Otto gives Gru a pet rock. On the way, Otto saw a birthday party, and the birthday boy got a pet rock. Otto fell in love with it and traded it for the stone. Gru walks out to find it, and Kevin sees someone kidnap Gru.<br/><br/>The kidnappers let Gru out of the bag, and Gru sees Wild Knuckles in front of him. Surprised to see Wild Knuckles alive, Gru hands him the pet rock instead of the stone. Wild Knuckles hangs Gru off a balcony and makes a ransom call to the minions. The Vicious Six still think Gru has the stone. Can the Minions save Gru and get the stone?<br/><br/>This movie has something for the entire family, from the opening credits to the mid-credits scene. The soundtrack will have you dancing in your seat with 70's funk, rock, and disco. The storyline is complex but not entirely original. Although the minions don't articulate well, the animators gave them spot-on non-verbal communication. The plot provides a training montage with Master Chow for an easy but fulfilling laugh. See this one in theaters, but 3D isn't necessary.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0B57M4S13"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/minionstheriseofgru.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/minionstheriseofgru.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"Sonic the Hedgehog 2",
     "review":"Sonic the Hedgehog 2 was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Doctor Strange in the Multiverse of Madness",
     "review":"Doctor Strange and America Chavez run towards the Book of Vishanti with a demon chasing them.  Doctor Strange realizes the demon is too strong to stop.  There is only one way to win and save the multiverse, kill America.  Then, he wakes up in bed.  Doctor Strange is accustomed to these nightmares and brushes them off.  Today, Christine will marry Charles.<br/><br/>At the reception, Dr. Strange hears car crashes and people screaming.  He looks outside to see cars slamming by themselves.  He uses a spell to reveal a monster chasing a girl.  After Doctor Strange and Sorcerer Supreme Wong save the girl, Doctor Strange remembers her from his dream.  America swipes his sling ring and runs away.  Strange and Wong catch up to her, get the sling ring, and ask why the monster came after her.  She explains a demon desires to steal her power because she has the ability to jump through universes. Doctor Strange's dreams weren't dreams.  However, they were connections to the other Doctor Stranges in different universes.  Wong remembers markings on the monster, but they didn't look like any ruins they know.  They looked like witchcraft.  Doctor Strange decides to consult the strongest witch he knows: Wanda.<br/><br/>As Strange discusses the multiverse with Wanda, she says America's name.  Strange freezes because he never said it.  Wanda sent the creatures after America.  Wanda acquired the Darkhold and used it to move between universes to steal America's powers.  Once she has America's abilities, she can be in another universe with Billy and Tommy forever.  She gives Doctor Strange until sundown to bring America to her, or Scarlet Witch will come for them.<br/><br/>This movie kicks down any preconceived notions about the movie or the multiverse.  Before watching this film, you should watch What If, WandaVision, Spider-Man: No Way Home, and Doctor Strange.  While you won't get that awe-inspiring, stand up and cheer moment fans get with the other movies, you have a good time. You should know this is one of the most ruthless and bloody films in the MCU.  The graphics are stunning and look better in 3D.  And there are mid and post-credit scenes.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Everything Everywhere All at Once",
     "review":"Evelyn prepares the paperwork for their upcoming audit.  Her focus pulls her attention away from her husband, Waymond, when he tries to hand her divorce papers.  Her daughter, Joy, waits for Evelyn with Joy's girlfriend, Becky.  Evelyn brushes off Joy and concentrates on work.<br/><br/>Evelyn grabs her paperwork and goes to the IRS headquarters with Waymond and her father, Gong Gong.  As they ride the elevator up, Waymond deploys an umbrella to block the camera, grabs two earbuds, and puts them in Evelyn's ears.  He tells Evelyn that he is Waymond from another universe, and he needs her help.  If she wants to see him again, follow the instructions on the paper.<br/><br/>While talking with the IRS inspector, Deirdre, Evelyn looks at the paper.  It gives Evelyn 3 steps that land her in the janitor's closet with the other Waymond.  He tells her that the multiverse exists.  When another Evelyn discovered you could connect to another version of yourself, they used the power to gain skills.  But Jobu Tupaki wants to use this ability to destroy all the universes.  So, she is going through each one and killing Evelyns.  Waymond wants this universe's Evelyn to tap into the other Evelyns and defeat Jobu.  Then, Waymond and Deidre start fighting.  Within minutes, Evelyn has to learn how to tap into the multiverse, use her powers, and fight Jobu.  When she is face-to-face with her universe's Jobu, can Evelyn kill Jobu?<br/><br/>This film mixes the lessons of generational pain with some of the most hilarious, painful, and outrageous fight scenes ever crafted.  To tap into another universe's skills, they have to stimulate themselves. And it gets wild with fanny packs, awards, and dogs.  This 3-part film slows down towards the end and loses the audience for a while.  Be ready for a visual feast.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"Fantastic Beasts: The Secrets of Dumbledore",
     "review":"Fantastic Beasts: The Secrets of Dumbledore was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fantasticbeaststhesecretsofdumbledore.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fantasticbeaststhesecretsofdumbledore.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"The Bad Guys",
-    "review":"Mr. Wolf is the mastermind behind a gang of thieves.  Mr. Snake is the safe-cracker of the crew with no fingers.  Ms. Tarantula is the hacker, and everyone calls her Web.  Mr. Shark is a master of disguise.  Mr. Piranha is the craziest member because he is willing to fight no matter how many people stand in his way.  Since the world sees them as bad, they act accordingly by robbing banks, pick-pocketing, and running long cons.  Mr. Wolf watches the news coverage, and Governor Foxington's comments make him angry.  Governor Foxington feels sorry for them because they are playing into a stereotype, and she knows the police will catch them soon.  Mr. Wolf wants revenge and decides to loot the Good Samaritan Award, The Golden Dolphin.  The legendary Crimson Paw came close to stealing it but went into hiding afterward.  Mr. Wolf convinces Mr. Snake to take the job by showing him the recipient: Professor Marmalade, a guinea pig.  Mr. Snake can't resist because guinea pigs are his favorite food.<br/><br/>After a wild, well-executed, stinky heist, the team is ready to walk away scot-free.  Then, Mr. Wolf sees an old lady going down the stairs with an open purse full of money and jewels.  He tries to take it, but she starts to fall down the stairs.  He decides to pull her back and help her.  She pats Mr. Wolf on the hand and calls him a good boy.  It has an instant effect on him.  After exposure, Chief Misty arrests the bad guys and throws them in the police van.  Prof. Marmalade speaks on behalf of The Bad Guys.  He offers to reform them at his private residence instead of jail time.  Mr. Wolf agrees on behalf of the entire crew.<br/><br/>Inside the police van, Mr. Wolf's agreement confuses the crew.  They want to know why Mr. Wolf agreed to go 'good.'  Mr. Wolf explains that the award will be at Prof. Marmalade's home.  If they get inside, they will have a second chance to take it.  The Bad Guys will become The Good Guys to be The Bad Guys.<br/><br/>Based on The Bad Guys by Aaron Blabey, this animated Leverage with Logan Lucky comedy style will have adults and kids laughing.  The basis of the heist is realistic, but for children, the animation adds a lot of fun and creative dramatics.  Without it, you can remove the cartoon, add real people, and the script would work.  Adults may want to watch it twice with all the added plot twists.  Yes, there are several within the con.  This movie teaches kids to be more than a stereotype.  That's a lesson everyone can learn.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B09YLLWC1H"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thebadguys.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thebadguys.jpeg"
     }
   }
 ];
@@ -119,19 +119,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pawsoffurythelegendofhank.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pawsoffurythelegendofhank.jpeg"
-    }
-  }
-
-  {
-    "option":"5",
-    "mtitle":"Minions: The Rise of Gru",
-    "review":"It's career day in 1976, and while some kids dream of being doctors and lawyers, Gru dreams of joining The Vicious Six and becoming a super villain. The Vicious Six members are Belle Bottom, Jean Clawed, Nunchuck, Svengence, and Stronghold, and their leader is Wild Knuckles, Gru's hero. The Vicious Six accepted his application and wants Gru to interview for a spot on their team at Criminal Records tomorrow.<br/><br/>Gru doesn't know that The Vicious Six is looking for a new member because they turned on Wild Knuckles during their last heist. Wild Knuckles risked his life inside a temple to get the stone. The stone will give someone the power of a Chinese zodiac animal on the Chinese New Year. Instead of saving him, Belle Bottom grabs the stone and pushes Wild Knuckles off the plane. With Wild Knuckles dead, they need a new member to complete their team and use the stone to destroy the Anti-Villain League.<br/><br/>In the interview, Gru tells The Vicious Six that he is despicable and ready to join. Awestruck by Gru's age, they tell Gru no and to go to school. During another interviewee's questions, Gru sneaks around The Vicious Six and gets the stone. With The Vicious Six on his tail, Gru gives the stone to his minion, Otto, to take to their lair. They get away and meet with Otto at the hideout. Gru plans to return the stone to The Vicious Six, so they will accept him. Gru asks Otto for the stone, and Otto gives Gru a pet rock. On the way, Otto saw a birthday party, and the birthday boy got a pet rock. Otto fell in love with it and traded it for the stone. Gru walks out to find it, and Kevin sees someone kidnap Gru.<br/><br/>The kidnappers let Gru out of the bag, and Gru sees Wild Knuckles in front of him. Surprised to see Wild Knuckles alive, Gru hands him the pet rock instead of the stone. Wild Knuckles hangs Gru off a balcony and makes a ransom call to the minions. The Vicious Six still think Gru has the stone. Can the Minions save Gru and get the stone?<br/><br/>This movie has something for the entire family, from the opening credits to the mid-credits scene. The soundtrack will have you dancing in your seat with 70's funk, rock, and disco. The storyline is complex but not entirely original. Although the minions don't articulate well, the animators gave them spot-on non-verbal communication. The plot provides a training montage with Master Chow for an easy but fulfilling laugh. See this one in theaters, but 3D isn't necessary.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0B57M4S13"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/minionstheriseofgru.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/minionstheriseofgru.jpeg"
     }
   }
 

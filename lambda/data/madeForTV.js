@@ -56,7 +56,51 @@ module.exports = madeForTV;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"House of Chains",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"",
+    "largeImageUrl":""
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Husband, Wife, and Their Lover",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"",
+    "largeImageUrl":""
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Are My Friends Killers?",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aremyfriendskillers.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aremyfriendskillers.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"The Bad Seed Returns",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thebadseedreturns.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thebadseedreturns.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Love, Bubbles,and Crystal Cove",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovebubblesandcrystalcove.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovebubblesandcrystalcove.jpeg"
+  }
+}
 
 
 */
