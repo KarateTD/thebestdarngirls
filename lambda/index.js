@@ -711,8 +711,10 @@ const MovieChoicesHandler = {
 			//and if not advertised
 			if( menu.toLowerCase() === 'in stores' && recommended[parseInt(element.option)]){
 				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" Would you like to own ").concat(element.mtitle).concat("? ")
-				if(request.locale == "en-IN" || request.locale == "en-CA") {
+				if(request.locale == "en-IN" || request.locale == "en-CA" || request == "en-AU") {
 					sku = "";
+				}else if(request.locale == "en-GB"){
+					sku = element.asin.gb;
 				}else{
 					sku = element.asin.re;
 				}

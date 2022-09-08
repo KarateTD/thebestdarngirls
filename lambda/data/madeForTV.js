@@ -61,8 +61,8 @@ module.exports = madeForTV;
   "mtitle":"House of Chains",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/houseofchains.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/houseofchains.jpeg"
   }
 },
 {
