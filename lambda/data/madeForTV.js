@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Marry Me in Yosemite",
-    "review":"Zoe's boss, Harris, has a new assignment for her. He wants her to create a new book for Yosemite, and Harris will make it a series if the book does well. Zoe takes on the project because she will get more books in the future. Harris gives Zoe a few weeks to take 100 or more photos with a blurb for some.<br/><br/>Zoe comes to the ranger station and asks Ranger Sage if any of them do a guided tour. Sage points out some of the most-liked trails, but Zoe wants something off the beaten path. Sage's grandfather, Cos, knows a naturalist, Jack, who understands the ecosystem and the landscapes. Through Cos, Zoe finds Jack at his remote cabin. He is willing to work with Zoe, but she will have to wait until next week. Zoe refuses because she needs her pictures soon, so she leaves. Sage tells Zoe about a day trail but warns Zoe it can get slippery.<br/><br/>Zoe gets some great images but slips on a rock and gets stuck. Jack hears Zoe's panicked cries, shoos the bear away, and pulls Zoe's foot out of the rock formation. Worried, Sage told Jack that Zoe was going on a trail and might need help. Zoe could be a danger to herself, so Jack offers to help her immediately. This relationship of convenience develops into natural love.<br/><br/>The beauty of Yosemite shines through effortlessly as the writers pay homage to the dark but honest history of the national park. Acknowledging this history allows viewers to appreciate the Half Dome and the romance. The romance takes a back seat to Zoe's goal, but it lets the romance develop believably. And the chemistry between Zoe and Jack is undeniable.<br/><br/>4 out of 5 stars.",
+    "mtitle":"House of Chains",
+    "review":"Laura gets off the bus with a book bag, dirty clothes, and a broken flip-flop. She hears a man, Tye, preaching to the homeless and watches. Tye tells Laura that in the past, her father abused her, and her mother allowed it. When Laura denies it, Tye says she refuses to remember.<br/><br/>Today, Laura and Tye have four children and one on the way. River loves to sing, and Meadow protects Laura. Rain is Tye's true believer, but Perry is the objector. Meadow jumps with joy because she will attend school with her siblings, but Tye warns them to be careful of the serpent. The serpent will trick them and keep them from the kingdom of heaven.<br/><br/>The kids go to school, and the students tease them for being dirty. Tye doesn't allow them to bathe and restricts their food. Meadow makes a friend, Andrea, and begs Laura to let the girl visit. Andrea goes into Laura and Tye's room and finds their TV. Meadow says the TV is demonic and a window to the serpent. Tye runs in, takes the remote, and tells Andrea to go home. He has decided the children will never go to school or leave the house. For ten years, Laura and Tye will have more children to mold, control, and torture. Social media will be their first step to freedom.<br/><br/>Loosely based on the Turpin Family, this movie will enrage anyone who watches. There will be plenty of trigger warnings throughout for viewers. Laura constantly ignores the cries of her children to please Tye. He instructs Laura to beat, chain, and restrain their children for days. Also, you will cry as Tye uses Perry as a scapegoat while favoring Rain and Meadow. If child abuse isn't enough to make you scream, cherry-picking the bible will make you furious. Viewers should not be angry with the children because they are prime examples of Stockholm Syndrome and trauma bonding. Tye created a cult within his home, and social workers, law enforcement, and neighbors should work together to save children like these.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/marrymeinyosemite.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/marrymeinyosemite.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/houseofchains.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/houseofchains.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"First Class Fear",
-    "review":"Sophie reassures her best friend, Emma, that no one believes the rumors about Emma on Carolyn's website, Living Hell. Sophie walks into her mother's classroom and tells Grace about the website. Grace has a parent-teacher conference with Carolyn's mom, Paula, and promises to get to the bottom of it. Paula says she doesn't believe Carolyn bullies other kids, but she will talk to her daughter about the website.<br/><br/>A few days later, Principal Dugger calls Carolyn and Sophie into his office. Both students were up for the Wilson scholarship, but Sophie won 1st place with $250,000 to any school. Carolyn rages that it is hers and believes Grace rigged the scholarship.<br/><br/>Carolyn confronts Sophie and tells her to give up the prize. Sophie explains she needs the money to pay for college. Then, Sophie gives Carolyn a dismissive eye roll and leaves. Carolyn vow to make Sophie give her the scholarship, or Carolyn will ruin Sophie.<br/><br/>Don't let the title fool you. This movie is about the first class of the day, not the airlines. In this school, there are so many failures to act that it will make your head spin. First, teens have way too much time on their hands. Second, a mother's love knows no bounds. A mother will do anything for their child, including using a shovel. Yes, Lifetimers. You will get a shovel to the face. This movie is as entertaining as it is infuriating. Also, it provides a fun mystery with plenty of suspects.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Husband, Wife, and Their Lover",
+    "review":"Veronica is an ad executive for her family's 100-year-old cereal company with old fashion family values. Veronica comes home and talks about her day with Jordan. With his 30th birthday coming up, Jordan has a special request: a ménage à trois.<br/><br/>Veronica discusses Jordan's request with her trainer, Lexi. Veronica turns around and asks Lexi to join them. Afterward, Jordan says yes to Lexi being their third. They spend a passionate night together, but Veronica feels elated and shamed.<br/><br/>Veronica meets with Lexi for a session, but Veronica sees something is off. Veronica decides to fire Lexi as her trainer. Lexi gets in Veronica's face, makes a scene, and complains to her boss. Lexi's boss comes to Veronica and says that Lexi made sexual harassment claims. Veronica quits. As Veronica cleans her locker, Lexi says quitting isn't enough to keep her quiet about the love affair. She wants $50,000, or she will go public. Veronica knows that public allegations will end her job and William's brand. So she decides to pay. But Veronica will learn that Lexi wants more, including revenge.<br/><br/>This story is expansive, and Lifetimers can feel it. While you watch, you know there is more to the story because Lexi won't back off. She comes to corporate events, prays, and kidnaps to get what she wants. This plot feels like a vengeful lover, but the character is more complex. This film is as frightening as it is sexy.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/firstclassfear.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/firstclassfear.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/husbandwifeandtheirlover.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/husbandwifeandtheirlover.jpg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Unthinkably Good Things",
-    "review":"After graduating college, Allison, Melina, and Reesa kept in touch while going through the ups and downs in their lives. Now Reesa and Melina plan to fly to Italy to meet up with Allison before she returns to the US. In Italy, Allison lives in a university rental, has a loving boyfriend, Nico, and teaches. Allison doesn't want to leave Italy behind, but it's the right thing to do because A and T provided her with the opportunity to work there.<br/><br/>Reesa completed her tour of duty and got an honorable discharge from the military. She and her husband, Andre, are trying to get pregnant, but to no avail.<br/><br/>Melina, a breast cancer survivor, started a restaurant, but it's failing. A make-or-break critic will come to her restaurant in a few weeks to evaluate her food. Reesa tells Melina a week away in Italy will improve Melina's cooking and that Melina will be back in time to meet the critic. Convinced, Melina decides to go but makes Reesa promise not to tell Allison about the declining business.<br/><br/>Reesa and Melina arrive in Italy and can't believe the spectacular landscape. As they tour the town, Allison receives a call from the Italian University. They want her to stay three more years. Reesa and Melina tell Allison to take the job, but Allison has something else to consider. A and T offered her a job as English Department Chair. Allison says the right thing to do is go to A and T, but Reesa and Melina want Allison to follow her heart. A fun-filled girls' trip will test their love, honesty, and faith in their friendship.<br/><br/>This movie covers so many issues in a kind and affirming way. It tackles infertility, military transitioning, breast cancer, judgment, and love within 2 hours. No matter who you are, you can find one woman to connect to in this story. While opening up, they must repair the unseen wholes in their bond. This film is the authentic meaning of keeping it real.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Are My Friends Killers?",
+    "review":"Zoey calls her best friend, Lauren, all day to wish Lauren a happy birthday but doesn't get an answer. So Zoey calls one last time, and Lauren's mom, Mrs. Price, picks up and gives Zoey some unfortunate news. Lauren died of a heart attack that morning, and they are having services for Lauren that week. Mrs. Price offers to pay for Zoey's entire college education if she attends Lauren's school, Woodford University. Zoey takes Mrs. Price's offer.<br/><br/>Zoey comes to campus, and Samantha helps Zoey with her bags while escorting Zoey to her dorm. Zoey meets her new roommate, Ming, and Samantha invites Zoey to an exclusive party. Zoey sees Samantha at the party, and Samantha introduces Zoey to David and Chloe. They call their club 'The Select.'<br/><br/>Zoey gets locked in the library and panics so loud Adam hears her. He walks Zoey out of the library and asks her out on a date. After waking up late, Zoey runs out the door and sees Mrs. Price standing in front of the dorm. Mrs. Price interrogates Zoey about Lauren's death. Mrs. Price believes someone murdered Lauren and positions Zoey in Lauren's dorm and around Lauren's friends to learn the truth. Zoey hangs her head and agrees to investigate. Zoey will put her life on the line to enter a world of deadly deception.<br/><br/>Kudos to Lifetime for putting on an enthralling mystery for its fans. Normally, Mrs. Price would be hounding the teachers, dean, and students to find out what happened to Lauren. The twist is Mrs. Price is blackmailing Lauren's best friend to do the work. Mrs. Price is the queen of delegating. This film is a movie meant for popcorn and tea.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/unthinkablygoodthings.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/unthinkablygoodthings.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aremyfriendskillers.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aremyfriendskillers.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Danger in the House",
-    "review":"Connor and his fiancée, Taylor, notice his mother, Mrs. June Covington, has had more dizzy spells lately. So, they decide to hire a nurse with June's approval. They invite June to a restaurant, and she agrees and offers to help interview nurses. Then June has an episode, and a woman at the bar, Nora, runs to June's rescue. Nora is a registered nurse who is new to town. After saving June, Connor gives Nora his business card and suggests she apply for the job.<br/><br/>Nora arrives for the interview and tours the home. Taylor gets nothing but glowing feedback from Nora's previous employers and hires Nora. However, June is not safe, and everyone has a secret. Who is the Danger in the House?<br/><br/>An abusive husband, a crazy ex, and an affair will keep you guessing throughout the plot. Everyone has a dark secret that threatens their lives and the lives of those around them. Don't be surprised if you need to watch this film twice to keep up with everyone and their indiscretions. There won't be a big reveal at the end because the plot slowly eliminates suspects for the viewers. This movie is an entertaining soap opera condensed into 2 hours.<br/><br/>4 out of 5 stars.",
+    "mtitle":"The Bad Seed Returns",
+    "review":"Emma dreams about her father's last days and wakes up with a smile. She lives with her aunt, Angela, Angela's boyfriend, Rob, and their new baby, Gabe. Emma picks the perfect outfit and practices conversing and expressing emotions. Emma is on her best behavior because dance team captain tryouts are in a few weeks.<br/><br/>Before Angela drops Emma off at school, she tells Emma that Rob did Emma a favor. He got her an interview with a private school a few hours away. Emma hides her fury and goes to class. The teacher introduces a new girl, Kat, to the class. Kat knows Emma and makes snide comments about Emma's past, but Emma doesn't remember Kat.<br/><br/>Emma dances with her team, including her friends Steph and Lola. The coach pulls Emma off the line and replaces her with Steph. Emma can't seem to get ahead of the competition, so she talks to her therapist, Dr. March. The doctor encourages Emma to solve her problems with Steph and Rob. For Emma, murder is the answer.<br/><br/>Based on the play The Bad Seed and the sequel to The Bad Seed, this movie will have you biting your nails. The plot allows you to see Emma scheming and manipulating Angela to get her way. She will use flashing lights, Cheerios, and knives to get everything she wants. The body count seems low until the last 20 minutes. You will get a payoff and a glimpse into a frightening future. Watch this before someone ruins the ending. And yes, you do get to see the original Bad Seed.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangerinthehouse.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangerinthehouse.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thebadseedreturns.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thebadseedreturns.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Styled with Love",
-    "review":"Rosy meets with her best friend, Mel, for a celebratory coffee. Rosy opened up her stylist boutique with the inheritance her grandmother, Aida, left her. Rosy will have a grand opening in a few days, but she needs to iron out some more details.<br/><br/>While Rosy plans her party, Val, the editor of Chicago Trend Magazine, walks into Rosy's boutique. Val wants to do a mini-feature on the boutique, so Rosy needs to finish her website. Before the new site goes live, Rosy needs new professional pictures. Mel has a cousin, Jaxon, who is a professional photographer.<br/><br/>Rosy meets Jaxon, and he takes a few test shots of her and says no. Annoyed, Rosy leaves Jaxon. Afterward, Jaxon gets a call from his agent, Chase. If Jaxon can get some candid, fun-loving shots, Jaxon could get a job with World Traveler Magazine. Jaxon calls Rosy, but she says no. He finds her place of business and makes Rosy an offer. He will take the pictures for free if she lets him use them in his portfolio. Rosy receives the photos for her website, and Jaxon gets them for the job. Rosy says yes to the agreement, but is she saying yes to anything else?<br/><br/>This movie makes a statement about having a job versus having a career. It takes a good nudge for Rosy to see her dream morphing into something unrecognizable. As her business and love interest fall to the waist side, Rosy discerns the truth. While the plot tries to make you worry, fans of the genre see the conclusion a mile away. This film has comedic moments but doesn't captivate its audience.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"Love, Bubbles, and Crystal Cove",
+    "review":"Gavin sits with his father, Vance, and talks about their latest acquisition, Crystal Cove, a shopping complex. All the stores are doing great, except one: Lather and Luxury. Vance wants to evict them, but Gavin convinces Vance to give the store more time. Gavin will use his trademark strategy to improve the store. If he fails, Vance will evict the store.<br/><br/>Gavin walks into Lather and Luxury and sees a familiar face; his ex-girlfriend, Skye. He offers to help her store, but she refuses because she thinks the store is doing ok. However, Skye's mother, Linda, begrudgingly speaks the truth. The store has been in a steady decline for years. Skye decides to take Gavin's assistance, but he doesn't tell her about the impending eviction. However, Skye tells Gavin that he has to learn about the products before he can offer input. Zoey and Gavin's brother, Cole, can see the sparks but will they last when Skye learns about the eviction?<br/><br/>Thank goodness for the comic relief of Zoey and Cole. They add moments of laughter to an unremarkable script. The actors tried their best, but it wasn't enough to inspire interest. Although hearing about the different scents and their properties is intriguing, its not enough to engage the viewer. When Cole and Zoey meet, you see the love and want more. This film won't be a favorite in the Fall in Love series.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/styledwithlove.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/styledwithlove.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovebubblesandcrystalcove.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovebubblesandcrystalcove.jpeg"
     }
   }
 ];
@@ -49,7 +49,7 @@ var madeForTV = [
 module.exports = madeForTV;
 
 /* Rules
-*  do not user '&' use the word 'and'
+*  do not use '&', use the word 'and'
 *  small image 720w x 480h (in pixels)
 *  large image 1200w x 800h (in pixels)
 */
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"House of Chains",
+  "mtitle":"Girl in Room 13",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/houseofchains.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/houseofchains.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/girlinroom13.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/girlinroom13.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Husband, Wife, and Their Lover",
+  "mtitle":"Dying to Win",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingtowin.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dyingtowin.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Are My Friends Killers?",
+  "mtitle":"Dating Hell",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aremyfriendskillers.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aremyfriendskillers.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/datinghell.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/datinghell.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"The Bad Seed Returns",
+  "mtitle":"To Her, With Love",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thebadseedreturns.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thebadseedreturns.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toherwithlove.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toherwithlove.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Love, Bubbles,and Crystal Cove",
+  "mtitle":"Finding Love in Big Sky",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovebubblesandcrystalcove.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovebubblesandcrystalcove.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/findingloveinbigsky.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/findingloveinbigsky.jpg"
   }
 }
 
