@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"House of Chains",
-    "review":"Laura gets off the bus with a book bag, dirty clothes, and a broken flip-flop. She hears a man, Tye, preaching to the homeless and watches. Tye tells Laura that in the past, her father abused her, and her mother allowed it. When Laura denies it, Tye says she refuses to remember.<br/><br/>Today, Laura and Tye have four children and one on the way. River loves to sing, and Meadow protects Laura. Rain is Tye's true believer, but Perry is the objector. Meadow jumps with joy because she will attend school with her siblings, but Tye warns them to be careful of the serpent. The serpent will trick them and keep them from the kingdom of heaven.<br/><br/>The kids go to school, and the students tease them for being dirty. Tye doesn't allow them to bathe and restricts their food. Meadow makes a friend, Andrea, and begs Laura to let the girl visit. Andrea goes into Laura and Tye's room and finds their TV. Meadow says the TV is demonic and a window to the serpent. Tye runs in, takes the remote, and tells Andrea to go home. He has decided the children will never go to school or leave the house. For ten years, Laura and Tye will have more children to mold, control, and torture. Social media will be their first step to freedom.<br/><br/>Loosely based on the Turpin Family, this movie will enrage anyone who watches. There will be plenty of trigger warnings throughout for viewers. Laura constantly ignores the cries of her children to please Tye. He instructs Laura to beat, chain, and restrain their children for days. Also, you will cry as Tye uses Perry as a scapegoat while favoring Rain and Meadow. If child abuse isn't enough to make you scream, cherry-picking the bible will make you furious. Viewers should not be angry with the children because they are prime examples of Stockholm Syndrome and trauma bonding. Tye created a cult within his home, and social workers, law enforcement, and neighbors should work together to save children like these.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Girl in Room 13",
+    "review":"Janie and Burt bring the family together to celebrate Grace's first month of sobriety. Grace talks to her co-worker, Red, about Grace's old friend, Richie. Grace is happy Richie is doing better and spending time with his son, Theo, but she wants to keep her distance from Richie and his drug use.<br/><br/>Red walks into work and hands Grace an envelope with money. Red says Theo hurt himself, and Richie doesn't have insurance. So Richie needs the cash to pay for Theo's medical care. Grace asks Janie to borrow Janie's car, and Janie hesitates. Grace begs Janie to trust her and promises to be back home by 3 pm. Grace meets Richie with her dog, Otis, and hands Richie the money. Richie hugs her, grabs her by the throat, chokes her, puts Grace in his car, and leaves Janie's car and Otis behind.<br/><br/>When animal control finds Otis, Janie knows something is wrong because Grace would never leave the dog behind. She will talk to Grace's friends, drug dealers, and a store full of people to find Grace. Janie doesn't know, but Grace is a victim of human trafficking, and Richie plans on selling Grace in 10 days. If Janie doesn't find Grace in time, Grace will be gone forever.<br/><br/>Inspired by actual events, this movie covers the network and preconceived notions of human trafficking. Movies usually depict this 150 billion dollar a year industry as an immigrant problem. However, it's an issue that transcends race, nationality, or status. To survivors of assault, this movie should come with a trigger warning. It depicts some horrific brutality and forced drug use. This film is well-crafted but hard to watch.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/houseofchains.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/houseofchains.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/girlinroom13.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/girlinroom13.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Husband, Wife, and Their Lover",
-    "review":"Veronica is an ad executive for her family's 100-year-old cereal company with old fashion family values. Veronica comes home and talks about her day with Jordan. With his 30th birthday coming up, Jordan has a special request: a ménage à trois.<br/><br/>Veronica discusses Jordan's request with her trainer, Lexi. Veronica turns around and asks Lexi to join them. Afterward, Jordan says yes to Lexi being their third. They spend a passionate night together, but Veronica feels elated and shamed.<br/><br/>Veronica meets with Lexi for a session, but Veronica sees something is off. Veronica decides to fire Lexi as her trainer. Lexi gets in Veronica's face, makes a scene, and complains to her boss. Lexi's boss comes to Veronica and says that Lexi made sexual harassment claims. Veronica quits. As Veronica cleans her locker, Lexi says quitting isn't enough to keep her quiet about the love affair. She wants $50,000, or she will go public. Veronica knows that public allegations will end her job and William's brand. So she decides to pay. But Veronica will learn that Lexi wants more, including revenge.<br/><br/>This story is expansive, and Lifetimers can feel it. While you watch, you know there is more to the story because Lexi won't back off. She comes to corporate events, prays, and kidnaps to get what she wants. This plot feels like a vengeful lover, but the character is more complex. This film is as frightening as it is sexy.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Dying to Win",
+    "review":"Katie Moore is the number 2 interview influencer on Chit Chat and has gold medalist Jesse as her guest. Jesse's mother, Diane, hopes the interview will entice more people to follow Jesse because more followers mean more endorsement deals. However, Katie uses her platform to do a hit piece on Jesse. Jesse handled the interview like a pro, but it only heeded 25 new followers. Diane is furious and calls Jesse's manager, Cooper, to convince producers to ask Jesse back on the show.<br/><br/>Tom, Diane's boyfriend, prepares hot wings for the family. He offers Jesse some, but Diane won't let her eat because she has a meeting with sponsors in the morning. Jesse wakes up and hears her mother yelling at Cooper over the phone. Diane hangs up and tells Jessie her career is over, and she fired Cooper. Jesse runs away to Cooper's home for safety. Jesse drinks alcohol with anxiety pills and parties at a bar. She meets a bartender, Quinn, and they dance all night while a paparazzi take photos of the intoxicated gymnast.<br/><br/>After a wild night, Jesse accidentally returns to Diane's home to find the front door open. She walks inside and discovers Tom and Diane dead. Cooper offers to let Jesse stay in his home, so Jesse won't have to sleep at a crime scene. The photos of the club are viral, and Cooper is happy. The picture is her alibi for the murder, but Katie got a tip. They believe Jesse had someone kill Diane to be with Tom, and Jesse is their number one suspect. It will take a note, social media, and Katie to clear Jesse's name.<br/><br/>Be prepared for one of the scariest momagers on Lifetime. Diane stalks social media, threatens journalists, and scares Jesse to ensure Jesse brings in the money. While the script gets a bit wild with trafficking, money laundering, and obsession, the overall plot is something Lifetimers know well. You will be able to deduce the killer before the first hour.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/husbandwifeandtheirlover.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/husbandwifeandtheirlover.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingtowin.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dyingtowin.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Are My Friends Killers?",
-    "review":"Zoey calls her best friend, Lauren, all day to wish Lauren a happy birthday but doesn't get an answer. So Zoey calls one last time, and Lauren's mom, Mrs. Price, picks up and gives Zoey some unfortunate news. Lauren died of a heart attack that morning, and they are having services for Lauren that week. Mrs. Price offers to pay for Zoey's entire college education if she attends Lauren's school, Woodford University. Zoey takes Mrs. Price's offer.<br/><br/>Zoey comes to campus, and Samantha helps Zoey with her bags while escorting Zoey to her dorm. Zoey meets her new roommate, Ming, and Samantha invites Zoey to an exclusive party. Zoey sees Samantha at the party, and Samantha introduces Zoey to David and Chloe. They call their club 'The Select.'<br/><br/>Zoey gets locked in the library and panics so loud Adam hears her. He walks Zoey out of the library and asks her out on a date. After waking up late, Zoey runs out the door and sees Mrs. Price standing in front of the dorm. Mrs. Price interrogates Zoey about Lauren's death. Mrs. Price believes someone murdered Lauren and positions Zoey in Lauren's dorm and around Lauren's friends to learn the truth. Zoey hangs her head and agrees to investigate. Zoey will put her life on the line to enter a world of deadly deception.<br/><br/>Kudos to Lifetime for putting on an enthralling mystery for its fans. Normally, Mrs. Price would be hounding the teachers, dean, and students to find out what happened to Lauren. The twist is Mrs. Price is blackmailing Lauren's best friend to do the work. Mrs. Price is the queen of delegating. This film is a movie meant for popcorn and tea.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Dating Hell",
+    "review":"Hannah's ex-husband, Josh, comes over to pick up their daughter, Maddie, for the night. Josh was a serial cheater and controlling during their marriage. Hannah's neighbor, Charlotte, thinks Hannah should try a dating app because Hannah has been single for two years. Curiosity gets the best of Hannah, and she turns on the account and gets dozens of matches.<br/><br/>After several unsuccessful dates, Hannah meets Daniel, and he says all the right things. They decide to go on a second date. After several fun dates, Hannah decides to spend the night with Daniel. She calls Kara, who is babysitting Maddie, and asks Kara to spend the night. Hannah offers her bed to Kara and says she will sleep in the bed with Maddie when she gets home.<br/><br/>Hannah comes home after a night of bliss with Daniel to be there when Maddie wakes up. She crawls into Maddie's bed and waits for the sun to rise. Hannah goes into her bedroom to check on Kara and discovers Kara is dead. Detective Jodi says someone murdered Kara in the middle of the night and pulls Hannah aside to question her. Hannah talks about Maddie, Josh, Charlotte, and Daniel. Jodi tells Maddie to be wary of Daniel because he is new in her life. Charlotte tells Hannah that she saw Josh sitting outside her apartment the night Kara died. Charlotte reported this incident to the police. With Detective Jodi on the case, Hannah prays this nightmare will be over soon, but the killer will kill again, and Hannah is the target.<br/><br/>For the first 90 minutes, this movie will stump expert Lifetimers. You get the classic clichés that will make you predetermine the outcome. However, most will be wrong. You have many options, including a nosy neighbor, a new boyfriend, and a crazy ex. This mystery is sexy and spellbinding. Did you figure it out before Hannah?<br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aremyfriendskillers.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aremyfriendskillers.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/datinghell.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/datinghell.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"The Bad Seed Returns",
-    "review":"Emma dreams about her father's last days and wakes up with a smile. She lives with her aunt, Angela, Angela's boyfriend, Rob, and their new baby, Gabe. Emma picks the perfect outfit and practices conversing and expressing emotions. Emma is on her best behavior because dance team captain tryouts are in a few weeks.<br/><br/>Before Angela drops Emma off at school, she tells Emma that Rob did Emma a favor. He got her an interview with a private school a few hours away. Emma hides her fury and goes to class. The teacher introduces a new girl, Kat, to the class. Kat knows Emma and makes snide comments about Emma's past, but Emma doesn't remember Kat.<br/><br/>Emma dances with her team, including her friends Steph and Lola. The coach pulls Emma off the line and replaces her with Steph. Emma can't seem to get ahead of the competition, so she talks to her therapist, Dr. March. The doctor encourages Emma to solve her problems with Steph and Rob. For Emma, murder is the answer.<br/><br/>Based on the play The Bad Seed and the sequel to The Bad Seed, this movie will have you biting your nails. The plot allows you to see Emma scheming and manipulating Angela to get her way. She will use flashing lights, Cheerios, and knives to get everything she wants. The body count seems low until the last 20 minutes. You will get a payoff and a glimpse into a frightening future. Watch this before someone ruins the ending. And yes, you do get to see the original Bad Seed.<br/><br/>5 out of 5 stars.",
+    "mtitle":"To Her, With Love",
+    "review":"Principal Meadows calls Kayla into his office because the regular art teacher is returning, and they are letting Kayla go. She wants to get a teaching grant in London. If she gets it, she will move. Unbeknownst to Kayla, her mother, Mrs. Scott, got an interview with Kayla's alma mater, Stansville High School.<br/><br/>Mr. Jordan Griffin works at Stansville. Principal Nancy pulls Jordan into her office and tells him to be on the lookout for a well-dressed woman. She is a school council representative sent to observe Stansville and make cuts. Jordan sees a woman in the hall and tries to escort her around the school. Jordan snaps and says people like her are the problem. Nancy comes out of her office and greets the woman with a smile. The woman is Kayla for the interview, not the representative. Jordan feels like a fool.<br/><br/>Kayla takes the job and asks for an assistant. During her first class, Kayla tries to connect, but the students don't believe she will stay. They start acting rowdy, and Jordan steps in to quiet them down. Jordan and Kayla decide to work together to give the students a substantial education and convince the board to keep the program. Will Jordan or her student trust Kayla when they learn she has another job offer?<br/><br/>Inspired by To Sir, with Love, this movie gives an emotional account of art's necessity in education. The students know the school board wants to give up on them, so they give up on themselves. Jordan and Kayla refuse to let them. Kayla even brings in a mentor to guide and inspire the kids to work harder. With impassioned speeches, this movie will bring a tear to your eye.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thebadseedreturns.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thebadseedreturns.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toherwithlove.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toherwithlove.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Love, Bubbles, and Crystal Cove",
-    "review":"Gavin sits with his father, Vance, and talks about their latest acquisition, Crystal Cove, a shopping complex. All the stores are doing great, except one: Lather and Luxury. Vance wants to evict them, but Gavin convinces Vance to give the store more time. Gavin will use his trademark strategy to improve the store. If he fails, Vance will evict the store.<br/><br/>Gavin walks into Lather and Luxury and sees a familiar face; his ex-girlfriend, Skye. He offers to help her store, but she refuses because she thinks the store is doing ok. However, Skye's mother, Linda, begrudgingly speaks the truth. The store has been in a steady decline for years. Skye decides to take Gavin's assistance, but he doesn't tell her about the impending eviction. However, Skye tells Gavin that he has to learn about the products before he can offer input. Zoey and Gavin's brother, Cole, can see the sparks but will they last when Skye learns about the eviction?<br/><br/>Thank goodness for the comic relief of Zoey and Cole. They add moments of laughter to an unremarkable script. The actors tried their best, but it wasn't enough to inspire interest. Although hearing about the different scents and their properties is intriguing, its not enough to engage the viewer. When Cole and Zoey meet, you see the love and want more. This film won't be a favorite in the Fall in Love series.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"Finding Love in Big Sky",
+    "review":"Josh gives a compassionate presentation to prospective clients. He is on cloud 9 when his boss, Marcus, pulls Josh aside and shows Josh a competitor's new campaign. Josh notices it looks strikingly similar to his, and Marcus and the people at the top saw it too. Marcus tells Josh to take some time off while they investigate him for corporate espionage. Josh meets his girlfriend, Bre, for dinner and suggests they go on a vacation to see her family. She tells Josh he should go on a vacation alone while they take a break from the relationship.<br/><br/>Josh walks into a diner to find an old friend, Paisley, sitting at the counter. After losing her parents in a car accident, Paisley moved to Montana with her extended family. Paisley left the corporate world behind after her grandfather died and left her his ranch. Now Paisley wants to turn it into a weekly summer camp focused on Equine Therapy. The nosy but supportive waitresses make sure Josh sees Paisley. Josh explains his rental car broke down, and he needs a place to stay while the mechanic fixes it. The waitresses offer Paisly's ranch because she is looking for a ranch hand in exchange for room and board. Paisley agrees to let him stay the night.<br/><br/>Don't be surprised if you want a weekly series about the nosy waitresses. They are the laugh you need. However, the movie focuses on Paisley getting the loan but being true to herself. Josh expresses she needs to do more to launch a business these days. He helps her get out of her comfort zone, but Paisley brings Josh to his roots, one horse ride at a time. This film has some lulls, but the plot picks up in the right spots.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovebubblesandcrystalcove.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovebubblesandcrystalcove.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/findingloveinbigsky.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/findingloveinbigsky.jpg"
     }
   }
 ];
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Girl in Room 13",
+  "mtitle":"Dying for a Crown",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/girlinroom13.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/girlinroom13.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingforacrown.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingforacrown.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Dying to Win",
+  "mtitle":"Revenge for My Mother",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingtowin.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dyingtowin.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/revengeformymother.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/revengeformymother.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Dating Hell",
+  "mtitle":"What Happened to My Sister",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/datinghell.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/datinghell.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whathappenedtomysister.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whathappenedtomysister.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"To Her, With Love",
-  "review":"Principal Meadows calls Kayla into his office because the regular art teacher is returning, and they are letting Kayla go. She wants to get a teaching grant in London. If she gets it, she will move. Unbeknownst to Kayla, her mother, Mrs. Scott, got an interview with Kayla's alma mater, Stansville High School.<br/><br/>Mr. Jordan Griffin works at Stansville. Principal Nancy pulls Jordan into her office and tells him to be on the lookout for a well-dressed woman. She is a school council representative sent to observe Stansville and make cuts. Jordan sees a woman in the hall and tries to escort her around the school. Jordan snaps and says people like her are the problem. Nancy comes out of her office and greets the woman with a smile. The woman is Kayla for the interview, not the representative. Jordan feels like a fool.<br/><br/>Kayla takes the job and asks for an assistant. During her first class, Kayla tries to connect, but the students don't believe she will stay. They start acting rowdy, and Jordan steps in to quiet them down. Jordan and Kayla decide to work together to give the students a substantial education and convince the board to keep the program. Will Jordan or her student trust Kayla when they learn she has another job offer?<br/><br/>Inspired by To Sir, with Love, this movie gives an emotional account of art's necessity in education. The students know the school board wants to give up on them, so they give up on themselves. Jordan and Kayla refuse to let them. Kayla even brings in a mentor to guide and inspire the kids to work harder. With impassioned speeches, this movie will bring a tear to your eye.<br/><br/>5 out of 5 stars.",
+  "mtitle":"Charmed and Cheated",
+  "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toherwithlove.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toherwithlove.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/charmedandcheated.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/charmedandcheated.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Finding Love in Big Sky",
-  "review":"Josh gives a compassionate presentation to prospective clients. He is on cloud 9 when his boss, Marcus, pulls Josh aside and shows Josh a competitor's new campaign. Josh notices it looks strikingly similar to his, and Marcus and the people at the top saw it too. Marcus tells Josh to take some time off while they investigate him for corporate espionage. Josh meets his girlfriend, Bre, for dinner and suggests they go on a vacation to see her family. She tells Josh he should go on a vacation alone while they take a break from the relationship.<br/><br/>Josh walks into a diner to find an old friend, Paisley, sitting at the counter. After losing her parents in a car accident, Paisley moved to Montana with her extended family. Paisley left the corporate world behind after her grandfather died and left her his ranch. Now Paisley wants to turn it into a weekly summer camp focused on Equine Therapy. The nosy but supportive waitresses make sure Josh sees Paisley. Josh explains his rental car broke down, and he needs a place to stay while the mechanic fixes it. The waitresses offer Paisly's ranch because she is looking for a ranch hand in exchange for room and board. Paisley agrees to let him stay the night.<br/><br/>Don't be surprised if you want a weekly series about the nosy waitresses. They are the laugh you need. However, the movie focuses on Paisley getting the loan but being true to herself. Josh expresses she needs to do more to launch a business these days. He helps her get out of her comfort zone, but Paisley brings Josh to his roots, one horse ride at a time. This film has some lulls, but the plot picks up in the right spots.<br/><br/>3.5 out of 5 stars.",
+  "mtitle":"Malicious Mind Games",
+  "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/findingloveinbigsky.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/findingloveinbigsky.jpg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maliciousmindgames.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maliciousmindgames.jpeg"
   }
 }
 
