@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Girl in Room 13",
-    "review":"Janie and Burt bring the family together to celebrate Grace's first month of sobriety. Grace talks to her co-worker, Red, about Grace's old friend, Richie. Grace is happy Richie is doing better and spending time with his son, Theo, but she wants to keep her distance from Richie and his drug use.<br/><br/>Red walks into work and hands Grace an envelope with money. Red says Theo hurt himself, and Richie doesn't have insurance. So Richie needs the cash to pay for Theo's medical care. Grace asks Janie to borrow Janie's car, and Janie hesitates. Grace begs Janie to trust her and promises to be back home by 3 pm. Grace meets Richie with her dog, Otis, and hands Richie the money. Richie hugs her, grabs her by the throat, chokes her, puts Grace in his car, and leaves Janie's car and Otis behind.<br/><br/>When animal control finds Otis, Janie knows something is wrong because Grace would never leave the dog behind. She will talk to Grace's friends, drug dealers, and a store full of people to find Grace. Janie doesn't know, but Grace is a victim of human trafficking, and Richie plans on selling Grace in 10 days. If Janie doesn't find Grace in time, Grace will be gone forever.<br/><br/>Inspired by actual events, this movie covers the network and preconceived notions of human trafficking. Movies usually depict this 150 billion dollar a year industry as an immigrant problem. However, it's an issue that transcends race, nationality, or status. To survivors of assault, this movie should come with a trigger warning. It depicts some horrific brutality and forced drug use. This film is well-crafted but hard to watch.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Dying for a Crown",
+    "review":"Lydia and her daughter, Elle, move across the country to start a new life. Elle's first day of school is Lydia's first day of work as vice principal. Lydia warns Elle that this school is a fresh start.<br/><br/>Lydia meets with the principal, Alice, to learn about the school. During their conversation, Alice reminds Lydia that she didn't receive Lydia's letter of recommendation. Lydia promises to send Alice a copy and gets to work finding the most popular kids in school. When she sees Kate's the frontrunner for homecoming queen, Lydia tells Elle to make Kate her best friend or worst enemy. Lydia would be happy and wealthy if she married her high school sweetheart. So Lydia tells Elle to forget her studies and focus on being homecoming queen by any means necessary. This mother-daughter duo will wreak havoc on the faculty and students.<br/><br/>O.M.G. is the only way to describe this movie. Lydia is delusional about the importance of a piece of plastic. No one deserves to have Lydia and Elle mess up their lives. And all for nothing. The plot pulls you in with hatred for Lydia and Elle and concern for everyone else. But it all falls flat in the end because you never know how or who solved the investigation. This film had a magnificent build-up to an incomplete conclusion.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/girlinroom13.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/girlinroom13.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingforacrown.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingforacrown.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Dying to Win",
-    "review":"Katie Moore is the number 2 interview influencer on Chit Chat and has gold medalist Jesse as her guest. Jesse's mother, Diane, hopes the interview will entice more people to follow Jesse because more followers mean more endorsement deals. However, Katie uses her platform to do a hit piece on Jesse. Jesse handled the interview like a pro, but it only heeded 25 new followers. Diane is furious and calls Jesse's manager, Cooper, to convince producers to ask Jesse back on the show.<br/><br/>Tom, Diane's boyfriend, prepares hot wings for the family. He offers Jesse some, but Diane won't let her eat because she has a meeting with sponsors in the morning. Jesse wakes up and hears her mother yelling at Cooper over the phone. Diane hangs up and tells Jessie her career is over, and she fired Cooper. Jesse runs away to Cooper's home for safety. Jesse drinks alcohol with anxiety pills and parties at a bar. She meets a bartender, Quinn, and they dance all night while a paparazzi take photos of the intoxicated gymnast.<br/><br/>After a wild night, Jesse accidentally returns to Diane's home to find the front door open. She walks inside and discovers Tom and Diane dead. Cooper offers to let Jesse stay in his home, so Jesse won't have to sleep at a crime scene. The photos of the club are viral, and Cooper is happy. The picture is her alibi for the murder, but Katie got a tip. They believe Jesse had someone kill Diane to be with Tom, and Jesse is their number one suspect. It will take a note, social media, and Katie to clear Jesse's name.<br/><br/>Be prepared for one of the scariest momagers on Lifetime. Diane stalks social media, threatens journalists, and scares Jesse to ensure Jesse brings in the money. While the script gets a bit wild with trafficking, money laundering, and obsession, the overall plot is something Lifetimers know well. You will be able to deduce the killer before the first hour.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Revenge for My Mother",
+    "review":"Gavin wakes his daughter, Elizabeth, and tells her to find a job. Elizabeth jumps on the computer and finds Stroller Mom's assistant posting. It's a workout group for new moms and allows them to bring their babies. Elizabeth sends the link to Gavin. He suffers from a heart attack after seeing a picture of the group's owner, Audrey. He explains that he lied to Elizabeth about how her mom died. Audrey killed Elizabeth's mom in a hit and run accident. Gavin begs Elizabeth to stay away from Audrey and goes into surgery. A few hours later, a doctor tells Elizabeth Gavin didn't make it. Elizabeth vows to ruin Audrey's life because Audrey took away both of her parents. Elizabeth changes her name to Brooklyn, applies for the job, and becomes an exemplary employee. Audrey doesn't take long introducing Brooklyn to her husband, Matt, their daughter, Zoe, and her best friend, Jane. One by one, they will all be gone.<br/><br/>This story centers around revenge and postpartum depression. Lifetimers, don't be surprised if you have little sympathy for Audrey in this film as Elizabeth, a.k.a Brooklyn, destroys Audrey's business, relationship, and friendship. You may even cheer for Elizabeth's wicked ways. Be warned: there is one scene that will make you cringe. The concept of the movie is strong, but it jumps to exposure too fast and with no explanation.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingtowin.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dyingtowin.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/revengeformymother.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/revengeformymother.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Dating Hell",
-    "review":"Hannah's ex-husband, Josh, comes over to pick up their daughter, Maddie, for the night. Josh was a serial cheater and controlling during their marriage. Hannah's neighbor, Charlotte, thinks Hannah should try a dating app because Hannah has been single for two years. Curiosity gets the best of Hannah, and she turns on the account and gets dozens of matches.<br/><br/>After several unsuccessful dates, Hannah meets Daniel, and he says all the right things. They decide to go on a second date. After several fun dates, Hannah decides to spend the night with Daniel. She calls Kara, who is babysitting Maddie, and asks Kara to spend the night. Hannah offers her bed to Kara and says she will sleep in the bed with Maddie when she gets home.<br/><br/>Hannah comes home after a night of bliss with Daniel to be there when Maddie wakes up. She crawls into Maddie's bed and waits for the sun to rise. Hannah goes into her bedroom to check on Kara and discovers Kara is dead. Detective Jodi says someone murdered Kara in the middle of the night and pulls Hannah aside to question her. Hannah talks about Maddie, Josh, Charlotte, and Daniel. Jodi tells Maddie to be wary of Daniel because he is new in her life. Charlotte tells Hannah that she saw Josh sitting outside her apartment the night Kara died. Charlotte reported this incident to the police. With Detective Jodi on the case, Hannah prays this nightmare will be over soon, but the killer will kill again, and Hannah is the target.<br/><br/>For the first 90 minutes, this movie will stump expert Lifetimers. You get the classic clichés that will make you predetermine the outcome. However, most will be wrong. You have many options, including a nosy neighbor, a new boyfriend, and a crazy ex. This mystery is sexy and spellbinding. Did you figure it out before Hannah?<br/><br/>4 out of 5 stars.",
+    "mtitle":"What Happened to My Sister",
+    "review":"Vanessa openly weeps as her daughter, Drea, unpacks boxes in her new dorm room. A year earlier, someone mugged and killed Drea's sister, Gabi.<br/><br/>Jess tells Drea they should check out some of the clubs advertising at the quad. Drea stops at the Delta Pi Zeta booth and talks to sorors Callie and Mindy. Drea admits Gabi was a Delta Pi girl, and Callie walks away. Mindy informs Drea that they would consider her a legacy, and it will give her a leg up to win a bid. Drea decides to go to the Delta Pi mixer with Jess. Mindy and Callie introduce Drea to their house mother, Rebecca.<br/><br/>After a few days, Drea wakes up with balloons and a card outside her door. The Deltas invited her to join, but not Jess. Rebecca gives each little sister a letter from the sorors stating why they got the invite. Drea's letter says that a mugger didn't kill Gabi, and Drea should trust no one. Drea will move into the sorority house to stay close to the culprit and investigate. She will risk everything to find out what happened to Gabi.<br/><br/>This movie provides a decent mystery for half of the film. The plot uses Lifetime clichés to steer you in the wrong direction. But they only dangle the carrot for the first hour. During the second hour, viewers will know who the killer is but not why. And it's touching to see Drea get guidance from Gabi to persevere.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/datinghell.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/datinghell.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whathappenedtomysister.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whathappenedtomysister.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"To Her, With Love",
-    "review":"Principal Meadows calls Kayla into his office because the regular art teacher is returning, and they are letting Kayla go. She wants to get a teaching grant in London. If she gets it, she will move. Unbeknownst to Kayla, her mother, Mrs. Scott, got an interview with Kayla's alma mater, Stansville High School.<br/><br/>Mr. Jordan Griffin works at Stansville. Principal Nancy pulls Jordan into her office and tells him to be on the lookout for a well-dressed woman. She is a school council representative sent to observe Stansville and make cuts. Jordan sees a woman in the hall and tries to escort her around the school. Jordan snaps and says people like her are the problem. Nancy comes out of her office and greets the woman with a smile. The woman is Kayla for the interview, not the representative. Jordan feels like a fool.<br/><br/>Kayla takes the job and asks for an assistant. During her first class, Kayla tries to connect, but the students don't believe she will stay. They start acting rowdy, and Jordan steps in to quiet them down. Jordan and Kayla decide to work together to give the students a substantial education and convince the board to keep the program. Will Jordan or her student trust Kayla when they learn she has another job offer?<br/><br/>Inspired by To Sir, with Love, this movie gives an emotional account of art's necessity in education. The students know the school board wants to give up on them, so they give up on themselves. Jordan and Kayla refuse to let them. Kayla even brings in a mentor to guide and inspire the kids to work harder. With impassioned speeches, this movie will bring a tear to your eye.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Charmed and Cheated",
+    "review":"Principal Whitlock pulls Annie and Coach Mitch into his office to discuss Annie's grades. Annie needs to maintain a 3.0 or better to keep her athletic scholarship for her private high school, Kingston. Sadly, Annie's history grade continues to plummet. Mr. Whitlock won't let Annie play lacrosse until her grades rise.<br/><br/>Delia calls Annie's name from across the parking lot and invites Annie to a party. Annie is dumbfounded because Delia is the most popular, rich girl in school. Annie gets home and studies but goes to the party with her best friend, Camille. Annie wants to get close to Delia and Regan because they got into ivy league schools. Regan tells Annie they got in by cheating. If Annie wants a good life like them, she should cheat too. Annie says no and walks away to the pool where Mitch is sitting. After an intense conversation, Annie kisses Mitch but doesn't see Delia taking a picture. Delia deletes the image because she considers Annie part of the inner circle. Hearing that, Annie decides to take Delia's help and cheat to raise her grade and cement her spot on the team.<br/><br/>Annie is a patsy with low-self esteem. To make matters worse, the girls cheat poorly. If you are going to cheat, at least be good at it. This movie is the standard Lifetime drama ending with a comical fight and one dead body. It's not the worst of Homecoming Week, but it won't be the best either.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toherwithlove.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toherwithlove.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/charmedandcheated.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/charmedandcheated.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Finding Love in Big Sky",
-    "review":"Josh gives a compassionate presentation to prospective clients. He is on cloud 9 when his boss, Marcus, pulls Josh aside and shows Josh a competitor's new campaign. Josh notices it looks strikingly similar to his, and Marcus and the people at the top saw it too. Marcus tells Josh to take some time off while they investigate him for corporate espionage. Josh meets his girlfriend, Bre, for dinner and suggests they go on a vacation to see her family. She tells Josh he should go on a vacation alone while they take a break from the relationship.<br/><br/>Josh walks into a diner to find an old friend, Paisley, sitting at the counter. After losing her parents in a car accident, Paisley moved to Montana with her extended family. Paisley left the corporate world behind after her grandfather died and left her his ranch. Now Paisley wants to turn it into a weekly summer camp focused on Equine Therapy. The nosy but supportive waitresses make sure Josh sees Paisley. Josh explains his rental car broke down, and he needs a place to stay while the mechanic fixes it. The waitresses offer Paisly's ranch because she is looking for a ranch hand in exchange for room and board. Paisley agrees to let him stay the night.<br/><br/>Don't be surprised if you want a weekly series about the nosy waitresses. They are the laugh you need. However, the movie focuses on Paisley getting the loan but being true to herself. Josh expresses she needs to do more to launch a business these days. He helps her get out of her comfort zone, but Paisley brings Josh to his roots, one horse ride at a time. This film has some lulls, but the plot picks up in the right spots.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Malicious Mind Games",
+    "review":"Isabel works as the night security for a theater and has a daughter, Rosaline. Isabel drinks lots of energy shots and has scary visions of a man hurting her boss, Cameron. After a long patrol, a woman offers Isabel a coffee. She tells Isabel that she couldn't survive without coffee and welcomes Isabel to the neighborhood.<br/><br/>Isabel picks Rosaline up from school, and Rosaline's English teacher, Mr. Henry Cho, pulls Isabel aside. Someone caught Rosaline making out with Jonathan, the new boyfriend. Isabel explains Rosaline's behavior but doesn't excuse it. Isabel demands to meet Jonathan's mother. Jonathan walks Isabel over to his mother, and she is surprised to see it's the woman from across the street. Isabel remembers they never exchanged names. The woman is Megan.<br/><br/>Isabel hears a woman screaming during her next shift and looks up to see someone strangling Megan. Isabel calls the police immediately for help. The police walk up to Megan's apartment and knock on the door while Isabel stands off to the side. Megan answers with scratches on her neck. She explains that she was watching a horror movie with a high volume, and her scratches are from her cat. The detective questions Isabel and assumes her energy shots must have impaired her judgment. He tells her to stop drinking energy shots, relax, and get more rest. Isabel knows something isn't right. But is she willing to die to prove it?<br/><br/>This movie is a slow burn to a predictable ending. It doesn't take much to see what is happening with Megan and her death. Also, Isabel doesn't play detective. Unfortunate incidences keep happening to her that give her clues. If you watch this movie, you can watch the first and last 30 minutes to understand the plot. The middle isn't necessary.<br/><br/>2 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/findingloveinbigsky.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/findingloveinbigsky.jpg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maliciousmindgames.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maliciousmindgames.jpeg"
     }
   }
 ];
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Dying for a Crown",
+  "mtitle":"The Gabby Petito Story",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingforacrown.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingforacrown.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"2",
-  "mtitle":"Revenge for My Mother",
+  "mtitle":"How to Live Your Best Death",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/revengeformymother.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/revengeformymother.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"3",
-  "mtitle":"What Happened to My Sister",
+  "mtitle":"Francesca Quinn, P.I.",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whathappenedtomysister.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whathappenedtomysister.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"4",
-  "mtitle":"Charmed and Cheated",
+  "mtitle":"Underwraps 2",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/charmedandcheated.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/charmedandcheated.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"5",
-  "mtitle":"Malicious Mind Games",
+  "mtitle":"Plus One at an Amish Wedding",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maliciousmindgames.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maliciousmindgames.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 }
 
