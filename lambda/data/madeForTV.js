@@ -61,8 +61,8 @@ module.exports = madeForTV;
   "mtitle":"The Gabby Petito Story",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegabbypetitostory.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegabbypetitostory.jpeg"
   }
 },
 {
@@ -70,8 +70,8 @@ module.exports = madeForTV;
   "mtitle":"How to Live Your Best Death",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/howtoliveyourbestdeath.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/howtoliveyourbestdeath.jpeg"
   }
 },
 {
@@ -79,17 +79,17 @@ module.exports = madeForTV;
   "mtitle":"Francesca Quinn, P.I.",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/francescaquinnpi.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/francescaquinnpi.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Underwraps 2",
+  "mtitle":"Under Wraps 2",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/underwraps2.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/underwraps2.jpeg"
   }
 },
 {
@@ -97,8 +97,8 @@ module.exports = madeForTV;
   "mtitle":"Plus One at an Amish Wedding",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/plusoneatanamishwedding.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/plusoneatanamishwedding.jpg"
   }
 }
 
