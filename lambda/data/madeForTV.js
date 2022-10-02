@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Dying for a Crown",
-    "review":"Lydia and her daughter, Elle, move across the country to start a new life. Elle's first day of school is Lydia's first day of work as vice principal. Lydia warns Elle that this school is a fresh start.<br/><br/>Lydia meets with the principal, Alice, to learn about the school. During their conversation, Alice reminds Lydia that she didn't receive Lydia's letter of recommendation. Lydia promises to send Alice a copy and gets to work finding the most popular kids in school. When she sees Kate's the frontrunner for homecoming queen, Lydia tells Elle to make Kate her best friend or worst enemy. Lydia would be happy and wealthy if she married her high school sweetheart. So Lydia tells Elle to forget her studies and focus on being homecoming queen by any means necessary. This mother-daughter duo will wreak havoc on the faculty and students.<br/><br/>O.M.G. is the only way to describe this movie. Lydia is delusional about the importance of a piece of plastic. No one deserves to have Lydia and Elle mess up their lives. And all for nothing. The plot pulls you in with hatred for Lydia and Elle and concern for everyone else. But it all falls flat in the end because you never know how or who solved the investigation. This film had a magnificent build-up to an incomplete conclusion.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"The Gabby Petito Story",
+    "review":"Gabby Petito joins a party and sees Brian Laundrie, an old high school friend, in the corner. She walks over and sparks a conversation with him. They go on a bowling date and fall head over heels in love. After a few weeks, Brian tells Gabby he is moving to Florida with his parents in a month. Gabby is upset with the short notice until Brian slips that he thought of asking her to come. She thinks about it for a second and says yes.<br/><br/>For a while, things seem ok until Gabby gets a new job that pays more. She thought Brian would be happy with more money, but he worries guys will hit on her, and they won't be working together anymore. They go for a walk, and Brian asks her to marry him. However, COVID-19 slows down their wedding plans. Brian gets the idea to go on the road and tour the country, but Gabby doesn't think his car is sufficient and buys a used van. She follows VanLife bloggers and adds a bed, tables, and plants to the vehicle. At the end of this trip, only one person will come back, and the other will be the subject of a nationwide search.<br/><br/>As you scream at the TV, remember their story is sadly over. This movie re-enacts Gabby and Brian's police encounter, Gabby's photos, and eyewitness accounts of their public altercations. Followers got the perfect 'couple goals' Gabby posted on social media. And when the police stepped in, Gabby blamed everything on her OCD. Also, his parents are enablers. At the movie's end, you shouldn't be mad at anyone else but Brian. Brian was a toxic, controlling, narcissistic that took the coward's way out. Watch this movie to learn the signs and recognize abusive behavior from the beginning.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingforacrown.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dyingforacrown.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegabbypetitostory.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegabbypetitostory.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Revenge for My Mother",
-    "review":"Gavin wakes his daughter, Elizabeth, and tells her to find a job. Elizabeth jumps on the computer and finds Stroller Mom's assistant posting. It's a workout group for new moms and allows them to bring their babies. Elizabeth sends the link to Gavin. He suffers from a heart attack after seeing a picture of the group's owner, Audrey. He explains that he lied to Elizabeth about how her mom died. Audrey killed Elizabeth's mom in a hit and run accident. Gavin begs Elizabeth to stay away from Audrey and goes into surgery. A few hours later, a doctor tells Elizabeth Gavin didn't make it. Elizabeth vows to ruin Audrey's life because Audrey took away both of her parents. Elizabeth changes her name to Brooklyn, applies for the job, and becomes an exemplary employee. Audrey doesn't take long introducing Brooklyn to her husband, Matt, their daughter, Zoe, and her best friend, Jane. One by one, they will all be gone.<br/><br/>This story centers around revenge and postpartum depression. Lifetimers, don't be surprised if you have little sympathy for Audrey in this film as Elizabeth, a.k.a Brooklyn, destroys Audrey's business, relationship, and friendship. You may even cheer for Elizabeth's wicked ways. Be warned: there is one scene that will make you cringe. The concept of the movie is strong, but it jumps to exposure too fast and with no explanation.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"How to Live Your Best Death",
+    "review":"Kristen thought divorcing her husband, Ryan, would be a step in the right direction, but she doesn't have confidence in her abilities at home or work. Kristen's sister, Sara, suggests Kristen get a life coach to boost her self-esteem and receive guidance. Kristen goes online, finds rave reviews for Ashley, and signs up for a consultation.<br/><br/>Ashley comes in the morning and tells Kristen to walk into the boss's office and demand a raise. If Kristen's boss doesn't submit, Kristen will put in her 2-week notice immediately. Kristen takes Ashley's advice and walks away from her job after her boss says no. Soon, Kristen has a new job, boss, and outlook on life. But that's not enough for Ashley. Ashley wants total control over Kristen's life. And if Kristen doesn't give in, the consequence is death.<br/><br/>This movie may seem typical at first glance but watch it once. It displays perfect cult tactics used to pull people into their way of thinking. Cults make promises like family, friends, and work, and they do deliver. However, it will all go away if you leave. Soon, they isolate you from your family and friends and change you from your appearance to your thought process. This film isn't just entertainment but a learning tool to avoid Kristen's mistakes. Diane is the authentic life coach in Kristen's life.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/revengeformymother.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/revengeformymother.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/howtoliveyourbestdeath.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/howtoliveyourbestdeath.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"What Happened to My Sister",
-    "review":"Vanessa openly weeps as her daughter, Drea, unpacks boxes in her new dorm room. A year earlier, someone mugged and killed Drea's sister, Gabi.<br/><br/>Jess tells Drea they should check out some of the clubs advertising at the quad. Drea stops at the Delta Pi Zeta booth and talks to sorors Callie and Mindy. Drea admits Gabi was a Delta Pi girl, and Callie walks away. Mindy informs Drea that they would consider her a legacy, and it will give her a leg up to win a bid. Drea decides to go to the Delta Pi mixer with Jess. Mindy and Callie introduce Drea to their house mother, Rebecca.<br/><br/>After a few days, Drea wakes up with balloons and a card outside her door. The Deltas invited her to join, but not Jess. Rebecca gives each little sister a letter from the sorors stating why they got the invite. Drea's letter says that a mugger didn't kill Gabi, and Drea should trust no one. Drea will move into the sorority house to stay close to the culprit and investigate. She will risk everything to find out what happened to Gabi.<br/><br/>This movie provides a decent mystery for half of the film. The plot uses Lifetime clichés to steer you in the wrong direction. But they only dangle the carrot for the first hour. During the second hour, viewers will know who the killer is but not why. And it's touching to see Drea get guidance from Gabi to persevere.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Francesca Quinn, P.I.",
+    "review":"It's been a year since Detectives Francesca, better known as Frankie, and Wyn arrested her stepmother, Megan, for serial murder. Frankie and Wyn's relationship couldn't withstand the scrutiny, so they ended it, and Frankie started dating her high school sweetheart, Carl. Carl came into town during the trial to write a book about Megan and her crimes. The book puts Frankie, her family, and their relationship under a blinding spotlight. Frankie wants Carl to change the manuscript, but he won't.<br/><br/>Today, Frankie and Carl are engaged. However, all is not well. Frankie leaves the party to drive and think. She wants to call Carl but realizes she forgot her phone at the party. Frankie goes back and finds Carl dead with stab wounds. Carl's sister, Cheryl, comes into Frankie's office the next day. Cheryl wants to hire Frankie to investigate Carl's murder and is willing to pay. Frankie will do it for free because she started yesterday. So far, Frankie has three suspects on her murder board. The first suspect is Kara, Carl's ex-wife because he divorced Kara to be with Frankie. The next is Pam, Carl's agent. The final suspect is Christopher, Carl's protégé. Frankie will do anything to find Carl's killer, but can she handle the truth about her fiancé?<br/><br/>Watch this movie from the beginning. The first five minutes give viewers years of backstory and connections. This tale of murder will have you taking notes during the film to keep up. And let's not forget the enigma within the mystery. A prowler called the Sandman breaks into homes while people sleep and steals valuables and family photos. This film series is a perfect addition to H.M.M. with the drama of a telenovela.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whathappenedtomysister.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whathappenedtomysister.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/francescaquinnpi.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/francescaquinnpi.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Charmed and Cheated",
-    "review":"Principal Whitlock pulls Annie and Coach Mitch into his office to discuss Annie's grades. Annie needs to maintain a 3.0 or better to keep her athletic scholarship for her private high school, Kingston. Sadly, Annie's history grade continues to plummet. Mr. Whitlock won't let Annie play lacrosse until her grades rise.<br/><br/>Delia calls Annie's name from across the parking lot and invites Annie to a party. Annie is dumbfounded because Delia is the most popular, rich girl in school. Annie gets home and studies but goes to the party with her best friend, Camille. Annie wants to get close to Delia and Regan because they got into ivy league schools. Regan tells Annie they got in by cheating. If Annie wants a good life like them, she should cheat too. Annie says no and walks away to the pool where Mitch is sitting. After an intense conversation, Annie kisses Mitch but doesn't see Delia taking a picture. Delia deletes the image because she considers Annie part of the inner circle. Hearing that, Annie decides to take Delia's help and cheat to raise her grade and cement her spot on the team.<br/><br/>Annie is a patsy with low-self esteem. To make matters worse, the girls cheat poorly. If you are going to cheat, at least be good at it. This movie is the standard Lifetime drama ending with a comical fight and one dead body. It's not the worst of Homecoming Week, but it won't be the best either.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"Under Wraps 2",
+    "review":"Marshall, Amy, and Gilbert countdown the days until Halloween. An amulet will bring their friend, Harold, a mummy, back to life. They will also resurrect his girlfriend, Rose. In addition, Amy's dads, Carl and Mike, are getting married; she will throw them a party and be the ring bearer. They all travel to Amy's hometown with Buzzy for the nuptials.<br/><br/>In another museum, Sobek, a mummy with a red jasper amulet, comes to life when an intern, Larry, moves Sobek's display to retrieve a runaway meatball. Sobek takes off his bracelet and puts it on Larry's wrist to control Larry. Sobek wants his staff so he can win back the love of his life, Rose, and kill his former best friend, Harold.<br/><br/>When Amy sees a news report about the missing mummy, she notices the amulet around its neck is like Harold's. Amy reads Sobek's history and knows Harold and Rose are in danger. Amy, Gilbert, and Marshall will resurrect Rose and Harold, keep them safe until Sobek turns to dust at midnight, and attend the wedding. What could go wrong?<br/><br/>This sequel to Under Wraps starts a year after Marshall's discovery. For months, Marshall anticipated Harold's return so he could have his best friend back. Marshall's issues mirror those of Sobek. Marshall isn't in love with Amy, but he misses the friendship he had with his friends. You get three friends, two weddings, and one dance-off in this film. This movie is as fun and lighthearted as the first and has a message for every kid.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/charmedandcheated.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/charmedandcheated.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/underwraps2.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/underwraps2.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Malicious Mind Games",
-    "review":"Isabel works as the night security for a theater and has a daughter, Rosaline. Isabel drinks lots of energy shots and has scary visions of a man hurting her boss, Cameron. After a long patrol, a woman offers Isabel a coffee. She tells Isabel that she couldn't survive without coffee and welcomes Isabel to the neighborhood.<br/><br/>Isabel picks Rosaline up from school, and Rosaline's English teacher, Mr. Henry Cho, pulls Isabel aside. Someone caught Rosaline making out with Jonathan, the new boyfriend. Isabel explains Rosaline's behavior but doesn't excuse it. Isabel demands to meet Jonathan's mother. Jonathan walks Isabel over to his mother, and she is surprised to see it's the woman from across the street. Isabel remembers they never exchanged names. The woman is Megan.<br/><br/>Isabel hears a woman screaming during her next shift and looks up to see someone strangling Megan. Isabel calls the police immediately for help. The police walk up to Megan's apartment and knock on the door while Isabel stands off to the side. Megan answers with scratches on her neck. She explains that she was watching a horror movie with a high volume, and her scratches are from her cat. The detective questions Isabel and assumes her energy shots must have impaired her judgment. He tells her to stop drinking energy shots, relax, and get more rest. Isabel knows something isn't right. But is she willing to die to prove it?<br/><br/>This movie is a slow burn to a predictable ending. It doesn't take much to see what is happening with Megan and her death. Also, Isabel doesn't play detective. Unfortunate incidences keep happening to her that give her clues. If you watch this movie, you can watch the first and last 30 minutes to understand the plot. The middle isn't necessary.<br/><br/>2 out of 5 stars.",
+    "mtitle":"Plus One at an Amish Wedding",
+    "review":"April stands in the espresso line, waiting for her order. When the barista calls her order, a man, Jesse, reaches for it too. They order the same food and drink. Later, April takes her nephew, Zeke, and Zeke's dog, Scout, to the vet after a car hits Scout. April smiles when she sees Jesse there in a lab coat. Jesse asks April out for dinner.<br/><br/>After dating for some time, Jesse purchases tickets to Paris as a present. However, they must postpone the trip because Jesse's brother, Levi, will wed in a week. Jesse has not talked about his family before. April asks why Jesse is just hearing about the wedding in a letter, no less. And Jesse explains he grew up Amish. He admires his family, but the English world gave him something they couldn't. April knows Amish life will be a culture shock, but she hopes Jesse's family will receive her with open arms. While Levi and Jesse's sister, Rachel, are happy to meet her, his mother, Esther, wants nothing to do with April or her English medicine. April will walk on eggshells around Esther to prove her love for Jesse, but will Esther's venomous words be too much for April to handle?<br/><br/>This movie is all about love, faith, and tolerance. April knows what it's like to be on the other side. Her sister, May, had to battle their parents to marry Rob. April stood by May and Rob's side throughout the ordeal. Now, April and Jesse will be on the receiving end, with Esther steadfast in her beliefs. At first, April holds her tongue for Jesse's sake, while Esther throws shade. However, April will stand up for herself in epic fashion.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maliciousmindgames.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maliciousmindgames.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/plusoneatanamishwedding.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/plusoneatanamishwedding.jpg"
     }
   }
 ];
@@ -58,49 +58,48 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"The Gabby Petito Story",
+  "mtitle":"The Disappearance of Cari Farver",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegabbypetitostory.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegabbypetitostory.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thedisappearanceofcarifarver.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thedisappearanceofcarifarver.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"How to Live Your Best Death",
+  "mtitle":"Secrets at the Inn",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/howtoliveyourbestdeath.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/howtoliveyourbestdeath.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"3",
-  "mtitle":"Francesca Quinn, P.I.",
+  "mtitle":"Monster High: The Movie",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/francescaquinnpi.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/francescaquinnpi.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/monsterhighthemovie.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/monsterhighthemovie.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Under Wraps 2",
+  "mtitle":"Nikki and Nora: Sister Sleuths",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/underwraps2.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/underwraps2.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nikkiandnorasistersleuths.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nikkiandnorasistersleuths.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Plus One at an Amish Wedding",
+  "mtitle":"A Country Romance",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/plusoneatanamishwedding.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/plusoneatanamishwedding.jpg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/acountryromance.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/acountryromance.jpg"
   }
 }
-
 
 */
