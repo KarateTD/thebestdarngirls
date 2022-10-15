@@ -56,5 +56,50 @@ module.exports = madeForTV;
 
 /*
 
+{
+  "option":"1",
+  "mtitle":"Hello",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hello.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hello.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"The Shoplifting Pact",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"",
+    "largeImageUrl":""
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Mid-Love Crisis",
+  "review":"<br/><br/>3.5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/midlovecrisis.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/midlovecrisis.jpg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Infamously in Love",
+  "review":"<br/><br/>2 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/infamouslyinlove.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/infamouslyinlove.jpg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Stalked Within",
+  "review":"<br/><br/>5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalkedwithin.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalkedwithin.jpeg"
+  }
+}
 
 */
