@@ -2,13 +2,14 @@
 This code will create a movie review app for an Alexa skill
 
 ## Motivation
-To create an Alexa skill to coincide with my website, <a href="https://thatdarngirlmovie.reviews/" target="_blank" rel="noopener">thatdarngirlmovie.reviews</a>.  User will get the last 5 reviews for movies that are <b>In The Theater</b>, <b>Made for TV</b>, <b>Video on Demand</b>, and <b>In Stores</b>.  For English Speaking Great Britain and the United States, uses can purchase access to <b>Early Screening</b> reviews and a searchable <b>Library</b>.  Some reviews in the Library will be exclusives because they will never be featured in the main app.
+To create an Alexa skill to coincide with my website, <a href="https://thatdarngirlmovie.reviews/" target="_blank" rel="noopener">thatdarngirlmovie.reviews</a>.  User will get the last 5 reviews for movies that are <b>In The Theater</b>, <b>Made for TV</b>, <b>Video on Demand</b>, and <b>In Stores</b>.  For English Speaking Great Britain and the United States, uses can purchase access to <b>Early Screening</b> reviews and a searchable <b>Library</b>.  Some reviews in the Library will be exclusives because they will never be featured in the main app.  User add In Store review items to their <a href="https://amzn.to/3D9dhQC" target="_blank" rel="noopener">Amazon</a> cart.
 
 ## Technology Used
 Built with
 <ul>
 	<li><a href="https://aws.amazon.com/s3/" target="_blank" rel="noopener">Amazon S3</a></li>
 	<li><a href="https://developer.amazon.com/alexa-skills-kit" target="_blank" rel="noopener">Alexa Skill Kit</a></li>
+	<li><a href="https://developer.amazon.com/en-US/docs/alexa/alexa-shopping/about-alexa-shopping-actions-for-alexa-skills.html" target="_blank" rel="noopener">Alexa Shopping Kit</a></li>
 	<li><a href="https://aws.amazon.com/lambda/" target="_blank" rel="noopener">AWS Lambda</a></li>
 	<li><a href="https://aws.amazon.com/codepipeline/" target="_blank" rel="noopener">AWS CodePipeline</a>
 		<ul>
@@ -40,6 +41,7 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 	<li><b>Release-4.1.2</b>: Update NodeJS from version 10 to version 14. Updates had to be made to the Lambda function, AWS CodeBuild, and the package.json.</li>
 	<li><b>Release-5.0.0</b>: Updated APL to version 1.6 for improved tablet support, updated templates, and increases response time.  Also, several bug fixes</li>
 	<li><b>Release-5.0.1</b>: Updated APL for movieoptions and getList for version 1.8 to support using images as buttons</li>
+	<li><b>Release-5.1.0</b>: Add Alexa Shopping Kit to In Stores section of the US locale and updated the APL for all locales</li>
 </ul> 
 
 ## Code
