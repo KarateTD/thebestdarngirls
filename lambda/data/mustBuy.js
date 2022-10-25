@@ -1,6 +1,30 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Breaking",
+    "review":"Brian Brown-Easley stands outside Wells Fargo and thinks about his daughter and ex-wife. He walks inside and enters his information on a deposit slip. Rosa, a bank teller, calls Brian to her counter and makes small talk. He quietly asks Rosa for a piece of paper and writes a note. It reads, 'I have a bomb.' Rosa looks at her bank manager, Estel, with unbridled panic and fear in her eyes. They offer to give him money, but that's not what Brian wants. He wants Rosa and Estel to get news reporters and police on the scene. For months, Brian felt ignored and unheard. The VA and Lincoln College of Technology stole his money, and he wants the VA to pay it back.<br/><br/>Based on 'They Didn't Have to Kill Him': The Death of Lance Cpl. Brian Easley by Aaron Gell, this movie covers many topics plaguing US veterans, including homelessness, PTSD, job insecurity, and the VA.. It's painful to watch this kind man fight for the little money he had. For the soldiers that give everything for the US, it's disgusting that they have to jump through hoops to get anything back. Your heart will sink when Brian says the amount he's fighting over. Maybe, this movie will be the first step to righting some wrongs.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0B7QGTN1F"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/breaking.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/breaking.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"The Silent Twins",
+    "review":"The Silent Twins was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":"B0BHM3XLCX"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesilenttwins.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesilenttwins.jpeg"
+    }
+  },
+  {
+    "option":"3",
     "mtitle":"Bullet Train",
     "review":"Yuichi Kimura sits near a hospital bed, where his son, Wataru, is in a coma. As Wataru's grandfather, The Elder, walks in, Yuichi reports that someone pushed Wataru off a roof. Yuichi found a note. The note states that Wataru's attacker will be on the bullet train headed to Kyoto in seat B4. As he approaches B4 with a gun, Yuichi finds a young girl sitting there. He apologizes, and she stuns him. The young girl is known as The Prince and wants to use Yuichi to set up her target, The White Death.<br/><br/>Maria's called her best snatch-and-grab man, Ladybug, for a job after The Carver fell ill. After some time with his therapist, Barry, Ladybug is ready to return to work. Maria wants Ladybug to board the bullet train and find a silver briefcase with train stickers and get off at the next stop.<br/><br/>Lemon and Tangerine are twin brothers working for The White Death. The White Death's enemies kidnapped his son, The Son, and held him for ransom. Lemon and Tangerine faked a ransom drop, killed the kidnappers, and got The Son. They will ride the bullet train and return The Son and the briefcase of money to The White Death.<br/><br/>A mobster raised The Wolf after The Wolf's mother died. Now, The Wolf is a contract killer for the mob boss. Years later, The Wolf marries his girlfriend in a white tuxedo with the mob in attendance. The Wolf raised his glass of red wine just as a waiter bumped him, spilling wine on The Wolf's tux. The Wolf left to clean his suit and got a bloody shock. All his guests, including his wife, were bleeding from their eyes and mouths. They all died. Later, someone uncovered that The Hornet poisoned The Wolf's wedding, and now The Hornet will be on the bullet train. These killers are on the same train with a different mission. However, they will collide with a Fiji bottle, a barrette, a sticker, and one unfortunate incident. Oh, and there is a venomous snake loose on the train.<br/><br/>If you miss one second, go home. Based on Bullet Train by Kōtarō Isaka, this movie has surprises throughout the plot that will make you gasp, laugh, and scream. Between Ladybug's therapy wisdom and Lemon's Thomas the Tank Engine obsession, the audience will find quick laughs between the bloodshed. While the story isn't linear, the director placed the flashbacks in the right place to move the story forward. There is one mid-credit scene that will bring you to a visual zen. If you love Ambulance's action, John Wick's humor, and Death on the Nile's mystery, this is the right movie for you.<br/><br/>5 out of 5 stars.",
     "asin":{
@@ -12,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"4",
     "mtitle":"Paws of Fury: The Legend of Hank",
     "review":"Ika Chu puts the finishing touches on the Shogun's palace before the Shogun arrives. There is a lot to do, but Ika Chu needs his cats to remove one eyesore blocking the perfect view. It's a small town called Kakamucho, protected by a samurai. When the samurai sees the mass amount of cat warriors heading to the town, the samurai runs away, leaving Kakamucho defenseless.<br/><br/>The citizens of Kakamucho demand the Shogun send a new samurai, and the Shogun delegates the job to Ika Chu. He sees a dog, Hank, facing execution for walking into cat territory. Hank admits to crossing the border only to receive samurai training. Ika Chu appoints Hank the new samurai because he knows the cats of Kakamucho will kill a dog on sight.<br/><br/>Ika Chu's prediction is correct, and the cats attack Hank. But they stop when Hank proves he is the new samurai. Hank meets Jimbo, a hesitant sensei with too much catnip, and convinces Jimbo to train him. Ika Chu can't fathom the cats accepting this dog, so he vows to destroy Hank and Kakamucho before Shogun arrives.<br/><br/>Loosely based on Blazing Saddles, this movie is hilarious. From beginning to end, the characters never forget it's a movie. It takes everyday activities, like tweeting, and transforms the tweet into an actual bird. This film is an animated, classic comedy you grew up watching. It's worth every penny, and you will enjoy it more than your children.<br/><br/>5 out of 5 stars.",
     "asin":{
@@ -24,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"5",
     "mtitle":"DC League of Super Pets",
     "review":"Before Kal-El's parents sent him to earth, his puppy jumped in the spacecraft with him. Years later, Kal-El is Superman, who poses as the mild-mannered Clark Kent. And his puppy is a full-grown dog called Krypto, but his alter-ego is Bark Kent. They work together to fight crime, but Krypto has a bigger enemy, Lois Lane. Lois feels that Krypto is lonely, so she suggests Superman go to the pet store and get Krypto a friend.<br/><br/>When Superman walks in, the proprietor notices one dog, Ace, escaped. Superman uses his x-ray vision to see Krypto immobilizing the escapee. Superman believes Krypto isn't ready for a companion, so he takes the pup home. Superman opens the door, but Lois isn't there. It's a guinea pig named Lulu. She shoots Superman with Kryptonite and throws him out the window. Lulu hid kryptonite in a piece of cheese that Krypto ate, so now he is defenseless. Then, Krypto recognizes Lulu.<br/><br/>Lulu was a guinea pig in Lex Luthor's lab. And as he experimented, she watched and learned. Lex studied different types of kryptonite and discovered the orange one could give him powers. Before Lex could test his theory, Superman and Krypto stopped him and freed all the guinea pigs, putting Lulu in a pet shop with Ace. However, Lulu didn't want Krypto to save her. When orange kryptonite came into orbit, Lex grabbed it, but the Justice League stopped Lex from obtaining it. It gave Lulu the power to move things with her mind. So she went to Superman's house to start step one of her plan.<br/><br/>Krypto wonders aimlessly and without powers until she sees lightning shooting from the ground to the sky. He finds Ace, PB, Merton, and Chip. Lulu didn't know, but they all got powers from the shard. Krypto thinks they should work together to stop Lulu before she destroys Superman and the world.<br/><br/>Adults, don't be surprised if you laugh more than your children at this film. The jokes aren't sexual innuendoes, so don't worry about that. This movie, based on the DC Legion of Super-Pets: The Great Mxy-UP, has the dark humor of a DC comic movie wrapped in adorable pets. The film will strike a chord with pet owners while raising awareness about pet adoption, especially the older pets. The plot is a bit of Snyder's Cut mixed with The Secret Life of Pets. Be prepared to laugh while your kids punch in the air. And there are mid and post-credit scenes.<br/><br/>5 out of 5 stars.",
     "asin":{
@@ -33,30 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dcleagueofsuperpets.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dcleagueofsuperpets.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Thor: Love and Thunder",
-    "review":"Gorr walks the deserts of his land with his daughter. He prays for his God to bring food and water for his child, but she dies in his arms. As he weeps on her grave, an oasis appears. Gorr asks his God why he didn't assist him and his daughter. His God admits he didn't care and can find new followers. Gorr renounces his God and then summons the killer's weapon, Necrosword, to him and slays the God. He vows to become the new God Killer and murder every God and their followers.<br/><br/>After defeating Thanos and his army, Thor joins the Guardians of the Galaxy to defend the universe. The battles are simple for this God of Thunder. After Thor finishes another battle leaving the Guardians useless, they looked for more distressed planets. And Thor spots Sif. Thor and Korg go to Sif and find her injured on the battlefield. She warns Thor that Asgard is Gorr's next stop. Thor, Korg, and Sif head to Asgard.<br/><br/>Dr. Jane Foster wrote a book and is a leader in her field, but she spends more time researching her stage 4 cancer than the stars. Then, Jane hears Mjolnir calling her name. She travels to Asgard, a vacation destination, and searches for the shattered pieces of Mjolnir. In Asgard, King Valkyrie spends more time on politics than battle.<br/><br/>Thor, Korg, and Sif return to Asgard and discover it under attack. Gorr summoned shadow monsters to attack the Asgardians. Thor grabs Stormbreaker for battle but sees a familiar object ripping through creatures. It's Mjolnir. Thor calls the hammer towards him, but it's under the control of someone else: Jane, The Mighty Thor. However, they don't notice other shadow monsters stealing the Asgard children until it's too late.<br/><br/>As Valkyrie, Jane, and Thor create a plan to rescue the kids, Axl, Heimdall's son, connects to Thor using his inherited gifts. Through Axl's eyes, Thor can see the children inside a Shadow Realm cave. Valkyrie and Thor exchange a look. They know the best place to summon a God's army is Omnipotent City and then asking Zeus. They can rescue the Asgardian children and defeat Gorr with Zeus's army. Thor doesn't understand that fighting a war is easy, but battling for love will kill.<br/><br/>During the opening credits, viewers get a glimpse into the battles of the Asgardians of the Galaxy. This film adds insight into the past while giving hints to the overarching antagonist of these MCU phases. So keep your eyes open. Let's not forget that the script introduces us to more Young Avengers. The movie is off-the-charts with well-crafted CGI and flawless fight choreography. During the Shadow Realm fight scene, the contrast of the black and white world with the color from the clashing weapons is worth the 3D price. Unlike other Thor movies, this film gives the characters a satisfying and heart-warming conclusion. And stick around for two post-credit scenes that offer a new villain and a new life.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0B92CF9XQ"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thorloveandthunder.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thorloveandthunder.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Lightyear",
-    "review":"The ship, also known as the turnip, wakes up Buzz from hypersleep. The ship's sensors detected life on the planet nearby. Buzz wakes Commander Hawthorne to take a closer look at the planet's inhabitants and collect soil samples. They make it back to the ship and try to fly away, but Buzz crashes and cracks their fuel cell, and they don't have another. Til they can create another fuel cell that can get them into hyperspace, the crew can't leave the planet.<br/><br/>The crew created a colony and a new fuel cell within a year, and Buzz boards XL-1 for a four-minute test flight around the sun and back. Buzz gets 60% into hyperspace before the fuel cell dies, and he lands. The trip lasted 4 minutes for Buzz, but it's four years for the colony. To help Buzz acclimate, Hawthorne gives Buzz a robotic therapy cat, Sox. Sox worries about Buzz, but Buzz tells the cat to help by fixing the fuel. Sox says ok.<br/><br/>Fifteen missions later, Buzz comes home to find that Hawthorne died. She left a video message for Buzz with her granddaughter, Izzy, sweetly interrupting. Commander Burnside walks into Hawthorne's old barracks and tells a weeping Buzz that the fuel mission is over. The colony decided to end the space ranger program, stay on the planet, take Sox, and create a laser dome to keep out the planet's dangerous inhabitants. Buzz tells Sox the mission is over, and Sox is disappointed because he figured out the formula. So Buzz grabs Sox, creates the fuel cell, and steals a ship. Buzz and Sox accomplish their mission and land on the planet but can't land on the colony because of the laser dome. Buzz finds the safest landing spot, and someone in a suit approaches him and tells Buzz to be quiet. The person in the suit sees Buzz's name tag and tells him that her name is Izzy, Hawthorne's granddaughter. It's been 22 years since Buzz left.<br/><br/>Since then, an enemy spacecraft came to the planet with a legion of robots. Their commander is the evil Emperor Zurg. After Zurg arrived, his army waged a constant attack on the laser dome. Izzy remembers the stories about Buzz and knows he is the missing link to Operation Surprise Party. They will take out the mothership controlling the robots to save the colony. But they need Buzz to get them to Zurg's spacecraft. Buzz respects Izzy's lineage, but he doesn't work with rookies. While Buzz doesn't want their help, he will need it to save the colony, defeat Zurg, and redefine his mission.<br/><br/>In 1995, Andy got a toy inspired by his favorite movie. Lightyear is the movie. So this adaptation isn't a remake or a sequel; it's a prequel for Andy's world in Toy Story 1. Pixar animators did a stunning job creating a colonized world on a dangerous planet. And their space animation is second to none. While creating a world of space travel, animators included geometry. Yes, Buzz is a mathlete. And let's not forget the quiet love letter Pixar sent to classic Nintendo fans. While this is an animation, the complex storyline is for 1995 Toy Story fans, not their kids. However, its action and jokes will entertain parents and their children.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0B6XSD2XC"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lightyear.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lightyear.jpg"
     }
   }
 ];
@@ -96,18 +96,7 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/topgunmaverick.jpg"
     }
 
-     {
-    "option":"1",
-    "mtitle":"Breaking",
-    "review":"Brian Brown-Easley stands outside Wells Fargo and thinks about his daughter and ex-wife. He walks inside and enters his information on a deposit slip. Rosa, a bank teller, calls Brian to her counter and makes small talk. He quietly asks Rosa for a piece of paper and writes a note. It reads, 'I have a bomb.' Rosa looks at her bank manager, Estel, with unbridled panic and fear in her eyes. They offer to give him money, but that's not what Brian wants. He wants Rosa and Estel to get news reporters and police on the scene. For months, Brian felt ignored and unheard. The VA and Lincoln College of Technology stole his money, and he wants the VA to pay it back.<br/><br/>Based on 'They Didn't Have to Kill Him': The Death of Lance Cpl. Brian Easley by Aaron Gell, this movie covers many topics plaguing US veterans, including homelessness, PTSD, job insecurity, and the VA.. It's painful to watch this kind man fight for the little money he had. For the soldiers that give everything for the US, it's disgusting that they have to jump through hoops to get anything back. Your heart will sink when Brian says the amount he's fighting over. Maybe, this movie will be the first step to righting some wrongs.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0B7QGTN1F"
-    }
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/breaking.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/breaking.jpeg"
-    }
-  }
+     
 
    {
     "option":"2",
