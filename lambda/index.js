@@ -56,7 +56,8 @@ let choice;
 let repeat=false
 let offset=0;
 let maxResults = 5;
-let recommended=[true, true, true, true, true];
+let recommendedStore=[true, true, true, true, true];
+let recommendedTheater=[true, true, true, true, true];
 let sku;
 ///add array to track what things were advertised
 
@@ -709,7 +710,7 @@ const MovieChoicesHandler = {
     	if(typeof element !== 'undefined'){
 			console.log("** if element is not undefined")
 			//and if not advertised
-			if( menu.toLowerCase() === 'in stores' && recommended[parseInt(element.option)]){
+			if( menu.toLowerCase() === 'in stores' && recommendedStore[parseInt(element.option)]){
 				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" Would you like to own ").concat(element.mtitle).concat("? ")
 				if(request.locale == "en-US") {
 					sku = element.asin.re;
@@ -720,7 +721,19 @@ const MovieChoicesHandler = {
 				if(sku == ""){
 					speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
 				}
-				recommended[parseInt(element.option)] = false;
+				recommendedStore[parseInt(element.option)] = false;
+			}else if( menu.toLowerCase === 'in the theater' && recommendedTheater[parseInt(element.option)]){
+				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" This movie is available for pre-order. Would you like to add ").concat(element.mtitle).concat(" to your wishlist? ")
+				if(request.locale == "en-US" && element.asin.re != ""){
+					sku = element.asin.re;
+				}else{
+					sku = ""
+				}
+				console.log("INFO: sku is "+sku);
+				if(sku == ""){
+					speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
+				}
+				recommendedTheater[parseInt(element.option)] = false;
 			}else{
 				//if in stores and adverstise (change array)
 				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
@@ -819,26 +832,51 @@ const YesAndNoIntentHandler = {
 		console.log("User said: " + intentName);
 		console.log("***** in yes no")
 		console.log(request)
+		console.log(menu)
+
+		let actionTask;
 
 		if (intentName === 'AMAZON.YesIntent'){
 			var actionText = "Staging item with Amazon"
-			let actionTask = {
-				'type': 'Connections.StartConnection',
-				'uri': 'connection://AMAZON.AddToShoppingCart/1',
-				'input':{
-					'products':[
-						{
-							'asin': sku,
-							'attribution':{
-								'associateId': process.env.associateID, 
-								'trackingId': process.env.associateID
+			if(menu.toLowerCase() === 'in stores'){
+				actionTask = {
+					'type': 'Connections.StartConnection',
+					'uri': 'connection://AMAZON.AddToShoppingCart/1',
+					'input':{
+						'products':[
+							{
+								'asin': sku,
+								'attribution':{
+									'associateId': process.env.associateID, 
+									'trackingId': process.env.associateID
+								}
 							}
-						}
-					]
-				},
-				'onCompletion': 'RESUME_SESSION',
-				'token': 'AddToShoppingCartToken'
-			};
+						]
+					},
+					'onCompletion': 'RESUME_SESSION',
+					'token': 'AddToShoppingCartToken'
+				};
+			}else if(menu.toLowerCase() === 'in the theater'){
+				actionTask = {
+					'type': 'Connections.StartConnection',
+					'uri': 'connection://AMAZON.AddToList/1',
+					'input':{
+						'products':[
+							{
+								'asin': sku,
+								'attribution':{
+									'associateId': process.env.associateID, 
+									'trackingId': process.env.associateID
+								}
+							}
+						],
+						"listType":"WISHLIST"
+					},
+					'onCompletion': 'RESUME_SESSION',
+					'token': 'AddToListToken'
+				};
+			}
+			 
 			console.log(actionTask)
 			return handlerInput.responseBuilder
 			  .speak(actionText)
@@ -876,8 +914,12 @@ const SessionResumedRequestHandler = {
 			const message = status.message;
 			const payload = request.cause.result;
 
-			console.info(`[Shopping Response] ${JSON.stringify(request)}`);
-			console.info(`[INFO] Shopping Action Result: Code = ${code}, Message - ${message}, Payload - ${payload}`);
+			if(token === 'AddToShoppingCartToken'){
+				console.info(`[Shopping Response] ${JSON.stringify(request)}`);
+			}else if(token === 'AddToListToken'){
+				console.info(`[Add to List Response] ${JSON.stringify(request)}`);
+			}
+			console.info(`[INFO] Shopping Action Result: Code - ${code}, Message - ${message}, Payload - ${payload}`);
 			
 			switch(code){
 				case '200':
@@ -893,6 +935,11 @@ const SessionResumedRequestHandler = {
 							console.info(`[INFO] Shopping Action had an issue while performing the request. ${payload.message}`);
 						}
 					}
+					else if(token === "AddToListToken"){
+						console.info(`[INFO] Shopping Action: Add to list action was a success for ${token}.`);
+                        speechText = "If you added an item to your list, you can finish purchasing, modify, or remove the item on Amazon.com. Let's get back to the reviews! ".concat(repeatGoBack);
+						console.info(`[INFO] Said ${speechText}`);
+					}
 					else if(token === 'AddToShoppingCartToken'){
 						console.log("in first else");
 						console.info(`[INFO] Shopping Action: Add to cart action was a success for ${token}.`);
@@ -903,7 +950,7 @@ const SessionResumedRequestHandler = {
 				default:
 					console.log("in default");
 					console.info(`[INFO] Shopping Action: There was a problem performing the shopping action.`);
-					speechText = "There was a problem adding the item to your cart. Please go to amazon.com for this transaction. ".concat(repeatGoBack);
+					speechText = "There was a problem adding the item to your cart or list. Please go to amazon.com for this transaction. ".concat(repeatGoBack);
 			}
 		}
 		console.log("returning after 200");
