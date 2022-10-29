@@ -711,6 +711,7 @@ const MovieChoicesHandler = {
 			console.log("** if element is not undefined")
 			//and if not advertised
 			if( menu.toLowerCase() === 'in stores' && recommendedStore[parseInt(element.option)]){
+				console.log("In if for in stores")
 				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" Would you like to own ").concat(element.mtitle).concat("? ")
 				if(request.locale == "en-US") {
 					sku = element.asin.re;
@@ -722,7 +723,8 @@ const MovieChoicesHandler = {
 					speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(repeatGoBack)
 				}
 				recommendedStore[parseInt(element.option)] = false;
-			}else if( menu.toLowerCase === 'in the theater' && recommendedTheater[parseInt(element.option)]){
+			}else if( menu.toLowerCase() === 'in the theater' && recommendedTheater[parseInt(element.option)]){
+				console.log("in else if for theaters")
 				speechConcat = element.review.replace(/<br\/>/g,'\n').replace(/_/g,'\n').concat(" This movie is available for pre-order. Would you like to add ").concat(element.mtitle).concat(" to your wishlist? ")
 				if(request.locale == "en-US" && element.asin.re != ""){
 					sku = element.asin.re;
@@ -864,15 +866,15 @@ const YesAndNoIntentHandler = {
 						'products':[
 							{
 								'asin': sku,
-								'attribution':{
-									'associateId': process.env.associateID, 
-									'trackingId': process.env.associateID
-								}
+								//'attribution':{
+								//	'associateId': process.env.associateID, 
+								//	'trackingId': process.env.associateID
+								//}
 							}
 						],
 						"listType":"WISHLIST"
 					},
-					'onCompletion': 'RESUME_SESSION',
+					//'onCompletion': 'RESUME_SESSION',
 					'token': 'AddToListToken'
 				};
 			}
