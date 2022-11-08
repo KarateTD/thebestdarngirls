@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"An Amish Sin",
-    "review":"Rachel is effervescent after her baptism and sees the world differently. Her mother, Sarah, is pleased because Rachel can get married and fulfill her duty of having a family and caring for a husband. Rachel helps her mother until she hears a horrible voice, Uncle Iddo.<br/><br/>Later, Rachel cares for Sarah after Sarah has a dizzy spell. And Rachel hears a gut-wrenching song coming from upstairs. Sarah tells Rachel that Uncle Iddo decided to stay the night. And she hears Iddo singing the same lullaby he sang when he assaulted her at 8. He blames her for the assault and degrades her. The next night, Rachel goes to the barn to blow out a lantern for her father. Iddo waits for her inside and assaults Rachel again. She runs home and tells her father, but he blames and beats her. Rachel runs away to Grace's home. Grace is a friend of Rachel's friend, Nate, and he met Grace during his rumspringa. Grace will help Rachel find the voice to speak out for herself, her sister, and Amish women like her.<br/><br/>This movie should have a trigger warning for the first hour. Inspired by actual events, it starts with Rachel's assault at 8. Viewers will scream for Rachel to escape, but her indoctrination started at birth. She even reports herself for tempting Iddo. It will break your heart to see Rachel return. But it serves a purpose, so hang in there if you can get past the first hour.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Merry Swissmas",
+    "review":"Jetsetting Alex is ready to spend the holidays with her family in Switzerland. After her father passed, Alex's mother, Carol, bought a B and B in Switzerland. She plans to open on New Year's Day, so time with the family will help Carol work out the kinks.<br/><br/>Carol introduces Alex to the chef, Louis, and the general manager, Liam. Quickly Alex sees that the B and B needs help, and she offers Liam some assistance. He gladly accepts and introduces Alex to his son, Kelby. While they connect, Andy pulls Carol aside. He wants to know if Carol told Alex that Beth and Nadine are coming. Carol whispers no and tells Andy to keep her secret until Carol tells Alex. Beth and Alex were best friends until Beth started dating Alex's ex-boyfriend, Jesse. So Alex cut Beth, Beth's mom, Nadine, and Jesse from her life. Carol thinks Alex should bury the hatchet and forgive Beth and Jesse. If she can't, will it ruin Alex's chances with Liam?<br/><br/>Christmas in Switzerland sounds magical, but this movie doesn't grab your attention from beginning to end. You will perk up when Kelby talks about his mom, but nothing else stands out about this movie. Alex is letting her bitterness poison her future with Liam. By holding on to the past, she can't trust anyone in the present. That's Alex's lesson. This film won't be a favorite of the season, but it's watchable for 2 hours.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/anamishsin.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/anamishsin.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/merryswissmas.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/merryswissmas.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"My Nightmare Office Affair",
-    "review":"During a business meeting, Nick exposes a security glitch in his company's latest app. With brute force, a hacker can use the company's app to access any device connected to a user's Wi-Fi. Nick's boss, Lisa, isn't happy, because this flaw can be detrimental if they don't fix it before the release. Nick thinks he can find a way, but it will take time.<br/><br/>Lisa invites Nick for drinks to discuss the product launch. She wants Nick to be the new program manager. It means longer hours until the release. Afterward, Nick can set his hours, choose his team, and get a raise. Nick smiles because more time at home will help his wife, Jen. Nick took on more work when Jen gave birth to their daughter, Julianna. More time at home would help Jen restart her career.<br/><br/>At the launch party, Lisa gives Jen and Nick a toy bear for Julianna and introduces Nick as a genius. Jen starts to notice Lisa gets handsy with Nick. Later, Jen tells Nick that Lisa likes him, but Nick assures Jen that she is the only woman for him. Jen smiles, knowing her marriage is intact. But she is wrong. Lisa will hack, drug, and kill to get Nick. And not just for Nick but for what he offers: Julianna. Lisa wants to be a mom more than anything in the world. And the adoption agency turning her down left a damaged Lisa unhinged and ready to murder.<br/><br/>If you watch this movie, stay until the end for the shocking twist of fate. Nick falls for every trick in the succubus handbook, and Lisa uses high-tech and low-tech manipulation to drive a wedge between them. Lisa intrudes on their lives using text messages, a watch, and a nanny cam. Nick is so clueless, and it's somewhat funny. For a moment, Jen holds him responsible for his actions but caves in the last 5 minutes. So don't cheer for her too soon.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Christmas in the Pines",
+    "review":"Ariel meets with her realtor, Erica, at a small cottage. The owner accepted Ariel's offer, and now Erica hands Ariel the keys. Ariel and Erica bump into Nick during the walk-through. Nick explains that he is showing his client, Mark, his new property. This information dumbfounds Erica, so she and Nick call the owner for clarity. Nick and Erica discover that Ariel and Mark rightfully own the property for the same price. Since possession is nine-tenths of the law, Nick and Erica say whoever leaves the property before December 26th loses the cabin. If they last until then and can't decide on an owner, they both give up the property and can't purchase it again. Ariel and Mark draw their battle lines and prepare for war. They will use every trick in the book to force the other person to leave, but their families see the love behind the battle and encourage Ariel and Mark to see it.<br/><br/>This movie goes from wild to funny to charming. First, the setup of dual ownership feels like a stretch. Then, this film becomes a PG War of the Roses as they battle over the house. Finally, Ariel and Mark call in the big guns to cement their spot. That moment is when viewers see the sweet and loving reason they both want the cottage. It will warm your heart to hear the reason behind their madness.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mynightmareofficeaffair.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mynightmareofficeaffair.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasinthepines.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasinthepines.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"A Cozy Christmas Inn",
-    "review":"Erika gets a call that her boss, Sharon, is in the building and coming to her office. Sharon asks Erika about Erika's professional Christmas list, and Erika jokes about becoming a Vice President. Sharon tells Erika that Erika's wish can be a reality if Erika helps Sharon get what she wants for Christmas. Then, Sharon hands Erika an InFlight magazine containing an article about Garland Inn. Sharon wants Erika to fly to Garland, Alaska, and purchase the Garland Inn. If Erika closes the deal, Sharon will make Erika a VP.<br/><br/>Erika dated a guy, Andy, but he moved to Garland to help with the family business, Holiday Shipping. Andy owns the inn. He sold his plane to cover the mortgage, but now the money is almost gone. Frank wants Andy to consider the offer and return to the family business. Erika and Andy will work together, and Erika will learn there is more to Garland and the Holiday family than meets the eye. However, the deal is a lose-lose situation. If Andy sells, he will lose his dream, but Erika will get the job. If Andy keeps the inn, Erika will lose her promotion.<br/><br/>Ok. The movie isn't bad, but it's typical. Now, holiday magic surrounds Frank's business, and Garland is in on it. The plot doesn't tell the viewer the secret but leaves enough hints to figure it out for yourself. The standouts are the townspeople, Sharon's one-liners, and Stephanie's naked truths.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Secrets in the Family",
+    "review":"Ana mentioned she needed more money to attend nursing school, so her friend, Ester, showed Ana listings for a private caregiver job in the area. Ana calls and makes an appointment to be interviewed by siblings Jason and Carla.<br/><br/>Jason and Carla's mother, Joan, has early-onset dementia with sundowning. They would need Carla to live with Joan and take extra precautions at night. After a few questions, Jason hires Ana on the spot and wants her to start this Tuesday. Carla vows to keep a close eye on Ana.<br/><br/>Ana meets the quick-witted Joan and gets settled. After a few hours, Ana can see the family dynamic. Joan is a savvy businesswoman that keeps a tight reign on her kids. Jason sees Carla as the golden child, while she labels him as the screw-up.<br/><br/>Ana puts Joan in bed and retires to her room for the night. But she hears moans coming from Joan's bedroom and goes inside. She sees that Joan is visibly upset about someone being outside her bedroom. Ana reassures Joan that Joan is safe and promises to care for Joan. However, Joan has a right to be fearful. Someone is after her, and they want to blame Ana.<br/><br/>This movie proves just because you're paranoid doesn't mean they aren't after you. Someone could explain away Joan's fears, but Ana does everything possible to stay vigilant. However, Ana is up against the LMN trifecta. She is in a house with poor cell coverage, with no Wi-Fi, and her patient has a nut allergy. The plot attempts to throw viewers curveballs, but it won't fool you. While the end is foreseeable, Ana's fighting spirit is commendable.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/acozychristmasinn.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/acozychristmasinn.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsinthefamily.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsinthefamily.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"The Podcast Murders",
-    "review":"Chloe updates her podcast listeners on her latest findings about the Bombshell Murders. She doesn't tell her name on the podcast, but Chloe promises to reveal it if the police capture the Bombshell Killer. Then the phone rings. The caller greets Chloe by name and requests an interview. Chloe tells the caller they have the wrong number and hangs up. Later, the caller tries again. The caller warns Chloe that a reporter can find her if they can. Chloe agrees to meet for coffee but off the record. The caller, Ellie, follows Chloe's podcast and loves it.<br/><br/>Chloe works out with the heavy bag and hurts her hand. Josh comes over and helps bandage it. He asks her out, but she is not ready. Ellie doesn't want to wait for coffee because she is in the area. So, she asks Chloe to meet her at a bar for drinks. The two women bond about school, trauma, and work off the record. However, someone is in the shadows waiting and commenting. They want Chloe to stop the podcast, or they will end her.<br/><br/>If you are an experienced Lifetimer, you know something is afoot. Ellie and Josh coming into her life around the same time don't bode well for Chloe. She gets threats on her podcast's message boards and ignores them. It's easy to dismiss this movie but watch until the end for the ultimate twists. This movie is slow and starts cliché, but the conclusion makes it worth it.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"A Magical Christmas Village",
+    "review":"Summer tells her sister, April, that she got a cryptic and urgent call from their mom, Vivian. Summer drives to Vivian's home and discovers boxes outside. Vivian's boyfriend decided to be closer to his kids, so they broke up. Vivian didn't want to stay in his house. Summer takes a deep breath and offers Vivian a place to stay.<br/><br/>Vivian brings in her things, but Summer's daughter, Chloe, can't take her eyes off Vivian's Christmas Village. It's a replica of the town with people and a skating rink. Summer thinks it is a dust magnet, but Vivian tells Chloe that the village is magic. Chloe can move the town and its people around as she pleases and makes a wish.<br/><br/>Summer falls into Ryan's arms at work, and Ryan questions her about the toy drive. Summer ran it in the past, but Ryan took it over. Ryan coincidentally asks Summer on a date. Summer agrees but has no idea why. Summer doesn't know there is a magical force in play: Chloe and her magical Christmas village wishes. Chloe chooses figurines to represent her family, manipulates them within the display, and makes a wish. Will all her wishes come true?<br/><br/>In life, you are either a Summer or a Vivian. Summer needs to have a handle on everything; work, finances, family, and the holidays. Vivian is carefree and uses auras to guide her life choices. Both women bite their tongues about each other. It takes one conversation and a loving sister, April, to bring Summer and Vivian together. When Summer erupts, it's one for the ages and a first in a Christmas movie. While it may feel harsh, the writers ensured the viewer would understand her side. Summer is not cruel; she is hurting. The love story is average, but the family connection is the standout.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thepodcastmurders.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thepodcastmurders.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amagicalchristmasvillage.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amagicalchristmasvillage.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"A Kismet Christmas",
-    "review":"Sarah pretends to read an excerpt from her 2nd novel in the Isabella Kismet Cookies series. Her agent, Benny, tells the crowd of anxious tweens that Sarah selected the contest's winner. And the winner lives in her hometown of New Britain. Sarah isn't happy about going home to announce the winner, and Benny can see it on her face.<br/><br/>Years ago, Sarah made Kismet Cookies with her grandmother, Mia. They baked the cookies and gave them to people in need. But not for food, for love. Without Mia's knowledge, Sarah got a cookie and put it under her pillow. She dreamed of her best friend, Travis. Then ran to Travis's home to tell him and barged into his wedding. Sarah ripped up the recipe, left New Britain that day, and never returned. She wrote the first book, except the book's cookies make you into a superhero, not find true love.<br/><br/>Sarah arrives at Mia's home and gets a call from Benny. He reminds Sarah that she has until January 3rd to finish the book. In front of the town, Sarah announces that Jasmine is the winner. Jasmine runs on stage and hugs Sarah. Jasmine tells Sarah that her father is Santa and points to the Santa standing behind her. Santa smiles and calls Sarah by her childhood nickname because Santa is Travis. This time to write is colliding with Sarah's unresolved past. She keeps remembering her dream but puts that aside until Mia tells Sarah that Travis is divorced. Could Sarah's dream be true?<br/><br/>Based on The First Love Cookie Club by Lori Wilde, this movie follows the Hallmark setup. But it gets unintentionally scary. When Benny says the publisher wants to hire a ghostwriter, Travis drives Sarah to a cabin in the woods with no Wi-Fi and takes her phone. Lifetime fans will get a bad feeling for a moment, but then you remember it's Hallmark. This movie is a typical love story with Christmas, magic, and a cute kid.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Unperfect Christmas Wish",
+    "review":"Maddy changes clothes in Cooper's truck after their Christmas performance for kids. Maddy and Cooper have been friends since they were children. Maddy changed clothes because her boyfriend, Luke, invited her to a special dinner. Luke checks all the boxes on Maddy's list, so she thinks he is perfect for her. After six months of dating, Maddy hopes Luke will pop the question.<br/><br/>Maddy arrives at the restaurant but gets confusing information because Luke made a reservation for 5, not 2. Maddy sees Luke's friends and family sitting at the table. Maddy opens Luke's gift, expecting a ring, and gets perfume. Maddy decides to break up with Luke, texts Cooper to get her, and waits on a park bench with Santa. Santa tells Maddy that no one is perfect and she should look for someone not so perfect. Soon, Cooper picks Maddy up and takes her home.<br/><br/>Cooper was going to his brother's party with Maddy's friend, Jackie. Jackie met Cooper and Maddy in high school. Now, Maddy and Jackie are roommates. Cooper's brother, Brett, and Jackie can see that Cooper has a crush on Maddy, but he thinks Maddy is too good for him. Brett and Jackie encourage Cooper to ask Maddy out when he finds out about the breakup. However, Cooper waits too long, and Luke returns. Afraid Cooper will lose his nerve, Brett and Jackie vow to spy for him. Will Cooper be brave, or will Maddy marry the perfect man?<br/><br/>While Cooper is a well-written character, Maddy appears whiny, unrealistic, and a brat. As you watch, you will wonder why Cooper is smitten with her. Maddy redeems herself after getting within a hair of her dream. She sees how her selfishness affects others and that Luke doesn't make her a priority. That's the moment Maddy becomes an adult.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/akismetchristmas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/akismetchristmas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/unperfectchristmaswish.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/unperfectchristmaswish.jpeg"
     }
   }
 ];
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Merry Swissmas",
+  "mtitle":"Reindeer Games Homecoming",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/merryswissmas.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/merryswissmas.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/reindeergameshomecoming.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/reindeergameshomecoming.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Christmas in the Pines",
+  "mtitle":"A Tiny Home Christmas",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasinthepines.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasinthepines.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/atinyhomechristmas.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/atinyhomechristmas.jpg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Secerts in the Family",
+  "mtitle":"The Dog Days of Christmas",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsinthefamily.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsinthefamily.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thedogdaysofchristmas.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thedogdaysofchristmas.jpg"
   }
 },
 {
   "option":"4",
-  "mtitle":"A Magical Christmas Village",
+  "mtitle":"Mother's Deadly Son",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amagicalchristmasvillage.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amagicalchristmasvillage.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mothersdeadlyson.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mothersdeadlyson.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Unperfect Christmas Wish",
+  "mtitle":"In Merry Measure",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/unperfectchristmaswish.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/unperfectchristmaswish.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/inmerrymeasure.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/inmerrymeasure.jpeg"
   }
 }
 
