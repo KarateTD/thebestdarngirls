@@ -96,4 +96,30 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewomanking.jpg"
     }
   }
+
+  {
+    "option":"1",
+    "mtitle":"Black Panther: Wakanda Forever",
+    "review":"A year after King T'Challa died, Princess Shuri worked tirelessly to update Wakandan technology, but she stopped trying to create a synthetic heart-shaped herb. Her mother, Queen Ramonda, is fighting a political war with the United Nations. She will never share vibranium until the world is trustworthy. Ramonda returns home to make Shuri take part in a ritual. One year after a loved one passes, you burn your funeral ceremonial robe to honor them and relieve you of the pain.<br/><br/>Shuri goes to the water's edge and watches Ramonda throw her robe into the fire, but Shuri refuses. Then, they notice a man coming from the water with wings on his ankles. Ramonda and Shuri dawn spears and demand to know who he is and why he speaks to them. He says his allies call him K'uk'ulkan, but his enemies say Namor. He says that Wakanda exposed his kingdom, Talokan, to great danger when they revealed the secret of vibranium. An American scientist was able to build a device that could detect the presence of the material. They want the Wakandans to bring them the American scientist so they can kill her, or they will destroy Wakanda.<br/><br/>Okoye decides to track down Agent Ross to reveal the location of the American scientist, and she convinces Ramonda to let Shuri go with her to get Shuri out of the lab. They unapologetically convince RiRi to come to Wakanda to keep her safe from a threat of unknown strength. However, Okoye and Shuri encounter hostile agents during their RiRi rescue, and Talokan warriors kidnap two of the women. Now, K'uk'ulkan gives Wakanda two options. One: Join his fight to destroy the land dwellers before they destroy his homeland for their resources. Or two: He will drown Wakanda and everyone in it.<br/><br/>And that's act one of this gut-wrenching, exciting, and loving tribute to Marvel's beloved king. The opening scene and the title card will have everyone in tears as it pays homage to a worthy figure in life and the comics. Then the plot introduces viewers to a new world with stunning but somewhat realistic imagery. You can see how this world mirrors Wakanda. Shuri and K'uk'ulkan are two sides of the same coin. They are children dealing with generational pain and devasting loss in a homeland under constant threat. RiRi is the new kid on the block. She swears, is an open book, and, while a bit naive, has some trust issues. It should go without saying, but the costumes, makeup, and art are second to none and help you delve deeper into this history-rich mythical world. Stay for the mid-credit scene, but their isn't an end-credit scene.<br/><br/>5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackpantherwakandaforever.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackpantherwakandaforever.jpeg"
+    }
+  }
+
+   {
+    "option":"3",
+    "mtitle":"Gigi and Nate",
+    "review":"Carolyn enters a petting zoo in California, which doubles as a traveling circus, and finds a scared capuchin monkey named Gigi. She coaxes the primate out of her corner and into a cage. Carolyn and her facility spend years training Gigi to become a service monkey.<br/><br/>Nate stood at the top of a cliff and jumped into the water while his friend, Benji, filmed it. A few days later, Nate celebrates the 4th of July with his mother, Claire, grandmother, Mama Blanche, and sisters, Katy and Annabelle. His father, Dan, couldn't make it because thunderstorms delayed his flight. Before dinner is over, Nate is in the bathroom, burning up, and vomiting. They rush Nate to the hospital, and the doctors run tests. There, doctors diagnose Nate with meningitis. It caused Nate's brain to swell, and now Nate can barely move his arms and legs.<br/><br/>Four years later, Nate, in a wheelchair, attempts to end his life. Dan saves him, and Claire makes a phone call to Carolyn. Carolyn tells Claire that Gigi is ready to help Nate, but it will take time for Gigi to adjust to Nate, Nate's surroundings, and Nate's needs. Nate takes Gigi everywhere for newfound independence. As they walk up and down the grocery aisles, a woman, Chloe, approaches Nate about Gigi. Chloe tells Nate and Claire that having Gigi around food products is against the law. Nate apologizes and leaves, but Claire gives Chloe a stern warning. After a party, social media, and beer pong, animal rights activists want to take Gigi away from Nate. Nate needs to convince the court that Gigi is safe and capuchins are suitable service animals.<br/><br/>Gigi and Nate's writers give viewers time to understand and appreciate the bond between a human and primate with wit, patience, and curious moments. And yes, the story is about Gigi, but it does not put the sole focus on her. It allows Nate's older sister, Katy, and parents, Claire and Dan, to connect with the audience and share their personal struggles. However, it doesn't offer an update for the actual Nate and Gigi. Also, the edits and CGI of the monkey versus dog chase lack the technical know-how and take the viewers out of the movie experience.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":"B0B92S9X5X"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gigiandnate.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gigiandnate.jpeg"
+    }
+  }
 */
