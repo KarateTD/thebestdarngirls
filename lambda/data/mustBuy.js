@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Gigi and Nate",
+    "review":"Carolyn enters a petting zoo in California, which doubles as a traveling circus, and finds a scared capuchin monkey named Gigi. She coaxes the primate out of her corner and into a cage. Carolyn and her facility spend years training Gigi to become a service monkey.<br/><br/>Nate stood at the top of a cliff and jumped into the water while his friend, Benji, filmed it. A few days later, Nate celebrates the 4th of July with his mother, Claire, grandmother, Mama Blanche, and sisters, Katy and Annabelle. His father, Dan, couldn't make it because thunderstorms delayed his flight. Before dinner is over, Nate is in the bathroom, burning up, and vomiting. They rush Nate to the hospital, and the doctors run tests. There, doctors diagnose Nate with meningitis. It caused Nate's brain to swell, and now Nate can barely move his arms and legs.<br/><br/>Four years later, Nate, in a wheelchair, attempts to end his life. Dan saves him, and Claire makes a phone call to Carolyn. Carolyn tells Claire that Gigi is ready to help Nate, but it will take time for Gigi to adjust to Nate, Nate's surroundings, and Nate's needs. Nate takes Gigi everywhere for newfound independence. As they walk up and down the grocery aisles, a woman, Chloe, approaches Nate about Gigi. Chloe tells Nate and Claire that having Gigi around food products is against the law. Nate apologizes and leaves, but Claire gives Chloe a stern warning. After a party, social media, and beer pong, animal rights activists want to take Gigi away from Nate. Nate needs to convince the court that Gigi is safe and capuchins are suitable service animals.<br/><br/>Gigi and Nate's writers give viewers time to understand and appreciate the bond between a human and primate with wit, patience, and curious moments. And yes, the story is about Gigi, but it does not put the sole focus on her. It allows Nate's older sister, Katy, and parents, Claire and Dan, to connect with the audience and share their personal struggles. However, it doesn't offer an update for the actual Nate and Gigi. Also, the edits and CGI of the monkey versus dog chase lack the technical know-how and take the viewers out of the movie experience.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":"B0B92S9X5X"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gigiandnate.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gigiandnate.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"Top Gun: Maverick",
     "review":"Top Gun: Maverick was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Breaking",
     "review":"Brian Brown-Easley stands outside Wells Fargo and thinks about his daughter and ex-wife. He walks inside and enters his information on a deposit slip. Rosa, a bank teller, calls Brian to her counter and makes small talk. He quietly asks Rosa for a piece of paper and writes a note. It reads, 'I have a bomb.' Rosa looks at her bank manager, Estel, with unbridled panic and fear in her eyes. They offer to give him money, but that's not what Brian wants. He wants Rosa and Estel to get news reporters and police on the scene. For months, Brian felt ignored and unheard. The VA and Lincoln College of Technology stole his money, and he wants the VA to pay it back.<br/><br/>Based on 'They Didn't Have to Kill Him': The Death of Lance Cpl. Brian Easley by Aaron Gell, this movie covers many topics plaguing US veterans, including homelessness, PTSD, job insecurity, and the VA.. It's painful to watch this kind man fight for the little money he had. For the soldiers that give everything for the US, it's disgusting that they have to jump through hoops to get anything back. Your heart will sink when Brian says the amount he's fighting over. Maybe, this movie will be the first step to righting some wrongs.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"The Silent Twins",
     "review":"The Silent Twins was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"Bullet Train",
     "review":"Yuichi Kimura sits near a hospital bed, where his son, Wataru, is in a coma. As Wataru's grandfather, The Elder, walks in, Yuichi reports that someone pushed Wataru off a roof. Yuichi found a note. The note states that Wataru's attacker will be on the bullet train headed to Kyoto in seat B4. As he approaches B4 with a gun, Yuichi finds a young girl sitting there. He apologizes, and she stuns him. The young girl is known as The Prince and wants to use Yuichi to set up her target, The White Death.<br/><br/>Maria's called her best snatch-and-grab man, Ladybug, for a job after The Carver fell ill. After some time with his therapist, Barry, Ladybug is ready to return to work. Maria wants Ladybug to board the bullet train and find a silver briefcase with train stickers and get off at the next stop.<br/><br/>Lemon and Tangerine are twin brothers working for The White Death. The White Death's enemies kidnapped his son, The Son, and held him for ransom. Lemon and Tangerine faked a ransom drop, killed the kidnappers, and got The Son. They will ride the bullet train and return The Son and the briefcase of money to The White Death.<br/><br/>A mobster raised The Wolf after The Wolf's mother died. Now, The Wolf is a contract killer for the mob boss. Years later, The Wolf marries his girlfriend in a white tuxedo with the mob in attendance. The Wolf raised his glass of red wine just as a waiter bumped him, spilling wine on The Wolf's tux. The Wolf left to clean his suit and got a bloody shock. All his guests, including his wife, were bleeding from their eyes and mouths. They all died. Later, someone uncovered that The Hornet poisoned The Wolf's wedding, and now The Hornet will be on the bullet train. These killers are on the same train with a different mission. However, they will collide with a Fiji bottle, a barrette, a sticker, and one unfortunate incident. Oh, and there is a venomous snake loose on the train.<br/><br/>If you miss one second, go home. Based on Bullet Train by Kōtarō Isaka, this movie has surprises throughout the plot that will make you gasp, laugh, and scream. Between Ladybug's therapy wisdom and Lemon's Thomas the Tank Engine obsession, the audience will find quick laughs between the bloodshed. While the story isn't linear, the director placed the flashbacks in the right place to move the story forward. There is one mid-credit scene that will bring you to a visual zen. If you love Ambulance's action, John Wick's humor, and Death on the Nile's mystery, this is the right movie for you.<br/><br/>5 out of 5 stars.",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bullettrain.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bullettrain.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Paws of Fury: The Legend of Hank",
-    "review":"Ika Chu puts the finishing touches on the Shogun's palace before the Shogun arrives. There is a lot to do, but Ika Chu needs his cats to remove one eyesore blocking the perfect view. It's a small town called Kakamucho, protected by a samurai. When the samurai sees the mass amount of cat warriors heading to the town, the samurai runs away, leaving Kakamucho defenseless.<br/><br/>The citizens of Kakamucho demand the Shogun send a new samurai, and the Shogun delegates the job to Ika Chu. He sees a dog, Hank, facing execution for walking into cat territory. Hank admits to crossing the border only to receive samurai training. Ika Chu appoints Hank the new samurai because he knows the cats of Kakamucho will kill a dog on sight.<br/><br/>Ika Chu's prediction is correct, and the cats attack Hank. But they stop when Hank proves he is the new samurai. Hank meets Jimbo, a hesitant sensei with too much catnip, and convinces Jimbo to train him. Ika Chu can't fathom the cats accepting this dog, so he vows to destroy Hank and Kakamucho before Shogun arrives.<br/><br/>Loosely based on Blazing Saddles, this movie is hilarious. From beginning to end, the characters never forget it's a movie. It takes everyday activities, like tweeting, and transforms the tweet into an actual bird. This film is an animated, classic comedy you grew up watching. It's worth every penny, and you will enjoy it more than your children.<br/><br/>5 out of 5 stars.",
-    "asin":{
-      "re":"B0B4KGTV33"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pawsoffurythelegendofhank.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pawsoffurythelegendofhank.jpeg"
     }
   }
 ];
@@ -110,16 +110,5 @@ module.exports = mustBuy;
     }
   }
 
-   {
-    "option":"3",
-    "mtitle":"Gigi and Nate",
-    "review":"Carolyn enters a petting zoo in California, which doubles as a traveling circus, and finds a scared capuchin monkey named Gigi. She coaxes the primate out of her corner and into a cage. Carolyn and her facility spend years training Gigi to become a service monkey.<br/><br/>Nate stood at the top of a cliff and jumped into the water while his friend, Benji, filmed it. A few days later, Nate celebrates the 4th of July with his mother, Claire, grandmother, Mama Blanche, and sisters, Katy and Annabelle. His father, Dan, couldn't make it because thunderstorms delayed his flight. Before dinner is over, Nate is in the bathroom, burning up, and vomiting. They rush Nate to the hospital, and the doctors run tests. There, doctors diagnose Nate with meningitis. It caused Nate's brain to swell, and now Nate can barely move his arms and legs.<br/><br/>Four years later, Nate, in a wheelchair, attempts to end his life. Dan saves him, and Claire makes a phone call to Carolyn. Carolyn tells Claire that Gigi is ready to help Nate, but it will take time for Gigi to adjust to Nate, Nate's surroundings, and Nate's needs. Nate takes Gigi everywhere for newfound independence. As they walk up and down the grocery aisles, a woman, Chloe, approaches Nate about Gigi. Chloe tells Nate and Claire that having Gigi around food products is against the law. Nate apologizes and leaves, but Claire gives Chloe a stern warning. After a party, social media, and beer pong, animal rights activists want to take Gigi away from Nate. Nate needs to convince the court that Gigi is safe and capuchins are suitable service animals.<br/><br/>Gigi and Nate's writers give viewers time to understand and appreciate the bond between a human and primate with wit, patience, and curious moments. And yes, the story is about Gigi, but it does not put the sole focus on her. It allows Nate's older sister, Katy, and parents, Claire and Dan, to connect with the audience and share their personal struggles. However, it doesn't offer an update for the actual Nate and Gigi. Also, the edits and CGI of the monkey versus dog chase lack the technical know-how and take the viewers out of the movie experience.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0B92S9X5X"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gigiandnate.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gigiandnate.jpeg"
-    }
-  }
+   
 */

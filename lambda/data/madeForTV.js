@@ -61,8 +61,8 @@ module.exports = madeForTV;
   "mtitle":"Santa Bootcamp",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/santabootcamp.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/santabootcamp.jpeg"
   }
 },
 {
@@ -79,8 +79,8 @@ module.exports = madeForTV;
   "mtitle":"Inventing the Christmas Prince",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/inventingthechristmasprince.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/inventingthechristmasprince.jpeg"
   }
 },
 {
@@ -88,8 +88,8 @@ module.exports = madeForTV;
   "mtitle":"A Country Christmas Harmony",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/acountrychristmasharmony.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/acountrychristmasharmony.jpeg"
   }
 },
 {
@@ -97,8 +97,8 @@ module.exports = madeForTV;
   "mtitle":"Sweet Navidad",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sweetnavidad.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sweetnavidad.jpeg"
   }
 }
 
