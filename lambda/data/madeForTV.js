@@ -56,6 +56,50 @@ module.exports = madeForTV;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Kirk Franklin's The Night Before Christmas",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kirkfranklinsthenightbeforechristmas.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kirkfranklinsthenightbeforechristmas.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"A Royal Christmas Match",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyalchristmasmatch.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroyalchristmasmatch.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"The Sound of Christmas",
+  "review":"Montana breaks up with her boyfriend, Rio, because they 'aren't evenly yoked.' Rio points out that Montana was furloughed six months ago and had no income or place to live without him. She steps out on faith and walks out the door. She joins her church choir late, and the choir director mentions her for speaking during someone's prayer request. Montana stands up, testifies about her situation, and requests a prayer.<br/><br/>Montana leaves the church, and Sister Estelle invites Montana into her car. Estelle's son, Quentin, needs someone to care for his kids, Deirdre and Daniel. The job pays $75,000 a year with a room and meals. Montana received a teaching certification, and the job will be a perfect fit. Montana takes the job.<br/><br/>Quentin, Deirdre, and Daniel make sure Montana knows they don't want her there. Estelle assures Montana that the kids will warm up to her, so Montana takes a deep breath and settles in. Later, Montana meets Quentin's girlfriend, Chloe. Chloe makes passive-aggressive comments about Montana's clothes and demands to speak to Quentin in private. Chloe wants to live in Quentin's house, but he thinks it will be a bad example for the kids. This riff will cause tension between Chloe and Montana to grow. However, Montana focuses on the kids and her faith. She will use her love of the Lord to guide Deirdre and Daniel through their pain and into Quentin's arms.<br/><br/>Based on The Replacement Wife by Tiffany L Warren, this film reminds viewers of the true meaning of Christmas, and it feels genuine. The songs will bring tears to your eyes as they profess their unyielding faith. However, the script has plenty of drama for fans to keep watching and puts a spotlight on breast cancer. After watching this film, you will feel renewed and fulfilled. This film has lessons for everyone.<br/><br/>5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesoundofchristmas.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesoundofchristmas.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"The Most Colorful Time of the Year",
+  "review":"Michelle comes to her daughter's school to give free eye exams to the students. Mr. Ryan's fourth-grade class comes in to complete their exams. Michelle knows Ryan because he is her daughter's science teacher. The kids call him Scrooge because he refused to display Christmas decorations in his classroom. Ryan prepares to leave, but Michelle stops him. The free exam is for the teachers, too. Ryan has 20/20 vision, but Michelle can tell Ryan is hiding something. She suspects Ryan is colorblind.<br/><br/>Michelle researches to help Ryan and finds an experimental treatment taking applications. However, the application window closes soon. She calls Ryan for permission, but he never answers back. Michelle throws caution to the wind and fills out the application for him. The study accepts Ryan and sends the corrective lenses. Can she persuade Ryan to accept the glasses to open his eyes to the world and Christmas?<br/><br/>While the sentiment of the movie is sweet, there are blaring issues in this story. First, Michelle would lose her license in reality because she filled out a patient's form without their consent. Second, Mark is a stalker. Finally, these glasses may not fix your colorblindness overnight. When you see an ad for EnChroma, you wonder if the entire movie was a two-hour commercial.<br/><br/>2 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themostcolorfultimeoftheyear.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themostcolorfultimeoftheyear.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"A Recipe for Joy",
+  "review":"Carly's boss, Martha, wants Carly to produce her first show. And they want Carly to do it because her mother's old restaurant is the focus. Chef Grant bought it after years of hiding and leaving his successful job in the big city. Martha wants to know more about the man and the scandalous details of his life. Carly promises not to disappoint and have the segment complete by the 21st.<br/><br/>Carly meets with Grant and his restaurant manager, Beth. Carly gives Grant the release, but he won't sign it. Grant doesn't want to be in front of the camera. Grant left the city because the rumors about his private life overshadowed his food and harmed his daughter, Tess. He vowed not to let that happen again. Carly tells her camerawoman, Ramona, to keep filming. Carly hopes the documentary filming style will capture enough footage to appease Martha. As she introduces Grant to small-town life, he lets his guard down. But will that be a mistake?<br/><br/>Carly and Grant get along for the same reason they butt heads: they're perfectionists. Viewers get an understanding of Grant's disconnect from small-town life and the holiday as the story develops. This movie is an exemplary example of media spin. This film is for you if you need something calm to watch for the holidays.<br/><br/>3.5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/arecipeforjoy.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/arecipeforjoy.jpeg"
+  }
+}
 
 */
