@@ -10,7 +10,7 @@ var inTheTheaters = [
   },
   {
     "option":"2",
-    "mtitle":"Devoption",
+    "mtitle":"Devotion",
     "review":"Lieutenant Tom Hudner enters the locker room to greet his fellow soldiers and hears someone mumbling to themselves. Before Tom can investigate, his airmen walk in, say hello, and rib him. One soldier, Ensign Jesse Brown, is standoffish, but Tom shakes his hand. Tom attempts to get closer to Jesse, but Jesse keeps his guard up. Until Tom offers Jesse a ride home because Jesse's car broke down. Tom meets Jesse's wife, Daisy, and their daughter, Pam. Daisy invites Tom in for a beer. She worries because the U.S. government gave the airmen their first mission. They will lend air support to the Korean War. Pam makes Tom promise to watch over Jesse. A new aircraft, some backward attitudes, and heavy firefights will test Tom's devotion to his promise.<br/><br/>Based on Devotion: An Epic Story of Heroism, Friendship, and Sacrifice by Adam Makos, this movie stands out from other historical tellings because there isn't a bad guy. Although Jesse receives media attention for his race and naval status, he doesn't want that to define him. Only his dedication to the country. Tom is a true definition of an ally. He quickly points out others' wrongdoings and listens to Jesse with an ear of compassion, not pity. This movie will leave a tear in your eye and gives these men their due.<br/><br/>4 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/devotion.jpeg",
