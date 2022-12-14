@@ -1,6 +1,18 @@
 var mustBuy = [
   {
-    "option":"1",
+    "option":"2",
+    "mtitle":"The Woman King",
+    "review":"In 1823 West Africa, the Agojie of the Dahomey Kingdom returned from a fierce battle with their captured people and prisoners from Migan's tribe. King Ghezo instructs his people not to look at the Agojie. General Nanisca stands in front of trainees and tells them the rules of joining her elite warriors. Among the trainees is Nawi. Nawi's father tried to force her to marry an older man, but the man slapped her when she wouldn't speak to him. Nawi's father dragged her to Ghezo's palace and gave Nawi to Ghezo.<br/><br/>Ghezo and one of his wives sit in front of his council and discuss the future of Dahomey. Nanisca warns the king that trading prisoners into slavery for western weapons will weaken Africa. Another advisor tells the king that selling their enemies into slavery will strengthen their kingdom.<br/><br/>Migan enters Dahomey for Ghezo's tribute to the Oyo Empire. His kingdom controls the port Dahomey needs to keep the slave trade. Migan notices that the tribute is short and tells Ghezo that he wants 20 Agojie to make up for the shortfall. Instead of giving Migan 20 warriors, Nanisca declares war. Migan believes the Dahomey kingdom is getting bolder. So, he entices other tribes and western slavers to band together to bring them down. Nanisca will need to look her horrific past in the face to defeat the oncoming attack.<br/><br/>This movie is a warrior's tale with bits of history thrown into the plot. Viewers should use this film as a starting point to do more research on the Dahomey kingdom and the Oyo Empire. Within the story, viewers get revenge, love, jealousy, and excellent choreography. The astounding details on costumes, hair, and makeup are unforgettable. However, there is an audible difference between native African speakers and those from other countries. The flip in tone and dialect can be distracting.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0BFGR2RKC"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewomanking.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewomanking.jpg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"Gigi and Nate",
     "review":"Gigi and Nate was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Top Gun: Maverick",
     "review":"Top Gun: Maverick was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Breaking",
     "review":"Brian Brown-Easley stands outside Wells Fargo and thinks about his daughter and ex-wife. He walks inside and enters his information on a deposit slip. Rosa, a bank teller, calls Brian to her counter and makes small talk. He quietly asks Rosa for a piece of paper and writes a note. It reads, 'I have a bomb.' Rosa looks at her bank manager, Estel, with unbridled panic and fear in her eyes. They offer to give him money, but that's not what Brian wants. He wants Rosa and Estel to get news reporters and police on the scene. For months, Brian felt ignored and unheard. The VA and Lincoln College of Technology stole his money, and he wants the VA to pay it back.<br/><br/>Based on 'They Didn't Have to Kill Him': The Death of Lance Cpl. Brian Easley by Aaron Gell, this movie covers many topics plaguing US veterans, including homelessness, PTSD, job insecurity, and the VA.. It's painful to watch this kind man fight for the little money he had. For the soldiers that give everything for the US, it's disgusting that they have to jump through hoops to get anything back. Your heart will sink when Brian says the amount he's fighting over. Maybe, this movie will be the first step to righting some wrongs.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"The Silent Twins",
     "review":"The Silent Twins was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesilenttwins.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesilenttwins.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Bullet Train",
-    "review":"Yuichi Kimura sits near a hospital bed, where his son, Wataru, is in a coma. As Wataru's grandfather, The Elder, walks in, Yuichi reports that someone pushed Wataru off a roof. Yuichi found a note. The note states that Wataru's attacker will be on the bullet train headed to Kyoto in seat B4. As he approaches B4 with a gun, Yuichi finds a young girl sitting there. He apologizes, and she stuns him. The young girl is known as The Prince and wants to use Yuichi to set up her target, The White Death.<br/><br/>Maria's called her best snatch-and-grab man, Ladybug, for a job after The Carver fell ill. After some time with his therapist, Barry, Ladybug is ready to return to work. Maria wants Ladybug to board the bullet train and find a silver briefcase with train stickers and get off at the next stop.<br/><br/>Lemon and Tangerine are twin brothers working for The White Death. The White Death's enemies kidnapped his son, The Son, and held him for ransom. Lemon and Tangerine faked a ransom drop, killed the kidnappers, and got The Son. They will ride the bullet train and return The Son and the briefcase of money to The White Death.<br/><br/>A mobster raised The Wolf after The Wolf's mother died. Now, The Wolf is a contract killer for the mob boss. Years later, The Wolf marries his girlfriend in a white tuxedo with the mob in attendance. The Wolf raised his glass of red wine just as a waiter bumped him, spilling wine on The Wolf's tux. The Wolf left to clean his suit and got a bloody shock. All his guests, including his wife, were bleeding from their eyes and mouths. They all died. Later, someone uncovered that The Hornet poisoned The Wolf's wedding, and now The Hornet will be on the bullet train. These killers are on the same train with a different mission. However, they will collide with a Fiji bottle, a barrette, a sticker, and one unfortunate incident. Oh, and there is a venomous snake loose on the train.<br/><br/>If you miss one second, go home. Based on Bullet Train by Kōtarō Isaka, this movie has surprises throughout the plot that will make you gasp, laugh, and scream. Between Ladybug's therapy wisdom and Lemon's Thomas the Tank Engine obsession, the audience will find quick laughs between the bloodshed. While the story isn't linear, the director placed the flashbacks in the right place to move the story forward. There is one mid-credit scene that will bring you to a visual zen. If you love Ambulance's action, John Wick's humor, and Death on the Nile's mystery, this is the right movie for you.<br/><br/>5 out of 5 stars.",
-    "asin":{
-      "re":"B0B64HSFTZ"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bullettrain.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bullettrain.jpg"
     }
   }
 ];
@@ -94,19 +94,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/onthecomeup.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/onthecomeup.jpeg"
-    }
-  }
-
-   {
-    "option":"2",
-    "mtitle":"The Woman King",
-    "review":"In 1823 West Africa, the Agojie of the Dahomey Kingdom returned from a fierce battle with their captured people and prisoners from Migan's tribe. King Ghezo instructs his people not to look at the Agojie. General Nanisca stands in front of trainees and tells them the rules of joining her elite warriors. Among the trainees is Nawi. Nawi's father tried to force her to marry an older man, but the man slapped her when she wouldn't speak to him. Nawi's father dragged her to Ghezo's palace and gave Nawi to Ghezo.<br/><br/>Ghezo and one of his wives sit in front of his council and discuss the future of Dahomey. Nanisca warns the king that trading prisoners into slavery for western weapons will weaken Africa. Another advisor tells the king that selling their enemies into slavery will strengthen their kingdom.<br/><br/>Migan enters Dahomey for Ghezo's tribute to the Oyo Empire. His kingdom controls the port Dahomey needs to keep the slave trade. Migan notices that the tribute is short and tells Ghezo that he wants 20 Agojie to make up for the shortfall. Instead of giving Migan 20 warriors, Nanisca declares war. Migan believes the Dahomey kingdom is getting bolder. So, he entices other tribes and western slavers to band together to bring them down. Nanisca will need to look her horrific past in the face to defeat the oncoming attack.<br/><br/>This movie is a warrior's tale with bits of history thrown into the plot. Viewers should use this film as a starting point to do more research on the Dahomey kingdom and the Oyo Empire. Within the story, viewers get revenge, love, jealousy, and excellent choreography. The astounding details on costumes, hair, and makeup are unforgettable. However, there is an audible difference between native African speakers and those from other countries. The flip in tone and dialect can be distracting.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0BFGR2RKC"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewomanking.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewomanking.jpg"
     }
   }
 
