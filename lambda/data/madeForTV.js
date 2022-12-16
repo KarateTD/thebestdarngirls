@@ -56,6 +56,50 @@ module.exports = madeForTV;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Holiday Hideaway",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/holidayhideway.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/holidayhideway.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Sappy Holiday",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sappyholiday.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sappyholiday.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"The First Noelle",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefirstnoelle.png",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefirstnoelle.png"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Holiday Heritage",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/holidayheritage.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/holidayheritage.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"A Christmas to Teasure",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/achristmastotreasure.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/achristmastotreasure.jpeg"
+  }
+}
 
 */
