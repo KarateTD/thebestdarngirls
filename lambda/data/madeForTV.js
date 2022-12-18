@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Kirk Franklin's The Night Before Christmas",
-    "review":"Journee drives home with her daughter, Nia, and tries to get Nia to join in a sing-along to Nia's favorite artist, Simone Adam. Nia wanted to visit her grandparents for Christmas, but Journee made Nia attend a corporate Christmas party. The snow declines the visibility, so Journee pulls over to the Central Chruch of Zion.<br/><br/>Pastor Adam opens the door and greets them with a smile. Several members of the congregation are waiting out the storm after canceling their annual Christmas concert. Booker and Noël discover that Journee is a widow. Later, they see that Adam is attracted to Journee and tells him to talk to her because she is single, but he is hesitant.<br/><br/>Nia hopes to return to the road, but everyone gets a blizzard warning on their phone. She blames her mom. Nia tells Journee that she wants to move to Philidelphia and live with her grandparents because Journee puts work ahead of her. Then, they hear someone knock on the door. It's Simone. She got caught in the storm trying to make it home for Christmas. She takes an instant liking to Pastor Adams, and Journee notices. While Journee contends with Nia and Simone, Adam worries about the congregation. They depend on the Christmas show for donations, and the church spends Christmas delivering food to the needy. If the storm doesn't stop, they won't be able to help themselves or the community. This church needs a miracle.<br/><br/>With a mix of old and new school Christmas songs, this movie will move you in a way only Kirk Franklin can. No matter the setback, they pray and sing their way through it. The film doesn't try to be sensational, emotional, or controversial. It's a testament to community and faith by providing stories we all relate to with little drama. This movie is perfect for the family.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Holiday Hideaway",
+    "review":"Carly loves and celebrates all holidays and has an organized holiday closet filled with decorations and outfits. And this Thanksgiving will not be different. Her boyfriend, Brandon, loves Carly's enthusiasm but needs to focus on work this year. Carly's sister, Winnie, brings her husband, Kevin, and their two kids. Then, Carly and Winnie's mother, Judy, enters with her husband, Rufus. Winnie isn't happy to hear Judy brought their brother, Darnell. Winnie and Darnell fight like cats and dogs. Then, Carly's father, Martin, comes to the house with his new girlfriend, Destiny. Darnell asks her for ice, and Carly deciphers her family started eating without her. She erupts and kicks everyone out. Brandon tries to console her because he wants to propose tonight. Carly never wanted to get married because her parents' marriage ended horribly. Brandon decides he wants to take a break. This Thanksgiving is officially the worst for Carly.<br/><br/>Carly meets with her boss, Angela, after a failed Zoom call. A new boutique rental property wants Angela's team to write an article about the company after staying. Carly jumps at the opportunity to get away from her family and offers to stay for the article. Angela is confused about Carly's holiday switch but approves the assignment. Carly gives Winnie the key to her holiday closet and leaves her family for Christmas. Will she find the peace and serenity she needs?<br/><br/>Carly speaks for every person when she holds nothing back from her family. Between self-diagnosed food allergies, combative siblings, and squabbling parents, it's no wonder Carly caved. However, Brandon is the only victim of her wrath. One stand-out in this movie is the conclusion. In other stations, Carly would return in tears apologizing for leaving her family and with renewed Christmas spirit. For B.E.T., Carly loves her family, but the family discovers they overstepped and must make changes. It's a refreshing twist to a holiday film.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kirkfranklinsthenightbeforechristmas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kirkfranklinsthenightbeforechristmas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/holidayhideway.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/holidayhideway.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"A Royal Christmas Match",
-    "review":"Princess Camille is on a US tour to change her image. People know her for being a clumsy, bumbling princess, but she gains confidence with each stop on her tour. She listens to the latest news report, and they leak a story. Morgana University may close because it's a drain on Morgana's economy. Camille calls her father, King Lucien, to update him. She wants to start an exchange program with an American school that specializes in diplomacy. Lucien tells Camille it won't work. They don't have a month to fix the issue because the school will close in a week. The exchange program can't be a dream to entice donors to endorse endowments anymore. They must create a tangible program with numbers, published papers, and theories. The closest university with an international diplomacy school is PSU.<br/><br/>Camille and Teodora drive to PSU, and their driver opens a door in front of a puddle. Dr. Ben runs over to help the women out of the SUV. PSU President Angela runs over and apologizes for the vehicle dropping them off at the wrong building. Camille tells Angela that talking to faculty and donors isn't enough. Camille has to reach the students by teaching a class. So Angela tells Ben that Camille will be a guest lecturer in his class. Ben visited Morgana and its university when Ben studied abroad and can't believe the doors will close. He will work with Camilla to keep Morgana University open but continues to question her motives and upsets her. Will they fall in love too?<br/><br/>While the overall Christmas-royalty-love story is simple, the diplomacy is not. We all heard of the Boston Tea Party, but few know about Whiskey-Schnapps battle between Canada and Demark. These facts scattered throughout the film keep it interesting. This movie won't be a favorite of the season, but you will learn something.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Sappy Holiday",
+    "review":"Joy wants her boss, Pierre, to promote her to Chief Executive Chef, so she invited an influencer, Cherrie, to rate the restaurant. Cherrie liked her scallops but hated the risotto, so she gave the restaurant a bad review. Joy's promotion competition, Antonio, made the risotto. Joy comes home disappointed but overhears her boyfriend, Gabe, talking about proposing. Gabe wants Joy to come to Vermont to visit his family over the holiday and says he called her boss for the time off. She looks forward to getting away.<br/><br/>James welcomes his brother, David, David's wife, Rebecca, and their children, Dillon and Riley, back to the maple syrup farm. However, David comes with a troubling financial report. James owes more money than he can pay back, and David has a buyer ready to take over. James drinks hot cocoa with Riley, and they wish on a star.<br/><br/>Joy drives to Vermont after finding Gabe-approved clothes for visiting his family. Joy's car slips in the snow and burns out the transmission. She calls Gabe to pick her up, but he is too busy and tells her to call a tow truck. Joy sees a car coming and slips flagging it for help. James checks on Joy and the vehicle. He offers to let Joy stay on the farm. Joy says yes to the stranger after James calls his mom to prove he's not a psycho. Riley sees Joy and thinks Joy is her wish fulfilled. And Riley is right.<br/><br/>Gabe and Joy's relationship is doomed when he refuses to pick her up. Compared to James's family, Gabe's family is sterile, cold, and pompous. With James's family, Joy gets the holiday time she craves. She cooks, decorates, and gets enriched in the syrup history. This movie's plot isn't groundbreaking, but it's a comforting watch for the holidays.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyalchristmasmatch.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroyalchristmasmatch.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sappyholiday.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sappyholiday.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"The Sound of Christmas",
-    "review":"Montana breaks up with her boyfriend, Rio, because they 'aren't evenly yoked.' Rio points out that Montana was furloughed six months ago and had no income or place to live without him. She steps out on faith and walks out the door. She joins her church choir late, and the choir director mentions her for speaking during someone's prayer request. Montana stands up, testifies about her situation, and requests a prayer.<br/><br/>Montana leaves the church, and Sister Estelle invites Montana into her car. Estelle's son, Quentin, needs someone to care for his kids, Deirdre and Daniel. The job pays $75,000 a year with a room and meals. Montana received a teaching certification, and the job will be a perfect fit. Montana takes the job.<br/><br/>Quentin, Deirdre, and Daniel make sure Montana knows they don't want her there. Estelle assures Montana that the kids will warm up to her, so Montana takes a deep breath and settles in. Later, Montana meets Quentin's girlfriend, Chloe. Chloe makes passive-aggressive comments about Montana's clothes and demands to speak to Quentin in private. Chloe wants to live in Quentin's house, but he thinks it will be a bad example for the kids. This riff will cause tension between Chloe and Montana to grow. However, Montana focuses on the kids and her faith. She will use her love of the Lord to guide Deirdre and Daniel through their pain and into Quentin's arms.<br/><br/>Based on The Replacement Wife by Tiffany L Warren, this film reminds viewers of the true meaning of Christmas, and it feels genuine. The songs will bring tears to your eyes as they profess their unyielding faith. However, the script has plenty of drama for fans to keep watching and puts a spotlight on breast cancer. After watching this film, you will feel renewed and fulfilled. This film has lessons for everyone.<br/><br/>5 out of 5 stars.",
+    "mtitle":"The First Noelle",
+    "review":"Terrance pulls Noelle out of the pub's quiz bowl to give her fantastic news. He got the promotion and will head the new London office. This job will keep them apart for six months. Terrance thinks their relationship can withstand the distance, so they promise to stay together.<br/><br/>One year later, Noelle works at a publishing company and meets with her highest-selling author, Vincent. She gives him the latest edit on his book when a man with flowers walks into her office. It's Terrance. Then Terrance asks to go out to dinner later. Noelle goes home and starts going through her clothes with her sister, Shavana. Noelle doesn't want to believe it's a date, but she dresses to impress.<br/><br/>She meets Terrance at the restaurant and gets comfortable. Then another woman walks in and kisses Terrance. It's his new girlfriend, Noelle, but she prefers to be called Elle. Noelle composes herself as Elle talks about her life coach, author, and influencer brand.<br/><br/>Noelle tells her boss, Sabrina, about meeting Elle, and Sabrina is impressed. Sabrina tells Noelle that if she gets Elle for a book deal, the publisher company will give Noelle an imprint. Can the first Noelle work with the second while they are both in love with the same man?<br/><br/>Oh, the drama in the film is second to none. Noelle walks a razor's edge as she creates a marketing strategy for Elle's next book while devising tactics to get Terrance. And Noelle's brother-in-law, David, has one-liners every in-law is dying to say. It's easy to push this one aside because every holiday movie ends alike. But hang on because the ending will throw you for an honest loop. It is well worth the watch.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesoundofchristmas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesoundofchristmas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefirstnoelle.png",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefirstnoelle.png"
     }
   },
   {
     "option":"4",
-    "mtitle":"The Most Colorful Time of the Year",
-    "review":"Michelle comes to her daughter's school to give free eye exams to the students. Mr. Ryan's fourth-grade class comes in to complete their exams. Michelle knows Ryan because he is her daughter's science teacher. The kids call him Scrooge because he refused to display Christmas decorations in his classroom. Ryan prepares to leave, but Michelle stops him. The free exam is for the teachers, too. Ryan has 20/20 vision, but Michelle can tell Ryan is hiding something. She suspects Ryan is colorblind.<br/><br/>Michelle researches to help Ryan and finds an experimental treatment taking applications. However, the application window closes soon. She calls Ryan for permission, but he never answers back. Michelle throws caution to the wind and fills out the application for him. The study accepts Ryan and sends the corrective lenses. Can she persuade Ryan to accept the glasses to open his eyes to the world and Christmas?<br/><br/>While the sentiment of the movie is sweet, there are blaring issues in this story. First, Michelle would lose her license in reality because she filled out a patient's form without their consent. Second, Mark is a stalker. Finally, these glasses may not fix your colorblindness overnight. When you see an ad for EnChroma, you wonder if the entire movie was a two-hour commercial.<br/><br/>2 out of 5 stars.",
+    "mtitle":"Holiday Heritage",
+    "review":"Ella watches old videos of her grandfather, Riley, giving advice. He deemed Ella the successor of keeping the family together. Ella's family hasn't been the same since Riley died, but she will work tirelessly to keep his hope alive.<br/><br/>As Ella prepares to visit her family, her mother, Micah, calls her. Ella tells Micah she got the building to start her company but didn't sign the lease. Then, Micah tells Elle that Micah and Micah's mother, Tess, haven't gotten along since Riley's passing. Micah is ready to leave town and move to start a new life and a new bakery. Ella begs Micah not to tell Tess until after she arrives.<br/><br/>Ella walks into Chapel's Bakery to see Tess and Micah at odds. Ella can see Micah's resentment towards Tess's dismissive nature and wants to repair the bond like Riley.<br/><br/>After Christmas tree shopping, Tess, Micah, and Ella come to Tess's home to decorate the tree. They get the Christmas decorations and find Riley's Kwanzaa chest. Micah and Tess barely get through decorating without arguing. She meets with her ex-boyfriend, Mayor Griffin, for guidance, and Griffin notices the wedge between the two women. And if Christmas isn't enough, she will stay through Kwanzaa. But Ella spends too much time focusing on them and ignores her issues. Can these ladies come together before the new year?<br/><br/>These three women are so worried about losing each other that they drive the others away. While Tess ignores Micah's suggestions, she wants her around. Instead of opening up about her issues, Micah decides to run. Ella has one foot at home and the other at work. Losing their patriarch had a lasting impact on these women. It's sublime to see White Chocolate Peppermint Eclairs, Cranberry Brie Bites, Bûche de Noël, and Kwanzaa cookies bind these women to each other and their community.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themostcolorfultimeoftheyear.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themostcolorfultimeoftheyear.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/holidayheritage.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/holidayheritage.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"A Recipe for Joy",
-    "review":"Carly's boss, Martha, wants Carly to produce her first show. And they want Carly to do it because her mother's old restaurant is the focus. Chef Grant bought it after years of hiding and leaving his successful job in the big city. Martha wants to know more about the man and the scandalous details of his life. Carly promises not to disappoint and have the segment complete by the 21st.<br/><br/>Carly meets with Grant and his restaurant manager, Beth. Carly gives Grant the release, but he won't sign it. Grant doesn't want to be in front of the camera. Grant left the city because the rumors about his private life overshadowed his food and harmed his daughter, Tess. He vowed not to let that happen again. Carly tells her camerawoman, Ramona, to keep filming. Carly hopes the documentary filming style will capture enough footage to appease Martha. As she introduces Grant to small-town life, he lets his guard down. But will that be a mistake?<br/><br/>Carly and Grant get along for the same reason they butt heads: they're perfectionists. Viewers get an understanding of Grant's disconnect from small-town life and the holiday as the story develops. This movie is an exemplary example of media spin. This film is for you if you need something calm to watch for the holidays.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"A Christmas to Teasure",
+    "review":"Riley sees Everett decorating Mrs. Marley's front porch with Christmas garland and stops him. The town is ready to sell the home. Everett asks Riley what he has to do to save the house. Riley says Everett would have to pay the balance owed on the property taxes and the down payment. That's roughly $200,000.<br/><br/>Riley works in his office, and his assistant, Jeannie, runs in with a letter in a red envelope. Inside is a letter from Mrs. Marley with clues to a treasure map. When Riley was young, Mrs. Marley would make treasure maps for him and his friends, Everett, Tipper, Clay, Michelle, and Austin. Mrs. Marley instructed her lawyer to send the letters one year after she died.<br/><br/>Austin and Tipper own an event company, and they hooked a wealthy client with a wild party idea. The client likes the idea but doesn't think they have enough people and space to pull it off. They receive their letters. Tipper is excited, but Austin worries. The last time he saw Everett, they broke up.<br/><br/>Clay and Michelle are happily married with booming careers. They get their letters from Mrs. Marley. They don't care about the money, but they miss their friends and the hunt. They arrive at the property and speculate how much it's worth. These six friends will honor Mrs. Marley while finding a treasure and each other.<br/><br/>This endearing movie is reminiscent of P.S. I Love You. Mrs. Marley saw that Everett and Austin belonged together, and she created the hunt to help them see that. Also, her six letters had a ripple effect on Ricky, Clay, Michelle, Tipper, and the community. The movie is fun, but the pace slows down too many times.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/arecipeforjoy.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/arecipeforjoy.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/achristmastotreasure.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/achristmastotreasure.jpeg"
     }
   }
 ];
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Holiday Hideaway",
+  "mtitle":"The Snowball Effect",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/holidayhideway.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/holidayhideway.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"2",
-  "mtitle":"Sappy Holiday",
+  "mtitle":"Christmas Party Crashers",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sappyholiday.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sappyholiday.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"3",
-  "mtitle":"The First Noelle",
+  "mtitle":"A Miracle Before Christmas",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefirstnoelle.png",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefirstnoelle.png"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"4",
-  "mtitle":"Holiday Heritage",
+  "mtitle":"A Holiday Chance",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/holidayheritage.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/holidayheritage.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"5",
-  "mtitle":"A Christmas to Teasure",
+  "mtitle":"Fuhgeddabout CHristmas",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/achristmastotreasure.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/achristmastotreasure.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 }
 
