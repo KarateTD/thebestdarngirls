@@ -124,5 +124,27 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/devotion.jpeg"
     }
   }
+
+  {
+    "option":"5",
+    "mtitle":"Violent Night",
+    "review":"Santa Claus stops at a bar in England and drinks before delivering presents to nice boys and girls. But people's growing greed and selfishness leave Santa jaded about the holidays. He gets in his sleigh and heads into the night.<br/><br/>In Connecticut, Jason waits for his estranged wife, Linda, and their daughter, Trudy, with a gift for his mother, Gertrude. Trudy admits she's sad because Jason didn't take her to see Santa and make her Christmas wish. They arrive at Gertrude's massive estate, and Jason's sister, Alva, is there with her son, Bert, and boyfriend, Morgan. Alva accuses Jason of sucking up to Gertrude for the business, but Jason ignores her.<br/><br/>Later that night, Jason still feels guilty for Trudy missing Santa. So he wraps up a walkie-talkie with earbuds and gives it to her. He tells Trudy it's a magic walkie-talkie that can communicate directly with Santa. As Trudy sleeps, the adults argue about the company, Christmas gifts, and money. They don't notice the catering staff has guns and kills security. A man called Scrooge enters and demands cash from Gertrude. Sources told Scrooge that Gertrude stole $300,000,000 from the government and hid it in a vault on the property. Until they get the money, Scrooge and his accomplices will hold the family hostage.<br/><br/>Upstairs, Santa eats cookies, drinks Bourbon, and sits in a massage chair. He hears the commotion downstairs and tries to escape. However, his magic isn't working. Frosty, a henchman, spots Santa and gets into a bloody battle. As Santa looks for another way to escape, he hears a sound coming from the closet. He finds the other walkie-talkie and answers Trudy. She tells Santa she's in danger and begs for help. Santa checks his scroll and sees she's on the nice list. He tells Trudy not to worry because Santa is coming to town.<br/><br/>So what if Bad Santa, John Wick, and Kevin McCallister worked together to stop the murderous Wet Bandits? Well, watch this movie and find out. The audience knows this is the real Santa at the beginning, but he has issues. And his skull-crushing origin story tells the darkness behind the red suit. This movie isn't for the faint of heart. It's for the Die Hard Christmas fans that want to break out of the Christmas rom-com rut. The fight scenes are stellar, and the Christmas magic isn't sappy or cliché. Step away from the ordinary and have a blood-and-guts Christmas.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":""
+    }
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/violentnight.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/violentnight.jpg"
+    }
+  }
    
+  {
+    "option":"1",
+    "mtitle":"M3GAN",
+    "review":"Gemma created the latest toy craze, PurrPetual Pets. But her boss, David, wants her to make a new model at a lower price. Instead of working on the updated Pet, Gemma and her team, Tess and Cole, keep working on the Model 3 Generative Android, M3gan, for short. Gemma tries a simple demo, but the doll's face melts. David leaves the room enraged and demands Gemma scrap M3gan and begin working on a cheaper Pet. Then Gemma gets a phone call from the hospital in Oregon. Her sister, Ava, and brother-in-law, Ryan, died in a car accident, but their daughter, Cady, survived.<br/><br/>Gemma moves Cady into her home but doesn't have toys, books, or a dedicated space for Cady. Cady comes into Gemma's workshop and shows Gemma her drawings. So, Gemma shows Cady a robot she made in college, Bruce. It's a motion caption robot using gloves to interact. Cady comments that it's a cool toy and the only one she would ever need. Gemma, Tess, and Cole work overtime to fix M3gan.<br/><br/>They invite David to a private meeting and have him watch M3gan interact with Cady. David loves M3gan and wants to present it to the board immediately. Gemma thinks the bond will help Cady recover after losing her parents, allow her to work, and put her company at number one. She wants Cady to be happy, the same as M3gan. Only M3gan will kill for it because Gemma forgot rule number one of toy designing: parental controls.<br/><br/>While Chucky starts creepy, M3gan is a lifesize Barbie on steroids. In true Blumhouse fashion, this script is funny, scary, and twisted. And it sets itself apart from other AI and doll movies because it discusses attachment theory. Cady becomes frighteningly dependent on M3gan and physically attacks Gemma when she can't have M3gan. While we are nowhere near this level of AI, Cady's misplaced attachment is the real threat in society today. Audiences will cringe, laugh, and OMG as M3gan takes over. This film is definitely worth a watch and discussion.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/m3gan.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan.jpeg"
+    }
+  }
 */
