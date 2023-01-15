@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"How to Murder Your Husband: The Nancy Brophy Story",
+    "review":"Nancy Brophy is an aspiring romance-suspense novelist and married to chef Daniel. He teaches at Oregan Culinary Institute and loves to cook delicious dishes at home. Her friends tell Nancy that her first chapter is bold and an improvement, but they find issues with her story. And publishers echo their statement with one rejection letter after another. When Nancy second-guesses her dream, Daniel tries to appease her, but it doesn't work. She reveals they are on a financial cliff, but he isn't concerned.<br/><br/>Nancy goes to their friend, insurance actuary Joe, to get a loan against their life insurance policy. Joe advises Nancy that this is a bad idea that could do more harm financially than help. He offers Nancy a job in sales, but she says no. She asks Daniel to get a job as a private chef for a tech billionaire. Instead, he offers to take a senior center job to compensate for their shortfall. Nancy hugs her husband and dreams of having a new house, a published book, and a trip to Portugal. When Daniel's second job doesn't fill the deficit, Nancy takes the sales job and starts to plot a way to get out without Daniel.<br/><br/>Based on a true story, Nancy is full of envy, greed, and pride. She envies her brother, Mark, who makes a good living as a lawyer, but he has cancer. Nancy spends to appear wealthy and never wants to work to make more money. She never sees her shortcoming in life and her writings. This shortsighted behavior is her downfall. Daniel was a great husband that loved Nancy, cooked, and appreciated her passion. He didn't deserve to die. Nancy is an entitled narcissist that gets what she deserves in the end. The actors are terrific and connect viewers to the characters, but Nancy's past needs more attention.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/howtomurderyourhusbandthenancybrophystory.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/howtomurderyourhusbandthenancybrophystory.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"My Sister's Serial Killer Boyfriend",
+    "review":"Local news investigator Maddie presents her editor, Rachel, with a potential new story. She looked into three murders and discovered the women had similar features. Maddie believes the killer will strike again in their town. Rachel doesn't think Maddie has enough evidence for a story and tells Maddie to focus on her current tasks.<br/><br/>Maddie's sister, Olivia, calls Maddie because someone broke into Olivia's home and attempted to attack her. Olivia wants security bars on her window, but Todd refuses because she is behind on the rent. Maddie offers to pay, but Maddie feels it's not enough and offers to let Olivia move in with her. Olivia agrees, but only if Maddie doesn't spy on her. Maddie reluctantly obliges. Later, Maddie thinks they should take self-defense classes.<br/><br/>Olivia has an instant attraction to their instructor, Haden, and exchanges numbers after the first class. Maddie keeps an eye on him, but she meets strange men on an app for random hookups. This choice is a mistake because the killer is watching their every move. The murderer wants to make Maddie or Olivia the next target.<br/><br/>Maddie is the human embodiment of 'do as I say, not as I do.' The movie tries to make the killer's identity a mystery, but it's too obvious. And the protagonists' glaring mistakes will make you lose sympathy for their characters. Lifetimers should put this movie on the back burner for a rainy day.<br/><br/>2.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysistersserialkillerboyfriend.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysistersserialkillerboyfriend.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Family History Mysteries: Buried Past",
+    "review":"Sophie is a forensic genealogist who finds long-lost loved ones with her business partner, Esme. Sophie grabs a box of mementos from her bookshelf and contemplates opening a package from her deceased mother. Her adoptive mother packaged items from Sophie's biological mother with a note. Sophie gets a text message from her best friend, Jonathan, while looking at the package. Jonathan lets Sophie know he is on the way with food.<br/><br/>Sophie lovingly scolds Jonathan for being late, and they eat. Jonathan informs Sophie that his leukemia is back and he needs a bone marrow transplant. He hopes his mother, Dorothy, and fraternal twin, Jackson, will be a match.<br/><br/>Sophie arrives at the hospital to see Jackson finishing his test. Sophie and Jackson take a walk and talk about Jonathan's prognosis. Jackson is an EMT, so he knows he and Dorothy have a 25% chance of being a match. Dorothy hopes it will be Jackson.<br/><br/>Later, Sophie sees Dorothy on the street, and Dorothy asks to talk to Sophie. Dorothy worries that she and Jackson won't be a match and that an immediate family member is the best option. The only other family member is the twin's father, Clark. And Dorothy wants Sophie to find him. Sophie doesn't understand because Clark died before Dorothy gave birth. Dorothy tells Sophie the police never found his body, only his car in the water after it fell off the bridge. She implores Dorothy to tell her family as soon as possible so she can do a thorough investigation. Looking into Dorothy's family secrets to save Jonathan's life will bring Sophie closer to Jackson and herself.<br/><br/>Based on A Family History Mystery series by Brynn Bonner, this movie gives the ups and downs of discovering family history. The writers give the sons realistic views on finding the truth about Clark. Movies often gloss over the heartbreak in genealogical searches, but this plot unapologetically delves into each emotion. This film is a terrific starting point for H.M.M.'s new series.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/familyhistorymysteriesburiedpast.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/familyhistorymysteriesburiedpast.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"The Wedding Veil Expectations",
+    "review":"Avery and Peter bought a beautiful home that needs a lot of renovations. So, Peter's mother, Grace, recommended her contractor, Sam. Tracy and Emma come back with the veil and the christening gown. Avery will put the lace veil on display with the painting. They get together for lunch and wine because they haven't seen each other in a year, but this doesn't count as their annual antiquing trip.<br/><br/>When Avery doesn't drink wine, Tracy and Emma ask if Avery is pregnant. Avery says no. Avery returns to work and learns they have a new executive director, Mason. Mason's first order is to exchange five exhibits with another museum for 5 of theirs. And he wants Avery's painting in the offer. As Mason talks, Avery starts to feel sick. She believes she is pregnant but wants her doctor to confirm. As Avery worries about construction, a baby, and the painting, Grace finds love with the veil in her hand. While Avery is thrilled, Peter is not. Avery will need her friends to handle everything around her.<br/><br/>Based on There Goes The Bride by Lori Wilde and the fourth installment of The Wedding Veil series, this addition brings magic and honest marriage strife into the plot. She has to juggle Peter's bad days, Grace's new love, home repairs, and morning sickness. Avery can't fake a smile but learns to lean on her husband and friends for help. In keeping with the storyline's magic, the veil blesses another relationship. Enjoy this next installment in the series.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingveilexpectations.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theweddingveilexpectations.jpeg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"Reba McEntire's The Hammer",
     "review":"Judge Kim Wheeler is the traveling judge that presides over three courthouses in a 2500-square-mile radius in Nevada. The state added her latest district after a madam, Chris, found the judge, Jacob, dead in her brothel.<br/><br/>Kim spills coffee on her first day on the bench and asks her bailiff, Vicky, to clean it up. While it's highly irregular for a judge to start proceedings without a bailiff, Kim does it anyway. However, Kim proves to be strong enough to protect herself. A man attempts to attack Kim on the stand, and she hits him with her gavel. Someone captures the moment on camera, and it goes viral. Commenters nickname Kim 'The Hammer.' Before Kim leaves, her assistant, Jo, tells Kim that a case was left off her docket for Kirk Crawford. Kirk ran his best friend off the road because he dated Kirk's ex-girlfriend, and the friend died in the crash. Since the court is 126 miles away, Vicky and Kim will drive to town and sleep there.<br/><br/>Kim goes to the bar the night before the trial, and Kirk's dad, Bart Crawford, approaches her like a friendly snake while the bartender, Vance, watches. Kim tells Bart their interaction is improper and could affect the proceedings. Bart leaves with a tip of his hat as Vicky enters. Vicky gets a call that Jacob didn't have a heart attack. He died of a forced overdose. Later, Kim finds a note on her passenger seat with a dangerous warning. Someone wants Kim gone, like Jacob.<br/><br/>This movie has sex, drugs, and rock and roll. It's a funny mystery with dynamic characters that viewers will sink their teeth into while watching. Each character has a rich and complex backstory that resonates off the screen. With this small-town dynamic and tough-as-nails judge, this film is a series in the making. It's definitely worth a permanent place on your DVR. Be ready to find your new guilty pleasure. And to Lifetime: Make another ASAP.<br/><br/>5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rebamcentiresthehammer.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rebamcentiresthehammer.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Secrets in the Building",
-    "review":"Michelle and her daughter, Norah, move into the top floor of a condo. Their maintenance man, Lawrence, walks in without an invitation and without knocking to complain about the noise. Helene and her daughter, Channing, walk into the apartment as Michelle and Lawrence's conversation heats up. Channing and Norah talk and discover they will attend the same school. Channing sees Norah's pills and offers her MDMA, but Norah informs Channing that she takes medication for crippling migraines and turns down the offer.<br/><br/>Channing introduces Norah to Amanda, Aiden, and Griffin before school. Amanda pulls Norah aside and tells Norah to watch out for Channing. Channing changed since her parents got divorced. Norah goes throughout her day trying to stay on Channing's good side. But when she beats Channing during a track tryout, Channing's claws come out.<br/><br/>Michelle comes home after work to see a man, Josh, standing at the door. Josh is the building contractor and is there to fix Michelle's condo issues. They get along swimmingly, and Josh asks her out on a date. Michelle tells Josh maybe, and he leaves. Michelle and Norah believe their home is a fresh start until they see Michelle's car in the morning. Someone keyed it and left a threatening note. Michelle thinks Lawrence did it because someone reported his behavior to the condo board. But Norah thinks Channing did it as payback for Aiden. Michelle refuses to leave because their entire savings is in the condo. Someone is willing to kill Norah and Michelle for their ultimate plan.<br/><br/>There is more than meets the eye with this plot. The writers keep you guessing with so many people behaving poorly. Helene defends Channing with her fist, Channing drops beer bottles, and someone attacks Norah with a car. The suspects will give the viewers whiplash. This movie is a real roller coaster. There are crazy loops and twists, but you walk away feeling 'that's the end?'<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsinthebuilding.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsinthebuilding.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Engaged to be Murdered",
-    "review":"Olivia waits patiently outside for her fiancé, Jack, to introduce her to his mother, Amanda. Olivia works at a CPA firm representing Jack's family company, Intex. Amanda excuses herself and makes a private call to her brother, Victor, who owns Intex. Victor agreed with Amanda that the relationship happened too fast. He worries Olivia could be a spy, so he asks his assistant, Stan, to look into Olivia, her company, and her background. That's not enough for Amanda. Amanda believes Jack's ex-girlfriend, Rachel, is better suited for Jack. So, Amanda hires a private investigator to follow Olivia. Then, Amanda contacts Rachel's mom, Caroline, to help reignite Rachel and Jack's romance, but Caroline tells Amanda to back off.<br/><br/>Olivia and Amanda meet for coffee, but Olivia can see that Amanda's attitude toward her hasn't changed. Jack sits Amanda and Victor down to staunchly defend Olivia and tells them to stop. They pretend to agree, but Amanda's P.I. got pictures of Olivia with another man, and Stan thinks Olivia is a corporate spy.<br/><br/>Olivia goes to Jack's office with horrible information. Someone created a dummy company and siphoned nearly $1,000,000 from Intex, and the bad checks are from Victor's headquarters. Olivia goes home to complete her report, and someone breaks into her home and strangles her into a coma. Someone is out for Olivia and will try again to murder her.<br/><br/>This movie has a lot of moving parts because its two storylines in one. With everything going on, Jack is one of the few wonderful Lifetime husbands that stands beside Olivia. The character development throughout the movie is believable and well-written. The ending leaves the story open for a part two that is shocking.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/engagedtobemurdered.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/engagedtobemurdered.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"The Dog Lover's Guide to Dating",
-    "review":"Alex cooks a 5-star breakfast for her dog, Radar, and grabs a protein bar for herself. Her sister, Sarah, tells Alex to date, but Alex is too busy. She trains dogs and volunteers at the local animal shelter. As Alex and Sarah walk through the park, they see a man, Simon, fussing with a dog. Alex jumps in front of the dog and firmly tells the dog to sit. Simon runs over and thanks Alex for helping him. Alex asks Simon for the dog's name, and Simon says the dog's name is Simon. Simon's friend, Chloe, returns to see her dog, Simon, calm. She thinks Simon worked a miracle.<br/><br/>Simon meets with Chloe later for a fancy dinner and brings flowers. However, Simon attacks him and rips the flowers to shreds. Chloe doesn't want to go out because her dog is upset. Simon believes he must get through to the dog before he can date Chloe. He finds Alex in the park and spills coffee on her. Simon sees the shelter flyers in Alex's hand when Simon tries to clean her. He asks her to train Simon in exchange for better posters because he works for an ad agency. Alex tells Simon no.<br/><br/>Alex walks to her favorite coffee stand with Sarah, and the barista hands her a note from Simon with his number. She calls Simon later and offers to help him train Chloe's dog to win Chloe's heart. What will Alex do when Simon starts to win her heart?<br/><br/>Based on The Dog Lover's Guide to Dating: Using Cold Noses to Find Warm Hearts by Deborah Wood, this film offers helpful advice about dogs and how that advice parallels relationships. Simon's pursuit of Chloe would be considered creepy on any other station. But Hallmark makes it kind and funny. Alex has trust issues because her father abandoned their family. And a round of applause for Sarah. For a little sister, she is wise beyond her years and scary when necessary. This film is a cute movie to kick off the new year but very predictable.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thedogloversguidetodating.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thedogloversguidetodating.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Catfish Killer",
-    "review":"Hannah is on edge because she got into Kenzer University, an ivy league school, but she still waits to hear if she got a scholarship. Principal Edwards calls Hannah into the office. Hannah was one of eleven applicants, and she got it. Hannah's friends, Scott and Jane, take her bowling to celebrate and unwind. Jane tells Hannah about a new app called Clique. Jane makes Hannah a profile. After bowling, Hannah senses someone following her and turns to see Eli. He blames Hannah for not getting the scholarship because he was the second in line. When Eli gets hostile, Scott defends Hannah.<br/><br/>Hannah starts talking to a cute guy named James on the app. James seems nice, but Hannah notices that he knows things she isn't telling him. Then Principal Edwards wants to see Hannah again. Hannah's teacher claimed she plagiarized her latest paper. Principal Edwards has to warn the scholarship committee about Hannah's infraction because they can't prove she didn't do it. Hannah panics and needs to find who set her up before she loses her scholarship. But looking under that rock will put Hannah's life in danger.<br/><br/>The title is misleading because only one person dies. This movie introduces several suspects, including Hannah's new love interest, Kevin, and eliminates them one by one. The backing track for this movie is one of the best in a Lifetime film, and it helps viewers feel the suspense and fear. Yes, the story did leave an opening for part two.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/catfishkiller.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/catfishkiller.jpeg"
     }
   }
 ];
@@ -58,47 +58,38 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"How to Murder Your Husband: The Nancy Brophy Story",
+  "mtitle":"Bad Behind Bars: Jodi Arias",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/badbehindbarsjodiarias.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/badbehindbarsjodiarias.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Girls Getaway Gone Wrong",
+  "mtitle":"Burned by Love",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/burnedbylove.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/burnedbylove.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"My Sister's Serial Killer Boyfriend",
+  "mtitle":"The Princess and the Bodyguard",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theprincessandthebodyguard.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theprincessandthebodyguard.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Family History Mysteries: Buried Past",
+  "mtitle":"The Wedding Veil Inspiration",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
-  }
-},
-{
-  "option":"",
-  "mtitle":"",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingveilinspiration.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingveilinspiration.jpeg"
   }
 }
 
