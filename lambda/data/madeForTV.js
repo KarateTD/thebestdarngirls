@@ -62,34 +62,34 @@ module.exports = madeForTV;
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
     "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/badbehindbarsjodiarias.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/badbehindbarsjodiarias.jpeg"
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/badbehindbarsjodiarias.jpeg"
   }
 },
 {
   "option":"2",
   "mtitle":"Burned by Love",
-  "review":"<br/><br/>* out of 5 stars.",
+  "review":"Last year, Ashley threw her husband, Roger, a surprise party. Roger sets foot in their home, passionately kissing another woman, and Ashley is the one surprised. Roger tried to explain, but Ashley called it quits. Now Ashley's friend, Tess, thinks it's time for Ashley to start dating again. Tess used Ashley's pictures and created a profile for Ashley. She gives Ashley access to the account and tells Ashley to use it when she is ready. Tess got a call from the famous restaurateur Jacquelyn. Jacquelyn is opening a new restaurant and wants Ashley to create a mural. She will work with the contractor, Grant, to have the mural installed and completed before the restaurant opens.<br/><br/>The night before meeting Grant, Ashley decides to give the app a try. After a few swipes, Ashley finds Marco's page and likes it. Marco and Ashley talk via video calls every night and have plans to go on a trip together. The night before their trip, someone robs Marco's business and steals his hard drives. Ashley asks how much he needs to make himself whole, and Marco says $8,000. She sends him the money, and Marco says their trip will happen as planned. The next day, Ashley waits for Marco to pick her up, but he doesn't come. Ashley realizes it was all a love scam. Tess looks up his profile picture online and finds profiles on dozens of apps under different names. They create a webpage and blast Marco on social media. When Marco's potential victims call him out for being a scammer, Marco traces the origin to Ashley. Marco wants revenge because Ashley's webpage ruined his income stream. He will do anything to get his loverboy persona back.<br/><br/>Ashley is annoying for the majority of this film. However, viewers will gain a new respect for her in the end. Ashley is moving too fast because she gives Marco her address before they meet in person. When Marco starts to stalk her, you will scream at Ashley's dismissive attitude and disregard for her safety. Don't turn the T.V. before the end of this movie. Its conclusion of triumph through unity will have you cheering for Ashley and swooning for Grant.<br/><br/>3 out of 5 stars.",
   "image":{
     "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/burnedbylove.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/burnedbylove.jpeg"
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/burnedbylove.jpeg"
   }
 },
 {
   "option":"3",
   "mtitle":"The Princess and the Bodyguard",
-  "review":"<br/><br/>* out of 5 stars.",
+  "review":"Lexi meditates before her day at work. She has a ceramic shop in New York and teaches pottery classes. Her parents are in town, and Lexi runs to their hotel to meet them. Alfred and Charlotte are the king and queen of Santovia. Lexi is the princess. At 25, Lexi wanted to live life outside the palace. Her parents gave Lexi 10 years to be herself, but now it's time for Lexi to return to her duties. They are throwing a gala at the hotel in two weeks and hope Lexi will announce her return. If she doesn't, Alfred will step down from the throne. Lexi has two weeks to decide her path.<br/><br/>Lexi meets up with her friend, Krissy, at a bar. However, Krissy doesn't know Lexi is a royal. Krissy sees Lexi checking out a cute guy at the bar and encourages Lexi to ask him out. Lexi approaches the man, Noah, and learns he is the bouncer. She runs in embarrassment and dances with Krissy all night.<br/><br/>Lexi spots Noah on her run, at her job, and outside her apartment. She confronts Noah after he bumps into her and makes her drop an expensive ceramic vase. Noah admits her parents paid him to protect her. Charlotte explains that the press will learn her identity, and she will need a bodyguard. Then Charlotte tells Lexi that it's customary for the princess to have a date at the gala. Charlotte lined up appropriate suitors with nobility for Lexi. Lexi agrees to the dates, and Noah will be by her side. Noah and Lexi get to know each other better during, before, and after her dates. She wonders if he is the right guy for her, but not the throne. What will Lexi choose?<br/><br/>This film can laugh at itself. Krissy points out the story of the unhappy princess is unrealistic for modern women. However, Lexi isn't sad until she has to make a choice. Lexi doesn't consider love until she goes on three blind dates. These dates are cringy and funny. And Noah's connection to his brother, Mike, will melt your heart. Besides this, the movie is The Princess Diaries: Grown-Up Edition.<br/><br/>3 out of 5 stars.",
   "image":{
     "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theprincessandthebodyguard.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theprincessandthebodyguard.jpeg"
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theprincessandthebodyguard.jpeg"
   }
 },
 {
   "option":"4",
   "mtitle":"The Wedding Veil Inspiration",
-  "review":"<br/><br/>* out of 5 stars.",
+  "review":"Emma gets ready in the morning and focuses on her five-year plan. She has accomplished everything accept become the Art History Board Chair. Her boss, Nancy, tells Emma the job will go to Emma when she retires. However, Paolo thinks Nancy won't step down and doesn't like the effect Nancy has on Emma and their marriage. Paolo brings a gift from his Nona. It's a lace shawl for Emma, and Emma decides to wear it to the grand opening of Paolo's New York lace store.<br/><br/>At the store, Matteo preps with Paolo. Emma enters and sees the veil under a glowing spotlight and her friends, Tracy and Avery, there. Emma is ecstatic to see them. Emma's teaching assistant, Lily, takes pictures and asks if it's Emma's famous magical veil. Emma confirms, and Lily slowly backs away. Matteo bumps into it, and Lily helps him catch it before it hits the ground. Then Emma tells the story of the veil as Lily secretly records her.<br/><br/>Emma, Tracy, Avery, and Paolo return to Emma's home to eat deep-dish pizza. As the women catch up, Paolo gets a call from Italy. His father is sick and needs surgery. His family implores Paolo to come home. Emma agrees, but she can't go because of work. A few days go by, and Emma balances work and the store. She notices a budding connection between Matteo and Lily since their encounter with the veil. People dub Emma their favorite art historian when Lily's veil video goes viral. Nancy doesn't think it's the right impression for a department chair and tells Emma to stop making videos. Emma counts the days until Paolo comes home, but he keeps extending his trip. She worries that their marriage will become long-distance. Something Emma tried to avoid after her last big breakup. Emma wants Paolo to come home soon because Emma fears she will lose him.<br/><br/>Based on There Goes the Bride by Lori Wilde and a continuation of The Wedding Veil series, Emma faces a work-life balance on a global scale. Paolo understands Emma's fears and tries to dispel them with loving gestures. That same self-doubt creeps into Emma's job too. Like Avery, Emma sees the fairy tale of a wedding long behind her, and real-world issues take hold. Each character experiences growth and understanding. To loyal viewers, you will get another magical wedding.<br/><br/>4.5 out of 5 stars.",
   "image":{
     "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingveilinspiration.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingveilinspiration.jpeg"
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theweddingveilinspiration.jpeg"
   }
 }
 
