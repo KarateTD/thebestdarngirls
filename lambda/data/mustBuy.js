@@ -170,7 +170,7 @@ module.exports = mustBuy;
     "mtitle":"A Man Called Otto",
     "review":"Otto wakes up, goes to the hardware store, checks on the neighborhood, and goes to work. His co-workers surprise Otto with a retirement party. Otto scoffs at the Dyn and Merika signs for the new condos. The realtors are trying to entice Otto and his neighbors to sell, but they remain firm.<br/><br/>After Otto's neighborhood checks, he helps his new neighbor, Marisol, and her husband, Tommy, and their two daughters parallel park their moving trailer. Otto cancels his utilities, anchors a rope to the ceiling, and hangs himself. Otto sees visions of his late wife, Sonya, as he slips away, but the metal ring breaks before he dies. Otto isn't happy to be alive. Instead, he is upset that you can't find decent material these days. Otto doesn't see the point of living without Sonya, and Otto will try again to end it. However, the neighborhood he pushed away will unknowingly come to his rescue, and he theirs.<br/><br/>Based on A Man Called Ove by Fredrik Backman and a remake of A Man Called Ove, this movie weaves humor and sadness expertly. Otto is a grumpy, older man screaming at the changing of the times in the beginning. However, you get to know his story during each attempt. Otto's cantankerous behavior is valid, although misdirected. If you cried at the beginning of Up, be prepared to have your tissues ready. This film will stay with you.<br/><br/>4 out of 5 stars.",
     "asin":{
-      "re":""
+      "re":"B0BS2NKS1F"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amancalledotto.jpeg",
