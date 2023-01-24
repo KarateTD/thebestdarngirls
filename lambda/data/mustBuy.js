@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Violent Night",
+    "review":"Santa Claus stops at a bar in England and drinks before delivering presents to nice boys and girls. But people's growing greed and selfishness leave Santa jaded about the holidays. He gets in his sleigh and heads into the night.<br/><br/>In Connecticut, Jason waits for his estranged wife, Linda, and their daughter, Trudy, with a gift for his mother, Gertrude. Trudy admits she's sad because Jason didn't take her to see Santa and make her Christmas wish. They arrive at Gertrude's massive estate, and Jason's sister, Alva, is there with her son, Bert, and boyfriend, Morgan. Alva accuses Jason of sucking up to Gertrude for the business, but Jason ignores her.<br/><br/>Later that night, Jason still feels guilty for Trudy missing Santa. So he wraps up a walkie-talkie with earbuds and gives it to her. He tells Trudy it's a magic walkie-talkie that can communicate directly with Santa. As Trudy sleeps, the adults argue about the company, Christmas gifts, and money. They don't notice the catering staff has guns and kills security. A man called Scrooge enters and demands cash from Gertrude. Sources told Scrooge that Gertrude stole $300,000,000 from the government and hid it in a vault on the property. Until they get the money, Scrooge and his accomplices will hold the family hostage.<br/><br/>Upstairs, Santa eats cookies, drinks Bourbon, and sits in a massage chair. He hears the commotion downstairs and tries to escape. However, his magic isn't working. Frosty, a henchman, spots Santa and gets into a bloody battle. As Santa looks for another way to escape, he hears a sound coming from the closet. He finds the other walkie-talkie and answers Trudy. She tells Santa she's in danger and begs for help. Santa checks his scroll and sees she's on the nice list. He tells Trudy not to worry because Santa is coming to town.<br/><br/>So what if Bad Santa, John Wick, and Kevin McCallister worked together to stop the murderous Wet Bandits? Well, watch this movie and find out. The audience knows this is the real Santa at the beginning, but he has issues. And his skull-crushing origin story tells the darkness behind the red suit. This movie isn't for the faint of heart. It's for the Die Hard Christmas fans that want to break out of the Christmas rom-com rut. The fight scenes are stellar, and the Christmas magic isn't sappy or cliché. Step away from the ordinary and have a blood-and-guts Christmas.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0BN58XKMM"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/violentnight.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/violentnight.jpg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"Till",
     "review":"In Chicago, Illinois, Mamie walks into a department store with new shoes to find her son, Emmett, looking at wallets. Emmett pleads to get the wallet with a woman's picture inside. Mamie agrees to buy Emmett the wallet for his vacation to Money, Mississippi. Before he goes, Mamie warns Emmett that the rules in Mississippi are different than in Chicago. He must be on his best behavior, not anger white people, and remain small.<br/><br/>As Emmett boards the train with his Uncle Preacher and his cousins, Mamie worries because this two-week vacation is the longest they have ever been apart. In Money, Emmett plays around while his cousins work the cotton fields. They stop at a local store to hang out and get some refreshments. Emmett goes inside, buys two pieces of gum, gives the cashier, Carolyn, the money, and compliments her. Emmett's cousins see Carolyn run for her gun, so they get into their cars and drive away. Two men come into Preacher's home and threaten him at gunpoint to hand over Emmett. They load Emmett onto the flatbed and have Carolyn confirm Emmett's identity. As several men hold Emmett down, they take him away.<br/><br/>In Chicago, Mamie gets a call from Uncle Preacher saying that Emmett is missing. Then, a friend comes in because a reporter called her with the news. Police found Emmett's body in a river, and he is dead. After fighting with Mississippi, Mamie meets Emmett's body at the same train station she waved goodbye to him. She falls apart.<br/><br/>Mamie and Gene meet the mortician, and Mamie demands to see Emmett's remains. The mortician suggests making Emmett look better, but Mamie tells the mortician that Emmett is perfect. She goes outside to the awaiting media and makes a call to action. Mamie decides to have a public viewing of Emmett, so everyone will know what happened and light a fire under Mississippi to charge the men responsible. This act is the first step of Mamie becoming a civil rights activist and sharing a mother's pain for future generations.<br/><br/>This movie isn't just about Emmett's injustice. It's about the pain, scrutiny, and humiliation Mamie suffered while bravely sitting and testifying during Emmett's murder trial. The director made a bold choice not to show Emmett's murder. However, viewers get a full devastating view of the aftermath. Everything, from hair to clothes to eyewear, was spot on for the period and backed up by photographs. Listen carefully to the news reports in the background. They report about the lynching of Reverand George Washington Lee and his verdict. While Emmett is in Mississippi, you see that Mamie has a nagging feeling that clinches around her. That feeling only a parent knows. This movie will move you to tears and shock you as Mamie gets assistance from T. R. M. Howard, Medgar Evers, and Myrlie Evers and ushers in the Emmett Till Antilynching Act.<br/><br/>5 out of 5 stars.",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"The Menu",
     "review":"The Menu was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Black Adam",
     "review":"Five thousand years ago, the city of Kahndaq was the first self-governed city of its kind. However, King Anh-Kot enslaved the people and forced them to look for Eternium. He wanted to use the crystal to create the Crown of Sabbac. When a slave finds the crystal, the other people descend upon him. A boy tells them to back off because they shouldn't fight amongst themselves. The boy runs away with the Eternium and starts an uprising. The king kills the boy to make an example of him, but the gods save him and give him the power of Shazam. The boy, now Teth Adam, returns to save Kahndaq, but the king has the crown. They have a battle that destroys the once-luxurious city.<br/><br/>Today, the people of Kahndaq live under the rule of the Inter Gang. Amon learned from his mother, Adrianna, that Inter Gang pillages their resources and pollutes their land while oppressing the people. Karim waits in the truck as Adrianna, Ishmael, and Samir explore the caves. Adrianna finds the crown, but Inter Gang comes in with guns. With a gun to her head, Adrianna tells the troops she will surrender the crown. However, she reads the inscription on the ground and summons Teth Adam. Teth Adam kills all but one of the Inter Gang troops and saves Karim and Adrianna. The surviving troop loads an Eternium-powered rocket and shoots Teth Adam. It injures him, and Adrianna brings Teth Adam and the crown home.<br/><br/>Teth Adam's presence alerted Amanda Waller, who calls Hawkman to capture Teth Adam and imprison him. He called Doctor Fate, a man who can read the future and perform sorcery with the magical Helmet of Fate. Next, Hawkman reached out to Atom Smasher. The last member of the team is Cyclone, and she is a tornado with a 167 IQ. The newly-formed JSA flies to Kahndaq to stop Teth Adam. Yet, Teth Adam isn't their only problem. They have a deadlier force looking for the crown, and they are willing to die and kill for it. It is their birthright.<br/><br/>Congratulations to DC for making the first adult superhero movie viewers can see. Teth Adam is one of the deadliest superheroes or antiheroes the D.C.E.U. has produced. Most of the CGI is well done and flows naturally with the script. However, the smaller Adam is distracting because the head is comically too big for the body. For viewers, being at the beginning sets up most of the surprises. The dialogue and slow-motion scenes have great comedic timing and accurately display everyone's strengths. This movie has one mid-credit sequence but no post-credits. Also, it sets up the future of the D.C.E.U. and is worth watching.<br/><br/>5 out of 5 stars.",
     "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"The Woman King",
     "review":"In 1823 West Africa, the Agojie of the Dahomey Kingdom returned from a fierce battle with their captured people and prisoners from Migan's tribe. King Ghezo instructs his people not to look at the Agojie. General Nanisca stands in front of trainees and tells them the rules of joining her elite warriors. Among the trainees is Nawi. Nawi's father tried to force her to marry an older man, but the man slapped her when she wouldn't speak to him. Nawi's father dragged her to Ghezo's palace and gave Nawi to Ghezo.<br/><br/>Ghezo and one of his wives sit in front of his council and discuss the future of Dahomey. Nanisca warns the king that trading prisoners into slavery for western weapons will weaken Africa. Another advisor tells the king that selling their enemies into slavery will strengthen their kingdom.<br/><br/>Migan enters Dahomey for Ghezo's tribute to the Oyo Empire. His kingdom controls the port Dahomey needs to keep the slave trade. Migan notices that the tribute is short and tells Ghezo that he wants 20 Agojie to make up for the shortfall. Instead of giving Migan 20 warriors, Nanisca declares war. Migan believes the Dahomey kingdom is getting bolder. So, he entices other tribes and western slavers to band together to bring them down. Nanisca will need to look her horrific past in the face to defeat the oncoming attack.<br/><br/>This movie is a warrior's tale with bits of history thrown into the plot. Viewers should use this film as a starting point to do more research on the Dahomey kingdom and the Oyo Empire. Within the story, viewers get revenge, love, jealousy, and excellent choreography. The astounding details on costumes, hair, and makeup are unforgettable. However, there is an audible difference between native African speakers and those from other countries. The flip in tone and dialect can be distracting.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewomanking.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewomanking.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Gigi and Nate",
-    "review":"Gigi and Nate was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0B92S9X5X"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gigiandnate.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gigiandnate.jpeg"
     }
   }
 ];
@@ -71,7 +71,15 @@ module.exports = mustBuy;
 
 /*  For Must Buy later
 
-
+  {
+    "option":"1",
+    "mtitle":"Missing",
+    "review":"June attempts to adjust to her mother, Grace, dating Kevin. Kevin and Grace decided to take a vacation to Columbia. However, June is upset the trip overlaps Father's Day. June's father, James, died from a brain tumor when she was a young child. Although June is 18, Grace asked her friend, attorney Heather, to look in on June occasionally. Grace and Kevin leave in an Uber, and June kicks off a slew of alcohol-fueled parties.<br/><br/>After a week, June gets a reminder to pick up Grace and Kevin from the airport. June sets up her camera, makes a sign saying 'Welcome back from prison mom,' and waits. June waits for hours, but Grace and Kevin never show. Grace calls Heather, and Heather sends Grace an international missing persons form and calls FBI Agent Park who can assist. Agent Park informs June that the United States doesn't have jurisdiction in Columbia. June calls Grace and Kevin's hotel and asks for their whereabouts. With the help of Google translate, she uncovers that Grace and Kevin left without their luggage. June looks at photos of the hotel online and sees security cameras. June decides to find Grace with or without anyone's help. She will uncover Kevin's lies, Grace's secrets, and the dark side of internet sleuthing.<br/><br/>This film echoes the same heart-pounding mystery you get from Searching, but viewers don't need to watch the previous movie to watch Missing. Viewers see the family did have a close relationship before James died, but teen rebellion drove a wedge between them. The film's technology use helps guide viewers through June's thought process. June finds locations, translates languages and uses live streaming to find her mother. With June's camera focused on her, you see the dread as she discovers more horrific information. Be ready to yell at the screen and cheer in relief. If you like Searching, you will love its standalone sequel.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/missing.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/missing.jpeg"
+    }
+  }
 
  {
     "option":"5",
@@ -111,19 +119,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/devotion.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/devotion.jpeg"
-    }
-  }
-
-  {
-    "option":"5",
-    "mtitle":"Violent Night",
-    "review":"Santa Claus stops at a bar in England and drinks before delivering presents to nice boys and girls. But people's growing greed and selfishness leave Santa jaded about the holidays. He gets in his sleigh and heads into the night.<br/><br/>In Connecticut, Jason waits for his estranged wife, Linda, and their daughter, Trudy, with a gift for his mother, Gertrude. Trudy admits she's sad because Jason didn't take her to see Santa and make her Christmas wish. They arrive at Gertrude's massive estate, and Jason's sister, Alva, is there with her son, Bert, and boyfriend, Morgan. Alva accuses Jason of sucking up to Gertrude for the business, but Jason ignores her.<br/><br/>Later that night, Jason still feels guilty for Trudy missing Santa. So he wraps up a walkie-talkie with earbuds and gives it to her. He tells Trudy it's a magic walkie-talkie that can communicate directly with Santa. As Trudy sleeps, the adults argue about the company, Christmas gifts, and money. They don't notice the catering staff has guns and kills security. A man called Scrooge enters and demands cash from Gertrude. Sources told Scrooge that Gertrude stole $300,000,000 from the government and hid it in a vault on the property. Until they get the money, Scrooge and his accomplices will hold the family hostage.<br/><br/>Upstairs, Santa eats cookies, drinks Bourbon, and sits in a massage chair. He hears the commotion downstairs and tries to escape. However, his magic isn't working. Frosty, a henchman, spots Santa and gets into a bloody battle. As Santa looks for another way to escape, he hears a sound coming from the closet. He finds the other walkie-talkie and answers Trudy. She tells Santa she's in danger and begs for help. Santa checks his scroll and sees she's on the nice list. He tells Trudy not to worry because Santa is coming to town.<br/><br/>So what if Bad Santa, John Wick, and Kevin McCallister worked together to stop the murderous Wet Bandits? Well, watch this movie and find out. The audience knows this is the real Santa at the beginning, but he has issues. And his skull-crushing origin story tells the darkness behind the red suit. This movie isn't for the faint of heart. It's for the Die Hard Christmas fans that want to break out of the Christmas rom-com rut. The fight scenes are stellar, and the Christmas magic isn't sappy or cliché. Step away from the ordinary and have a blood-and-guts Christmas.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0BN58XKMM"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/violentnight.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/violentnight.jpg"
     }
   }
    
