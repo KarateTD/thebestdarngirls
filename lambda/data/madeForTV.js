@@ -1,47 +1,46 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Hoax: The Kidnapping of Sherri Papini",
-    "review":"Keith Papini returned from his Geek Squad job at Best Buy to find his home empty. He expected his wife, Sherri, and their two children to be there. Keith uses the Find My Phone feature and tracks Sherri's phone to a patch of grass on the side of the road. Keith calls the police immediately. The cops believe the scene looks odd but investigate Sherri's disappearance as a kidnapping while keeping a close eye on Keith.<br/><br/>For weeks, Keith pleaded on news outlets for Sherri's safe return and vowed to stop at nothing to find her. Keith even took a lie detector test to prove he wasn't a suspect. On Thanksgiving day, a driver found Sherri screaming on the side of the road with a chain around her waist and hands. Sherri has bruises from head to toe, a broken nose, and a brand on her back. Sherri tells the officers that two Hispanic women kidnapped, beat, and humiliated her. Sherri wants to put it all behind her. But the police are determined to find the culprits to ease community tension. The truth is more horrific than the crime.<br/><br/>Based on actual events, Sherri Papini lied to gain freedom, attention, and money, with a bit of bigotry added for good measure. While the movie covers the case quickly, the lies happened for years before the judge convicted Sherri. She wasted valuable resources and cast a shadow of doubt on all victims. The movie itself is well-acted and doesn't try to excuse what she did. However, it explains why she did it and her lying history. This film will stay with its viewers while disgusting them.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Gwen Shamblin: Stargving for Salvation",
+    "review":"Gwen Shamblin steps off the scale with frustration. The nutritionist can't understand why she is gaining weight. A friend, Emily, stated that she ate because she felt empty and not hungry. The word 'empty' stuck in Gwen's mind. Her husband, David, brushes it off before going to church.<br/><br/>Gwen wakes up in the middle of the night, tries to avoid the fridge, drinks water, eats cake, and prays for guidance. She had an epiphany that Emily's lack of food didn't cause her to feel empty. It was a lack of God. Gwen approaches Emily with her new method, and it works for Emily. Gwen creates the Weigh Down Workshop, and her followers grow. People outside of her husband's church gain the weight back. She witnesses another church's sermon and believes it doesn't align with her teachings. Gwen decides to build off the success of her program and her book to create the Remnant Fellowship Church. It will create a cult that will force marriages, kill a child, and leave lifelong mental and physical scars on its members.<br/><br/>Based on a true story, Gwen turned from dietitian to cult leader in a few years. Some viewers may believe Gwen started with good intentions. However, it was an eating disorder. As Gwen gained power, she became an all-knowing hypocrite. This movie will horrify, disgust, and anger you, but you will not be able to look away. And this film only covers the tip of the iceberg. Watch The Way Down: God, Greed, and the Cult of Gwen Shamblin on HBO Max for a comprehensive understanding of Gwen and Remnant.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hoaxthekidnappingofsherripapini.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hoaxthekidnappingofsherripapini.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gwenshamblinstarvingforsalvation.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gwenshamblinstarvingforsalvation.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"My Daughter's Deadly Roommates",
-    "review":"Aubrey isn't excited about her first day at Southern District University because she can't live on campus. Aubrey's mother, Charlotte, says Aubrey's dad didn't come up with his half for living expenses.<br/><br/>A girl from Gamma Gamma Gamma stops Aubrey on the way to class and asks Aubrey to come to their mixer. Aubrey can't afford greek life, so she rejects the offer and finishes her day at her job in the bookstore.<br/><br/>Carter approaches Aubrey and recognizes her from campus. Carter asks if Aubrey ever considered a non-Greek, unsanctioned club. Carter is with a group called The Kinship. They are like a sorority with no dues. She invites Aubrey to come to her house to learn more about The Kinship.<br/><br/>Aubrey comes to Carter's home but hesitates at the door with another hopeful, Elle. Elle and Aubrey make fast friends and enter Carter's home together. Member Sable takes away Aubrey's and Carter's phones before the party. The girls danced, laughed, and drank for most of the night. Then they sit and ask Aubrey and Elle to share secrets. Elle admits to using drugs to fit in at her old school. Aubrey confesses to having an affair with a married teacher. Carter and her friends are secretly recording the confessions for blackmail. The Kinship is a cult and will use the BITE model to control, alienate, and kill its members for their leader. Will Aubrey get out alive?<br/><br/>This movie covers mind control very quickly, but it follows the formula for most cults. Aubrey doesn't know, but Carter and Sable watched her from afar. Once they realized Aubrey was a loner, they singled Aubrey out for their group. It's easy for viewers to yell at Aubrey. But remember, she is naive and desperate to make friends. The final fight scenes are laughable, and the dialog drags, but this movie has some teachable moments to redeem itself.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Secrets in the Marriage",
+    "review":"Kat and her sister, Alex, celebrate Kat's promotion with drinks at the bar. A man, Richard, comes over to buy them another shot. Kat and Richard strike up a flirty and gently combative conversation.<br/><br/>One year later, Kat and Richard are married and will soon celebrate their first anniversary. Kat's phone rings with no caller ID, and she answers it. A woman, Sue, claims to have dated Richard for six months and is pregnant with his baby. Richard grabs the phone and tells Sue to take her medication and call her new doctor. He tells Kat that Sue is a patient with an unhealthy attachment. Kat trusts Richard and forgets the phone call.<br/><br/>Kat's recent promotion will move her to her hometown. Years ago, Kat left after prom under scrutiny and never looked. As they unpack, Kat finds pills in Richard's belongings. He tells her they are sleeping pills, and she can take them if she wants. Kat and Richard believe this is the start of their new life. However, they will end up on opposite sides of the court. As Kat accuses Richard of assault, he says she is a murderer.<br/><br/>These two have a whirlwind romance, but something isn't quite right. The script exposes one of Richard's secrets but slowly unveils Kat's. The writer uses Kat's past to make the audience doubt her and give credibility to Richard. There is one twist about Richard, but experienced Lifetimers can figure out the rest. This film intrigues viewers, but you shouldn't cancel plans to watch it.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mydaughtersdeadlyroommates.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mydaughtersdeadlyroommates.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsinthemarriage.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsinthemarriage.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"The Plot to Kill My Mother",
-    "review":"Elena comes home to smell her mother's delicious food cooking on the stove. Elena wants to know why her mother, Teresa, is packing, but Teresa wants a moment to gather her thoughts before she explains. She tells Elena that she is leaving early morning to see Elena's grandmother, Sophia, in the hospital. For years, Teresa made Elena believe that Sophie had died. Teresa explains she lied to Elena to protect Elena from her past.<br/><br/>Elena watches Teresa leave in the morning and talk to a man, Grant. A few days later, Grant knocks on Elena's door with heartbreaking news. Someone murdered Teresa, and Elena's life is in danger. Teresa was in witness protection before Elena's birth because Teresa testified against Elena's father, Lorenzo, and his violent associates. Grant promised Teresa he would keep Elena safe. So he wants to give Elena a new identity and immediately move her. Elena refuses because she wants to find the person who killed her mom. She pushes Grant out of the door and looks through her mom's things. She finds the name of Teresa's old friend, Jackie, and calls her. Jackie invites Elena to visit anytime. This invitation gives Elena an idea. She can go to Teresa's old hometown and investigate Teresa's murder. Elena will uncover the evil within Teresa's dark past.<br/><br/>Inspired by actual events, this movie feels typical as Elena makes one horrible mistake after another. Each time, Grant has to rescue her. When the plot focuses on the mystery, this film improves. The motive for Teresa's death, however, is common. If you get past the first hour, the enigma will hold you. But the conclusion falls flat.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Vacation Home Nightmare",
+    "review":"Danielle broke up with her husband, Craig, after discovering his affair. Danielle's friend, Alesha, thinks Danielle needs a girls' trip to get over Craig. Alesha finds a vacation home in close proximity and calls their friend, Hannah, to join them.<br/><br/>They get the key, enter the home, and settle the room arrangements. Then, they toast to friendship and go to the beach. Alesha notices a guy, Jack, staring at Danielle and convinces Danielle to talk to him. Their conversation goes well, and they make plans to go out later. However, Jack never shows up for their date. Danielle returns to the vacation home, and a man in the dark attacks her. She fights him off, and he runs away. Detective Greer arrives and takes their statements. Then, two men, Mike and Anton, come to the door. Mike and Anton work for Escape Pads' security team and want to question the women too. Detective Greer kicks Anton and Mike out of the house and promises to work on the case.<br/><br/>It doesn't take long for Anton and Mike to find Danielle and ask her to sign some paperwork. She scoffs at signing something without reading it. Anton leaves and blames Mike for the women not signing. Mike is worried because this is another home invasion attack in a string of murders in Escape Pads' properties. Anton tells Mike to do his job because he will ensure Danielle signs the paperwork. When Detective Greer finds out about Anton and Mike's visit, she thinks they are up to no good. Danielle agrees. But they have no idea how deep the deception goes.<br/><br/>Bring on the incels. Anton is a disgusting creep with issues. He hates all women because of one. Let's put that aside and applaud an intelligent cop on Lifetime. Detective Greer takes the assault seriously, investigates, and offers tips. This movie is fun to watch but not a favorite.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theplottokillmymother.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theplottokillmymother.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vacationhomenightmare.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vacationhomenightmare.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"The Clue to Love",
-    "review":"Audrey's boss, Dennis, comes to her desk with a story. A small, family-owned paper won a Pulitzer Prize for an article written by the owner's son, Morgan. Dennis wants Audrey to go to Hope Cove and shadow Morgan to find out what makes him and the newspaper, The Hope Cove Beacon, so unique. He will give Audrey a highly-coveted promotion with a raise if she writes a good article.<br/><br/>Audrey walks into an editorial meeting, and Morgan, the soon-to-be editor-in-chief, mistakes Audrey for a delivery person. Morgan's father, soon-to-be-retired editor-in-chief Clifton, corrects his son and invites Audrey to sit and attend the meeting. She listens to the stories, and one catches her attention. Greg has a story about Ask Aunt Hope. The paper has an anonymous advice columnist who answers the town's letters from an old fashion drop mailbox. No one knows who Aunt Hope is, but she sends her responses in time to make the paper. Audrey wants to work on the article while shadowing Morgan.<br/><br/>Clifton takes a phone call from Mitchell. Mitchell wants to absorb the Beacon into their media conglomerate. Morgan tells Clifton not to sell without adding some contingencies to the contract. Clifton mulls over the idea and asks Mitchell to give him some more time. However, no one knows that Michelle and Audrey's boss, Dennis, is the same person. He sent Audrey to spy on the paper without informing her. As Morgan and Audrey work together and learn from each other, will Dennis Mitchell's devious plan to take over destroy their budding romance?<br/><br/>This movie is slow, and the leads have zero chemistry. Viewers watch to see who is behind Ask Aunt Hope, and it's the only reason to keep watching. The story of Aunt Hope is loving and heart-warming, but everything else in this movie drags.<br/><br/>2 out of 5 stars.",
+    "mtitle":"Finding Love in San Antonio",
+    "review":"Adela hosts Alta Cocina, a cooking show specializing in Tex-Mex cuisine. The widow struggles to balance her job and raise a child, Fabiola, alone. Adela completes the season's finale episode and tells her manager, Matias, to talk later because she wants to catch Fabiola's soccer game. He stops Adela and reminds her that she has an interview with a food writer, David, from her hometown. Adela sits for the interview, but it's a hatchet job. David calls Adela out-of-touch and only for the elite.<br/><br/>Adela misses Fabiola's winning goal but offers to purchase ice cream instead. Fabiola doesn't accept the gesture but is glad her grandmother, Soccorro, came. Fabiola looks forward to their trip to San Antonio for the summer. Adela and Fabiola will see the updates Soccorro made to her Mexican restaurant, Romeros.<br/><br/>When they get to San Antonio, Adela has to stop at Tacos Rapidos. She orders food for the family, and a man behind her says he is getting the same thing. Adela turns around to see David. Adela is furious and walks away. Adela, Fabiola, and Soccorro go to Romeros and love the new decor, but Adela notices the kitchen has no upgrades. Sandra, the assistant manager, tells Soccorro the cook is sick, and Soccorro asks Adela to take over for the day.<br/><br/>David comes in during Adela's shift, and she wants him to leave. Soccorro reminds Adela that David worked at the restaurant when Adela was a line cook. Then, Adela remembers him. Later, Soccorro informs Adela that she will close the restaurant because business is down. Adela believes she can fix things with an updated menu, but Soccorro reminds Adela that it has to be within budget. Adela commits to working at the restaurant for the summer until Matias calls. The network wants to give Adela a new show with European chefs as the focus. It's a summer show that starts filming in 10 days. Adela asks Matias to give her a day to convince Fabiola. However, Adela must convince herself because she is falling for David.<br/><br/>It's pretty easy to see how this movie will end because it has layers of mom guilt and a widow. Viewers watch to see how Adela decides life for her and Fabiola. The film tries to misdirect viewers with a compromise, but it doesn't fool anyone. And don't write Fabiola off as a brat because she has a legitimate reason to be upset and a caring nature. This movie will make you hungry, but it doesn't require your full attention.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theclueoflove.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theclueoflove.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/findingloveinsanantonio.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/findingloveinsanantonio.jpeg"
     }
-  },
-  {
+  },{
     "option":"5",
-    "mtitle":"The Wedding Veil Journey",
-    "review":"Nick works all night at the restaurant, while Tracy works in the daytime. Tracy talks to Avery and Emma about missing Nick, and they remind Tracy that she never had a honeymoon. So Nick and Tracy spin a globe and, after several tries, land on Rhodes, Greece.<br/><br/>They arrived in Rhodes a day late because their plane got delayed. So they beg the concierge, Elizabeth, for any available rooms tonight. Pen overhears their conversation and calls Tessa, who runs Casita Casita Lindos with her brother Xander and has a vacancy. Nick and Tracy take an unforgettable ride to the hotel and go to their room. Tracy unpacks the veil to let it air out. Tracy sits outside to read The Great Gatsby, and Leo offers to draw Tracy a picture. Nick and Tracy meet for a lunch date but can't bare to swallow Xander's food. They feign compliments and leave for the market. They see Leo sneak through a window of a local school after saying goodbye.<br/><br/>Tracy wakes up alone and deduces Nick is in the kitchen fixing Xander's marinara sauce. Tracy is upset because Nick is working on their honeymoon. Tracy calls Emma and Avery to vent, and they lovingly call her a hypocrite because they know she's handled business calls from Stanley. She forgives Nick and tries to be more understanding.<br/><br/>Xander moves Tracy and Nick's things to the honeymoon suite, but Xander forgets the veil. Tracy tells Tess, and they sprint to retrieve it. Before Tess can knock, Colin Dalton comes out with the garment in hand, and they bump into each other. Tracy thankfully gathers the veil and tells everyone about its origin.<br/><br/>Leo gives Tracy a gift, and she repays Leo with new art supplies. Headmaster Papadopoulos sees Leo with the present and assumes he stole them. He confronts Tracy about the gift because it gives Leo false hope about his ability to use art to make a living. Tracy and Nick learn that Leo is an orphan residing at the school. Leo has an idea. Leo follows Emma online and wants her to look at an artifact the school found. If the school gets donations from the artwork, it could help Papadopoulos see the value in art. Tracy promises to try for Leo. While Tracy fulfills her promise, the veil sprinkles its magic on Tess and Colin.<br/><br/>Inspired by There Goes the Bride by Lori Wilde and the 6th movie in The Wedding Veil series, this plot gives another honest view into marriage. Nick and Tracy love their work, but it leaves little time for romance. On their honeymoon, they still can't escape the office but for different reasons. Tracy is the defacto boss, but Nick is losing his passion. And we can never forget the veil's magic because it strikes two couples this time. This storyline gives Tracy's character the most growth and makes viewers misty-eyed.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Love in Glacier National: A National Park Romance",
+    "review":"Dr. Heather Lawrence planned to go to Maui with her sister, Riley, but she got a call for help from her friend, Eric. Eric owns the Fernie Ski Resort at Glacier National Park and wants to open the backcountry. However, he wants Heather to install her forecasting equipment and train the mountain rescue team about it. Heather calls to cancel the trip but invites Riley to Fernie upon hearing Riley's disappointment.<br/><br/>Heather and Riley arrive at the snowy wonderland and meet with Eric. Eric warns Heather that the director is tech-phobic and will give pushback on the forecasting machines. She meets Chris, Chris's daughter, Samantha, and their avalanche dog, Mogul. When Heather answers questions and talks about her research, Chris dismisses her as another city person with no knowledge of the mountain.<br/><br/>Eric calls a meeting before the work day to let Heather introduce her machines. It's then that Heather discovers that Chris is the director. Heather will schmooze Chris to change his mind about her technology. But will this self-declared single-for-life woman find love instead?<br/><br/>For 80% of this movie, Chris is a jerk to Heather. He brushes her off as a city girl who read a few internet articles about avalanches. Seeing her try to gain his approval is annoying. The plot takes too long to explain his tech phobia. Viewers won't care why because he was so disdainful towards her for so long. This movie gives lots of survival tips, but it makes you angry before you fall in love.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingveiljourney.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theweddingveiljourney.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinglaciernationalanationalparkromance.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinglaciernationalanationalparkromance.jpeg"
     }
   }
 ];
@@ -58,46 +57,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Gwen Shamblin: Stargving for Salvation",
+  "mtitle":"The Girl Who Escaped: The Kara Robinson Story",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gwenshamblinstarvingforsalvation.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gwenshamblinstarvingforsalvation.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegirlwhoescapedthekararobinsonstory.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegirlwhoescapedthekararobinsonstory.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Secrets in the Marriage",
+  "mtitle":"Spinning Out of Control",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsinthemarriage.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsinthemarriage.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/spinningoutofcontrol.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spinningoutofcontrol.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Vacation Home Nightmare",
+  "mtitle":"A Date with Deception",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vacationhomenightmare.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vacationhomenightmare.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adatewithdeception.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adatewithdeception.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Finding Love in San Antonio",
+  "mtitle":"My Landlord Wants Me Dead",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/findingloveinsanantonio.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/findingloveinsanantonio.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mylandlordwantsmedead.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mylandlordwantsmedead.jpeg"
   }
-},{
+},
+{
   "option":"5",
-  "mtitle":"Love in Glacier National: A National Park Romance",
+  "mtitle":"Under the Influence",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinglaciernationalanationalparkromance.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinglaciernationalanationalparkromance.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/undertheinfluence.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/undertheinfluence.jpeg"
   }
 }
 
