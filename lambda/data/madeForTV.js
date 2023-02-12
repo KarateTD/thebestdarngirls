@@ -1,46 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Gwen Shamblin: Stargving for Salvation",
-    "review":"Gwen Shamblin steps off the scale with frustration. The nutritionist can't understand why she is gaining weight. A friend, Emily, stated that she ate because she felt empty and not hungry. The word 'empty' stuck in Gwen's mind. Her husband, David, brushes it off before going to church.<br/><br/>Gwen wakes up in the middle of the night, tries to avoid the fridge, drinks water, eats cake, and prays for guidance. She had an epiphany that Emily's lack of food didn't cause her to feel empty. It was a lack of God. Gwen approaches Emily with her new method, and it works for Emily. Gwen creates the Weigh Down Workshop, and her followers grow. People outside of her husband's church gain the weight back. She witnesses another church's sermon and believes it doesn't align with her teachings. Gwen decides to build off the success of her program and her book to create the Remnant Fellowship Church. It will create a cult that will force marriages, kill a child, and leave lifelong mental and physical scars on its members.<br/><br/>Based on a true story, Gwen turned from dietitian to cult leader in a few years. Some viewers may believe Gwen started with good intentions. However, it was an eating disorder. As Gwen gained power, she became an all-knowing hypocrite. This movie will horrify, disgust, and anger you, but you will not be able to look away. And this film only covers the tip of the iceberg. Watch The Way Down: God, Greed, and the Cult of Gwen Shamblin on HBO Max for a comprehensive understanding of Gwen and Remnant.<br/><br/>5 out of 5 stars.",
+    "mtitle":"The Girl Who Escaped: The Kara Robinson Story",
+    "review":"Kara Robinson spends the night with her friend, Jess, and makes plans to hang out with Jess and others at a lake house. Kara calls her mother, Debra, to update Debra on her weekend itinerary. Debra approves. Jess says they can leave, but her parents instruct her to water the plants before they go. Kara goes outside and starts caring for the plants with a water hose so Jess can shower. A man, Richard, gets out of a car with magazines and asks Kara if her parents are home. He grabs Kara's arm, puts a gun on Kara's neck, and tells Kara not to scream. Or Richard will kill her. He tells Kara to get into a container in the back of his car and keep quiet. After binding and gagging Kara, Richard takes her to his home and begins physically, sexually, and mentally torturing her.<br/><br/>Jess finishes her shower, gets dressed, and goes outside to check on Kara. Jess sees the water hose running but not Kara. She starts to panic and calls Debra. Debra goes to Jess's house and calls the police after calling Kara's boyfriend. The police officers write off Kara's disappearance as another runaway and tell Debra to wait by the phone for Kara's call. She prays for Kara's return, and so does Kara.<br/><br/>This movie takes you through every horrifying step Kara endured, including her kidnap, assault, and thought process. And she carefully plots her escape. Like Lisa McVey, Kara remembered everything around her to help make it and catch Richard. This movie shows that in her darkest hour, Kara plans to survive. Be prepared to scream at your TV because the police do nothing until Kara saves herself. This movie is a triumph that ensures no one will blame the victim. Kara is a survivor that brought peace to several families by waiting, escaping, and surviving.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gwenshamblinstarvingforsalvation.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gwenshamblinstarvingforsalvation.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegirlwhoescapedthekararobinsonstory.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegirlwhoescapedthekararobinsonstory.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Secrets in the Marriage",
-    "review":"Kat and her sister, Alex, celebrate Kat's promotion with drinks at the bar. A man, Richard, comes over to buy them another shot. Kat and Richard strike up a flirty and gently combative conversation.<br/><br/>One year later, Kat and Richard are married and will soon celebrate their first anniversary. Kat's phone rings with no caller ID, and she answers it. A woman, Sue, claims to have dated Richard for six months and is pregnant with his baby. Richard grabs the phone and tells Sue to take her medication and call her new doctor. He tells Kat that Sue is a patient with an unhealthy attachment. Kat trusts Richard and forgets the phone call.<br/><br/>Kat's recent promotion will move her to her hometown. Years ago, Kat left after prom under scrutiny and never looked. As they unpack, Kat finds pills in Richard's belongings. He tells her they are sleeping pills, and she can take them if she wants. Kat and Richard believe this is the start of their new life. However, they will end up on opposite sides of the court. As Kat accuses Richard of assault, he says she is a murderer.<br/><br/>These two have a whirlwind romance, but something isn't quite right. The script exposes one of Richard's secrets but slowly unveils Kat's. The writer uses Kat's past to make the audience doubt her and give credibility to Richard. There is one twist about Richard, but experienced Lifetimers can figure out the rest. This film intrigues viewers, but you shouldn't cancel plans to watch it.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Spinning Out of Control",
+    "review":"Leah runs Mind Body Fitness while writing her first book and teaching fitness classes. Her best friend, Vanessa, helps Leah run the company, and Rachel is Leah's assistant. Leah ignores Vanessa and keeps on going. Leah puts the company's latest contest on the website. The winner of the contest will get personal coaching from Leah with lunch and an Elevate Bike.<br/><br/>Natalie reports to her probation officer, Sheri. Sheri isn't happy with Natalie's progress because Natalie hasn't found a job and isn't taking her medication. After a bout of rage, Natalie attacked a woman and landed in jail. Natalie goes home. Before she enters, she sees two women with Mind Body Fitness t-shirts. Natalie looks at the company's website and reads over the contest. She fills out the application with a pessimistic attitude.<br/><br/>Vanessa discovers the contest's winner is local. So, she decides to unexpectedly go to Natalie's house with a camera crew and Leah. Natalie can't believe she won and is ready to start her lessons. During the first session, Natalie breaks down when she feels like a failure. Leah gives Natalie some words of encouragement and an assignment. She tells Natalie to make an inspiration board. Natalie creates a board with a Leah collage. Natalie considers her best friend to be Leah and will revolve her world around Leah. Can Natalie handle it when Leah won't do the same?<br/><br/>Natalie may be crazy, but she is not dumb. She has a leg up on Leah, the cops, and the competition. The audience can see Natalie is unhinged, but you must see how it all falls apart. And the conclusion is the cherry on top because of Natalie's antics. This movie won't stay on your DVR, but it's interesting to watch.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsinthemarriage.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsinthemarriage.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/spinningoutofcontrol.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spinningoutofcontrol.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Vacation Home Nightmare",
-    "review":"Danielle broke up with her husband, Craig, after discovering his affair. Danielle's friend, Alesha, thinks Danielle needs a girls' trip to get over Craig. Alesha finds a vacation home in close proximity and calls their friend, Hannah, to join them.<br/><br/>They get the key, enter the home, and settle the room arrangements. Then, they toast to friendship and go to the beach. Alesha notices a guy, Jack, staring at Danielle and convinces Danielle to talk to him. Their conversation goes well, and they make plans to go out later. However, Jack never shows up for their date. Danielle returns to the vacation home, and a man in the dark attacks her. She fights him off, and he runs away. Detective Greer arrives and takes their statements. Then, two men, Mike and Anton, come to the door. Mike and Anton work for Escape Pads' security team and want to question the women too. Detective Greer kicks Anton and Mike out of the house and promises to work on the case.<br/><br/>It doesn't take long for Anton and Mike to find Danielle and ask her to sign some paperwork. She scoffs at signing something without reading it. Anton leaves and blames Mike for the women not signing. Mike is worried because this is another home invasion attack in a string of murders in Escape Pads' properties. Anton tells Mike to do his job because he will ensure Danielle signs the paperwork. When Detective Greer finds out about Anton and Mike's visit, she thinks they are up to no good. Danielle agrees. But they have no idea how deep the deception goes.<br/><br/>Bring on the incels. Anton is a disgusting creep with issues. He hates all women because of one. Let's put that aside and applaud an intelligent cop on Lifetime. Detective Greer takes the assault seriously, investigates, and offers tips. This movie is fun to watch but not a favorite.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"A Date with Deception",
+    "review":"During a party, Diana mingles with the local councilperson as a blast from her past approaches her. Her ex-husband, Dr. Elias, greets Diana with a smile to mask his anger. Diana makes a quick exit and catches her breath inside her car. Elias knocks on the window and asks Diana why she is in town. Diana refuses to tell him because they are divorced. Elias warns Diana to stay out of his way and leave town. Diana screams in her car after Elias walks away.<br/><br/>Years ago, Elias used her to cover up medical fraud in his practice. She did her time in jail but can't get her nursing license without clearing her name. Until then, Diana opened a business that kept her in the healthcare industry. And she will use that business to implant spies in Elias's office and bring him down. But can she ruin his life without ending hers?<br/><br/>In the beginning, this movie gets viewers' attention with the classic LMN murder but finds a new stride afterward. Also, this film doesn't wait until the end to reveal Diana's accomplices. The plot interweaves it into prison flashbacks. Lifetimers don't know who to believe because everyone is lying. This new favorite will have you on the edge of your seat with your heart pounding.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vacationhomenightmare.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vacationhomenightmare.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adatewithdeception.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adatewithdeception.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Finding Love in San Antonio",
-    "review":"Adela hosts Alta Cocina, a cooking show specializing in Tex-Mex cuisine. The widow struggles to balance her job and raise a child, Fabiola, alone. Adela completes the season's finale episode and tells her manager, Matias, to talk later because she wants to catch Fabiola's soccer game. He stops Adela and reminds her that she has an interview with a food writer, David, from her hometown. Adela sits for the interview, but it's a hatchet job. David calls Adela out-of-touch and only for the elite.<br/><br/>Adela misses Fabiola's winning goal but offers to purchase ice cream instead. Fabiola doesn't accept the gesture but is glad her grandmother, Soccorro, came. Fabiola looks forward to their trip to San Antonio for the summer. Adela and Fabiola will see the updates Soccorro made to her Mexican restaurant, Romeros.<br/><br/>When they get to San Antonio, Adela has to stop at Tacos Rapidos. She orders food for the family, and a man behind her says he is getting the same thing. Adela turns around to see David. Adela is furious and walks away. Adela, Fabiola, and Soccorro go to Romeros and love the new decor, but Adela notices the kitchen has no upgrades. Sandra, the assistant manager, tells Soccorro the cook is sick, and Soccorro asks Adela to take over for the day.<br/><br/>David comes in during Adela's shift, and she wants him to leave. Soccorro reminds Adela that David worked at the restaurant when Adela was a line cook. Then, Adela remembers him. Later, Soccorro informs Adela that she will close the restaurant because business is down. Adela believes she can fix things with an updated menu, but Soccorro reminds Adela that it has to be within budget. Adela commits to working at the restaurant for the summer until Matias calls. The network wants to give Adela a new show with European chefs as the focus. It's a summer show that starts filming in 10 days. Adela asks Matias to give her a day to convince Fabiola. However, Adela must convince herself because she is falling for David.<br/><br/>It's pretty easy to see how this movie will end because it has layers of mom guilt and a widow. Viewers watch to see how Adela decides life for her and Fabiola. The film tries to misdirect viewers with a compromise, but it doesn't fool anyone. And don't write Fabiola off as a brat because she has a legitimate reason to be upset and a caring nature. This movie will make you hungry, but it doesn't require your full attention.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"My Landlord Wants Me Dead",
+    "review":"Maddie moves into her aunt's rental property. Maddie's aunt, Grace, tells Maddie to make herself at home. Grace warns Maddie that cell service is spotty and there is no WiFi. Grace's marriage to Paul hit a rough patch, and Grace needs time to figure everything out. And Maddie is the first person Paul let live their after Kaycee left. Kaycee was Grace's model for photography shoots. Paul enters the home and tells Maddie the master bedroom is off-limits and leaves without another word. She finds Grace's photography equipment and starts to rummage through it as Kevin comes up behind her. He startles Maddie and makes a quip about the situation. He asks Maddie to keep an eye out for his cat, Jazzy.<br/><br/>After taking a shower, Maddie enters the living room in her underwear to find Paul sitting on the chair. Maddie freaks at the sight of Paul and demands he knocks. Paul says 'I don't have to because, as the landlord, I have the key.' He turns the thermostat to 65 degrees and demands that Maddie never touches it. If she does, the Nest App will tell him. Maddie tells Kevin about Paul but brushes Paul off as a creepy landlord. Maddie hopes that she will never have to see Paul again. But Paul has dark intentions to get Maddie out of the house so he can continue his sickening acts.<br/><br/>Paul is a real-life internet troll from the darkest corners of the manosphere. Paul will make your flesh crawl. The script takes too long to explain why Maddie doesn't leave the situation. When Maddie uncovers the perversion in Paul's mind, it's in Grace's handwriting. Grace has a bad feeling about Paul. She ignored it and didn't warn Maddie. It's a frightening revelation that ended many lives.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/findingloveinsanantonio.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/findingloveinsanantonio.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mylandlordwantsmedead.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mylandlordwantsmedead.jpeg"
     }
-  },{
+  },
+  {
     "option":"5",
-    "mtitle":"Love in Glacier National: A National Park Romance",
-    "review":"Dr. Heather Lawrence planned to go to Maui with her sister, Riley, but she got a call for help from her friend, Eric. Eric owns the Fernie Ski Resort at Glacier National Park and wants to open the backcountry. However, he wants Heather to install her forecasting equipment and train the mountain rescue team about it. Heather calls to cancel the trip but invites Riley to Fernie upon hearing Riley's disappointment.<br/><br/>Heather and Riley arrive at the snowy wonderland and meet with Eric. Eric warns Heather that the director is tech-phobic and will give pushback on the forecasting machines. She meets Chris, Chris's daughter, Samantha, and their avalanche dog, Mogul. When Heather answers questions and talks about her research, Chris dismisses her as another city person with no knowledge of the mountain.<br/><br/>Eric calls a meeting before the work day to let Heather introduce her machines. It's then that Heather discovers that Chris is the director. Heather will schmooze Chris to change his mind about her technology. But will this self-declared single-for-life woman find love instead?<br/><br/>For 80% of this movie, Chris is a jerk to Heather. He brushes her off as a city girl who read a few internet articles about avalanches. Seeing her try to gain his approval is annoying. The plot takes too long to explain his tech phobia. Viewers won't care why because he was so disdainful towards her for so long. This movie gives lots of survival tips, but it makes you angry before you fall in love.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Under the Influence",
+    "review":"Robert helps his wife, Danae, get dressed for their pool party with clients. He hopes to impress Jimmy with Danae's beauty. Although she is intelligent, Robert uses her looks to get clients off their game. Then she can impress them with her knowledge. Danae mingles with guests, dances, and cracks her phone after dropping it. A stranger, Seth, picks it up and offers help. She rejects the assistance and runs to the owner's bathroom to regurgitate. Unbeknownst to Danae, Seth enters the room and declares she has a drinking problem. She rejects his theory and walks to the pool. She falls in and embarrasses Robert. In private, Robert tells her to go to Alcoholics Anonymous, or he will leave her.<br/><br/>Danae remembers that Seth mentioned that he went to St. Catherine's Church for his AA meetings, so she goes there. She meets Jessica, and Seth tells his story. The group's leader tells the newcomer to find a sponsor, and Danae pulls Jessica aside. Jessica is happy to help and offers to meet for coffee tomorrow afternoon. Seth talks to Danae after the meeting and asks her to go out.<br/><br/>They have dinner, and Danae admits that her 7-year marriage feels like a business contract. Danae takes a pill for her anxiety, ignores Robert's phone calls, and goes to a club with Seth. They dance, but Danae excuses herself. She grabs an unattended drink and gulps it down in the bathroom. Seth can see Danae is unsteady on her feet and takes her home. They have an intimate night, and Danae hastily leaves when the sun rises. In the future, she only wants to see him at AA meetings.<br/><br/>Danae meets with Jessica and tells Jessica about spending time with Seth. Jessica warns Danae that Robert is a 13th stepper. Danae is not the first woman Seth had an affair with over the years. Danae pledges to keep her distance, but Seth won't make it easy.<br/><br/>This movie gives a thrilling plot to a common problem in AA. Yes, Danae has a drinking problem, but she also has poor taste in men. Viewers will want Danae to conquer her alcohol and love addictions by leaving the men and drinks behind. In true suspense fashion, the conclusion leaves the door open for part two.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinglaciernationalanationalparkromance.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinglaciernationalanationalparkromance.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/undertheinfluence.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/undertheinfluence.jpeg"
     }
   }
 ];
@@ -55,50 +56,6 @@ module.exports = madeForTV;
 
 /*
 
-{
-  "option":"1",
-  "mtitle":"The Girl Who Escaped: The Kara Robinson Story",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegirlwhoescapedthekararobinsonstory.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegirlwhoescapedthekararobinsonstory.jpeg"
-  }
-},
-{
-  "option":"2",
-  "mtitle":"Spinning Out of Control",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/spinningoutofcontrol.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spinningoutofcontrol.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"A Date with Deception",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adatewithdeception.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adatewithdeception.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"My Landlord Wants Me Dead",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mylandlordwantsmedead.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mylandlordwantsmedead.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"Under the Influence",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/undertheinfluence.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/undertheinfluence.jpeg"
-  }
-}
+
 
 */
