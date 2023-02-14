@@ -1,6 +1,6 @@
 var mustBuy = [
   {
-    "option":"5",
+    "option":"1",
     "mtitle":"On the Come Up",
     "review":"Bri's father, Lawless, is a rap legend in Garden Heights, and she aspires to be a rapper like him. However, he died when she was a baby. Her aunt, Pooh, got Bri a spot at The Ring, a rap arena owned by DJ Hype. Bri sells candy at school to classmates to help her mom. Her friends, Malik and Sonny, believe Bri has what it takes to make it in the music industry.<br/><br/>At her first rap battle, Bri's opponent remarks about her father and mother. Bri can't shake the feeling, so she chokes and leaves The Ring. When an officer sees Bri take something out of her bag and exchange it for money, he demands to see her bookbag. Bri refuses, so the officer grabs her and slams her to the floor. Teachers say Bri is aggressive, but Jay wants to know if the SROs will suffer consequences. The principal says the SROs behavior was inexcusable, but the principal will suspend Bri for a week during the investigation.<br/><br/>Bri uses the time to write more rhymes and gets another shot at The Ring. This time, Bri defeats a locally known rapper, Milez, and Milez's father, Supreme, takes notice. Supreme managed her father until the day Lawless died, but Pooh tells Bri to stay away from Supreme. Pooh and Bri go to the parking lot on cloud nine, but their good mood dissipates when they see Pooh's friend in an altercation with a rival gang. Pooh pulls out a gun and refuses to back down, so the gang leaves.<br/><br/>Pooh and Bri return to The Ring for the next battle, but DJ Hype bans Pooh and Bri for bringing a weapon. Instead of leaving, Bri battles a rapper in the parking lot and wins. In desperation, Bri messages Supreme on Instagram. Bri gets in the booth, but producers hate her single. So she makes a song talking about the rival gang, her family, and the SROs. This song will be Bri's first hit, but she doesn't understand that it's a statement that will anger the streets, her family, and her school.<br/><br/>Based on On the Come Up by Angie Thomas, this movie is a coming-of-age story with prose. This film, at first, feels like 8 Mile, but winning the battle isn't the story's goal. Bri has to find her voice and fight through the pain. She must thrive, not just survive. Bri learns the power of song, its effect on others, and the perils of playing the role. In the end, Bri finds her voice using her pain and stands up for herself and her family.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -80,7 +80,7 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/missing.jpeg"
     }
   }
-  
+
   {
     "option":"3",
     "mtitle":"Devotion",
