@@ -56,7 +56,15 @@ module.exports = inTheTheaters;
 
 /*
 
-
+{
+  "option":"Operation Fortune: Ruse de Guerre",
+  "mtitle":"",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/operationfortunerusedeguerre.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/operationfortunerusedeguerre.jpeg"
+  }
+}
 
 
 */

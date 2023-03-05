@@ -1,48 +1,49 @@
 var madeForTV = [
-  {
-    "option":"1",
-    "mtitle":"12 Desperate Hours",
-    "review":"Val kisses her husband, Mark, and reminds him about date night. Val sees him off and helps their sons, Spencer and Parker, through the winter break. She goes outside to ask her neighbor, Bob, to stop sawing wood but offers to make him lemonade instead. Val hears banging at the door while making lemonade. She assumes Bob wants his lemonade now and opens it with a calming breath. Instead, Val sees a stranger, Denny, with a double-barrel shotgun, dripping in sweat and mumbling. When Denny points his gun at Spencer, Val runs between them and vows to keep Spencer out of Denny's way. He wants to leave but worries the police will spot him. So Val offers to drive the car if Denny doesn't hurt her sons. Val gets in the car and follows Denny's demands while praying to live through the ordeal. She has no idea what terror the next 12 desperate hours will bring.<br/><br/>Adapted from Last Dance, Last Chance by Ann Rule, the writer loosely based this on the story of Patricia Jean Jaque. It doesn't take long for the plot to bring the viewers into a panic. The storyline paints Denny as an unhinged man looking for his ex-girlfriend, Cherie. She keeps him calm and passes information to bystanders to keep them safe. While the story focuses on the kidnapping, it's about two love stories. The first is a developed marriage that needs some nurturing, but the other relationship is toxic and codependent. The conclusion is like those two relationships because it's loving and sad. So, be prepared to cheer and feel defeated.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/12desperatehours.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/12desperatehours.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Newlywed Nightmare",
-    "review":"David and Lauren travel to Atlanta for their honeymoon because David has some loose ends to tie up since his father died. Lauren notices a change in David's demeanor when Lauren kisses him. She wants to know more about what's bothering David, but he doesn't desire to discuss it.<br/><br/>David and Lauren get food, and a woman, Gina, pays for their meal. Gina walks to their table and introduces herself. After Gina leaves, they go running in the woods, and a man starts chasing Lauren, causing her to have an asthma attack. The man runs away when he sees David, and they call the police.<br/><br/>David and Lauren go to a farmer's market, but David sees a woman from his past. She looks like his ex-wife, Sadie, and he walks over for a better look. The woman isn't Sadie, but Lauren demands to know what's on David's mind. David assures Lauren he is fine and offers to get them some water. David returns and can't find Lauren. He calls the police, but they snidely ignore his claims. They assume Lauren left him. So they refuse to file a missing persons report. David doesn't think Lauren would dump him on their honeymoon and needs to find her before she dies.<br/><br/>This movie is the definition of doing too much. It covers an abusive marriage, a stalking ex-spouse, an evil stepmother, a secretive husband, a kidnapping, and a drug ring in two hours. With so many storylines, the plot still has loose ends and leaves possibilities for a part 2. And the final recap is just as confusing as the rest of the story. It has a lot of moving parts with zero direction.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/newlywednighmare.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/newlywednighmare.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Her Affair to Die For",
-    "review":"Law student Christina updates her parents, Noah and Liz, on her roommate search. Before Christina leaves for class, she hears her parents arguing over her birthday party. Liz worries that Noah won't make it to Christina's party because he is doing everything to become a partner at his law firm. Liz runs a catering business at home and explains that she needs extra hands to help with orders. Noah says he doesn't understand how Liz's hobby got so big, and Liz is furious at his dismissive comments.<br/><br/>Christina interviews several potential roommates, but only one stands out: Alyssa. Christina takes Alyssa to the apartment and offers Alyssa the room for rent. As they iron out the details, Christina gets a text message from Noah. She grabbed Noah's folder by accident, and Noah needs it now to get a leg up with his boss, Andrew. Christina doesn't have enough time to drop off the folder and go to class, so Alyssa offers to take the folder to Noah. Alyssa arrives at Noah's office but refuses to give the folder to Noah's assistant, Patricia. Patricia rolls her eyes and walks Alyssa to Noah's office. Alyssa introduces herself as Christina's new roommate, and Noah makes pleasantries. Alyssa leaves Noah's office with a plan to make Noah fall in love with her and leave Liz. And she won't let anyone stop her.<br/><br/>This movie has some of the dumbest men in LMN history. Noah, Craig, and Peter fall for the oldest tricks in the book and become Alyssa's willing prey. Viewers won't see them as victims, just pathetic fools. The script paints Liz as a nag and Noah as a jerk. Christina is the only innocent party who calls out everyone's actions. If you want a scandalous movie with only one likable character, this film is for you. Otherwise, be prepared to yell at the screen while rooting for Alyssa.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/heraffairtodiefor.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/heraffairtodiefor.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Secret Society of Lies",
-    "review":"Chrissy passes notes to Ryan during the debate competition because she has glossophobia. However, Ryan can't read her notecards and loses the match. Chrissy runs into Dean Martel outside, and he warns Chrissy that she could forfeit her scholarship if she continues to lose. She promises to do better and focuses on the next competition.<br/><br/>Chrissy unwinds at a party with her friend, Sarah, and plays beer pong against Nathan. Nathan is the Dean's son but doesn't like to advertise it. Nathan challenges Chrissy to another round of beer pong but doesn't see someone spike her drink. Sarah sees that Chrissy is unsteady, but Chrissy assures Sarah she can make it to the dorm alone. A man in a bird mask attacks Chrissy, draws a symbol on the back of her neck, and takes a photo of her on the ground with her skirt up. Chrissy runs away but passes out on the grass.<br/><br/>Chrissy wakes up in a hospital room with Sarah and Nathan at her bedside. Chrissy and Nora want to report the attack to the cops, but Nathan convinces Chrissy not to because the Dean could expel her for underage drinking on campus. Instead, Chrissy wants to meet with the Dean to report the incident. Chrissy wants the school to investigate and warn other students. However, Dean says it's a case of he said she said and refuses. But Chrissy won't give up and asks Sarah to cover her story in the university newspaper. Sarah's report emboldens past victims and enrages a secret society of abusers dating back decades. They won't let Chrissy ruin their way of life and plan to destroy her to maintain it.<br/><br/>This movie is reminiscent of Black Christmas minus the holiday. Chrissy and Nora took too long to see the signs of the society and the traitor in their midst. This secret society is a women-bashing group that wants to strengthen the patriarchy. However, Chrissy's blatant mistakes and head-over-heels mentality will irritate viewers and make you lose interest in her safety and well-being.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsocietyoflies.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsocietyoflies.jpeg"
-    }
-  },{
-    "option":"5",
-    "mtitle":"Mixed Baggage",
-    "review":"Jake packs his carry-on with Ray's engagement ring inside. For six years, Ray dated Olivia. And now, Ray wants to propose with the perfect ring. Jake will bring the ring on his flight back to L.A.. Jake, Olivia, and Ray are opening J.O.R. Workshop in L.A. in a few days, but Ray wants to propose before the store's grand opening.<br/><br/>Evie, short for Everett, will travel to Vancouver with a connecting flight to L.A.. She is an associate producer with her friend Barbara on a movie set. They are remaking Cyrano de Bergerac, and Evie has the custom prosthetic nose for the lead actor. She puts the nose in her carry-on and boards the flight. The woman next to Jake worries that people's luggage crowds her bag in the overhead storage bins. So the flight attendant re-arranges the bags and puts Jake and Evie's carry-ons next to each other, not realizing they are identical.<br/><br/>Evie can see that Jake is nervous during the flight because he folds napkins into shapes and flinches during turbulence. She preoccupies him during the flight with conversations about the past. Jake writes his number on a napkin, folds it into a rose, and gives it to Evie. Evie thanks him and gathers her things. Evie leaves the plane for her connection, and Jake goes to J.O.R. Workshop.<br/><br/>Jake tells his friends about the cute girl on the plane but doesn't think he will see her again. Then, he opens his bag to give Ryan Olivia's engagement ring but finds a big nose. Evie tells her friend, Barbara, about the paper-rose man and swoons. Then, Evie opens her bag to give the nose to her producer, Michael, but finds men's clothes. Jake and Evie need to get their bags from the other. It could ruin Ryan's relationship and Michael's movie. However, finding each other will only be half the battle. The other fight is reclaiming their spark from the plane.<br/><br/>This movie starts with a split screen of the luggage and the significant, time-sensitive item Jake and Eve carry. At first, you believe this movie will be about them finding each other physically, but it's not. They get to know each other through their friends but constantly jump to conclusions about the other. Not only do viewers get a unique storyline, but they also get three love stories in one film. This film hooks you with wit, a complex plot, and honest tales of love.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mixedbaggage.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mixedbaggage.jpg"
-    }
+{
+  "option":"1",
+  "mtitle":"Black Girl Missing",
+  "review":"Widow Cheryl eats breakfast with her daughters, Marley and Lauren. Cheryl is the vice principal at Marley's school, and Marley is an outcast that focuses on academic excellence. Lauren attends an ivy league school but tells Cheryl she wants to drop out. Lauren tells her mom she feels depressed, and Cheryl says she doesn't look depressed. Cheryl tells Lauren to keep her head down, press on, and stay in school as she did. Lauren gets angry at her mother's lack of sympathy and leaves home for campus early.<br/><br/>Two days later, Cheryl hears about missing blonde girl, Jessica, on the news. Jessica receives 24-hour news coverage, investigations, and search parties. Cheryl doesn't worry until she discovers that Lauren hasn't texted Marley either. Cheryl decides to go to the police and report Lauren missing. They tell Detective Dean everything they know. They hope the news about Lauren will spread like Jessica, but Cheryl and Marley are in for a rude awakening that will make them and Lauren another sad statistic.<br/><br/>This movie is an anthology of stories from families and friends of missing women of color. They get less news coverage and police attention than their counterparts. While this disparity was the movie's main focus, it covered many topics: depression in the black community, the Struggle Olympics, and the discrepancy between schools punishing minorities versus their counterparts. Cheryl has to contact the Black and Missing Foundation, Inc to find the terrible reality ahead of her. Most missing women of color go ignored and still missing. Finally, the film draws attention to cases by naming women that are still missing. And this list of little-known names will break your heart. Relisha Rudd.<br/><br/>Allyssa Jennings.<br/>Nia Glenn-Lopez.<br/>Mya Barnes.<br/>Keir Johnson.<br/>Jaya Allen.<br/>Starletta Henderson.<br/><br/>5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackgirlmissing.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackgirlmissing.jpeg"
   }
+},
+{
+  "option":"2",
+  "mtitle":"She Inherited Danger",
+  "review":"Carly drives to Clearview when she gets a call from Sam, wanting her to return to New York. She left after he went to Las Vegas with the wedding fund for six days without notice. Carly tells Sam he has a gambling addiction, and their engagement is over. Carly drives to her grandfather's old and closed theater, Ritz, and sees an old friend, Marina. Marina lets Carly into the theater and inquires about Carly's intentions since Carly's grandfather, Gramps, died recently. Carly doesn't believe she knows how to run a theater and thinks she will sell it but keep her Gramps's house.<br/><br/>Carly meets with her Gramps's executor, Louis. Gramps left Carly his house, theater, all their contents, and a little money. She tells Louis that she plans on selling the theater, and he thinks it's a good idea because Gramps was behind on the property taxes. She mentions finding a real estate agent, and Louis directs her to James.<br/><br/>It takes a minute, but Carly remembers James from high school, but she used to call him Jimmy. She remembers Jimmy and his brother, Eric, as pranksters. James tells Carly that he and Eric cleaned up their act and Eric is a cop. She asks him to sell the Ritz, and James says yes. Carly goes to her newly acquired home and looks through old photos. In the back of a photo album, Carly finds a letter from Gramps. It's his last scavenger hunt. She completes all the tasks and finds a box full of 100-dollar bills. She calls James, cancels the sale, and asks Marina to help her manage it. Marina warns Carly it needs repairs. A waitress, Diane, tells them a handyman, Blake, came into the restaurant the other day and left his card. Carly thinks she is on a path to a new life and career, but Sam is hot on her heels. He wants her to sell it to cover his gambling debts. She is steadfast in keeping the Ritz, but someone else wants her to sell it, and they will murder Carly to get it.<br/><br/>This movie is a mystery that unveils itself to the viewers before Carly. When movies take this path, it's boring. However, this movie does it in such a fun and unique way. Like Gramps, this movie provides one massive scavenger hunt to a path of corruption with an intelligent cop. The script displaying each character's flaws makes this wild story more grounded in reality. This film is a delightful watch with a less-preachy message.<br/><br/>4 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sheinheriteddanger.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sheinheriteddanger.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"My Diary of Lies",
+  "review":"Natalie meets with the school guidance counselor, Mr. Monroe, before starting her first day of class. Mr. Monroe looked at her transcripts and saw that she was cheer captain. He encourages her to cheer for her new school because the squad has a spot open. At home, Natalie goes to her room to look up the cheer squad on the internet. She finds the video of Cassie's overdose and death at a party.<br/><br/>Natalie goes to Mr. Rexford's chemistry class. She thinks he is handsome, and he pairs her with Jake. Gina tells Natalie to be careful because Jake is Madison's boyfriend. Madison is the cheer squad captain and the queen bee of the school. Madison's best friend, Viv, is the co-captain. Gina wants to try out for the team like Natalie, so they go together. Then, the girls audition. A few days later, they pick Natalie to replace Cassie, and Gina tries to be happy, but she's hurt.<br/><br/>The team has their first party at Madison's house and plans to create a new routine. But they take a drug called Fabulous before doing anything else. She takes a few pills and kisses Jake. A few hours later, Natalie walks to the pool for fresh air and sees Viv arguing with someone, but Natalie is too high to determine who. The team finds Viv dead in the pool. To cope with her feelings, Natalie writes about everything in her diary. Unfortunately, someone steals Natalie's diary, alters its contents, and puts it online. Natalie's world falls apart. She must find her diary and repair her life before someone blames her for Viv's death.<br/><br/>This movie gives viewers more than they expected by misguiding them with clichés. You got a classic mean girl with loyal followers, an angsty unpopular girl, and a too-close teacher. We fall down the rabbit hole of usual suspects. Now don't give up so soon because the buildup takes time. But, the slow burn pays off and leaves the audience in shock. Don't watch this movie unless you can dedicate 100% of your attention.<br/><br/>4.5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mydiaryoflies.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mydiaryoflies.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Royal Rendezvous",
+  "review":"Cat's manager, Dee, comes to Cat's food truck with great information. An Irish royal family wants Cat to fly to Ireland to cook for them and prepare a traditional royal banquet on her last day. And they want her to leave tomorrow. Cat says yes and heads to Ireland.<br/><br/>The driver leaves Cat on the front steps of the 12-bedroom home. Rory, the house manager, opens the door and assumes she is there for Lord James. He tells her to use the back door and slams it in her face. Then, James answers the door, and Cat instantly recognizes him. They had a one-night stand and agreed not to communicate again. Cat wants to leave, but James explains that he needs her. His grandmother, The Duchess, desires to sell the family's home and have them move closer to her. James hopes Cat's food will create a sense of warmth and home to persuade his grandmother to keep the property. Cat obliges.<br/><br/>Rory walks Cat to the kitchen, and she falls in love. James instructs Rory to take Cat to a bedroom above her station. Rory takes Cat to the sleeping quarters, and she jumps on the bed. Cat tries to get Rory to join her, but he refuses with a smile, one Cat enjoys. Chef Cat will get caught in a love triangle between Rory and James as she cooks for the family. Who will she choose?<br/><br/>It's strange for E Entertainment to get into the T.V. movie arena, but this film is perfect on this network. It's too raunchy for Hallmark and too sweet for Lifetime. The movie doesn't shy away from homosexuals kissing, calling out racism, and displaying classism. It's all done with the proper amount of racy humor and charm. Don't watch this and expect your grandmother's rom-com. However, it adds jokes and originality to a typical storyline.<br/><br/>4 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/royalrendezvous.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/royalrendezvous.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"The Paramedic Who Stalked Me",
+  "review":"Chloe and her friends, Bryce, Lexi, and Todd, spend their last days together before they graduate. Chloe has distanced herself from her mother, Karen. After texting, Karen calls Chloe to demand Chloe come home. As Chloe attempts to pacify Karen, a drunk driver, John, crashes into them. Karen calls the ambulance to Chloe's last known location.<br/><br/>The paramedics, Matt and Sharice, arrive on the scene to discover everyone alive but Todd. Matt uncovers Chloe has labored breathing, so he helps her with a bag valve mask and notices her necklace. While Chloe visits Lexi's hospital room, Matt goes into Chloe's room and takes her keys and necklace. Matt goes into John's room, handcuffs John to the hospital bed, and puts poison in John's I.V..<br/><br/>After a few days, Chloe is ready to leave the hospital when she gets a surprise visit from Matt. Chloe tells Matt she can't find her keys and necklace, and he pretends to assist in the search. He pulls the keys out of his pocket, acts like he's taking the keys out of the drawer, and gives the keys to her. Later, Matt comes to Chloe's door with her necklace wrapped around a teddy bear. Chloe loves the kind gesture and having her necklace back, but Karen worries. She believes that Matt overstepped his bounds. Karen thinks he will go away with a warning, but she is dead wrong. Matt will do anything to get Chloe.<br/><br/>Welcome back to old-school Lifetime. Matt is a delusional lovelorn man that kills to keep a teen that doesn't think much of him. Chloe is happy that Matt saved her life, but she has a boyfriend. It doesn't take long for Chloe to see that something isn't right about Matt. This movie has the worst break-in moments because Matt and Chloe have no idea what they are doing. Also, the final fight scene is electrifying. Give this movie your full attention and enjoy.<br/><br/>4 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theparamedicwhostalkedme.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theparamedicwhostalkedme.jpeg"
+  }
+}
 ];
 
 module.exports = madeForTV;
@@ -57,25 +58,16 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Black Girl Missing",
+  "mtitle":"Girl in the Closet",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackgirlmissing.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackgirlmissing.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/girlinthecloset.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/girlinthecloset.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"She Inherited Danger",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sheinheriteddanger.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sheinheriteddanger.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"My Diary of Lies",
+  "mtitle":"A Lifeguard's Obsession",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
     "smallImageUrl":"",
@@ -83,21 +75,30 @@ module.exports = madeForTV;
   }
 },
 {
-  "option":"4",
-  "mtitle":"Royal Rendezvous",
+  "option":"3",
+  "mtitle":"Her Study of a Killer",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/royalrendezvous.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/royalrendezvous.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/herstudyofakiller.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/herstudyofakiller.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Married by Mistake",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/marriedbymistake.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/marriedbymistake.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"The Paramedic Who Stalked Me",
+  "mtitle":"Something's Brewing",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theparamedicwhostalkedme.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theparamedicwhostalkedme.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/somethingsbrewing.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/somethingsbrewing.jpeg"
   }
 }
 
