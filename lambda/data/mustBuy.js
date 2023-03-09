@@ -76,7 +76,7 @@ module.exports = mustBuy;
     "mtitle":"Creed III",
     "review":"Creed III was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":""
+      "re":"B0BX8LXPVV"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/creediii.jpeg",
@@ -143,9 +143,25 @@ module.exports = mustBuy;
     "option":"1",
     "mtitle":"Cocaine Bear",
     "review":"Andrew C. Thorton the second drops bags of cocaine from a plane onto the Chattahoochee-Oconee National Forest in 1985. Andrew straps the final duffle to his harness and prepares to jump out of the plane. However, Andrew knocks himself unconscious on the airplane's door and dies. Knoxville resident, Fred Myers, finds Andrew's body and alerts the police. Detective Bob discovers Andrew works for Missouri dealer Syd and summarizes there are more drugs around the area.<br/><br/>Syd calls Daveed to the local restaurant. Syd wants Daveed to find his missing cocaine and take his son, Eddie, with him. And Syd must get the drugs back before the Columbians start asking questions. Daveed locates Eddie at a bar and convinces him to come to the forest to find the cocaine.<br/><br/>Sari informs her daughter, Dee Dee, that they won't paint the falls this weekend. Once Sari leaves, Dee Dee's friend, Henry, comes to the house. Dee Dee has a new plan. They will skip school and go to the forest so she can paint the falls without Sari. The school calls Sari, and she returns home and finds Henry's backpack. Inside, Sari finds a map of the falls and heads to the forest after them.<br/><br/>Unbeknownst to anyone, a black bear found several kilos of drugs and ate them. Now, an apex predator is high on cocaine, and Dee Dee, Henry, Sari, Eddie, Daveed, and Bob are all headed in its direction. This doped bear will leave a trail of blood, guts, bones, and drool that no one will forget.<br/><br/>Viewers must prepare to laugh from beginning to end with amusing jump scares. While the plot is nothing like the real story, it uses the legend as its premise. Parents should understand this film is not for young kids. The editor added real news clips to the movie to bring you back to the period with the 'Say No To Drugs' and 'This is Your Brain On Drugs' campaigns. It also includes the report of Fred finding the body. Of course, the bear isn't flawless CGI, but that helps viewers see the movie as a comedy instead of pure horror. See this movie in theaters if you need a good laugh with your jump scare. And it has two post-credit scenes.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0BVSW9GM4"
+    }
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cocainebear.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cocainebear.jpeg"
+    }
+  }
+
+    {
+    "option":"1",
+    "mtitle":"Champions",
+    "review":"Champions was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/champions.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/champions.jpg"
     }
   }
 */
