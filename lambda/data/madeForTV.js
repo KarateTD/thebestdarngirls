@@ -1,49 +1,49 @@
 var madeForTV = [
-{
-  "option":"1",
-  "mtitle":"Black Girl Missing",
-  "review":"Widow Cheryl eats breakfast with her daughters, Marley and Lauren. Cheryl is the vice principal at Marley's school, and Marley is an outcast that focuses on academic excellence. Lauren attends an ivy league school but tells Cheryl she wants to drop out. Lauren tells her mom she feels depressed, and Cheryl says she doesn't look depressed. Cheryl tells Lauren to keep her head down, press on, and stay in school as she did. Lauren gets angry at her mother's lack of sympathy and leaves home for campus early.<br/><br/>Two days later, Cheryl hears about missing blonde girl, Jessica, on the news. Jessica receives 24-hour news coverage, investigations, and search parties. Cheryl doesn't worry until she discovers that Lauren hasn't texted Marley either. Cheryl decides to go to the police and report Lauren missing. They tell Detective Dean everything they know. They hope the news about Lauren will spread like Jessica, but Cheryl and Marley are in for a rude awakening that will make them and Lauren another sad statistic.<br/><br/>This movie is an anthology of stories from families and friends of missing women of color. They get less news coverage and police attention than their counterparts. While this disparity was the movie's main focus, it covered many topics: depression in the black community, the Struggle Olympics, and the discrepancy between schools punishing minorities versus their counterparts. Cheryl has to contact the Black and Missing Foundation, Inc to find the terrible reality ahead of her. Most missing women of color go ignored and still missing. Finally, the film draws attention to cases by naming women that are still missing. And this list of little-known names will break your heart. Relisha Rudd.<br/><br/>Allyssa Jennings.<br/>Nia Glenn-Lopez.<br/>Mya Barnes.<br/>Keir Johnson.<br/>Jaya Allen.<br/>Starletta Henderson.<br/><br/>5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackgirlmissing.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackgirlmissing.jpeg"
+  {
+    "option":"1",
+    "mtitle":"Girl in the Closet",
+    "review":"Patricia enjoys the 10th birthday party she prepared for her daughter, Cameron. Then, Patricia gets a phone call from her sister, Mia, while talking to her family. Mia has gifts for Cameron and is bringing them to Patricia's home. Patricia doesn't like having Mia around because Mia killed a man, but Reneé justifies the murder by saying it was in self-defense. Patricia goes outside to meet Mia. Patricia tells Mia to take her presents and leave.<br/><br/>Patricia prepares oatmeal for Cameron's breakfast and passes out while bleeding from her ear. Patricia suffered a brain aneurysm, and Reneé calls Mia to care for Cameron. Patricia wakes up in pain with Mia by her bedside three weeks later. She brings Cameron to the room and offers to look after Cameron until Patricia is ready and healthy. After Patricia says yes, Mia calls the social worker, Josh, to bring the paperwork. He sees his co-worker, Gail, walking by and asks for her help. Josh promises these are his most effortless and vetted files. She agrees to take over since he did the leg work.<br/><br/>Cameron comes home with Mia and meets Mia's boyfriend, Chris, and their maid, Nancy. Mia and Chris give Cameron a doll and tell her to go to her room in the basement. Cameron opens the door but hesitates when she sees it's dark and smells bad. Chris picks her up, pushes her in, and locks the door. Then Nancy introduces Cameron to the others, Joanne and Harland. Cameron asks Nancy how long she will be in the basement. Nancy says that only Mia knows. Cameron will need to pray her way out of hell.<br/><br/>Inspired by actual events, this movie will make your stomach turn while covering many systemic issues. First, Patricia doesn't want to see a doctor after several migraines because urgent care is expensive. Next is the underfunded, understaffed, and overworked social workers. Also, the movie tackles abusing benefits. Mia keeps these people for their welfare or disability checks. And last but certainly not least, the abuse. Mia uses physical, mental, and sexual abuse to keep her slaves in line and doesn't hesitate to burn, pimp, beat, or kill anyone who attempts to speak up. The actors are tremendous, the sets are frightening, and the storyline is enthralling. This film isn't only for watching, but it is a call to action.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/girlinthecloset.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/girlinthecloset.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"A Lifeguard's Obsession",
+    "review":"Maggie takes a calming breath and walks to the ocean with her surfboard. Maggie falls into the water holding on to her knee. A lifeguard, Blake, grasps Maggie and pulls her out of the water. As Blake attends to Maggie, Maggie's boyfriend, Cade, runs to her with concern and panic in his voice. Cade is angry that Maggie went surfing because the doctor didn't medically clear her. Then, Maggie notices Cade's co-worker, Tina, flirting with Cade and believes Cade had an affair with Tina. Maggie leaves Cade alone and thanks Blake again.<br/><br/>Blake comes to Maggie's job and gives her a knee massager. Blake talks about his life in Florida, and Maggie mentions her artwork. Maggie took her art to the Seaside Gallery, but the owner, Sam, didn't like it. Maggie plans on showing Sam a new piece in her collection tomorrow.<br/><br/>Blake accompanies Maggie to the gallery for support, and they find devastation. Someone broke into the gallery and destroyed all the artwork. Sam looks at Maggie's painting and says it's not good enough. Blake steps in and defends Maggie's art. With a convincing argument, Blake changes Sam's mind. Sam will display Maggie's artwork if Maggie and Blake get the gallery ready in time.<br/><br/>Maggie runs to her boss, AJ, for time off, and he grants it. AJ is proud of Maggie, but he worries that Blake is dangerous. Maggie tells AJ that he is wrong about Blake. Blake has only been supportive, kind, and fun. He listens to her and helps make her dreams come true. AJ relents and gives Maggie the day off for her show. Maggie is on cloud nine but has no idea how unhinged Blake is now and in his past. Unbeknownst to Maggie, Blake stalked her on the beach for months and took her near drowning as a sign to save her from life, even if he must kill her to do it.<br/><br/>Maggie is anything but a victim. She calls out Cade for cheating, Blake for fighting, and Tina for lying. No one gets a pass from Maggie. She refuses to lie down and take anything from anyone, and it's refreshing to see. Now don't let the graphics and poor green screen throw you off. This movie has an excellent plot with a strong heroine and leaves the door open for part two. So sit back and watch with your popcorn and wine.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/alifeguardsobsession.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alifeguardsobsession.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Her Study of a Killer",
+    "review":"Ellie plans her 15-year high school reunion with her friend, Jasmine, at the local cafe. Lately, Ellie's daughter, Brooklyn, has withdrawn from Ellie. Ellie and Jasmine continue to converse when Averie walks to their table. Ellie and Averie competed for the same parts in plays during high school. Their teacher, Ms. Meadows, always picked Ellie. Averie retreats after making Ellie feel insignificant. Then Tiffany walks over to their table and sits down. Ellie's phone rings and she excuses herself. Brooklyn's principal, Principal Trammel, wants Ellie to come to the school immediately.<br/><br/>Ellie arrives at Liberty High School and finds her husband, Daniel, by the lockers. Principal Trammel tells them that Brooklyn and her friend, Sadie, found Ms. Meadow's body in the theater. Principal Trammel informs Ellie that Brooklyn chose to speak to the school counselor and convinced Sadie to go too. Brooklyn wanders to Principal Trammel's office with the counselor, Indigo. But Indigo retreats when she sees Ellie in the hallway.<br/><br/>After dinner, Ellie sits on the back porch with Jasmine and admits she got pregnant with Brooklyn senior year. Ellie confesses Ms. Meadows convinced her to keep her baby. Jasmine leaves, and Ellie knocks on Brooklyn's door to check on Brooklyn. But Brooklyn doesn't answer. David forces her door open and finds the window open with Brooklyn's phone on the bed. Ellie calls Sadie, who brings Ellie home. Brooklyn calls Ellie a hypocrite because she overheard the conversation between Ellie and Jasmine. Ellie assures Brooklyn that she doesn't regret having Brooklyn. Ellie goes to her bathroom to take a bath and finds a horror scene in the mirror. Someone cracked the glass and wrote Blood Will Have Blood. And Daniel calls the police.<br/><br/>Ellie tries to convince Trevor that her attacker is Ms. Meadows's killer. Trevor informs Ellie that the investigation is over, and they consider Ms. Meadows's death an accident. So, Ellie will continue to plan the reunion and focus on her friends and family. But someone has Ellie in their crosshairs. Ellie must unpack 15 years of lies to discover who wants to kill her and why.<br/><br/>Let's be honest. This movie is about immature women dwelling in high school drama because they don't know how to converse with each other. They could have solved half of their problems with a simple discussion. This movie is a bunch of small mysteries wrapped in an enigma. However, it doesn't captivate you because all the characters are unlikeable. Nevertheless, the acting is superb, and it will keep you occupied for 2 hours.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/herstudyofakiller.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/herstudyofakiller.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Married by Mistake",
+    "review":"Riley drinks with Leila and Nate at their graduation party. Riley can't wait to start work and pay off her massive student loans from her MBA. Then, she sees a news article on her phone. Her future job's CEO embezzled $80 million from the company, and the FBI raided the offices. Riley calls the hiring manager, who tells her they won't hire anyone new anytime soon. Riley and Nate drink excessively and wake up naked in a Las Vegas hotel room. Riley spies a ring on her left hand and deduces they got married. Riley can work at the family business's marketing department and help their company. But she doesn't want to work for a mom-and-pop store.<br/><br/>Riley's dad tells Riley to keep working hard and that the right job will come. Riley doesn't inform her parents she got married. Riley goes to her room, thinks about Nate's offer, and begs for a sign. Then, she gets a text from her loan company to remind her the first payment is due soon. Riley flies to Tennessee to work for Nate's family. Before meeting Nate at his family's business, Riley goes to a coffee shop and meets an intriguing man. They have a conversation, and she fantasizes about kissing him.<br/><br/>Riley walks to Nate's family business and gasps at the BuyRite headquarters. BuyRite is a national retail chain with stores in every state. Nate welcomes Riley and introduces her to his grandmother, Faye, and father, Buck, as their new VP of marketing. When Faye and Buck protest, Nate says that they are newlyweds. Nate tells Riley they had to close 80 stores because of poor performance. And the 1st and local one, Cedar Falls, is next if they don't implement changes.<br/><br/>Riley drives to Nate's family home to have dinner, and their mansion takes her breath away. Buck and Faye talk about Nate's brother, Rhys, and Riley inquires about him until Rhys walks through the door. Riley remembers him as the guy at the coffee shop. Her fantasy man is her brother-in-law. As Riley tries to save BuyRite, she has to keep her naughty thoughts in check. Can she succeed while keeping up appearances?<br/><br/>Some viewers will look down on Rhys for flirting with his sister-in-law. And you are right to do so, but Faye cheers them on in their romance. Also, Buck will make your flesh crawl with his outdated thinking and morality. Riley has a messy romantic life but knows how to clean up a business. This film is a lesson in corporate consciousness and employee retention. Give this movie a chance for a wild and hearty laugh.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/marriedbymistake.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/marriedbymistake.jpeg"
+    }
+  },
+  {
+    "option":"5",
+    "mtitle":"Something's Brewing",
+    "review":"Jane walks into her boss's office and gets laid off to make the company look lean to receive a better price in their merger. Jane leaves and calls her boyfriend, Aiden, to say she will be home early. He didn't get her call because Jane caught him in bed with another woman. She calls her friend, Cassie, to relay the day's events. Cassie consoles her friend, but it's not enough. Jane's grown tired of the city, the grind, and the men. She wants to move and start a new life.<br/><br/>Jane sees her landlord, Mr. Rodriguez, in the hallway and tells him she is leaving. Mr. Rodriguez tells her she has to give 30 days' notice. But since she is a good tenant and it's the 15th, he will let her move on the 30th without penalty. She goes to her favorite coffee shop, but it's closed for renovations. So Jane walks into Something's Brewing a few blocks away. She places her continuous order with David, and he brings it to her. David sits, and they chat. Jane tells him she lost her job but not her plans to move. David takes a leap of faith and asks Jane out. She agrees with a smile.<br/><br/>Jane and Cassie meet, Jane informs Cassie that a few headhunters contacted her with offers. Then Jane tells Cassie about her non-date date with David, but Jane thinks he is secretive. However, Jane refuses to dwell on it because she won't be in town much longer.<br/><br/>Jane meets with Ms. Ellen Rogers, and Ellen knows Jane is a dedicated worker. Ellen conveys to Jane that the job can't be remote, and Jane leaves. Jane gets a call from David, and he wants to have dinner. Jane has a great time but wants to know what David hides from her. So Jane follows him to a girls' softball game and uncovers David's daughter, Mandy. She believes this is one of David's secrets. Can their relationship grow with all the secrets and Jane's moving date?<br/><br/>This movie starts with the typical life-falling-apart-and-move-to-the-small-city plot. But the 15-day window gives Jane time to reassess her decision, find a new career, and discover unsuspecting love in a city she wants to leave in her rearview. Jane's expectation of David over those 15 days is unrealistic. It's too much, too fast. The plot is different, and the movie is entertaining. It won't be your favorite, but it's worth your time.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/somethingsbrewing.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/somethingsbrewing.jpeg"
+    }
   }
-},
-{
-  "option":"2",
-  "mtitle":"She Inherited Danger",
-  "review":"Carly drives to Clearview when she gets a call from Sam, wanting her to return to New York. She left after he went to Las Vegas with the wedding fund for six days without notice. Carly tells Sam he has a gambling addiction, and their engagement is over. Carly drives to her grandfather's old and closed theater, Ritz, and sees an old friend, Marina. Marina lets Carly into the theater and inquires about Carly's intentions since Carly's grandfather, Gramps, died recently. Carly doesn't believe she knows how to run a theater and thinks she will sell it but keep her Gramps's house.<br/><br/>Carly meets with her Gramps's executor, Louis. Gramps left Carly his house, theater, all their contents, and a little money. She tells Louis that she plans on selling the theater, and he thinks it's a good idea because Gramps was behind on the property taxes. She mentions finding a real estate agent, and Louis directs her to James.<br/><br/>It takes a minute, but Carly remembers James from high school, but she used to call him Jimmy. She remembers Jimmy and his brother, Eric, as pranksters. James tells Carly that he and Eric cleaned up their act and Eric is a cop. She asks him to sell the Ritz, and James says yes. Carly goes to her newly acquired home and looks through old photos. In the back of a photo album, Carly finds a letter from Gramps. It's his last scavenger hunt. She completes all the tasks and finds a box full of 100-dollar bills. She calls James, cancels the sale, and asks Marina to help her manage it. Marina warns Carly it needs repairs. A waitress, Diane, tells them a handyman, Blake, came into the restaurant the other day and left his card. Carly thinks she is on a path to a new life and career, but Sam is hot on her heels. He wants her to sell it to cover his gambling debts. She is steadfast in keeping the Ritz, but someone else wants her to sell it, and they will murder Carly to get it.<br/><br/>This movie is a mystery that unveils itself to the viewers before Carly. When movies take this path, it's boring. However, this movie does it in such a fun and unique way. Like Gramps, this movie provides one massive scavenger hunt to a path of corruption with an intelligent cop. The script displaying each character's flaws makes this wild story more grounded in reality. This film is a delightful watch with a less-preachy message.<br/><br/>4 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sheinheriteddanger.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sheinheriteddanger.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"My Diary of Lies",
-  "review":"Natalie meets with the school guidance counselor, Mr. Monroe, before starting her first day of class. Mr. Monroe looked at her transcripts and saw that she was cheer captain. He encourages her to cheer for her new school because the squad has a spot open. At home, Natalie goes to her room to look up the cheer squad on the internet. She finds the video of Cassie's overdose and death at a party.<br/><br/>Natalie goes to Mr. Rexford's chemistry class. She thinks he is handsome, and he pairs her with Jake. Gina tells Natalie to be careful because Jake is Madison's boyfriend. Madison is the cheer squad captain and the queen bee of the school. Madison's best friend, Viv, is the co-captain. Gina wants to try out for the team like Natalie, so they go together. Then, the girls audition. A few days later, they pick Natalie to replace Cassie, and Gina tries to be happy, but she's hurt.<br/><br/>The team has their first party at Madison's house and plans to create a new routine. But they take a drug called Fabulous before doing anything else. She takes a few pills and kisses Jake. A few hours later, Natalie walks to the pool for fresh air and sees Viv arguing with someone, but Natalie is too high to determine who. The team finds Viv dead in the pool. To cope with her feelings, Natalie writes about everything in her diary. Unfortunately, someone steals Natalie's diary, alters its contents, and puts it online. Natalie's world falls apart. She must find her diary and repair her life before someone blames her for Viv's death.<br/><br/>This movie gives viewers more than they expected by misguiding them with clichés. You got a classic mean girl with loyal followers, an angsty unpopular girl, and a too-close teacher. We fall down the rabbit hole of usual suspects. Now don't give up so soon because the buildup takes time. But, the slow burn pays off and leaves the audience in shock. Don't watch this movie unless you can dedicate 100% of your attention.<br/><br/>4.5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mydiaryoflies.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mydiaryoflies.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Royal Rendezvous",
-  "review":"Cat's manager, Dee, comes to Cat's food truck with great information. An Irish royal family wants Cat to fly to Ireland to cook for them and prepare a traditional royal banquet on her last day. And they want her to leave tomorrow. Cat says yes and heads to Ireland.<br/><br/>The driver leaves Cat on the front steps of the 12-bedroom home. Rory, the house manager, opens the door and assumes she is there for Lord James. He tells her to use the back door and slams it in her face. Then, James answers the door, and Cat instantly recognizes him. They had a one-night stand and agreed not to communicate again. Cat wants to leave, but James explains that he needs her. His grandmother, The Duchess, desires to sell the family's home and have them move closer to her. James hopes Cat's food will create a sense of warmth and home to persuade his grandmother to keep the property. Cat obliges.<br/><br/>Rory walks Cat to the kitchen, and she falls in love. James instructs Rory to take Cat to a bedroom above her station. Rory takes Cat to the sleeping quarters, and she jumps on the bed. Cat tries to get Rory to join her, but he refuses with a smile, one Cat enjoys. Chef Cat will get caught in a love triangle between Rory and James as she cooks for the family. Who will she choose?<br/><br/>It's strange for E Entertainment to get into the T.V. movie arena, but this film is perfect on this network. It's too raunchy for Hallmark and too sweet for Lifetime. The movie doesn't shy away from homosexuals kissing, calling out racism, and displaying classism. It's all done with the proper amount of racy humor and charm. Don't watch this and expect your grandmother's rom-com. However, it adds jokes and originality to a typical storyline.<br/><br/>4 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/royalrendezvous.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/royalrendezvous.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"The Paramedic Who Stalked Me",
-  "review":"Chloe and her friends, Bryce, Lexi, and Todd, spend their last days together before they graduate. Chloe has distanced herself from her mother, Karen. After texting, Karen calls Chloe to demand Chloe come home. As Chloe attempts to pacify Karen, a drunk driver, John, crashes into them. Karen calls the ambulance to Chloe's last known location.<br/><br/>The paramedics, Matt and Sharice, arrive on the scene to discover everyone alive but Todd. Matt uncovers Chloe has labored breathing, so he helps her with a bag valve mask and notices her necklace. While Chloe visits Lexi's hospital room, Matt goes into Chloe's room and takes her keys and necklace. Matt goes into John's room, handcuffs John to the hospital bed, and puts poison in John's I.V..<br/><br/>After a few days, Chloe is ready to leave the hospital when she gets a surprise visit from Matt. Chloe tells Matt she can't find her keys and necklace, and he pretends to assist in the search. He pulls the keys out of his pocket, acts like he's taking the keys out of the drawer, and gives the keys to her. Later, Matt comes to Chloe's door with her necklace wrapped around a teddy bear. Chloe loves the kind gesture and having her necklace back, but Karen worries. She believes that Matt overstepped his bounds. Karen thinks he will go away with a warning, but she is dead wrong. Matt will do anything to get Chloe.<br/><br/>Welcome back to old-school Lifetime. Matt is a delusional lovelorn man that kills to keep a teen that doesn't think much of him. Chloe is happy that Matt saved her life, but she has a boyfriend. It doesn't take long for Chloe to see that something isn't right about Matt. This movie has the worst break-in moments because Matt and Chloe have no idea what they are doing. Also, the final fight scene is electrifying. Give this movie your full attention and enjoy.<br/><br/>4 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theparamedicwhostalkedme.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theparamedicwhostalkedme.jpeg"
-  }
-}
 ];
 
 module.exports = madeForTV;
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Girl in the Closet",
+  "mtitle":"The Hillside Adoption Scam",
   "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/girlinthecloset.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/girlinthecloset.jpeg"
+  "iamge":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thehillsideadoptionscam.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thehillsideadoptionscam.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"A Lifeguard's Obsession",
+  "mtitle":"Nanny Dearest",
   "review":"<br/><br/>* out of 5 stars.",
-  "image":{
+  "iamge":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nannydearest.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nannydearest.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"My Valentine Crush",
+  "review":"<br/><br/>* out of 5 stars.",
+  "iamge":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myvalentinecrush.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myvalentinecrush.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Spring Break Nightmare",
+  "review":"<br/><br/>* out of 5 stars.",
+  "iamge":{
     "smallImageUrl":"",
     "largeImageUrl":""
   }
 },
 {
-  "option":"3",
-  "mtitle":"Her Study of a Killer",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/herstudyofakiller.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/herstudyofakiller.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Married by Mistake",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/marriedbymistake.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/marriedbymistake.jpeg"
-  }
-},
-{
   "option":"5",
-  "mtitle":"Something's Brewing",
+  "mtitle":"The Surrogate Scandal",
   "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/somethingsbrewing.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/somethingsbrewing.jpeg"
+  "iamge":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesurrogatescandal.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesurrogatescandal.jpeg"
   }
 }
 
