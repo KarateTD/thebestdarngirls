@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"M3GAN",
+    "review":"Gemma created the latest toy craze, PurrPetual Pets. But her boss, David, wants her to make a new model at a lower price. Instead of working on the updated Pet, Gemma and her team, Tess and Cole, keep working on the Model 3 Generative Android, M3gan, for short. Gemma tries a simple demo, but the doll's face melts. David leaves the room enraged and demands Gemma scrap M3gan and begin working on a cheaper Pet. Then Gemma gets a phone call from the hospital in Oregon. Her sister, Ava, and brother-in-law, Ryan, died in a car accident, but their daughter, Cady, survived.<br/><br/>Gemma moves Cady into her home but doesn't have toys, books, or a dedicated space for Cady. Cady comes into Gemma's workshop and shows Gemma her drawings. So, Gemma shows Cady a robot she made in college, Bruce. It's a motion caption robot using gloves to interact. Cady comments that it's a cool toy and the only one she would ever need. Gemma, Tess, and Cole work overtime to fix M3gan.<br/><br/>They invite David to a private meeting and have him watch M3gan interact with Cady. David loves M3gan and wants to present it to the board immediately. Gemma thinks the bond will help Cady recover after losing her parents, allow her to work, and put her company at number one. She wants Cady to be happy, the same as M3gan. Only M3gan will kill for it because Gemma forgot rule number one of toy designing: parental controls.<br/><br/>While Chucky starts creepy, M3gan is a lifesize Barbie on steroids. In true Blumhouse fashion, this script is funny, scary, and twisted. And it sets itself apart from other AI and doll movies because it discusses attachment theory. Cady becomes frighteningly dependent on M3gan and physically attacks Gemma when she can't have M3gan. While we are nowhere near this level of AI, Cady's misplaced attachment is the real threat in society today. Audiences will cringe, laugh, and OMG as M3gan takes over. This film is definitely worth a watch and discussion.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":"B0BQKGVVRV"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/m3gan.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"A Man Called Otto",
     "review":"Otto wakes up, goes to the hardware store, checks on the neighborhood, and goes to work. His co-workers surprise Otto with a retirement party. Otto scoffs at the Dyn and Merika signs for the new condos. The realtors are trying to entice Otto and his neighbors to sell, but they remain firm.<br/><br/>After Otto's neighborhood checks, he helps his new neighbor, Marisol, and her husband, Tommy, and their two daughters parallel park their moving trailer. Otto cancels his utilities, anchors a rope to the ceiling, and hangs himself. Otto sees visions of his late wife, Sonya, as he slips away, but the metal ring breaks before he dies. Otto isn't happy to be alive. Instead, he is upset that you can't find decent material these days. Otto doesn't see the point of living without Sonya, and Otto will try again to end it. However, the neighborhood he pushed away will unknowingly come to his rescue, and he theirs.<br/><br/>Based on A Man Called Ove by Fredrik Backman and a remake of A Man Called Ove, this movie weaves humor and sadness expertly. Otto is a grumpy, older man screaming at the changing of the times in the beginning. However, you get to know his story during each attempt. Otto's cantankerous behavior is valid, although misdirected. If you cried at the beginning of Up, be prepared to have your tissues ready. This film will stay with you.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Devotion",
     "review":"Lieutenant Tom Hudner enters the locker room to greet his fellow soldiers and hears someone mumbling to themselves. Before Tom can investigate, his airmen walk in, say hello, and rib him. One soldier, Ensign Jesse Brown, is standoffish, but Tom shakes his hand. Tom attempts to get closer to Jesse, but Jesse keeps his guard up. Until Tom offers Jesse a ride home because Jesse's car broke down. Tom meets Jesse's wife, Daisy, and their daughter, Pam. Daisy invites Tom in for a beer. She worries because the U.S. government gave the airmen their first mission. They will lend air support to the Korean War. Pam makes Tom promise to watch over Jesse. A new aircraft, some backward attitudes, and heavy firefights will test Tom's devotion to his promise.<br/><br/>Based on Devotion: An Epic Story of Heroism, Friendship, and Sacrifice by Adam Makos, this movie stands out from other historical tellings because there isn't a bad guy. Although Jesse receives media attention for his race and naval status, he doesn't want that to define him. Only his dedication to the country. Tom is a true definition of an ally. He quickly points out others' wrongdoings and listens to Jesse with an ear of compassion, not pity. This movie will leave a tear in your eye and gives these men their due.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Puss in Boots: The Last Wish",
     "review":"Puss In Boots throws a party in the governor's mansion and invites the town without the governor's knowledge. Puss attempts to escape when the governor returns, but his party wakes a giant monster. Sadly, the bell Puss used to defeat the giant fell on Puss, killing him. Puss wakes with a veterinarian examining him. He tells Puss that he's run out of lives and needs to retire from adventures. The veterinarian gives Puss the address for Mama Luna's Cat Rescue. Puss goes to a bar to drink his cares away when a wolf sits next to him. Puss is fearless until the wolf draws blood. Puss's life flashes before his eyes, and he runs away. He buries his signature garb and retreats to Mama Luna's.<br/><br/>Puss slowly adjust to life as a house cat named Pickles and finds a dog hiding their. One day, Goldilocks and the Three Bears crime family come to Mama Luna looking for Puss. They find his buried clothing on the property and assume Puss died. Puss overhears them talking about stealing a map to the falling star and can't believe it. The falling star can grant one last wish, and Puss desires the map to find the star. He wants to wish for nine more lives.<br/><br/>Two thieves stole the map for Big Jack Horner. He collects magical relics for his private display. Puss and the dog watch Jack double-cross the thieves and put the map on his desk. He sneaks into the room to open the chest and finds Kitty Softpaws inside. Kitty and Puss fight over the map until Goldi and the Bears barge in to take the map. Kitty, Puss, and the dog run with the map to find the fallen star. Puss doesn't know that Jack, Goldi, the Bears, and the wolf are hot on their trail.<br/><br/>This sequel incorporates excellent animation with fantastic storytelling. It's unnecessary to see the first film or the Shrek movies to understand Puss In Boots. This movie expands on the legend of Puss and introduces new characters with ease. As you watch, notice each time they take a shot at Disney and Pixar movies while acknowledging Mary Poppins and Terminator. This film is excellent for the whole family while teaching an appreciation lesson to children.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"On the Come Up",
     "review":"Bri's father, Lawless, is a rap legend in Garden Heights, and she aspires to be a rapper like him. However, he died when she was a baby. Her aunt, Pooh, got Bri a spot at The Ring, a rap arena owned by DJ Hype. Bri sells candy at school to classmates to help her mom. Her friends, Malik and Sonny, believe Bri has what it takes to make it in the music industry.<br/><br/>At her first rap battle, Bri's opponent remarks about her father and mother. Bri can't shake the feeling, so she chokes and leaves The Ring. When an officer sees Bri take something out of her bag and exchange it for money, he demands to see her bookbag. Bri refuses, so the officer grabs her and slams her to the floor. Teachers say Bri is aggressive, but Jay wants to know if the SROs will suffer consequences. The principal says the SROs behavior was inexcusable, but the principal will suspend Bri for a week during the investigation.<br/><br/>Bri uses the time to write more rhymes and gets another shot at The Ring. This time, Bri defeats a locally known rapper, Milez, and Milez's father, Supreme, takes notice. Supreme managed her father until the day Lawless died, but Pooh tells Bri to stay away from Supreme. Pooh and Bri go to the parking lot on cloud nine, but their good mood dissipates when they see Pooh's friend in an altercation with a rival gang. Pooh pulls out a gun and refuses to back down, so the gang leaves.<br/><br/>Pooh and Bri return to The Ring for the next battle, but DJ Hype bans Pooh and Bri for bringing a weapon. Instead of leaving, Bri battles a rapper in the parking lot and wins. In desperation, Bri messages Supreme on Instagram. Bri gets in the booth, but producers hate her single. So she makes a song talking about the rival gang, her family, and the SROs. This song will be Bri's first hit, but she doesn't understand that it's a statement that will anger the streets, her family, and her school.<br/><br/>Based on On the Come Up by Angie Thomas, this movie is a coming-of-age story with prose. This film, at first, feels like 8 Mile, but winning the battle isn't the story's goal. Bri has to find her voice and fight through the pain. She must thrive, not just survive. Bri learns the power of song, its effect on others, and the perils of playing the role. In the end, Bri finds her voice using her pain and stands up for herself and her family.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/onthecomeup.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/onthecomeup.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Black Panther: Wakanda Forever",
-    "review":"A year after King T'Challa died, Princess Shuri worked tirelessly to update Wakandan technology, but she stopped trying to create a synthetic heart-shaped herb. Her mother, Queen Ramonda, is fighting a political war with the United Nations. She will never share vibranium until the world is trustworthy. Ramonda returns home to make Shuri take part in a ritual. One year after a loved one passes, you burn your funeral ceremonial robe to honor them and relieve you of the pain.<br/><br/>Shuri goes to the water's edge and watches Ramonda throw her robe into the fire, but Shuri refuses. Then, they notice a man coming from the water with wings on his ankles. Ramonda and Shuri dawn spears and demand to know who he is and why he speaks to them. He says his allies call him K'uk'ulkan, but his enemies say Namor. He says that Wakanda exposed his kingdom, Talokan, to great danger when they revealed the secret of vibranium. An American scientist was able to build a device that could detect the presence of the material. They want the Wakandans to bring them the American scientist so they can kill her, or they will destroy Wakanda.<br/><br/>Okoye decides to track down Agent Ross to reveal the location of the American scientist, and she convinces Ramonda to let Shuri go with her to get Shuri out of the lab. They unapologetically convince RiRi to come to Wakanda to keep her safe from a threat of unknown strength. However, Okoye and Shuri encounter hostile agents during their RiRi rescue, and Talokan warriors kidnap two of the women. Now, K'uk'ulkan gives Wakanda two options. One: Join his fight to destroy the land dwellers before they destroy his homeland for their resources. Or two: He will drown Wakanda and everyone in it.<br/><br/>And that's act one of this gut-wrenching, exciting, and loving tribute to Marvel's beloved king. The opening scene and the title card will have everyone in tears as it pays homage to a worthy figure in life and the comics. Then the plot introduces viewers to a new world with stunning but somewhat realistic imagery. You can see how this world mirrors Wakanda. Shuri and K'uk'ulkan are two sides of the same coin. They are children dealing with generational pain and devastating loss in a homeland under constant threat. RiRi is the new kid on the block. She swears, is an open book, and, while a bit naive, has some trust issues. It should go without saying, but the costumes, makeup, and art are second to none and help you delve deeper into this history-rich mythical world. Stay for the mid-credit scene, but their isn't an end-credit scene.<br/><br/>5 out of 5 stars.",
-    "asin":{
-      "re":"B0BRY9L9WL"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackpantherwakandaforever.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackpantherwakandaforever.jpeg"
     }
   }
 ];
@@ -70,6 +70,16 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
+
+{
+    "option":"1",
+    "mtitle":"Dungeons and Dragons: Honor Among Thieves",
+    "review":"Dungeons and Dragons: Honor Among Thieves was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dungeonsanddragonshonoramongthieves.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dungeonsanddragonshonoramongthieves.jpeg"
+    }
+  }
 
  {
     "option":"1",
@@ -96,21 +106,7 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/missing.jpeg"
     }
   }
-   
-  {
-    "option":"1",
-    "mtitle":"M3GAN",
-    "review":"Gemma created the latest toy craze, PurrPetual Pets. But her boss, David, wants her to make a new model at a lower price. Instead of working on the updated Pet, Gemma and her team, Tess and Cole, keep working on the Model 3 Generative Android, M3gan, for short. Gemma tries a simple demo, but the doll's face melts. David leaves the room enraged and demands Gemma scrap M3gan and begin working on a cheaper Pet. Then Gemma gets a phone call from the hospital in Oregon. Her sister, Ava, and brother-in-law, Ryan, died in a car accident, but their daughter, Cady, survived.<br/><br/>Gemma moves Cady into her home but doesn't have toys, books, or a dedicated space for Cady. Cady comes into Gemma's workshop and shows Gemma her drawings. So, Gemma shows Cady a robot she made in college, Bruce. It's a motion caption robot using gloves to interact. Cady comments that it's a cool toy and the only one she would ever need. Gemma, Tess, and Cole work overtime to fix M3gan.<br/><br/>They invite David to a private meeting and have him watch M3gan interact with Cady. David loves M3gan and wants to present it to the board immediately. Gemma thinks the bond will help Cady recover after losing her parents, allow her to work, and put her company at number one. She wants Cady to be happy, the same as M3gan. Only M3gan will kill for it because Gemma forgot rule number one of toy designing: parental controls.<br/><br/>While Chucky starts creepy, M3gan is a lifesize Barbie on steroids. In true Blumhouse fashion, this script is funny, scary, and twisted. And it sets itself apart from other AI and doll movies because it discusses attachment theory. Cady becomes frighteningly dependent on M3gan and physically attacks Gemma when she can't have M3gan. While we are nowhere near this level of AI, Cady's misplaced attachment is the real threat in society today. Audiences will cringe, laugh, and OMG as M3gan takes over. This film is definitely worth a watch and discussion.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0BQKGVVRV"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/m3gan.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan.jpeg"
-    }
-  }
-
-  ,
+  
   {
     "option":"5",
     "mtitle":"Avatar: The Way of the Water",
