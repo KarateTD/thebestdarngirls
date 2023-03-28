@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Missing",
+    "review":"June attempts to adjust to her mother, Grace, dating Kevin. Kevin and Grace decided to take a vacation to Columbia. However, June is upset the trip overlaps Father's Day. June's father, James, died from a brain tumor when she was a young child. Although June is 18, Grace asked her friend, attorney Heather, to look in on June occasionally. Grace and Kevin leave in an Uber, and June kicks off a slew of alcohol-fueled parties.<br/><br/>After a week, June gets a reminder to pick up Grace and Kevin from the airport. June sets up her camera, makes a sign saying 'Welcome back from prison mom,' and waits. June waits for hours, but Grace and Kevin never show. Grace calls Heather, and Heather sends Grace an international missing persons form and calls FBI Agent Park who can assist. Agent Park informs June that the United States doesn't have jurisdiction in Columbia. June calls Grace and Kevin's hotel and asks for their whereabouts. With the help of Google translate, she uncovers that Grace and Kevin left without their luggage. June looks at photos of the hotel online and sees security cameras. June decides to find Grace with or without anyone's help. She will uncover Kevin's lies, Grace's secrets, and the dark side of internet sleuthing.<br/><br/>This film echoes the same heart-pounding mystery you get from Searching, but viewers don't need to watch the previous movie to watch Missing. Viewers see the family did have a close relationship before James died, but teen rebellion drove a wedge between them. The film's technology use helps guide viewers through June's thought process. June finds locations, translates languages and uses live streaming to find her mother. With June's camera focused on her, you see the dread as she discovers more horrific information. Be ready to yell at the screen and cheer in relief. If you like Searching, you will love its standalone sequel.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0BS8QRCD9"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/missing.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/missing.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"M3GAN",
     "review":"Gemma created the latest toy craze, PurrPetual Pets. But her boss, David, wants her to make a new model at a lower price. Instead of working on the updated Pet, Gemma and her team, Tess and Cole, keep working on the Model 3 Generative Android, M3gan, for short. Gemma tries a simple demo, but the doll's face melts. David leaves the room enraged and demands Gemma scrap M3gan and begin working on a cheaper Pet. Then Gemma gets a phone call from the hospital in Oregon. Her sister, Ava, and brother-in-law, Ryan, died in a car accident, but their daughter, Cady, survived.<br/><br/>Gemma moves Cady into her home but doesn't have toys, books, or a dedicated space for Cady. Cady comes into Gemma's workshop and shows Gemma her drawings. So, Gemma shows Cady a robot she made in college, Bruce. It's a motion caption robot using gloves to interact. Cady comments that it's a cool toy and the only one she would ever need. Gemma, Tess, and Cole work overtime to fix M3gan.<br/><br/>They invite David to a private meeting and have him watch M3gan interact with Cady. David loves M3gan and wants to present it to the board immediately. Gemma thinks the bond will help Cady recover after losing her parents, allow her to work, and put her company at number one. She wants Cady to be happy, the same as M3gan. Only M3gan will kill for it because Gemma forgot rule number one of toy designing: parental controls.<br/><br/>While Chucky starts creepy, M3gan is a lifesize Barbie on steroids. In true Blumhouse fashion, this script is funny, scary, and twisted. And it sets itself apart from other AI and doll movies because it discusses attachment theory. Cady becomes frighteningly dependent on M3gan and physically attacks Gemma when she can't have M3gan. While we are nowhere near this level of AI, Cady's misplaced attachment is the real threat in society today. Audiences will cringe, laugh, and OMG as M3gan takes over. This film is definitely worth a watch and discussion.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"A Man Called Otto",
     "review":"Otto wakes up, goes to the hardware store, checks on the neighborhood, and goes to work. His co-workers surprise Otto with a retirement party. Otto scoffs at the Dyn and Merika signs for the new condos. The realtors are trying to entice Otto and his neighbors to sell, but they remain firm.<br/><br/>After Otto's neighborhood checks, he helps his new neighbor, Marisol, and her husband, Tommy, and their two daughters parallel park their moving trailer. Otto cancels his utilities, anchors a rope to the ceiling, and hangs himself. Otto sees visions of his late wife, Sonya, as he slips away, but the metal ring breaks before he dies. Otto isn't happy to be alive. Instead, he is upset that you can't find decent material these days. Otto doesn't see the point of living without Sonya, and Otto will try again to end it. However, the neighborhood he pushed away will unknowingly come to his rescue, and he theirs.<br/><br/>Based on A Man Called Ove by Fredrik Backman and a remake of A Man Called Ove, this movie weaves humor and sadness expertly. Otto is a grumpy, older man screaming at the changing of the times in the beginning. However, you get to know his story during each attempt. Otto's cantankerous behavior is valid, although misdirected. If you cried at the beginning of Up, be prepared to have your tissues ready. This film will stay with you.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Devotion",
     "review":"Lieutenant Tom Hudner enters the locker room to greet his fellow soldiers and hears someone mumbling to themselves. Before Tom can investigate, his airmen walk in, say hello, and rib him. One soldier, Ensign Jesse Brown, is standoffish, but Tom shakes his hand. Tom attempts to get closer to Jesse, but Jesse keeps his guard up. Until Tom offers Jesse a ride home because Jesse's car broke down. Tom meets Jesse's wife, Daisy, and their daughter, Pam. Daisy invites Tom in for a beer. She worries because the U.S. government gave the airmen their first mission. They will lend air support to the Korean War. Pam makes Tom promise to watch over Jesse. A new aircraft, some backward attitudes, and heavy firefights will test Tom's devotion to his promise.<br/><br/>Based on Devotion: An Epic Story of Heroism, Friendship, and Sacrifice by Adam Makos, this movie stands out from other historical tellings because there isn't a bad guy. Although Jesse receives media attention for his race and naval status, he doesn't want that to define him. Only his dedication to the country. Tom is a true definition of an ally. He quickly points out others' wrongdoings and listens to Jesse with an ear of compassion, not pity. This movie will leave a tear in your eye and gives these men their due.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"Puss in Boots: The Last Wish",
     "review":"Puss In Boots throws a party in the governor's mansion and invites the town without the governor's knowledge. Puss attempts to escape when the governor returns, but his party wakes a giant monster. Sadly, the bell Puss used to defeat the giant fell on Puss, killing him. Puss wakes with a veterinarian examining him. He tells Puss that he's run out of lives and needs to retire from adventures. The veterinarian gives Puss the address for Mama Luna's Cat Rescue. Puss goes to a bar to drink his cares away when a wolf sits next to him. Puss is fearless until the wolf draws blood. Puss's life flashes before his eyes, and he runs away. He buries his signature garb and retreats to Mama Luna's.<br/><br/>Puss slowly adjust to life as a house cat named Pickles and finds a dog hiding their. One day, Goldilocks and the Three Bears crime family come to Mama Luna looking for Puss. They find his buried clothing on the property and assume Puss died. Puss overhears them talking about stealing a map to the falling star and can't believe it. The falling star can grant one last wish, and Puss desires the map to find the star. He wants to wish for nine more lives.<br/><br/>Two thieves stole the map for Big Jack Horner. He collects magical relics for his private display. Puss and the dog watch Jack double-cross the thieves and put the map on his desk. He sneaks into the room to open the chest and finds Kitty Softpaws inside. Kitty and Puss fight over the map until Goldi and the Bears barge in to take the map. Kitty, Puss, and the dog run with the map to find the fallen star. Puss doesn't know that Jack, Goldi, the Bears, and the wolf are hot on their trail.<br/><br/>This sequel incorporates excellent animation with fantastic storytelling. It's unnecessary to see the first film or the Shrek movies to understand Puss In Boots. This movie expands on the legend of Puss and introduces new characters with ease. As you watch, notice each time they take a shot at Disney and Pixar movies while acknowledging Mary Poppins and Terminator. This film is excellent for the whole family while teaching an appreciation lesson to children.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pussinbootsthelastwish.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pussinbootsthelastwish.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"On the Come Up",
-    "review":"Bri's father, Lawless, is a rap legend in Garden Heights, and she aspires to be a rapper like him. However, he died when she was a baby. Her aunt, Pooh, got Bri a spot at The Ring, a rap arena owned by DJ Hype. Bri sells candy at school to classmates to help her mom. Her friends, Malik and Sonny, believe Bri has what it takes to make it in the music industry.<br/><br/>At her first rap battle, Bri's opponent remarks about her father and mother. Bri can't shake the feeling, so she chokes and leaves The Ring. When an officer sees Bri take something out of her bag and exchange it for money, he demands to see her bookbag. Bri refuses, so the officer grabs her and slams her to the floor. Teachers say Bri is aggressive, but Jay wants to know if the SROs will suffer consequences. The principal says the SROs behavior was inexcusable, but the principal will suspend Bri for a week during the investigation.<br/><br/>Bri uses the time to write more rhymes and gets another shot at The Ring. This time, Bri defeats a locally known rapper, Milez, and Milez's father, Supreme, takes notice. Supreme managed her father until the day Lawless died, but Pooh tells Bri to stay away from Supreme. Pooh and Bri go to the parking lot on cloud nine, but their good mood dissipates when they see Pooh's friend in an altercation with a rival gang. Pooh pulls out a gun and refuses to back down, so the gang leaves.<br/><br/>Pooh and Bri return to The Ring for the next battle, but DJ Hype bans Pooh and Bri for bringing a weapon. Instead of leaving, Bri battles a rapper in the parking lot and wins. In desperation, Bri messages Supreme on Instagram. Bri gets in the booth, but producers hate her single. So she makes a song talking about the rival gang, her family, and the SROs. This song will be Bri's first hit, but she doesn't understand that it's a statement that will anger the streets, her family, and her school.<br/><br/>Based on On the Come Up by Angie Thomas, this movie is a coming-of-age story with prose. This film, at first, feels like 8 Mile, but winning the battle isn't the story's goal. Bri has to find her voice and fight through the pain. She must thrive, not just survive. Bri learns the power of song, its effect on others, and the perils of playing the role. In the end, Bri finds her voice using her pain and stands up for herself and her family.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0BRWJ6BFD"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/onthecomeup.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/onthecomeup.jpeg"
     }
   }
 ];
@@ -94,18 +94,7 @@ module.exports = mustBuy;
     }
   }
 
-  {
-    "option":"1",
-    "mtitle":"Missing",
-    "review":"June attempts to adjust to her mother, Grace, dating Kevin. Kevin and Grace decided to take a vacation to Columbia. However, June is upset the trip overlaps Father's Day. June's father, James, died from a brain tumor when she was a young child. Although June is 18, Grace asked her friend, attorney Heather, to look in on June occasionally. Grace and Kevin leave in an Uber, and June kicks off a slew of alcohol-fueled parties.<br/><br/>After a week, June gets a reminder to pick up Grace and Kevin from the airport. June sets up her camera, makes a sign saying 'Welcome back from prison mom,' and waits. June waits for hours, but Grace and Kevin never show. Grace calls Heather, and Heather sends Grace an international missing persons form and calls FBI Agent Park who can assist. Agent Park informs June that the United States doesn't have jurisdiction in Columbia. June calls Grace and Kevin's hotel and asks for their whereabouts. With the help of Google translate, she uncovers that Grace and Kevin left without their luggage. June looks at photos of the hotel online and sees security cameras. June decides to find Grace with or without anyone's help. She will uncover Kevin's lies, Grace's secrets, and the dark side of internet sleuthing.<br/><br/>This film echoes the same heart-pounding mystery you get from Searching, but viewers don't need to watch the previous movie to watch Missing. Viewers see the family did have a close relationship before James died, but teen rebellion drove a wedge between them. The film's technology use helps guide viewers through June's thought process. June finds locations, translates languages and uses live streaming to find her mother. With June's camera focused on her, you see the dread as she discovers more horrific information. Be ready to yell at the screen and cheer in relief. If you like Searching, you will love its standalone sequel.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0BS8QRCD9"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/missing.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/missing.jpeg"
-    }
-  }
+
   
   {
     "option":"5",
