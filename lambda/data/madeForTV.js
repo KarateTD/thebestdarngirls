@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Every Breath She Takes",
-    "review":"Jules runs from her husband, Billy, and hides in the bedroom. She has bruises on her wrist and blood dripping from her forehead. Billy's furious that Jules filed for divorce. He promises not to let her leave, and the fire alarm goes off. Billy dies in the fire.<br/><br/>Six months later, Jules's contractor, Kenny, rebuilds the home in Jules's image. Jules runs an art school, sees her therapist, Ron, biweekly, and works out with her best friend, Dana. Jules has nightmares about Billy but has coping mechanisms to subdue the terror. Before class, a student, Paul, helps set up and asks Jules out on a date. Jules considers it until she looks out the window and sees Billy. Jules looks again, but Billy is gone, and she turns Paul down.<br/><br/>Before Jules can relax, Detectives Walker and Young rudely enter Jules's home. Walker and Young believe Jules killed Billy, but Jules isn't surprised. Jules's neighbor, Naomi, comes with food, and Young pulls a gun on her. So Jules kicks the detectives out of her home. Naomi encourages Jules to go out with Paul, and Jules texts Paul, 'Yes.'<br/><br/>Paul and Jules go on a date and eat street-side tacos. Then she sees Billy in the distance and jumps. Paul agrees but suggests Jules takes a self-defense class to regain her sense of safety. Jules falls asleep dreaming of kissing Paul but wakes up after having a nightmare about Billy stabbing her. She wakes with bruises on her arm and has a panic attack. She texts Ron for a session at dawn, but Ron wants to run in the morning. So he asks Jules to come to his office at 9 am.<br/><br/>Jules enters Ron's office complex and learns he was in a hit-and-run accident. Detective Walker asks Jules for her whereabouts during Ron's accident. Furious, Jules retreats because the detective suspects she killed Ron. Nevertheless, Jules knows the person who killed Ron is Billy. Now, she has to make everyone believe he is alive and trying to finish the job.<br/><br/>If you are an experienced Lifetimer, the beginning will feel like the end. However, the start of the movie is the origin. The plot feels like a simple abuse and revenge story, but the storyline has much more to offer. Billy was upset about the impending divorce and was abusive, but the implications of the divorce set Billy off. The final scene puts a nail in Billy's coffin. While this movie is entertaining, it offers therapy and self-defense techniques. So watch with a pen and pad.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Blossom",
+    "review":"Clarisse has nightmares several times a week about the kidnapping of her son, Jaden. Although officers found Jaden safe, Clarisse lives on high alert. Her husband, Walt, believes Clarisse should be over the incident because it happened years ago. She sits with her therapist, Dr. Martin, and updates him on her household. She is at odds with her teenage daughter, Allie, and she hovers over Jaden while lashing out at him.<br/><br/>Clarisse works at a Domestic Violence Resource Center to complete her Master's Degree. A woman, Cherry Redvine, comes into the center with blood dripping from her wrist. She escaped her boyfriend, Billy, and now needs help. Clarisse tells Cherry the center can help and gets Cherry comfortable. During the first group session, Cherry introduces herself and tells everyone that Billy calls her Blossom.<br/><br/>Billy enters the center's back porch late at night and threatens Lauren. He tells Lauren to deliver a message to Cherry. He is back and wants Blossom to return to him. Or Else. Cherry leaves the center without a backup plan. Later, Clarisse sees Cherry begging strangers for money in a grocery store parking lot. So, Clarisse offers her home to Cherry. Slowly, Clarisse's breakthrough becomes a break-in that puts her family in danger.<br/><br/>This movie's plot goes all over the place while attempting to make a statement. Cherry displays a bold demeanor but falls into the cycle. While it frees Clarisse emotionally, it leaves her without a career and husband. It's not until the final scene that Clarisse's character resonates. She finds her voice and lets everyone know.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/everybreathshetakes.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/everybreathshetakes.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blossom.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blossom.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Twisted Sister",
-    "review":"Emily finishes a successful marriage counseling session with her estranged husband, Kyle. Since her parents' death, Emily wonders if she ever made decisions for herself or to please them. During a meeting, Emily informs her employees that she will complete a valued partnership her parents started before their death. Kyle clears his throat and asks why Emily didn't include him in the decision. She tells Kyle that the meeting is her way of incorporating him.<br/><br/>Emily drives home with her daughter, Nina, and almost hits a woman, Lily, in her driveway. Lily states that she came for the nanny position. Kyle comes to Emily's house and feels excluded from the decision to hire a nanny too. He wishes Emily had let him find someone if she wanted help with childcare. He doesn't trust Lily. Lily jumps into the conversation and admits she has a reason to be there. She is Emily's sister. Lily produces her birth certificate as proof. Emily tells Lily they can discuss it after Lily takes a DNA test, and Lily agrees. Emily travels to her parents' old storage unit to look through their things. Then, someone attacks her, but she fights the perpetrator off.<br/><br/>Emily and Lily spend more time together, waiting for the results. Kyle barges into the backyard with proof. He intercepted the DNA letter, and it says Emily and Lily aren't sisters. Lily swears she isn't lying, but Emily tells Lily to leave. She invites Kyle to return to their home and into her bed. Cassie calls Emily, but Emily's phone chimes with a low-battery alert. Emily looks for a charging cable but finds a letter from the DNA office. This document says Emily and Lily are sisters. Emily rages and demands an explanation. Kyle says Lily is a liar and a wedge in their marriage. He falsified the document, but it was to save Emily from Lily's manipulation and influence. Emily informs Lily they are sisters and wants to spend more time with her. Sadly Lily has to go because she is out of money. Emily offers Lily a job and a place to stay. Emily decides to relax in her hot tub to soak away the day. However, she ends up with paramedics checking her vitals because a wire in the bottom of the tub electrocuted her. Someone is out to hurt Emily physically, emotionally, and financially. And Emily has to get to the bottom of it before she loses everything.<br/><br/>Emily skips 95% of Lifetime mistakes by requesting a DNA test and a birth certificate in the first 10 minutes. Viewers will be in the dark for most of the movie. And that's by design, but the audience can't ignore obvious plot holes in the film. The final monologue brings a slew of lies, transgressions, and jealousy, so keep watching. Emily will lose bonds to gain herself.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"The Baby Swindler",
+    "review":"Susie is ready to implant the frozen embryos she and her deceased husband, Mike, created before his death. She wants to carry her baby, but her fertility specialist, Dr. Shaw, doesn't think Susie is a viable candidate to carry a baby to term. Dr. Shaw gives Susie a surrogacy pamphlet. Susie meets with her brother, Andy, at the park. He reminds Susie that they were both miracle babies. He and his wife, Grace, are attempting IVF again.<br/><br/>Grace and Susie talk privately about their pregnancy struggles. Grace tells Susie that giving birth isn't the only way to become a mom. So, Susie calls Dr. Shaw to set up appointments to meet potential surrogates. Susie had five interviews but didn't connect with anyone. Then, the doorbell rings. Andy is there with a woman, Lorna. Lorna remembers Susie and Andy's parents fondly. Lorna works full-time while attending school without financial aid. Andy drops hints at the table because Lorna is young and needs money. Susie chooses Lorna as her surrogate. Now, Susie will have everything she wants. But will she lose everything to get it?<br/><br/>This movie presents the 'everybody sucks' model. Susie becomes obsessed with Lorna and the pregnancy. However, there is something off about Lorna. Grace is too helpful. Andy finding the woman Susie needs out of the blue is a bit sketchy. Everyone has a hustle. So fans will guess until the end.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/twistedsister.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/twistedsister.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thebabyswindler.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thebabyswindler.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Imani",
-    "review":"Faith wakes up after having another nightmare. Faith's husband, Bryce, tells Faith to take her medication, but it makes her sluggish. She goes to the bathroom and drops the pills down the drain.<br/><br/>Faith prepares breakfast for Bryce and their daughter, Jada. Faith sees a news report on the TV and asks Bryce to turn it up. The report talks about General Dupree and the murder of the first democratically elected president of Afghanistan. Faith thinks General Dupree looks familiar. Then, Bryce turns off the TV to get attention from Faith.<br/><br/>Faith runs a high-end shoe store off the freeway. After locking up, Faith goes to the back of the store to get her car, and several men with guns jump out of the darkness. Faith turns around, grabs the gun, and kills all the men. She doesn't remember training but sees visions of herself as a soldier. She runs down the alley for help but gets hit by a car. A man grabs Faith and puts her in his trunk.<br/><br/>Bryce makes his way to the police station and demands help. Then Bryce mentions the location of her store. The attending officer yells for detectives to question Bryce about the murders. The detectives show Bryce a video of Faith taking down several men before being hit by a car and kidnapped. Bryce answers their questions and returns home. He opens a secret compartment and exposes a private computer room. He hacks into the police server and deletes the back alley video footage from evidence. Bryce must get Faith back to stabilize her. If not, she may have a total recall of Imani and go full metal jacket on the operation.<br/><br/>This movie starts by leaving the viewers as confused as Faith. The viewer sees the truth as the script follows Bryce, Supreme, and the General. They all have a hand in keeping Faith in the dark about Imani. However, viewers get the final reveal as Faith meets the mastermind face to face. The fight scenes are well-choreographed, but the editing isn't smooth. At times, the backing track drowns out pivotal conversations. <br/><br/>4 out of 5 stars.",
+    "mtitle":"Rooming with Danger",
+    "review":"Angelina stands in her living room with her friend, Gabby, and Gabby's co-worker, Diego, as a guard. Angelina needs them to protect her while she packs to leave her abusive boyfriend, Marco. Angelina moves in with Gabby but tells Gabby it will be temporary. Marco calls Angelina all night and throws a brick at Gabby's door. Angelina knows Gabby's place isn't safe because Marco knows the address.<br/><br/>After work, Angelina looks up apartments for rent online and makes an appointment to meet with Bianca. Bianca is a fashion designer with a large home on the beach. Angelina loves the room and the security door. Angelina hastily packs up her stuff and moves in with Bianca for Gabby's protection. Angelina believes she has found the perfect place to restart her life. However, Bianca has dangerous and deadly attachment issues. She wants Angelina to replace her sister and will kill anyone in her way.<br/><br/>For a therapist, Angelina misses glaring red flags. Angelina never sets boundaries for her roommate or does a background check. It does explain why she didn't see the same signs in her relationship with Marco. However, Marco's abuse gives Angelina a boogeyman to blame when anything goes wrong. Bianca crashes Angelina's date, creates matching dresses, and eavesdrops on Angelina. But Angelina redeems herself. While the acting is flat, the script will keep viewers watching.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/imani.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/imani.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/roomingwithdanger.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/roomingwithdanger.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"House of Deadly Lies",
-    "review":"Paige waves goodbye to her guest as they leave her family's BBQ. Her husband, Michael, tried to get his friends to stay, but they had to go. Michael resolves to play with his son, Tanner, instead. As Paige puts the food away, she hears Michael arguing with someone outside. She investigates and sees Michael cornering her friend, Joslyn. Joslyn is pregnant with her first child, and her boyfriend, Rex, wants nothing to do with Joslyn or the baby. So, Paige offered assistance with no end date. Michael doesn't care and wants Joslyn out now. Michael's anger and resentment grow daily, although he tells Paige that work is excellent. This statement is one of Michael's many lies. Paige doesn't know that Michael is a psychopath who will kill.<br/><br/>The first hour sets up all of Michael's lies and abusive behavior. One lie leads to another, and the entire house of cards falls. Soon she can't deny his evildoings and goes on the run with Joslyn. However, they make a lot of mistakes. The best character in this film is Paige's mom, Dolly. She is the true definition of a gangster. She doesn't ask for details, keeps her mouth shut, and packs a gun. Don't mess with Dolly.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Prom Pact",
+    "review":"As the North Seattle High Bulldogs enjoy the pep rally, school counselor Mrs. Chen finds Mandy digging through the lost and found. She reminds Mandy it's wrong to steal, but Mandy is putting the clothes in the donations box. Mandy dumps the donation back into the lost and found and checks her Harvard application status. It's still pending. Mandy begrudgingly joins her friend, Ben, at the pep rally and makes fun of the jocks and cheerleaders. The cheerleading captain, LaToya, and the basketball captain, Graham, introduce the prom theme. Ben tells Mandy to be quiet so he can focus on his crush, LaToya. Their prom theme is the 80s.<br/><br/>Mandy's parents want her to enjoy her last days of high school. She doesn't want to change her high school experience and spend time with people she doesn't like. At the waffle house with Ben, Mandy witnesses another prom-posal. Ben starts to question his time at high school. He wants to go out with a bang. So Mandy writes 'Prom?' in ketchup and asks Ben to prom. She promises to do all the cliché prom things and have the whole experience.<br/><br/>Before school, Ben encourages Mandy to check her application status. They waitlisted her. She curls into a ball, cries, and pleads for Ben to leave her in the car. Ben refuses and demands Mandy be the strong woman he knows her to be and never take no for an answer. Mandy puffs out her chest and stomps into Mrs. Chen's office for guidance. Mrs. Chen tells Mandy to get a recommendation letter from a Harvard Alumni like Graham's dad, Senator Lansing. Mandy sits with Ben to create a strategy. Mandy wants to go to a party, befriend Graham, and offer to tutor him. Then, she can meet Senator Lansing and get the letter. On the surface, Mandy's plan seems easy, but she will get a senior year full of lessons.<br/><br/>This film starts like classic 80s movies. The protagonist rage against the system until they need help from the people inside. Once Mandy gets to know Graham, she realizes how much she judged him and his struggles. From that moment on, the writer fixes the issues with previous movies. And graduation doesn't end with a kiss for this group. It ends with Mandy driving away to her new life. This movie is far beyond its years and opens discussions.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/houseofdeadlylies.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/houseofdeadlylies.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/prompact.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/prompact.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"The Cases of Mystery Lane",
-    "review":"Birdie Case is a lawyer at her mother's practice. Her mother, Eleonore, wants Birdie to be a partner, but Birdie doesn't have the killer instinct Eleonore desires to head the law firm. Birdie's co-workers, Tim and Kyle, celebrate Birdie for being fair to her clients and the opposition. Birdie likes Tim despite him being on his mother's shortlist to make law partner. Kyle is Birdie's work husband. However, Birdie comes home to her actual husband, Alden Case. After countless jobs, Alden attends night school to become a CPA. Until then, she secretly gambles online to deal with stress.<br/><br/>Alden loves night school but isn't studying to become a CPA. Alden saw a flyer to obtain his private eye license and started taking those classes instead. He plans on hiding it from Birdie until he graduates the class. Alden's next assignment is to surveil someone without getting caught. Alden decides to follow Kyle.<br/><br/>Alden follows Kyle back to Eleonore's office building and sees Kyle frantically run out. Alden goes inside the building to discover what spooked Kyle. He enters Birdie's office and finds divorce papers in her desk drawer. Sadden, Alden leaves but sees something in Tim's office. He walks inside and sees Tim hanging from the roof. Alden picks up the phone to call the police, but the police arrive before the call connects.<br/><br/>The coroner declared Tim's death a suicide but Birdie doesn't believe it. Neither does Tim's wife, Penelope, or Tim's assistant, Paula. Birdie talks about Tim with Kyle. But as she leaves, Kyle lies about his whereabouts that night. Birdie tells Alden, and they come to the same conclusion. They think Kyle killed Tim, but they must find out why and gather the evidence.<br/><br/>Unlike other H.M.M. mysteries, Alden and Birdie are a couple. This mystery reaches a broader audience because the main couple has real-world struggles. Birdie hides her gambling and divorce papers. And Alden doesn't talk about his P.I. classes. This case and working together forces them to be honest about their issues and open up about their vulnerabilities. This film packs plenty of humor and charm into one script. It will be your new favorite.<br/><br/>5 out of 5 stars.",
+    "mtitle":"I Got Problemz",
+    "review":"Q finishes his interview while his grandmother, Laura, prays for him with her prayer warriors over the phone. This interview is his 99th, and it didn't go well. Q is a genius but left school early after his mother got into legal trouble for selling drugs. The 20-year-old wants to return to college but is awaiting scholarships.<br/><br/>Q goes outside to breathe and sees his crush, Kristina, working out. Then he sees Kristina's ex-boyfriend, Pop, drive by his home. Pop warns Q to stay away from Kristina and leaves. Kristina doesn't care about Pop and plans to watch an Einstein documentary with Q.. Then, Q sees his best friend, Kevin. Kevin knows Q likes his sister, Kristina, and thinks Q is the right guy for her.<br/><br/>Q goes to Kevin and Kristina's house. After Kevin leaves, they watch the documentary, talk about the future, and laugh. She admits to having a crush on Q, and his heart skips a beat. They kiss, and the lights go out.<br/><br/>Q wakes up in the morning and walks the block. Pop has Q follow him into a stash house, where he has a man tied up. Pop witnessed Q kiss Kristina and now wants Q to pay for it. Pop pulls out a gun and kills the man in front of Q. Q runs out of the house and hopes everything will be ok. However, Pop spreads the rumor that Q killed the man, and the police are looking for Q.. Can Q clear his name and reclaim his life?<br/><br/>This film breaks the 4th wall with quips and insights from Q.. This break allows the viewer to understand what's on Q's mind. Q is an intelligent guy living in a rough area with zero street smarts. However, his likable demeanor endears him to his friends and family. While the storyline has mystery, it doesn't capture your attention. Q is in a troublesome situation, but everything is a joke. And the missing lenses in his glasses are distracting. This film is background noise with a few laughs.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecasesofmysterylane.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecasesofmysterylane.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/igotproblemz.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/igotproblemz.jpeg"
     }
   }
 ];
@@ -57,49 +57,50 @@ module.exports = madeForTV;
 /*
 
 {
-  "option":"1",
-  "mtitle":"Blossom",
+  "option":"1"
+  "mtitle":"Pride: A Seven Deadly Sins Story"
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blossom.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blossom.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pride.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pride.jpeg"
   }
 },
 {
-  "option":"2",
-  "mtitle":"The Baby Swindler",
+  "option":"2"
+  "mtitle":"Infidelity Can Be Fatal"
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/infidelitycanbefatal.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/infidelitycanbefatal.jpeg"
   }
 },
 {
-  "option":"3",
-  "mtitle":"Rooming with Danger",
+  "option":"3"
+  "mtitle":"Murder at Blackthorne Manor"
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/roomingwithdanger.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/roomingwithdanger.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderatblackthornemanor.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderatblackthornemanor.jpeg"
   }
 },
 {
-  "option":"4",
-  "mtitle":"Prom Pact",
+  "option":"4"
+  "mtitle":"The Hand That Rob the Cradle"
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/prompact.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/prompact.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thehandthatrobsthecradle.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thehandthatrobsthecradle.jpeg"
   }
 },
 {
-  "option":"5",
-  "mtitle":"Home, Not Alone",
+  "option":"5"
+  "mtitle":"Love in the Maldives"
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/homenotalone.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/homenotalone.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinthemaldives.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinthemaldives.jpeg"
   }
 }
+
 
 */
