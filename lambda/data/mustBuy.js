@@ -134,4 +134,24 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/champions.jpg"
     }
   }
+
+   {
+    "option":"5",
+    "mtitle":"The Greatest Beer Run Ever",
+    "review":"John 'Chickie' Donohue drinks beers at his local bar in 1967 Inwood, New York. Chickie and his sister, Christine, get into a fight about the war. He and their parents believe the soldiers are heroes protecting the country from communism. However, Christine believes President LBJ is lying to the American people.<br/><br/>At the bar, the owner, Colonel, says he wishes he could give the Inwood guys in Vietnam a beer to show his support and lift their spirits. Chickie declares he will do it. Colonel gives Chickie a bag from the bar and fills it with beers. Chickie goes to the docks and discovers the next ship is leaving for Vietnam in 3 hours, and they need one more oiler. He grabs his bag of beers and heads to the war. He will learn about the media, politics, and the cost of war.<br/><br/>Based on The Greatest Beer Run Ever: A Memoir of Friendship, Loyalty, and War by John 'Chick' Donohue and J.T. Molloy, this movie is a comedic look at a dark moment in American history. Each time Chickie runs into a friend, they look at him with disbelief and disgust. They laugh and help Chickie along the way when he tells his growing beer run story. Chickie runs into dumb luck, but he knows it will come at a cost. Reporters challenge Chickie's ideals when he sticks up for the president. After a few nights in the trenches, his faith in the war wavers. But his love of the troops remains strong. If you have PTSD, some moments could be triggering. This beer run is epic, no matter how you feel about the Vietnam war.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegreatestbeerrunever.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegreatestbeerrunever.jpg"
+    }
+  }
+
+    {
+    "option":"1",
+    "mtitle":"AIR",
+    "review":"Sonny Vaccaro looks through game tapes to find the next athletic sponsor for Nike. The CEO, Phil Knight, authorized $250,000 for three players. Sonny has plenty on his shoulders because Nike's basketball division is floundering. Sonny sits in a marketing meeting with its head, Rob Strasser, and looks through the 1984 NBA draft picks. Sonny wants them to consider Michael Jordan, but the staff knows Jordan is expensive and prefers Adidas. Sonny leaves the meeting upset and looks over more college basketball tapes. While watching, he sees an Arthur Ashe commercial for tennis rackets and gets an idea. Instead of having a player put on their shoes, they design them for the player. The player and the shoe will become a brand within themselves.<br/><br/>Sonny flies to LA to talk to his friend, George Raveling, because George coached Michael Jordan in the Olympic tournament. George believes Sonny's instincts are right about the rookie but warns Sonny that Michael's parents, James and Deloris, are strongholds in their son's career. Sonny returns to Nike's headquarters and pitches his idea to Howard White. Howard signed Moses Malone to a Nike deal that remains their best acquisition. Howard admits he called Moses's mom to finalize the deal. Sonny takes George and Howard's advice and meets with Jordan's parents. After a revealing conversation with Deloris, Jordan's manager, David, calls Sonny with a flurry of insults and a Monday meeting. Sonny runs to Peter Moore and asks him to design the best shoe Nike has ever created. Sonny doesn't know, but his decision to pursue Michael Jordan will change Nike, athletic sponsorships, and Michael Jordan's finances forever.<br/><br/>A lot of care went into making this film. The director ensures this isn't a Michael Jordan movie. It's about Sonny, Deloris, and Nike. Sonny is the man behind the curtain. He understood the psychology behind the sport, its players, and its coaches. However, the driving force behind this deal was Deloris Jordan. She knew her son's worth to the game and wouldn't compromise his future. The music and technology will transport you back to 1984. Also, this film gives recognition to Peter's genius. Sneakers weren't just a fashion statement for him. They were a work of art. While the language is a bit much for younger viewers, audiences will love this film from start to finish.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/air.jpeg",
+      "largeImageRul":"https://thebestdarngirls.s3.amazonaws.com/large-image/air.jpeg"
+    }
+  }
 */
