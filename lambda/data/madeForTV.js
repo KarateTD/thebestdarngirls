@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Blossom",
-    "review":"Clarisse has nightmares several times a week about the kidnapping of her son, Jaden. Although officers found Jaden safe, Clarisse lives on high alert. Her husband, Walt, believes Clarisse should be over the incident because it happened years ago. She sits with her therapist, Dr. Martin, and updates him on her household. She is at odds with her teenage daughter, Allie, and she hovers over Jaden while lashing out at him.<br/><br/>Clarisse works at a Domestic Violence Resource Center to complete her Master's Degree. A woman, Cherry Redvine, comes into the center with blood dripping from her wrist. She escaped her boyfriend, Billy, and now needs help. Clarisse tells Cherry the center can help and gets Cherry comfortable. During the first group session, Cherry introduces herself and tells everyone that Billy calls her Blossom.<br/><br/>Billy enters the center's back porch late at night and threatens Lauren. He tells Lauren to deliver a message to Cherry. He is back and wants Blossom to return to him. Or Else. Cherry leaves the center without a backup plan. Later, Clarisse sees Cherry begging strangers for money in a grocery store parking lot. So, Clarisse offers her home to Cherry. Slowly, Clarisse's breakthrough becomes a break-in that puts her family in danger.<br/><br/>This movie's plot goes all over the place while attempting to make a statement. Cherry displays a bold demeanor but falls into the cycle. While it frees Clarisse emotionally, it leaves her without a career and husband. It's not until the final scene that Clarisse's character resonates. She finds her voice and lets everyone know.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Pride: A Seven Deadly Sins Story",
+    "review":"Ella walks to the door to find the police questioning her father, Joey. They arrest Ella and bring her to jail. Joey calls his mother-in-law, Birdie, for help. Birdie runs a bakery while filming her reality show. Birdie's son, Gabe, is working on a deal to get a new location, and Birdie's niece, Janine, is the head of security.<br/><br/>Joey got Ella out of jail but with Birdie's help. Birdie and Ella's mom, Tasha, argued when Tasha left college to be with Joey after she got pregnant with Ella. Birdie convinces the homeowners to drop the charges if Ella moves from Texas to Chicago to live with Birdie. Ella agrees because it's either Birdie or jail.<br/><br/>Ella starts her first day of work at Birdie's Bakes but doesn't want to be on camera. Gabe lets Ella taste Birdie's Sweet T Potato Pie. Ella thinks it's ok but becomes vengeful when Gabe tells Ella that Birdie named it after Tasha because it was Tasha's recipe. After Ella takes a step back, she makes Tasha's pie and gives it to Birdie. Birdie is in heaven and wants the recipe. Ella promises to think about it. Zoe loves the moment and wants to reshoot it to make the exchange look presentable.<br/><br/>Later, Birdie shows her heirloom ring to Ella and promises to give it to Ella when Ella graduates college. Birdie lays in bed and asks Ella to bring her diabetes medication. Ella goes to her room to sleep but finds Birdie on the floor. She went into a diabetic coma but will be ok. Ella looks at Birdie's pills and notices one of them is different. She tells Janine immediately.<br/><br/>Ella goes to the hospital to check on Birdie, but a camera crew is there filming Birdie, Gabe, and Gabe's family. Birdie requests Gabe and Ella stay because she needs to update them on her health. Birdie has leukemia and wants to leave her business to Gabe and Ella equally. Bewildered, Gabe screams that Ella doesn't deserve it, but Birdie quotes Proverbs 13:22. Ella's unsure about the inheritance because she doesn't want to hurt Gabe. Birdie refuses to let her pride come between her relationship with Ella. Ella must be careful because pride will bring a tire iron, shadowy figures, threatening calls, and death.<br/><br/>Inspired by actual events, this movie, unlike its predecessors, is different from the book but worth the watch. Everyone in this family is full of pride. Ella doesn't want Birdie's help because she is sticking up for Tasha. Birdie puts her pride before everything and displays the perfect family on TV. Gabe refuses to ask for assistance with the new location. He desires accolades but hides his failings. The script and cast will captivate you. So be ready with your tea and wine in hand.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blossom.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blossom.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pride.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pride.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"The Baby Swindler",
-    "review":"Susie is ready to implant the frozen embryos she and her deceased husband, Mike, created before his death. She wants to carry her baby, but her fertility specialist, Dr. Shaw, doesn't think Susie is a viable candidate to carry a baby to term. Dr. Shaw gives Susie a surrogacy pamphlet. Susie meets with her brother, Andy, at the park. He reminds Susie that they were both miracle babies. He and his wife, Grace, are attempting IVF again.<br/><br/>Grace and Susie talk privately about their pregnancy struggles. Grace tells Susie that giving birth isn't the only way to become a mom. So, Susie calls Dr. Shaw to set up appointments to meet potential surrogates. Susie had five interviews but didn't connect with anyone. Then, the doorbell rings. Andy is there with a woman, Lorna. Lorna remembers Susie and Andy's parents fondly. Lorna works full-time while attending school without financial aid. Andy drops hints at the table because Lorna is young and needs money. Susie chooses Lorna as her surrogate. Now, Susie will have everything she wants. But will she lose everything to get it?<br/><br/>This movie presents the 'everybody sucks' model. Susie becomes obsessed with Lorna and the pregnancy. However, there is something off about Lorna. Grace is too helpful. Andy finding the woman Susie needs out of the blue is a bit sketchy. Everyone has a hustle. So fans will guess until the end.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Infidelity Can Be Fatal",
+    "review":"Lucy works as a P.I. and typically handles adultery cases. While most of her clients are women, Clive needs her help. He suspects that his wife, Adriana, is having an affair. Lucy and her new associate, August, take the case. Lucy gets a phone call from her best friend, Cami. Cami and Cami's husband, Charles, want Lucy to go on a blind date for her birthday. Lucy says yes and meets her blind date on a double date with Cami and Charles. The date goes well, and Lucy wants to see him again.<br/><br/>After following Adriana for a week, Lucy found zero evidence of cheating. She meets Clive at a bar and reports her findings to Clive, but Clive wants Lucy to keep working. When Clive makes a move, Lucy stops him because she doesn't want to cross a boundary. Her resolve doesn't last long. She brings Clive back to the office and passionately kisses him. Lucy gets a text message after Clive and August leave the building. It's a picture of Lucy and Clive outside kissing. Someone is watching her. During her next sting, Adriana approaches Lucy's car with a warning. Lucy isn't the first P.I. Clive hired, and Lucy won't be the last. Lucy is sliding down a razor's edge. She will encounter convicts, gamblers, and killers. But will she discover the truth?<br/><br/>It will be unbelievable, but you must give this movie a shot. It does drag, but it's leaving breadcrumbs for its biggest twist. The killer's motives and actions are stunning and will leave you on the edge of your seat. Also, Lucy makes a horrible mistake. But you be the judge. Is Lucy a criminal, victim, or both?<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thebabyswindler.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thebabyswindler.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/infidelitycanbefatal.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/infidelitycanbefatal.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Rooming with Danger",
-    "review":"Angelina stands in her living room with her friend, Gabby, and Gabby's co-worker, Diego, as a guard. Angelina needs them to protect her while she packs to leave her abusive boyfriend, Marco. Angelina moves in with Gabby but tells Gabby it will be temporary. Marco calls Angelina all night and throws a brick at Gabby's door. Angelina knows Gabby's place isn't safe because Marco knows the address.<br/><br/>After work, Angelina looks up apartments for rent online and makes an appointment to meet with Bianca. Bianca is a fashion designer with a large home on the beach. Angelina loves the room and the security door. Angelina hastily packs up her stuff and moves in with Bianca for Gabby's protection. Angelina believes she has found the perfect place to restart her life. However, Bianca has dangerous and deadly attachment issues. She wants Angelina to replace her sister and will kill anyone in her way.<br/><br/>For a therapist, Angelina misses glaring red flags. Angelina never sets boundaries for her roommate or does a background check. It does explain why she didn't see the same signs in her relationship with Marco. However, Marco's abuse gives Angelina a boogeyman to blame when anything goes wrong. Bianca crashes Angelina's date, creates matching dresses, and eavesdrops on Angelina. But Angelina redeems herself. While the acting is flat, the script will keep viewers watching.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Murder at Blackthorne Manor",
+    "review":"Hayley approaches the Hawthorne manor and sees Victoria leaving in a rage. Hayley cycles through the mail before handing it to her boss, Charles. Charles applauds Hayley for increasing their visitors. Months ago, Hayley decided to use the manor's sorted history and turn the bed and breakfast into a murder mystery immersive experience. Every month Hayley creates a new puzzle, and clients love it.<br/><br/>Guests check into the manor, and Hayley lays down the rules. They must wear the costumes she put in their bedroom to keep the guests in character. They are not allowed to have their cell phone, so Hayley secures the phones in a lock box. The manor doesn't have security cameras, Wi-Fi, or televisions. Then Gordon walks towards Hayley. She remembers seeing Gordon arguing with Charles and desires to kick Gordon out. However, Gordon has a reservation. So she grits her teeth and gives him a key.<br/><br/>After the guests settle in, Charles tells Hayley she is like a daughter to him. His comments shock her because Charles's stepson, Jackson, is in the room. Jackson confesses that Hayley enamors him and moves in close to kiss her. Then, Hayley hears a crash from Charles's office. Hayley gives Jackson a quick peck before walking to Charles's office. They find Charles dead, with a broken clock on the floor. They run to the gate to get help. But someone locked it from the outside. Hayley finds the box of cell phones in the fountain. They have no way to contact help and a murderer on the loose. Hayley has to investigate an actual murder without alarming the guests, but which one is Charles's killer?<br/><br/>Like all mysteries, the plot introduces you to every character, their motive, and their shady behavior. Nevertheless, this story adds another layer because Hayley keeps the game going for the guests while she and the staff look for the killer. Don't look for an H.M.M.-level enigma or murder board. LMN gives viewers the twists they expected with affairs, break-ups, and poor business dealings. So, Lifetimers can figure out the culprit before the big reveal.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/roomingwithdanger.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/roomingwithdanger.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderatblackthornemanor.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderatblackthornemanor.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Prom Pact",
-    "review":"As the North Seattle High Bulldogs enjoy the pep rally, school counselor Mrs. Chen finds Mandy digging through the lost and found. She reminds Mandy it's wrong to steal, but Mandy is putting the clothes in the donations box. Mandy dumps the donation back into the lost and found and checks her Harvard application status. It's still pending. Mandy begrudgingly joins her friend, Ben, at the pep rally and makes fun of the jocks and cheerleaders. The cheerleading captain, LaToya, and the basketball captain, Graham, introduce the prom theme. Ben tells Mandy to be quiet so he can focus on his crush, LaToya. Their prom theme is the 80s.<br/><br/>Mandy's parents want her to enjoy her last days of high school. She doesn't want to change her high school experience and spend time with people she doesn't like. At the waffle house with Ben, Mandy witnesses another prom-posal. Ben starts to question his time at high school. He wants to go out with a bang. So Mandy writes 'Prom?' in ketchup and asks Ben to prom. She promises to do all the cliché prom things and have the whole experience.<br/><br/>Before school, Ben encourages Mandy to check her application status. They waitlisted her. She curls into a ball, cries, and pleads for Ben to leave her in the car. Ben refuses and demands Mandy be the strong woman he knows her to be and never take no for an answer. Mandy puffs out her chest and stomps into Mrs. Chen's office for guidance. Mrs. Chen tells Mandy to get a recommendation letter from a Harvard Alumni like Graham's dad, Senator Lansing. Mandy sits with Ben to create a strategy. Mandy wants to go to a party, befriend Graham, and offer to tutor him. Then, she can meet Senator Lansing and get the letter. On the surface, Mandy's plan seems easy, but she will get a senior year full of lessons.<br/><br/>This film starts like classic 80s movies. The protagonist rage against the system until they need help from the people inside. Once Mandy gets to know Graham, she realizes how much she judged him and his struggles. From that moment on, the writer fixes the issues with previous movies. And graduation doesn't end with a kiss for this group. It ends with Mandy driving away to her new life. This movie is far beyond its years and opens discussions.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"The Hand That Rob the Cradle",
+    "review":"Delondra and her boyfriend, Rob, move into Mrs. Tubbs's attic apartment. Delondra gets a phone call from her employer. They are moving immediately, so Delondra is out of a job. Delondra works as a nanny while attending medical school.<br/><br/>Delondra walks to the kitchen to give Mrs. Tubbs their first rent check and update Mrs. Tubbs on her situation. Mrs. Tubbs thinks Delondra would be the perfect choice to watch Danny. She watches Danny sporadically because Danny's mother, Melody, is busy at work, and Danny's father, Joel, is sick. Delondra is happy to take the job, and Mrs. Tubbs takes Danny and Delondra to the park to get acquainted. Melody runs up to Danny, screaming because she doesn't know Delondra. Seven years ago, someone kidnapped Danny while his nanny took him to the park. Danny's kidnapper left him at a fire station, but the police never caught the culprit.<br/><br/>They return to Mrs. Tubbs's house. And Melody hires Delondra after apologizing. Soon, Delondra and Danny are inseparable. Delondra takes Danny to the park to play hide-and-seek, but he goes missing. She finds him in a swing with a sore-ridden woman, Carla, holding onto him. Delondra gets Danny to safety and goes home. Delondra worries it could be the kidnapper, but Melody doesn't know how it's possible. Delondra admits to posting a photo of Danny on her social media page. Melody flies into a rage and fires Delondra.<br/><br/>After the police arrest Carla, Melody decides to hire Delondra again. However, Melody doesn't feel safe. Mrs. Tubbs offered to let Melody, Danny, and Joel stay at her cabin. Melody wants Delondra to come because it will give Danny a sense of normalcy. Although Delondra is not into the outdoors, Delondra looks forward to peace with Danny. She will find murder, mayhem, and the truth.<br/><br/>Melody's fears and concerns are justified because she suffered through Danny's kidnapping. However, Melody's emotions for Delondra change so fast. After the first hour, you seek the kinks in Melody's armor, and you want to know the complete story of Danny. However, Delondra refuses to accept any story and questions everything. She is the nanny you want because she will put Danny above everyone, including herself.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/prompact.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/prompact.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thehandthatrobsthecradle.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thehandthatrobsthecradle.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"I Got Problemz",
-    "review":"Q finishes his interview while his grandmother, Laura, prays for him with her prayer warriors over the phone. This interview is his 99th, and it didn't go well. Q is a genius but left school early after his mother got into legal trouble for selling drugs. The 20-year-old wants to return to college but is awaiting scholarships.<br/><br/>Q goes outside to breathe and sees his crush, Kristina, working out. Then he sees Kristina's ex-boyfriend, Pop, drive by his home. Pop warns Q to stay away from Kristina and leaves. Kristina doesn't care about Pop and plans to watch an Einstein documentary with Q.. Then, Q sees his best friend, Kevin. Kevin knows Q likes his sister, Kristina, and thinks Q is the right guy for her.<br/><br/>Q goes to Kevin and Kristina's house. After Kevin leaves, they watch the documentary, talk about the future, and laugh. She admits to having a crush on Q, and his heart skips a beat. They kiss, and the lights go out.<br/><br/>Q wakes up in the morning and walks the block. Pop has Q follow him into a stash house, where he has a man tied up. Pop witnessed Q kiss Kristina and now wants Q to pay for it. Pop pulls out a gun and kills the man in front of Q. Q runs out of the house and hopes everything will be ok. However, Pop spreads the rumor that Q killed the man, and the police are looking for Q.. Can Q clear his name and reclaim his life?<br/><br/>This film breaks the 4th wall with quips and insights from Q.. This break allows the viewer to understand what's on Q's mind. Q is an intelligent guy living in a rough area with zero street smarts. However, his likable demeanor endears him to his friends and family. While the storyline has mystery, it doesn't capture your attention. Q is in a troublesome situation, but everything is a joke. And the missing lenses in his glasses are distracting. This film is background noise with a few laughs.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"Love in the Maldives",
+    "review":"Rae returned from her trip to the Liberian rainforest and came to work with muddy boats and a green mamba encounter. Rae writes monthly columns for ICON magazine about her adventures as a solo traveler. Rae's boss, Shelley, asks Rae to come into her office for an update. The magazine is going global with a British partnership. She wants Rae to write a column that will appeal to a broader audience and generate more hits. Shelley wants Rae to go to The Marata in the Maldives and learn to enjoy herself.<br/><br/>Jared left the medical field behind to find inner peace and happiness. He started working at The Marata and created a yoga seminar called Clarity Connection. He wants to make his classes global but needs a writer to boast about his work. Jules, the PR manager, tells Jared that Rae is coming to write an article. So he should organically introduce himself and his classes to her.<br/><br/>Rae arrives and looks up adventures on the internet. She wants to learn more about The Legend of the Vakkankurun. Jared tells Rae the history. It's a ship that sank 100 years ago with looted treasure aboard. The monsoon season moves the wreck, so locals call it the wandering shipwreck, but no one can find it. Jared suggests his classes, but Rae shoots him down. Rae goes on a solo hike and writes the article for Shelley. She wants Rae to enjoy the beach and the spirit of the island. Rae will need Jared to show her how to connect to new readers. And he has something in mind. But will she find a way to him too?<br/><br/>This movie expresses the upside of solo travel without condemning Rae for being alone. She helps another traveler, Debra, eat alone and take dance classes. Rae isn't alone because she dislikes people. It's easier to travel solo with her wild escapades and dangerous encounters. However, Jared lets her find joy in quiet and calm moments. Rae, like many people, believes that life on the go is the only way to have fun. Jared teaches her to expand her concept of fun.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/igotproblemz.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/igotproblemz.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinthemaldives.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinthemaldives.jpeg"
     }
   }
 ];
@@ -57,48 +57,48 @@ module.exports = madeForTV;
 /*
 
 {
-  "option":"1"
-  "mtitle":"Pride: A Seven Deadly Sins Story"
+  "option":"1",
+  "mtitle":"Drunk, Driving, and 17",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pride.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pride.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/drunkdrivingand17.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/drunkdrivingand17.jpeg"
   }
 },
 {
-  "option":"2"
-  "mtitle":"Infidelity Can Be Fatal"
+  "option":"2",
+  "mtitle":"A Nurse To Die For",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/infidelitycanbefatal.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/infidelitycanbefatal.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/anursetodiefor.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/anursetodiefor.jpeg"
   }
 },
 {
-  "option":"3"
-  "mtitle":"Murder at Blackthorne Manor"
+  "option":"3",
+  "mtitle":"If I Can't Have You",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderatblackthornemanor.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderatblackthornemanor.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
-  "option":"4"
-  "mtitle":"The Hand That Rob the Cradle"
+  "option":"4",
+  "mtitle":"Giving Hope: The Ni'Cola Mitchell Story",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thehandthatrobsthecradle.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thehandthatrobsthecradle.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/givinghopethenicolamitchellstory.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/givinghopethenicolamitchellstory.jpeg"
   }
 },
 {
-  "option":"5"
-  "mtitle":"Love in the Maldives"
+  "option":"5",
+  "mtitle":"The Blessing Bracelet",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinthemaldives.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinthemaldives.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theblessingbracelet.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theblessingbracelet.jpeg"
   }
 }
 
