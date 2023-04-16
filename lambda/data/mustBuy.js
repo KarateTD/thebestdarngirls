@@ -94,6 +94,15 @@ module.exports = mustBuy;
     }
   }
 
+    {
+  "option":"1",
+  "mtitle":"Are You There God? It's Me Margaret",
+  "review":"Are You There God? It's Me Margaret was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/areyoutheregoditsmemargaret.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/areyoutheregoditsmemargaret.jpeg"
+  }
+}
 
   
   {
@@ -154,4 +163,24 @@ module.exports = mustBuy;
       "largeImageRul":"https://thebestdarngirls.s3.amazonaws.com/large-image/air.jpeg"
     }
   }
+
+  {
+    "option":"5",
+    "mtitle":"Shazam! Fury of the Gods",
+    "review":"Billy wants his family to fight crime together, but everyone wants to explore separate interests. Mary understands what Billy is going through. In 5 months, Billy will age out of the system, and his foster parents, Victor and Rosa, can barely afford rent. Mary tells Billy to get a job and contribute or go to college. A therapist also diagnosed Billy with imposter syndrome because Billy feels like the Wizard picked the wrong person. Each time the family tries to save the day, they do more harm than good. The newspaper dubbed them the Philly Fiascos.<br/><br/>Freddy overhears a museum robbery over the scanners. Two women walked into the Acropolis Museum, stole an artifact, and turned the visitors into dust. Later, the Wizard enters Billy's dream with a warning. The daughters of Atlas - Hespera, Kalypso, and Anthea - entered Billy's realm. They want to find the golden apple and use its seeds to recreate the Tree of Life. Centuries ago, human wizards grew tired of the games the gods played with people. So they stole a branch off the Tree of Life, created the staff, took their magic, and trapped the daughters in their realm. They would stay powerless in their realm if the Wizard's staff stayed intact. Billy remembers having the Wizard's staff, breaking it in half, and leaving it after their battle with Dr. Thaddeus and the Seven Deadly Sins. They need to find the third sister, the staff, and the golden apple to save their realm from the Fury of the Gods.<br/><br/>Welcome D.C.E.U. fans to a sequel that's better than the first. Billy introduces the audience to his family and their growth over two years. It's not necessary to see the first movie to understand the second, but it helps you see the nuances and changes in Billy's family dynamics. The script never has a dull moment, and the jokes are often sly. Family bonds are at the forefront of this film. The graphics are stunning during the fights and doesn't distract the audience. If you are a fan of the first, this movie will not disappoint. So see it with your preteens and stay for the mid-credit and post-credit scenes. And yes, you get a D.C.E.U. surprise.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/shazamfuryofthegods.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/shazamfuryofthegods.jpg"
+    }
+  }
+
+  {
+  "option":"1",
+  "mtitle":"Renfield",
+  "review":"Real estate lawyer Robert Montague Renfield helped Count Dracula purchase a castle. Renfield hoped the deal will allow him to enter upper society and provide a better life for his family. However, he becomes Dracula's familiar for centuries. While drinking humans makes Dracula stronger, Renfield draws his from bugs.<br/><br/>Renfield attends a Dependent Relationships Addiction Anonymous Group, a.k.a DRAAG, in present-day New Orleans. Renfield never speaks during these meetings but helps the members by killing their abusive partners. After the group, Renfield follows an abusive boyfriend to his lair. He and his friends stole drugs from the most feared crime family in New Orleans, the Lobos. Renfield kills everyone inside as Teddy Lobo brings a hired assassin to get payback for the theft. Renfield beheads the hired gun, and Teddy flees the scene with kilos of drugs in his car. Teddy drives to a DUI checkpoint and sees Officer Rebecca Quincy working. Frustrated with her department's unwillingness to help, Rebecca returns to the scene and finds a pen with a restaurant logo. She goes to the restaurant to see if Teddy is there committing a crime.<br/><br/>Teddy's mother, Bella, has grown tired of Teddy's antics. She doesn't believe he has what it takes to lead the family. She wants Teddy to kill Rebecca and demonstrate that he can run the Lobos.<br/><br/>Renfield brings his latest kill to Dracula, who is still healing from an attack, but Dracula is unhappy. The blood isn't innocent and pure. Then Renfields sees Dracula's plan for world domination. Renfield goes to his favorite restaurant and prays for relief as each of Dracula's requests enters, including Rebecca. Renfield walks to the door to leave but sees Teddy and his henchman running toward the entrance with guns. Renfield hides with the other patrons, and Teddy puts a gun to Rebecca's head. Rebecca's courage inspires Renfield. He eats a bug and helps Rebecca take down Teddy's gang. Renfield runs to the group and begs for guidance. He needs to focus on himself. Dracula won't let Renfield leave without a fight and will destroy everything Renfield cares about, including Rebecca, to make Renfield return and suffer.<br/><br/>Based on vampire lore, this movie is funny and gory. The movie's core is surviving unhealthy relationships. Like most abusive relationships, Dracula retaliates when Renfield attempts to leave. He attacks Renfield's self-esteem and friends. Outside the plot, this film has fun, bloody fight scenes. Don't be fooled. Rebecca doesn't sit around screaming for help. She kills and fights her way out of situations. This new twist on a classic has something for everyone. This movie is for the M3GAN and Cocaine Bear fans.<br/><br/>4 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/renfield.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/renfield.jpeg"
+  }
+}
 */
