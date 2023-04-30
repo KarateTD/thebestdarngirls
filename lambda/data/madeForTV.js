@@ -1,47 +1,47 @@
 var madeForTV = [
+  {
+    "option":"1",
+    "mtitle":"Road Trip Hostage",
+    "review":"After numerous callbacks, student Emma gets her dream job dancing in a theater. She tells her mom, Hillary, about the opportunity and demanding schedule. Hillary gives Emma an ultimatum. If Emma leaves school, she has to leave Hillary's home. Emma calls Hillary's bluff, moves in with Katy, and drops out of school for the semester. As Emma moves into the building, Katy and Emma run into the landlord's son, Rick.<br/><br/>Rick goes to the home of his dad, Charles, to understand what happened to his credit cards. Charles cut him off because Rick isn't motivated to work. After a few choice words, Rick hits Charles in the head with an object and kills Charles. Rick's stepmother, Linda, locks herself in a bathroom and calls the police for help. Rick overhears the call, takes money out of the safe, and cash out of Charles's wallet. He runs home to grab a few items and calls a rideshare. He asks Emma to drive him to the airport because he is in a jam due to his rideshare cancellation. Emma agrees to take Rick to the airport. This decision will lead Emma on a highway to hell as Rick's hostage.<br/><br/>Inspired by actual events, this movie starts with a plausible setup. A naive person does a favor for someone she reasonably knows. Rick doesn't snap until his aunt Mary tells him the police are on his tail. Rick's choices continue to go downhill. Not surprising because he has a clear case of affluenza. The detectives help from the beginning and don't give up on Emma. This film is for you if you like yelling at the screen. Otherwise, you may want to skip it if bad choices make you angry.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/roadtriphostage.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/roadtriphostage.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Hidden Murder Island",
+    "review":"Fey survived two days in the woods alone with a head wound after her friend, Maddie, committed suicide. Curt, a newcomer to the island, rescued Fey, who suffers from amnesia. Fey's parents, Beth and Frank, invite Curt over every night for dinner. Fey wishes to leave the remote island for college in New York but hasn't gotten her acceptance letter.<br/><br/>After another family dinner with Curt, Fey washed dishes with Beth. Curt fires his new gun outside, and Fey has a panic attack with a seizure. She has visions of Maddie and red sand. Fey tells her family about the red sand, but no one believes her.<br/><br/>Fey and Frank go to the community college. Frank wants Fey to sign up for early courses while in high school, but she missed the deadline. As Frank uses his influence to enroll Fey, Fey leaves in disgust. Ali approaches Fey and asks to draw Fey for art class. They get to know each other, but a car backfiring causes Fey to have another panic attack. Fey texts Ali to join her at the Historical Society to find an old map and locate red sand. However, Sherriff Joe, Maddie's father, catches Fey and Ali breaking in and returns Fey home.<br/><br/>Beth suggests some retail therapy. During their shopping trip, Beth spies a woman, Chey, in the distance. Beth confronts Chey in the store and asks her if she is having an affair with Frank. Chey laughs and tells Beth that Beth is the cheater. Beth takes Fey for ice cream and explains that she cheated on Frank but returned after Fey's accident. Fey knew about the affair and forgave her mom. Beth breathes a sigh of relief and offers to help Fey find the red sand.<br/><br/>After searching for hours, Fey and Beth find the red sand beach with footprints. Fey remembers someone attacking Maddie and doesn't believe Maddie killed herself. She has another panic attack and wakes up at home. Fey runs to Joe's home with her new information. He doesn't believe her until he sees a button in her hand. Fey says it came from Maddie's jacket the day she died. Joe pulls it out of the closet and shows Fey it's not missing a button. He believes it came from a 3rd party. Fey won't stop until she uncovers what happened to Maddie.<br/><br/>Lifetimers, be prepared. This movie takes the scenic route to the point. And the final ten minutes give you the motive, perpetrator, and crime. Also, this film has text on the screen. So have your remote in hand in case you need to pause. The plot does drag, but you will have a searing hatred for one person at the end. That person is an egotistical, controlling, homophobic gaslighter that got off easy at the end.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hiddenmurderisland.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hiddenmurderisland.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Breaking Girl Code",
+    "review":"Andi fails another job interview after moving from New York to Boston to be with her boyfriend, Sean, a police officer. Andi goes on an app, BeFriends, to find women with common interests in her area. She matches with Farrah, and they decide to meet for coffee.<br/><br/>Farrah and Andi get along swimmingly and plan to meet at an exclusive club later. They take a few selfies, and Andi returns home. Farrah sends the photos to her boyfriend, Ethan, and Ethan thinks Andi is perfect for his friends. Farrah and Andi meet Farrah's other friends - Miranda, Kayla, and Holly - at the club. One of Ethan's friends, Jason, becomes aggressive with Andi, and she leaves.<br/><br/>Andi meets with Sean a few days later, and he breaks up with her. Now, she is in a new town with no boyfriend. Heartbroken, Andi calls Farrah for support. They decide to go to the club again, but Andi notices Kayla is missing from the group. Unbeknownst to Andi, Farrah is ignoring Kayla's calls because Jason drugged and sexually assaulted her after their first night at the club. Kayla tracks Farrah and Ethan down, she threatens to go to the police. But Ethan shows Kayla compromising photos of herself. Kayla leaves but vows to make them pay. Now Ethan is laser-focused on Andi because his friends think she is feisty. Andi must save herself after Farrah breaks the Girl Code.<br/><br/>Andi has tremendous growth throughout this movie. First, Andi follows Sean until he breaks up with her. Then, Andi befriends Farrah until she sees something is wrong with her. Next, Andi stands up for herself and others at the club. Finally, Andi teaches the audience compassion. While most may not agree with her decision, it's Andi's to make. Nevertheless, all viewers will agree with her final relationship status. Viewers can use this movie to start a complex, uncomfortable, yet needed conversation.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/breakinggirlcode.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/breakinggirlcode.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"A Pinch of Portugal",
+    "review":"Anna is a prep cook for Dining with Dean. It's a traveling cooking show that features recipes inspired by the local culture. The producer, Hope, catches Anna at her desk and tells Anna the next stop for the show is Portugal. However, Dean won't be coming. He is negotiating his contract and playing hardball. The show's makeup artist, Brooklyn, and cameraman, Russ, come with Hope and Anna.<br/><br/>After landing in Portugal, Anna decides to go to the local farmer's market and meet its manager, Lucas. Anna samples cheese, tomatoes, and carcaças. Lucas is dismayed that Dean isn't there, but Anna informs Lucas that Dean stays in the kitchen for interviews.<br/><br/>Hope continues to call Dean at the hotel, but his voicemail is full. If Dean doesn't return, the executives will cancel the show. Russ trusts that Anna can carry the show without Dean, and Hope agrees. Russ shoots Anna in the kitchen on the first day and sees Anna's nerves getting the best of her. Anna convinces the production team that on-location is best for her.<br/><br/>Anna starts to get close to Lucas during filming, and Russ can see it through his lens. Anna had a crush on Russ in the past and asked him out. However, he turned her down, but they continue to be friends today. As Anna walks a razor's edge between her feelings for Russ in the past and for Lucas now, can Anna handle Dean returning? What will Anna do with the three leading men in her life?<br/><br/>Unlike most Hallmark movies, this love triangle feels plausible. The audience will wonder who she will choose or if either man deserves her. Anna and Lucas share a passion for food and culture. The intensity between Anna and Russ still exists. Let's not forget that Anna worries about losing her job if and when Dean returns to the show. Anna has a lot of stress in a beautiful location. Her lavender rack of lamb will fill her table, but her journey of self-discovery will fill your heart.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/apinchofportugal.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/apinchofportugal.jpeg"
+    }
+  },
  {
-  "option":"1",
+  "option":"5",
   "mtitle":"Her Fiancé's Double Life",
   "review":"Darcy and her family will meet her sister's fiancé, Thomas, for the first time this weekend. Kristina, the family housekeeper, sees Darcy sitting outside in her car. Kristina coaxes Darcy out of her car with a lollipop. Darcy walks up to the front door but hears the unfamiliar sound of laughing coming from the backyard. Her family is chatting with Thomas and having a good time. However, something about Thomas doesn't sit well with Darcy. She asks her friend, Marta, to do an in-depth search. Marta couldn't locate Thomas, but she found a man matching his description with two dead wives. The man disappeared after the life insurance paid him. Darcy worries this man is Thomas, but can she get her family to believe her before it's too late?<br/><br/>First, Darcy's family starts off toxic. They believe she is jealous of her sister, Brea, and Douglas snaps at her every chance he gets. Second, Thomas talks too much, especially during the killing. However, he does give Darcy his motive for coming after Brea and killing his other two wives. And Lindsay Hartley got the Drew Barrymore treatment for this movie. So, Lifetimers shouldn't get too attached. While this movie feels like an old-school Lifetime drama, it falls short. Hopefully, part two will be better.<br/><br/>3 out of 5 stars.",
   "image":{
     "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/herfiancesdoublelife.jpeg",
     "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/herfiancesdoublelife.jpeg"
-  }
-},
-{
-  "option":"2",
-  "mtitle":"Secrets on Greek Row",
-  "review":"Senior Kaylee is the president of her sorority and selected her little sister, Winter, for the year. Winter looks around Kayley's room and sees an article about Kaylee's mother, Vera. In 2007, Vera won a sexual harassment suit against her boss, Mr. Lancaster. Before security threw Mr. Lancaster out of his office, he committed suicide. Kaylee gives Winter a gift to bond them, and Kaylee's best friend, Lori, enters with a present for Winter. Winter opens the baby items, and Kaylee explains that Lori is making fun of her for dating Wally. Wally is an 18-year-old frat student and three years younger than Kaylee.<br/><br/>Kaylee meets with her friends at the track to exercise, and Wally and his frat big brother, Chase, join them. Wally gives Kaylee an anniversary present but gets surprised by Vera walking onto the field. Wally introduces himself as Wally Lancaster. Vera and Kaylee discover Wally is Mr. Lancaster's son. Wally becomes overwhelmed with emotions and leaves.<br/><br/>Chase convinces Kaylee to attend a Toga Party thrown by his frat. Kaylee hopes Wally appears because he hasn't spoken to her in a week. Kaylee brings Chase bourbon to celebrate his 21st birthday, and Chase offers it to Wally. Later, Wally and Chase argue and get into a tug-a-war over Kaylee. Wally knocks into electrical equipment, falls into the pool, and gets electrocuted. He dies instantly.<br/><br/>Kaylee and Lori meet the new house mother, Caroline, before attending Wally's funeral. Vera goes to the gravesite to support Kaylee, and Wally's mom, Sabrina, snaps. Later, Kaylee picks flowers to put on Wally's grave, and Chase startles her. Detectives question Chase because Wally had GHB in his system, and Chase wants them to get their stories straight. Kaylee believes it was an unfortunate accident and tells Chase she will inform the police of that too. Kaylee sees a message written on the bathroom mirror after taking a shower. It says, 'We Know You Killed Wally.' With someone accusing her, Kaylee must discover what happened to Wally.<br/><br/>This movie covers a lot in two hours. Viewers get a poolside fight, graveyard smackdown, and battling sisters. The petty squabbles between Kaylee and her sorority slow the film's pace, but it picks up when Kaylee talks to Vera, Chase, or Sabrina. Of course, Kaylee makes foreseen Lifetime mistakes, but you can cross those off on your bingo card. This movie is a soap opera with Greek life, GHB, and death. It's fun to watch.<br/><br/>3.5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsongreekrow.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsongreekrow.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"A View To Kill For",
-  "review":"Molly and her husband, Charlie, meet with her lawyer because the lawyer has information about her father. Molly's mother, Sarah, and her father, Lionel, ended their relationship before Molly was born. Molly started the search for Lionel and hoped to know him. Unfortunately, Lionel died six months ago but left Molly a substantial inheritance worth millions and a house.<br/><br/>Molly and her family arrive at the massive home and wave to their neighbor, Justine, but she doesn't reciprocate. Their realtor, Rebecca, greets them. A warning scrawled on the wall frightens Molly and Charlie during their walk-through. Rebecca believes it was Lionel's fiancé, Darla. Lionel wrote Darla out of the will and left everything to Molly without telling Darla.<br/><br/>Molly goes to the local café, and Theresa calls Molly over to her table. Theresa explains that Justine wanted to buy Lionel's home, but he wouldn't sell it. Then, Theresa bamboozled Justine into inviting Molly to the country club. Later, Molly snags an invite for her and her family to attend the club's gala.<br/><br/>Molly sticks out at the gala by wearing the wrong dress and Justine's signature color. As Molly walks away, Darla enters and angrily confronts Molly about acquiring the home. Theresa confesses that Lionel was afraid of a woman after his money. She will give Molly more information later. Molly gathers herself in the hallway and hears a scream from the ballroom. Theresa is dead at her table. Molly loses her only friend in town but refuses to let that scare her away. Instead, it's the fuel she needs to investigate who is threatening her family and why.<br/><br/>Molly and Charlie ignore the fake blood on the wall, break-ins, and leaking gas. However, Molly finally pays attention when Theresa dies. This movie gives the viewers plenty of suspects. Experienced Lifetimers will spot the suspect within the first half, but you won't care because this film is full of drama. You will beg for Molly to slap someone's smug face. Viewers will come for the mystery, but stay for the tea.<br/><br/>3.5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aviewtokillfor.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aviewtokillfor.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Pretty Stoned",
-  "review":"Stella wakes up and dreads going to work because she wants to celebrate 4/20 the proper way. She got some product, Pink Hashmina, from her connect Layla. And Stella will sell it to Tick Tock after work. Tick Tock is dangerous and works for the most notorious drug queen pin in Atlanta, Madam X.. Stella says goodbye to her roommate, Blaize, and goes to the salon to do makeup for a wedding.<br/><br/>Darcy gives herself another daily affirmation. She lives life by the rules but suffers from performance anxiety. She comes to work and gets a demanding bride, but nothing compares to Stella's criticism. After they argue, Stella pretends to feel faint, and their boss, Tamika, allows Stella to leave early. The wedding party hates Darcy's work, and Tamika fires Darcy. Darcy blames Stella and calls Stella to confront her. She drives to Stella's home and pushes past Blaize. She finds Stella's stash, flushes it down the toilet, and goes to brunch with her friends.<br/><br/>Stella returns to her room and blows her high when she sees the Pink Hashmina is gone. She finds Darcy at brunch, and they fight in the middle of the restaurant. Stella informs Darcy that Tick Tock will kill her if she doesn't deliver the drugs. Stella wants Darcy to come and explain her actions to Layla. Darcy says no but succumbs to Stella's threats. These two will embark on a wild adventure that includes hit-and-runs, sex dungeons, edibles, parkour, and a police chase.<br/><br/>The only way to describe this film is dumb-funny. It follows the rules of How High and Half-Baked. The plot gets crazier and more elaborate with each step in Stella and Darcy's journey. When the story settles down, you find they have insecurities and dreams. They learn from each other and grow. Don't watch this movie expecting Oscar-worthy performances. Viewers should expect swearing, smoking, and hallucinations.<br/><br/>3 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/prettystoned.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/prettystoned.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"Chaos on the Farm",
-  "review":"Kathy meets Jessica at the grave of Jessica's mother, Betty. Betty died over a year ago, leaving a substantial inheritance to Jessica and Betty's sister, Susan. Kathy sees Jessica is deep in the grieving process. Kathy thinks Jessica needs family. She asks Jessica to drive to the country and deliver Susan's check.<br/><br/>Jessica goes home to her boyfriend, Sam, and updates him about the check. When he sees a physical cheque worth $250,000, he contemplates Jessica keeping it. Jessica wants to see her aunt and uncle but doesn't want to give them the money first. She wants to connect and understand them before handing them their inheritance. So Sam chooses to go to Susan and Lawrence's farm with Jessica and unplug. They have no idea about the chaos that awaits them.<br/><br/>In the opening scene, viewers see someone on a farm die, but few will know how it ties into the plot. Then, Sam and Jessica fall into the Lifetime traps. The farm has limited cell service, no WiFi, and is very remote. Later, they find an answering machine with dozens of messages from Kathy. Soon, the audience will put it together and see the dark cloud looming over the farm. The second half of the movie is Sam and Jessica's escape. This intriguing movie attempts to be scary, but it won't keep you up at night.<br/><br/>3.5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/chaosonthefarm.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/chaosonthefarm.jpeg"
   }
 }
 ];
@@ -58,38 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Road Trip Hostage",
+  "mtitle":"Abducted on Prom Night",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/roadtriphostage.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/roadtriphostage.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedonpromnight.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedonpromnight.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Hidden Murder Island",
+  "mtitle":"Don't Sell My Baby",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hiddenmurderisland.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hiddenmurderisland.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dontsellmybaby.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dontsellmybaby.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Breaking Girl Code",
+  "mtitle":"Spring Breakthrough",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/breakinggirlcode.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/breakinggirlcode.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/springbreakthrough.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/springbreakthrough.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"A Pinch of Portugal",
+  "mtitle":"Lethal Legacy",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/apinchofportugal.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/apinchofportugal.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lethallegacy.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lethallegacy.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Hearts in the Game",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/heartsinthegame.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/heartsinthegame.jpeg"
   }
 }
 

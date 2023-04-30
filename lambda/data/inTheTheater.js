@@ -56,9 +56,34 @@ module.exports = inTheTheaters;
 
 /*
 
+{
+  "option":"1",
+  "mtitle":"Big George Foreman: The Miraculous Story of the Once and Future Heavyweight Champion of the World",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/biggeorgeforeman.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/biggeorgeforeman.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Sisu",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sisu.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sisu.jpeg"
+  }
+}
 
-
-
+{
+  "option":"1",
+  "mtitle":"Guardians of the Galaxy Vol. 3",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gaurdiansofthegalaxyvol3.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gaurdiansofthegalaxyvol3.jpeg"
+  }
+}
 
 
 */

@@ -129,7 +129,7 @@ module.exports = mustBuy;
     "mtitle":"Champions",
     "review":"Champions was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":""
+      "re":"B0BX8D4DVK"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/champions.jpg",
@@ -193,9 +193,25 @@ module.exports = mustBuy;
     "option":"5",
     "mtitle":"John Wick: Chapter 4",
     "review":"John trains as the Bowery King brings him a new suit. After hiding underground, John travels to Morocco to meet the new Elder of the High Table. John asks the Elder for his ring and freedom. The Elder tells John the wedding ring is long gone with the previous Elder. And they won't free John either. John stands and shoots the Elder in the head.<br/><br/>Marquis Vincent de Gramont visits the New York Continental Hotel. He strips Winston of his title and condemns the hotel because Winston didn't kill John. And he wants to put an end to John Wick. It starts with New York. Vincent will make every city respect the High Table by demolishing John's flagship hotel. Vincent pulls out his gun and kills Charon. Charon is Winston's consequence for deceiving the High Table.<br/><br/>Vincent leaves New York and travels to Paris. He summons Caine, John's friend and a retired assassin for the High Table, for a meeting. Vincent gives Caine a card with his mark's name: John Wick. Caine sighs and agrees.<br/><br/>John runs to the Osaka Continental to meet with the manager, Koji, against the wishes of his concierge, Akira. No one sees Tracker in the lobby with a notebook full of information about John Wick. The bounty of $15,000,000 isn't enough for Tracker, but he will keep an eye on John while it rises. John tells Koji that he plans to kill every member of the High Table. Koji warns John that John's path will only lead to more killing and destruction.<br/><br/>John meets with Winston, who agrees with Koji, to offer condolences for the Continental and Charon. Winston offers John a better idea. Winston tells John to request a duel against Vincent. According to legend, a family must sponsor him in the duel, and he tore his ticket to gain passage. John needs to find a new family, obtain a ticket, request a duel, and kill Marquis Vincent de Gramont to free himself of the High Table for good.<br/><br/>The fourth installment of John Wick packs more plot than its predecessors but maintains all the action. The battles were well-timed, in sync with the music, and innovative. If you haven't seen the previous three films, watch them before watching this film. The movie doesn't take the time to catch viewers up on what happened and why. This film is funnier and wiser than the first three films. Don't worry, because this film has a lot of blood, guns, axes, and nunchucks. So it has all the cringe-inducing violence you love. The downside to this film is the unrealistic survival. Viewers could believe one man could live through these battles, but a 50-foot drop onto the pavement is too far for any stretch of your imagination. This movie is a fitting conclusion for John Wick fans with new characters and locations. Also, it has one post-credit scene at the end.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/johnwickchapter4.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/johnwickchapter4.jpg"
+    }
+  }
+
+   {
+    "option":"5",
+    "mtitle":"The Super Mario Bros Movie",
+    "review":"Mario and Luigi quit their job at Spike's Wrecking Company to start their plumbing business. They watch their new commercial in a restaurant, and Spike laughs at them. Mario comes home to a family that loves mushrooms and criticizes his career choice because Mario spent his life savings on the commercial. However, Luigi believes in Mario. During their conversation, Mario hears a news report on TV. A main water pipe burst in Brooklyn, and it's flooding. Mario decides to save Brooklyn.<br/><br/>Mario and Luigi drive to Brooklyn, but Mario can see the workers are digging in the wrong spot. Mario opens a maintenance hole cover and jumps underground with Luigi. They are pulled into a Warp Pipe but get separated along the way. Mario sees Luigi heading to darkness and fire, but he lands in the Mushroom Kingdom.<br/><br/>He attempts to touch one, and a mushroom jumps and introduces himself as Toad. Mario describes where Luigi landed, and Toad knows it well. It's the Dark Lands. Koopa King Bowser took over the area and stole the Super Star. Toad knows that Princess Peach is planning a preemptive strike to keep King Bowser's reign from spreading. So Toad takes Mario to Princess Peach to get her help.<br/><br/>After talking to her counsel, Princess Peach knows she will need an army to defeat King Bowser. The closest army is in the Jungle Kingdom, and King Cranky Kong rules it. King Cranky Kong refuses to let Princess Peach uses his army, but Mario won't take no for an answer because he wants to save Luigi. So King Cranky Kong will let Princess Peach use his army, but only if Mario can beat his son, Donkey Kong. Mario will fight with power-ups, flying fists, and a catsuit. However, they have Bowser all wrong. He doesn't want to take over the Mushroom Kingdom. He stole the star to impress and marry Princess Peach.<br/><br/>This feast for the eyes combines Super Mario Bros, Mario Kart, and Donkey Kong. It has hidden easter eggs throughout the movie for long-time gaming fans. The colors are vibrant. They teleport you to a universe you may or may not know. And video gamers, be ready for the training montage. It will make your hands twitch for the controller. The movie provides humor for kids and adults without being raunchy or sneaky. The soundtrack includes music from all genres and decades. And make sure you stay for the mid and post-credit scenes.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesupermariobrosmovie.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesupermariobrosmovie.jpeg"
     }
   }
 */
