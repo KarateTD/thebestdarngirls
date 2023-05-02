@@ -1,6 +1,18 @@
 var mustBuy = [
-   {
+  {
     "option":"1",
+    "mtitle":"Champions",
+    "review":"Champions was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":"B0BX8D4DVK"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/champions.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/champions.jpg"
+    }
+  },
+   {
+    "option":"2",
     "mtitle":"Cocaine Bear",
     "review":"Andrew C. Thorton the second drops bags of cocaine from a plane onto the Chattahoochee-Oconee National Forest in 1985. Andrew straps the final duffle to his harness and prepares to jump out of the plane. However, Andrew knocks himself unconscious on the airplane's door and dies. Knoxville resident, Fred Myers, finds Andrew's body and alerts the police. Detective Bob discovers Andrew works for Missouri dealer Syd and summarizes there are more drugs around the area.<br/><br/>Syd calls Daveed to the local restaurant. Syd wants Daveed to find his missing cocaine and take his son, Eddie, with him. And Syd must get the drugs back before the Columbians start asking questions. Daveed locates Eddie at a bar and convinces him to come to the forest to find the cocaine.<br/><br/>Sari informs her daughter, Dee Dee, that they won't paint the falls this weekend. Once Sari leaves, Dee Dee's friend, Henry, comes to the house. Dee Dee has a new plan. They will skip school and go to the forest so she can paint the falls without Sari. The school calls Sari, and she returns home and finds Henry's backpack. Inside, Sari finds a map of the falls and heads to the forest after them.<br/><br/>Unbeknownst to anyone, a black bear found several kilos of drugs and ate them. Now, an apex predator is high on cocaine, and Dee Dee, Henry, Sari, Eddie, Daveed, and Bob are all headed in its direction. This doped bear will leave a trail of blood, guts, bones, and drool that no one will forget.<br/><br/>Viewers must prepare to laugh from beginning to end with amusing jump scares. While the plot is nothing like the real story, it uses the legend as its premise. Parents should understand this film is not for young kids. The editor added real news clips to the movie to bring you back to the period with the 'Say No To Drugs' and 'This is Your Brain On Drugs' campaigns. It also includes the report of Fred finding the body. Of course, the bear isn't flawless CGI, but that helps viewers see the movie as a comedy instead of pure horror. See this movie in theaters if you need a good laugh with your jump scare. And it has two post-credit scenes.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Missing",
     "review":"June attempts to adjust to her mother, Grace, dating Kevin. Kevin and Grace decided to take a vacation to Columbia. However, June is upset the trip overlaps Father's Day. June's father, James, died from a brain tumor when she was a young child. Although June is 18, Grace asked her friend, attorney Heather, to look in on June occasionally. Grace and Kevin leave in an Uber, and June kicks off a slew of alcohol-fueled parties.<br/><br/>After a week, June gets a reminder to pick up Grace and Kevin from the airport. June sets up her camera, makes a sign saying 'Welcome back from prison mom,' and waits. June waits for hours, but Grace and Kevin never show. Grace calls Heather, and Heather sends Grace an international missing persons form and calls FBI Agent Park who can assist. Agent Park informs June that the United States doesn't have jurisdiction in Columbia. June calls Grace and Kevin's hotel and asks for their whereabouts. With the help of Google translate, she uncovers that Grace and Kevin left without their luggage. June looks at photos of the hotel online and sees security cameras. June decides to find Grace with or without anyone's help. She will uncover Kevin's lies, Grace's secrets, and the dark side of internet sleuthing.<br/><br/>This film echoes the same heart-pounding mystery you get from Searching, but viewers don't need to watch the previous movie to watch Missing. Viewers see the family did have a close relationship before James died, but teen rebellion drove a wedge between them. The film's technology use helps guide viewers through June's thought process. June finds locations, translates languages and uses live streaming to find her mother. With June's camera focused on her, you see the dread as she discovers more horrific information. Be ready to yell at the screen and cheer in relief. If you like Searching, you will love its standalone sequel.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"M3GAN",
     "review":"Gemma created the latest toy craze, PurrPetual Pets. But her boss, David, wants her to make a new model at a lower price. Instead of working on the updated Pet, Gemma and her team, Tess and Cole, keep working on the Model 3 Generative Android, M3gan, for short. Gemma tries a simple demo, but the doll's face melts. David leaves the room enraged and demands Gemma scrap M3gan and begin working on a cheaper Pet. Then Gemma gets a phone call from the hospital in Oregon. Her sister, Ava, and brother-in-law, Ryan, died in a car accident, but their daughter, Cady, survived.<br/><br/>Gemma moves Cady into her home but doesn't have toys, books, or a dedicated space for Cady. Cady comes into Gemma's workshop and shows Gemma her drawings. So, Gemma shows Cady a robot she made in college, Bruce. It's a motion caption robot using gloves to interact. Cady comments that it's a cool toy and the only one she would ever need. Gemma, Tess, and Cole work overtime to fix M3gan.<br/><br/>They invite David to a private meeting and have him watch M3gan interact with Cady. David loves M3gan and wants to present it to the board immediately. Gemma thinks the bond will help Cady recover after losing her parents, allow her to work, and put her company at number one. She wants Cady to be happy, the same as M3gan. Only M3gan will kill for it because Gemma forgot rule number one of toy designing: parental controls.<br/><br/>While Chucky starts creepy, M3gan is a lifesize Barbie on steroids. In true Blumhouse fashion, this script is funny, scary, and twisted. And it sets itself apart from other AI and doll movies because it discusses attachment theory. Cady becomes frighteningly dependent on M3gan and physically attacks Gemma when she can't have M3gan. While we are nowhere near this level of AI, Cady's misplaced attachment is the real threat in society today. Audiences will cringe, laugh, and OMG as M3gan takes over. This film is definitely worth a watch and discussion.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"A Man Called Otto",
     "review":"Otto wakes up, goes to the hardware store, checks on the neighborhood, and goes to work. His co-workers surprise Otto with a retirement party. Otto scoffs at the Dyn and Merika signs for the new condos. The realtors are trying to entice Otto and his neighbors to sell, but they remain firm.<br/><br/>After Otto's neighborhood checks, he helps his new neighbor, Marisol, and her husband, Tommy, and their two daughters parallel park their moving trailer. Otto cancels his utilities, anchors a rope to the ceiling, and hangs himself. Otto sees visions of his late wife, Sonya, as he slips away, but the metal ring breaks before he dies. Otto isn't happy to be alive. Instead, he is upset that you can't find decent material these days. Otto doesn't see the point of living without Sonya, and Otto will try again to end it. However, the neighborhood he pushed away will unknowingly come to his rescue, and he theirs.<br/><br/>Based on A Man Called Ove by Fredrik Backman and a remake of A Man Called Ove, this movie weaves humor and sadness expertly. Otto is a grumpy, older man screaming at the changing of the times in the beginning. However, you get to know his story during each attempt. Otto's cantankerous behavior is valid, although misdirected. If you cried at the beginning of Up, be prepared to have your tissues ready. This film will stay with you.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amancalledotto.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amancalledotto.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Devotion",
-    "review":"Lieutenant Tom Hudner enters the locker room to greet his fellow soldiers and hears someone mumbling to themselves. Before Tom can investigate, his airmen walk in, say hello, and rib him. One soldier, Ensign Jesse Brown, is standoffish, but Tom shakes his hand. Tom attempts to get closer to Jesse, but Jesse keeps his guard up. Until Tom offers Jesse a ride home because Jesse's car broke down. Tom meets Jesse's wife, Daisy, and their daughter, Pam. Daisy invites Tom in for a beer. She worries because the U.S. government gave the airmen their first mission. They will lend air support to the Korean War. Pam makes Tom promise to watch over Jesse. A new aircraft, some backward attitudes, and heavy firefights will test Tom's devotion to his promise.<br/><br/>Based on Devotion: An Epic Story of Heroism, Friendship, and Sacrifice by Adam Makos, this movie stands out from other historical tellings because there isn't a bad guy. Although Jesse receives media attention for his race and naval status, he doesn't want that to define him. Only his dedication to the country. Tom is a true definition of an ally. He quickly points out others' wrongdoings and listens to Jesse with an ear of compassion, not pity. This movie will leave a tear in your eye and gives these men their due.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0BMJS881K"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/devotion.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/devotion.jpeg"
     }
   }
 ];
@@ -121,19 +121,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/avatarthewayofthewater.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/avatarthewayofthewater.jpeg"
-    }
-  }
-
-    {
-    "option":"1",
-    "mtitle":"Champions",
-    "review":"Champions was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0BX8D4DVK"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/champions.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/champions.jpg"
     }
   }
 
