@@ -201,4 +201,30 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesupermariobrosmovie.jpeg"
     }
   }
+
+   {
+    "option":"1",
+    "mtitle":"Guardians of the Galaxy Vol. 3",
+    "review":"The Guardians of the Galaxy have set up their headquarters on Knowhere. Quill drinks himself into oblivion daily to forget the woman he lost twice. After Quill passes out, Nebula puts him into bed. Adam crashes into Rocket and rips through Knowhere. Adam flies away as the Guardians tend to Rocket's wounds. Quill wakes from his stooper, blames himself, and puts a medic pack on Rocket. However, it doesn't heal Rocket. It causes him to convulse. Nebula demands they take the pack off and bring Rocket to the ship.<br/><br/>Nebula links herself to Rocket's circuits and scans him. She discovers a kill switch on his heart, but they need a passkey to remove it. Nebula uncovers that Orgo Corp created the kill switch on the Orgosphere planet. Nebula knows it has a force field and calls a contact to enter the planet's atmosphere. They enter, and Quill speaks to The Ravagers because he wears their flames. However, Stakar isn't Nebula's contact; Gamora is. She is with Stakar's faction and wants 100,000 units from the Guardians to help. Nebula agrees to the terms, and the team sets on their mission to get the passkey to save Rocket's life.<br/><br/>Adam returns to his mother, Ayesha, without 89P13, and the High Evolutionary is furious. The High Evolutionary, Dr. Herbert Wyndham, reminds Ayesha of his strength because they and their birthing pods are his creation. Ayesha vows Adam will get 89P13 and ensures her promise by coming with Adam. Herbert knows exactly where 89P13 and his friends will go to save him and gives Ayesha and Adam the coordinates.<br/><br/>While in a coma, Rocket thinks about his time in a cage before Herbert started experiments on him. 89P13 was Herbert's first shining light of success. He wanted to extract Rocket's brain to study what made Rocket special. Rocket escaped, but Herbert never stopped looking for Rocket. Herbert sends Ayesha and Adam to get Rocket back but has a backup plan to guarantee he gets his ultimate prize.<br/><br/>Fans watch this ragtag bunch become a team in the first movie. In the second, diehards see them become a family. Now, prepare to watch the Guardians discover themselves. You will get eye-popping graphics, funny commentary, and assorted genres of music in this Guardians' farewell, along with a new opener dedicated to your beloved favorites. Viewers should watch Guardians of the Galaxy Volume 1, Volume 2, Avengers: Infinity Wars, and Avengers: End Game. The third installment makes jokes about the past, brings up previous events, and returns old characters for a final send-off. Every Guardian gets an end to their tale, and audiences will leave the theater knowing that the Guardians will be alright. This film has mid- and post-credits scenes. And the final message will make Marvel fans smile.<br/><br/>5 out of 5 stars.",
+     "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gaurdiansofthegalaxyvol3.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gaurdiansofthegalaxyvol3.jpeg"
+    }
+  }
+
+  {
+    "option":"5",
+    "mtitle":"Guy Ritchie's The Covenant",
+    "review":"Master Sergeant John Kinley lost his last interpreter after a checkpoint bombing and returned to base to select a new one. John learns that Ahmed is the best but has a problem with authority. John picks Ahmed. Ahmed spots a traitor in John's group, and he saves the team from an ambush.<br/><br/>John's team gets intel about an Afghan I.E.D. manufacturing station. John, Ahmed, and the platoon fight the guards but come under heavy fire. Only John and Ahmed survive and escape. However, John's injuries leave him with immense pain, a concussion, and unable to walk. He has to get John to safety 100 klicksvaway through rugged terrain.<br/><br/>John wakes up in a hospital with papers to return home to his family. After a few weeks, Sergeant Declan O'Brady comes to John's home to check on John's progress. He tells John that Ahmed, Ahmed's wife, Basira, and their three-month-old baby had to flee and hide underground. Ahmed and his family face execution if they can't get Special Immigrant Visas and a flight out. He realizes phone calls aren't enough. John must return to a warzone to save the man who risked everything to rescue him.<br/><br/>This movie is a collection of stories from interpreters who helped American troops while risking their lives and the lives of their families. America promised these brave interpreters and employees visas for their sacrifice. However, political and government red tape left many behind to suffer, run, and die. The action can be intense and cause flashbacks if you have war-related PTSD. The combat sequences are gritty, heart-pounding, and graphic. This movie is a call to action that these troops will make sure America keeps its promise: No One Left Behind.<br/><br/>4.5 out of 5 stars.",
+     "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecovenant.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecovenant.jpeg"
+    }
+  }
 */

@@ -1,49 +1,49 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Road Trip Hostage",
-    "review":"After numerous callbacks, student Emma gets her dream job dancing in a theater. She tells her mom, Hillary, about the opportunity and demanding schedule. Hillary gives Emma an ultimatum. If Emma leaves school, she has to leave Hillary's home. Emma calls Hillary's bluff, moves in with Katy, and drops out of school for the semester. As Emma moves into the building, Katy and Emma run into the landlord's son, Rick.<br/><br/>Rick goes to the home of his dad, Charles, to understand what happened to his credit cards. Charles cut him off because Rick isn't motivated to work. After a few choice words, Rick hits Charles in the head with an object and kills Charles. Rick's stepmother, Linda, locks herself in a bathroom and calls the police for help. Rick overhears the call, takes money out of the safe, and cash out of Charles's wallet. He runs home to grab a few items and calls a rideshare. He asks Emma to drive him to the airport because he is in a jam due to his rideshare cancellation. Emma agrees to take Rick to the airport. This decision will lead Emma on a highway to hell as Rick's hostage.<br/><br/>Inspired by actual events, this movie starts with a plausible setup. A naive person does a favor for someone she reasonably knows. Rick doesn't snap until his aunt Mary tells him the police are on his tail. Rick's choices continue to go downhill. Not surprising because he has a clear case of affluenza. The detectives help from the beginning and don't give up on Emma. This film is for you if you like yelling at the screen. Otherwise, you may want to skip it if bad choices make you angry.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Abducted on Prom Night",
+    "review":"Four weeks ago, a man in a fake rideshare car tried to kidnap Kimber after a party. Kimber's mom, Principal Shawna, wants to keep Kimber under lock and key. Lately, Kimber acts out in class and cheats. Her teacher sends Kimber to Shawna's office. Kimber leaves in a huff and joins her friend, Everleigh.<br/><br/>After classes, Kimber finds a prom-posal on her locker from her boyfriend, Austin. Kimber excepts Austin's invitation. Everleigh and Kimber walk down the school steps as Joan approaches. Joan tells Kimber that she misses their friendship and would like to spend more time together like they did when they were best friends. Kimber asks Joan to be her plus 2 for prom, much to Everleigh's chagrin.<br/><br/>Austin gets a limo for himself, Kimber, Joan, Everleigh, and Everleigh's boyfriend, Luke. The driver tells them they can't drink, rough house, or put their limbs outside the limo. And Shawna tells them no alcohol. They agree to the driver and Shawna's conditions. Austin snuck alcohol on board, much to Kimber's surprise. Everyone but Joan does shots as the driver takes them to Austin's next surprise. He decided to take Kimber and the group to the place he and Kimber had their first date. As they laugh, the driver makes a video of them drinking. He threatens to take them home if they don't abstain from alcohol for the remainder of the night and relinquish their phones. The driver puts their phone under the front wheel, gets in the limo, and drives over them. It doesn't take long for the group to realize they are going in the wrong direction. The driver locks the doors, rolls up the windows, and tells them to do what he says or die.<br/><br/>Wow, there are so many mistakes it's difficult for viewers to feel bad for them. And their mistakes cost one member of the group their life. There are hints of the motive sprinkled throughout the plot. And the perpetrator's monologue will tie it all together. When the dust settles, one person will be the undeniable villain of this story, and it's not the kidnapper.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/roadtriphostage.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/roadtriphostage.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedonpromnight.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedonpromnight.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Hidden Murder Island",
-    "review":"Fey survived two days in the woods alone with a head wound after her friend, Maddie, committed suicide. Curt, a newcomer to the island, rescued Fey, who suffers from amnesia. Fey's parents, Beth and Frank, invite Curt over every night for dinner. Fey wishes to leave the remote island for college in New York but hasn't gotten her acceptance letter.<br/><br/>After another family dinner with Curt, Fey washed dishes with Beth. Curt fires his new gun outside, and Fey has a panic attack with a seizure. She has visions of Maddie and red sand. Fey tells her family about the red sand, but no one believes her.<br/><br/>Fey and Frank go to the community college. Frank wants Fey to sign up for early courses while in high school, but she missed the deadline. As Frank uses his influence to enroll Fey, Fey leaves in disgust. Ali approaches Fey and asks to draw Fey for art class. They get to know each other, but a car backfiring causes Fey to have another panic attack. Fey texts Ali to join her at the Historical Society to find an old map and locate red sand. However, Sherriff Joe, Maddie's father, catches Fey and Ali breaking in and returns Fey home.<br/><br/>Beth suggests some retail therapy. During their shopping trip, Beth spies a woman, Chey, in the distance. Beth confronts Chey in the store and asks her if she is having an affair with Frank. Chey laughs and tells Beth that Beth is the cheater. Beth takes Fey for ice cream and explains that she cheated on Frank but returned after Fey's accident. Fey knew about the affair and forgave her mom. Beth breathes a sigh of relief and offers to help Fey find the red sand.<br/><br/>After searching for hours, Fey and Beth find the red sand beach with footprints. Fey remembers someone attacking Maddie and doesn't believe Maddie killed herself. She has another panic attack and wakes up at home. Fey runs to Joe's home with her new information. He doesn't believe her until he sees a button in her hand. Fey says it came from Maddie's jacket the day she died. Joe pulls it out of the closet and shows Fey it's not missing a button. He believes it came from a 3rd party. Fey won't stop until she uncovers what happened to Maddie.<br/><br/>Lifetimers, be prepared. This movie takes the scenic route to the point. And the final ten minutes give you the motive, perpetrator, and crime. Also, this film has text on the screen. So have your remote in hand in case you need to pause. The plot does drag, but you will have a searing hatred for one person at the end. That person is an egotistical, controlling, homophobic gaslighter that got off easy at the end.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Don't Sell My Baby",
+    "review":"Nicolette regrets missing a phone call from her friend, Brooke. Brooke was nine months pregnant when she disappeared three days ago. Brooke and Nicolette lived in the same group home run by Rachel. Nicolette goes to school, and the new teacher, Sandy, takes Nicolette's phone for texting in class. Nicolette runs to the bathroom to regurgitate before protesting. After school, Sandy passes Nicolette waiting at the nurse's station again and uses her master key to get into the office. She grabs a pregnancy test for Nicolette. The test is positive, and Sandy shares her teen pregnancy story.<br/><br/>Nicolette gets a call from Brooke after Nicolette leaves school. Brooke runs towards Nicolette, but a car hits and kills Brooke. Detective Holmes brings a traumatized Nicolette home. Nicolette remembered Brooke wasn't pregnant anymore. So she wonders what happened to the baby.<br/><br/>Nicolette worries about her future, but the answer arrives on her doorstep. Abigail from Loving Arms Adoption Agency heard about Nicolette's pregnancy and wants to help. Nicolette discusses the options with Sandy, Jake, and her friend, Vanesha, but Nicolette is uncertain. Nicolette is in danger no matter what decision she makes. Abigail and her associates are dangerous and will kill to get Nicolette's baby.<br/><br/>Nicolette starts as a typical Lifetime brat lashing out at the world for her decisions. However, Sandy can see through her tough exterior. She relates to Nicolette and offers kindness with every shot of Nicolette's venom. Audiences will feel that Sandy is overstepping at first. However, her loving nature will ease your concerns as someone drugs and kidnaps Nicolette. And the end will put a smile on your face.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hiddenmurderisland.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hiddenmurderisland.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dontsellmybaby.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dontsellmybaby.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Breaking Girl Code",
-    "review":"Andi fails another job interview after moving from New York to Boston to be with her boyfriend, Sean, a police officer. Andi goes on an app, BeFriends, to find women with common interests in her area. She matches with Farrah, and they decide to meet for coffee.<br/><br/>Farrah and Andi get along swimmingly and plan to meet at an exclusive club later. They take a few selfies, and Andi returns home. Farrah sends the photos to her boyfriend, Ethan, and Ethan thinks Andi is perfect for his friends. Farrah and Andi meet Farrah's other friends - Miranda, Kayla, and Holly - at the club. One of Ethan's friends, Jason, becomes aggressive with Andi, and she leaves.<br/><br/>Andi meets with Sean a few days later, and he breaks up with her. Now, she is in a new town with no boyfriend. Heartbroken, Andi calls Farrah for support. They decide to go to the club again, but Andi notices Kayla is missing from the group. Unbeknownst to Andi, Farrah is ignoring Kayla's calls because Jason drugged and sexually assaulted her after their first night at the club. Kayla tracks Farrah and Ethan down, she threatens to go to the police. But Ethan shows Kayla compromising photos of herself. Kayla leaves but vows to make them pay. Now Ethan is laser-focused on Andi because his friends think she is feisty. Andi must save herself after Farrah breaks the Girl Code.<br/><br/>Andi has tremendous growth throughout this movie. First, Andi follows Sean until he breaks up with her. Then, Andi befriends Farrah until she sees something is wrong with her. Next, Andi stands up for herself and others at the club. Finally, Andi teaches the audience compassion. While most may not agree with her decision, it's Andi's to make. Nevertheless, all viewers will agree with her final relationship status. Viewers can use this movie to start a complex, uncomfortable, yet needed conversation.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Spring Breakthrough",
+    "review":"Monica looked forward to celebrating 20 years with her company but got fired. Monica tells her friend, Denise, but wants to hold off on telling her daughter, Vivian. Vivian will return from law school to spend her break with Monica. But one phone call changes all of Monica's plans. Vivian's boyfriend, Shawn, proposed to Vivian, and she accepted. Shawn's parents, Joy and Forrest, want to celebrate their engagement at Forrest's sister's hotel. Monica believes Vivian is rushing into this relationship and plans to change Vivian's mind before Vivian makes her mistakes. Monica wants to keep her job loss a secret until she fixes Vivian's situation.<br/><br/>At the airport, Monica forgets her book and goes to the airport store to buy another. She runs into a handsome man that compliments her reading choices. She admits her attraction to Denise, but it dissipates when the man plays with a soccer ball. She calls him a man-child and reads her book.<br/><br/>Monica meets with Joy and Forrest and becomes wary when they don't share her sentiment about Vivian and Shawn's engagement. They inform Monica that Shawn's godfather, Clark, will arrive late. To Monica's surprise, her mystery man is Clark. Monica puts up emotional walls against Clark while driving a wedge between Vivian and Shawn and keeping her job loss a secret. However, Monica learns that punishment can come in the form of an answered prayer.<br/><br/>Be ready for an emotional roller coaster with a danceable backing track. Monica's concerns are valid because Vivian is young and just starting her career. However, the script establishes that Monica is steadfast in her work and home life. She is a woman on fire, holding gasoline. The plot has amazing laughs with body counts, wild dancing, and quips. Be ready to enjoy this new H.M.M. classic.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/breakinggirlcode.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/breakinggirlcode.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/springbreakthrough.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/springbreakthrough.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"A Pinch of Portugal",
-    "review":"Anna is a prep cook for Dining with Dean. It's a traveling cooking show that features recipes inspired by the local culture. The producer, Hope, catches Anna at her desk and tells Anna the next stop for the show is Portugal. However, Dean won't be coming. He is negotiating his contract and playing hardball. The show's makeup artist, Brooklyn, and cameraman, Russ, come with Hope and Anna.<br/><br/>After landing in Portugal, Anna decides to go to the local farmer's market and meet its manager, Lucas. Anna samples cheese, tomatoes, and carcaças. Lucas is dismayed that Dean isn't there, but Anna informs Lucas that Dean stays in the kitchen for interviews.<br/><br/>Hope continues to call Dean at the hotel, but his voicemail is full. If Dean doesn't return, the executives will cancel the show. Russ trusts that Anna can carry the show without Dean, and Hope agrees. Russ shoots Anna in the kitchen on the first day and sees Anna's nerves getting the best of her. Anna convinces the production team that on-location is best for her.<br/><br/>Anna starts to get close to Lucas during filming, and Russ can see it through his lens. Anna had a crush on Russ in the past and asked him out. However, he turned her down, but they continue to be friends today. As Anna walks a razor's edge between her feelings for Russ in the past and for Lucas now, can Anna handle Dean returning? What will Anna do with the three leading men in her life?<br/><br/>Unlike most Hallmark movies, this love triangle feels plausible. The audience will wonder who she will choose or if either man deserves her. Anna and Lucas share a passion for food and culture. The intensity between Anna and Russ still exists. Let's not forget that Anna worries about losing her job if and when Dean returns to the show. Anna has a lot of stress in a beautiful location. Her lavender rack of lamb will fill her table, but her journey of self-discovery will fill your heart.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Lethal Legacy",
+    "review":"Anna doesn't know how to keep her gallery open for another month. She ignores another unidentified phone call and vents to her friend, Kendra. Kendra suggests a night of partying and drinking but advises Anna to pick up her phone first. Anna answers Brian's call and finds him entering her gallery. He tells Anna that her uncle, Richard, is dead, and he left everything to her, including his money, house, and company. Anna doesn't know what to do, but Kendra convinces her to check out what Brian says before she declines the offer.<br/><br/>Brian tells Richard's CFO, James, and business partner, Janet, about Richard's will, and James is furious. James believes he should be in charge, but Janet tries to calm him. They leave unsure of the company's future.<br/><br/>Anna and Kendra enter Richard's home and go over Richard's estate with Richard's lawyer, Brian. He tells Anna she has a week to decide if she wants to head the company, but she gets the home and money, regardless. Anna inquires about Richard's death, and Brian informs her that Richard died in his home office. They don't know what killed him but suspect it was an overdose. Anna and Kendra walk into the foyer and meet Darren, the house manager. After the home tour, Richard's fiancé, Vanessa, confronts Anna with rage. She can't believe Richard left her nothing and vows to take what is rightfully hers. After getting to know everyone, Anna dates Darren, upsets James, and follows Janet's guidance. She chooses to be the CEO while asking the medical examiner to research Richard's death. One request sets a hailstorm of deceit, backstabbing, and murder.<br/><br/>This mystery has affairs, money laundering, and murder every 30 minutes. The script eliminates suspects by killing them. If you are a fan of TV mysteries, the perpetrator won't surprise you but confirm your suspicions. And let's not forget the crazy Kendra. She is the friend everyone wants. So get ready to dive into a predictable but entertaining mystery.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/apinchofportugal.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/apinchofportugal.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lethallegacy.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lethallegacy.jpeg"
     }
   },
- {
-  "option":"5",
-  "mtitle":"Her Fiancé's Double Life",
-  "review":"Darcy and her family will meet her sister's fiancé, Thomas, for the first time this weekend. Kristina, the family housekeeper, sees Darcy sitting outside in her car. Kristina coaxes Darcy out of her car with a lollipop. Darcy walks up to the front door but hears the unfamiliar sound of laughing coming from the backyard. Her family is chatting with Thomas and having a good time. However, something about Thomas doesn't sit well with Darcy. She asks her friend, Marta, to do an in-depth search. Marta couldn't locate Thomas, but she found a man matching his description with two dead wives. The man disappeared after the life insurance paid him. Darcy worries this man is Thomas, but can she get her family to believe her before it's too late?<br/><br/>First, Darcy's family starts off toxic. They believe she is jealous of her sister, Brea, and Douglas snaps at her every chance he gets. Second, Thomas talks too much, especially during the killing. However, he does give Darcy his motive for coming after Brea and killing his other two wives. And Lindsay Hartley got the Drew Barrymore treatment for this movie. So, Lifetimers shouldn't get too attached. While this movie feels like an old-school Lifetime drama, it falls short. Hopefully, part two will be better.<br/><br/>3 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/herfiancesdoublelife.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/herfiancesdoublelife.jpeg"
+  {
+    "option":"5",
+    "mtitle":"Hearts in the Game",
+    "review":"Hazel wants to start a P.R. firm with her assistant, Jax, by her side. After averting another crisis for her client, Hazel meets with a reporter, Morgan. Morgan is impressed with Hazel's skill but doesn't think the story is newsworthy. If Hazel wants Morgan to write a story about one of her clients, Hazel needs to get a famous client with a stellar tale, a.k.a 'a huge get.' Hazel leaves deflated but receives a phone call from Mark. Mark is a sports agent and wants Hazel to represent his client. Hazel runs to the meeting.<br/><br/>Diego is a baseball player with a golden arm. However, no team wants to hire him. Diego froze in the last inning of Game 7, and his team lost the championship. He hasn't told anyone why he froze, so his team dropped him. Now, the New York Mets are interested in Diego but are unsure. Mark desires the right P.R. person to help sway the Mets' interest.<br/><br/>Hazel enters the restaurant to meet Mark and turns out the door when she sees Diego. Jax stops Hazel to find out why. Hazel admits that she and Diego dated in high school, but he broke her heart on prom night. Jax calls Diego the 'un-getable get.' Those words spark an idea, and Hazel tells Mark she will take Diego as her client. She runs to Morgan with the story of the hometown baseball hero returning home to re-spark his passion for the game. Morgan loves the idea but wants the hottest exclusive: Why Diego froze. Hazel guarantees Morgan the story and feels she is on the fast track to getting her P.R. firm. For Diego, getting Hazel to represent him is a step back into the big leagues and her heart.<br/><br/>This film has sports, romance, and mental illness. Diego's story is much deeper than the Yips. His public breakdown sparks from tragedy, and it's been unchecked for years. While the script lags in the middle, it picks up as Hazel digs into Diego's past. She gives him emotional space to open up about the chain of events that caused him to walk out on prom and freeze on the mound. That moment will make fans gravitate to the story.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/heartsinthegame.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/heartsinthegame.jpeg"
+    }
   }
-}
 ];
 
 module.exports = madeForTV;
@@ -58,47 +58,38 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Abducted on Prom Night",
+  "mtitle":"Maid for Revenge",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedonpromnight.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedonpromnight.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maidforrevenge.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maidforrevenge.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Don't Sell My Baby",
+  "mtitle":"The Jane Mysteries: Inheritance Lost",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dontsellmybaby.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dontsellmybaby.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thejanemysteriesinheritancelost.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thejanemysteriesinheritancelost.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Spring Breakthrough",
+  "mtitle":"The Pregnancy Promise",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/springbreakthrough.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/springbreakthrough.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thepregnancypromise.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thepregnancypromise.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Lethal Legacy",
+  "mtitle":"When Love Springs",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lethallegacy.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lethallegacy.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"Hearts in the Game",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/heartsinthegame.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/heartsinthegame.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whenlovesprings.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whenlovesprings.jpeg"
   }
 }
 
