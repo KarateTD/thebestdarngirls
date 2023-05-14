@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"Maid for Revenge",
+    "review":"Annie, a maid, comes to her appointment and finds a note on the front door inviting her inside. She cleans the house from top to bottom and finds a pitcher of cucumber water with a sign to help herself. Annie drinks some and continues to clean. Hours later, Annie wakes up beside the pool with her phone and a dead body at the bottom. She leaves and finds a car with the keys inside. Annie jumps in, thinking it's her lucky day, only to have the owner, Billy, knock on the window. She carefully tells him what happened without mentioning the murder. Annie explains that her son, Tate, is with the babysitter, Katy. Now, she has to get home to Tate. Billy offers to drive Annie home.<br/><br/>Annie doesn't find Tate or Katy at home and starts to panic. She borrows Billy's phone to call Katy. Katy relays that Tate is with his grandmother, Elizabeth. Annie breathes a sigh of relief and gives Billy his phone. Annie retrieves Tate from Elizabeth, who is happy to watch him.<br/><br/>Annie drops Tate off at Elizabeth in the morning and sees her lawyer, Hank. She tells Hank everything that happened. And worst of all, she knew the victim, Lydia. Lydia was a juror in Annie's trial. Annie was convicted of vehicular manslaughter and spent two and a half years in jail. He warns Annie to turn herself in to the police and trust the justice system. Annie scoffs at Hank's suggestion and decides to find out who is setting her up. And she knows just where to start: Billy.<br/><br/>This movie has everything viewers want: spiked drinks, dishonorable thieves, and money. Please, pay attention because everything is a hint. It's obvious why Annie ran once you get to know her. But her trust in Billy seems laughable after meeting him the day before. However, Billy is a resourceful person with a glass jaw. This movie will have you guessing until the end and cheering for Annie. This captivating mystery proves that Lifetime can do a movie right.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maidforrevenge.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maidforrevenge.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"The Jane Mysteries: Inheritance Lost",
+    "review":"Jane de Silva fixes her makeup backstage. Then, Detective John calls her name. Jane has never seen John before. But he knows her uncle, Harold, and her aunt, Sadie. Sadie sent John to find Jane and inform her that Harold passed away and left her an inheritance.<br/><br/>Jane arrives in Baltimore and runs into Sadie's arms for comfort. John enters to explain Jane's inheritance. After Harold retired, he started a P.I. firm called Foundation for Righting Wrongs. Harold took cases that police deemed cold or didn't have the labor force to solve. Harold wanted Jane to take it over. Jane doesn't understand why Harold picked her. She has zero investigating experience.<br/><br/>Jane opens a box and looks through a case file but resigns after a few pages. Then she hears a rattle on the window. Lia came for help after hearing about the foundation. She snuck out to get past her father, Kenny. Lia's mother, Linda, died hours after removing Linda's inheritance from her bank account. Lia knows finding the money is hopeless, but she wants to know what happened to Linda. Jane lost her mother to a hit-and-run, and they never found the killer. Jane couldn't help herself. So she needs to help Lia. Can Jane solve her first case?<br/><br/>Based on A Hopeless Case by K.K. Beck, this movie has MLMs, wigs, and singing. The mystery doesn't start immediately like other H.M.M. movies because it takes time to develop a backstory for Jane, Sadie, and John. Unlike most protagonists, Jane doesn't have a background in murder, puzzles, or intrigue. Sadie shows Jane how to put her skills to use. John gives Jane tips on how to read a police report and question suspects. They are her detective think tank. This enigma provides the audience with plenty of suspects and motives. But the overall motivating force and means of execution are horrifying at its core. This film is a strong kickoff for a new series.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thejanemysteriesinheritancelost.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thejanemysteriesinheritancelost.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"The Pregnancy Promise",
+    "review":"Lucy admires pictures of babies and puppies on social media while her best friend, Skye, studies. Lucy wants to make their senior year the best because Skye will attend college in the fall. She makes Skye promise to stay friends no matter what.<br/><br/>A classmate returns to school with her baby, and Lucy envies the attention she gets. Lucy makes Skye promise to have babies and raise them together as best friends. Skye makes the vow and focuses on school. Later, Lucy learns that Brooke is having a party and begs Skye to go. Lucy convinces Skye to sneak out and join the fun.<br/><br/>Skye meets Jake at the party, and they kiss. Skye leaves Jake to update Lucy, only to find Lucy kissing her brother, Aaron. Skye is furious, and Lucy promises not to date Aaron. Soon, Skye spends more time with Jake and becomes pregnant. Skye cries to Lucy because Skye thinks a baby will derail her plans. But Lucy is happy because she is pregnant too, by Aaron. As Lucy beams with pride, Skye wants to keep everything a secret. But when word gets out, someone starts to bully Skye and her family. Skye must discover who's behind the threats before it ruins her family's life and finances and her pregnancy.<br/><br/>This movie won't satisfy your bloodlust, but it shines a light on frenemies. Lucy obsesses about her friendship with Skye. She admires Skye's family because they have a massive home, two parents, and stability. Lucy returns to a drunk mom with an endless string of boyfriends. Lucy pretends to want Skye to have fun but desires to drag Skye down to her level. Skye feels sad for Lucy and pacifies her fears and insecurities. After a plot twist, the conclusion is a little too sappy.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thepregnancypromise.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thepregnancypromise.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"When Love Springs",
+    "review":"Rory's parents, Lyla and Tom, are having a vow renewal at Lily Lake Bed and Breakfast. Rory and her sister, Cleo, are excited to attend, but Rory's boss, Melody, expects Rory to be on call and work. Rory obtained a five page-spread for Melody's client, and Melody wants Rory to create a press plan. Rory makes a draft and meets Cleo at the elevator. Rory, Lyla, Tom, and Cleo arrive at the B and B and love the scenery. Rory walks to the empty concierge station and hits the bell, but it doesn't work. She looks around the property to find Noah dancing with headphones on his ears.<br/><br/>Noah took over the B and B while his father visited Noah's aunt. Noah wants to get some eye-catching press to attract more guests to the property. Noah checks Rory and her family into the B and B and informs Rory the property doesn't have WiFi. Then, Noah gets a phone call from Penny, a famous travel writer, and Penny books a room. Noah wants to impress her, but Rory says the hotel needs the basic and expected amenities, like extra towels. Then, Jason walks in and throws Rory for a loop. Jason was her boyfriend until he dumped her on her birthday. Then, Jason's girlfriend, Sarah, accompanies him. Rory composes herself and snuggles up to Noah. She tells Jason that Noah is her boyfriend. Jason and Sarah leave for their room, and Noah says no instantly. So, Rory offers her P.R. skills for free if he keeps up the ruse to make Jason think she is happy without him. She will ensure that Penny loves his establishment and create a press packet for him. Noah looks around, acknowledges that he needs help, and agrees. Rory has to keep up with her job, help Noah with his B and B, plan her parents' vow renewal, and keep everyone in the dark about her fake relationship. But can a sham become authentic?<br/><br/>'When Love Springs' has the typical set-up, complication, and conclusion, but something about this movie draws viewers into the story. Rory sits with Noah and opens up about her fears, passions, and past. Noah talks about his family legacy, takes trips around the property, and tells Rory why he left the high-pressure analyst world behind. Their open and honest conversations make you fall in love with them as a couple. Noah's final desperate apology will bring tears to your eyes. Yes, the plot is classic Hallmark, but the delivery is top-notch.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whenlovesprings.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whenlovesprings.jpeg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"Abducted on Prom Night",
     "review":"Four weeks ago, a man in a fake rideshare car tried to kidnap Kimber after a party. Kimber's mom, Principal Shawna, wants to keep Kimber under lock and key. Lately, Kimber acts out in class and cheats. Her teacher sends Kimber to Shawna's office. Kimber leaves in a huff and joins her friend, Everleigh.<br/><br/>After classes, Kimber finds a prom-posal on her locker from her boyfriend, Austin. Kimber excepts Austin's invitation. Everleigh and Kimber walk down the school steps as Joan approaches. Joan tells Kimber that she misses their friendship and would like to spend more time together like they did when they were best friends. Kimber asks Joan to be her plus 2 for prom, much to Everleigh's chagrin.<br/><br/>Austin gets a limo for himself, Kimber, Joan, Everleigh, and Everleigh's boyfriend, Luke. The driver tells them they can't drink, rough house, or put their limbs outside the limo. And Shawna tells them no alcohol. They agree to the driver and Shawna's conditions. Austin snuck alcohol on board, much to Kimber's surprise. Everyone but Joan does shots as the driver takes them to Austin's next surprise. He decided to take Kimber and the group to the place he and Kimber had their first date. As they laugh, the driver makes a video of them drinking. He threatens to take them home if they don't abstain from alcohol for the remainder of the night and relinquish their phones. The driver puts their phone under the front wheel, gets in the limo, and drives over them. It doesn't take long for the group to realize they are going in the wrong direction. The driver locks the doors, rolls up the windows, and tells them to do what he says or die.<br/><br/>Wow, there are so many mistakes it's difficult for viewers to feel bad for them. And their mistakes cost one member of the group their life. There are hints of the motive sprinkled throughout the plot. And the perpetrator's monologue will tie it all together. When the dust settles, one person will be the undeniable villain of this story, and it's not the kidnapper.<br/><br/>3 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedonpromnight.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedonpromnight.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Don't Sell My Baby",
-    "review":"Nicolette regrets missing a phone call from her friend, Brooke. Brooke was nine months pregnant when she disappeared three days ago. Brooke and Nicolette lived in the same group home run by Rachel. Nicolette goes to school, and the new teacher, Sandy, takes Nicolette's phone for texting in class. Nicolette runs to the bathroom to regurgitate before protesting. After school, Sandy passes Nicolette waiting at the nurse's station again and uses her master key to get into the office. She grabs a pregnancy test for Nicolette. The test is positive, and Sandy shares her teen pregnancy story.<br/><br/>Nicolette gets a call from Brooke after Nicolette leaves school. Brooke runs towards Nicolette, but a car hits and kills Brooke. Detective Holmes brings a traumatized Nicolette home. Nicolette remembered Brooke wasn't pregnant anymore. So she wonders what happened to the baby.<br/><br/>Nicolette worries about her future, but the answer arrives on her doorstep. Abigail from Loving Arms Adoption Agency heard about Nicolette's pregnancy and wants to help. Nicolette discusses the options with Sandy, Jake, and her friend, Vanesha, but Nicolette is uncertain. Nicolette is in danger no matter what decision she makes. Abigail and her associates are dangerous and will kill to get Nicolette's baby.<br/><br/>Nicolette starts as a typical Lifetime brat lashing out at the world for her decisions. However, Sandy can see through her tough exterior. She relates to Nicolette and offers kindness with every shot of Nicolette's venom. Audiences will feel that Sandy is overstepping at first. However, her loving nature will ease your concerns as someone drugs and kidnaps Nicolette. And the end will put a smile on your face.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dontsellmybaby.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dontsellmybaby.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Spring Breakthrough",
-    "review":"Monica looked forward to celebrating 20 years with her company but got fired. Monica tells her friend, Denise, but wants to hold off on telling her daughter, Vivian. Vivian will return from law school to spend her break with Monica. But one phone call changes all of Monica's plans. Vivian's boyfriend, Shawn, proposed to Vivian, and she accepted. Shawn's parents, Joy and Forrest, want to celebrate their engagement at Forrest's sister's hotel. Monica believes Vivian is rushing into this relationship and plans to change Vivian's mind before Vivian makes her mistakes. Monica wants to keep her job loss a secret until she fixes Vivian's situation.<br/><br/>At the airport, Monica forgets her book and goes to the airport store to buy another. She runs into a handsome man that compliments her reading choices. She admits her attraction to Denise, but it dissipates when the man plays with a soccer ball. She calls him a man-child and reads her book.<br/><br/>Monica meets with Joy and Forrest and becomes wary when they don't share her sentiment about Vivian and Shawn's engagement. They inform Monica that Shawn's godfather, Clark, will arrive late. To Monica's surprise, her mystery man is Clark. Monica puts up emotional walls against Clark while driving a wedge between Vivian and Shawn and keeping her job loss a secret. However, Monica learns that punishment can come in the form of an answered prayer.<br/><br/>Be ready for an emotional roller coaster with a danceable backing track. Monica's concerns are valid because Vivian is young and just starting her career. However, the script establishes that Monica is steadfast in her work and home life. She is a woman on fire, holding gasoline. The plot has amazing laughs with body counts, wild dancing, and quips. Be ready to enjoy this new H.M.M. classic.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/springbreakthrough.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/springbreakthrough.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Lethal Legacy",
-    "review":"Anna doesn't know how to keep her gallery open for another month. She ignores another unidentified phone call and vents to her friend, Kendra. Kendra suggests a night of partying and drinking but advises Anna to pick up her phone first. Anna answers Brian's call and finds him entering her gallery. He tells Anna that her uncle, Richard, is dead, and he left everything to her, including his money, house, and company. Anna doesn't know what to do, but Kendra convinces her to check out what Brian says before she declines the offer.<br/><br/>Brian tells Richard's CFO, James, and business partner, Janet, about Richard's will, and James is furious. James believes he should be in charge, but Janet tries to calm him. They leave unsure of the company's future.<br/><br/>Anna and Kendra enter Richard's home and go over Richard's estate with Richard's lawyer, Brian. He tells Anna she has a week to decide if she wants to head the company, but she gets the home and money, regardless. Anna inquires about Richard's death, and Brian informs her that Richard died in his home office. They don't know what killed him but suspect it was an overdose. Anna and Kendra walk into the foyer and meet Darren, the house manager. After the home tour, Richard's fiancé, Vanessa, confronts Anna with rage. She can't believe Richard left her nothing and vows to take what is rightfully hers. After getting to know everyone, Anna dates Darren, upsets James, and follows Janet's guidance. She chooses to be the CEO while asking the medical examiner to research Richard's death. One request sets a hailstorm of deceit, backstabbing, and murder.<br/><br/>This mystery has affairs, money laundering, and murder every 30 minutes. The script eliminates suspects by killing them. If you are a fan of TV mysteries, the perpetrator won't surprise you but confirm your suspicions. And let's not forget the crazy Kendra. She is the friend everyone wants. So get ready to dive into a predictable but entertaining mystery.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lethallegacy.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lethallegacy.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Hearts in the Game",
-    "review":"Hazel wants to start a P.R. firm with her assistant, Jax, by her side. After averting another crisis for her client, Hazel meets with a reporter, Morgan. Morgan is impressed with Hazel's skill but doesn't think the story is newsworthy. If Hazel wants Morgan to write a story about one of her clients, Hazel needs to get a famous client with a stellar tale, a.k.a 'a huge get.' Hazel leaves deflated but receives a phone call from Mark. Mark is a sports agent and wants Hazel to represent his client. Hazel runs to the meeting.<br/><br/>Diego is a baseball player with a golden arm. However, no team wants to hire him. Diego froze in the last inning of Game 7, and his team lost the championship. He hasn't told anyone why he froze, so his team dropped him. Now, the New York Mets are interested in Diego but are unsure. Mark desires the right P.R. person to help sway the Mets' interest.<br/><br/>Hazel enters the restaurant to meet Mark and turns out the door when she sees Diego. Jax stops Hazel to find out why. Hazel admits that she and Diego dated in high school, but he broke her heart on prom night. Jax calls Diego the 'un-getable get.' Those words spark an idea, and Hazel tells Mark she will take Diego as her client. She runs to Morgan with the story of the hometown baseball hero returning home to re-spark his passion for the game. Morgan loves the idea but wants the hottest exclusive: Why Diego froze. Hazel guarantees Morgan the story and feels she is on the fast track to getting her P.R. firm. For Diego, getting Hazel to represent him is a step back into the big leagues and her heart.<br/><br/>This film has sports, romance, and mental illness. Diego's story is much deeper than the Yips. His public breakdown sparks from tragedy, and it's been unchecked for years. While the script lags in the middle, it picks up as Hazel digs into Diego's past. She gives him emotional space to open up about the chain of events that caused him to walk out on prom and freeze on the mound. That moment will make fans gravitate to the story.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/heartsinthegame.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/heartsinthegame.jpeg"
     }
   }
 ];
@@ -58,38 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Maid for Revenge",
+  "mtitle":"The Man with My Husband's Face",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maidforrevenge.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maidforrevenge.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themanwithmyhusbandsface.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themanwithmyhusbandsface.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"The Jane Mysteries: Inheritance Lost",
+  "mtitle":"Carrot Cake Murder: A Hannah Swensen Mystery",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thejanemysteriesinheritancelost.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thejanemysteriesinheritancelost.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/acarrotcakemurderahannahswensenmystery.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/acarrotcakemurderahannahswensenmystery.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"The Pregnancy Promise",
+  "mtitle":"My Best Friend The Baby Snatchter",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thepregnancypromise.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thepregnancypromise.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mybestfriendthebabysnatcher.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mybestfriendthebabysnatcher.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"When Love Springs",
+  "mtitle":"When Love Blooms",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whenlovesprings.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whenlovesprings.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whenloveblooms.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whenloveblooms.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Dream Moms",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dreammoms.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dreammoms.jpeg"
   }
 }
 

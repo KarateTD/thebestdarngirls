@@ -227,4 +227,14 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecovenant.jpeg"
     }
   }
+
+  {
+    "option":"5",
+    "mtitle":"Chevalier",
+    "review":"George de Bologne Saint-Georges took his illegitimate son, Joseph, from Joseph's enslaved mother, Nanon, and brought Joseph to a Jesuit boarding school in Angoulême. Joseph, age 7, stood up and started to play his violin. The headmaster accepted Joseph into the school, and George left him there.<br/><br/>Twelve years later, Joseph battled Alexandre Picard, a fencing master, after Alexandre made derogatory comments about Joseph's mulatto background. Joseph beat Alexandre with a publicly divided audience watching. Queen Marie Antoinette stood up and named Joseph an officer of the king's bodyguard and a chevalier.<br/><br/>During a party, Joseph relays his ambitions to the queen. He wants to be the director of the Paris Opera. Singer Marie-Madeleine Guimard overhears Joseph's ambition and pulls him aside for a dance. She can put Joseph in their favor if he sleeps with her. Joseph turns down her advances, and Marie-Josephine's singing voice pulls him away. Joseph and Marie-Josephine, the wife of Marc René, talk about her voice, the opera, and his talents. Her cousin, Madam de Genlis, pulls Marie-Josephine away to make connections.<br/><br/>Later, Joseph meets with Madam de Genlis to produce his opera, but she's unsure he can pull it off. Joseph agrees to do it, but he wants Marie-Josephine to be the singer. Marie-Josephine comes to the opera house and decides to sing because Marc-René will be away for a year. Joseph is a man with the world at his feet and talent in a bow. However, Ancien Régime will take it all away because he is not one of them, merely a tourist.<br/><br/>This piece of reclaimed history has something for everyone. It starts with drama at the opera after Joseph interrupts Mozart as Mozart takes audience requests. This prelude to the revolution has bold music, stunning costumes, and meticulous detail to social etiquette. Viewers will watch Joseph navigate a tightrope of customs and rituals in French society. By pushing Joseph out, they make him a spear in the revolution. If you are not an opera fan, this film has something for you too. And the conclusion explains how Joseph's history faded away until now.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/chevalier.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/chevalier.jpeg"
+    }
+  }
 */
