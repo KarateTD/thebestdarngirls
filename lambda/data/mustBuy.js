@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Dungeons and Dragons: Honor Among Thieves",
+    "review":"Dungeons and Dragons: Honor Among Thieves was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":"B0BZBN18D2"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dungeonsanddragonshonoramongthieves.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dungeonsanddragonshonoramongthieves.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"Creed III",
     "review":"Creed III was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Shazam! Fury of the Gods",
     "review":"Billy wants his family to fight crime together, but everyone wants to explore separate interests. Mary understands what Billy is going through. In 5 months, Billy will age out of the system, and his foster parents, Victor and Rosa, can barely afford rent. Mary tells Billy to get a job and contribute or go to college. A therapist also diagnosed Billy with imposter syndrome because Billy feels like the Wizard picked the wrong person. Each time the family tries to save the day, they do more harm than good. The newspaper dubbed them the Philly Fiascos.<br/><br/>Freddy overhears a museum robbery over the scanners. Two women walked into the Acropolis Museum, stole an artifact, and turned the visitors into dust. Later, the Wizard enters Billy's dream with a warning. The daughters of Atlas - Hespera, Kalypso, and Anthea - entered Billy's realm. They want to find the golden apple and use its seeds to recreate the Tree of Life. Centuries ago, human wizards grew tired of the games the gods played with people. So they stole a branch off the Tree of Life, created the staff, took their magic, and trapped the daughters in their realm. They would stay powerless in their realm if the Wizard's staff stayed intact. Billy remembers having the Wizard's staff, breaking it in half, and leaving it after their battle with Dr. Thaddeus and the Seven Deadly Sins. They need to find the third sister, the staff, and the golden apple to save their realm from the Fury of the Gods.<br/><br/>Welcome D.C.E.U. fans to a sequel that's better than the first. Billy introduces the audience to his family and their growth over two years. It's not necessary to see the first movie to understand the second, but it helps you see the nuances and changes in Billy's family dynamics. The script never has a dull moment, and the jokes are often sly. Family bonds are at the forefront of this film. The graphics are stunning during the fights and doesn't distract the audience. If you are a fan of the first, this movie will not disappoint. So see it with your preteens and stay for the mid-credit and post-credit scenes. And yes, you get a D.C.E.U. surprise.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Champions",
     "review":"Champions was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
    {
-    "option":"4",
+    "option":"5",
     "mtitle":"Cocaine Bear",
     "review":"Andrew C. Thorton the second drops bags of cocaine from a plane onto the Chattahoochee-Oconee National Forest in 1985. Andrew straps the final duffle to his harness and prepares to jump out of the plane. However, Andrew knocks himself unconscious on the airplane's door and dies. Knoxville resident, Fred Myers, finds Andrew's body and alerts the police. Detective Bob discovers Andrew works for Missouri dealer Syd and summarizes there are more drugs around the area.<br/><br/>Syd calls Daveed to the local restaurant. Syd wants Daveed to find his missing cocaine and take his son, Eddie, with him. And Syd must get the drugs back before the Columbians start asking questions. Daveed locates Eddie at a bar and convinces him to come to the forest to find the cocaine.<br/><br/>Sari informs her daughter, Dee Dee, that they won't paint the falls this weekend. Once Sari leaves, Dee Dee's friend, Henry, comes to the house. Dee Dee has a new plan. They will skip school and go to the forest so she can paint the falls without Sari. The school calls Sari, and she returns home and finds Henry's backpack. Inside, Sari finds a map of the falls and heads to the forest after them.<br/><br/>Unbeknownst to anyone, a black bear found several kilos of drugs and ate them. Now, an apex predator is high on cocaine, and Dee Dee, Henry, Sari, Eddie, Daveed, and Bob are all headed in its direction. This doped bear will leave a trail of blood, guts, bones, and drool that no one will forget.<br/><br/>Viewers must prepare to laugh from beginning to end with amusing jump scares. While the plot is nothing like the real story, it uses the legend as its premise. Parents should understand this film is not for young kids. The editor added real news clips to the movie to bring you back to the period with the 'Say No To Drugs' and 'This is Your Brain On Drugs' campaigns. It also includes the report of Fred finding the body. Of course, the bear isn't flawless CGI, but that helps viewers see the movie as a comedy instead of pure horror. See this movie in theaters if you need a good laugh with your jump scare. And it has two post-credit scenes.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cocainebear.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cocainebear.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Missing",
-    "review":"June attempts to adjust to her mother, Grace, dating Kevin. Kevin and Grace decided to take a vacation to Columbia. However, June is upset the trip overlaps Father's Day. June's father, James, died from a brain tumor when she was a young child. Although June is 18, Grace asked her friend, attorney Heather, to look in on June occasionally. Grace and Kevin leave in an Uber, and June kicks off a slew of alcohol-fueled parties.<br/><br/>After a week, June gets a reminder to pick up Grace and Kevin from the airport. June sets up her camera, makes a sign saying 'Welcome back from prison mom,' and waits. June waits for hours, but Grace and Kevin never show. Grace calls Heather, and Heather sends Grace an international missing persons form and calls FBI Agent Park who can assist. Agent Park informs June that the United States doesn't have jurisdiction in Columbia. June calls Grace and Kevin's hotel and asks for their whereabouts. With the help of Google translate, she uncovers that Grace and Kevin left without their luggage. June looks at photos of the hotel online and sees security cameras. June decides to find Grace with or without anyone's help. She will uncover Kevin's lies, Grace's secrets, and the dark side of internet sleuthing.<br/><br/>This film echoes the same heart-pounding mystery you get from Searching, but viewers don't need to watch the previous movie to watch Missing. Viewers see the family did have a close relationship before James died, but teen rebellion drove a wedge between them. The film's technology use helps guide viewers through June's thought process. June finds locations, translates languages and uses live streaming to find her mother. With June's camera focused on her, you see the dread as she discovers more horrific information. Be ready to yell at the screen and cheer in relief. If you like Searching, you will love its standalone sequel.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0BS8QRCD9"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/missing.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/missing.jpeg"
     }
   }
 ];
@@ -70,21 +70,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later
-
-{
-    "option":"1",
-    "mtitle":"Dungeons and Dragons: Honor Among Thieves",
-    "review":"Dungeons and Dragons: Honor Among Thieves was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0BZBN18D2"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dungeonsanddragonshonoramongthieves.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dungeonsanddragonshonoramongthieves.jpeg"
-    }
-  }
-
- 
 
     {
   "option":"1",
@@ -105,7 +90,7 @@ module.exports = mustBuy;
     "mtitle":"Avatar: The Way of the Water",
     "review":"It's been ten years since the Na'vi kicked humans off Omaticaya, but a few stayed. Dr. Norm and Dr. Max remained because they sided with the Na'vi and continued their studies. The humans left Spider behind because he was too young to go into cryostasis. He is the son of Colonel Miles and loves to be in the Pandora rainforest with Jake and his family instead of other humans. Jake and Neytiri have four children, Neteyam, Kiri, Lo'ak, and Tuk.<br/><br/>During date night, Jake and Neytiri notice an extra star in the sky. The humans are back. They create a massive fireball to destroy several habitats. However, Jake prepared the Na'vi, and they are battle ready. Spider, Kiri, Tuk, and Lo'ak go to Jake and Miles's last battle site. They find Na'vi in full camouflage and guns. The humans cloned Na'vi bodies and implanted a person's personality and memories in the bodies. Now, Colonel Miles is a walking Na'vi Trojan horse.<br/><br/>After a standoff between Jake and Miles, Miles takes Spider, and Jake runs with his kids. Staying will bring more devastation to her people, so they must leave their life behind. Jake and his family travel to the water and meet with Tonowari. He leads the reef people of Metkayina with his wife, Ronal, by his side. Jake and his family must learn the way of the water to survive on the reef. And they need to study it quickly. Cloning Na'vi isn't the only thing humans desire. However, Miles's need for revenge is his driving force to hunt Jake and his entire family with a captive Spider assisting.<br/><br/>The sequel to Avatar expands the cinematic world by introducing the reef people. Viewers get new animals, plant life, and customs in this new environment. This movie has a lengthy running time, but it doesn't feel 3 hours long. The audience is so immersed in the scenes and culture that you don't mind. The animators did a magnificent job blending real people with motion-capture characters. The moment Tonowari and Ronal discuss Jake and his family staying is the best-animated scene, and it had zero words. Tonowari and Ronal give each other stern looks, loving eyes, and a plea. You will laugh, cry, gasp, and cheer throughout the movie. This film goes beyond what fans expect and is worth the 13-year wait.<br/><br/>5 out of 5 stars.",
     "asin":{
-      "re":""
+      "re":"B0C5XXT697"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/avatarthewayofthewater.jpeg",
