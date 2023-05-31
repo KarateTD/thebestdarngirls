@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"Love Marry Kill",
+    "review":"Forensic Pathologist Jordan says her goodbyes to her former lover and current friend, Thomas, and gets interrupted by a phone call from her friend, Tamera. Sadly, a hit-and-run driver killed their friend, Elisha. Jordan leaves DC and returns to Louisiana for the funeral. Jordan and Tamera talk at the repast and notice Brenda Harrington, Elisha's mother-in-law, exiting with Chief Lewellyn. Then they spot Elisha's husband, Dr. Miles. Tamera tells Jordan that Miles was working in the emergency room when the ambulance brought Elisha to the hospital. Jordan plays Tamera the last voicemail from Elisha because Jordan hears the worry in Elisha's voice. In the distance, Jordan sees her ex-boyfriend, Marcus, taking pictures of the attendees.<br/><br/>Jordan goes to her old job and brings the coroner, Dr. Sully, beignets. Jordan asks to see Elisha's autopsy reports and spies ligature marks on Elisha's neck but quickly returns the images when she hears someone enter the room. She turns to see Marcus standing there with a badge on his hip. They flirt before Sully walks into the room and gives Marcus the folder. Outside, Jordan examines the folder's contents and observes a missing photo. It's the photo that proves someone strangled Elisha before she died.<br/><br/>Jordan wants to stay in town to uncover Elisha's killer but must return to DC for work. At lunch, Brenda asks Jordan to be the Queen of her Grand Boulé. Since the ball is in a few days, Jordan will use the time to investigate what happened to Elisha. She will unveil an affair, corruption, gangs, and a psychopath.<br/><br/>Viewers must be patient because this film requires set-up, but it's worth it. Every person in Jordan's life is a suspect because they all have underhanded dealings. Now, viewers will uncover one mystery within the first half. But don't give up on this plot yet. Because finding Elisha's killer is the tipping point to a larger storyline. The writers left an ending with series potential. So, keep your fingers crossed for part two.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovemarrykill.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovemarrykill.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Nightmare Pageant Moms",
+    "review":"Sophie can hear her mother, Emilia, arguing on the phone as she walks through the door. The inspector found new issues with Emilia's spa that will delay her grand opening by months if she can't fix it on time. Emilia doesn't have the money because her husband left medical debt after he died. Sophie tells her mother that she got into the literary residency in England. She needs money for room and board, and they won't extend the deadline for her. Sophie picks up a magazine and sees a flyer for a mother-daughter pageant. And the grand prize is $100,000. Sophie gets Emilia to enter.<br/><br/>A few weeks later, Emilia and Sophie make the final ten and attend a meet-and-greet with the other contestants. Darcy, Mia's mom, comes over and sparks a conversation. Mia brings Sophie to the winner's wall and shows her pictures of past winners of other contests. Lilliana is a legacy and on the wall because her grandmother, former-winner Rebecca, runs the pageant. As Faye welcome's everyone, Adeline bumps into the table, spilling her drink and knocking over purses. Darcy spots that drugs came out of Vivienne's handbag. Everyone stands in awe as Faye disqualifies Vivienne and Vivienne's mother, Patrice, from the pageant. Lilliana's mother, Adeline, is obsessed with winning. She will steal, manipulate, and kill to get to the top.<br/><br/>OMG. Adeline isn't just a nightmare. She is evil personified. You will hate and love this conniving mother from beginning to end. She blackmails her so-called friends, sleeps with a judge, and tries to gaslight and pimp Lilliana. Rebecca stays one step ahead of Adeline and condemns Adeline after catching her. It's easy to see how Adeline became a narcissist with no grip on reality while Lilliana became caring. This movie is old-school Lifetime, and you will love it.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nightmarepageantmoms.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nightmarepageantmoms.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Just Jake",
+    "review":"Jake became insta-famous after he sang on a popular social media app called Yin Yang six months ago. Now, he is putting his debut album together for FT Records in Nashville. He struts into the studio and notices the backup band is leaving. The record label's owner, Marvin, tells Jake they are dropping him from his contract. His manager, Tommy saw the writing on the wall long ago and prepared. Jake's hometown is having a ribbon-cutting ceremony for the performance arts center, named in Jake's honor, and Tommy accepted an invitation for Jake to attend. Jake relents with the hopes of clearing his writer's block, but he doesn't want to see his ex-girlfriend, Amber.<br/><br/>Amber runs an upscale coffee shop and teaches guitar to local kids. She wants to ignore all the social media hoopla about Jake, but he is on TV too. Amber assures her family her feelings are gone since he dumped her for the music business. After work, she sits with Joaquin and finds his raw talent for music. A few days later, Amber walks into the studio to see a horde of people waiting for lessons. The studio owner released a social media blast about Jake teaching at the studio, and Jake's fans didn't hesitate. Amber protests, but the owner admits the studio has fallen on hard times. So, Jake and Amber sit and decide to teach together for the sake of the studio. Jake gets a spark of creativity and co-writes a song with Amber as they work. The song goes viral as they begin to fall in love again. Will Jake leave her behind for the bright lights of Nashville for a second time?<br/><br/>This movie has a typical plot. Someone leaves a high school sweetheart behind for the big city and returns after a failure to find love again. So, you know how the relationship will end for Amber and Jake. However, you don't know what will pull Jake away for the 2nd time before the reconciliation. That conflict will keep you watching along with the original songs. This film doesn't require your full attention but is an uncomplicated watch.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/justjake.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/justjake.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Love in Zion National Park: A National Park Romance",
+    "review":"Lauren is a curator at the Denver Museum of Natural History and examines their latest acquisition: 3 red clay vases. The museum's largest benefactor, Carissa Hollingston, left the vases to the museum in her will. Lauren classifies them as being from the Anasazi people. Carissa found them 70 years ago when touring Zion National Park. Lauren wants to authenticate the treasures and return them to the Anasazi after displaying the artifacts in the museum for a while. Grady Hollingston, Carissa's great-nephew, believes Carissa wasn't in her right mind when drafting her will and wants to contest it in court. He leaves and warns Lauren to return the vases or prepare to fight in court.<br/><br/>Lauren pulls Margot aside and believes she knows a way to beat Grady. After examining the markings on the vases, she realized they had the first, second, and fourth of the set. They are missing the third. Lauren wants to go to Zion National Park and find the third vase. They could claim the collection and work with the Anasazi nation to defeat Grady's greed. Margot approves the time off.<br/><br/>Lauren arrives at the ranger's station, and Milly offers Lauren a cabin key and guide. Lauren takes the key but rejects the assistance. After hiking the trails, Lauren gets lost and doesn't have cell reception. She hears someone in the distance and rejoices when she sees Ranger Adam Proudstar. He is Anasazi and helps Lauren find her way to the cabin. She explains that she is looking for the missing vase but nothing about Grady, the impending legal battle, or the museum's desire to borrow the collection. He inspects the markings and discerns three landmarks: The Mountain of Mystery, Tabernacle Dome, and Mount Kinesava. Luckily, Adam knows someone who can help: Kaya Proudstar. With Kaya's wisdom and Three Sisters Soup, Lauren and Adam are on a mission to find a lost Anasazi relic. But Grady discovered the truth and will stop at nothing to find the third vase to claim the set as his. Can Lauren and Adam beat Grady without exposing Lauren's secrets?<br/><br/>This sequel expresses a love for the park while respecting the Anasazi nation. Lauren understands that the museum should return the artifacts and not hold them hostage. However, she doesn't tell Adam the museum wants them for display, and that omission is her mistake. For Adam, Lauren and Grady are the antagonists. Adam's feeling of betrayal is understandable, and this topic of museum ownership causes debates today. It's commendable to see Hallmark handle this subject from every angle.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinzionnationalparkanationalparkromance.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinzionnationalparkanationalparkromance.jpeg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"The Man with My Husband's Face",
     "review":"Katrina contemplated divorcing her husband, Heath and talked to her lawyer, Wally. Wally prepared the documents for Katrina to scrutinize and give to Heath later. At first, Heath is short-tempered and argumentative until he finds the divorce paperwork. Heath decides to put some effort into his marriage and try kayaking with Katrina.<br/><br/>Katrina and Heath rent their kayaks, but he becomes increasingly impatient. Katrina gets her equipment but can't find Heath. She asks the attendant, who tells her that Heath left without her. Upset, Katrina paddles out on the water alone. She returns to the dock and waits for Heath, but he never appears. At first, Detective Brand isn't bothered by Heath's disappearance and chalks it up to marriage woes. They find the items but not Heath. Katrina panics.<br/><br/>For days, Katrina spots a man that looks like Heath, but Detective Brand thinks Katrina is delusional and needs to accept that Heath is dead. Then, Heath walks into a hospital with amnesia and dehydration. Katrina is happy to have Heath back, and his attitude change makes her throw away the divorce papers. Katrina continues living happily ever after until they make love. Something is different about Heath, and she can feel it. But can she prove it?<br/><br/>This film will have you on the fence because its three storylines in one. Each plot provides another twist for the viewer to uncover. Now, the last fight scene is laughable. But it reveals Heath's motive and underhanded dealings throughout the film. Heath's plan is wild, intricate, and cunning. But his final monologue saves the movie.<br/><br/>3.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themanwithmyhusbandsface.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themanwithmyhusbandsface.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Carrot Cake Murder: A Hannah Swensen Mystery",
-    "review":"Norman is planning a surprise party for his mom, Carrie, and hired Hannah to make Carrie's favorite dessert: carrot cake. Hannah and her mom, Delores, meet Norman at Eugene's restaurant to get the logistics. Norman and Hannah leave and see protesters outside the Steiners Building. The protesters want the building declared a historical landmark and renovated, not torn down.<br/><br/>Delores stands before Carrie's friends at Carrie's party and makes an announcement. The birthday woman won't be there. She decided to go on a last-minute birthday trip. After the party, Norman and Hannah leave the party. They walk past the Steiner Building and hear an explosion inside. Hannah convinces Norman to follow the light, and they find a body in an abandoned elevator shaft. Hannah contacts Detective Mike to take over the scene, but he allows Hannah to work the case with him. They comb through the area and uncover a wallet, keys, a brooch, and other items. The wallet has Jerry McDowell's ID inside. The police suspected he robbed a jewelry store in 1995 with his partner, Travis. They never found Jerry, and now they know why. Jerry is not an innocent person, but he is a victim. Uncovering his killer will unearth money, pain, and love.<br/><br/>Based on Carrot Cake Murder by Joanne Fluke, this installment of the Hannah Swensen series starts with a scamming victim. His ex-wife, Julianna, his old friend, Eugene, and his ex-partner, Travis. Each suspect has a reason to kill Jerry and shaky alibies. However, the murder isn't the only storyline to keep viewers watching. For the first time, the relationship between Hannah and Mike shows signs of decay. Hannah believes they are a team when Mike allows her to work the case with him, but their newfound bond ends with betrayal. This film's added drama pulls in viewers and makes us wonder if the power couple can last. You will need your Scandinavian Almond Cake, Deconstructed Rocky Road Bars, and wine for this emotional movie.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/acarrotcakemurderahannahswensenmystery.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/acarrotcakemurderahannahswensenmystery.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"My Best Friend The Baby Snatcher",
-    "review":"Penelope closes on her first home and enjoys the moment with her best friend, Eve. Penelope's husband, Rich, is achieving success in his company as they have their dream home and a baby on the way. Penelope believed she was infertile, but thanks to egg donation, she and Rich conceived. Penelope won't be alone because Eve is pregnant too.<br/><br/>Eve goes home to cook dinner, greet her husband, Tom, and care for her plants. After dinner, Eve gets in the shower to relax. Hours later, Tom calls Rich with devastating news. Eve lost the baby.<br/><br/>Rich and Penelope continue to prepare their home for the baby and host baby-themed parties while worrying about Eve. However, Eve fell into a depression. Eve kills her plant babies and reminisces about the day she got pregnant. Eve was taking hormones to donate her eggs to Penelope. But she got pregnant by Tom before the doctor could extract her eggs. Now, Eve believes Penelope stole her baby, husband, and life. She will take them all back.<br/><br/>'What the what!' is the only way to describe this movie. Eve's actions seem strange, but the script looks into her background when Eve converses with her estranged mother. She tends to go off the deep end and lash out. Also, Eve is a toxic friend. She finds small ways to make sly comments about Penelope to tear her down. Her pathetic attempt to be the best becomes deadly. So take notes so you can avoid these types of 'friends.'<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mybestfriendthebabysnatcher.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mybestfriendthebabysnatcher.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"When Love Blooms",
-    "review":"Ann is a risk analyst who agonizes over the most minor decisions. Ann's boss calls Ann into his office. There is a promotion available. Ann assumes he is offering it to her, but he wants her to create a list of the top 5 candidates. Samantha tells Ann to speak up for herself and to demand to be on the list. Ann visibly shrinks in her chair and rejects the advice.<br/><br/>Later, Ann gets a phone call from her father, Tom. Tom hurt his wrist and needs help around the house. Ann drives to her hometown and stops to get food. She stands in line and mulls over what to order. A man, Aaron, tries to offer advice, but Ann snaps at him. Ann leaves the diner and walks to a flower shop to get Tom a get-well bouquet. Aaron owns the shop. After watching several agonizing minutes of Ann second-guessing herself, Aaron takes the reins and makes the gift.<br/><br/>Tom loves Ann's flowers and adds them to his greenhouse. Aaron enters the greenhouse as Tom explains flower growing and arranging. Tom reveals his ulterior motive. Tom and Aaron were going to compete in the Botanic Cup. Tom scanned the bylaws and discovered a loophole. If a competitor is indisposed, they can get an immediate family member to take their place. Ann and Aaron immediately say no. But Tom asks Ann to do it for her mom, and she relents. Now, a concise anthophilous has to work with an indecisive klutz. As Ann falls for Aaron, can she accept the queen of his life?<br/><br/>Yes, this movie is predictable and cute, but Ann's indecisiveness over every aspect of her life will drive some viewers mad. She can't decide what cake she wants and orders something she doesn't like. She has decidophobia, and it cripples her life at work and home. The writer added some humor and plant trivia to lighten the mood. This movie is not for you if you have a type A personality. Otherwise, it's a light-hearted way to kill two hours.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whenloveblooms.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whenloveblooms.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Dream Moms",
-    "review":"Danielle is a stay-at-home mom who volunteers and sings in the church choir. Her husband, Mark, may become a partner at his law firm, and their daughter, Sandra, has an audition for a ballet company. Sandra toys with the idea of learning from her uncle, hip-hop choreographer RJ, but Danielle gives her a hard no. Danielle tells Sandra to trust her because Danielle performed professionally. While she sings in the choir, Danielle wishes she could sing for an audience again.<br/><br/>Claire is a single-working-mom of two boys - Paul Jr. and Philip. She dreamed of becoming a dancer but left it behind when Paul Sr. left her and became famous ten years ago. Claire waited until the last minute to submit Paul's scholarship application and didn't enter it in time. Now, she must consider another way to pay for his education. She can depend on her neighbor, Sam, to help when she falls behind in household duties. Claire leaves work to meet with a client but goes to the wrong floor. She walks into RJ's studio. He tells her to go back to the concierge or join the group. She joins the team.<br/><br/>RJ teaches as his niece, Sandra, enters the class. He allows Sandra to dance but privately texts Danielle. Danielle stalks into the studio, looking for Sandra, but bumps into Claire's freestyle dancing. She takes Danielle's bump as a challenge and begins to serve. Afterward, RJ approaches Danielle and Claire with a proposition. He wants them to try out for a competition show called Take Two. It gives aspiring hopefuls a second chance to make a name for themselves. He suggests they split the prize money, $100,000, in three ways. He can get more exposure for his struggling studio, Claire can use the money for Paul, and Danielle can find her audience.<br/><br/>These mothers are different, but they have the same struggle: putting themselves first. Claire balances family and work but never feels like she does enough. Danielle cheers for Mark and Sandra but doesn't have anyone to sacrifice for her needs. Instead of comparing their lives, Claire and Sandra compliment each other and recognize that neither has it easy. Without ruining the ending, it is an unexpected surprise. This movie will find a warm place in the hearts of moms everywhere, but it won't be your favorite.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dreammoms.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dreammoms.jpeg"
     }
   }
 ];
@@ -55,45 +55,6 @@ module.exports = madeForTV;
 */
 
 /*
-
-{
-  "option":"1",
-  "mtitle":"Love, Marry, Kill",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovemarrykill.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovemarrykill.jpeg"
-  }
-},
-{
-  "option":"2",
-  "mtitle":"Nightmare Pageant Moms",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nightmarepageantmoms.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nightmarepageantmoms.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"Just Jake",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/justjake.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/justjake.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Love in Zion National Park: A National Park Romance",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinzionnationalparkanationalparkromance.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinzionnationalparkanationalparkromance.jpeg"
-  }
-}
-
-
 
 {
   "option":"1",
