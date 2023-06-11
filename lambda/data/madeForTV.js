@@ -1,49 +1,49 @@
 var madeForTV = [
-{
-  "option":"1",
-  "mtitle":"TLC Forever",
-  "review":"T-Boz and Chilli drive through T-Boz's old neighborhood and recount Chilli picking up the group members in her car. They prepare for the Glastonbury Festival during the height of the pandemic. Bill Diggins, their manager, monitors T-Boz's health and ensures the women have the time to practice. They reveal hiding their immense pain while completing their contractual agreements after the passing of their sister, bandmate Left Eye. They discuss forming the group, their bankruptcy, relationship troubles, illnesses, grief, ventures, and the future. No matter what happens in the business, T-Boz and Chilli make motherhood #1. Come on a journey of this iconic group from the start to now.<br/><br/>If you watch CrazySexyCool: The TLC Story, you know all the dirt, but it's with a Hollywood flare. Viewers will hear their stories from them in this documentary. Also, the program picks up where the movie left off. T-Boz and Chilli are reminding the world they never left, never lost it, and are ready to do it all again. While you won't learn anything new about the group, fans will gain a profound respect for them and their perseverance.<br/><br/>5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/tlcforever.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/tlcforever.jpeg"
+  {
+    "option":"1",
+    "mtitle":"Mary J. Blige's Real Love",
+    "review":"Kendra got a scholarship to attend Hammon College to the joy of her father. During Lift Every Voice and Sing, a student, Ben, approaches Kendra and asks for her number. She doesn't believe that he dares to interrupt this song. He explains that he has to do it because he is pledging a frat, and his big brother, Reggie, asked him to do it. Kendra laughs and confidently expresses her disinterest in Reggie.<br/><br/>Later, Kendra goes to the Bursar's office to apply for a job and sees Ben registering for classes. She talks about her passion for photography while Ben consistently puts his foot in his mouth. After Kendra leaves, Ben signs up for Intro to Photography. They make plans to see each other later. This choice will have a lasting impact on Kendra's education, safety, and love life.<br/><br/>Inspired by Real Love by Mary J. Blige, this movie hits on several issues in two hours. Kendra is a strong person with a good work ethic, but she is immature about love and how to navigate it. At first, Ben seems like a good catch. But he is stunted by his parent's expectations. Together, they learn that love is a journey with peaks and valleys. Part two can't come soon enough.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maryjbligesreallove.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maryjbligesreallove.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Aurora Teagarden Mysteries: Something New",
+    "review":"Aurora has a lot to juggle in the coming days. She must deliver her thesis topic, start a new job, and complete her bridesmaid duties. Aurora's best friend, Sally, will get married to Matt. Matt drops Sally off at Aida's home for Sally's bridal shower. In the melee, Sally remembers she was supposed to tell Matt something. Aurora offers to inform him and chases after Matt. She misses Matt but sees a woman lurking outside.<br/><br/>Friends and family gather at a party for the future bride and groom. Aurora talks to Matt's sister, Kara, while guests trickle into the door. Sally chats with Matt's business partner, Carson, about their company's lucrative buyout. Aurora checks on the guest when she hears a man yelling at Matt. Arthur escorts the man out, and they question Matt. Matt explains he doesn't know the man, and Sally believes Matt. Aurora leaves and sees Carson chasing off the lurking woman. Carson explains that the woman is Matt's ex-girlfriend, Dawn.<br/><br/>Sally frantically walks into the diner and begs for Aurora's help. Sally hasn't heard from or seen Matt all night. And he didn't come home in the morning. Sally tried to get into Matt's apartment. But he changes the code every month. Arthur decides to go with Aurora for physical and legal backup.<br/><br/>Aurora and Arthur enter Matt's apartment and find signs of a struggle. They follow blood drops to Matt's balcony and see a man lying face down in the grass. They fear it's Matt. It's the man who interrupted their party. They look at the man's ID and learn his name is Brody. As the police investigate, they uncover that someone murdered Brody. Since they can't find Matt, he is the police's number one suspect. Aurora can't stand to see Sally hurting and vows to find Matt and Brody's killer.<br/><br/>This prequel to the Aurora Teagarden series has promise. Fans see Aida struggling with a new business, Aurora delving into research for the first time, and Arthur finding his footing in police work. Seeing each character on the first step of a promising journey with self-doubt is inspiring. This new take on an established series will win over long-time fans and fresh faces.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aurorateagardenmysteriessomethingnew.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aurorateagardenmysteriessomethingnew.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Betrayed By My Bridesmaid",
+    "review":"Katie and her fiancé, Tom, will spend one night with his mom, Mrs. Lin, before staying at their hotel. They will get married in one week, and Katie is excited. Mrs. Lin meets Katie and instantly dislikes her.<br/><br/>Katie and company go to the hotel and meet her other bridesmaids, Heather and Jamie. As they greet each other, Katie hears someone summon her from a distance. It's her sister, Connie. In the past, Connie got drunk and slept with Katie's boyfriend at Katie's birthday party. Since then, Katie hasn't spoken to Connie. Katie swallows her pride and accepts Connie into the wedding because Connie is the only family member Katie has left. Katie will regret her decision to trust Connie, get married, and have fun after a string of unfortunate incidences.<br/><br/>This film proves that everyone sucks. Katie is a disrespectful bride who makes everyone prove how much they love her. Connie is a succubus. Tom and Heather are cowards, and Amanda's a jerk. If that isn't enough, Mrs. Lin is the evil mother-in-law. Also, the final fight scene is a laugh riot. If you watch this movie, be prepared for an annoying but funny ride.<br/><br/>2.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/betrayedbymybridesmaid.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/betrayedbymybridesmaid.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Danger Below Deck",
+    "review":"Melanie stands outside the club, hoping to get in, but the bouncer says they are at capacity. Melanie goes to the back of the club and sneaks inside. Melanie tries to blend in, but Jules spots her. However, Jules doesn't rat her out because he likes her tenacity. Melanie meets Chloe and thinks Chloe is glamorous. Chloe is an influencer who promotes parties. While Chloe's life looks aspirational, Melanie doesn't recognize the trouble around Chloe. Soon, Chloe leaves the club after seeing a scary man watching her across the room.<br/><br/>Jules texts Chloe with a job offer, but she turns it down. Chloe sees the same scary man outside her apartment and runs out the back door. However, he catches up to Chloe and demands she pay the $40,000 she owes. Chloe takes Jules's job and contacts Melanie to work with her. Melanie sees this job as a godsend because Melanie's boss fired her for texting during work. Melanie wants to help her father pay bills and her education. They will cruise and document themselves on social media with hashtags and location pins. The free trip is fast money for Chloe and Melanie. But all money isn't good money.<br/><br/>Melanie's once-in-a-lifetime adventure leads her into a torrid world of smuggling, drugs, and violence. This cautionary tale drags as the plot sets up the background characters as Chloe and Melanie dance, take pictures, and drink. Viewers will predict the ending because it's a Lifetime movie. But they will all be wrong. This conclusion saves the film because it's dripping with honesty. One poor decision will change the course of your life forever.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangerbelowdeck.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangerbelowdeck.jpeg"
+    }
+  },
+  {
+    "option":"5",
+    "mtitle":"The Weding Wish",
+    "review":"Jenny tells her friend, Billy, that she found the perfect lighting for her wedding. She can't wait to get married on her 35th birthday, as Madam Lotus predicted. Billy takes a deep breath and explains the flaw in Jenny's plan. She's single. Jenny refuses to believe she won't be married in 3 months. She booked a caterer, bought a dress, and sent invitations to family and friends. Then she gets a call from Carmen, an event manager. The Spanish Monastery Jenny booked wants to meet her and her husband to cement the date. Jenny tells Carmen her husband is a deep sea diver, but he will meet when he returns. Carmen gives Jenny two days to visit with her husband, or she will offer the date to another couple.<br/><br/>Jenny sits at Billy's receptionist desk while Billy talks to his boss, Clara. A man, Tyler, enters while talking on the phone about his next meeting. He doesn't hold back his resentment for the illustrator Clara hired for his new book. Clara exits her office and introduces Tyler to his new illustrator Jenny. Clara wants Tyler and Jenny to work together, but they dislike each other's work. She thinks his books are silly and shallow, and he believes her illustrations aren't kid friendly. Tyler's last book didn't sell well, and Jenny's art can advance his writing. Jenny leaves the meeting, and Tyler overhears her booking dilemma at the monastery. He offers to be her stand-in if she illustrates his next book. Tyler thinks Jenny's preparation is wild but bends backward to help her, including finding her future husband. Will this stand-in bring Jenny a husband?<br/><br/>Ok, what is this? Jenny is 100% delusional, and her friends go along with it. This movie is a study of shared psychotic disorder. Her delusion becomes sad, pathetic, and annoying. If Lifetime aired this film, she would be an insane stalker, not a dreamer. The conclusion tries to redeem the movie with Jenny's discovery of self-love, but it's too little too late.<br/><br/>1 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingwish.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theweddingwish.jpeg"
+    }
   }
-},
-{
-  "option":"2",
-  "mtitle":"The Dancing Detective: A Deadly Tango",
-  "review":"Captain Kelly calls Detective Constance Bailey into his office. He congratulates her for solving a case with extreme tenacity. However, Bailey doesn't work well with others. He must know she can collaborate before he gives her a high-profile case. The senator's brother, Mark Aston, died of a suspected heart attack. However, his family believes foul play was involved because Mark didn't have heart problems. Since Mark died in Malta, Bailey will have to go overseas and work with Interpol to investigate. Bailey promises to collaborate with her new partner.<br/><br/>Bailey meets her Interpol liaison, Sgt. Ana. Mark ran a dancing, team-building competition for his company. The competition is in a few days, and everyone will fly home. If someone killed Mark, the culprit will be out of reach soon. Ana tells Bailey that she will go undercover as an employee and dancer in the competition. Ana found a partner for Bailey named Sebastian. He is a dance instructor and pseudo-celebrity. Their undercover names are Steward and Sally. Sebastian meets Bailey, makes her put her hair down, and teaches her to Foxtrot.<br/><br/>Ana takes Bailey and Sebastian to the Iniala Hotel because the competitors, also suspects, are staying there. The event's liaison, Barbara, introduces Sebastian and Bailey as Steward and Sally. Mary, Mark's widow, greets them with a warm smile and zero sadness for Mark's death. Mary introduces them to Jennifer and Tom. Tom is the CFO, and Jennifer is the head of marketing. Kevin, the event's director, describes the group as one big happy family. Bailey wants to talk to Judy, the maid who found Mark's body, before they question Mark's employees. Sebastian wants to divide, conquer and help. When Bailey tries to blow him off, he says they must collaborate. She remembers Captain Kelly's words and decides to let Sebastian help, but only after they dance. Will they prove someone murdered Mark and find the culprit before the end of the competition?<br/><br/>The Dancing Detective has a twist for other H.M.M. mysteries. Bailey isn't a woman with another job who loves enigmas. She is a detective who prefers to work alone. Sebastian is the hanger-on who wants to play cop. However, his dance skills give him the ability to read body language. Sebastian leads on the dancefloor, but Bailey holds the top spot in the investigation. It will be interesting to see how these two will become partners again if this becomes a series. Sleuthers, prepare to watch this film two or three times to keep up.<br/><br/>5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thedancingdetectiveadeadlytango.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thedancingdetectiveadeadlytango.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"You'll Never Leave Me",
-  "review":"April takes a deep breath and gathers the strength to break up with Patrick. He told her he got a separation from his wife, Susan. But Richard is married and living with her. Patrick drives April home.. During the ride, they get into an accident. April suffers a broken arm, but Patrick is in a coma.<br/><br/>After healing, the doctors tell April she can go home. April walks to Patrick's room to speak to Susan. April tries to apologize, but Susan won't hear it. She blames April for the accident and the affair. April wants to return to work, but her panic attacks are too severe. With help, April believes this is the start of a new life. But Susan has other plans. She wants April to pay for what happened to Patrick. Susan hires her brother-in-law, Jimmy, to get close to April and kill her. What will Susan do when her Trojan Horse becomes another lovesick puppy under April's spell?<br/><br/>Let's get this out of the way. April is not a season! With that said, this movie is a slow burn with a low body count. And everyone makes blaring mistakes in the film. Then, the writers added a dream that may or may not have been real. But never explain if it was later. This film moves too slowly to keep your interest and doesn't have enough kills to be exciting.<br/><br/>2 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/youllneverleaveme.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/youllneverleaveme.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"The Love Club: Tara's Tune",
-  "review":"Tara takes a selfie with her date, sends it to her mom, excuses him for the evening, and sits on a car's hood. She follows Nicole to Lauren and Peter's New Year's party. They discuss their failed love lives, and her friends tell Tara to delete her latest app. Nicole thinks it's the first step to Tara's next dead-end relationship. The four lovelorn ladies name themselves the Love Club.<br/><br/>Today, Tara finishes her set and leaves the stage. Sam asks Tara to marry him after taking a picture with him and sending it to her mom, Nadine. Tara tells Sam she doesn't want a commitment and gets on stage to make a proclamation. This year will be the Year of Tara. Tara returns home with an idea and calls the Love Club. Later, Noah walks into the bar and asks for an audition. He needs money until he gets his big break. Tara listens to Noah and hires him on the spot.<br/><br/>Sydney, Nicole, and Lauren descend onto Tara's home. Then they find her declaration online, and it's viral. Tara is happy about the video and asks the Love Club to plan her commitment party for herself. The soiree doesn't put the Love Club at ease, but they agree to do it for Tara. As Tara and Noah create music together, the women see their connection but continue planning. Nicole decides to call Nadine about the wedding, and Nadine can't contain her surprise. Nadine assumed that Tara got engaged and never told her. Tara ignores Nadine until Nadine comes to town wanting to meet Tara's fiancé. Now, Tara needs a fiancé to convince her mother that the wedding is real. Later, she will give Nadine a fake breakup story.<br/><br/>Tara runs to Noah and begs Noah to be her fake betrothed. Noah refuses because he takes marriage seriously. Noah goes to his van and sees a tow truck taking it away. He runs to Tara's side as she talks to Nadine and introduces himself as her fiancé. When Nadine leaves, Noah says that his mind changed. The Love Club notices Noah and Tara's fake relationship looks real. The women will work together to help Tara see that she doesn't have to fear commitment and that Noah is the man for her.<br/><br/>This fourth Love Club installment starts differently than the others. Tara never desired love like her friends. Her 'happily ever after' was a record deal, not a husband. She must repair her relationship with Nadine to move forward. Seeing them sit and talk things through will put viewers at ease. Tara can move forward with Noah afterward. This movie is a solid conclusion for these women, but it doesn't feel like the end.<br/><br/>3 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theloveclubtarastune.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theloveclubtarastune.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"The Love Club: Lauren's Dream",
-  "review":"Lauren stands in shock because of Peter's news. Peter got the job across the country. Lauren thought he was looking at a local position because she wanted to work at a local gallery. Once again, Peter moved the goalpost on their relationship. She walks to the front door and greets Tara and Nicole. They sit next to Sydney. She tells them she wants to break up with Peter, but they persuade her to stay with him. After unveiling their issues, they declare themselves the Love Club.<br/><br/>Today, Lauren and Peter decided to get a divorce after years of marriage and a child, Stephanie. Lauren calls the Love Club for help, and each has a different perspective. Tara welcomes Lauren to the single life, Nicole wants them to work it out, and Sydney remains neutral. Lauren regrets never starting a gallery because she can't find a job now. They tell Lauren to keep her dream alive and look for a studio. Then, Tara creates a profile for Lauren on a dating app and looks at potential men through her fake account. During her search, Tara finds Peter's profile. Lauren chooses to sign the divorce papers at that moment and move on with her life.<br/><br/>Peter lets himself in in the morning because Stephanie forgot her book. As they talk privately, the Love Club watches outside. Nicole sees that Lauren and Peter still love each other by their body language, and she wants them to work it out. But will Nicole's plan work when Lauren meets a sexy artist named Carlos?<br/><br/>This third installment deals with more real-world issues than its predecessors. Two people love each other but fail to communicate. And this isn't a new issue. Peter feels like he is doing everything wrong. Lauren feels hurt and lost. Lauren never pushed for her dream, and Peter believed she was happy with the status quo. Once they start expressing their emotions, love can flourish. You will root for their relationship but become bothered by the games.<br/><br/>3 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theloveclublaurensdream.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theloveclublaurensdream.jpeg"
-  }
-}
 ];
 
 module.exports = madeForTV;
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Mary J. Blige's Real Love",
+  "mtitle":"Mary J. Blige's Strength of a Woman",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maryjbligesreallove.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maryjbligesreallove.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maryjbligesstrengthofawoman.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maryjbligesstrengthofawoman.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Aurora Teagarden Mysteries: Something New",
+  "mtitle":"Pocket Dial Murder",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aurorateagardenmysteriessomethingnew.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aurorateagardenmysteriessomethingnew.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pocketdialmurder.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pocketdialmurder.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Betrayed By My Bridesmaide",
+  "mtitle":"The Pregnancy Scheme",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/betrayedbymybridesmaid.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/betrayedbymybridesmaid.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thepregnancyscheme.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thepregnancyscheme.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Danger Below Deck",
+  "mtitle":"Written in the Stars",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangerbelowdeck.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangerbelowdeck.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/writteninthestars.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/writteninthestars.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"The Weding Wish",
+  "mtitle":"Love's Greek to Me",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingwish.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theweddingwish.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovesgreektome.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovesgreektome.jpeg"
   }
 }
 
