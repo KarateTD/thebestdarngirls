@@ -1,6 +1,30 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"John Wick: Chapter 4",
+    "review":"John trains as the Bowery King brings him a new suit. After hiding underground, John travels to Morocco to meet the new Elder of the High Table. John asks the Elder for his ring and freedom. The Elder tells John the wedding ring is long gone with the previous Elder. And they won't free John either. John stands and shoots the Elder in the head.<br/><br/>Marquis Vincent de Gramont visits the New York Continental Hotel. He strips Winston of his title and condemns the hotel because Winston didn't kill John. And he wants to put an end to John Wick. It starts with New York. Vincent will make every city respect the High Table by demolishing John's flagship hotel. Vincent pulls out his gun and kills Charon. Charon is Winston's consequence for deceiving the High Table.<br/><br/>Vincent leaves New York and travels to Paris. He summons Caine, John's friend and a retired assassin for the High Table, for a meeting. Vincent gives Caine a card with his mark's name: John Wick. Caine sighs and agrees.<br/><br/>John runs to the Osaka Continental to meet with the manager, Koji, against the wishes of his concierge, Akira. No one sees Tracker in the lobby with a notebook full of information about John Wick. The bounty of $15,000,000 isn't enough for Tracker, but he will keep an eye on John while it rises. John tells Koji that he plans to kill every member of the High Table. Koji warns John that John's path will only lead to more killing and destruction.<br/><br/>John meets with Winston, who agrees with Koji, to offer condolences for the Continental and Charon. Winston offers John a better idea. Winston tells John to request a duel against Vincent. According to legend, a family must sponsor him in the duel, and he tore his ticket to gain passage. John needs to find a new family, obtain a ticket, request a duel, and kill Marquis Vincent de Gramont to free himself of the High Table for good.<br/><br/>The fourth installment of John Wick packs more plot than its predecessors but maintains all the action. The battles were well-timed, in sync with the music, and innovative. If you haven't seen the previous three films, watch them before watching this film. The movie doesn't take the time to catch viewers up on what happened and why. This film is funnier and wiser than the first three films. Don't worry, because this film has a lot of blood, guns, axes, and nunchucks. So it has all the cringe-inducing violence you love. The downside to this film is the unrealistic survival. Viewers could believe one man could live through these battles, but a 50-foot drop onto the pavement is too far for any stretch of your imagination. This movie is a fitting conclusion for John Wick fans with new characters and locations. Also, it has one post-credit scene at the end.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0BZ5CH6CX"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/johnwickchapter4.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/johnwickchapter4.jpg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"The Super Mario Bros Movie",
+    "review":"Mario and Luigi quit their job at Spike's Wrecking Company to start their plumbing business. They watch their new commercial in a restaurant, and Spike laughs at them. Mario comes home to a family that loves mushrooms and criticizes his career choice because Mario spent his life savings on the commercial. However, Luigi believes in Mario. During their conversation, Mario hears a news report on TV. A main water pipe burst in Brooklyn, and it's flooding. Mario decides to save Brooklyn.<br/><br/>Mario and Luigi drive to Brooklyn, but Mario can see the workers are digging in the wrong spot. Mario opens a maintenance hole cover and jumps underground with Luigi. They are pulled into a Warp Pipe but get separated along the way. Mario sees Luigi heading to darkness and fire, but he lands in the Mushroom Kingdom.<br/><br/>He attempts to touch one, and a mushroom jumps and introduces himself as Toad. Mario describes where Luigi landed, and Toad knows it well. It's the Dark Lands. Koopa King Bowser took over the area and stole the Super Star. Toad knows that Princess Peach is planning a preemptive strike to keep King Bowser's reign from spreading. So Toad takes Mario to Princess Peach to get her help.<br/><br/>After talking to her counsel, Princess Peach knows she will need an army to defeat King Bowser. The closest army is in the Jungle Kingdom, and King Cranky Kong rules it. King Cranky Kong refuses to let Princess Peach uses his army, but Mario won't take no for an answer because he wants to save Luigi. So King Cranky Kong will let Princess Peach use his army, but only if Mario can beat his son, Donkey Kong. Mario will fight with power-ups, flying fists, and a catsuit. However, they have Bowser all wrong. He doesn't want to take over the Mushroom Kingdom. He stole the star to impress and marry Princess Peach.<br/><br/>This feast for the eyes combines Super Mario Bros, Mario Kart, and Donkey Kong. It has hidden easter eggs throughout the movie for long-time gaming fans. The colors are vibrant. They teleport you to a universe you may or may not know. And video gamers, be ready for the training montage. It will make your hands twitch for the controller. The movie provides humor for kids and adults without being raunchy or sneaky. The soundtrack includes music from all genres and decades. And make sure you stay for the mid and post-credit scenes.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":"B0BZ6ZYZK8"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesupermariobrosmovie.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesupermariobrosmovie.jpeg"
+    }
+  },
+  {
+    "option":"3",
     "mtitle":"Renfield",
     "review":"Real estate lawyer Robert Montague Renfield helped Count Dracula purchase a castle. Renfield hoped the deal will allow him to enter upper society and provide a better life for his family. However, he becomes Dracula's familiar for centuries. While drinking humans makes Dracula stronger, Renfield draws his from bugs.<br/><br/>Renfield attends a Dependent Relationships Addiction Anonymous Group, a.k.a DRAAG, in present-day New Orleans. Renfield never speaks during these meetings but helps the members by killing their abusive partners. After the group, Renfield follows an abusive boyfriend to his lair. He and his friends stole drugs from the most feared crime family in New Orleans, the Lobos. Renfield kills everyone inside as Teddy Lobo brings a hired assassin to get payback for the theft. Renfield beheads the hired gun, and Teddy flees the scene with kilos of drugs in his car. Teddy drives to a DUI checkpoint and sees Officer Rebecca Quincy working. Frustrated with her department's unwillingness to help, Rebecca returns to the scene and finds a pen with a restaurant logo. She goes to the restaurant to see if Teddy is there committing a crime.<br/><br/>Teddy's mother, Bella, has grown tired of Teddy's antics. She doesn't believe he has what it takes to lead the family. She wants Teddy to kill Rebecca and demonstrate that he can run the Lobos.<br/><br/>Renfield brings his latest kill to Dracula, who is still healing from an attack, but Dracula is unhappy. The blood isn't innocent and pure. Then Renfields sees Dracula's plan for world domination. Renfield goes to his favorite restaurant and prays for relief as each of Dracula's requests enters, including Rebecca. Renfield walks to the door to leave but sees Teddy and his henchman running toward the entrance with guns. Renfield hides with the other patrons, and Teddy puts a gun to Rebecca's head. Rebecca's courage inspires Renfield. He eats a bug and helps Rebecca take down Teddy's gang. Renfield runs to the group and begs for guidance. He needs to focus on himself. Dracula won't let Renfield leave without a fight and will destroy everything Renfield cares about, including Rebecca, to make Renfield return and suffer.<br/><br/>Based on vampire lore, this movie is funny and gory. The movie's core is surviving unhealthy relationships. Like most abusive relationships, Dracula retaliates when Renfield attempts to leave. He attacks Renfield's self-esteem and friends. Outside the plot, this film has fun, bloody fight scenes. Don't be fooled. Rebecca doesn't sit around screaming for help. She kills and fights her way out of situations. This new twist on a classic has something for everyone. This movie is for the M3GAN and Cocaine Bear fans.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -12,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"4",
     "mtitle":"Dungeons and Dragons: Honor Among Thieves",
     "review":"Dungeons and Dragons: Honor Among Thieves was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -24,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"5",
     "mtitle":"Creed III",
     "review":"Creed III was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -33,30 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/creediii.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/creediii.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Shazam! Fury of the Gods",
-    "review":"Billy wants his family to fight crime together, but everyone wants to explore separate interests. Mary understands what Billy is going through. In 5 months, Billy will age out of the system, and his foster parents, Victor and Rosa, can barely afford rent. Mary tells Billy to get a job and contribute or go to college. A therapist also diagnosed Billy with imposter syndrome because Billy feels like the Wizard picked the wrong person. Each time the family tries to save the day, they do more harm than good. The newspaper dubbed them the Philly Fiascos.<br/><br/>Freddy overhears a museum robbery over the scanners. Two women walked into the Acropolis Museum, stole an artifact, and turned the visitors into dust. Later, the Wizard enters Billy's dream with a warning. The daughters of Atlas - Hespera, Kalypso, and Anthea - entered Billy's realm. They want to find the golden apple and use its seeds to recreate the Tree of Life. Centuries ago, human wizards grew tired of the games the gods played with people. So they stole a branch off the Tree of Life, created the staff, took their magic, and trapped the daughters in their realm. They would stay powerless in their realm if the Wizard's staff stayed intact. Billy remembers having the Wizard's staff, breaking it in half, and leaving it after their battle with Dr. Thaddeus and the Seven Deadly Sins. They need to find the third sister, the staff, and the golden apple to save their realm from the Fury of the Gods.<br/><br/>Welcome D.C.E.U. fans to a sequel that's better than the first. Billy introduces the audience to his family and their growth over two years. It's not necessary to see the first movie to understand the second, but it helps you see the nuances and changes in Billy's family dynamics. The script never has a dull moment, and the jokes are often sly. Family bonds are at the forefront of this film. The graphics are stunning during the fights and doesn't distract the audience. If you are a fan of the first, this movie will not disappoint. So see it with your preteens and stay for the mid-credit and post-credit scenes. And yes, you get a D.C.E.U. surprise.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0BXV1FQ9F"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/shazamfuryofthegods.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/shazamfuryofthegods.jpg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Champions",
-    "review":"Champions was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0BX8D4DVK"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/champions.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/champions.jpg"
     }
   }
 ];
@@ -124,31 +124,9 @@ module.exports = mustBuy;
     }
   }
 
- {
-    "option":"5",
-    "mtitle":"John Wick: Chapter 4",
-    "review":"John trains as the Bowery King brings him a new suit. After hiding underground, John travels to Morocco to meet the new Elder of the High Table. John asks the Elder for his ring and freedom. The Elder tells John the wedding ring is long gone with the previous Elder. And they won't free John either. John stands and shoots the Elder in the head.<br/><br/>Marquis Vincent de Gramont visits the New York Continental Hotel. He strips Winston of his title and condemns the hotel because Winston didn't kill John. And he wants to put an end to John Wick. It starts with New York. Vincent will make every city respect the High Table by demolishing John's flagship hotel. Vincent pulls out his gun and kills Charon. Charon is Winston's consequence for deceiving the High Table.<br/><br/>Vincent leaves New York and travels to Paris. He summons Caine, John's friend and a retired assassin for the High Table, for a meeting. Vincent gives Caine a card with his mark's name: John Wick. Caine sighs and agrees.<br/><br/>John runs to the Osaka Continental to meet with the manager, Koji, against the wishes of his concierge, Akira. No one sees Tracker in the lobby with a notebook full of information about John Wick. The bounty of $15,000,000 isn't enough for Tracker, but he will keep an eye on John while it rises. John tells Koji that he plans to kill every member of the High Table. Koji warns John that John's path will only lead to more killing and destruction.<br/><br/>John meets with Winston, who agrees with Koji, to offer condolences for the Continental and Charon. Winston offers John a better idea. Winston tells John to request a duel against Vincent. According to legend, a family must sponsor him in the duel, and he tore his ticket to gain passage. John needs to find a new family, obtain a ticket, request a duel, and kill Marquis Vincent de Gramont to free himself of the High Table for good.<br/><br/>The fourth installment of John Wick packs more plot than its predecessors but maintains all the action. The battles were well-timed, in sync with the music, and innovative. If you haven't seen the previous three films, watch them before watching this film. The movie doesn't take the time to catch viewers up on what happened and why. This film is funnier and wiser than the first three films. Don't worry, because this film has a lot of blood, guns, axes, and nunchucks. So it has all the cringe-inducing violence you love. The downside to this film is the unrealistic survival. Viewers could believe one man could live through these battles, but a 50-foot drop onto the pavement is too far for any stretch of your imagination. This movie is a fitting conclusion for John Wick fans with new characters and locations. Also, it has one post-credit scene at the end.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0BZ5CH6CX"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/johnwickchapter4.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/johnwickchapter4.jpg"
-    }
-  }
 
-   {
-    "option":"5",
-    "mtitle":"The Super Mario Bros Movie",
-    "review":"Mario and Luigi quit their job at Spike's Wrecking Company to start their plumbing business. They watch their new commercial in a restaurant, and Spike laughs at them. Mario comes home to a family that loves mushrooms and criticizes his career choice because Mario spent his life savings on the commercial. However, Luigi believes in Mario. During their conversation, Mario hears a news report on TV. A main water pipe burst in Brooklyn, and it's flooding. Mario decides to save Brooklyn.<br/><br/>Mario and Luigi drive to Brooklyn, but Mario can see the workers are digging in the wrong spot. Mario opens a maintenance hole cover and jumps underground with Luigi. They are pulled into a Warp Pipe but get separated along the way. Mario sees Luigi heading to darkness and fire, but he lands in the Mushroom Kingdom.<br/><br/>He attempts to touch one, and a mushroom jumps and introduces himself as Toad. Mario describes where Luigi landed, and Toad knows it well. It's the Dark Lands. Koopa King Bowser took over the area and stole the Super Star. Toad knows that Princess Peach is planning a preemptive strike to keep King Bowser's reign from spreading. So Toad takes Mario to Princess Peach to get her help.<br/><br/>After talking to her counsel, Princess Peach knows she will need an army to defeat King Bowser. The closest army is in the Jungle Kingdom, and King Cranky Kong rules it. King Cranky Kong refuses to let Princess Peach uses his army, but Mario won't take no for an answer because he wants to save Luigi. So King Cranky Kong will let Princess Peach use his army, but only if Mario can beat his son, Donkey Kong. Mario will fight with power-ups, flying fists, and a catsuit. However, they have Bowser all wrong. He doesn't want to take over the Mushroom Kingdom. He stole the star to impress and marry Princess Peach.<br/><br/>This feast for the eyes combines Super Mario Bros, Mario Kart, and Donkey Kong. It has hidden easter eggs throughout the movie for long-time gaming fans. The colors are vibrant. They teleport you to a universe you may or may not know. And video gamers, be ready for the training montage. It will make your hands twitch for the controller. The movie provides humor for kids and adults without being raunchy or sneaky. The soundtrack includes music from all genres and decades. And make sure you stay for the mid and post-credit scenes.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0BZ6ZYZK8"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesupermariobrosmovie.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesupermariobrosmovie.jpeg"
-    }
-  }
+
+
 
    {
     "option":"1",
