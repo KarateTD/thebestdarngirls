@@ -95,7 +95,7 @@ module.exports = madeForTV;
 {
   "option":"5",
   "mtitle":"Love's Greek to Me",
-  "review":"<br/><br/>* out of 5 stars.",
+  "review":"<br/><br/>5 out of 5 stars.",
   "image":{
     "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovesgreektome.jpeg",
     "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovesgreektome.jpeg"
