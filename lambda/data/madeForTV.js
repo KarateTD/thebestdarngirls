@@ -76,15 +76,6 @@ module.exports = madeForTV;
 },
 {
   "option":"3",
-  "mtitle":"Look Who's Stalking",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lookwhosstalking.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lookwhosstalking.jpeg"
-  }
-},
-{
-  "option":"4",
   "mtitle":"The Secret Sauce",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
@@ -93,7 +84,7 @@ module.exports = madeForTV;
   }
 },
 {
-  "option":"5",
+  "option":"4",
   "mtitle":"The Wedding Contract",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
