@@ -56,7 +56,24 @@ module.exports = inTheTheaters;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Elemental",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/elemental.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/elemental.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"The Flash",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theflash.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theflash.jpeg"
+  }
+}
 
 */
 

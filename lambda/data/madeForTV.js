@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Mary J. Blige's Real Love",
-    "review":"Kendra got a scholarship to attend Hammon College to the joy of her father. During Lift Every Voice and Sing, a student, Ben, approaches Kendra and asks for her number. She doesn't believe that he dares to interrupt this song. He explains that he has to do it because he is pledging a frat, and his big brother, Reggie, asked him to do it. Kendra laughs and confidently expresses her disinterest in Reggie.<br/><br/>Later, Kendra goes to the Bursar's office to apply for a job and sees Ben registering for classes. She talks about her passion for photography while Ben consistently puts his foot in his mouth. After Kendra leaves, Ben signs up for Intro to Photography. They make plans to see each other later. This choice will have a lasting impact on Kendra's education, safety, and love life.<br/><br/>Inspired by Real Love by Mary J. Blige, this movie hits on several issues in two hours. Kendra is a strong person with a good work ethic, but she is immature about love and how to navigate it. At first, Ben seems like a good catch. But he is stunted by his parent's expectations. Together, they learn that love is a journey with peaks and valleys. Part two can't come soon enough.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Mary J. Blige's Strength of a Woman",
+    "review":"Fifteen years after Kendra left Ben in her rearview mirror, she became a successful photographer with high-profile clients. She married Kevin, settled in Chicago, and maintained her friendship with Terry and Terry's son, Miles. Kendra and Kevin want a baby, but his surgery schedule keeps Kevin busy.<br/><br/>Kendra sees Ben at the fundraiser. They try to have a civilized conversation, but Kendra gets upset when Ben says he misses her, and she leaves. Kendra settles back into her life again but receives a devastating phone call. Her father died. Kendra travels to North Carolina for the funeral. Kendra meets Ben on the back porch, and he admits he and Connie are legally separated. Kendra was the woman he wanted, then and now. Kendra refuses to listen and exits.<br/><br/>Kendra eats alone and gets a notification from her ovulation tracker. She decides to surprise Kevin with evening delight. She pulls up to the hospital and finds Kevin kissing another woman. Kendra decides to stay at Terry's house to blow off some steam. Terry tells Kendra that Kevin treats Kendra like an afterthought. Kendra believes that Kevin loves her. She wants to display her strength by holding on and making her marriage work. Kendra will learn how strong she can be when she lets go.<br/><br/>Inspired by Strength of a Woman, this film covers Kendra's growth through marriage, friendship, and loss. It doesn't take long to see Kevin's deplorable behavior towards Kendra. Unlike the first movie, Kendra is in a downward spiral of her making. She continues to make the wrong choices to appear strong through commitment, but it weakens her spirit and self-respect. Don't give up on her. Kendra rises from the ashes and leaves the door open for part 3.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maryjbligesreallove.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maryjbligesreallove.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maryjbligesstrengthofawoman.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maryjbligesstrengthofawoman.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Aurora Teagarden Mysteries: Something New",
-    "review":"Aurora has a lot to juggle in the coming days. She must deliver her thesis topic, start a new job, and complete her bridesmaid duties. Aurora's best friend, Sally, will get married to Matt. Matt drops Sally off at Aida's home for Sally's bridal shower. In the melee, Sally remembers she was supposed to tell Matt something. Aurora offers to inform him and chases after Matt. She misses Matt but sees a woman lurking outside.<br/><br/>Friends and family gather at a party for the future bride and groom. Aurora talks to Matt's sister, Kara, while guests trickle into the door. Sally chats with Matt's business partner, Carson, about their company's lucrative buyout. Aurora checks on the guest when she hears a man yelling at Matt. Arthur escorts the man out, and they question Matt. Matt explains he doesn't know the man, and Sally believes Matt. Aurora leaves and sees Carson chasing off the lurking woman. Carson explains that the woman is Matt's ex-girlfriend, Dawn.<br/><br/>Sally frantically walks into the diner and begs for Aurora's help. Sally hasn't heard from or seen Matt all night. And he didn't come home in the morning. Sally tried to get into Matt's apartment. But he changes the code every month. Arthur decides to go with Aurora for physical and legal backup.<br/><br/>Aurora and Arthur enter Matt's apartment and find signs of a struggle. They follow blood drops to Matt's balcony and see a man lying face down in the grass. They fear it's Matt. It's the man who interrupted their party. They look at the man's ID and learn his name is Brody. As the police investigate, they uncover that someone murdered Brody. Since they can't find Matt, he is the police's number one suspect. Aurora can't stand to see Sally hurting and vows to find Matt and Brody's killer.<br/><br/>This prequel to the Aurora Teagarden series has promise. Fans see Aida struggling with a new business, Aurora delving into research for the first time, and Arthur finding his footing in police work. Seeing each character on the first step of a promising journey with self-doubt is inspiring. This new take on an established series will win over long-time fans and fresh faces.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Pocket Dial Murder",
+    "review":"Stacey picks up a phone call from her husband, Jeff, and hears a woman screaming on the other end. Then a gunshot. Filled with fear, Stacey contacts her sister, Joelle. Joelle tells Stacey to call the police, but Stacey doesn't believe that's wise. Stacey and Jeff's phones share locations. The killer could have Jeff's phone, check the call logs, and pinpoint her location. Joelle leaves work, contacts the police, and drives to Stacey's home.<br/><br/>Stacey sits with Joelle and Detective Munger to go over the pocket dial. As Detective Munger questions Stacey, Jeff walks into the kitchen. Jeff discovered his phone was gone when working late with his co-worker, Ellen. Stacey breathes a sigh of relief as Joelle gets a text from her husband, Alek. After Detective Munger leaves, Stacey questions Jeff's whereabouts. She thinks he is sleeping with Ellen because Jeff had an affair before. Jeff promises that he is faithful and wouldn't hurt Stacey again.<br/><br/>Over the coming days, Stacey fixates on the pocket dial and her safety. However, Detective Munger makes the most startling discovery: the body of Juliette Lane. They classify Juliette as a homicide victim and release her name to the public. Jeff and Stacey see the news report, and Jeff tells Stacey that he doesn't recognize her. But he is lying. Jeff knew and worked with Juliette. As the truth unfolds, Stacey could lose her marriage and life.<br/><br/>This film is a mystery for the viewers, but don't mistake Stacey for an amateur investigator. The police go on a wild goose chase because of Stacey. She is Lifetime's Inspector Gadget. Aside from Stacey's interference, the plot gives viewers plenty of suspects, motives, and offputting actions. If you focus on the story, you will discover the killer has two reasons to commit the crime.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aurorateagardenmysteriessomethingnew.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aurorateagardenmysteriessomethingnew.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pocketdialmurder.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pocketdialmurder.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Betrayed By My Bridesmaid",
-    "review":"Katie and her fiancé, Tom, will spend one night with his mom, Mrs. Lin, before staying at their hotel. They will get married in one week, and Katie is excited. Mrs. Lin meets Katie and instantly dislikes her.<br/><br/>Katie and company go to the hotel and meet her other bridesmaids, Heather and Jamie. As they greet each other, Katie hears someone summon her from a distance. It's her sister, Connie. In the past, Connie got drunk and slept with Katie's boyfriend at Katie's birthday party. Since then, Katie hasn't spoken to Connie. Katie swallows her pride and accepts Connie into the wedding because Connie is the only family member Katie has left. Katie will regret her decision to trust Connie, get married, and have fun after a string of unfortunate incidences.<br/><br/>This film proves that everyone sucks. Katie is a disrespectful bride who makes everyone prove how much they love her. Connie is a succubus. Tom and Heather are cowards, and Amanda's a jerk. If that isn't enough, Mrs. Lin is the evil mother-in-law. Also, the final fight scene is a laugh riot. If you watch this movie, be prepared for an annoying but funny ride.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"The Pregnancy Scheme",
+    "review":"Julia looks for work after breaking up with her boyfriend, Drew. Her friend, Celia, wants to have a girls' night to celebrate the end of her relationship and her return to the dating world. At the party, Julia meets Celia's other friend, Alana. They converse about charcuterie boards, making friends as adults, and failed relationships.<br/><br/>Julia gets a period reminder on her phone and takes a pregnancy test. It comes back positive. Julia goes to the OB GYN to confirm the results and discovers she's near the end of her first trimester. Julia has to pay hundreds of dollars because she doesn't have insurance. She decides to keep the baby but ponders how to pay for it. Drew is happy to become a dad but doesn't have a job either. Julia attends yoga to relax, but Alana is there instead of Celia. Julia reveals her pregnancy and money problems to Alana. Later, Alana devises a plan. They will sell positive pregnancy tests. At first, it's easy money. But the game turns dangerous.<br/><br/>Can we get a vote that everybody sucks? No one in this movie wants to take responsibility for their choices. Drew may be childish, but at least he owns his actions. However, everything else will have you throwing things at the screen. Skip this movie unless you want to hate-watch something.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/betrayedbymybridesmaid.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/betrayedbymybridesmaid.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thepregnancyscheme.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thepregnancyscheme.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Danger Below Deck",
-    "review":"Melanie stands outside the club, hoping to get in, but the bouncer says they are at capacity. Melanie goes to the back of the club and sneaks inside. Melanie tries to blend in, but Jules spots her. However, Jules doesn't rat her out because he likes her tenacity. Melanie meets Chloe and thinks Chloe is glamorous. Chloe is an influencer who promotes parties. While Chloe's life looks aspirational, Melanie doesn't recognize the trouble around Chloe. Soon, Chloe leaves the club after seeing a scary man watching her across the room.<br/><br/>Jules texts Chloe with a job offer, but she turns it down. Chloe sees the same scary man outside her apartment and runs out the back door. However, he catches up to Chloe and demands she pay the $40,000 she owes. Chloe takes Jules's job and contacts Melanie to work with her. Melanie sees this job as a godsend because Melanie's boss fired her for texting during work. Melanie wants to help her father pay bills and her education. They will cruise and document themselves on social media with hashtags and location pins. The free trip is fast money for Chloe and Melanie. But all money isn't good money.<br/><br/>Melanie's once-in-a-lifetime adventure leads her into a torrid world of smuggling, drugs, and violence. This cautionary tale drags as the plot sets up the background characters as Chloe and Melanie dance, take pictures, and drink. Viewers will predict the ending because it's a Lifetime movie. But they will all be wrong. This conclusion saves the film because it's dripping with honesty. One poor decision will change the course of your life forever.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Written in the Stars",
+    "review":"Copy editor Kelsey gave herself ten years to become a feature writer. She has one month left to fulfill that promise. So she came up with a list of article ideas and will later give them to her boss, Max, the editor-in-chief. Before their meeting, Kelsey walks and gets a smoothie to relax her nerves. A dog jumps on Kelsey, knocks her down, and spills the drink all over her work shirt. A man, Carter, pulls the dog off Kelsey and apologizes. Her meeting with Max is soon, so she returns to the office without exchanging names with Carter. Before meeting with Max, Kelsey borrows a scarf from her friend, Molly, to cover the stain. Molly tells Kelsey the meeting will go well because, according to the Star Stories app, her stars align with her moon.<br/><br/>Kelsey presents a long list of ideas to Max, but he rejects them all because they aren't original. She makes a quip about the app being incorrect. Max perks up and asks Kelsey to explain. She presents an idea about giving a skeptic's view of Star Stories and interviewing the creator, Carter. The creator never talks to reporters. Max loves the idea and tells her to write 1000 words by Monday. Molly looks up Carter online and discovers he will return to his hometown for a Meteor Festival. Kelsey bumps into Carter again at the elevators, but they don't exchange names again.<br/><br/>They arrive and meet the B and B's proprietors, Brian and Joan. Kelsey immediately asks if they know Carter. They exchange a knowing glance and laugh. Carter is their son. Carter enters the room and calls their third encounter fate. She tells him about the article and her 10-year plan, but he is apprehensive about the interview. Years ago, an ex-girlfriend wrote a scathing exposé that almost ruined the app's launch. Will Kelsey convince Carter to do the article while falling in love with him?<br/><br/>This movie has some sweet moments, but it's far too predictable. You don't care about the characters enough to wonder about their past or future. The storyline's saving grace is the information about astrology. If you want to kill two hours or briefly learn about astrology, this movie is for you. Otherwise, don't waste the spot on your DVR.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangerbelowdeck.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangerbelowdeck.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/writteninthestars.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/writteninthestars.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"The Weding Wish",
-    "review":"Jenny tells her friend, Billy, that she found the perfect lighting for her wedding. She can't wait to get married on her 35th birthday, as Madam Lotus predicted. Billy takes a deep breath and explains the flaw in Jenny's plan. She's single. Jenny refuses to believe she won't be married in 3 months. She booked a caterer, bought a dress, and sent invitations to family and friends. Then she gets a call from Carmen, an event manager. The Spanish Monastery Jenny booked wants to meet her and her husband to cement the date. Jenny tells Carmen her husband is a deep sea diver, but he will meet when he returns. Carmen gives Jenny two days to visit with her husband, or she will offer the date to another couple.<br/><br/>Jenny sits at Billy's receptionist desk while Billy talks to his boss, Clara. A man, Tyler, enters while talking on the phone about his next meeting. He doesn't hold back his resentment for the illustrator Clara hired for his new book. Clara exits her office and introduces Tyler to his new illustrator Jenny. Clara wants Tyler and Jenny to work together, but they dislike each other's work. She thinks his books are silly and shallow, and he believes her illustrations aren't kid friendly. Tyler's last book didn't sell well, and Jenny's art can advance his writing. Jenny leaves the meeting, and Tyler overhears her booking dilemma at the monastery. He offers to be her stand-in if she illustrates his next book. Tyler thinks Jenny's preparation is wild but bends backward to help her, including finding her future husband. Will this stand-in bring Jenny a husband?<br/><br/>Ok, what is this? Jenny is 100% delusional, and her friends go along with it. This movie is a study of shared psychotic disorder. Her delusion becomes sad, pathetic, and annoying. If Lifetime aired this film, she would be an insane stalker, not a dreamer. The conclusion tries to redeem the movie with Jenny's discovery of self-love, but it's too little too late.<br/><br/>1 out of 5 stars.",
+    "mtitle":"Love's Greek to Me",
+    "review":"Ilana and her boyfriend, Mike, finish their work responsibilities before going to Greece for Mike's sister's wedding. Ilana expresses concern to her mother, Susie, while maintaining a calm demeanor for Mike. Ilana is nervous about meeting Mike's family for the first time, especially his mother, Athena. Athena wants Mike and Ilana to get engaged, but Ilana thinks it's too soon because she and Mike have only dated for a year and a half.<br/><br/>Ilana and Mike arrive at Athena's hotel, Canaves Oia. Mike takes Ilana to a quiet romantic place, and she alerts him his shoelace is undone. He kneels to tie it, and Athena emerges from her hiding spot to congratulate them. Horrified, Mike whispers to Athena that he hasn't asked yet. With no recourse, Mike proposes to Ilana, and she accepts. Athena wastes no time imposing her will with little pushback from Mike. However, Ilana won't easily relent. As Ilana battles Athena, it stirs discourse between Mike and Ilana. They never discuss their future beyond dating. Can their engagement handle their differing career paths and personal outlooks?<br/><br/>Be ready to say 'the audacity' when watching this comedic, heart-warming gem. Ilana and Athena don't realize they are different sides of the same coin. They love their jobs, deeply connect with family, and love Mike. They must compromise to find happiness. The script carefully tries to not make Athena the villain. She says the wrong thing, but it's for tradition and love. This movie will be a genuine classic and leave fans hopeful for a part two.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingwish.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theweddingwish.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovesgreektome.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovesgreektome.jpeg"
     }
   }
 ];
@@ -58,48 +58,49 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Mary J. Blige's Strength of a Woman",
+  "mtitle":"Keyshia Cole: This is My Story",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/maryjbligesstrengthofawoman.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/maryjbligesstrengthofawoman.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/keyshiacolethisismystory.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/keyshiacolethisismystory.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Pocket Dial Murder",
+  "mtitle":"My Husband's Worst Mistake",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pocketdialmurder.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pocketdialmurder.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myhusbandsworstmistake.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myhusbandsworstmistake.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"The Pregnancy Scheme",
+  "mtitle":"Look Who's Stalking",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thepregnancyscheme.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thepregnancyscheme.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lookwhosstalking.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lookwhosstalking.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Written in the Stars",
+  "mtitle":"The Secret Sauce",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/writteninthestars.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/writteninthestars.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesecretsauce.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesecretsauce.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Love's Greek to Me",
-  "review":"<br/><br/>5 out of 5 stars.",
+  "mtitle":"The Wedding Contract",
+  "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lovesgreektome.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lovesgreektome.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingcontract.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theweddingcontract.jpeg"
   }
 }
+
 
 */
