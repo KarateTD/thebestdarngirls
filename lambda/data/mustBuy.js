@@ -89,7 +89,7 @@ module.exports = mustBuy;
     "mtitle":"Joy Ride",
     "review":"Joy Ride was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":""
+      "re":"B0C7YMLPKQ"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/joyride.jpeg",
@@ -211,6 +211,19 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/spidermanacrossthespiderverse.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/spidermanacrossthespiderverse.jpeg"
+    }
+  }
+
+    {
+    "option":"1",
+    "mtitle":"Indiana Jones and the Dial of Destiny",
+    "review":"Indiana Jones and Basil Shaw battle the Nazis to recover the Lance of Longinus on a Nazi plunder train. However, Jones and the Nazi astrophysicist Jürgen Voller discover the artifact is fake. Among the train relics, Voller found Antikythera, a mechanism to locate fissures in time. Jones and Shaw battle Voller on the train and steal the Antikythera from Voller. Shaw is happy to have the device, but Jones knows they only have half of it.<br/><br/>Indiana Jones teaches his last class and retires. He goes to the local pub to celebrate, and a student sits beside him. He doesn't recognize her immediately until she tells Jones her name: Helena Shaw. She is Basil's daughter and Jones's goddaughter. She wants to know more about the relic and its current location. She believes Basil knew where to find the other half. Jones takes Helena to the school's archives and removes the machine from a hidden drawer. When CIA operatives distract Jones, Helena grabs the Dial and runs away.<br/><br/>The operatives work for Voller, who now hides as a NASA scientist on the recently-successful Apollo 11 project. They murder Jones's former co-worker but can't find Helena. Jones tries to call for help after discovering his co-worker's body, but an operative stops and grabs Jones. Jones manipulates the Apollo parade to escape and runs to Sallah for assistance. Sallah uncovered that Helena isn't a student. She is a grifter who sells historical artifacts on the black market. Jones must find Helena and the Dial before Voller finds them.<br/><br/>This review will feel disjointed because the action is missing to remove spoilers. The movie nods to the original but doesn't alienate new viewers. Helena is brilliant, but she isn't an archeologist. While she displays a careless exterior, Jones sees her passion for history and Basil's legacy. Jones is a hero without a purpose. He needs this mission to remember the man he wants to be. This new installment has a temporal plot. But it's not the film's focus. The storyline is about the hunt, not time travel. Audiences should see this movie on the big screen and fall in love for the first time or all over again.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/indianajonesandthedialofdestiny.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/indianajonesandthedialofdestiny.jpeg"
     }
   }
 */
