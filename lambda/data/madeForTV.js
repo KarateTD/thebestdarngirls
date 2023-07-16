@@ -1,49 +1,50 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"V.C. Andrews' Dawn",
-    "review":"Sally and Ormand Longchamp pack their family and move for Ormand's new job at Emerson Peabody School. His children - Jimmy and Dawn - can attend the private school for free, and they have a great music program for Dawn. Also, Sally is expecting and thinks the new place is good for the baby.<br/><br/>Dawn and Jimmy attempt to keep a low profile at school, but Dawn catches the eye of Philip Cutler. Dawn dresses for gym class as the teacher enters the locker room and smells smoke. Dawn points out that smoke is coming from a locker, and the teacher finds a burning cigarette. It belongs to Clara Jean. Clara Jean wages war on Dawn by putting her clothes inside the toilet. An outsider, Louise, befriends Dawn and tells Dawn that Clara Jean is a Cutler. Their family owns the largest hotel and runs the town.<br/><br/>Dawn tells Sally about running into the Cutlers, and Sally demands that Dawn stays away. However, Dawn defies Sally and kisses Philip. After Dawn's performance, Jimmy pulls her off stage because Sally is having the baby. Dawn, Jimmy, and Ormand wait in the lobby as Sally gives birth. A security guard thinks he recognizes Ormand, but Ormand says the guard is mistaken. Sally and Ormand take home their baby girl, Fern.<br/><br/>Days later, Sally is ill after giving birth and not getting better. Sally has consumption. Sally dies, and Ormand mourns in the hospital with Jimmy and Dawn. Then, the security guard escorts police officers to arrest Ormand. A detective informs Dawn that Ormand is in jail for kidnapping her as an infant. Dawn's real name is Eugenia Cutler.<br/><br/>Dawn arrives at the large estate, and Mrs. Boston, the staff manager, directs Dawn to her grandmother's office. Her grandmother, Lillian, refuses to wake Dawn's birth parents, Randolf and Laura Jean, to meet Dawn. Dawn request that Lillian calls her Dawn, and Lillian refuses. Dawn hopes things will get better, but they will get worse. As Dawn adjusts to her new life, she will encounter emotional abuse, sexual assault, and a horrifying truth.<br/><br/>Based on Dawn by V.C. Andrews, this movie starts in true Andrews fashion. A painful secret rips apart a family while leaving a young girl in its wake. She discovers she's wealthy, but the new family is evil. A dominating woman controls everyone and wants to bend the family to her will. Then, Dawn deals with confusing feelings for Philip and Jimmy. The plot is torrid, scandalous, and rage-inducing. And fans will beg for more.<br/><br/>5 out of 5 stars.",
+    "mtitle":"V.C. Andrews' Dawn: Secrets on the Morning",
+    "review":"Dawn enters the dorms, ready to start her new life at Bernhardt School of the Arts. But her housemother, Agnes, gently reminds Dawn that she can't leave Cutler's Cove behind. Dawn's grandmother, Lillian, called and spewed lies about Dawn to Agnes. Dawn inspects her room as Tricia enters and ingratiates herself to Dawn. The two girls become fast friends, and Dawn slowly reveals her secret past.<br/><br/>Tricia guides Dawn around campus and points out Michael Sutton's flyer. The famous Broadway thespian will teach a class at the school and is holding auditions to attend. Tricia and Dawn try out and get a spot on Michael's student roster. Dawn proudly stands as she gains a new life outside the Cutler name. But one misjudgment will bring Dawn back to the Cove with new secrets to unveil.<br/><br/>Based on Secrets in the Morning by V.C. Andrews and the sequel to V.C. Andrew's Dawn, this movie starts slow, but that's intentional. The plot takes time to show viewers that Dawn is intelligent but naive. When Dawn's secret comes to light, she falls into Lillian's clutches and past. Dawn gets a glimpse into the darkness that created the devil. This movie leaves viewers and Dawn stunned with earth-shattering news with an ending hinting at part 3's insanity.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsdawn.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsdawn.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsdawnpart2.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsdawnpart2.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"The Kept Mistress Killer",
-    "review":"Catherine will interview for a new job with more opportunities and better pay. Catherine meets the receptionist, Pam, before the interview with Paul. Paul doesn't hide his admiration for Catherine and her work ethic. He hires her on the spot, and Catherine calls her mother, Hailey, with the good news. During the call, Catherine hears a woman, Jackie, screaming at Pam. Jackie turns around to yell at Catherine. Before security escorts her out, Jackie says Catherine took her job.<br/><br/>Catherine has a successful first day and acquires new clients. Paul gives Catherine a 10,000 dollar welcome gift and a company car. Later, Paul's soon-to-be ex-wife, Julia, comes to Catherine's home to warn Catherine that Paul is dangerous. Paul invites Catherine and Hailey to a party at his house, but Hailey decides not to come. Catherine quickly lets Paul know she appreciates his kindness with a kiss. Pam explains that Jackie became obsessed with Paul, so he fired Jackie. Also, Paul is divorcing Julia because she broke into his home and pulled a gun on him. Paul and Pam encourage Catherine to have one more drink before she leaves.<br/><br/>Catherine wakes in the morning alone in Paul's spare bedroom with a note by the bed. Catherine walks downstairs, finds a dead body in the foyer, and calls the police. Detective Barr identifies the body as Julia and collects DNA samples from Catherine. Pam and Paul have alibis for the evening, but Catherine doesn't. Catherine and Hailey are in danger, but can Catherine prove it before Detective Barr puts the handcuffs on her?<br/><br/>This movie has a compelling mystery, but the forced romance is distracting. She doesn't think twice about starting a relationship, even after meeting a disgruntled worker and a cautious ex-wife. However, viewers can push the whirlwind romance aside because the plot has several shifty characters. Viewers will receive a disappointing ending because it's rushed. Give this movie your undivided attention from the beginning but don't expect much from the ending.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"A Podcast to Die For",
+    "review":"Lacey and Cam had a whirlwind wedding, expecting a baby, and recently moved into their forever home. This pregnancy will be Lacey's first baby, but Cam is a widower with two daughters - Maddie and Kira. Cam and Lacey disagree about the girls working with Lacey. Lacey is the host of a true crime podcast. Cam doesn't want the girls exposed to murder and violence.<br/><br/>Lacey comes to work, and her researcher, Valentine, questions Lacey about maternity leave. Lacey's co-worker, Bianca, wants Lacey to wrap up their current episode and start something new. Valentine thinks that two unsolved murders are connected. If the killer follows their pattern, the killer may strike again soon. Lacey, Bianca, and Valentine choose to take the case and shine a light on the victims - Sara and Marissa. Lacey will regret it because an online troll starts attacking her in real life.<br/><br/>Lifetime tried creating a mystery but doesn't because it falls into its predictable patterns. While the plot is average, it does provide commentary on true-crime watchers, listeners, and creators. Are they profiting off others' pain or giving the victims a voice? Watch this movie if you need to burn two hours or need a break from compelling H.M.M. mysteries.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thekeptmistresskiller.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thekeptmistresskiller.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/apodcasttodiefor.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/apodcasttodiefor.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"My Professor's Guide to Murder",
-    "review":"Miles signs autographs for adoring fans after completing an in-store reading of his latest novel. His publisher begs Miles not to take time off to teach. Miles will teach a murder mystery writing class for bachelor students.<br/><br/>Ashley meets with her advisor about attending the lower-level writing class. He doesn't feel that it is appropriate because Ashley is a master's student who is close to completing her thesis, which is a novel. Miles is Ashley's favorite author, and she hopes to pick his brain about her book. Her advisor decides that Ashley should be Miles's teaching assistant. Ashley accepts the job.<br/><br/>Ashley and Miles meet before class. He demonstrates some of the aspects of writing and gives his students an assignment. He wants them to write the perfect murder. The students take this assignment with enthusiasm. But one person will take it too far and make someone's words a reality. Will Ashley be a victim, survivor, or perpetrator?<br/><br/>This movie has an overdone premise with compelling characters that make dumb decisions. The title gives away the film, and the twist is nonexistent. While the acting is well done, it can't help a dull script. Interestingly, a movie about writing a mystery doesn't have an enigma to solve.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"Trapped in the Farmhouse",
+    "review":"Emma drives down the road with thoughts of her abusive ex-boyfriend, Bryan, behind her. She goes to a gas station and hears a tornado warning on the radio. Emma hopes to make it to her sister's house before the storm. She gets a flat tire and checks the back for a spare. Emma finds the spare but no tools. Emma considers what to do when she sees the tornado coming. She runs to the first house she can see and bangs on the door for help. A man, Jack, opens the door and brings her to the shelter to wait it out. Jack is a widower with a teen daughter, Kylie, away for the summer. Emma admires his strength and heads to leave, but another tornado touches down. After the storm, Emma is ready to go. But Jack won't let her. He doesn't think Emma can make good decisions and will force her to stay. Can Emma escape this madman?<br/><br/>Jack is right about one thing: Emma makes poor choices. Emma's decisions will make you scream at the screen. However, Emma saves the day and the movie by thinking of others. It gives viewers solace in her choice to remain. Skip this movie if you get easily frustrated with poor decisions.<br/><br/>1.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myprofessorsguidetomurder.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myprofessorsguidetomurder.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trappedinthefarmhouse.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedinthefarmhouse.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Sins of The Preacher's Wife",
-    "review":"Beth and Dan move to Willowvale with their daughter to open Dan's practice. Dan found a home to Beth's specifications, but she's unhappy. She feels the woods are dangerous and thinks someone is watching her. Beth goes grocery shopping, and a man warns her to leave town. Beth tells Dan about the rude man and her panic attack after. Dan tells Beth to seek therapy.<br/><br/>Beth leaves the therapy session early and almost runs into traffic. Marion snatches Beth back in the nick of time. Marion is married to the town's preacher, Jim, and runs the church's daycare center. Marion senses something is bothering Beth and encourages Beth to open up. Marion is Beth's guiding light through Beth's career, marriage, and motherhood stresses. Beth is correct to be fearful. Someone is lurking in the dark, waiting to strike.<br/><br/>This plot is one of the most disjointed in Lifetime history. The opening 20 minutes introduces Beth as a whining nag to the audience. Beth's big trauma reveal has nothing to do with the overall story and feels like a waste of time. The writer should have written this plot from Marion's perspective to give the story more depth and entertainment value. Skip this movie.<br/><br/>1.5 out of 5 stars.",
+    "mtitle":"Black Girl, Erupted",
+    "review":"Reina takes her frustrations out on a heavy bag in kickboxing class while picturing her boss, Mr. Horowitz. Her friend, Jillian, notices Reina's anger growing. Reina is a lawyer at the most prestigious law firm in the state. She trains the boss's nephew, Chris, and reviews his workload. Mr. Horowitz hasn't named the next partner, but Reina feels the promotion will be hers. Jillian can see that being overworked and overlooked with nagging racial microaggressions takes its toll on Reina's mental health. She gives Reina the number for Dr. Francis, a therapist.<br/><br/>Reina returns home to her boyfriend, Carlo. He comments that Reina's job negatively affects her attitude and thinks she should leave. Reina doesn't want to throw seven years of her life down the drain by quitting her job. Carlo accepts Reina's decision to stay.<br/><br/>Reina prepares for her meeting and gets a pep talk from her friend, Garth, at work. Reina sits in stoic silence as Mr. Horowitz gives Chris the partnership position. Reina leaves his office furious and drinks when she gets home. Reina is drunk and belligerent on her date with Carlo. Carlo is done with Reina's antics and breaks up with her. Reina decides to meet with Dr. Francis before she loses everything.<br/><br/>Reina deals with racial bias on both fronts while learning to choke down her feelings. However, rage, violence, and name-calling are not the answer. She doesn't have healthy anger management skills. Sitting down with Dr. Francis makes Reina take stock in and charge of her life. Her change of heart boils down to one question: What are you really angry about? Reina uncovers in therapy that the final straw isn't the first. This moment is a therapy session for all viewers. And Garth is the best friend everyone needs. So sit, watch, and discuss.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sinsofthepreacherswife.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sinsofthepreacherswife.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackgirlreupted.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackgirlreupted.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Love At First Lie",
-    "review":"Vivian catches her friend, Kate, scrolling through the latest dating app. As they debate online dating, Kate matches with Walker and sets up a date. Kate meets Walker at a restaurant, and they have a stimulating conversation. Walker deals in antiquities and travels the world. Kate thinks the worldly man is the one, but she is tumbling down a dark rabbit hole of lies, money, and mayhem.<br/><br/>This plot will feel unbelievable. But if you watch true crime docu-series, you know it has happened. These love scams are well-documented in Bad Vegan, Tinder Swindler, and Love Fraud. The person has a wild story about their life. Something awful happens to them. And they desperately need money to get help. Gradually the money they need increases, the story gets more outlandish, and the victim falls deeper in love. Take this movie as a lesson about revealing too much information and multifactor authentication.<br/><br/>2 out of 5 stars.",
+    "mtitle":"A Royal Christmas Crush",
+    "review":"Ava's uncle, Karl, calls her for help on his latest project. He is building an Ice Christmas Castle for the royal family. Since 1857, the family commissioned architects to create an ice castle near their residence with events that culminate in the Royal Christmas Ball. The project will bring recognition to Ava and her firm, so she says yes.<br/><br/>Ava arrives and marvels at Karl's work. He shows her around the castle and updates her on the royal family. Ava sees a picture of Prince Henry and gawks. Brigitta, the Royal Family handler, corrects Ava's gaze and tells Ava the Prince is off-limits. Karl tells Ava to steer clear of Henry and focus on work.<br/><br/>Henry meets with his advisor, Deputy Von Teir. Teir hands Henry the latest tabloids and tells Henry to focus on finding a queen. Teir suggests Henry date Brigitta's daughter, Sigrid, and invite her to the ball. Henry declines because he wants to find true love, like his parents did, not a royal match.<br/><br/>The Royal Family stop by the castle to approve the work. Henry sees Ava and stops in his tracks. Ava shows Henry the property and takes him down the slide. They believe their growing romance will go unnoticed. However, Brigitta wants Sigrid to be the future queen. So Brigitta will stop at nothing to get Ava out of the picture and Sigrid by Henry's side. Can Ava defeat Brigitta's conning ways?<br/><br/>This storyline is more predictable than water making things wet. The writers didn't bother to give the King and Queen names. This 'Christmas in July' film barely mentions the holiday and has zero Christmas spirit. It's no wonder they released it in July. Skip this film unless you need background noise.<br/><br/>2 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveatfirstlie.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveatfirstlie.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroyralchristmascrush.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyralchristmascrush.jpeg"
     }
   }
+  
 ];
 
 module.exports = madeForTV;
@@ -58,47 +59,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"V.C. Andrews' Dawn",
+  "mtitle":"V.C. Andrews' Dawn: Twilight Child",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsdawnpart2.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsdawnpart2.jpeg"
-  }
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsdawn.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsdawn.jpeg"
+    }
 },
 {
   "option":"2",
-  "mtitle":"A Podcast to Die For",
+  "mtitle":"A Lifelong Love",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/apodcasttodiefor.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/apodcasttodiefor.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/alifelonglove.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alifelonglove.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Trapped in the Farmhouse",
-  "review":"Emma drives down the road with thoughts of her abusive ex-boyfriend, Bryan, behind her. She goes to a gas station and hears a tornado warning on the radio. Emma hopes to make it to her sister's house before the storm. She gets a flat tire and checks the back for a spare. Emma finds the spare but no tools. Emma considers what to do when she sees the tornado coming. She runs to the first house she can see and bangs on the door for help. A man, Jack, opens the door and brings her to the shelter to wait it out. Jack is a widower with a teen daughter, Kylie, away for the summer. Emma admires his strength and heads to leave, but another tornado touches down. After the storm, Emma is ready to go. But Jack won't let her. He doesn't think Emma can make good decisions and will force her to stay. Can Emma escape this madman?<br/><br/>Jack is right about one thing: Emma makes poor choices. Emma's decisions will make you scream at the screen. However, Emma saves the day and the movie by thinking of others. It gives viewers solace in her choice to remain. Skip this movie if you get easily frustrated with poor decisions.<br/><br/>1.5 out of 5 stars.",
+  "mtitle":"Don't Kill the Babysitter",
+  "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedinthefarmhouse.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedinthefarmhouse.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dontkillthebabysitter.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dontkillthebabysitter.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Black Girl, Erupted",
+  "mtitle":"First Comes Love, Then Comes Murder",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/firstcomeslovethencomesmurder.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/firstcomeslovethencomesmurder.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"A Royal Christmas Crush",
-  "review":"Ava's uncle, Karl, calls her for help on his latest project. He is building an Ice Christmas Castle for the royal family. Since 1857, the family commissioned architects to create an ice castle near their residence with events that culminate in the Royal Christmas Ball. The project will bring recognition to Ava and her firm, so she says yes.<br/><br/>Ava arrives and marvels at Karl's work. He shows her around the castle and updates her on the royal family. Ava sees a picture of Prince Henry and gawks. Brigitta, the Royal Family handler, corrects Ava's gaze and tells Ava the Prince is off-limits. Karl tells Ava to steer clear of Henry and focus on work.<br/><br/>Henry meets with his advisor, Deputy Von Teir. Teir hands Henry the latest tabloids and tells Henry to focus on finding a queen. Teir suggests Henry date Brigitta's daughter, Sigrid, and invite her to the ball. Henry declines because he wants to find true love, like his parents did, not a royal match.<br/><br/>The Royal Family stop by the castle to approve the work. Henry sees Ava and stops in his tracks. Ava shows Henry the property and takes him down the slide. They believe their growing romance will go unnoticed. However, Brigitta wants Sigrid to be the future queen. So Brigitta will stop at nothing to get Ava out of the picture and Sigrid by Henry's side. Can Ava defeat Brigitta's conning ways?<br/><br/>This storyline is more predictable than water making things wet. The writers didn't bother to give the King and Queen names. This 'Christmas in July' film barely mentions the holiday and has zero Christmas spirit. It's no wonder they released it in July. Skip this film unless you need background noise.<br/><br/>2 out of 5 stars.",
+  "mtitle":"Nightmare School Moms",
+  "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyralchristmascrush.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyralchristmascrush.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nightmareschoolmoms.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nightmareschoolmoms.jpeg"
   }
 }
 
