@@ -1,49 +1,49 @@
 var madeForTV = [
-  {
-    "option":"1",
-    "mtitle":"V.C. Andrews' Dawn: Secrets on the Morning",
-    "review":"Dawn enters the dorms, ready to start her new life at Bernhardt School of the Arts. But her housemother, Agnes, gently reminds Dawn that she can't leave Cutler's Cove behind. Dawn's grandmother, Lillian, called and spewed lies about Dawn to Agnes. Dawn inspects her room as Tricia enters and ingratiates herself to Dawn. The two girls become fast friends, and Dawn slowly reveals her secret past.<br/><br/>Tricia guides Dawn around campus and points out Michael Sutton's flyer. The famous Broadway thespian will teach a class at the school and is holding auditions to attend. Tricia and Dawn try out and get a spot on Michael's student roster. Dawn proudly stands as she gains a new life outside the Cutler name. But one misjudgment will bring Dawn back to the Cove with new secrets to unveil.<br/><br/>Based on Secrets in the Morning by V.C. Andrews and the sequel to V.C. Andrew's Dawn, this movie starts slow, but that's intentional. The plot takes time to show viewers that Dawn is intelligent but naive. When Dawn's secret comes to light, she falls into Lillian's clutches and past. Dawn gets a glimpse into the darkness that created the devil. This movie leaves viewers and Dawn stunned with earth-shattering news with an ending hinting at part 3's insanity.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsdawnpart2.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsdawnpart2.jpeg"
+{
+  "option":"1",
+  "mtitle":"V.C. Andrews' Dawn: Twilight Child",
+  "review":"Dawn has her daughter, Christie, Cutler's Cove, and Jimmy. She smiles but has visions of her abusive grandmother, Lillian, and grand-aunt, Emily. Jimmy wants Dawn to put that behind her and focus on their future. He gets down on one knee and proposes. Dawn says yes and wears the ring proudly. Dawn's mother, Lora Jean, sees the ring and wants to plan a huge wedding at the Cove.<br/><br/>Before Dawn walks down the aisle, Randolf's memory lapses. Lora Jean asks her friend, Bronson Alcott, to walk Dawn down the aisle instead. They learn that Randolf committed suicide after she and Jimmy got married. Dawn relaxes into her new life as a wife, mother, and hotel owner. But Clara Jean reminds Dawn to watch her back because another shoe can drop. Dawn has no idea how right Clara Jean is. Dawn's past from high school and college will return to haunt her.<br/><br/>Based on Twilight's Child by V.C. Andrews and the third movie of the Dawn series, this installment will right wrongs and bring new drama to Dawn's doorstep. Dawn wants to be different from Lillian and Emily. As she questions her abilities, they show up to sway Dawn's resolve. Dawn needs to find the Cutler inside while being a Longchamp. This film starts with happily ever after but ends in V.C. Andrews' fashion of twists and turns. No one is safe from blackmail, manipulation, and death.<br/><br/>4.5 out of 5 stars.",
+  "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsdawn.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsdawn.jpeg"
     }
-  },
-  {
-    "option":"2",
-    "mtitle":"A Podcast to Die For",
-    "review":"Lacey and Cam had a whirlwind wedding, expecting a baby, and recently moved into their forever home. This pregnancy will be Lacey's first baby, but Cam is a widower with two daughters - Maddie and Kira. Cam and Lacey disagree about the girls working with Lacey. Lacey is the host of a true crime podcast. Cam doesn't want the girls exposed to murder and violence.<br/><br/>Lacey comes to work, and her researcher, Valentine, questions Lacey about maternity leave. Lacey's co-worker, Bianca, wants Lacey to wrap up their current episode and start something new. Valentine thinks that two unsolved murders are connected. If the killer follows their pattern, the killer may strike again soon. Lacey, Bianca, and Valentine choose to take the case and shine a light on the victims - Sara and Marissa. Lacey will regret it because an online troll starts attacking her in real life.<br/><br/>Lifetime tried creating a mystery but doesn't because it falls into its predictable patterns. While the plot is average, it does provide commentary on true-crime watchers, listeners, and creators. Are they profiting off others' pain or giving the victims a voice? Watch this movie if you need to burn two hours or need a break from compelling H.M.M. mysteries.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/apodcasttodiefor.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/apodcasttodiefor.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Trapped in the Farmhouse",
-    "review":"Emma drives down the road with thoughts of her abusive ex-boyfriend, Bryan, behind her. She goes to a gas station and hears a tornado warning on the radio. Emma hopes to make it to her sister's house before the storm. She gets a flat tire and checks the back for a spare. Emma finds the spare but no tools. Emma considers what to do when she sees the tornado coming. She runs to the first house she can see and bangs on the door for help. A man, Jack, opens the door and brings her to the shelter to wait it out. Jack is a widower with a teen daughter, Kylie, away for the summer. Emma admires his strength and heads to leave, but another tornado touches down. After the storm, Emma is ready to go. But Jack won't let her. He doesn't think Emma can make good decisions and will force her to stay. Can Emma escape this madman?<br/><br/>Jack is right about one thing: Emma makes poor choices. Emma's decisions will make you scream at the screen. However, Emma saves the day and the movie by thinking of others. It gives viewers solace in her choice to remain. Skip this movie if you get easily frustrated with poor decisions.<br/><br/>1.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trappedinthefarmhouse.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedinthefarmhouse.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Black Girl, Erupted",
-    "review":"Reina takes her frustrations out on a heavy bag in kickboxing class while picturing her boss, Mr. Horowitz. Her friend, Jillian, notices Reina's anger growing. Reina is a lawyer at the most prestigious law firm in the state. She trains the boss's nephew, Chris, and reviews his workload. Mr. Horowitz hasn't named the next partner, but Reina feels the promotion will be hers. Jillian can see that being overworked and overlooked with nagging racial microaggressions takes its toll on Reina's mental health. She gives Reina the number for Dr. Francis, a therapist.<br/><br/>Reina returns home to her boyfriend, Carlo. He comments that Reina's job negatively affects her attitude and thinks she should leave. Reina doesn't want to throw seven years of her life down the drain by quitting her job. Carlo accepts Reina's decision to stay.<br/><br/>Reina prepares for her meeting and gets a pep talk from her friend, Garth, at work. Reina sits in stoic silence as Mr. Horowitz gives Chris the partnership position. Reina leaves his office furious and drinks when she gets home. Reina is drunk and belligerent on her date with Carlo. Carlo is done with Reina's antics and breaks up with her. Reina decides to meet with Dr. Francis before she loses everything.<br/><br/>Reina deals with racial bias on both fronts while learning to choke down her feelings. However, rage, violence, and name-calling are not the answer. She doesn't have healthy anger management skills. Sitting down with Dr. Francis makes Reina take stock in and charge of her life. Her change of heart boils down to one question: What are you really angry about? Reina uncovers in therapy that the final straw isn't the first. This moment is a therapy session for all viewers. And Garth is the best friend everyone needs. So sit, watch, and discuss.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blackgirlreupted.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blackgirlreupted.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"A Royal Christmas Crush",
-    "review":"Ava's uncle, Karl, calls her for help on his latest project. He is building an Ice Christmas Castle for the royal family. Since 1857, the family commissioned architects to create an ice castle near their residence with events that culminate in the Royal Christmas Ball. The project will bring recognition to Ava and her firm, so she says yes.<br/><br/>Ava arrives and marvels at Karl's work. He shows her around the castle and updates her on the royal family. Ava sees a picture of Prince Henry and gawks. Brigitta, the Royal Family handler, corrects Ava's gaze and tells Ava the Prince is off-limits. Karl tells Ava to steer clear of Henry and focus on work.<br/><br/>Henry meets with his advisor, Deputy Von Teir. Teir hands Henry the latest tabloids and tells Henry to focus on finding a queen. Teir suggests Henry date Brigitta's daughter, Sigrid, and invite her to the ball. Henry declines because he wants to find true love, like his parents did, not a royal match.<br/><br/>The Royal Family stop by the castle to approve the work. Henry sees Ava and stops in his tracks. Ava shows Henry the property and takes him down the slide. They believe their growing romance will go unnoticed. However, Brigitta wants Sigrid to be the future queen. So Brigitta will stop at nothing to get Ava out of the picture and Sigrid by Henry's side. Can Ava defeat Brigitta's conning ways?<br/><br/>This storyline is more predictable than water making things wet. The writers didn't bother to give the King and Queen names. This 'Christmas in July' film barely mentions the holiday and has zero Christmas spirit. It's no wonder they released it in July. Skip this film unless you need background noise.<br/><br/>2 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroyralchristmascrush.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyralchristmascrush.jpeg"
-    }
+},
+{
+  "option":"2",
+  "mtitle":"A Lifelong Love",
+  "review":"Annika looks towards her grandfather, Abe, for encouragement before her pitch meeting with Rory at Lighthouse Publishing. She posted her poetry online and hoped to create an anthology of her new, past, and unreleased works for years. During their conversation, Abe admits to falling in love before dating Annika's grandmother. While in high school, Abe met an intelligent and beautiful cheerleader named Ruth. When Abe got back from the war, she married someone else. Abe heard that Ruth is a widow now, but no one knows her location. Annika wants to help Abe find Ruth after her meeting.<br/><br/>Annika explains her book to Rory, but he doesn't like it. She leaves disappointed and runs into Ryan in the hallway. Annika and Ryan dated in college but broke up after she turned down his proposal. They update each other on their lives, and Annika tells Ryan about Abe's search for Ruth.<br/><br/>During Rory's meeting with Ryan, Annika barges in and demands to know why Rory doesn't like her pitch. Annika doesn't have Ryan's following, and her idea won't sell, but Rory doesn't want to do a coffee table book of Ryan's photos either. Then Ryan mentions Abe's search for Ruth, and it captivates Rory. He wants them to write poems about love and photograph the subjects. And the final entry will be Abe and Ruth finding each other. And they have two weeks to get it done. Can Ryan and Annika find Abe's Ruth without drudging up their past? Or will Annika's perfection clash with Ryan's carefree attitude again?<br/><br/>The basis of the story is profound and sweet. However, your need for Annika and Ryan to find Ruth will pull you from the stories and lessons of love. So viewers can expect 30 minutes of build-up. Then, a slow-paced plot to a 10-minute conclusion with the main characters' relationship potentially ending before it starts. Thank goodness for a savvy tween and a charming grandpa to keep a smile on your face. This film is for you if you want to hear some love stories. Otherwise, keep this on the DVR for a rainy day.<br/><br/>3 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/alifelonglove.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alifelonglove.jpeg"
   }
+},
+{
+  "option":"3",
+  "mtitle":"Don't Kill the Babysitter",
+  "review":"Mariela has a passion for languages. She is leaving Venezuela for America to work as an au pair and immerse herself in the language and culture. Her sister, Ana, teaches English, but Mariela believes moving is the best learning tool.<br/><br/>Mariela gets a warm welcome from Lori, Lori's husband, Dr. Chase, and their daughter, Abbey. They don't expect her to start immediately. And they tell her to relax and start tomorrow. Lori gives Mariela the rules for their home, and Mariela agrees and goes to bed.<br/><br/>Mariela has free time in the morning because Chase is at work, Abbey has school, and Lori has a doctor's appointment. She goes for a run but feels someone is following her. Mariela runs further down the trail, and a man, Jacob, grabs her. She quickly punches Jacob in the nose and flees. Mariela tells Lori about Jacob, and Lori panics. She thinks Lori's concern is kind but unwarranted. Mariela calls Ana and updates Ana on the dangerous encounter. Ana wants Mariela to come home, but Mariela assures Ana she's okay. Nothing could be farther from the truth. Mariela's life is in danger, and she will need her friends, wit, and fist to survive.<br/><br/>The premise is stale, but the acting and dialogue make the plot feel brand new. Mariela isn't a shrinking violet waiting for a savior. She punches like Laila Ali and thinks fast on her feet. Fans will assume where the story's going, but it's a misdirection. And the conclusion is realistic, purposeful, and fun. This movie is the best story in the 2023 Stranger Danger series.<br/><br/>4.5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dontkillthebabysitter.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dontkillthebabysitter.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"First Comes Love, Then Comes Murder",
+  "review":"Ken comes home and attends to his pregnant wife, Candice, and daughter, Dasia. The meal is uneventful until Ken discovers Candice went bowling. He becomes furious and demands she clears her activities with him first. Candice gets cramps later that night, and Ken takes her to the hospital. Unfortunately, Candice has a miscarriage, and Ken blames it on bowling.<br/><br/>Two years later, Candice is pregnant again, but sadly Ken's physical and mental abuse has elevated. He demands hot food at ungodly hours, forces sex, and dictates that Candice calls him sir. Also, he refuses to interact with the unborn baby until Candice gives birth.<br/><br/>Ken's boss, Tom, pulls Ken aside to talk. Candice's law firm is putting pressure on Tom's company. Tom tells Ken to stay married because spousal privilege could help if they get an audit. Ken comes home with a new attitude and pulls out the red carpet for Candice. While Candice soaks in the tub, Ken finds the number for a divorce attorney. Now, he wants Candice to die.<br/><br/>The set-up seems bland, but a well-written script will keep you glued to your seat. During Candice's first pregnancy, viewers will spot the red flags for Ken's behavior. The plot hits each step of the abuse cycle and highlights when it's the most dangerous for a survivor to leave. This movie pinpoints the critical role that friends and teachers play for anyone escaping domestic violence. It does this without getting preachy and staying funny. This film will have you concerned and laughing at the same time.<br/><br/>4.5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/firstcomeslovethencomesmurder.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/firstcomeslovethencomesmurder.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Nightmare School Moms",
+  "review":"Nicole sits with her mother, Lacy, and grandfather, Drake, for his birthday. Before blowing out his candles, Drake wishes Nicole would attend his alma mater, Whittendale. Everyone in their family went to the prestigious school except Lacy. Nicole promises to get in and reports her tie for valedictorian. Drake requests to know who is Nicole's competition and she responds that it's Parker Williams. Parker's mother, Mandy, beat Lacy 20 years ago for the spot in Whittendale. Drake warns Nicole that a close competitor will force the admissions office to scrutinize extracurricular activities. Nicole reports that she is running for class president against Parker.<br/><br/>Parker beats Nicole in the election by a few dozen votes. Lacy remembers that Mandy was part of a fraudulent campaign in DC and believes Mandy rigged this one. Lacy tells Nicole not to admit defeat and to demand a recount. After the recount - with both mothers watching - Nicole loses by more votes. Lacy begs Drake to call Whittendale for Nicole, but he vehemently refuses. Lacy decides to do anything to get Nicole into Whittendale - including cheat, lie, and kill.<br/><br/>Lacy and Mandy are vicarious parents. They never listen to what Nicole or Parker want or need. Parker states her desire to attend other schools, but Mandy won't listen. Lacy is horrible too, but the plot quickly explains why. She had an overbearing father who never lets her forget her shortcomings. She becomes a villain you love to watch. So, relax and watch a high school drama incorporating the college cheating scandal, legacy admissions, and helicopter parents. It's worth every minute.<br/><br/>4 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nightmareschoolmoms.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nightmareschoolmoms.jpeg"
+  }
+}
   
 ];
 
@@ -59,47 +59,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"V.C. Andrews' Dawn: Twilight Child",
+  "mtitle":"V.C. Andrews' Dawn: Midnight Whispers",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsdawn.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsdawn.jpeg"
-    }
+  }
 },
 {
   "option":"2",
-  "mtitle":"A Lifelong Love",
+  "mtitle":"The Slumber Party",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/alifelonglove.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/alifelonglove.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theslumberparty.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theslumberparty.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Don't Kill the Babysitter",
+  "mtitle":"Beware The Night Nurse",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dontkillthebabysitter.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dontkillthebabysitter.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bewarethenightnurse.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bewarethenightnurse.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"First Comes Love, Then Comes Murder",
+  "mtitle":"A Mother's Intuition",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/firstcomeslovethencomesmurder.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/firstcomeslovethencomesmurder.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amothersintuition.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amothersintuition.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Nightmare School Moms",
+  "mtitle":"Look Who's stalking",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nightmareschoolmoms.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nightmareschoolmoms.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lookwhosstalking.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lookwhosstalking.jpeg"
   }
 }
 
