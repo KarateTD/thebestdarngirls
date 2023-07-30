@@ -213,4 +213,41 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/indianajonesandthedialofdestiny.jpeg"
     }
   }
+
+    {
+    "option":"1",
+    "mtitle":"Barbie",
+    "review":"Barbie lives in her dreamhouse. She takes a waterless shower, eats her perfect pretend breakfast, and floats to her car. Barbie goes to the beach to relax, and Ken waits for Barbie to notice him. Ken asks to visit Barbie's house, and she invites him to her blowout party with choreography.<br/><br/>Everyone loves Barbie's party until Barbie asks them if they think about death. She laughs it off and continues dancing. In the morning, Barbie wakes up tired, her waterless shower is cold, and the pretend breakfast isn't edible. Barbie confesses that something is wrong, and the other Barbies tell her to go to Weird Barbie.<br/><br/>Barbie goes to Weird Barbie and tells her everything that happened. Barbie's little girl in the real world is sad, and it affects how she plays with Barbie. Barbie doesn't understand how this could happen because playing with Barbie made the lives of real girls perfect like her. Barbie heads to the real world with Ken stowing away in the backseat. She will find her girl, help her, and return to Barbieland with her body and mind in tack. However, the real world will change Barbieland in ways Barbie never dreamed, but Ken always imagined.<br/><br/>This movie starts with all the pink, butterflies, and glitter you expect from Barbie. It has all the Barbies you remember as a little child, even discontinued Barbies like Midge, Growing Up Skipper, and TV Barbie. When she enters the real world, she sees it isn't perfect. And little girls aren't thanking her for making a difference. Ken sees the human world and loves it. Men are working, driving big cars, and focusing on each other. The real world has a lasting effect on both of them.<br/><br/>As the trailer says, this film is for people who love and hate Barbie because it focuses on Barbie's issues while addressing her contributions. During the trip to Barbie, Barbie talks to her owner, Sasha, and Sasha's mother, Gloria. Gloria gives a speech to Barbie, who is having an existential crisis, and it will make you sigh with understanding and exhaustion. You leave this film with your eyes open, your feelings heard, and loving Barbie again.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/barbie.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/barbie.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Oppenheimer",
+    "review":"J. Robert Oppenheimer sits in front of a security hearing board because he wants to maintain his security clearance. He recounts his life before and during his government work under scads scrutiny. He teaches at the University of California, Berkeley, and dedicates time to the California Institute of Technology. Oppenheimer crosses paths with Ernest Lawrence, Jean Tatlock, and his future wife, Katherine Puening.<br/><br/>General Leslie Groves seeks out Oppenheimer to work on the Manhattan Project but worries Oppenheimer's communist ties will delay his clearance. Oppenheimer assures Groves that he only has an academic interest in the party, not a devotion. Oppenheimer wasn't sure about creating the Atomic Bomb but wanted to end World War II. So he agreed to do it because the only scientist in Germany with Oppenheimer's knowledge was Jewish. They know Hitler won't give him funding.<br/><br/>Oppenheimer convinces Groves to create a town in Los Alamos, New Mexico, with places to pray, shop, and attend school. Oppenheimer and his researchers work before the town is complete, and William L. Borden enters with startling calculations. His math proves the Atomic Bomb could cause an explosion in the atmosphere and create a chain reaction that destroys the world. Oppenheimer asks Lewis Strauss to introduce him to Albert Einstein. He gives Albert the calculations, and Albert confirms them. Oppenheimer must continue his work with the constant threat of annihilation hanging over his head. And he will bring death to thousands if it works as expected. Can Oppenheimer accept the applause and responsibility of being a modern-day Prometheus?<br/><br/>The director made this movie with extreme precision for the period, the scientists, and their struggles. If you pay close attention, this historical film has the drama of a daytime soap opera. This movie follows Oppenheimer's life before, during, and after the Atomic Bomb. It acknowledges his flaws and brilliance throughout his career. Also, it addresses some controversies and conspiracies that surrounded him. This battle is compelling because it's between two competitive, intelligent, and petty men. This movie covers ample history, but it's not for children.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/oppenheimer.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/oppenheimer.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Mission: Impossible - Dead Reckoning Part 1",
+    "review":"Days ago, Ethan got a message to find his ally Ilsa Faust and obtain the missing half of a cruciform key. After giving Ethan his instructions, Eugene Kittridge loses contact with Ethan. Kittridge sits in a classified meeting with Director Denlinger and his advisors and reveals information about Impossible Mission Force. Kittridge explains that experimental Artificial Intelligence meant to hack digital information went rogue and became self-aware and self-learning. They call it the Entity, the biggest threat to the world. They need Ethan to destroy it because other world powers know about the Entity and seek to harness it for global domination. Ethan must remain resilient against his past to secure the world's future. But can Ethan risk the ones he loves?<br/><br/>Based on the TV series, this Mission Impossible installment is the seventh in the franchise and lives up to the crazy stunts and spine-tingling drama of the previous six. The writers inject the right amount of humor at the most opportune moments. New fans don't need to see the previous movies to understand this film. The plot sticks to AI and Machine Learning fears in other films, but the action sets it apart. There are zero mid-credit or post-credit scenes. And yes, it ends on the perfect cliffhanger. Fans of the franchise won't be disappointed and will look forward to part two.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0C9KJ8M4C"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/missionimpossiblereckoningpart1.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/missionimpossiblereckoningpart1.jpeg"
+    }
+  },
 */
