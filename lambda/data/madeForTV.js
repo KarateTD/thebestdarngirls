@@ -1,49 +1,49 @@
 var madeForTV = [
-  {
-    "option":"1",
-    "mtitle":"V.C. Andrews' Dawn: Midnight Whispers",
-    "review":"It's Christie's 16th birthday, and the Cutlers will throw a lavish party at Cutler's Cove. The hotel runs like a well-oiled machine with Dawn's husband, Jimmy, by her side. Before the party, Dawn sits Christie down and tells her about her birth father, Michael. Then, Dawn warns Christie about the family curse, but they are interrupted before Dawn gives Christie more details.<br/><br/>During the party, everyone notices Philip fawning over his sister, Dawn, including Philip's wife, Betty, Jimmy, and Christie. Jimmy separates them after Betty angrily leaves. In the basement, Betty finds Philip's key and opens his secret room. Inside the room, she finds creepy mementos and photos of Dawn. Betty confronts Philip, but he attacks and threatens her.<br/><br/>Jimmy walks to the basement to repair issues, and Philip sees him. Philip attacks Jimmy. Then Philip leaves Jimmy bleeding on the floor, unconscious, with the gas leaking. Dawn smells the gas, remembers Jimmy's repairs, and tells Mrs. Boston to escort the guests out. Dawn finds Jimmy and stays until help arrives. However, Cutler's Cove explodes and kills them both. Betty informs Christie that she and Philip are Christie and Jefferson's legal guardians. Christie tries to grit her teeth and bear living with a vengeful aunt and delusional uncle, but the Cutler curse will rear its ugly head. Can Christie break the generational curse or fall victim like her mother?<br/><br/>Based on Midnight Whispers by V.C. Andrews, this fourth film gives the children a conclusion but kills off well-known characters. If you listen closely, Charlotte gives a brief synopsis of the 5th book while giving Christie information about Dawn's taxing upbringing. This movie doesn't pack the shock of the previous three films but brings karma to evil characters. This film won't be your favorite of the series, but it's worth the watch.<br/><br/>4 out of 5 stars.",
-    "image":{
-        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vcandrewsdawn.jpeg",
-        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vcandrewsdawn.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"The Slumber Party",
-    "review":"Megan packs for a slumber party at the home of her friend, Anna Maria. She meets their friend, Paige, and Paige's brother drives them to Anna Maria's home. Megan and Paige get out of the car, and Megan stares at her crush, Jake. Paige and Megan hurry to Anna Maria's door, but they can hear Anna Maria and her parents arguing inside. Anna Maria is upset that her dad will remarry on her birthday tomorrow and she will get a new sister, Veronica. She doesn't want to go on her birthday hike with her dad or attend the wedding in the morning. Before the argument gets heated, Megan rings the doorbell.<br/><br/>Anna Maria takes them to the basement to have fun. Megan discovers Paige and Anna Maria often spend time without her because she doesn't try new things. Megan wants to leave her comfort zone since they will start high school soon. So, they hire a hypnotist to help.<br/><br/>The hypnotist arrives and tells the girls to live their best lives and let go of their inhibitions. When he gives the wake word in the morning, the girls will remember everything that happened. In the morning, Megan wakes up on the floor with an eyebrow missing. She walks into the bathroom. Megan is wearing Jake's sweatshirt, and baby ducks are in the bathtub. Megan wakes up Veronica and Paige. They see 'Veronica was Here' smeared on the walls, and Paige has blood on her hands. They don't remember anything, but they notice Anna Maria is missing. They must find clues to locate Anna Maria and get her to her father's wedding. Can they find Anna Maria in time and safe?<br/><br/>Based on The Sleepover by Jen Malone, this movie has the fun of Hangover without drugs, cursing, or sex. Each young woman has issues in their family and friend group. This adventure bonds them with a hedgehog, onions, and trespassing. This film is on the Disney Channel but is more appropriate for tweens and teens. And parents will do a mental side-by-side comparison with the first Hangover film. This movie is funny and charming.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theslumberparty.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theslumberparty.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Beware The Night Nurse",
-    "review":"Zach and Claire are happy to bring their new baby boy, Owen, home for the first time. However, Owen cries all night, and the couple can't sleep. Claire expresses frustration to her surrogate, Liz, and worries about her ability to be a mother. Liz assures Claire that she is a great mom, at least compared to the one Liz had.<br/><br/>After more nights of zero sleep, Zach suggests they get a night nurse, but Claire isn't sure. Claire calls Liz for their lunch date, but Liz doesn't answer. She decides to visit Liz's home after a disturbing call. Claire finds Liz in a panic with luggage. Liz tells Claire she is leaving and not to follow. The next day, a cop comes to Zach and Claire's home and questions them about Liz. They found Liz's abandoned car near a lake where people committed suicide. They believe Liz did the same.<br/><br/>At a wake, a passerby, Vera, hears Owen's cries from Zach's car. She offers to hold the baby. When Owen stops crying, Zach wants to hire Vera on the spot. While Vera makes off-putting comments, Claire and Zach love having Vera around. However, Zach's mother, Judy, turns everything around. She doesn't approve of Claire's housekeeping, cooking, or decorating. Claire assumes Judy is the problem, but Claire must put her issues aside to see the real danger. Someone wants Owen and won't stop until they get him.<br/><br/>This movie starts with classic Lifetime mistakes. Zach and Claire let a stranger hold their baby and call one reference. While Judy is right to have concerns, her relationship with Claire is combative. So, Claire often rebels against her advice and assistance. When Claire and Judy come together for Owen's safety, it's a beautiful bond. This movie has a strong message about generational gender preference and its lasting effect. So leave the tea alone and break out the wine. This movie is a compelling ride.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bewarethenightnurse.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bewarethenightnurse.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"A Mother's Intuition",
-    "review":"Toni never thought she would go through pregnancy alone, but she lost her husband before she knew. She regularly takes anti-anxiety medication and sees her OB/GYN, Dr. Synder. Dr. Synder finds a cyst on Toni's ovaries but wants to ignore it. This advice doesn't sit well with Toni, so she discusses her feelings with her friend, Cicely. Cicely warns Toni to see another doctor. Toni decides to stick with her doctor and hospital because they are familiar.<br/><br/>Toni visits a hardware store to find a stone for her bust. Julian, her college ex-boyfriend, approaches. The two make plans and connect over the coming weeks. Toni's water breaks, and she races to the hospital. She delivers a baby girl and falls asleep. Toni sees a woman with red-streaked hair take the baby away before falling asleep again. Later, Dr. Synder tells Toni that her baby is dead. They offer to bring the baby into the room so Toni can say goodbye. Toni takes one look at the baby and says it's not hers. She believes someone at the hospital stole her child. But can she prove it?<br/><br/>This movie gives a voice to women dealing with medical professionals. Doctors label them difficult or emotional instead of listening. It helps the audience see that loyalty is not for doctors; it's for your health. As the story continues, the plot makes you question Toni's sanity. It's a tricky tactic, but it draws your attention. This film also shines a light on hospitals being bad actors for horrible doctors. Dr. Death proves this happens more than you know. This film is disturbing but intriguing to watch.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amothersintuition.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amothersintuition.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Look Who's Stalking",
-    "review":"Dr. Hope came home to find a wedding dress, ring, and man in her bedroom. This man, Toby, stalked Hope for two years. In a desperate attempt, Hope escapes Toby and runs. He catches up to her but has a heart attack. Toby pleads for Hope to help him. She considers it but lets him die.<br/><br/>Two months later, Hope is moving on with her life. She is enjoying her marriage to her new husband, musician Evan, and Evan has bonded with Hope's daughter, Danielle. She hires Mary as her assistant and considers Mary a godsent. Hope's best friend, Dr. Nadine, will miss Hope at work but is happy Hope is going to something better. Dr. Hope gets comfortable in her new life but receives phone calls and letters from Toby. Danielle thinks Toby's ghost haunts Hope from beyond the grave. However, Hope thinks something more sinister is going on. Will Hope find the truth before she loses it all?<br/><br/>This movie opens with the woman running for help, but it's not a random person. It's the lead character. She escapes her stalker but fails at the Hippocratic Oath. While friends and family want to celebrate Toby's death, Hope has reservations. Hope gives everyone the side eye, including her daughter. No one is safe from Hope's suspicious gaze. It will make viewers second-guess their initial conjectures. However, the plot offers what viewers expect at the conclusion.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lookwhosstalking.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lookwhosstalking.jpeg"
-    }
+{
+  "option":"1",
+  "mtitle":"Boy in the Walls",
+  "review":"Chris moves his new wife, Alisa, and his two children, Mia and Theo, into a large countryside home. Mia overhears Chris and Alisa's discussions about having a baby, and she fumes. Chris leaves for work, and Alisa cares for the kids. However, she notices that items go missing, damaged, or eaten. She informs Chris, but he thinks she needs therapy, and Mia blames Alisa for everything. Alisa feels the house is alive or someone haunts it. But can she prove it?<br/><br/>This story feels wild. But if you watch Phrogging: Hider in My House, you know this can happen. This movie is a compilation of those tales. This story is about a deranged stranger unknowingly living in someone's home. However, the subplot is about a family coming together and showing up for each other during a traumatic event.<br/><br/>3.5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/boyinthewalls.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/boyinthewalls.jpeg"
   }
+},
+{
+  "option":"2",
+  "mtitle":"Call Her King",
+  "review":"Judge Jaeda King enters her courtroom to sentence Sean Samuels. A jury found him guilty of several 1st-degree murders and recommended death. So she sentences him to death by lethal injection and lifts her gavel in the air.<br/><br/>Gabriel Samuels runs the most successful security company on the East Coast. For months, he created a team to take over the courthouse. Before Jaeda slams her gavel, they enter her courtroom firing. Jaeda runs into her chambers with Sean, Sean's lawyer, Jerry, and Jaeda's guard, John. Gabriel breaks down the chamber doors and discovers it's empty. So, Gabriel activates the next phase of his plan. His gang will look for Sean while he puts the prosecutor, Duke, on trial for mishandling evidence. Who will survive?<br/><br/>This movie has White House Down action with Den of Thieves suspense. The plot spends the first 30 minutes introducing the audience to Jaeda. However, the plot reveals Sean and Gabriel's backstory throughout the film. It unveils why Gabriel fights to free his brother. This story is compelling and sets up for a sequel, even though the backing track drowns out the dialog sometimes. What side of the revolution are you on?<br/><br/>4.5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/callherking.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/callherking.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Under His Influence",
+  "review":"Diamond Calloway dances on social media, drinks champagne, and flirts with men for all her followers. After promoting a club, she drives to another while filming on Instagram Live. As she talks to her followers, Diamond crashes her car. She wakes up in the vehicle with police surrounding her. They have no sympathy because Diamond has alcohol in the car, and they saw her live streaming.<br/><br/>Diamond's parents bail her out of jail, and her mother, Ashley, cuts Diamond off. Diamond's father, Ernest, warns Diamond that her inheritance is almost gone because Diamond spends it faster than Diamond can make it. Ernest tells Diamond to find another way in life and leaves her room.<br/><br/>Diamond flounders in her room until Sadiq leaves her a direct message. He is an inmate at Atlanta Federal Prison. Sadiq has served ten years of a life sentence for murdering his teacher, Mrs. Lori Tumbler. She listens to Sadiq's story, and he moves her. Diamond visits her lawyer, Casaundra, for her DUI charges and pleas with Casaundra to take Sadiq's case. Diamond wants to use her platform for good and have the world take her seriously. Casaundra finds evidence to prove Sadiq's lawyer mishandled information, and Sadiq is free. Diamond wants to start a new future with Sadiq, but someone bent on revenge is watching and waiting to destroy it all.<br/><br/>Diamond is a woman with the world at her feet. She has a wealthy family, a comfortable life, and loving family and friends, but she lacks the maturity to see the world beyond her next post. This lack of self-esteem makes her a prime target for Sadiq. Viewers will ask the critical questions Diamond won't. You know she is falling down a slippery slope, and you can only watch. While the film entertains, it critiques social media, legal bias, and manipulation.<br/><br/>4 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/underhisinfluence.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/underhisinfluence.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Secrets of a University",
+  "review":"Eliza kisses her secret boyfriend, James, goodbye. She wants to go public, but he has a wife, Cora, and holds a political position. James says Cora knows about Eliza because they have an understanding. Eliza talks to her friend, Raven, at work. They are both excited because today is Eliza's first day heading the admissions department. Eliza's assistant, Kate, desires to witness the process, but it's a private meeting.<br/><br/>Eliza evaluates the final four candidates for the last slot with Raven, Daniel, and Dean. They quickly eliminate two but can't decide on the others. To Raven's surprise, Eliza picks Dean and Daniel's choice, and Raven caves. After the selection, Eliza discovers the candidate is James's son, Nathan. Raven warns Eliza that if anyone discovers Eliza's affair with James, Eliza could lose her job after selecting Nathan.<br/><br/>Eliza attends a party to celebrate the program winners. Nathan briefly introduces himself and his girlfriend, Charlotte, to Eliza. Eliza gets an unwelcome greeting from Cora and argues with James. Eliza hides in the bathroom for relief, and someone slips a threat under the door. She runs outside but can't find the culprit.<br/><br/>Later, Eliza gets a text proving Nathan plagiarized his essay. When she confronts Nathan, he threatens her with a knife while doing drugs. Charlotte pulls Nathan off and warns Eliza that Nathan is just like his father. Eliza refuses to believe that James could become violent. However, James snaps after Eliza mentions exposing Nathan's cheating.<br/><br/>James apologizes for his behavior and invites Eliza to dinner with Nathan so Nathan can apologize face-to-face. Nathan brings Charlotte, and they all have a delightful dinner. Until Eliza passes out at the table, and Nathan and James drag her back home. Eliza wakes up to her name and picture in gossip rags. Her job is on thin ice, so Cora invites Eliza to a party to keep up appearances. Eliza leaves the party early to retreat from James's family, only to find Nathan's dead body. She decides to break up with James, but he threatens her. Can she uncover what happened to Nathan before she loses her job and freedom?<br/><br/>First, let's start with 'everyone sucks.' Second, Eliza slightly redeems herself by taking responsibility for her horrendous actions. But it's too little too late. This movie will have you screaming at the TV and begging for part two.<br/><br/>4 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofauniversity.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofauniversity.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Girls Getaway Gone Wrong",
+  "review":"Simone, Bailey, and Parker have reservations to stay in a high-end resort for Parker's 30th birthday, thanks to Simone's influencer sponsorship. The concierge, David, introduces himself and flirts with Simone. When the women check-in, they see a college-friend-turned-enemy, Kate, enter with her entourage. As they start to argue, Simone leaves to talk to management about their room. When she returns, Bailey and Parker can see that Simone is upset, but she won't tell them why.<br/><br/>They find cake, champagne, and David in their room. He lights the candle for Parker and leaves. Simone reveals another surprise for them. She got VIP passes to the hottest nightclub in town. The women do tequila shots and head to the club. They prepare for an epic night until Kate and her crew sit beside them. Upset, Simone and Kate argue as the owner, Antonio, approaches. He offers them free top-shelf bottle service all night if they don't fight in the club. Simone joins her friends, enjoys free drinks, and takes ecstasy.<br/><br/>The friends wake up in Kate's hotel room. They have no idea of how they got there. When they return to their room, they get horrible news. David tells them Kate died by falling off the balcony. Bailey, Simone, and Parker sit poolside and figure out what to do. They go through their phones and delete any potential evidence, including an argument. However, someone else posts the video, and the detectives declare Kate's death a murder. Simone, Parker, and Bailey must stay one step ahead and find the culprit before they end up behind bars for a murder they didn't commit.<br/><br/>The plot sets up these three women with issues so they have a reason to escape and throw caution to the wind. This script sets itself apart because their good and bad decisions all backfire. This movie has love triangles, theft, backstabbing, and pure stupidity. While the film has a strong plot, the story falls flat with a comical fight scene and childish behavior. The film tries to pack a month-long soap opera drama into a few hours. If you stick with the movie, your first suspect will be correct and wrong. So, watch to discover the killer, but don't expect much from the performance.<br/><br/>3 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/girlsgetawaygonewrong.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/girlsgetawaygonewrong.jpg"
+  }
+}
 ];
 
 module.exports = madeForTV;
@@ -56,6 +56,50 @@ module.exports = madeForTV;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Abducted by My Teacher: The Elizabeth Thomas Story",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedbymyteacherelizabeththomas.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedbymyteacherelizabeththomas.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Big Sky River: The Bridal Path",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bigskyriverthebridalpath.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bigskyriverthebridalpath.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Danger Lurking Under My Roof",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangerlurkingundermyroof.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangerlurkingundermyroof.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Making Waves",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/makingwaves.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/makingwaves.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"The Final Say",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefinalsay.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefinalsay.jpeg"
+  }
+}
 
 */
