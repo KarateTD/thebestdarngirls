@@ -1,49 +1,50 @@
 var madeForTV = [
-{
-  "option":"1",
-  "mtitle":"Boy in the Walls",
-  "review":"Chris moves his new wife, Alisa, and his two children, Mia and Theo, into a large countryside home. Mia overhears Chris and Alisa's discussions about having a baby, and she fumes. Chris leaves for work, and Alisa cares for the kids. However, she notices that items go missing, damaged, or eaten. She informs Chris, but he thinks she needs therapy, and Mia blames Alisa for everything. Alisa feels the house is alive or someone haunts it. But can she prove it?<br/><br/>This story feels wild. But if you watch Phrogging: Hider in My House, you know this can happen. This movie is a compilation of those tales. This story is about a deranged stranger unknowingly living in someone's home. However, the subplot is about a family coming together and showing up for each other during a traumatic event.<br/><br/>3.5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/boyinthewalls.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/boyinthewalls.jpeg"
+  {
+    "option":"1",
+    "mtitle":"Abducted by My Teacher: The Elizabeth Thomas Story",
+    "review":"At 15, Elizabeth Thomas, aka Beth, attends school for the first time. Elizabeth's father, Ed, works double and triple shifts to care for his three children, while her brother, Ben, helps when he can.<br/><br/>Beth can't find someone to sit with during lunch and eats by her locker. Her science teacher, Tad Cummins, offers his assistance. He relates to being new and ostracized. He introduces her to a group of students - Tim, Brandy, and Rachel - willing to invite Beth into their circle. After school, Beth misses the bus, and Tad offers her a ride home. He notices a cut on her hand and gives her first aid. Beth appreciates the kindness Tad provides. This act is innocent to Beth. But it's the first step in Tad's grooming process. Tad slowly manipulates Beth and leads the police on a nationwide hunt after kidnapping her. Beth has no idea the horror, ridicule, and coercion she will need to overcome then and now.<br/><br/>Tad follows the groomer's guide like a playbook. The administrators gave Tad Beth's background. And he knew she was a prime target. He isolated her by making Beth stay behind after the other students left. Then, he set up a bed in a closet and added his number to her phone under another name to engage her in a secret. Next, Tad made several inappropriate comments to gauge her response. Finally, he used words like 'soulmate' to make his behavior look normal. The writers steered clear of re-enacting any assault to focus on grooming and public shaming, not violence. This movie is a teaching tool to warn young kids and teens of these wolves in sheep's clothing.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedbymyteacherelizabeththomas.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedbymyteacherelizabeththomas.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Big Sky River: The Bridal Path",
+    "review":"Tara calls Boone from New York. James wanted Erin to attend his and Bethany's baby shower and gender reveal. When blue confetti falls, James thanks the heavens for the son he always wanted. Erin takes offense and wants to leave the party, James, and New York behind.<br/><br/>Tara and Erin return to Parable to join Boone and his sons, Griffin and Fletcher, who gleefully await them. They settle into their lives as a blended family, but it's not complete until Boone gets down on one knee to propose. Tara says yes without hesitation. Fletcher welcomes Tara and Erin into their family, but Erin and Griffin aren't happy. Tara has two families and feels unwanted in one. Griffin doesn't want to replace his mother. With so much change, will Tara and Boone's relationship survive the pressure?<br/><br/>Based on Big Sky Summer by Linda Lael Miller and the sequel to Big River Sky, this story goes to the heart of blending families with the pressure of orchestrating a wedding. Unlike the book, this movie focuses on Tara and Boone's evolving relationship, not Casey and Peter's. Like most couples, Tara and Boone avoided the tough conversations to focus on bliss. It's a lot for everyone to handle. This film can spark heartfelt and open dialogue in blended families.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bigskyriverthebridalpath.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bigskyriverthebridalpath.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Danger Lurking Under My Roof",
+    "review":"Mark created a Tiny Home project and wants his house to be the inaugural home. The project has families with large properties that put a Tiny Home on their grounds for a family in need to stay. Mark's wife, Roxanne, and daughter, Macie, are excited to help, but Roxanne feels it's too soon. Mark tells Roxanne the family won't interfere in their lives and that the family is a struggling single mother and her daughter. Roxanne has empathy for the family and green-lights the idea.<br/><br/>Ella and Lucy stay at a motel. The front desk attendant tells Lucy they have a call. Ella snatches the cord out of the wall. Ella tells Lucy to leave calls unanswered, keep calls to friends cryptic, and never reveal their location. She hopes the new house will be a fresh start.<br/><br/>Ella and Lucy move into Roxanne and Mark's backyard. Roxanne brings them a plant and invites them to a welcome dinner. During dinner, Roxanne gives Ella the rental agreement. It stipulates noise hours, number of party guests, and counseling. Ella takes the paperwork with a forced smile and leaves with Lucy. This move is the first battle in the war between these two women. However, something more dangerous is lurking and coming for their daughters.<br/><br/>These women are the definition of petty, and both are in the wrong. Also, the script follows the same path. It focuses on them so much that viewers have no idea what's going on. The final ten minutes wrap up with a fight and a conclusion pulled out of thin air. And, it leaves some questions unanswered. This film is three movies rolled into one with little guidance to chart the plot.<br/><br/>2.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangerlurkingundermyroof.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangerlurkingundermyroof.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Making Waves",
+    "review":"Amelia hears the band, Figure 8, on her smart device and sends the link to her boss, Lydia, to review. Lydia admits she never saw Amelia's link and then reminds Amelia of their staff meeting.<br/><br/>During the meeting, Lydia tells the team their biggest competitor, run by her ex-husband, RJ, continues to take their potential clients. RJ's company has more money, but Lydia believes they have a leg up with artist freedom. Amelia pitches Figure 8, but Lydia thinks indie pop is passé. Amelia rebuts by stating the band has a growing following on social media. Lydia tells Amelia to track them down because a following could equal album sales.<br/><br/>Amelia travels to a small town for the OBX Making Waves Music Festival. To her surprise, her high school friend, Will, works at the local pub. Will warmly greets Amelia and informs her that he is there to fill in to assist his uncle, Ted. She tells Will she's in town to offer Figure 8 a deal with Dream It Real Records. But she can't find information or a clear image of the band. Will tells Amelia the band is performing at the pub tonight. She bounces with excitement but leaves for a brief moment to answer Lydia's call.<br/><br/>Lydia tells Amelia to sign Figure 8 quickly for a promotion to Head of the Indie Division. Amelia re-enters the pub with a steely determination to sign the band, but they already performed while she was outside.<br/><br/>Amelia sees RJ at the festival and knows he is scouting bands too. Then, Amelia sees Figure 8 hit the stage. She stands in awe to see Will singing lead. She offers them a deal on the spot with creative control of their look and sound. Will loves the deal, but he has other priorities. Ted leases a dock for the pub, but a commercial developer wants to purchase it. RJ offered Figure 8 a lucrative record contract that will cover the cost of the dock. Amelia must get Will on her label for the promotion, but an unforeseen wrinkle will hinder her plans.<br/><br/>This movie is charming and has catchy music. The plot has several moving parts but comes together at the end. But the overall message is a dream deferred isn't a dream denied. Everyone in this film has a fear that stops them from achieving their ultimate goal. They need to lean on each other to get over the hurdles in front of them. While the ending is predictable, it's worth watching.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/makingwaves.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/makingwaves.jpeg"
+    }
+  },
+  {
+    "option":"5",
+    "mtitle":"The Final Say",
+    "review":"Valerie gets a call from her friend, Lindsey, while preparing for a blind date. Lindsey assures Valerie that Vaughn is the perfect man for her and wishes Valerie good luck. Valerie and Vaughn fall head over heels in love with each other and marry. They buy an exquisite home and dream of filling it with children. After five years and miscarriages, Valerie's disappointment grows.<br/><br/>Before her 10th anniversary party, Valerie takes a pregnancy test, and it's positive. Vaughn wants to scream it from the rooftop, but Valerie tells him to keep it quiet. Vaughn can't contain his excitement and lets everyone know Valerie is pregnant. The family cheers for them, but the celebration is short-lived. It was a false positive. She doesn't feel that she can give Vaughn everything he wants. So, Valerie decides to divorce Vaughn to avoid future resentment. Can Vaughn save his marriage?<br/><br/>This movie tackles a sensitive subject for many couples with a blanket of faith for comfort. The ability to have and carry children looks effortless from the outside because women rarely talk about fertility hardships until now. Viewers should watch this film and create a safe space for an open dialog about infertility, pregnancy, miscarriages, and family alternatives.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefinalsay.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefinalsay.jpeg"
+    }
   }
-},
-{
-  "option":"2",
-  "mtitle":"Call Her King",
-  "review":"Judge Jaeda King enters her courtroom to sentence Sean Samuels. A jury found him guilty of several 1st-degree murders and recommended death. So she sentences him to death by lethal injection and lifts her gavel in the air.<br/><br/>Gabriel Samuels runs the most successful security company on the East Coast. For months, he created a team to take over the courthouse. Before Jaeda slams her gavel, they enter her courtroom firing. Jaeda runs into her chambers with Sean, Sean's lawyer, Jerry, and Jaeda's guard, John. Gabriel breaks down the chamber doors and discovers it's empty. So, Gabriel activates the next phase of his plan. His gang will look for Sean while he puts the prosecutor, Duke, on trial for mishandling evidence. Who will survive?<br/><br/>This movie has White House Down action with Den of Thieves suspense. The plot spends the first 30 minutes introducing the audience to Jaeda. However, the plot reveals Sean and Gabriel's backstory throughout the film. It unveils why Gabriel fights to free his brother. This story is compelling and sets up for a sequel, even though the backing track drowns out the dialog sometimes. What side of the revolution are you on?<br/><br/>4.5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/callherking.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/callherking.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"Under His Influence",
-  "review":"Diamond Calloway dances on social media, drinks champagne, and flirts with men for all her followers. After promoting a club, she drives to another while filming on Instagram Live. As she talks to her followers, Diamond crashes her car. She wakes up in the vehicle with police surrounding her. They have no sympathy because Diamond has alcohol in the car, and they saw her live streaming.<br/><br/>Diamond's parents bail her out of jail, and her mother, Ashley, cuts Diamond off. Diamond's father, Ernest, warns Diamond that her inheritance is almost gone because Diamond spends it faster than Diamond can make it. Ernest tells Diamond to find another way in life and leaves her room.<br/><br/>Diamond flounders in her room until Sadiq leaves her a direct message. He is an inmate at Atlanta Federal Prison. Sadiq has served ten years of a life sentence for murdering his teacher, Mrs. Lori Tumbler. She listens to Sadiq's story, and he moves her. Diamond visits her lawyer, Casaundra, for her DUI charges and pleas with Casaundra to take Sadiq's case. Diamond wants to use her platform for good and have the world take her seriously. Casaundra finds evidence to prove Sadiq's lawyer mishandled information, and Sadiq is free. Diamond wants to start a new future with Sadiq, but someone bent on revenge is watching and waiting to destroy it all.<br/><br/>Diamond is a woman with the world at her feet. She has a wealthy family, a comfortable life, and loving family and friends, but she lacks the maturity to see the world beyond her next post. This lack of self-esteem makes her a prime target for Sadiq. Viewers will ask the critical questions Diamond won't. You know she is falling down a slippery slope, and you can only watch. While the film entertains, it critiques social media, legal bias, and manipulation.<br/><br/>4 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/underhisinfluence.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/underhisinfluence.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Secrets of a University",
-  "review":"Eliza kisses her secret boyfriend, James, goodbye. She wants to go public, but he has a wife, Cora, and holds a political position. James says Cora knows about Eliza because they have an understanding. Eliza talks to her friend, Raven, at work. They are both excited because today is Eliza's first day heading the admissions department. Eliza's assistant, Kate, desires to witness the process, but it's a private meeting.<br/><br/>Eliza evaluates the final four candidates for the last slot with Raven, Daniel, and Dean. They quickly eliminate two but can't decide on the others. To Raven's surprise, Eliza picks Dean and Daniel's choice, and Raven caves. After the selection, Eliza discovers the candidate is James's son, Nathan. Raven warns Eliza that if anyone discovers Eliza's affair with James, Eliza could lose her job after selecting Nathan.<br/><br/>Eliza attends a party to celebrate the program winners. Nathan briefly introduces himself and his girlfriend, Charlotte, to Eliza. Eliza gets an unwelcome greeting from Cora and argues with James. Eliza hides in the bathroom for relief, and someone slips a threat under the door. She runs outside but can't find the culprit.<br/><br/>Later, Eliza gets a text proving Nathan plagiarized his essay. When she confronts Nathan, he threatens her with a knife while doing drugs. Charlotte pulls Nathan off and warns Eliza that Nathan is just like his father. Eliza refuses to believe that James could become violent. However, James snaps after Eliza mentions exposing Nathan's cheating.<br/><br/>James apologizes for his behavior and invites Eliza to dinner with Nathan so Nathan can apologize face-to-face. Nathan brings Charlotte, and they all have a delightful dinner. Until Eliza passes out at the table, and Nathan and James drag her back home. Eliza wakes up to her name and picture in gossip rags. Her job is on thin ice, so Cora invites Eliza to a party to keep up appearances. Eliza leaves the party early to retreat from James's family, only to find Nathan's dead body. She decides to break up with James, but he threatens her. Can she uncover what happened to Nathan before she loses her job and freedom?<br/><br/>First, let's start with 'everyone sucks.' Second, Eliza slightly redeems herself by taking responsibility for her horrendous actions. But it's too little too late. This movie will have you screaming at the TV and begging for part two.<br/><br/>4 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofauniversity.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofauniversity.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"Girls Getaway Gone Wrong",
-  "review":"Simone, Bailey, and Parker have reservations to stay in a high-end resort for Parker's 30th birthday, thanks to Simone's influencer sponsorship. The concierge, David, introduces himself and flirts with Simone. When the women check-in, they see a college-friend-turned-enemy, Kate, enter with her entourage. As they start to argue, Simone leaves to talk to management about their room. When she returns, Bailey and Parker can see that Simone is upset, but she won't tell them why.<br/><br/>They find cake, champagne, and David in their room. He lights the candle for Parker and leaves. Simone reveals another surprise for them. She got VIP passes to the hottest nightclub in town. The women do tequila shots and head to the club. They prepare for an epic night until Kate and her crew sit beside them. Upset, Simone and Kate argue as the owner, Antonio, approaches. He offers them free top-shelf bottle service all night if they don't fight in the club. Simone joins her friends, enjoys free drinks, and takes ecstasy.<br/><br/>The friends wake up in Kate's hotel room. They have no idea of how they got there. When they return to their room, they get horrible news. David tells them Kate died by falling off the balcony. Bailey, Simone, and Parker sit poolside and figure out what to do. They go through their phones and delete any potential evidence, including an argument. However, someone else posts the video, and the detectives declare Kate's death a murder. Simone, Parker, and Bailey must stay one step ahead and find the culprit before they end up behind bars for a murder they didn't commit.<br/><br/>The plot sets up these three women with issues so they have a reason to escape and throw caution to the wind. This script sets itself apart because their good and bad decisions all backfire. This movie has love triangles, theft, backstabbing, and pure stupidity. While the film has a strong plot, the story falls flat with a comical fight scene and childish behavior. The film tries to pack a month-long soap opera drama into a few hours. If you stick with the movie, your first suspect will be correct and wrong. So, watch to discover the killer, but don't expect much from the performance.<br/><br/>3 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/girlsgetawaygonewrong.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/girlsgetawaygonewrong.jpg"
-  }
-}
+  
 ];
 
 module.exports = madeForTV;
@@ -58,47 +59,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Abducted by My Teacher: The Elizabeth Thomas Story",
+  "mtitle":"Her Deadly Night in Paris",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedbymyteacherelizabeththomas.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedbymyteacherelizabeththomas.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/herdeadlynightinparis.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/herdeadlynightinparis.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Big Sky River: The Bridal Path",
+  "mtitle":"The More Love Grows",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bigskyriverthebridalpath.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bigskyriverthebridalpath.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themorelovegrows.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themorelovegrows.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Danger Lurking Under My Roof",
+  "mtitle":"My Son Didn't Do It",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangerlurkingundermyroof.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangerlurkingundermyroof.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysondidntdoit.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysondidntdoit.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Making Waves",
+  "mtitle":"Trapped in the Cabin",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/makingwaves.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/makingwaves.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedinthecabin.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trappedinthecabin.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"The Final Say",
+  "mtitle":"A Safari Romance",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefinalsay.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefinalsay.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asafariromance.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asafariromance.jpeg"
   }
 }
 
