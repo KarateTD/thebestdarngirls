@@ -1,49 +1,49 @@
 var madeForTV = [
-  {
-    "option":"1",
-    "mtitle":"Abducted by My Teacher: The Elizabeth Thomas Story",
-    "review":"At 15, Elizabeth Thomas, aka Beth, attends school for the first time. Elizabeth's father, Ed, works double and triple shifts to care for his three children, while her brother, Ben, helps when he can.<br/><br/>Beth can't find someone to sit with during lunch and eats by her locker. Her science teacher, Tad Cummins, offers his assistance. He relates to being new and ostracized. He introduces her to a group of students - Tim, Brandy, and Rachel - willing to invite Beth into their circle. After school, Beth misses the bus, and Tad offers her a ride home. He notices a cut on her hand and gives her first aid. Beth appreciates the kindness Tad provides. This act is innocent to Beth. But it's the first step in Tad's grooming process. Tad slowly manipulates Beth and leads the police on a nationwide hunt after kidnapping her. Beth has no idea the horror, ridicule, and coercion she will need to overcome then and now.<br/><br/>Tad follows the groomer's guide like a playbook. The administrators gave Tad Beth's background. And he knew she was a prime target. He isolated her by making Beth stay behind after the other students left. Then, he set up a bed in a closet and added his number to her phone under another name to engage her in a secret. Next, Tad made several inappropriate comments to gauge her response. Finally, he used words like 'soulmate' to make his behavior look normal. The writers steered clear of re-enacting any assault to focus on grooming and public shaming, not violence. This movie is a teaching tool to warn young kids and teens of these wolves in sheep's clothing.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedbymyteacherelizabeththomas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedbymyteacherelizabeththomas.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Big Sky River: The Bridal Path",
-    "review":"Tara calls Boone from New York. James wanted Erin to attend his and Bethany's baby shower and gender reveal. When blue confetti falls, James thanks the heavens for the son he always wanted. Erin takes offense and wants to leave the party, James, and New York behind.<br/><br/>Tara and Erin return to Parable to join Boone and his sons, Griffin and Fletcher, who gleefully await them. They settle into their lives as a blended family, but it's not complete until Boone gets down on one knee to propose. Tara says yes without hesitation. Fletcher welcomes Tara and Erin into their family, but Erin and Griffin aren't happy. Tara has two families and feels unwanted in one. Griffin doesn't want to replace his mother. With so much change, will Tara and Boone's relationship survive the pressure?<br/><br/>Based on Big Sky Summer by Linda Lael Miller and the sequel to Big River Sky, this story goes to the heart of blending families with the pressure of orchestrating a wedding. Unlike the book, this movie focuses on Tara and Boone's evolving relationship, not Casey and Peter's. Like most couples, Tara and Boone avoided the tough conversations to focus on bliss. It's a lot for everyone to handle. This film can spark heartfelt and open dialogue in blended families.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bigskyriverthebridalpath.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bigskyriverthebridalpath.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Danger Lurking Under My Roof",
-    "review":"Mark created a Tiny Home project and wants his house to be the inaugural home. The project has families with large properties that put a Tiny Home on their grounds for a family in need to stay. Mark's wife, Roxanne, and daughter, Macie, are excited to help, but Roxanne feels it's too soon. Mark tells Roxanne the family won't interfere in their lives and that the family is a struggling single mother and her daughter. Roxanne has empathy for the family and green-lights the idea.<br/><br/>Ella and Lucy stay at a motel. The front desk attendant tells Lucy they have a call. Ella snatches the cord out of the wall. Ella tells Lucy to leave calls unanswered, keep calls to friends cryptic, and never reveal their location. She hopes the new house will be a fresh start.<br/><br/>Ella and Lucy move into Roxanne and Mark's backyard. Roxanne brings them a plant and invites them to a welcome dinner. During dinner, Roxanne gives Ella the rental agreement. It stipulates noise hours, number of party guests, and counseling. Ella takes the paperwork with a forced smile and leaves with Lucy. This move is the first battle in the war between these two women. However, something more dangerous is lurking and coming for their daughters.<br/><br/>These women are the definition of petty, and both are in the wrong. Also, the script follows the same path. It focuses on them so much that viewers have no idea what's going on. The final ten minutes wrap up with a fight and a conclusion pulled out of thin air. And, it leaves some questions unanswered. This film is three movies rolled into one with little guidance to chart the plot.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangerlurkingundermyroof.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangerlurkingundermyroof.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Making Waves",
-    "review":"Amelia hears the band, Figure 8, on her smart device and sends the link to her boss, Lydia, to review. Lydia admits she never saw Amelia's link and then reminds Amelia of their staff meeting.<br/><br/>During the meeting, Lydia tells the team their biggest competitor, run by her ex-husband, RJ, continues to take their potential clients. RJ's company has more money, but Lydia believes they have a leg up with artist freedom. Amelia pitches Figure 8, but Lydia thinks indie pop is passé. Amelia rebuts by stating the band has a growing following on social media. Lydia tells Amelia to track them down because a following could equal album sales.<br/><br/>Amelia travels to a small town for the OBX Making Waves Music Festival. To her surprise, her high school friend, Will, works at the local pub. Will warmly greets Amelia and informs her that he is there to fill in to assist his uncle, Ted. She tells Will she's in town to offer Figure 8 a deal with Dream It Real Records. But she can't find information or a clear image of the band. Will tells Amelia the band is performing at the pub tonight. She bounces with excitement but leaves for a brief moment to answer Lydia's call.<br/><br/>Lydia tells Amelia to sign Figure 8 quickly for a promotion to Head of the Indie Division. Amelia re-enters the pub with a steely determination to sign the band, but they already performed while she was outside.<br/><br/>Amelia sees RJ at the festival and knows he is scouting bands too. Then, Amelia sees Figure 8 hit the stage. She stands in awe to see Will singing lead. She offers them a deal on the spot with creative control of their look and sound. Will loves the deal, but he has other priorities. Ted leases a dock for the pub, but a commercial developer wants to purchase it. RJ offered Figure 8 a lucrative record contract that will cover the cost of the dock. Amelia must get Will on her label for the promotion, but an unforeseen wrinkle will hinder her plans.<br/><br/>This movie is charming and has catchy music. The plot has several moving parts but comes together at the end. But the overall message is a dream deferred isn't a dream denied. Everyone in this film has a fear that stops them from achieving their ultimate goal. They need to lean on each other to get over the hurdles in front of them. While the ending is predictable, it's worth watching.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/makingwaves.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/makingwaves.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"The Final Say",
-    "review":"Valerie gets a call from her friend, Lindsey, while preparing for a blind date. Lindsey assures Valerie that Vaughn is the perfect man for her and wishes Valerie good luck. Valerie and Vaughn fall head over heels in love with each other and marry. They buy an exquisite home and dream of filling it with children. After five years and miscarriages, Valerie's disappointment grows.<br/><br/>Before her 10th anniversary party, Valerie takes a pregnancy test, and it's positive. Vaughn wants to scream it from the rooftop, but Valerie tells him to keep it quiet. Vaughn can't contain his excitement and lets everyone know Valerie is pregnant. The family cheers for them, but the celebration is short-lived. It was a false positive. She doesn't feel that she can give Vaughn everything he wants. So, Valerie decides to divorce Vaughn to avoid future resentment. Can Vaughn save his marriage?<br/><br/>This movie tackles a sensitive subject for many couples with a blanket of faith for comfort. The ability to have and carry children looks effortless from the outside because women rarely talk about fertility hardships until now. Viewers should watch this film and create a safe space for an open dialog about infertility, pregnancy, miscarriages, and family alternatives.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefinalsay.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefinalsay.jpeg"
-    }
+{
+  "option":"1",
+  "mtitle":"Her Deadly Night in Paris",
+  "review":"Lucy meets Antoine at the docks. He is the son of her host family. Antoine's mother, Madeleine, greets Lucy with open arms and playfully scorns Antoine for not carrying Lucy's bags. Lucy meets Antoine's father, Judge Remy, but he maintains some distance.<br/><br/>Lucy and Antoine meet outside school on Friday, and she plans to study. Antoine convinces her to have some fun on the weekend and go to a party. Antoine can't conceal his jealousy when Lucy swoons over DJ Vincent. Before Lucy can meet the DJ, Antoine sees Vincent's parole officer enter the club. Antoine grabs Lucy, and they stay in the closet all night and kiss.<br/><br/>Antoine drops Lucy off at his parents' house but leaves for his loft. Lucy walks up the driveway and sees a man arguing with Remy. Remy gets a knife and stabs him. Remy tells Lucy he was protecting himself, but self-defense is harder to prove to Paris police. He asks Lucy to open the back door, and he will hide the body. Lucy complies.<br/><br/>Lucy comes home after school to find Lt. Laurent in Remi and Madeleine's living room. Laurent informs Lucy that a man, Gaston, is dead, and Lucy's DNA is on his body. Laurent arrests Lucy and takes her to the station. Lucy realizes there is no way the French government has her DNA on file, and they can't make a match that fast. Remy is setting her up, and Laurent is helping him. With quick thinking, she is on the run with Antoine. They must clear Lucy's name before she loses her freedom, or worse, her life. This movie drags in the beginning, but the wait sets up the false narrative Lucy sees about her host family. As Lucy penetrates the façade, she sees Remy's controlling nature. Lucy isn't a damsel in distress waiting for someone to save her. She uses low-tech solutions, quick footwork, and intelligence to stay one step ahead. The journey is worth it, if you survive the first 30 minutes.<br/><br/>4 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/herdeadlynightinparis.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/herdeadlynightinparis.jpeg"
   }
+},
+{
+  "option":"2",
+  "mtitle":"The More Love Grows",
+  "review":"Helen and Paul sit outside their daughter's dorm after sending her to college for the 1st time as a pre-med student. Paul reminisces on their life before Aly and wants to return to their roots as a couple. However, Helen loves their lives as parents. Paul drives Helen home before leaving for a business meeting in Denver.<br/><br/>Helen sits with her friends for dinner and looks at her watch. Helen calls Paul and discovers he's at home waiting for her. He got the job in Denver and wants to move but without Helen. Paul leaves, and Helen sinks into her seat. Helen hears a knock at the door and assumes it's Paul. However, it's a dog.<br/><br/>Helen isn't a dog person but notices he doesn't have a collar. She brings him inside the house and calls her friend, Ben. Ben is in his 4th year of veterinary school. Helen thinks the dog will be a one-night visitor. However, the animal will guide her to a new purpose, a sense of self-worth, new friends, and love.<br/><br/>The family's fragile dynamic is evident in the first 20 minutes. Helen's mother, Sue, is a marriage-focused woman. Paul lives with his head in the clouds and looks to his past instead of his future. Helen is a lost, empty-nester with dreams but doesn't know how to fulfill them. Paul and Helen decide to keep the divorce a secret from Aly so she can focus on college. Throughout the movie, Helen handles the separation maturely, and it's refreshing. However, Helen doesn't make herself a martyr. She owns her faults in the marriage. This movie will have you feeling all the emotions.<br/><br/>4 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themorelovegrows.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themorelovegrows.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"My Son Didn't Do It",
+  "review":"Helen and Judy discuss their busy work lives and children. Helen beams with pride because her son, Taylor, won a prestigious award. However, he is an introverted gamer coping with bullying. Helen's daughter, Gia, is a social butterfly but hates being compared to Taylor. Judy's son, Miles, plays soccer and has the potential to earn scholarships, but his grades are lackluster.<br/><br/>Gia arrives late to dinner and spies Taylor texting a girl. The girl is Emma, and Taylor hasn't met or talked to her because Emma has a text-only policy. Gia and Miles discuss attending Sophia's party but learn Sophia didn't include Taylor. Gia calls friends and discovers that Taylor has an invitation. She convinces Taylor to party and bring Emma.<br/><br/>Taylor works on a chemistry project with Sophia. She sticks up for Taylor when Lucas starts bullying Taylor. Taylor smiles at the pretty girl's attention and floats to his locker, but his mood changes when he sees a threat inside his locker. But Taylor decides not to disclose it.<br/><br/>Gia goes to Taylor's room, but Taylor doesn't want to go to the party because Emma isn't answering his text messages. Gia tells Taylor to call Emma, but it goes to voicemail. Taylor decides to stay home.<br/><br/>The police knock on Helen's door. Someone found a girl dead in the woods. Police tell her Taylor murdered Sophia, and they are there to arrest him. Helen tries to explain that Taylor was with her all night, but they have video evidence of him in the park with Sophia. Helen can't deny the evidence but knows Taylor isn't a killer. Can she prove it?<br/><br/>The plot gives viewers plenty of suspects because of their shady behavior. Even Gia and Taylor have skeletons in their closet. Also, the audience slowly uncovers the killer with Helen and Gia. So you watch with bated breath as everything unravels. The final fight scene will make you laugh, but this movie allows you to enjoy the ride.<br/><br/>3.5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysondidntdoit.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysondidntdoit.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Trapped in the Cabin",
+  "review":"Romance writer Rebecca drives to a remote cabin owned by her manager, Jason. She wanted to leave the press tour to write her next book. So, he offered to let Rebecca stay in his cabin for a few weeks. He warns Rebecca that the upstairs is in repair, but everything she needs is on the first floor. Also, the cell reception is spotty. Rebecca's mom, Ms. Collins, calls with a list of worries. Last month, someone broke into Rebecca's home and took her workout clothes. The police believe the stolen clothes to be a one-time prank.<br/><br/>Rebecca marvels at the lush cabin and its amenities while making herself comfortable. She settles in for the night and goes for a jog in the morning. Rebecca meets Nathan during her workout. Later, Rebecca prepares a bath, but the water is freezing. She texts Jason, and he sends a plumber immediately.<br/><br/>Nathan knocks at Rebecca's door and fixes the tub. Rebecca throws caution to the wind, kisses Nathan, and shares a passionate night with him. Rebecca wakes up from bliss to find Nathan gone and the house trashed. She furiously texts Nathan and calls out his rude behavior, but he doesn't answer. Rebecca decides to put it behind her and focus on work. But the person stalking her with security cameras won't let her. Can Rebecca escape the cabin alive?<br/><br/>This movie is old-school Lifetime at its finest. Rebecca's cabin checks all the boxes because it's remote, has poor reception, and it's in the middle of a snowstorm. When the plot reveals Rebecca's stalker halfway into the film, it ramps up the creep factor. The movie will have you yell at Rebecca in frustration one minute and yelling for her to survive the next. The script is a whirlwind of emotions that old-school Lifetimers crave.<br/><br/>4 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedinthecabin.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trappedinthecabin.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"A Safari Romance",
+  "review":"Megan guides guests around the nature preserve for a photo safari. She works as a ranger while finishing her PhD. Megan has three weeks to complete and use a presentation to defend her work. However, she hasn't spotted her subject, the white lion.<br/><br/>Eric arrives at the hotel with his videographer, Darius. Eric wants to capture images of the animals for his immersive safari experience thrill ride. Eric bumps into Megan and asks about the photos displayed in the lobby. She bashfully admits that it's her work.<br/><br/>During an outing, Megan notices a drone flying above. She discovers that the drone belongs to Tim. She tells Tim he can't use the drone because it disturbs the animals. If the owner catches any of Megan's guests using a drone, she could lose her ranger's license and her thesis subject. Tim and Darius promise not to use the drone again.<br/><br/>Megan and Tim get closer with each excursion. Then, Amy arrives. Amy and Tim dated. Now, she's there to tell him she is his boss. She offers ideas, and Megan denies them because they are too dangerous or encroach on the animals' environment. Amy relents, but the owner spots the drone later and threatens to take Megan's license if she doesn't fix it. Megan confronts Tim, and he swears it wasn't him. Will she lose faith in Tim and their relationship, or will the culprit come forward to clear Tim's name?<br/><br/>This film has everything you expect. This movie stands out because of the scenery, animals, people, and conservation details. The plot slips in information about the environment without preaching to the audience. Don't cancel plans to watch this movie. But save it on your DVR for later.<br/><br/>3 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asafariromance.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asafariromance.jpeg"
+  }
+}
   
 ];
 
@@ -59,47 +59,38 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Her Deadly Night in Paris",
+  "mtitle":"Vanished in Yosemite",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/herdeadlynightinparis.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/herdeadlynightinparis.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vanishedinyosemite.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vanishedinyosemite.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"The More Love Grows",
+  "mtitle":"Hiding from My Husband",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themorelovegrows.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themorelovegrows.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"3",
-  "mtitle":"My Son Didn't Do It",
+  "mtitle":"The Serial Killer Seduced Me",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysondidntdoit.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysondidntdoit.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theserialkillerseducedme.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theserialkillerseducedme.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Trapped in the Cabin",
+  "mtitle":"Never Too Late to Celebrate",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedinthecabin.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trappedinthecabin.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"A Safari Romance",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asafariromance.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asafariromance.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nevertoolatetocelebrate.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nevertoolatetocelebrate.jpeg"
   }
 }
 

@@ -56,7 +56,33 @@ module.exports = inTheTheaters;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Blue Beetle",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bluebeetle.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bluebeetle.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Strays",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/strays.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/strays.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Back on the Strip",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/backonthestrip.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/backonthestrip.jpeg"
+  }
+}
 
 
 */
