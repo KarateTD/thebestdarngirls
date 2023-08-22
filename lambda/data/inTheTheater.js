@@ -34,6 +34,15 @@ var inTheTheaters = [
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/tmntmutantmayhem.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/tmntmutantmayhem.jpeg"
     }
+  },
+  {
+    "option":"5",
+    "mtitle":"Meg 2: The Trench",
+    "review":"Jonas captures eco-terrorists with Mac while assisting Mana One and caring for his stepdaughter, Meiying. Meiying's uncle, Jiuming, took over the facility after his father, Minway, and sister, Suyin, died. Years ago, they captured a baby Meg, Haiqi, and raised it in captivity near Hainan Island. Jiuming notices that Haiqi's behavior is changing. Jiuming's business partner, Hilary, wants the team to continue researching the uncharted trench below the thermocline.<br/><br/>Jonas, Jiuming, and a crew enter a submersible for routine exploration. On the Mana One command post, DJ and Jess spot an irregularity on the sub. It's Meiying. She snuck onboard with her gear after Jonas said she couldn't come. At 25,000 feet underwater, Jiuming spots Haiqi. She broke out to mate with other Megs. Then, they uncover an illegal mining station at the bottom of the trench. Before they can make contact, the station's captain, Montes, sets off an explosion, damaging their sub. Jonas calls to the surface to send help. But someone impaired the rescue pods. Without help, Jonas, Jiuming, Meiying, and the crew will wear exosuits and walk the trench floor to the mining station, passing the dangerous creatures above while exposing the miners and the saboteurs on Mana One.<br/><br/>Over five years, Jonas changed from a loner to a family man. He doesn't want to quell Meiying's spirit but desires to keep her safe. Based on The Trench by Steve Alten, the plot is captivating, with a few jump scares and crazy scenarios. It's what you expect from a humourous, slightly over-the-top action movie. It packs an entertaining, outlandish plot with nods to its predecessor. The graphics make it worth seeing on the big screen, but not in 3D. It will be a cult classic for anyone looking for mindless fun.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/meg2thetrench.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/meg2thetrench.jpeg"
+    }
   }
 ];
 
