@@ -1,47 +1,38 @@
 var inTheTheaters = [
   {
-    "option":"1",
+  "option":"1",
+  "mtitle":"Blue Beetle",
+  "review":"<lang xml:lang=\"es-ES\">Jaime Reyes</lang> returns home to his family after finishing his pre-law degree. His family anxiously awaits his arrival, but his sister, Milagro, wants the family to be honest with <lang xml:lang=\"es-ES\">Jaime</lang>. Their father, Alberto, and mother, Rocio, tell Milagro to wait until <lang xml:lang=\"es-ES\">Jaime</lang> eats to give him the unfortunate news.<br/><br/>After <lang xml:lang=\"es-ES\">Jaime</lang> takes his first bite, Milagro tells <lang xml:lang=\"es-ES\">Jaime</lang> that his parents must sell their home. And Alberto had a heart attack. <lang xml:lang=\"es-ES\">Jaime's</lang> uncle Rudy blames Kord Industries for the gentrification. <lang xml:lang=\"es-ES\">Jaime</lang> promises to find a job and move the family to a big house on the hills.<br/><br/><lang xml:lang=\"es-ES\">Jaime</lang> and Milagro got a job cleaning pools to make ends meet. As they scrape gum off the pool furniture, <lang xml:lang=\"es-ES\">Jaime</lang> spots Veronica Kord and her private security, Ignacio, walking inside the home. <lang xml:lang=\"es-ES\">Jaime</lang> can't work up the nerve to ask Veronica for a job, but Milagro has no problems using Veronica's bathroom.<br/><br/>Jennifer pulls her aunt, Veronica, into a room and watches an ad for the One Man Army Corp, a.k.a. OMAC. Jennifer reminds Veronica that Jennifer's father, Ted, didn't want Kord Industries involved in weapons manufacturing anymore. Veronica demands that Jennifer back off. Jennifer walks towards the door to exit, and Ignacio tries to grab her, but <lang xml:lang=\"es-ES\">Jaime</lang> verbally defends Jennifer. Veronica fires <lang xml:lang=\"es-ES\">Jaime</lang> and Milagro. Jennifer tells <lang xml:lang=\"es-ES\">Jaime</lang> to come to Kord Industries, and she will find a job for him.<br/><br/><lang xml:lang=\"es-ES\">Jaime</lang> arrives with his cheering family in tow. <lang xml:lang=\"es-ES\">Jaime</lang> sees Jennifer running down an escalator and onto an elevator. He mirrors her movements and meets her downstairs. She hands <lang xml:lang=\"es-ES\">Jaime</lang> a burger container. She demands that he guard it with his life and never open it.<br/><br/><lang xml:lang=\"es-ES\">Jaime</lang> takes it home, and his family encourages him to open the box. They all play with the high-tech scarab inside. When <lang xml:lang=\"es-ES\">Jaime</lang> touches it, it scans his face, goes inside his body, and attaches to his spine. When <lang xml:lang=\"es-ES\">Jaime</lang> wakes up, he is on his parents' couch naked. <lang xml:lang=\"es-ES\">Jaime</lang> steals Rudy's car to get answers from Jennifer. After dodging a hail of bullets, Jennifer sits with <lang xml:lang=\"es-ES\">Jaime's</lang> family to explain. The scarab is a world-destroying weapon that chooses its hosts. Veronica needs its code to complete her OMAC project. With the scarab active, <lang xml:lang=\"es-ES\">Jaime</lang> is in danger. <lang xml:lang=\"es-ES\">Jaime</lang> wants Jennifer to remove the scarab now. The journey to expelling the scarab will make <lang xml:lang=\"es-ES\">Jaime</lang> experience the ultimate sacrifice, learn the truth about Nana, and uncover his destiny to become the Blue Beetle.<br/><br/>First, Nana is a gangster. Second, <lang xml:lang=\"es-ES\">Jaime</lang> is a reluctant hero. Finally, his family doesn't sit around waiting for <lang xml:lang=\"es-ES\">Jaime</lang> to save them. The graphics are stellar for a DC film. This color palette of the film reflects <lang xml:lang=\"es-ES\">Jaime</lang> and his family. It's fun, bright, and burst with excitement. The downside of this movie is the sound effects drown out <lang xml:lang=\"es-ES\">Jaime's</lang> suit's A.I., Khaji-Da. See this film on the best screen possible, and don't let the detractors keep you away. Also, there are mid and post-credit scenes.<br/><br/>4.5 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bluebeetle.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bluebeetle.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Strays",
+  "review":"Doug's girlfriend spots puppies for sale outside a general store. She instantly falls in love with one, Reggie, but Doug hates him. She cares for the dog until Reggie pulls another woman's underwear out of Doug's bedroom. She tries to take Reggie, but Doug won't let her out of spite. One day, Doug receives an eviction notice and blames his mother because her check is short. Doug packs his things, and Reggie accidently knocks over the boxes to get a ball. Seeing that Reggie broke his favorite bong, Doug decides to remove Reggie. He thinks he's free of Reggie, but Reggie always comes back.<br/><br/>Doug has had enough of Reggie coming back, so he drives Reggie 3 hours away. Reggie finds the ball but has difficulty maneuvering out of the alleyway. So he rests before returning to Doug. Reggie attempts to leave the alley, but two rottweilers accost him. Then, a large shadow appears on the building and terrorizes the rottweilers. The rottweilers stop chuckling when Bug babbles with crazy thoughts and threats against them and himself. Bug sadly listens to Reggie's tale and gives him gut-wrenching news: Doug abandoned him.<br/><br/>Bug introduces Reggie to two of his friends, Maggie and Hunter. Bug tells Reggie that being off the leash is a blessing. Strays can do whatever they want. After spending the day off the leash with Bug, Maggie, and Hunter, Reggie thinks about Doug and their relationship. He is going back to Doug. Not to play. But to bite off his dick. Bug, Maggie, and Hunter will help Reggie find Doug and exact revenge.<br/><br/>This movie is not for children. It depicts animal neglect, a man pleasuring himself, and overt sexual content. It has Ted-like humor with animal cuteness. The writers stay within the minds of dogs. They sniff each other, fear fireworks, and have a strange view of humans. As you watch, it's easy to forget the story's heart. Be kind to dogs. If you are not into crass humor, this isn't your movie. Otherwise, see this movie at the matinee price.<br/><br/>3 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/strays.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/strays.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Back on the Strip",
+  "review":"Merlin loves to perform magic with his best friend, Robin. Robin will be his assistant for the upcoming talent show. Merlin worries this will be the last time they see each other because Robin will attend Julliard in the fall. Robin gives him a quick peck and promises to be his friend for life. But he wishes they were more than friends.<br/><br/>Merlin got the most coveted spot in the talent show. During his escape trick, Merlin asks a member of the Ghetto Gangsters to secure his handcuffs. They pull his pants down and expose his large appendage for the entire auditorium. Embarrassed, Merlin runs off the stage, leaving Robin alone.<br/><br/>Merlin performs his illusions but as a clown for kids' parties. It's been four years since he's seen Robin, and he's ready to tell her how he feels about her. He goes home to change, but Robin is already there with her new boyfriend, social prankster Blaze. Then, Blaze proposes to Robin, and she accepts. Merlin announces to the crowd that he is moving to Las Vegas to become a magician. However, instead of scolding Merlin, Verna buys him a one-way ticket and asks her friend, Rita, to let Merlin stay at her hotel.<br/><br/>Merlin arrives at the rundown hotel and tricks Rita into letting him perform on her stage. Along with the hotel, Rita runs a club called The Chip. Years ago, Rita had a male exotic dance team called The Chocolate Chips. The dancers were Mr. Face, Mr. Body, Mr. Slim, Dr. X, and the leader, Mr. Big. Merlin accidentally sets his pants on fire and tears them off during his routine. Mr. Big found his new leading man. He wants to get The Chocolate Chips back together and bring money to Rita's hotel and club. Can Merlin keep up the façade when his past crashes into his dance?<br/><br/>This movie had a few funny and shocking moments, but the plot dragged. Sadly, the film uses obvious props for children and doesn't make the best use of their comedians. Yes, this movie is comical. But it should have streamed on BET+, TV One, or Bounce TV instead of in the theaters. If you are a fan of the main cast, see it during the matinee. Otherwise, wait for streaming.<br/><br/>2 out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/backonthestrip.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/backonthestrip.jpeg"
+  }
+},
+  {
+    "option":"4",
     "mtitle":"Teenage Mutant Ninja Turtles: Mutant Mayhem",
     "review":"Michelangelo, Donatello, Leonardo, and Raphael love to record themselves performing stunts, watch movies, and eat pizza. People would consider them normal teenagers, but they live in the New York City Sewers because they are mutant turtles. Their father, Splinter, knows the human world won't be kind to them. Splinter taught them to defend themselves and to fear evil deadly humans.<br/><br/>After creative grocery shopping, the boys practice their ninja skills on fruit. They throw a ninja star, and it slices through the watermelon and lodges itself into a young woman's bike helmet. April's beauty captivates Leonardo. As they argue over socializing with a human, April screams at them from below to converse. Then they see someone steal April's scooter and go after him. They discover a chop shop and use their skills to immobilize the thieves. The turtles come out of the shadows, and April, an aspiring journalist, wants to know more about them.<br/><br/>They explain their origin and their dream to join the human world. April understands how they feel because she's an outsider in high school. Then, they get an idea. A rash of robberies put the city on high alert, and they want to enact a curfew and cancel the prom. If April films the boys taking down the leader, Superfly, the Teenage Mutant Ninja Turtles can come out of the shadows. And the city will lift the curfew, and the prom will continue. April, Donatello, Leonardo, Rafael, and Michelangelo will be heroes.<br/><br/>Parents and kids will have an easy laugh throughout this movie. While the film alters Splinter's story, it remains true to the Turtles' saga. Parents will instantly connect to the second movie with one song. Kids will connect to the characters' use of social media to reach an unexplored but judgmental world. The graphics uniquely capture your attention. It's computer animation, but they made it look like a comic book. The humor is for the whole family. Stay for the mid-credit scene. And you don't need 3D to enjoy this film.<br/><br/>3.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/tmntmutantmayhem.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/tmntmutantmayhem.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Meg 2: The Trench",
-    "review":"Jonas captures eco-terrorists with Mac while assisting Mana One and caring for his stepdaughter, Meiying. Meiying's uncle, Jiuming, took over the facility after his father, Minway, and sister, Suyin, died. Years ago, they captured a baby Meg, Haiqi, and raised it in captivity near Hainan Island. Jiuming notices that Haiqi's behavior is changing. Jiuming's business partner, Hilary, wants the team to continue researching the uncharted trench below the thermocline.<br/><br/>Jonas, Jiuming, and a crew enter a submersible for routine exploration. On the Mana One command post, DJ and Jess spot an irregularity on the sub. It's Meiying. She snuck onboard with her gear after Jonas said she couldn't come. At 25,000 feet underwater, Jiuming spots Haiqi. She broke out to mate with other Megs. Then, they uncover an illegal mining station at the bottom of the trench. Before they can make contact, the station's captain, Montes, sets off an explosion, damaging their sub. Jonas calls to the surface to send help. But someone impaired the rescue pods. Without help, Jonas, Jiuming, Meiying, and the crew will wear exosuits and walk the trench floor to the mining station, passing the dangerous creatures above while exposing the miners and the saboteurs on Mana One.<br/><br/>Over five years, Jonas changed from a loner to a family man. He doesn't want to quell Meiying's spirit but desires to keep her safe. Based on The Trench by Steve Alten, the plot is captivating, with a few jump scares and crazy scenarios. It's what you expect from a humourous, slightly over-the-top action movie. It packs an entertaining, outlandish plot with nods to its predecessor. The graphics make it worth seeing on the big screen, but not in 3D. It will be a cult classic for anyone looking for mindless fun.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/meg2thetrench.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/meg2thetrench.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Haunted Mansion",
-    "review":"Doctor Gabbie and Travis move to New Orleans to turn a large mansion into a bed and breakfast. After noticing a lot of unexplained incidences, they both leave. But they later return and call Father Kent to perform an exorcism on the home. Father Kent attempts to clear the home but fails, so he researches others who can help. He discovers that Ben, an astrophysicist, created a camera lens to capture spirits in images. Father Kent asks Ben to bring his camera to Gabbie's home and take pictures for $2,000.<br/><br/>Upon arriving, Ben noticed his camera's battery died. But he goes to Gabbie's doorstep anyway. Gabbie warns Ben that if he enters the home, it will change the course of his life forever. He takes a few fake photos, scribbles fraudulent notes, and tells Gabbie the house is free from ghosts. Ben goes home, but a ghost follows him there. The ghost tells Ben to go back. Ben returns with a working camera to discover that Father Kent lives there because the ghost forced him to return too. They get more resources. First, they find a historian, Professor Bruce, to dig up the home's past owners and what happened in the home. Next, they need a psychic, Harriet, to learn what the ghosts want. With their dream team, can they clear the house to free themselves from it?<br/><br/>Based on Haunted Mansion, this standalone sequel mixes strong themes of grief and loss with well-timed humor and horror. The movie is the embodiment of New Orleans, where funeral parades turn sadness into joy. Yes, it has a few jump scares, but it's equivalent to Scooby Doo with Disney-quality animation. It's fun but more appropriate for older kids and adults because it delves into serial murder and mentions a mistress. There are zero post-credit scenes, but it ends with a New Orleans-style party. This movie is gentle about death while being funny and a little scary.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hauntedmansion.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hauntedmansion.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Barbie",
-    "review":"Barbie lives in her dreamhouse. She takes a waterless shower, eats her perfect pretend breakfast, and floats to her car. Barbie goes to the beach to relax, and Ken waits for Barbie to notice him. Ken asks to visit Barbie's house, and she invites him to her blowout party with choreography.<br/><br/>Everyone loves Barbie's party until Barbie asks them if they think about death. She laughs it off and continues dancing. In the morning, Barbie wakes up tired, her waterless shower is cold, and the pretend breakfast isn't edible. Barbie confesses that something is wrong, and the other Barbies tell her to go to Weird Barbie.<br/><br/>Barbie goes to Weird Barbie and tells her everything that happened. Barbie's little girl in the real world is sad, and it affects how she plays with Barbie. Barbie doesn't understand how this could happen because playing with Barbie made the lives of real girls perfect like her. Barbie heads to the real world with Ken stowing away in the backseat. She will find her girl, help her, and return to Barbieland with her body and mind in tack. However, the real world will change Barbieland in ways Barbie never dreamed, but Ken always imagined.<br/><br/>This movie starts with all the pink, butterflies, and glitter you expect from Barbie. It has all the Barbies you remember as a little child, even discontinued Barbies like Midge, Growing Up Skipper, and TV Barbie. When she enters the real world, she sees it isn't perfect. And little girls aren't thanking her for making a difference. Ken sees the human world and loves it. Men are working, driving big cars, and focusing on each other. The real world has a lasting effect on both of them.<br/><br/>As the trailer says, this film is for people who love and hate Barbie because it focuses on Barbie's issues while addressing her contributions. During the trip to Barbie, Barbie talks to her owner, Sasha, and Sasha's mother, Gloria. Gloria gives a speech to Barbie, who is having an existential crisis, and it will make you sigh with understanding and exhaustion. You leave this film with your eyes open, your feelings heard, and loving Barbie again.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/barbie.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/barbie.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Oppenheimer",
-    "review":"J. Robert Oppenheimer sits in front of a security hearing board because he wants to maintain his security clearance. He recounts his life before and during his government work under scads scrutiny. He teaches at the University of California, Berkeley, and dedicates time to the California Institute of Technology. Oppenheimer crosses paths with Ernest Lawrence, Jean Tatlock, and his future wife, Katherine Puening.<br/><br/>General Leslie Groves seeks out Oppenheimer to work on the Manhattan Project but worries Oppenheimer's communist ties will delay his clearance. Oppenheimer assures Groves that he only has an academic interest in the party, not a devotion. Oppenheimer wasn't sure about creating the Atomic Bomb but wanted to end World War II. So he agreed to do it because the only scientist in Germany with Oppenheimer's knowledge was Jewish. They know Hitler won't give him funding.<br/><br/>Oppenheimer convinces Groves to create a town in Los Alamos, New Mexico, with places to pray, shop, and attend school. Oppenheimer and his researchers work before the town is complete, and William L. Borden enters with startling calculations. His math proves the Atomic Bomb could cause an explosion in the atmosphere and create a chain reaction that destroys the world. Oppenheimer asks Lewis Strauss to introduce him to Albert Einstein. He gives Albert the calculations, and Albert confirms them. Oppenheimer must continue his work with the constant threat of annihilation hanging over his head. And he will bring death to thousands if it works as expected. Can Oppenheimer accept the applause and responsibility of being a modern-day Prometheus?<br/><br/>The director made this movie with extreme precision for the period, the scientists, and their struggles. If you pay close attention, this historical film has the drama of a daytime soap opera. This movie follows Oppenheimer's life before, during, and after the Atomic Bomb. It acknowledges his flaws and brilliance throughout his career. Also, it addresses some controversies and conspiracies that surrounded him. This battle is compelling because it's between two competitive, intelligent, and petty men. This movie covers ample history, but it's not for children.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/oppenheimer.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/oppenheimer.jpeg"
     }
   }
 ];
@@ -56,33 +47,7 @@ module.exports = inTheTheaters;
 
 /*
 
-{
-  "option":"1",
-  "mtitle":"Blue Beetle",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bluebeetle.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bluebeetle.jpeg"
-  }
-},
-{
-  "option":"2",
-  "mtitle":"Strays",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/strays.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/strays.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"Back on the Strip",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/backonthestrip.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/backonthestrip.jpeg"
-  }
-}
+
 
 
 */
