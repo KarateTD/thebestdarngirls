@@ -1,50 +1,49 @@
 var madeForTV = [
+  {
+    "option":"1",
+    "mtitle":"Vanished in Yosemite",
+    "review":"Jennifer and her sister, Katrina, go kayaking in Yosemite National Park. Katrina wants to go off-script and have fun. But, for Jennifer, a plan is fun. Katrina relents to Jennifer's itinerary, and they go to dinner. They converse when Katrina sees a handsome man, Rick, sitting at the table beside them. Rick is a photographer working for a conservation group. He offers to take them around the park, but Jennifer turns him down for herself and her sister. However, Katrina gets his number.<br/><br/>Plans derail in the morning because Jennifer gets food poisoning from dinner. Katrina puts Jennifer in bed for the day and hikes with Rick. Katrina and Rick stop to use a public bathroom, but Rick suggests Katrina leave her backpack behind. He takes the opportunity to spike her water and encourages Katrina to drink it when she returns. Rick grabs Katrina, carries her to his pickup truck, and drives away. Katrina wakes up tied to a bed in a cabin as Rick plans with his friend to kill her.<br/><br/>Jennifer feels better but worries about Katrina. It's been hours since Katrina texted, so she calls Rick. Rick doesn't pick up, and Jennifer's tension grows. Jennifer takes a deep breath and calls her ex-boyfriend, Wally, for help. Wally quickly turns Jennifer down but regrets it and calls her back. He agrees to travel to Yosemite and help Jennifer find Katrina. Can they save Katrina, or will they become victims too?<br/><br/>Jennifer is supposed to be the heroine but is entitled, unhelpful, and ungrateful. Most of Wally's hunches and suggestions are correct and lead her in the right direction. Katrina doesn't sit around waiting for someone to rescue her. She tries to fight back, get under Rick's skin, and attract attention. The movie's saving grace is the last 3 minutes. Jennifer and Katrina band together to take Rick down. You will laugh. Save this on your DVR when you must kill 2 hours.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vanishedinyosemite.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vanishedinyosemite.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Hiding from My Husband",
+    "review":"Jessica looks at her black eye and decides to leave her husband, Peter. Jessica puts a stash of cash and passports for herself and her son, Noah, in her purse. She calls her sister, Rachel, for a ride. Rachel asks if she can come later, but Jessica knows now is the only time. She looks out the window and panics when she sees Peter walking to the front door. Jessica runs out the back and flags down her Uber driver. Jessica goes to Noah's school and forcefully pulls him out of class. They jump in the car and travel to Rachel's house on a remote island city.<br/><br/>Jessica and Noah settle in with Rachel. Rachel promises this will be a fresh start but warns Jessica that Peter incessantly calls. Jessica gets Noah's phone and walks to the beach. She checks the slew of voicemails Peter left. They range from loving to sympathetic to mean to threatening. Jessica is on high alert with friends, family, and strangers. After Peter dies, Jessica can't shake the feeling that Peter is still a threat. Is she right?<br/><br/>This movie is Enough mixed with The Invisible Man without giving viewers a deep sense of fear. The writers foreshadow the twist, but viewers won't invest in the plot enough to care. Jessica displays the PTSD survivors often deal with after leaving their abuser. Also, Noah isn't a brat. He understands why they left and shows the proper response to sudden life changes. The twist feels forced and fast but adds something new to the obvious conclusion. If you can get past the poor wardrobe choices, this is watchable.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hidingfrommyhusband.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hidingfrommyhusband.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"The Serial Killer Seduced Me",
+    "review":"Chloe returns to her nurse's assistant job at a retirement home. Her friend, Rona, asks how the interview went earlier with Marcel, a gallery owner. Chloe admits she left before talking to Marcel because she wasn't ready to show her artwork. Feeling defeated, Chloe meets with her favorite resident, Lillian. Lillian encourages Chloe to try again. Then, Lillian gives Chloe a necklace with a key. The key is for Lillian's home, and inside is an important painting, but Lillian warns her to be careful. She wants Chloe to keep it.<br/><br/>Chloe finds the gorgeous painting, brings it home, and sees a V in the bottom corner. Chloe calls her agent, Jace, and asks him to get her another meeting with Marcel. Chloe arrives at work, but sadly, Lillian died the night before. As Chloe grieves, Jace frantically runs into the retirement home looking for her. An artist dropped out of the show, and now Marcel needs a replacement. Jace pesters Chloe for her paintings until Chloe caves and gives Jace the keys to her home. Jace takes several artworks, including Lillian's.<br/><br/>Chloe enters the gallery and stands dumbfounded at Lillian's painting. She pulls Jace aside and admits she didn't paint it. Jace tells Chloe to keep quiet because that painting is Marcel's favorite. Then, a man screams that Chloe is a murderer. The woman in the painting is his wife, Marissa. And someone killed her after she posed for the art. Flustered, Chloe leaves the gallery with Jace on her tail. They argue on the street about what to tell Marcel until Marissa's husband accosts them again. Before Chloe can defend herself, a car hits the man. And Jace calls the police for help.<br/><br/>Chloe looks up Marissa's case online and discovers Marissa's husband was right. Now, Chloe wants to come clean to Marcel. Jace tells Chloe to paint more dead women. She refuses and throws Jace out of her home in disgust. She examines the V and realizes it's not a signature. It's a Roman numeral. Marissa is the fifth painting and victim. Chloe must find the other artworks and discover the original painter while staying alive. Chloe has no idea she is already the artist's sixth painting.<br/><br/>Experienced Lifetimers will feel there is more than meets the eye to this story. So you watch to prove your point. As you watch, you discover that Chloe is a well-written character. The director made a compelling choice to shoot Jace and Chloe's arguments with point-of-view framing. This choice grabs the viewers' attention and gets them emotionally involved in the movie. This movie isn't a 'must-watch,' but it's worth space on your DVR.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theserialkillerseducedme.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theserialkillerseducedme.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Never Too Late to Celebrate",
+    "review":"Dr. Camila visits her mother, Sherri's, classroom to tell them about a career in dentistry and proper dental hygiene. She sees a man, Javi, singing a song while reading a story to kids. One phrase catches her ear, and she asks him to translate it. She remembers that in the past, her father always ended her bedtime stories with that phrase. She starts to cry. Camila's father died three years ago. And she thinks about him a lot during her birthday. Javi teaches adult Spanish classes at night and tells Camila it's never too late to learn. Camila informs Javi that she has no time for an evening Spanish lesson.<br/><br/>Camila meets with Sherri over dinner. She asks her mother why her father never instilled his Mexican heritage in her life. Sherry explains that her dad was proud to become an American and wanted to assimilate into American culture. Then, Sherri reads a text message from Camila's best friend, Maren, out loud and exposes Camila's surprise party. Camila shoots down the party idea.<br/><br/>Camila returns to the school and finds Javi. She changed her mind and now wants to attend classes. Then, she apologizes for crying the day before. He tells Camila there is no need and looks forward to seeing her later.<br/><br/>After Camila's first class, Javi wakes Camila up. He suggests they go out for horchata lattes to make up for it. Camila explains her father's American pride but wants to get in touch with her Mexican roots. Javi mentions the quinceañera his niece, Izzy, will have soon. Camila responds that she never had one. Javi decides a double quinceañera would be a great way to celebrate her 30th birthday. Javi invites Camila to the celebration to help her understand its importance to their culture. Camila stands in awe of the festivities and asks Maren to throw her a party too. One party will change the course of Camila's life forever.<br/><br/>The love between Javi and Camila jumps off the screen. However, Camila strengthening the bond between herself and her dad will bring tears to your eyes. And she doesn't do it by excluding Sherri. Sherri embraces and encourages Camila to learn about her heritage. Camila's double quinceañera is a loving tribute to her parents and heritage. Have your pulled pork tamales, <lang xml:lang=\"es-ES\">mole</lang>, and tropical pico de gallo ready for a heartwarming film.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nevertoolatetocelebrate.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nevertoolatetocelebrate.jpeg"
+    }
+  },
 {
-  "option":"1",
+  "option":"5",
   "mtitle":"Her Deadly Night in Paris",
   "review":"Lucy meets Antoine at the docks. He is the son of her host family. Antoine's mother, Madeleine, greets Lucy with open arms and playfully scorns Antoine for not carrying Lucy's bags. Lucy meets Antoine's father, Judge Remy, but he maintains some distance.<br/><br/>Lucy and Antoine meet outside school on Friday, and she plans to study. Antoine convinces her to have some fun on the weekend and go to a party. Antoine can't conceal his jealousy when Lucy swoons over DJ Vincent. Before Lucy can meet the DJ, Antoine sees Vincent's parole officer enter the club. Antoine grabs Lucy, and they stay in the closet all night and kiss.<br/><br/>Antoine drops Lucy off at his parents' house but leaves for his loft. Lucy walks up the driveway and sees a man arguing with Remy. Remy gets a knife and stabs him. Remy tells Lucy he was protecting himself, but self-defense is harder to prove to Paris police. He asks Lucy to open the back door, and he will hide the body. Lucy complies.<br/><br/>Lucy comes home after school to find Lt. Laurent in Remi and Madeleine's living room. Laurent informs Lucy that a man, Gaston, is dead, and Lucy's DNA is on his body. Laurent arrests Lucy and takes her to the station. Lucy realizes there is no way the French government has her DNA on file, and they can't make a match that fast. Remy is setting her up, and Laurent is helping him. With quick thinking, she is on the run with Antoine. They must clear Lucy's name before she loses her freedom, or worse, her life. This movie drags in the beginning, but the wait sets up the false narrative Lucy sees about her host family. As Lucy penetrates the façade, she sees Remy's controlling nature. Lucy isn't a damsel in distress waiting for someone to save her. She uses low-tech solutions, quick footwork, and intelligence to stay one step ahead. The journey is worth it, if you survive the first 30 minutes.<br/><br/>4 out of 5 stars.",
   "image":{
     "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/herdeadlynightinparis.jpeg",
     "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/herdeadlynightinparis.jpeg"
   }
-},
-{
-  "option":"2",
-  "mtitle":"The More Love Grows",
-  "review":"Helen and Paul sit outside their daughter's dorm after sending her to college for the 1st time as a pre-med student. Paul reminisces on their life before Aly and wants to return to their roots as a couple. However, Helen loves their lives as parents. Paul drives Helen home before leaving for a business meeting in Denver.<br/><br/>Helen sits with her friends for dinner and looks at her watch. Helen calls Paul and discovers he's at home waiting for her. He got the job in Denver and wants to move but without Helen. Paul leaves, and Helen sinks into her seat. Helen hears a knock at the door and assumes it's Paul. However, it's a dog.<br/><br/>Helen isn't a dog person but notices he doesn't have a collar. She brings him inside the house and calls her friend, Ben. Ben is in his 4th year of veterinary school. Helen thinks the dog will be a one-night visitor. However, the animal will guide her to a new purpose, a sense of self-worth, new friends, and love.<br/><br/>The family's fragile dynamic is evident in the first 20 minutes. Helen's mother, Sue, is a marriage-focused woman. Paul lives with his head in the clouds and looks to his past instead of his future. Helen is a lost, empty-nester with dreams but doesn't know how to fulfill them. Paul and Helen decide to keep the divorce a secret from Aly so she can focus on college. Throughout the movie, Helen handles the separation maturely, and it's refreshing. However, Helen doesn't make herself a martyr. She owns her faults in the marriage. This movie will have you feeling all the emotions.<br/><br/>4 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themorelovegrows.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themorelovegrows.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"My Son Didn't Do It",
-  "review":"Helen and Judy discuss their busy work lives and children. Helen beams with pride because her son, Taylor, won a prestigious award. However, he is an introverted gamer coping with bullying. Helen's daughter, Gia, is a social butterfly but hates being compared to Taylor. Judy's son, Miles, plays soccer and has the potential to earn scholarships, but his grades are lackluster.<br/><br/>Gia arrives late to dinner and spies Taylor texting a girl. The girl is Emma, and Taylor hasn't met or talked to her because Emma has a text-only policy. Gia and Miles discuss attending Sophia's party but learn Sophia didn't include Taylor. Gia calls friends and discovers that Taylor has an invitation. She convinces Taylor to party and bring Emma.<br/><br/>Taylor works on a chemistry project with Sophia. She sticks up for Taylor when Lucas starts bullying Taylor. Taylor smiles at the pretty girl's attention and floats to his locker, but his mood changes when he sees a threat inside his locker. But Taylor decides not to disclose it.<br/><br/>Gia goes to Taylor's room, but Taylor doesn't want to go to the party because Emma isn't answering his text messages. Gia tells Taylor to call Emma, but it goes to voicemail. Taylor decides to stay home.<br/><br/>The police knock on Helen's door. Someone found a girl dead in the woods. Police tell her Taylor murdered Sophia, and they are there to arrest him. Helen tries to explain that Taylor was with her all night, but they have video evidence of him in the park with Sophia. Helen can't deny the evidence but knows Taylor isn't a killer. Can she prove it?<br/><br/>The plot gives viewers plenty of suspects because of their shady behavior. Even Gia and Taylor have skeletons in their closet. Also, the audience slowly uncovers the killer with Helen and Gia. So you watch with bated breath as everything unravels. The final fight scene will make you laugh, but this movie allows you to enjoy the ride.<br/><br/>3.5 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysondidntdoit.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysondidntdoit.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Trapped in the Cabin",
-  "review":"Romance writer Rebecca drives to a remote cabin owned by her manager, Jason. She wanted to leave the press tour to write her next book. So, he offered to let Rebecca stay in his cabin for a few weeks. He warns Rebecca that the upstairs is in repair, but everything she needs is on the first floor. Also, the cell reception is spotty. Rebecca's mom, Ms. Collins, calls with a list of worries. Last month, someone broke into Rebecca's home and took her workout clothes. The police believe the stolen clothes to be a one-time prank.<br/><br/>Rebecca marvels at the lush cabin and its amenities while making herself comfortable. She settles in for the night and goes for a jog in the morning. Rebecca meets Nathan during her workout. Later, Rebecca prepares a bath, but the water is freezing. She texts Jason, and he sends a plumber immediately.<br/><br/>Nathan knocks at Rebecca's door and fixes the tub. Rebecca throws caution to the wind, kisses Nathan, and shares a passionate night with him. Rebecca wakes up from bliss to find Nathan gone and the house trashed. She furiously texts Nathan and calls out his rude behavior, but he doesn't answer. Rebecca decides to put it behind her and focus on work. But the person stalking her with security cameras won't let her. Can Rebecca escape the cabin alive?<br/><br/>This movie is old-school Lifetime at its finest. Rebecca's cabin checks all the boxes because it's remote, has poor reception, and it's in the middle of a snowstorm. When the plot reveals Rebecca's stalker halfway into the film, it ramps up the creep factor. The movie will have you yell at Rebecca in frustration one minute and yelling for her to survive the next. The script is a whirlwind of emotions that old-school Lifetimers crave.<br/><br/>4 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedinthecabin.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trappedinthecabin.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"A Safari Romance",
-  "review":"Megan guides guests around the nature preserve for a photo safari. She works as a ranger while finishing her PhD. Megan has three weeks to complete and use a presentation to defend her work. However, she hasn't spotted her subject, the white lion.<br/><br/>Eric arrives at the hotel with his videographer, Darius. Eric wants to capture images of the animals for his immersive safari experience thrill ride. Eric bumps into Megan and asks about the photos displayed in the lobby. She bashfully admits that it's her work.<br/><br/>During an outing, Megan notices a drone flying above. She discovers that the drone belongs to Tim. She tells Tim he can't use the drone because it disturbs the animals. If the owner catches any of Megan's guests using a drone, she could lose her ranger's license and her thesis subject. Tim and Darius promise not to use the drone again.<br/><br/>Megan and Tim get closer with each excursion. Then, Amy arrives. Amy and Tim dated. Now, she's there to tell him she is his boss. She offers ideas, and Megan denies them because they are too dangerous or encroach on the animals' environment. Amy relents, but the owner spots the drone later and threatens to take Megan's license if she doesn't fix it. Megan confronts Tim, and he swears it wasn't him. Will she lose faith in Tim and their relationship, or will the culprit come forward to clear Tim's name?<br/><br/>This film has everything you expect. This movie stands out because of the scenery, animals, people, and conservation details. The plot slips in information about the environment without preaching to the audience. Don't cancel plans to watch this movie. But save it on your DVR for later.<br/><br/>3 out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asafariromance.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asafariromance.jpeg"
-  }
-}
-  
+} 
 ];
 
 module.exports = madeForTV;
@@ -59,16 +58,16 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Vanished in Yosemite",
+  "mtitle":"KidnappingInTheGrandCanyon",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vanishedinyosemite.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vanishedinyosemite.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kidnappinginthegrandcanyon.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kidnappinginthegrandcanyon.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Hiding from My Husband",
+  "mtitle":"As Luck Would Have It: Murder 101",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
     "smallImageUrl":"",
@@ -77,20 +76,11 @@ module.exports = madeForTV;
 },
 {
   "option":"3",
-  "mtitle":"The Serial Killer Seduced Me",
+  "mtitle":"Napa Ever After",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theserialkillerseducedme.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theserialkillerseducedme.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Never Too Late to Celebrate",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nevertoolatetocelebrate.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nevertoolatetocelebrate.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/napaeverafter.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/napaeverafter.jpeg"
   }
 }
 
