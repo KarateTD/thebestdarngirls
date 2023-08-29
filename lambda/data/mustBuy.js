@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"No Hard Feelings",
+    "review":"Maddie runs outside to see her ex-fling, Doug, hooking her car to his tow truck. Furious that Maddie ghosted him, Doug drives away with her car. The property taxes on her mother's home increased with the influx of wealthy residents. Maddie bartends and drives to cover the cost but has no idea how to do it without her car.<br/><br/>Maddie meets with her pregnant friend, Sara, and Sara's husband, Jim, to brainstorm ways to get a new car. While on Craigslist, Sara spots a post from a mom and dad. Their son is going to college, and they want someone to 'date' him to make their son more social. If the woman completes the task, they will give her a Buick with 40,000 miles and a clean title.<br/><br/>Maddie rollerblades to Allison and Laird's home to discuss the arrangement. First, she assures them she is not a prostitute, just a woman who needs a car. Second, Maddie is older than the age requirement. However, she promises to handle the job with maturity and tact. They hire Maddie and request she organically meets their 19-year-old son, Percy. Percy will attend Princeton in the fall but only makes friends online. They give Maddie Percy's work schedule at the animal shelter and send her on her way. Can this Maneater help this socially awkward teen while earning a car to save her home?<br/><br/>This movie covers everything right and wrong in America while making you laugh. It opens up about gentrification, bullying, abandonment, and helicopter parents. Maddie and Percy make blunders during their meet-cute and subsequent dates. The plot doesn't rely on toilet humor to elicit laughter. It depends on throwing two different people into a normal situation with the best rendition of Maneater in a film. Percy finds his backbone during the movie while Maddie analyzes her choices. This film is a wild ride, but the ending is satisfying. A warning to parents: this movie has full-frontal nudity.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":"B0C8BTYH4M"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nohardfeelings.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nohardfeelings.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"Fast X",
     "review":"Ten years ago, Dominic Toretto and his team stole a vault from Hernan Reyes. Dominic thought his problems ended after Agent Luke Hobbs shot Reyes on the bridge after a destructive highway chase. However, Dominic didn't see Reyes's son, Dante, driving the car with the machine gun on the top. Dante's body flew into the river, and he survived. Dante vowed to kill Dominic, but Hernan told Dante to make Dominic suffer before he died.<br/><br/>Now, Dominic enjoys the simple life with his wife, Letty, and teaches his son, Little Brian, how to drive and fix cars. The Agency sent a new mission, and Roman took the lead. He asked Tej and Ramsey to accompany him to Rome. Dominic asks Han to go with them, just in case. Then, they get a bloody knock at the door. It's Cipher with bruises, cuts, and stab wounds. Cipher tells him that Dante took over her crew, got her technology, and left her for dead. Now, Dominic is next on Dante's list.<br/><br/>Little Nobody arrests Cipher after Dominic questions her. They catch up, and Dominic asks Little Nobody how Roman's mission is going. Little Nobody can't hide his confusion because the Agency didn't set it up. Dominic knows the mission was a ruse created by Dante. Dominic and Letty leave Brian with Mia and head to Rome. After a Raiders-of-the-Lost-Arc-styled bomb rolls through Rome, the Agency list Dominic and his crew, now separated, at the top of the most wanted list. Dominic has to protect his family with Dante and the Agency after him. Can Dominic save everyone?<br/><br/>The writers of Fast and the Furious understand what the critics think and make fun of themselves. Agent Aimes states that Dominic and his crew violate the laws of physics and God but somehow survive. Of course, you get mind-bending situations, crazy car stunts, and an international plot. But, there is one blaring difference with this movie: Dante. He is a flamboyant, funny, and charismatic psychopath. Dominic takes any moment to make the audience chuckle or gasp in awe. Sadly, the backing tracks and sound effects muffle a few of his quips. Unlike other Fast and The Furious movies, it doesn't end on a family barbeque. It concludes with the ultimate cliffhanger for Dominic and his family. Don't forget to stay for the mid-credit scene that gives viewers a glimpse into another spinoff.<br/><br/>4 out of 5 stars.",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Guardians of the Galaxy Vol. 3",
     "review":"The Guardians of the Galaxy have set up their headquarters on Knowhere. Quill drinks himself into oblivion daily to forget the woman he lost twice. After Quill passes out, Nebula puts him into bed. Adam crashes into Rocket and rips through Knowhere. Adam flies away as the Guardians tend to Rocket's wounds. Quill wakes from his stooper, blames himself, and puts a medic pack on Rocket. However, it doesn't heal Rocket. It causes him to convulse. Nebula demands they take the pack off and bring Rocket to the ship.<br/><br/>Nebula links herself to Rocket's circuits and scans him. She discovers a kill switch on his heart, but they need a passkey to remove it. Nebula uncovers that Orgo Corp created the kill switch on the Orgosphere planet. Nebula knows it has a force field and calls a contact to enter the planet's atmosphere. They enter, and Quill speaks to The Ravagers because he wears their flames. However, Stakar isn't Nebula's contact; Gamora is. She is with Stakar's faction and wants 100,000 units from the Guardians to help. Nebula agrees to the terms, and the team sets on their mission to get the passkey to save Rocket's life.<br/><br/>Adam returns to his mother, Ayesha, without 89P13, and the High Evolutionary is furious. The High Evolutionary, Dr. Herbert Wyndham, reminds Ayesha of his strength because they and their birthing pods are his creation. Ayesha vows Adam will get 89P13 and ensures her promise by coming with Adam. Herbert knows exactly where 89P13 and his friends will go to save him and gives Ayesha and Adam the coordinates.<br/><br/>While in a coma, Rocket thinks about his time in a cage before Herbert started experiments on him. 89P13 was Herbert's first shining light of success. He wanted to extract Rocket's brain to study what made Rocket special. Rocket escaped, but Herbert never stopped looking for Rocket. Herbert sends Ayesha and Adam to get Rocket back but has a backup plan to guarantee he gets his ultimate prize.<br/><br/>Fans watch this ragtag bunch become a team in the first movie. In the second, diehards see them become a family. Now, prepare to watch the Guardians discover themselves. You will get eye-popping graphics, funny commentary, and assorted genres of music in this Guardians' farewell, along with a new opener dedicated to your beloved favorites. Viewers should watch Guardians of the Galaxy Volume 1, Volume 2, Avengers: Infinity Wars, and Avengers: End Game. The third installment makes jokes about the past, brings up previous events, and returns old characters for a final send-off. Every Guardian gets an end to their tale, and audiences will leave the theater knowing that the Guardians will be alright. This film has mid- and post-credits scenes. And the final message will make Marvel fans smile.<br/><br/>5 out of 5 stars.",
      "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-  "option":"3",
+  "option":"4",
   "mtitle":"Are You There God? It's Me Margaret",
   "review":"Are You There God? It's Me Margaret was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
   "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
   }
 },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"Avatar: The Way of Water",
     "review":"It's been ten years since the Na'vi kicked humans off Omaticaya, but a few stayed. Dr. Norm and Dr. Max remained because they sided with the Na'vi and continued their studies. The humans left Spider behind because he was too young to go into cryostasis. He is the son of Colonel Miles and loves to be in the Pandora rainforest with Jake and his family instead of other humans. Jake and Neytiri have four children, Neteyam, Kiri, Lo'ak, and Tuk.<br/><br/>During date night, Jake and Neytiri notice an extra star in the sky. The humans are back. They create a massive fireball to destroy several habitats. However, Jake prepared the Na'vi, and they are battle ready. Spider, Kiri, Tuk, and Lo'ak go to Jake and Miles's last battle site. They find Na'vi in full camouflage and guns. The humans cloned Na'vi bodies and implanted a person's personality and memories in the bodies. Now, Colonel Miles is a walking Na'vi Trojan horse.<br/><br/>After a standoff between Jake and Miles, Miles takes Spider, and Jake runs with his kids. Staying will bring more devastation to her people, so they must leave their life behind. Jake and his family travel to the water and meet with Tonowari. He leads the reef people of Metkayina with his wife, Ronal, by his side. Jake and his family must learn the way of the water to survive on the reef. And they need to study it quickly. Cloning Na'vi isn't the only thing humans desire. However, Miles's need for revenge is his driving force to hunt Jake and his entire family with a captive Spider assisting.<br/><br/>The sequel to Avatar expands the cinematic world by introducing the reef people. Viewers get new animals, plant life, and customs in this new environment. This movie has a lengthy running time, but it doesn't feel 3 hours long. The audience is so immersed in the scenes and culture that you don't mind. The animators did a magnificent job blending real people with motion-capture characters. The moment Tonowari and Ronal discuss Jake and his family staying is the best-animated scene, and it had zero words. Tonowari and Ronal give each other stern looks, loving eyes, and a plea. You will laugh, cry, gasp, and cheer throughout the movie. This film goes beyond what fans expect and is worth the 13-year wait.<br/><br/>5 out of 5 stars.",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/avatarthewayofthewater.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/avatarthewayofthewater.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Guy Ritchie's The Covenant",
-    "review":"Master Sergeant John Kinley lost his last interpreter after a checkpoint bombing and returned to base to select a new one. John learns that Ahmed is the best but has a problem with authority. John picks Ahmed. Ahmed spots a traitor in John's group, and he saves the team from an ambush.<br/><br/>John's team gets intel about an Afghan I.E.D. manufacturing station. John, Ahmed, and the platoon fight the guards but come under heavy fire. Only John and Ahmed survive and escape. However, John's injuries leave him with immense pain, a concussion, and unable to walk. He has to get John to safety 100 klicksvaway through rugged terrain.<br/><br/>John wakes up in a hospital with papers to return home to his family. After a few weeks, Sergeant Declan O'Brady comes to John's home to check on John's progress. He tells John that Ahmed, Ahmed's wife, Basira, and their three-month-old baby had to flee and hide underground. Ahmed and his family face execution if they can't get Special Immigrant Visas and a flight out. He realizes phone calls aren't enough. John must return to a warzone to save the man who risked everything to rescue him.<br/><br/>This movie is a collection of stories from interpreters who helped American troops while risking their lives and the lives of their families. America promised these brave interpreters and employees visas for their sacrifice. However, political and government red tape left many behind to suffer, run, and die. The action can be intense and cause flashbacks if you have war-related PTSD. The combat sequences are gritty, heart-pounding, and graphic. This movie is a call to action that these troops will make sure America keeps its promise: No One Left Behind.<br/><br/>4.5 out of 5 stars.",
-     "asin":{
-      "re":"B0C2WSBTBK"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecovenant.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecovenant.jpeg"
     }
   }
 ];
@@ -136,19 +136,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thelittlemermaid.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thelittlemermaid.jpeg"
-    }
-  }
-
-    {
-    "option":"1",
-    "mtitle":"No Hard Feelings",
-    "review":"Maddie runs outside to see her ex-fling, Doug, hooking her car to his tow truck. Furious that Maddie ghosted him, Doug drives away with her car. The property taxes on her mother's home increased with the influx of wealthy residents. Maddie bartends and drives to cover the cost but has no idea how to do it without her car.<br/><br/>Maddie meets with her pregnant friend, Sara, and Sara's husband, Jim, to brainstorm ways to get a new car. While on Craigslist, Sara spots a post from a mom and dad. Their son is going to college, and they want someone to 'date' him to make their son more social. If the woman completes the task, they will give her a Buick with 40,000 miles and a clean title.<br/><br/>Maddie rollerblades to Allison and Laird's home to discuss the arrangement. First, she assures them she is not a prostitute, just a woman who needs a car. Second, Maddie is older than the age requirement. However, she promises to handle the job with maturity and tact. They hire Maddie and request she organically meets their 19-year-old son, Percy. Percy will attend Princeton in the fall but only makes friends online. They give Maddie Percy's work schedule at the animal shelter and send her on her way. Can this Maneater help this socially awkward teen while earning a car to save her home?<br/><br/>This movie covers everything right and wrong in America while making you laugh. It opens up about gentrification, bullying, abandonment, and helicopter parents. Maddie and Percy make blunders during their meet-cute and subsequent dates. The plot doesn't rely on toilet humor to elicit laughter. It depends on throwing two different people into a normal situation with the best rendition of Maneater in a film. Percy finds his backbone during the movie while Maddie analyzes her choices. This film is a wild ride, but the ending is satisfying. A warning to parents: this movie has full-frontal nudity.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0C8BTYH4M"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nohardfeelings.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nohardfeelings.jpeg"
     }
   }
 
