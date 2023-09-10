@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Kidnapping in the Grand Canyon",
-    "review":"Brooke finishes her rounds at the hospital and goes home to pack. She and her friend, Chandra, are celebrating the friendship anniversary by hiking the trails of the Grand Canyon. The women drive to their hotel and settle in but can't find a pizza restaurant that delivers. Chandra finds a flyer for a local pub and suggests they visit.<br/><br/>Brooke and Chandra laugh about their friendship when Brooke hears a man yelp in pain. She runs over to the bartender's aid and sees he has glass stuck in a large gash on his hand. She informs him that she is a doctor, pulls the large glass fragment out of his wound, and wraps the area. Brooke and Chandra walk towards the front door, and Nate bumps into them. He is a tour guide for the Grand Canyon and offers to show them around. She politely turns down his offer, but Chandra can see the chemistry between them.<br/><br/>Nate overhears Brooke and Chandra debating about their hike and interjects. Brooke wants to stick to her plan, but Chandra wants to take off-trail sites. Nate knows them well and offers to guide them. Brooke relents. Nate, Chandra, and Brooke sit after hiking for an hour. Nate offers them some protein bars. Brooke notices a small rip in her packaging. She decides to keep it, and they talk.<br/><br/>Brooke wakes up in a cave with a rope around her wrists and ankles and Chandra sleeping by her side. Tara tells Brooke that Nate kidnapped them like he did to her. He took Brooke because Tara got an injury during her abduction. Nate gives Brooke aspirin, but she joylessly laughs. Tara needs something more potent. Nate kisses Tara and promises to return to his 'fiancée' with the medicine. He grabs Brooke to use her medical license to get the necessary medication.<br/><br/>Chandra and Tara sit in the cave. Chandra asks Tara why Nate took her as Chandra tries to undo the ropes. After three months of dating, Nate proposed to Tara. Tara thought Nate was sweet, but it was too soon. So she said no to marriage. He kidnapped her and put a ring on her finger a week ago. Will the three women survive Nate and the elements of the Grand Canyon?<br/><br/>This movie follows the same guidelines as Vanished in Yosemite. The final fight is the film's saving grace. But it doesn't grab your attention. These film slates are Lifetime's answer to Hallmark's National Park Romance series. Instead of finding romance with a helpful stranger, they discover evil and death. Save this on your DVR when you need to kill two hours yelling at the screen.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Taken In Montana",
+    "review":"Craig, his wife, Sarah, and their daughter, Regan, travel to Montana for a family vacation. A motorist tailgates Regan, and she pulls onto the shoulder. Ranger Jude sees them on the side of the road and checks on them. Sarah, an investigative reporter, gives Jude short answers and politely signals Jude to leave. They arrive at the cabin, and a man, Jackson, recognizes Craig from college. They laugh, embrace, and plan to meet again.<br/><br/>Craig meets with Jackson and tells Jackson their business partnership is over. Jackson accepts Craig's resignation but on the condition that Craig makes one last delivery. Craig takes the envelope and returns to the cabin.<br/><br/>Regan turns in early, and Sarah and Craig go to their bedroom. Sarah confronts Craig about seeing Jackson. This trip isn't a family outing; it's a business opportunity. Sarah agrees to let Craig deliver the letter, but only if she can ride with him. He obliges. Regan can hear her parents arguing and decide to camp. She leaves the cabin and runs into a lodge employee, Tyler. They make pleasantries and Regan leaves.<br/><br/>Craig meets Rick and gives him the letter while Sarah waits in the car. Unbeknownst to Craig, the letter tells Rick to kill the messenger. Rick invites Craig to come inside, but Sarah senses something is wrong. She jumps out of the car, and Rick knocks out Craig. He threatens to slit Craig's throat if Sarah doesn't come inside. He ties them both up and waits for Jackson.<br/><br/>Regan wakes up in the woods but can't find her parents. She tries to get Ranger Ward and Ranger Jude involved, but they won't help. Tyler sees the concern on Regan's face and offers his assistance. Regan doesn't know who she can trust but believes her parents are in danger. Can she save them before Jackson and Rick end their lives?<br/><br/>This film is the best of Lifetime's National Park series. It provides a mystery viewers can sink their teeth into while pulling at their heartstrings. Sarah isn't a shrinking violet waiting for someone to rescue her. Regan has her mother's spirit. She doesn't let people silence her worries. She receives help from Ranger Jude and Tyler. Experienced Lifetimers will know someone will turn on Regan, but who and when? The answer will shock you. This film is the fun drama Lifetimers crave.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kidnappinginthegrandcanyon.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kidnappinginthegrandcanyon.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/takeninmontana.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/takeninmontana.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"As Luck Would Have It: Murder 101",
-    "review":"Detective Lisa and her partner, Detective Rick Anderson, sit in the car and listen to the radio. Anderson turns on the 'As Luck Would Have It' podcast. Lisa rolls her eyes at the expressive host and turns the radio off when the host, Gabbi Luck, says Lisa's name. Gabbi is a retired criminology dean and professor. And she is Lisa's mom.<br/><br/>Gabbi visits her friend, Dean Charles, and interrupts his meeting with Professor Brian. When Gabbi was the dean, Brian wanted to make tenure, but Gabbi thought Brian was too young. However, Charles is considering giving Brian the coveted position. Brian leaves, and Gabbi notices the broken window in Charles's office. He brushes it off as par for the course. Afterward, Gabbi sits with Charles and discusses her future. A woman, Christy, approaches Charles during his conversation with Gabbi and demands to talk to him. Christy storms off, and Gabbi can feel the tension. She warns Charles to stop having affairs with his students because his wife, Meghan, could find out.<br/><br/>Lisa meets with Gabbi for lunch, and Gabbi can see that Lisa is uneasy. Lisa blames Gabbi's affair for breaking up her parents' marriage. Lisa tried to call Gabbi earlier, but Gabbi left her phone in Charles's office. Gabbi decided to get it in the morning.<br/><br/>Lisa's boss, Captain Taylor, calls Rick and Lisa into his office. Someone killed Charles, and Taylor wants them to find the murderer. Taylor believes Lisa will solve the crime faster to clear Gabbi's name because earlier they found Gabbi's phone at the murder scene. Can Lisa solve the crime before Gabbi is the latest subject of the podcast?<br/><br/>This film is part one of a three-part series and will command your attention. Gabbi is strong and fabulous. Gabbi remains relaxed with each biting word from Lisa. She understands Lisa's frustration and anger towards her. And the audience needs to have the same compassion too. With all the family drama, the plot spins an intriguing mystery. You have viable suspects and a red herring. Also, the writers didn't go for the easy choice for their culprit. It allows viewers to play along. This film is a promising start to a new mystery series.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Guiding Emily",
+    "review":"Garth plays with his brothers and sisters until he sees Mark. Mark thinks Garth will grow up to be a tremendous guide dog. Garth agrees but doesn't know what a guide is or does. Mark takes Garth for a peanut butter pup cup, and Garth spots Emily. Mark pulls the puppy away. He gives the puppy to Katie. Katie will spend months training Garth to help others.<br/><br/>Emily ends the staff meeting and tells her co-worker, Drew, that she won't let him work the weekends. Emily reminds her team that she and her fiance, Conner, will have a tech-free vacation. Then, Emily meets Conner for dinner and enjoys dog kisses from Garth. Emily and Conner go hiking during their vacation. There are several ways to get back, but Conner decides to prove his abilities to Emily and chooses a rock-climbing path. Conner climbs and knocks a large rock loose. The stone hits Emily in the head and causes her to fall. She wakes up in the hospital with bandages on her eyes. The doctor tells Emily that the blindness could be temporary.<br/><br/>After months of working with Katie, Garth believes he is ready to become a guide dog. Katie takes Garth to the hospital to visit her friend and test him. Garth notices Emily walking past, but he can feel something is different. She is afraid. Garth decides he will be a guide dog for Emily. Emily doesn't see Garth and sits in a dark room while her doctor removes her bandages. Emily panics when she can't see. Emily is blind and has to learn a new way of life. She has no idea that Garth chose her to be his human. Can Emily find her way to Garth?<br/><br/>Emily is a vibrant, happy, ambitious woman who loves her team and fiancé. She has the world at her feet when a single accident turns her world upside-down. At first, Emily is hopeful her sight will return. However, Emily's sight never returns, and she falls into a depression. But her friends Matt and Drew won't let her stay there. Life is different, but Emily learns to be herself again. This movie gives Emily and Garth's perspectives. It's their love story. This plot is a beautiful piece of cinema for the whole family to learn and enjoy.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asluckwouldhaveitmurder101.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asluckwouldhaveitmurder101.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/guidingemily.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/guidingemily.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Napa Ever After",
-    "review":"Real estate lawyer Cassandra sits with her friends and expresses her work concerns. Cassandra hasn't gotten the ruling on her most recent case. If she loses, her boss, Joyce, could fire her. Cassandra's friends remind her that they can take a long-awaited trip to Napa Valley to see where Cassandra spent her childhood if she gets fired. However, Cassandra wants to stay the course. And she avoids Napa because of family tension. Then, Cassandra gets a call informing her that her grandmother, Emma, died.<br/><br/>Cassandra goes to work, and her assistant, Hank, tells Cassandra that Joyce wants to see her immediately. She squares her shoulders and prepares to get fired, but Joyce promotes Cassandra to partner because she won. Cassandra accepts the job but asks for two days off to attend Emma's funeral.<br/><br/>Cassandra sits at her desk when a lawyer calls about Emma's vineyard. Emma left everything to Cassandra. Cassandra plans to settle her grandmother's estate and sell the vineyard after the funeral.<br/><br/>Cassandra travels to the vineyard and finds Emma's best friend, Isabel, in the home. After the funeral, Isabel hands Cassandra letters from Emma. Emma reconciled with Cassandra's daughter and wanted Cassandra to keep the land in the family. Cassandra decides to take a 6-month sabbatical from work to run the vineyard.<br/><br/>Isabel greets Cassandra at Emma's home and introduces Cassandra to the vineyard manager, Alec. As Emma aged, he helped Emma run the vineyard and manage the crew. Cassandra asks Alec to give her a crash course about running a vineyard, and Alec and Isabel laugh.<br/><br/>Seeing the vineyard needs a lot of work, Cassandra goes to the bank to obtain a loan. The bank manager tells Cassandra the land is underwater because Emma mortgaged it to the hilt. Then Alec gives Cassandra more unfortunate news. The vineyard only bottles the vintage wines. They don't make wine or host events anymore. Cassandra needs to turn it all around or sell her family's legacy. It's time for Cassandra to roll up her sleeves, ask for help, and find love.<br/><br/>This film is what you expect. A big-city attorney goes to a vineyard and finds peace in open spaces with a handsome widower and single father. The ending isn't a surprise. The movie separates itself because Cassandra learns about her mother and Emma reuniting through letters. Cassandra also uncovers why her mother left the vineyard and how her parents felt about it. One final yell puts everything into perspective and helps Cassandra guide her decisions. Those moments make this film worth watching.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"As Luck Would Have It: Old Flames, New Fire",
+    "review":"Gabbi Luck and her daughter, Detective Lisa, are on better terms since Lisa's father, Michael, confessed to cheating in his marriage before Gabbi. Gabbi arrives at Lisa's job to grab lunch. Before Lisa can offer an excuse, Lisa's partner, Detective Rick, gives solutions for Lisa's potential problems.<br/><br/>Lisa notices Gabbi looking over her shoulder during lunch, and she inquires about Gabbi's behavior. Then, Lisa sees Michael walk into the restaurant. He tells Gabbi and Lisa that he will stay in town longer and wants to put down roots. Next, Michael informs them that he won't eat much because he will meet Wayne for dinner. Wayne was Michael's business partner before Wayne embezzled the company's finances and ran. Gabbi has no idea why Michael would want to meet with Wayne. Michael wants to clear the air and let some things off his chest. So, Gabbi and Lisa wish Michael well.<br/><br/>Lisa and Rick's boss, Captain Taylor, call them into his office. Someone broke into Wayne's home and murdered him last night. Taylor tells Lisa she can't be on the case because Michael is a prime suspect. Lisa protests, but Taylor won't relent. However, he does compromise. He puts Rick on the case with another partner, Jill. It's up to Jill and Rick to find Wayne's killer and clear Michael. But Lisa won't stay in the background. Can Gabbi help Lisa while falling in love with Michael again?<br/><br/>The second part of this three-part series has affairs, drama, and money. Unlike most mystery movies, Gabbi doesn't do the footwork while the police officers wait with guns. Lisa is an active, intelligent, and thorny detective. She uses her mother's knowledge to uncover a different viewpoint on crime and criminals. Viewers see the Luck family work as a unit while establishing boundaries between mother and daughter. Don't be surprised if you have to watch this film twice to keep up.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/napaeverafter.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/napaeverafter.jpeg"
-    }
+        "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asluckwouldhaveitmurder101.jpeg",
+        "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asluckwouldhaveitmurder101.jpeg"
+      }
   },
   {
     "option":"4",
-    "mtitle":"Vanished in Yosemite",
-    "review":"Jennifer and her sister, Katrina, go kayaking in Yosemite National Park. Katrina wants to go off-script and have fun. But, for Jennifer, a plan is fun. Katrina relents to Jennifer's itinerary, and they go to dinner. They converse when Katrina sees a handsome man, Rick, sitting at the table beside them. Rick is a photographer working for a conservation group. He offers to take them around the park, but Jennifer turns him down for herself and her sister. However, Katrina gets his number.<br/><br/>Plans derail in the morning because Jennifer gets food poisoning from dinner. Katrina puts Jennifer in bed for the day and hikes with Rick. Katrina and Rick stop to use a public bathroom, but Rick suggests Katrina leave her backpack behind. He takes the opportunity to spike her water and encourages Katrina to drink it when she returns. Rick grabs Katrina, carries her to his pickup truck, and drives away. Katrina wakes up tied to a bed in a cabin as Rick plans with his friend to kill her.<br/><br/>Jennifer feels better but worries about Katrina. It's been hours since Katrina texted, so she calls Rick. Rick doesn't pick up, and Jennifer's tension grows. Jennifer takes a deep breath and calls her ex-boyfriend, Wally, for help. Wally quickly turns Jennifer down but regrets it and calls her back. He agrees to travel to Yosemite and help Jennifer find Katrina. Can they save Katrina, or will they become victims too?<br/><br/>Jennifer is supposed to be the heroine but is entitled, unhelpful, and ungrateful. Most of Wally's hunches and suggestions are correct and lead her in the right direction. Katrina doesn't sit around waiting for someone to rescue her. She tries to fight back, get under Rick's skin, and attract attention. The movie's saving grace is the last 3 minutes. Jennifer and Katrina band together to take Rick down. You will laugh. Save this on your DVR when you must kill 2 hours.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Office Race",
+    "review":"Pat sleeps late, eats terribly, and spends more time watching Fast and the Furious movies with his friend, Dave, than working out. Pat puts the same effort into work as his personal life. He goes to work, and his boss, Liz, calls Pat into her office along with Pat's co-worker, Spencer. Liz got a promotion to the national branch and selected Spencer to replace her. She informs Pat that he is a mediocre employee at best. She warns Pat that he needs to land the deal tonight to keep his job. Or Spencer, Pat's former underling, will fire Pat.<br/><br/>Pat goes to the bar with Spencer to meet Rita. Then, Spencer notices her '26.2' tattoo and asks Rita if she is a runner. They discover that they are running the Sweet Peach Marathon. Pat interjects with a lie. He tells Spencer and Rita that he is in the marathon and running for Breast Feet Forward, Rita's charity. Rita invites Pat to run with her team.<br/><br/>Pat meets up with Rita and her teammates - Harry, Kiki, and Don - for practice. They start their first practice, and a car hits Pat. Pat has a few bumps and bruises, but Dr. Julie says Pat will be fine. Then Julie states she is a member of Rita's team also.<br/><br/>Pat meets with the group again for another run. The group breaks for a stretch, and Pat takes off his shirt. The team winces at his nipple chafing as Spencer and his team emerge from the nearby river. After some verbal jousting, Spencer and Pat make a wager. If Pat beats Spencer across the finish line, Spencer has to donate $100 to Breast Feet Forward. But if Spencer wins, Pat has to give money to Spencer's charity. This race isn't about client relations. Now, it's about Pat's pride. For once in Pat's life, he must give his all.<br/><br/>This movie has an easy wit and comedy staples. Pat made great strides in his life in three months. However, the writing falls apart the closer Pat gets to race day. Spencer slowly turns into Gollum and talks like a zombie. The film goes from funny and believable to weird and boring. Office Race had a strong start but hit the wall like a marathon.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vanishedinyosemite.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vanishedinyosemite.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/officerace.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/officerace.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Hiding from My Husband",
-    "review":"Jessica looks at her black eye and decides to leave her husband, Peter. Jessica puts a stash of cash and passports for herself and her son, Noah, in her purse. She calls her sister, Rachel, for a ride. Rachel asks if she can come later, but Jessica knows now is the only time. She looks out the window and panics when she sees Peter walking to the front door. Jessica runs out the back and flags down her Uber driver. Jessica goes to Noah's school and forcefully pulls him out of class. They jump in the car and travel to Rachel's house on a remote island city.<br/><br/>Jessica and Noah settle in with Rachel. Rachel promises this will be a fresh start but warns Jessica that Peter incessantly calls. Jessica gets Noah's phone and walks to the beach. She checks the slew of voicemails Peter left. They range from loving to sympathetic to mean to threatening. Jessica is on high alert with friends, family, and strangers. After Peter dies, Jessica can't shake the feeling that Peter is still a threat. Is she right?<br/><br/>This movie is Enough mixed with The Invisible Man without giving viewers a deep sense of fear. The writers foreshadow the twist, but viewers won't invest in the plot enough to care. Jessica displays the PTSD survivors often deal with after leaving their abuser. Also, Noah isn't a brat. He understands why they left and shows the proper response to sudden life changes. The twist feels forced and fast but adds something new to the obvious conclusion. If you can get past the poor wardrobe choices, this is watchable.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Love in the Great Smoky Mountains: A National Park Romance",
+    "review":"Archeologist Dr. Haley sits with her advisor, Dr. Ettinger, to discuss Haley's next career move. Haley applied for the Arizona Pueblo Grant but wants to publish a paper to give her a fighting chance. So, she will join a dig in the Great Smoky Mountains led by Dr. Carl Smith.<br/><br/>Haley meets Carl and thanks him for the opportunity. She looks up and sees her college ex-boyfriend, Anthropologist Dr. Rob. They immediately bicker, and Carl stops them. Rob and Haley applied for a grant during their senior year, but Rob didn't tell Haley he inquired about it too.<br/><br/>Later, Rob and Haley find common ground and meet for lunch. He admits that he applied for the Pueblo grant too. Haley is happy he didn't keep this a secret like college. They call a truce so they can start their prospective work. Rob brings Haley to the lab and introduces her to Troy. Troy is proud to share his culture with Haley and Rob.<br/><br/>Rob and Haley spend more time together and walk the trails. Haley and Rob get separated during their hike, and she discovers a unique cave. The structure is too small for her to enter. So she grabs her phone, inserts her hand inside, and takes pictures. Rob believes it confirms the Cherokee myth about a large diamond with magical powers. Haley believes her first article should focus on the findings, and it will guarantee her the grant. As she considers receiving it, Haley realizes it could be the end of her fresh start with Rob.<br/><br/>This film provides a beautiful look at Cherokee culture and discusses the Removal Act. Also, they call it Ancient American History, not only Indigenous. And that slight difference ensures viewers understand that Indigenous History is American History. The lessons will spark your interest, but the romance is dull.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hidingfrommyhusband.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hidingfrommyhusband.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinthegreatsmokymountains.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinthegreatsmokymountains.jpeg"
     }
   }
 ];
@@ -58,49 +58,50 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Taken In Montana",
+  "mtitle":"How She Caught a Killer",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/takeninmontana.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/takeninmontana.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/howshecaughtakiller.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/howshecaughtakiller.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Gudiding Emily",
+  "mtitle":"Come Fly with Me",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/guidingemily.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/guidingemily.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/comeflywithme.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/comeflywithme.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"As Luck Would Have It: Old Flames, New Fire",
-  "review":"<br/><br/>* out of 5 stars.",
+  "mtitle":"As Luck Would Have It: Murder for Sale",
+  "review":"<br/><br/>* out of 5 stars",
   "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asluckwouldhaveitmurder101.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asluckwouldhaveitmurder101.jpeg"
-    }
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asluckwouldhaveitmurder101.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asluckwouldhaveitmurder101.jpeg"
+  }
 },
 {
   "option":"4",
-  "mtitle":"Office Race",
+  "mtitle":"Lust, Lies, and Polygamy",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/officerace.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/officerace.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lustliesandpolygamy.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lustliesandpolygamy.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Love in the Great Smoky Mountains: A National Park Romance",
+  "mtitle":"Fourth Down and Love",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveinthegreatsmokymountains.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveinthegreatsmokymountains.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fourthdownandlove.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fourthdownandlove.jpeg"
   }
 }
+
 
 
 */
