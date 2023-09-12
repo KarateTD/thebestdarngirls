@@ -20,7 +20,7 @@ var mustBuy = [
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/air.jpeg",
-      "largeImageRul":"https://thebestdarngirls.s3.amazonaws.com/large-image/air.jpeg"
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/air.jpeg"
     }
   },
   {
