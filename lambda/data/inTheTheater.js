@@ -5,7 +5,7 @@ var inTheTheaters = [
     "review":"Hardin has a best-selling book, but he lost his muse. Tessa left after he published a book about their stormy yet steamy love affair. Today, Hardin is a year behind for his next novel. Hardin parties and drinks all night but can't write one word without Tessa. He texts her, but she tells him it's over.<br/><br/>Hardin meets with his parents, Trish and Christian. They want him to stop drinking and focus. Trish tells Hardin that she has been in contact with Natalie. Natalie is another scorned woman from Hardin's past. Trish says Natalie lives in Lisbon and works in a dress shop. Hardin decides to go to Lisbon and make amends to Natalie. Hardin hopes fixing himself will be the first step to winning Tessa's heart.<br/><br/>Based on The After Series by Anna Todd, this movie is about Hardin, his abyss, and finding forgiveness from the first woman he hurt. The audience peeks at Hardin's downward spiral before Tessa. And it shows the parallel between how he treated Natalie and Tessa. This installment is an hour and fifteen minutes of Hardin's self-loathing, 2nd novel syndrome, and alcoholism. Then, he is face-to-face with Tessa. While giving you a somewhat redeeming view of Hardin during his growth, this movie puts a bow on Hardin and Tessa's story.<br/><br/>3 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aftereverything.jpeg",
-      "largeImageurl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aftereverything.jpeg"
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aftereverything.jpeg"
     }
   },
   {
