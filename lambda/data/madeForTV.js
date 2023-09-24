@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"Stolen Baby: The Murder of Heidi Broussard",
+    "review":"Heidi helps her son, Aiden, brush his teeth, grabs her 2-week-old daughter, Emma, and takes Aiden to school. She comes home and calls her fiancé, Cody. He reminds Heidi to sleep when the baby sleeps. Heidi puts Emma down for a nap, gets into bed, and then her phone rings. Magen is outside in tears. Magen fought with the father of her child, Greg, and now needs to talk. Heidi gets Emma and meets Magen at Magen's car. Heidi and Emma get into the backseat, and they drive away.<br/><br/>Magen gets a call from Cody but ignores it to focus on her daughter. After a few days, Magen receives a call from Heidi's sister, Lilian. Heidi and Emma are missing, and no one can find them. Magen asks if the police investigated Cody because he and Heidi have issues. Magen encourages Lilian to be brave and hangs up. Greg walks into the room to hold Lily but notices she looks yellow. He wants Magen to take Lily to the doctor, but Magen angrily refuses. He relents and leaves. Greg thinks Magen is stressed. Sadly, he's right.<br/><br/>Based on actual events, this movie is a display of long-festering envy. Magen and Heidi were so-called friends for decades, but everyone can see that Magen doesn't have a life outside of Heidi. Viewers will squirm as police suspect Cody. But Cody endures this and gives the police a hint by recalling the day of Emma's birth. You will weep for Heidi's family. Her parents, sister, and friends desperately look for her while maintaining some sense of 'normal' for Heidi's son. Also, any parent will ache for baby Emma. She is sick and needs medical care, but Magen's selfishness and fear won't let her see Emma's illness. While you watch, don't forget their is another victim: Greg. Greg thought he had a beautiful baby girl and genuinely cared for her. Magen's lies took that all away. This movie has several flashbacks, but it draws viewers into the film. With amazing acting and great story-telling, this movie will make you take a double look at who you call a friend.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stolenbabyheidibroussard.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stolenbabyheidibroussard.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Haunted Harmony Mysteries: Murder in G Major",
+    "review":"Billy drives Gethsemane Brown up the Ireland countryside to his uncle Eamon's home. The town is abuzz about Gethsemane because they believe she can conduct the choir and win all county. Gethsemane tours the house and finds a picture of Eamon. She had no idea that Billy was a relative of a great musician. Billy doesn't talk about Eamon much because of the rumor. Many believe that Eamon poisoned himself after killing his wife, Orla.<br/><br/>Late at night, Gethsemane hears the piano and races downstairs. She doesn't see anyone near the piano but sees someone running away from the house. Gethsemane calls the police to help, and they send Inspector O'Reilly. The inspector searches the ground but can't find anyone or any evidence. He urges Gethsemane to protect herself and takes her where someone threw Orla off the cliff. Gethsemane meets her class, introduces herself, and starts working on pitch exercises.<br/><br/>Gethsemane goes home after a trying first day. Gethsemane sits at the piano because she can't get last night's tune out of her head. So she starts to play and freezes when the notes spell dead. She looks to her side and sees a man sitting next to her. They scream simultaneously. She threatens to call the inspector, but the man says he's the owner. Gethsemane realizes the man is Eamon. Gethsemane can see ghosts.<br/><br/>She wants Eamon to go away, but he is in limbo. He needs to go to heaven and be with the love of his life, Orla. But he can't until he solves her murder and, subsequently, his. Eamon finding Orla's body broke his heart. He grabbed her and brought her home. Waiting for the police to arrive, he had a drink but didn't know someone poisoned it. Gethsemane agrees to help but only during non-work hours.<br/><br/>Based on Murder in G Major: A Gethsemane Brown Mystery by Alexia Gordon, this film is a compelling start to a promising new series. The film slowly introduces Gethsemane to the audience along with her love triangle. You discover that Gethsemane's father had her musical and paranormal abilities. With a picturesque background and loveable characters in every scene, the audience will get lost in a world of wonderment and fun. Experienced Sleuthers will uncover the killer before the end, but you won't piece together the less significant crimes. This twist makes the plot intriguing and a delight.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hauntedharmonymysteriesgmajor.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hauntedharmonymysteriesgmajor.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"One Night Stand Murder",
+    "review":"Alyssa wakes up in a strange bed next to an unknown man. She tells the sleeping man goodbye, but he doesn't respond. She walks over to his side of the bed. The sheets near his chest are bloody. She runs outside and calls her friend, attorney Cindy, to meet at Cindy's office. Alyssa recalls the story but doesn't remember meeting the man or going home with him. Cindy tells Alyssa to contact the police, but Alyssa wants to gather more evidence to prove her innocence first.<br/><br/>A patrol officer calls Detective Keller to the home of billionaire Fletcher Doyle. When Fletcher didn't come to work for an important meeting, his staff called the police to perform a wellness check. They found Fletcher in bed with a stab wound in his chest. The medical examiner sees that someone gathered the bedspread on one side. It's a sign that someone was there with Fletcher last night. And the lipstick on the glass confirms it was a woman. It's easy to assume the woman is the killer, but his experience tells him to dig deeper. Now, Alyssa and Detective Keller hunt for Fletcher's murderer, but what will happen when their paths cross?<br/><br/>First, everyone needs to give Keller respect for being a great detective. He recognized that Alyssa wasn't acting guilty but afraid. Second, Alyssa does everything wrong. When someone says 'report it,' Alyssa sinks deeper into the abyss. The audience won't care about her safety because she doesn't. Viewers watch to see if their hunch is correct and cheer on Keller.<br/><br/>2.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/onenightstandmurder.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/onenightstandmurder.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Notes of Autumn",
+    "review":"Event planner Ellie calls her friend, Leo, for an update on his new book. Leo is on the 17th book for the Parkington Manor novels but suffers from writer's block. Ellie walks into the lobby, sits at the piano, and plays. Her boss, Helena, breaks Ellie's concentration. Helena believes Ellie is easily distracted and doesn't make work her priority. Ellie promises to meet Mrs. Hill and give Mrs. Hill her undivided attention.<br/><br/>During the meeting, Ellie realizes she left the sample event menus in the kitchen. She sees her friend, Chef Matt, cooking something new. Matt dreams of opening a restaurant, and Ellie plans his investor's dinner to raise funds. Ellie leaves the kitchen to work with Mrs. Hill, but Helena cuts her off. Mrs. Hill waited for Ellie for over 10 minutes because Ellie got distracted by Matt. Helena fires Ellie.<br/><br/>Ellie goes home and calls Leo. Leo reminds Ellie that she never wanted to be an event planner. She went to Juilliard for piano. She needs to get away and clear her head. Leo laughs because his publisher suggested he do the same to release his writer's block. Ellie gets a bright idea. They can switch living spaces. Leo agrees to the swap.<br/><br/>Leo tells his friend Sam that he can't help with the Piano Ball's string quartet because he will take a trip. However, Ellie went to Juilliard and is a concert pianist. Also, she had experience planning events. Ellie tells Matt she is leaving for a few weeks, and his concern grows. Ellie promised Matt he could use her kitchen to create his investor dinner menu. Ellie eases Matt and says she will tell Leo about their arrangement. Leo lands before Ellie walks to her gate, and they exchange keys. They tell each other about Matt and Sam but don't go into details. A convenience swap will change their personal and professional lives forever.<br/><br/>Be prepared to laugh and fall in love with these two couples and friends. You will admire Ellie's friendship with Matt and Leo. When Matt meets Leo, it involves a giraffe, an alligator, and a spoon. As Sam meets Ellie, it includes a key, climbing, and a threat. They stumble, have near kisses, and protected hearts. The audience will wait with bated breath for them to achieve their dreams and loves. This movie begs for a part two, so we can witness their crazy weddings.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/notesofautumn.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/notesofautumn.jpeg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"How She Caught a Killer",
     "review":"David walks to Linda after she graduates from the police academy. Linda joins David's precinct but becomes increasingly disinterested in the mundane cases. Linda stands outside David's office and eavesdrops on David's conversation with FBI Agent Neil. David wrote several letters to the FBI for assistance, and the FBI sent their rookie agent to tell David to stop. During their conversation, an officer reports another murder with the same signature. Now, they have enough victims to flag it as a serial killer.<br/><br/>Neil and David discuss the next steps for catching the killer, and Neil suggests putting someone undercover. David says his men don't have the training, but Linda enters the room. She reminds David that she looks like all the victims and that the office underutilizes her. Before David can reject Linda again, Neil agrees with her. Then, David lays down the ground rules. First, Linda can't go anywhere without her gun because the killer uses a hammer to murder his victims. Linda has to wear a wire. Finally, Linda can't get into anyone's vehicle. Linda promises to adhere to the rules and eagerly goes undercover. Can Linda catch the killer without losing herself?<br/><br/>This movie, set in the 1980s, relies heavily on police work because DNA testing was in its infancy. Sadly, the film reminds viewers that the ideas about prostitutes and their profession haven't changed. Also, Linda makes blaring mistakes. But remember, she is a rookie. This film emphasizes the taboo of sex work, the dark mind, and the advancement of DNA testing.<br/><br/>4.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/howshecaughtakiller.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/howshecaughtakiller.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Come Fly with Me",
-    "review":"Emma and Hawk are the newest pilots on the Thunderbird team. Emma, a.k.a. Blitz, has plenty of experience but studies the maneuvers intensely. Emma comes home after training and watches her mother, Carol, make her daughter, Lucy, warm milk before bed.<br/><br/>Paul takes his daughter, Alice, to the doctor's office for a check-up. Dr. Carol greets Alice with a warm smile, but Alice can't take her eyes off Lucy's limited edition Pilot Girls backpack. The two girls become fast friends in the lobby, but Alice has to leave for her appointment. Carol offers to look after Alice for Paul, and he agrees.<br/><br/>The girls become inseparable and spend time together in Paul's outdoor store. While prepping boxes, Alice has a hard time breathing. Lucy sees the scar on Alice's chest. Alice had several heart surgeries in childhood, and the effects plague her today. Later, Alice learns Emma's Thunderbird tour will only last two years. Lucy privately admits to Alice that she doesn't want to move again. Alice and Lucy decide to 'Parent Trap' Paul and Emma so they will fall in love and plant roots. Will their plan work?<br/><br/>This movie is fast-paced, heart-warming, funny, and thrilling. Paul and Emma are honest with others about their feelings but take their time talking to each other. They don't wait for the last 30 seconds to kiss. Seeing Alice and Lucy secretly plan the date is highly entertaining. The flying scenes are flawless. But if you suffer from motion sickness, you may have to look away. This story is endearing and one of the best-written stories of the Fall into Love series.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/comeflywithme.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/comeflywithme.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"As Luck Would Have It: Murder for Sale",
-    "review":"While Lisa Luck discusses her relationship with her partner, Rick, to her therapist, her mother, Gabbie, walks with her friend, Kimberley. Kimberley chose to end her marriage to Steven and sell their home. Kimberley's realtor, Joe, wants the home ready for an Open House. So, Kimberley will stay with her son, Jonathan.<br/><br/>Kimberley and her son meet with Joe before the open house. Jonathan doesn't hold back his disdain for Joe. Joe tries to ease Kimberley's concerns, but Joe's girlfriend, Laura, interrupts when she enters the back door. Joe is tired of funding her lifestyle, so he stop paying for her condo. Joe walks over to Kimberley to finish their conversation, but Jonathan gets a text message and abruptly leaves. Jonathan confronts his father, Steven, at the gate and reminds Steven that Kimberley has a restraining order against him. Jonathan reenters the house with Joe's assistant, Donna. Before Joe can finish his discussion, Donna tells Joe that Mr. Freeman is approaching. Joe runs to meet Mr. Freeman, who claims that Joe stole another client from him with false reviews. Mr. Freeman promises to make good on a previous threat.<br/><br/>Kimberley sits at Jonathan's home and gets a phone call from the police department. Donna found Joe's body in the foyer and called the police. Captain Taylor assigns Rick and Lisa to the case. As Lisa and Rick investigate, Gabbie checks on Kimberley often. Kimberley can't contain her grief, fears her ex-husband, and wants to sell the home quickly. Can Lisa and Rick discover who killed Joe before it pulls Kimberley apart?<br/><br/>Once again, personal and professional drama surrounds the Luck family. Lisa wants to keep her relationship out of work and home. However, Rick wants to shout it from the rooftops. Next, Gabbie has a link to another murder. This movie is different because Gabbie solves the crime. Gabbie proves to Lisa that education has applications in the field. Lisa gained a new respect for Gabbie's knowledge.<br/><br/>4.5 out of 5 stars",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asluckwouldhaveitmurder101.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asluckwouldhaveitmurder101.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Lust, Lies, and Polygamy",
-    "review":"Ellen delights in her marriage to Paul, but Ellen's daughter, Kelsey, doesn't like him. Paul works in sales and has to travel often. Ellen gets a knock at the door from the police because the neighbors saw a prowler, Carl, outside her home. The police arrest Carl, but Ellen can't forget the look Carl gave her. Unfortunately, the police don't feel they have enough evidence to convict and let Carl go with a warning.<br/><br/>Ellen can't stop thinking about Carl and meets with Detective Holland. Seeing Ellen surprises Detective Holland because earlier, Paul told Holland that Ellen wanted to drop the charges. She considers confronting him but changes her mind. Paul calls after a late sales meeting and tells Ellen about a gospel singer. She looks up the singer online and watches a performance. In the video, she sees Paul kissing another woman. She decides to gather evidence before presenting her suspicions to Paul. But challenging Paul will have dire consequences.<br/><br/>First, we have the typical Lifetime bratty teen. Next, the story has the all-too-trusting wife. Then, we have the Lifetime Detective, but surprisingly, he does his job. Last, Ellen schemes and decides to meet the other woman. Ellen is intelligent enough to gain information but handles and presents it incorrectly. These mistakes will frustrate viewers and make them lose confidence in Ellen.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lustliesandpolygamy.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lustliesandpolygamy.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Fourth Down and Love",
-    "review":"Mike's family watches him and his team, The Whalers, run onto the field and play football. All seems well until Mike takes a brutal sack. Mike suffered several broken ribs, and his coaches put him on the injured list. Mike's brother, Jimmy, calls Mike and tells Mike to spend time with his family because they can help with his rehab. Mike thinks it over and relents.<br/><br/>Erin takes her daughter, Kiera, to football practice. Kiera loves to play, but she is the only girl, and the boys don't include her. Kiera sees a league of girls playing on a field nearby during practice. Their coach, Jimmy, explains that the all-girls team contains teens from different schools. Kiera drops her team and joins Jimmy's team with Jimmy's daughter, Zoey. Erin doesn't see Mike walk onto the field but remembers him when Jimmy introduces them. Mike and Erin dated in college, and she broke up with him during the draft. Mike and Erin have a curt conversation before Erin leaves the field with Kiera.<br/><br/>Jimmy's wife, Danielle, invites Erin and Kiera to a bonfire but doesn't tell Erin that Mike will be there. Jimmy gets a call from a local high school. They want Jimmy to coach their football team. Jimmy can't coach both teams simultaneously and considers turning down the job. Danielle tells him to accept the position and suggests Mike coach the girls' team. Jimmy wonders how Mike will lead the team with busted ribs, and Danielle and Erin volunteer to assist Mike. The time together will force Erin and Mike to confront their issues and regain trust.<br/><br/>This movie has something for everyone. It has football, love, and humor. It has a predictable ending but an entertaining journey. Kiera and Zoey relay a message about girl power without becoming too preachy. So sit back and have your football snacks ready.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fourthdownandlove.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fourthdownandlove.jpeg"
     }
   }
 ];
@@ -58,38 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Stolen Baby: The Murder of Heidi Broussard",
+  "mtitle":"Amish Stud: The Eli Weaver Story",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stolenbabyheidibroussard.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stolenbabyheidibroussard.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amishstudeliweaver.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amishstudeliweaver.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Haunted Harmony Mysteries: Murder in G Major",
+  "mtitle":"Murder Island",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hauntedharmonymysteriesgmajor.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hauntedharmonymysteriesgmajor.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderisland.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderisland.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"One Night Stand Murder",
+  "mtitle":"My Doctor's Secret Life",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/onenightstandmurder.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/onenightstandmurder.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mydoctorssecretlife.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mydoctorssecretlife.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Notes of Autumn",
+  "mtitle":"Murder at the Country Club",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/notesofautumn.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/notesofautumn.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderatthecountryclub.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderatthecountryclub.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Retreat to You",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/retreattoyou.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/retreattoyou.jpeg"
   }
 }
 
