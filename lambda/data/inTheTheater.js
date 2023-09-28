@@ -1,6 +1,15 @@
 var inTheTheaters = [
   {
     "option":"1",
+    "mtitle":"The Creator",
+    "review":"Sergeant Joshua Taylor lies in bed with his pregnant wife, Maya. They both lost family members in the A.I.-Human war. A.I. soldiers bring Sergeant Drew into Joshua's home. Joshua tells Maya to run upstairs and hide. With Maya out of earshot, Drew and Joshua laugh. Joshua whispers to his handlers to make Drew and the robots leave because they will blow his cover. Joshua hasn't discovered the location of Maya's father, the A.I. creator. Maya overhears the conversation and runs to the ocean. The secret force's sky base scans the area and drops a missile to keep Maya from telling her father. They maim Joshua and kill Maya and their unborn child.<br/><br/>Five years later, Joshua still has nightmares about that day. Joshua enjoys a late-night swim in his pool but comes to the surface when he sees Colonel Howell and General Andrews standing at the edge. They show Joshua evidence that Maya is alive and helping the creator make a new weapon. They want Joshua to find and destroy it. If he does, they will let him leave with Maya.<br/><br/>Joshua finds the weapon after an intense battle and approaches it alone. He puts his gun down when he sees the weapon is a female child sim. Sims are robots with donated human faces. Joshua shows the child a picture of Maya, and the child recognizes her. Joshua can't destroy the child because she can lead him to Maya and the creator. The child escapes with Joshua on her heels. They hide in a shack from Howell and her troops. When a gunshot compromises their location, Joshua finds an abandoned car and puts the child inside. He sees the markings 'Alpha Omega' on her mechanics and names the child Alphie. Joshua looks for the keys but can't find them. Alphie concentrates and starts the car. Alphie is unlike any other sim because sims are carbon copies of adults. Alphie, the first child sim, can grow and learn. Over time, she will grow to control any machine, from anywhere. Joshua is on a mission to find Maya, but Alphie will do much more.<br/><br/>This futuristic look into artificial intelligence is a startling view of today's world. Some humans don't understand what they created, so they fear it. Other humans live in peace with robots and join them to create a new society. For Sci-fi lovers, the twists are predictable. And the sound effects drown out the dialogue. Otherwise, the imagery is stunning, and the acting is superb. The bond between Alphie and Joshua deepens throughout the script and makes the audience hope for a loving solution. While you won't want to buy the movie, you will crave a part two for this soon-to-be cult classic.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecreator.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecreator.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"The Expendables 4",
     "review":"Barney goes to the home of Christmas's girlfriend, Gina, and patiently waits while they argue inside. Barney needs Christmas's help because he lost his lucky ring in a thumb wrestling match the night before. Christmas makes quick work of their rivals, and Barney exits with it. Then, they meet up with the crew for a new mission. Gunner and Toll Road prep the weapons, and Barney introduces the team to the new guys: Easy Day and Galgo's son, Galan. CIA agent Marsh strolls into the room after taking over for Drummer. A mercenary, Suarto Rahmat, plans to steal nuclear warheads in Libya. They think he is working with the elusive Ocelot. Ocelot is Barney's ghost. Twenty-five years ago, Barney and his team had a job to find Ocelot, but Ocelot killed Barney's entire crew. This time, Barney will return the favor.<br/><br/>After a hail of gunfire, blood, and dismemberment, Christmas has a choice. He can save Barney or get the warheads. Barney tells Christmas to get the explosives because Ocelot could use them to start World War III. Christmas disobeys the order and tries to save Barney, but Rahmat shoots Barney out of the sky and kills him. Christmas runs over to the plane and finds Barney's charred remains with Barney's signature ring.<br/><br/>The crew goes to the bar to celebrate Barney's life, and Gina meets Christmas there. She pulls him aside to talk. Christmas wants to know when they are going to avenge Barney. However, Marsh saunters in and tells Christmas he is out of the Expendables for disobeying a direct order. Also, Gina is taking Barney's place. Christmas gifts Gina his knife and asks Gina to kill Rahmat with it. Christmas wakes up in the morning, and Gina is gone. She and the team, along with Lash and Marsh, have Ocelot and Rahmat in their sight. Unfortunately, Rahmat knows they are on the way. Good thing Christmas is coming.<br/><br/>The fourth movie in The Expendables franchise has everything you expect: guns, fights, quips, and explosions. Most of your favorite leading men are gone, and the replacements have no backstories. Also, this movie has more sex and sexual tension than the others. With that said, this installment is funnier and gorier than the others. It pulls no punches with the devastating gunshots and lethal hand-to-hand combat. If you love the others, see this one in theaters. But casual fans should see it at the matinee price.<br/><br/>3 out of 5 stars.",
     "image":{
@@ -9,7 +18,7 @@ var inTheTheaters = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"A Haunting in Venice",
     "review":"Hercule Poirot retires in Venice and avoids new cases with the help of his bodyguard, Vitale Portfoglio. Vitale runs to Hercule's rooftop with a message from a friend. Then, Vitale shows Hercule an apple, and Hercule knows that author Ariadne Oliver is there. An actress, Rowena Drake, hired a medium, Joyce Reynolds, to communicate with her deceased daughter, Alicia, in a séance. Alicia committed suicide after her fiancé, Maxime, left her and six months later became engaged to another woman. Ariadne was able to uncover fakes before but believes Joyce is the real deal. Ariadne is writing a book about Joyce, and proving Joyce wrong will make the book a best-seller.<br/><br/>Hercule, Ariadne, and Vitale arrive at Rowena's home and hear it's haunted history. Rowena opens her doors to let the children play on Halloween, but Leopold wants to read his book instead. Leopold doesn't want to participate in the activities because his father, Dr. Ferrier, suffers from trauma. Joyce arrives with her assistant, Desdemona Holland, wearing a cloak and mask. Before everyone walks into the salon, Rowena's housekeeper, Olga Semioff, screams at the front door. Maxime received an invitation to the séance and demands to attend.<br/><br/>Joyce puts a typewriter in the corner of the room, and Desdemona stands next to it. Joyce has Olga, Ariadne, Dr. Ferrier, Leopold, and Rowena surround her as she calls Alicia to speak from beyond the grave. Hercule stops the séance and exposes Joyce's fraud. Desdemona's half-brother, Nicholas, hid in the fireplace and signaled the typewriter. As Hercule readies to put the case to bed, windows fly open, and Joyce spends around uncontrollably speaking with Alicia's voice. She comes out of the trance and offers more information about Alicia's killer in the morning.<br/><br/>Privately, Hercule confronts Joyce for using Rowena's desperation for financial gain. Joyce he puts her mask and cloak on Hercule and tells him to do better than her. Hercule indulges in a children's game of bobbing apples, and someone pushes his face into the water. He wakes up to Vitale standing over him. Then, they all hear a scream and find Joyce impaled after someone threw her off a balcony. Hercule locks everyone inside the house and plans to investigate. Hercule doesn't believe in ghosts or God but starts to see and hear things around the house. Can Hercule uncover the killer before losing his mind?<br/><br/>Based on Hallowe'en Party by Agatha Christie, this movie starts with Hercule happily leaving the mystery world behind. The house has a horrid history with a plague, causing doctors and nurses to leave children to die. This tale leaves the plot open to ghosts with targets in their crosshairs. This film has plot points from Murder on the Orient Express and Death on the Nile. Hercule fans know to keep their eyes and ears open for every clue. And this time, you may spot the nugget of truth hidden in a brief exchange. This movie isn't the best, but you will leave the theater satisfied.<br/><br/>4.5 out of 5 stars.",
     "image":{
@@ -18,7 +27,7 @@ var inTheTheaters = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Outlaw Johnny Black",
     "review":"Outlaw Johnny Black rides into Cheyanne because Brett Clayton and the Ruff Riders will rob the bank. Over two decades ago, Brett killed Johnny's father, Reverend Bullseye Black. Then, Johnny sees a group of men harassing an indigenous couple, and Johnny runs to their rescue. During the melee, the sheriff runs out, and Johnny shoots off his hat, causing the sheriff to have a heart attack. They blame Johnny for the sheriff's death and compare Johnny to his wanted poster. They decide Johnny's punishment will be hanging, but the indigenous couple helps Johnny escape.<br/><br/>Johnny wanders the desert until he collapses, and Reverend Percy saves him. Percy will travel to Hope Springs and take over for the town's recently deceased Reverend. However, Percy has more waiting for him. Percy and Betsy correspond via letters for two years, and Percy is ready to marry her. Betsy is beautiful, but Percy admits that Betsy has never seen an image of him.<br/><br/>Johnny prepares Percy's horse and buggy to travel to Hope Springs, and someone shoots Percy with an arrow to the heart. Johnny gets in the buggy and runs away to a madame's house. Marshall Cove doesn't trust Johnny and questions him. Johnny says his name is Reverend Percy as Betsy vouches for him. The congregation burst with pride and gushed about the new Reverend's sermon on Sunday. They bring Johnny to the Reverend's quarters but sadly say that Johnny can't move into the Reverend's home because Tom Sheally took it. Tom negotiates with Jessie Lee to buy the town, but she won't budge. Tom isn't a patient or fair man. So, he will kill for the town.<br/><br/>After everyone leaves Johnny's room, he tries to jump out of the window to escape. Deacon Fry enters and gives Johnny the church's security box key. Fry tells Johnny the box has $5,000 inside. Johnny wants the money, but the bank won't open until Monday. So Johnny has to stay in town and preach a sermon before he can get the money and leave. This fateful decision will put Johnny on a path of love, God, and Brett.<br/><br/>This film is a parody of old-fashioned westerns and blaxploitation. It covers a lot of issues while staying light-hearted and fun. Be prepared for fancy shooting, gun-slinging, and karate. The script stayed within the period with costumes and technology but constantly broke the fourth wall to include the audience in the joke. While the movie was entertaining, it ran too long.<br/><br/>3.5 out of 5 stars.",
     "image":{
@@ -27,21 +36,12 @@ var inTheTheaters = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"After Everything",
     "review":"Hardin has a best-selling book, but he lost his muse. Tessa left after he published a book about their stormy yet steamy love affair. Today, Hardin is a year behind for his next novel. Hardin parties and drinks all night but can't write one word without Tessa. He texts her, but she tells him it's over.<br/><br/>Hardin meets with his parents, Trish and Christian. They want him to stop drinking and focus. Trish tells Hardin that she has been in contact with Natalie. Natalie is another scorned woman from Hardin's past. Trish says Natalie lives in Lisbon and works in a dress shop. Hardin decides to go to Lisbon and make amends to Natalie. Hardin hopes fixing himself will be the first step to winning Tessa's heart.<br/><br/>Based on The After Series by Anna Todd, this movie is about Hardin, his abyss, and finding forgiveness from the first woman he hurt. The audience peeks at Hardin's downward spiral before Tessa. And it shows the parallel between how he treated Natalie and Tessa. This installment is an hour and fifteen minutes of Hardin's self-loathing, 2nd novel syndrome, and alcoholism. Then, he is face-to-face with Tessa. While giving you a somewhat redeeming view of Hardin during his growth, this movie puts a bow on Hardin and Tessa's story.<br/><br/>3 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aftereverything.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aftereverything.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"My Big Fat Greek Wedding 3",
-    "review":"Toula and Ian lost their fathers over the years. Toula tells Maria she and Ian are going to Greece to give her father's journal to his three best friends. The village of Toula's father, Gus, is having a reunion, and Toula hopes Gus's friends will be there. Toula and Ian arrive at the airport to find their daughter, Paris, waiting for them. Toula calls her brother, Nick, and ensures he is on his way with their aunts, Voula and Theia. As they board the plane, Paris tries to distance herself from her nosey family, but they invite her ex-boyfriend, Aristotle, to join them.<br/><br/>The family lands and instantly becomes awestruck with Greece. Mayor Victory meets them with coffee and brings them to Gus's hometown. Toula loves Gus's village, but only six people live their now. Mayor Victory sent an invitation to every family, but only the Portokaloses came. The reunion will be in a few days, but Victory believes everyone will come. The empty town discourages Toula, but Ian and her family give her faith to keep going. Toula vows to find Gus's friends and deliver the journal before returning to the States.<br/><br/>In case you were wondering, Yes. This movie has a Greek wedding in Greece. Like most adults, Toula enters the next phase of her marriage to Ian. They must care for their parents and pass the traditions to the younger generation. But Toula must balance between Gus's wishes and Ian's vacation. Ian must refocus her energy to have fun and not worry about Paris, the family, or the secrets. Yes, there are explosive secrets for the Portokaloses and the Millers. The family packs joy with their open, loving, and caring nature. They love each other no matter if they are shaving at the dinner table, swimming nude, or drinking. This film doesn't try to one-up the previous movies. It gels with them perfectly. For fans of the Greeks, see this movie in theaters.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mybigfatgreekwedding3.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mybigfatgreekwedding3.jpg"
     }
   }
 ];
@@ -56,17 +56,9 @@ module.exports = inTheTheaters;
 
 /*
 
+,
 {
-  "option":"1"
-  "mtitle":"The Creator",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecreator.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecreator.jpeg"
-  }
-},
-{
-  "option":"2"
+  "option":"2",
   "mtitle":"Dumb Money",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
@@ -75,7 +67,7 @@ module.exports = inTheTheaters;
   }
 },
 {
-  "option":"3"
+  "option":"3",
   "mtitle":"PAW Patrol: The Might Movie",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
