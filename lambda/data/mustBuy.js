@@ -84,19 +84,6 @@ module.exports = mustBuy;
     }
   }
 
-   {
-    "option":"5",
-    "mtitle":"The Greatest Beer Run Ever",
-    "review":"John 'Chickie' Donohue drinks beers at his local bar in 1967 Inwood, New York. Chickie and his sister, Christine, get into a fight about the war. He and their parents believe the soldiers are heroes protecting the country from communism. However, Christine believes President LBJ is lying to the American people.<br/><br/>At the bar, the owner, Colonel, says he wishes he could give the Inwood guys in Vietnam a beer to show his support and lift their spirits. Chickie declares he will do it. Colonel gives Chickie a bag from the bar and fills it with beers. Chickie goes to the docks and discovers the next ship is leaving for Vietnam in 3 hours, and they need one more oiler. He grabs his bag of beers and heads to the war. He will learn about the media, politics, and the cost of war.<br/><br/>Based on The Greatest Beer Run Ever: A Memoir of Friendship, Loyalty, and War by John 'Chick' Donohue and J.T. Molloy, this movie is a comedic look at a dark moment in American history. Each time Chickie runs into a friend, they look at him with disbelief and disgust. They laugh and help Chickie along the way when he tells his growing beer run story. Chickie runs into dumb luck, but he knows it will come at a cost. Reporters challenge Chickie's ideals when he sticks up for the president. After a few nights in the trenches, his faith in the war wavers. But his love of the troops remains strong. If you have PTSD, some moments could be triggering. This beer run is epic, no matter how you feel about the Vietnam war.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":""
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegreatestbeerrunever.jpg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegreatestbeerrunever.jpg"
-    }
-  }
-
   {
     "option":"5",
     "mtitle":"Chevalier",
@@ -214,6 +201,45 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mybigfatgreekwedding3.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mybigfatgreekwedding3.jpg"
+    }
+  }
+
+  {
+    "option":"2",
+    "mtitle":"Dumb Money",
+    "review":"Keith Gill, a financial broker for MassMutual, meets with his friend, Briggsy, at a bar to discuss their investments. Keith admits that he invested $53,000 into GameStop. Briggsy can't believe it because hedge funds, including Gabe Plotkin's Melvin Capital Management, are shorting the stock. Keith goes home to his wife, Caroline, and baby girl. He posted his ideas on the Reddit forum Wall Street Bets, but no one listened. Caroline tells him to make another video. Keith walks to his basement, changes his shirt, puts on a red headband, and goes live as Roaring Kitty.<br/><br/>Jenny, a nurse, is a divorced mother of two and follows Wall Street Bets. She listens to Roaring Kitty and buys GameStop stock on the Robinhood app. Marcos works at GameStop and sees it struggling. Marcos decides to put a few dollars into GameStop after watching the stream. RiRi, a college student, has over $100,000 in student loan debt. She invested money into GameStop and encouraged others to do the same. Harmony listens to RiRi, watches Roaring Kitty, and starts to invest while falling for RiRi.<br/><br/>By January, Steve Cohen calls Gabe about GME. He warns Gabe that one person is driving up the buying. Gabe watches a few clips and doubles down on the short sale. Ken Griffin laughs at retail investors and calls them Dumb Money. The hedge fund managers aren't the only people watching GameStop. Vlad Tenev and Baiju Bhatt, owners of the Robinhood App, saw the number of users skyrocket. But none of them know that the Apes will expose Robinhood and cause a short squeeze that will spark a media frenzy, social payback, and a congressional hearing.<br/><br/>Based on The Antisocial Network by Ben Mezrich, this movie mixes real-life events with a compilation of stories from retail investors. The plot doesn't describe how to short a stock, what hedge funds are, or what a short squeeze is. Instead, the audience gets to know the man behind Roaring Kitty. He ignited the masses and made investment companies take the Apes seriously. This film has engaging dialogue, great music, and realistic portrayals. It gives you an overview of the players, their jobs, and their net worth. The audience sees how they all fared at the end. They wanted to take down the system but became the product. So, sit back, take notes, and enjoy the social gamification of the market.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0CJCSFJQR"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dumbmoney.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dumbmoney.jpeg"
+    }
+  }
+
+  {
+    "option":"5",
+    "mtitle":"A Haunting in Venice",
+    "review":"Hercule Poirot retires in Venice and avoids new cases with the help of his bodyguard, Vitale Portfoglio. Vitale runs to Hercule's rooftop with a message from a friend. Then, Vitale shows Hercule an apple, and Hercule knows that author Ariadne Oliver is there. An actress, Rowena Drake, hired a medium, Joyce Reynolds, to communicate with her deceased daughter, Alicia, in a séance. Alicia committed suicide after her fiancé, Maxime, left her and six months later became engaged to another woman. Ariadne was able to uncover fakes before but believes Joyce is the real deal. Ariadne is writing a book about Joyce, and proving Joyce wrong will make the book a best-seller.<br/><br/>Hercule, Ariadne, and Vitale arrive at Rowena's home and hear it's haunted history. Rowena opens her doors to let the children play on Halloween, but Leopold wants to read his book instead. Leopold doesn't want to participate in the activities because his father, Dr. Ferrier, suffers from trauma. Joyce arrives with her assistant, Desdemona Holland, wearing a cloak and mask. Before everyone walks into the salon, Rowena's housekeeper, Olga Semioff, screams at the front door. Maxime received an invitation to the séance and demands to attend.<br/><br/>Joyce puts a typewriter in the corner of the room, and Desdemona stands next to it. Joyce has Olga, Ariadne, Dr. Ferrier, Leopold, and Rowena surround her as she calls Alicia to speak from beyond the grave. Hercule stops the séance and exposes Joyce's fraud. Desdemona's half-brother, Nicholas, hid in the fireplace and signaled the typewriter. As Hercule readies to put the case to bed, windows fly open, and Joyce spends around uncontrollably speaking with Alicia's voice. She comes out of the trance and offers more information about Alicia's killer in the morning.<br/><br/>Privately, Hercule confronts Joyce for using Rowena's desperation for financial gain. Joyce he puts her mask and cloak on Hercule and tells him to do better than her. Hercule indulges in a children's game of bobbing apples, and someone pushes his face into the water. He wakes up to Vitale standing over him. Then, they all hear a scream and find Joyce impaled after someone threw her off a balcony. Hercule locks everyone inside the house and plans to investigate. Hercule doesn't believe in ghosts or God but starts to see and hear things around the house. Can Hercule uncover the killer before losing his mind?<br/><br/>Based on Hallowe'en Party by Agatha Christie, this movie starts with Hercule happily leaving the mystery world behind. The house has a horrid history with a plague, causing doctors and nurses to leave children to die. This tale leaves the plot open to ghosts with targets in their crosshairs. This film has plot points from Murder on the Orient Express and Death on the Nile. Hercule fans know to keep their eyes and ears open for every clue. And this time, you may spot the nugget of truth hidden in a brief exchange. This movie isn't the best, but you will leave the theater satisfied.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ahauntinginvenice.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ahauntinginvenice.jpeg"
+    }
+  }
+
+  {
+    "option":"3",
+    "mtitle":"PAW Patrol: The Mighty Movie",
+    "review":"The Paw Patrol gets a distress call from the J and H Junkyard. Someone stole their 10-ton magnet and started a fire during the getaway. The pups save Janet and Hank but wonder why someone would steal it. They don't ponder for long because they want to run home to see the meteor shower over Adventure Bay. The crew readies the snacks as Ryder introduces them to The Junior Patrollers, Nano, Tot, and Mini. The meteor is heading toward Adventure Bay. They run to the town, secure everyone, and clear a path. Ryder and the pups go to the crater and find the meteor pulsating. Ryder decides to examine it in his lab.<br/><br/>The news reports that Victoria Vance pulled the meteor to Earth and broadcast her crime on social media. She used the powerful magnet to attract the meteor because something powerful was inside. The police find her post, arrest Victoria, and put her in jail. Her new cellmate is Mayor Humdinger and his cats.<br/><br/>A bright light wakes up Skye, and she walks towards it. She touches the meteor, and it shatters, leaving seven crystals behind. One crystal attaches to her collar, and Sky can fly. Each crystal latches on to them. Rubble becomes a wrecking ball while Chase gets super speed. Zuma can control and become water, while Marshall can shoot fireballs from his paws. And Zuma becomes Magneto. Liberty tries with all her might but doesn't have powers. Adventure Bay marvels at their upgraded heroes and plasters them all over the news. Victoria sees the report and vows to take back the pups' powers. Humdinger offers to help break Victoria out if she shares their abilities. Can the Paw Patrol defeat Victoria and Humdinger before she takes their powers?<br/><br/>Before the movie starts, their is a short music video, a Dora short, and Pup theater etiquette for the kids. This constant change may confuse younger viewers, so parents should be ready to explain. The film is good clean entertainment with lots of action. Also, it provides an origin story for Skye. The graphics and storyline are fun for the entire family. There are jokes for adults, but they are not innuendoes. The movie is comically self-aware and entertains without dumbing down the content or making inappropriate quips over kids' heads. Bring the entire family to enjoy this film.<br/><br/>4.5 out of 5 stars for kids and 3.5 out of 5 stars for adults.",
+     "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pawpatrolmightymovie.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pawpatrolmightymovie.jpeg"
     }
   }
 */

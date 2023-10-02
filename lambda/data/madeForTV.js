@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Stolen Baby: The Murder of Heidi Broussard",
-    "review":"Heidi helps her son, Aiden, brush his teeth, grabs her 2-week-old daughter, Emma, and takes Aiden to school. She comes home and calls her fiancé, Cody. He reminds Heidi to sleep when the baby sleeps. Heidi puts Emma down for a nap, gets into bed, and then her phone rings. Magen is outside in tears. Magen fought with the father of her child, Greg, and now needs to talk. Heidi gets Emma and meets Magen at Magen's car. Heidi and Emma get into the backseat, and they drive away.<br/><br/>Magen gets a call from Cody but ignores it to focus on her daughter. After a few days, Magen receives a call from Heidi's sister, Lilian. Heidi and Emma are missing, and no one can find them. Magen asks if the police investigated Cody because he and Heidi have issues. Magen encourages Lilian to be brave and hangs up. Greg walks into the room to hold Lily but notices she looks yellow. He wants Magen to take Lily to the doctor, but Magen angrily refuses. He relents and leaves. Greg thinks Magen is stressed. Sadly, he's right.<br/><br/>Based on actual events, this movie is a display of long-festering envy. Magen and Heidi were so-called friends for decades, but everyone can see that Magen doesn't have a life outside of Heidi. Viewers will squirm as police suspect Cody. But Cody endures this and gives the police a hint by recalling the day of Emma's birth. You will weep for Heidi's family. Her parents, sister, and friends desperately look for her while maintaining some sense of 'normal' for Heidi's son. Also, any parent will ache for baby Emma. She is sick and needs medical care, but Magen's selfishness and fear won't let her see Emma's illness. While you watch, don't forget their is another victim: Greg. Greg thought he had a beautiful baby girl and genuinely cared for her. Magen's lies took that all away. This movie has several flashbacks, but it draws viewers into the film. With amazing acting and great story-telling, this movie will make you take a double look at who you call a friend.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Amish Stud: The Eli Weaver Story",
+    "review":"Detective Mike and Bruce walk to the home of Eli and Barbara Weaver, but Bruce makes Michael stop. Before approaching the crime scene, the Bishop tells them to keep their noses out of Amish business. Bruce and Michael find Barbara Weaver in bed with a gunshot wound in her chest and no signs of forced entry. Her children ran to a neighbor after discovering their mother, and the neighbor went to the community phone to call the police.<br/><br/>Barbara's sister, Abagail, frantically runs to the Weaver residence. The Bishop warns Abagail not to gossip. Abagail remains quiet and goes to her niece and nephew. The detectives leave the scene and run into Eli Weaver. Eli tells the detectives that he was fishing with his friend, Jerimiah, a Conservative Mennonite, during the murder. Eli believes it was an attempted robbery. Bruce and Michael leave with an eerie feeling about Eli. Eli never mentioned or expressed concern for his children during the interview. Their investigation will uncover affairs, sin, and abuse with the help of a prayer and journal.<br/><br/>Based on A Killing in Amish Country: Sex, Betrayal, and a Cold-blooded Murder by Gregg Olsen and Rebecca Morris, this film will break your heart. Eli only wanted to be Amish when it was convenient. Barbara does everything she can for Eli but refuses to perform oral sex because it is sinful in the Amish religion. She does what the church taught her and runs to the Bishop for help. He shames Barbara and lays Eli's poor behavior at her feet. Eli was a narcissistic psychopath with community support. The script ensures that technology isn't the enemy, only Eli. Thankfully, from the beginning, Abagail saw through Eli and refused to keep quiet. Be warned, Eli and Barb's sentences are a travesty.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stolenbabyheidibroussard.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stolenbabyheidibroussard.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amishstudeliweaver.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amishstudeliweaver.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Haunted Harmony Mysteries: Murder in G Major",
-    "review":"Billy drives Gethsemane Brown up the Ireland countryside to his uncle Eamon's home. The town is abuzz about Gethsemane because they believe she can conduct the choir and win all county. Gethsemane tours the house and finds a picture of Eamon. She had no idea that Billy was a relative of a great musician. Billy doesn't talk about Eamon much because of the rumor. Many believe that Eamon poisoned himself after killing his wife, Orla.<br/><br/>Late at night, Gethsemane hears the piano and races downstairs. She doesn't see anyone near the piano but sees someone running away from the house. Gethsemane calls the police to help, and they send Inspector O'Reilly. The inspector searches the ground but can't find anyone or any evidence. He urges Gethsemane to protect herself and takes her where someone threw Orla off the cliff. Gethsemane meets her class, introduces herself, and starts working on pitch exercises.<br/><br/>Gethsemane goes home after a trying first day. Gethsemane sits at the piano because she can't get last night's tune out of her head. So she starts to play and freezes when the notes spell dead. She looks to her side and sees a man sitting next to her. They scream simultaneously. She threatens to call the inspector, but the man says he's the owner. Gethsemane realizes the man is Eamon. Gethsemane can see ghosts.<br/><br/>She wants Eamon to go away, but he is in limbo. He needs to go to heaven and be with the love of his life, Orla. But he can't until he solves her murder and, subsequently, his. Eamon finding Orla's body broke his heart. He grabbed her and brought her home. Waiting for the police to arrive, he had a drink but didn't know someone poisoned it. Gethsemane agrees to help but only during non-work hours.<br/><br/>Based on Murder in G Major: A Gethsemane Brown Mystery by Alexia Gordon, this film is a compelling start to a promising new series. The film slowly introduces Gethsemane to the audience along with her love triangle. You discover that Gethsemane's father had her musical and paranormal abilities. With a picturesque background and loveable characters in every scene, the audience will get lost in a world of wonderment and fun. Experienced Sleuthers will uncover the killer before the end, but you won't piece together the less significant crimes. This twist makes the plot intriguing and a delight.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Mystery Island",
+    "review":"Jane calls her friend, Dr. Emilia, for help. Jane is on Mystery Island again and picks the incorrect killer. Ten times a year, guests come to the island to solve a crime, and each one is different. She tells Emilia to take a break from real killers and go on a vacation. Emelia consults with the police and analyzes murders. Usually, Emilia says no but is having second thoughts about her career path. So she says yes.<br/><br/>Jane and four others are island investors. The owner and main shareholder, John, started the getaway to keep his mother's literary legacy alive. John owns 80% of the island. Jane, along with three others, has a 5% share. The host, Fredrick, shows Emilia around the house and introduces her to the house manager, Lucia.<br/><br/>After the guests settle in, Fredrick invites them to the dining room for dinner. Fredrick plays a recording of John giving the guests their first clue. A worker burns the recording after it plays. Emilia and Jane figure out the first clue and find a secret passageway. They walk to a balcony and find two dead bodies. Jane recognizes Fredrick, but he's alive. The second person is the worker who burned the recording, but Emilia takes a closer look. She sees he is wearing a disguise and pulls it off. The dead worker is John with a dart in his neck. This death isn't a game, and John is dead. Fredrick calls the police.<br/><br/>Detective Jason and Chief Gloria investigate everyone on the island. The medical examiner determined the dart had poison on the tip. When guests want to leave, Jason counters by threatening to tell the public the mystery destination isn't safe. These amateur sleuthers must do the real thing if they want to go. Can they solve the crime before someone else dies?<br/><br/>Emilia tries to avoid the mystery but can't help herself. It doesn't take long for the guests to turn on each other. Viewers will use their H.M.M. expertise to pick apart the evidence and deduce hidden meanings, but this movie turns everything you know on its head. The compelling plot doesn't reveal a critical scene until the summation. And the culprit will have you rethinking everything you saw and heard.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hauntedharmonymysteriesgmajor.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hauntedharmonymysteriesgmajor.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderisland.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderisland.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"One Night Stand Murder",
-    "review":"Alyssa wakes up in a strange bed next to an unknown man. She tells the sleeping man goodbye, but he doesn't respond. She walks over to his side of the bed. The sheets near his chest are bloody. She runs outside and calls her friend, attorney Cindy, to meet at Cindy's office. Alyssa recalls the story but doesn't remember meeting the man or going home with him. Cindy tells Alyssa to contact the police, but Alyssa wants to gather more evidence to prove her innocence first.<br/><br/>A patrol officer calls Detective Keller to the home of billionaire Fletcher Doyle. When Fletcher didn't come to work for an important meeting, his staff called the police to perform a wellness check. They found Fletcher in bed with a stab wound in his chest. The medical examiner sees that someone gathered the bedspread on one side. It's a sign that someone was there with Fletcher last night. And the lipstick on the glass confirms it was a woman. It's easy to assume the woman is the killer, but his experience tells him to dig deeper. Now, Alyssa and Detective Keller hunt for Fletcher's murderer, but what will happen when their paths cross?<br/><br/>First, everyone needs to give Keller respect for being a great detective. He recognized that Alyssa wasn't acting guilty but afraid. Second, Alyssa does everything wrong. When someone says 'report it,' Alyssa sinks deeper into the abyss. The audience won't care about her safety because she doesn't. Viewers watch to see if their hunch is correct and cheer on Keller.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"My Doctor's Secret Life",
+    "review":"Doctor Veronica West is a therapist with a highly-anticipated book, Life's Power Within. She enters her office and briefs her assistant, Nancy. She meets with her client, David, to discuss his kleptomania.<br/><br/>Veronica loves helping her patients but has to take a break for her 6-week-long book tour. She signs autographs for fans, but Brianna requests a session. Brianna begs because her nightmares haunt her. Veronica relents and tells Brianna to give Nancy her contact information. After signing autographs, the host takes written questions from the audience. An audience member asks Veronica if she's ever done anything to cause a patient's death. Veronica says no but can't stop thinking about Matthew.<br/><br/>Matthew was Veronica's patient. However, he left her practice after feeling better. Two years later, they randomly saw each other on the street and decided to have coffee. They dated for a while, but Veronica felt the relationship had no future. Later, Matthew got drunk, got into his car, fell asleep, crashed, and died. Veronica continues to ponder about Matthew until someone knocks her out from behind. Veronica wakes up on the ground with a note in her mouth. It reads, 'If you want to get better, tell the truth.' Veronica hopes this is an isolated incident, but someone seeks to destroy her career, connections, and life.<br/><br/>Veronica has a wild personal life. But the culprit manipulates and exposes Veronica's problems. They use bribery, lazy hacking, and a knife to get the job done. This plot won't hold your attention, but the final fight scene will. The culprit is a savage.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/onenightstandmurder.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/onenightstandmurder.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mydoctorssecretlife.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mydoctorssecretlife.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Notes of Autumn",
-    "review":"Event planner Ellie calls her friend, Leo, for an update on his new book. Leo is on the 17th book for the Parkington Manor novels but suffers from writer's block. Ellie walks into the lobby, sits at the piano, and plays. Her boss, Helena, breaks Ellie's concentration. Helena believes Ellie is easily distracted and doesn't make work her priority. Ellie promises to meet Mrs. Hill and give Mrs. Hill her undivided attention.<br/><br/>During the meeting, Ellie realizes she left the sample event menus in the kitchen. She sees her friend, Chef Matt, cooking something new. Matt dreams of opening a restaurant, and Ellie plans his investor's dinner to raise funds. Ellie leaves the kitchen to work with Mrs. Hill, but Helena cuts her off. Mrs. Hill waited for Ellie for over 10 minutes because Ellie got distracted by Matt. Helena fires Ellie.<br/><br/>Ellie goes home and calls Leo. Leo reminds Ellie that she never wanted to be an event planner. She went to Juilliard for piano. She needs to get away and clear her head. Leo laughs because his publisher suggested he do the same to release his writer's block. Ellie gets a bright idea. They can switch living spaces. Leo agrees to the swap.<br/><br/>Leo tells his friend Sam that he can't help with the Piano Ball's string quartet because he will take a trip. However, Ellie went to Juilliard and is a concert pianist. Also, she had experience planning events. Ellie tells Matt she is leaving for a few weeks, and his concern grows. Ellie promised Matt he could use her kitchen to create his investor dinner menu. Ellie eases Matt and says she will tell Leo about their arrangement. Leo lands before Ellie walks to her gate, and they exchange keys. They tell each other about Matt and Sam but don't go into details. A convenience swap will change their personal and professional lives forever.<br/><br/>Be prepared to laugh and fall in love with these two couples and friends. You will admire Ellie's friendship with Matt and Leo. When Matt meets Leo, it involves a giraffe, an alligator, and a spoon. As Sam meets Ellie, it includes a key, climbing, and a threat. They stumble, have near kisses, and protected hearts. The audience will wait with bated breath for them to achieve their dreams and loves. This movie begs for a part two, so we can witness their crazy weddings.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Murder at the Country Club",
+    "review":"It's Cassie's first day at Pinecrest Country Club as assistant manager. Her boss, Ava, welcomes Cassie and shows her around the property. It's Cassie's job to handle events and keep the members happy. Also, the club is hosting a golf tournament for their scholarship fund. Cassie inquires about her predecessor, Lisa. Ava says Lisa left without notice, closed her social media accounts, and left town. Cassie starts analyzing the books to prepare for the tournament, but it has a zero balance. Later, Ava decides to cut the worker's pay to cover the cost of the competition.<br/><br/>On Cassie's second day, she hears the club president, Frank, and Ava having sex in her office. She pretends to work when Frank comes out of Ava's office and says hello. Cassie's father, Brad, recommended Cassie for the job, but Frank had to convince the board to hire her. Cassie doesn't want to upset Ava but can't overlook Lisa's disappearance and the misappropriated funds. Something isn't right about this club, and Cassie will find the truth.<br/><br/>This movie takes a long time to get to the point, and sometimes the sound editing is awful. The killer is a busy bee who orchestrates a hit and run, a car accident, and a murder. The money laundering is blatantly apparent with open-door conversations, big-mouth caddies, and dumb criminals. The plot is slow, but the culprit is entertaining.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/notesofautumn.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/notesofautumn.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderatthecountryclub.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderatthecountryclub.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"How She Caught a Killer",
-    "review":"David walks to Linda after she graduates from the police academy. Linda joins David's precinct but becomes increasingly disinterested in the mundane cases. Linda stands outside David's office and eavesdrops on David's conversation with FBI Agent Neil. David wrote several letters to the FBI for assistance, and the FBI sent their rookie agent to tell David to stop. During their conversation, an officer reports another murder with the same signature. Now, they have enough victims to flag it as a serial killer.<br/><br/>Neil and David discuss the next steps for catching the killer, and Neil suggests putting someone undercover. David says his men don't have the training, but Linda enters the room. She reminds David that she looks like all the victims and that the office underutilizes her. Before David can reject Linda again, Neil agrees with her. Then, David lays down the ground rules. First, Linda can't go anywhere without her gun because the killer uses a hammer to murder his victims. Linda has to wear a wire. Finally, Linda can't get into anyone's vehicle. Linda promises to adhere to the rules and eagerly goes undercover. Can Linda catch the killer without losing herself?<br/><br/>This movie, set in the 1980s, relies heavily on police work because DNA testing was in its infancy. Sadly, the film reminds viewers that the ideas about prostitutes and their profession haven't changed. Also, Linda makes blaring mistakes. But remember, she is a rookie. This film emphasizes the taboo of sex work, the dark mind, and the advancement of DNA testing.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Retreat to You",
+    "review":"Rachel and Abby drive to Azuridge Wellness Retreat to help Rachel get over her ex-boyfriend. Rachel looks forward to relaxing and countless activities, but Abby sees it as adult summer camp. Rachel bribes Abby with candy to have a positive attitude.<br/><br/>Abby and Rachel go to orientation and learn about the numerous events. Then, Abby sees a ghost from her past. Her ex-best friend, Sean, and he notices her too. They were best friends until high school and had planned an ultimate graduation trip since they were 11. Abby waited at the bus stop for Sean on the first day of their vacation, but he never showed up or called. Abby leaves without signing up for an activity. So Rachel sees Sean's choices and adds their names. Rachel wants Abby to be open and honest about her feelings for the first time, but it will take a long trek in the woods for that to happen.<br/><br/>Abby describes herself as a realist, but the script presents her as a Debbie Downer. The audience doesn't understand why until an hour into the film. This late revelation gave the audience too much time to dislike Abby's attitude toward someone trying to be nice to her. However, don't give up on Abby. She makes a change. Viewers will get a well-deserved reform if they look beyond Abby's pessimistic comments.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/howshecaughtakiller.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/howshecaughtakiller.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/retreattoyou.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/retreattoyou.jpeg"
     }
   }
 ];
@@ -58,48 +58,43 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Amish Stud: The Eli Weaver Story",
+  "mtitle":"Buying Back My Daughter",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amishstudeliweaver.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amishstudeliweaver.jpeg"
-  }
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/buyingbackmydaughter.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/buyingbackmydaughter.jpeg"
 },
 {
   "option":"2",
-  "mtitle":"Murder Island",
+  "mtitle":"A Zest for Death: A Hannah Swensen Mystery",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderisland.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderisland.jpeg"
-  }
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/azestfordeath.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/azestfordeath.jpeg"
 },
 {
   "option":"3",
-  "mtitle":"My Doctor's Secret Life",
+  "mtitle":"Secrets Beneath the Floorboards",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mydoctorssecretlife.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mydoctorssecretlife.jpeg"
-  }
+    "smallImageUrl":"",
+    "largeImageUrl":""
 },
 {
   "option":"4",
-  "mtitle":"Murder at the Country Club",
+  "mtitle":"Monster High 2",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderatthecountryclub.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderatthecountryclub.jpeg"
-  }
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/monsterhigh2.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/monsterhigh2.jpeg"
 },
 {
   "option":"5",
-  "mtitle":"Retreat to You",
+  "mtitle":"Secrets in the Desert",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/retreattoyou.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/retreattoyou.jpeg"
-  }
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsinthedesert.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsinthedesert.jpeg"
 }
 
 
