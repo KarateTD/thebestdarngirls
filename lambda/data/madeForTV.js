@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Bad Romance: The Vicky White Story",
-    "review":"Vicky White wakes up at 5 a.m., eats breakfast, works at the Sheriff's Office, checks on her ex-husband, Thomas, and goes home. She tried to go to a bar to pick up guys, but no one noticed her. One day, Casey White enters her jail while awaiting sentencing. The Sheriff assigns Vicky to transport Casey, and they converse on the ride. Usually, Vicky starts the dialogue, but Casey is different. He asks about her life, potential suitors, and interests. They privately corresponded in jail until the judge sentenced Casey to 75 years in the state prison. And the state moves him.<br/><br/>Vicky sends Casey mail, makes provocative phone calls, and visits when she can. But he dashes her dreams of their life together after the board rejects his appeal. Casey writes a letter to the Sheriff's office confessing to the murder of Karen Lewiston. He agrees to the confession if they send him to Vicky's jail for his sentence.<br/><br/>Vicky can barely contain her excitement when she sees Casey returning to her jail. She sees her life getting brighter, but only within the jail walls. Vicky sells her house, buys a car and guns, visits an adult shop, and puts in for retirement. She won't let the state win. She plans to break Casey out of jail and move to Mexico to start a new and exciting life with the man of her dreams. Will they make it?<br/><br/>Vicky needed a break from the monotony. Some would say that Vicky had high-functioning depression. She was a 3-time employee of the year but didn't like or value herself. She was smart enough to come up with, sad to say, a fabulous plan. However, Casey ruined it by being needy and demanding. Vicky would have gotten away with breaking Casey out if Vicky didn't have Casey weighing her down. Vicky is a sad tale of a woman who wanted more but found it in the wrong man.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Would You Kill For Me? The Mary Bailey Story",
+    "review":"In February 1987, Willard Sims came home drunk and screamed at his wife, Veronica. Then, a shot rang out in a quiet community. Veronica calls the police and tells them she shot Willard. The police arrive with their guns drawn, but Veronica's story changes. She tells the police her 12-year-old daughter, Mary, shot Willard to protect her. Ella, Veronica's mother, tells the police that Mary acted under Veronica's command. After Willard dies, the police take Mary, Veronica, and Ella to the police station.<br/><br/>The police give the three women a gunshot residue test before separating them for questioning. Veronica points the finger at Mary. Ella says Mary did it too, but under Veronica's command. The lawyer promises Mary that she won't have to testify against her mother. The police let Ella go, put Mary in foster care, and arrest Veronica. Veronica and Ella give their version of the story during Veronica's trial. However, the judge can't ignore the blaring conflicts. Mary will have to give her version of the truth. What story will she tell?<br/><br/>Based on My Mother's Solider by Mary Elizabeth Bailey, the movie gives you three sides to a story. These stories are emotionally complicated, but it's nothing compared to Mary's. Her story tells viewers how abuse can impact the entire family. And seeing it through everyone's perspective is masterful storytelling. It's not a comfortable story to witness, but it is worth every minute.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/badromancevickywhite.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/badromancevickywhite.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/wouldyoukillformemarybailey.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/wouldyoukillformemarybailey.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Checkin' it Twice",
-    "review":"After Ashley arrives in Idaho Falls, she calls her partner, Trevor. He landed a huge deal but didn't include her. Ashley grows tired of his flaky attitude and dumps Trever over the phone. Before she meets with her family, she decides to buy some items at the duty-free store. Scott lands and answers a call from his girlfriend. She doesn't think their relationship is working out. Scott believes this journeyman team is his last chance at playing in the NHL. He chooses to get food at the duty-free store.<br/><br/>Ashley quips about having a bad day, and Scott understands. They both hand their cashier the credit card, and Ashley wishes him well. Ashley does a few family errands and tries to pay with a credit card, but it doesn't go through. The cashier reads the name on the card, and it says Scott. He confiscates the card, and Ashley leaves.<br/><br/>Scott meets with his team. The coach welcomes Scott, but teammate Pierre bothers Scott about his age. Scott offers to take them to dinner and pay to connect to the players. He gives the waitress his card, and it doesn't go through. The waitress sees the name Ashley on the card and keeps it.<br/><br/>Ashley and her family attend the first hockey game and see Scott on the ice. She yells at him to meet her after the game, but he can't hear her. After finding their respective credit cards, they share a cab to go home and discover they are going to the same place. Scott is staying at Ashley's parents' backyard cottage. While she focuses on growing her business in New York with a new partner, Scott has his eyes set on the NHL. Is what they need in front of them? Only time on the ice will tell.<br/><br/>So, the credit card swap doesn't make sense. Neither notices the cards are missing, so why wouldn't it work? Maybe they didn't have the correct PIN, but you never saw them putting it into the machine. However, the family steals the show. This movie is a steady start to the 2023 season, but it doesn't grasp your attention when the leads are on the screen. Viewers will watch for Ashley's family and grandma's eggnog.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Christmas By Design",
+    "review":"Margo runs up to Charlotte's apartment and invites her to go out for fun. Charlotte says no because her designs are behind. Charlotte designs clothes for her luxury clothing boutique, Alastair. She creates unique, high-end clothes with expensive fabric. Margo and Charlotte walk downstairs to the store as Charlotte gets a call from her mother, Olivia. Olivia updates Charlotte about the family and Elfcapades. It's the last year of the Elfcapades. Charlotte does a double take because the townspeople love the weeklong Christmas celebration. Charlotte informs her mother that the shop must come first and that she needs to focus on her designs.<br/><br/>Charlotte walks into work to find water leaking from the ceiling and her fashions water-damaged. The building owner tells Charlotte the pipe burst. It will take a week to fix. Charlotte doesn't think Alastair can recover from the damage if they miss the Christmas shopping window. Then, Charlotte gets a phone call from Roger Warwick. His store hosts a Christmas Design Contest. Margo put Charlotte's name in the contest for her.<br/><br/>Charlotte meets with Roger to learn more about the contest. His customers like affordable, inclusive, and wholesome clothing. If Charlotte decides to enter the contest, she must make one design for men and women to wear during Christmas following his store's aesthetics by Christmas Eve. The winner will have their design sold in his store and get a deal to design for him. This exposure is what Charlotte needs to save her company. Margo reminds Charlotte that Roger wants a wholesome family design, so being with her family could spark creativity. Charlotte will return to Brooksbend.<br/><br/>Charlotte daydreams during her drive and crashes into the truck. The truck driver, Spencer, gets out to inspect his vehicle and assumes the 'big city' girl is a texter. Spencer, a mechanic, offers to take Charlotte's car to his shop and fix it while she is in town.<br/><br/>Her family convinces Charlotte to come to the local diner and cook Christmas cookies. Charlotte chooses to go and spots Spencer there. They decide to work in the back room to retreat from the crowd. With several events ahead of him, Spencer asks Charlotte to be his buffer to scare off flirty women. Charlotte will do it only if he will be her model and sounding board for her design. They agree to help each other in life but unwittingly do it in love, too.<br/><br/>Inspired by Jingle Jammies by Robyn Neeley, this movie will have you rooting for the wrong character. It delivers the first kiss early and points out the misunderstanding. However, Charlotte and Spencer are both immature. Its redeeming qualities are Charlotte's and Spencer's character growth at the conclusion. If you need some background noise for two hours, watch this.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/checkinittwice.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/checkinittwice.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasbydesign.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasbydesign.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Handyman From Hell",
-    "review":"Maggie moves into her new home after separating from her estranged husband, David. Her brother, Michael, is happy to see David go, but her best friend, Harriet, can see the longing in Maggie's face. Maggie chose to redo the kitchen and let David design it, just like their business. Now, she has to find a contractor to finish the job.<br/><br/>After several crazy contractor interviews, Maggie picks one, but he never shows up. She loses her cat and finds a man, Nate, holding it. Nate says he does kitchen remodels. He offers to look at her plans and kitchen. Maggie hires Nate and fantasizes about him. But the heavenly man of her dreams has a revenge plan from hell. And he is ready to unleash it on Maggie and Michael.<br/><br/>This movie is the definition of plotholes. Somehow, Nate knows Maggie's password without any explanation. Then, he kidnaps someone, but you never see when or how. After not checking Nate's information, Maggie suddenly knows his last name. Maggie doesn't listen to the one sane person in this movie: Michael. The writer spent more time wrapping up Harriet's rescue efforts than Maggie's or Nate's sudden knowledge. Skip this movie unless you want more questions than answers.<br/><br/>1.5 out of 5 stars.",
+    "mtitle":"Stalked by My Stepsister",
+    "review":"Maddy runs with her boyfriend, Ian, to improve her time before applying to Superior University. Maddy hurries home because her stepsister, Devon, is back early from school in London. Maddy and Devon never met because their parents eloped in Las Vegas without telling them.<br/><br/>Maddy's mother, Laura, greets Maddy at the door and introduces her to Devon. Maddy calls her best friend, Gia, and updates her about Devon's creepy behavior. They all sit and eat dinner with Devon's father, Kent. Gia comes over during dinner to go out for coffee with Maddy. Laura politely insists that Maddy should invite Devon to come along.<br/><br/>The coffee outing didn't go well because Devon and Gia taunted each other. Devon reveals that Kent's ex-fiancé took her life before the wedding, and her biological mom died when she was 5. Laura's updated blueprints for the home take Devon back because her mom designed it. Laura promises not to make sweeping changes and asks Maddy to set the ladder up before Maddy goes to school. Maddy locks the ladder in place and meets Ian and Gia at school. Then, she gets a call from her mother. She fell down the stairs because the ladder collapsed. Maddy remembers Devon was home. She believes Devon tried to kill Laura, but can she prove it?<br/><br/>So, let's get this straight. Devon's father got married without telling her, moved her stepsister into her room without letting her know, took a family photo without her, and put her broken photo with her dad in a closet. And she was supposed to be ok with this. No, murder isn't the answer, but Devon had a reason to be upset. This movie checks plenty of boxes if you have your LMN bingo card handy. It has a shellfish allergy, asthma, a nosy friend, and a staircase. And the final fight scene will tickle you. This movie isn't a favorite of the Shocktober season, but it will make you chuckle inappropriately.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/handymanfromhell.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/handymanfromhell.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalkedbymystepsister.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalkedbymystepsister.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Binged to Death",
-    "review":"Kristen and her best friend, Terry, spend every moment together binge-watching reality TV dating shows. Three couples are their favorite because they have a lasting love. Sienna and AJ from the Shelter of Love have an unmatched passion. Quincy and Zion, from Ex on the Mind, are on-again and off-again. Hugh and Lexy from I'd Have Your Baby will take a bullet for each other.<br/><br/>Kristen monitors the three couples' social media when she and Terry hear reports that all three couples split. Kristen wishes the couples could be on a show to rekindle their love. Terry smiles and says maybe they can. Kristen kidnaps the six people and locks them into her impenetrable villa with all the accouterments. If the couples want to survive, they must play the game and fall in love.<br/><br/>This movie is a parody of reality TV but with a murderous twist. For a while, some couples don't realize this isn't a TV show. They play to the security cameras and talk about their brands. The premise is promising, but the writing falls flat. But it's a solid commentary about reality TV and its fans. Don't be surprised if you cheer for Kristen.<br/><br/>2 out of 5 stars.",
+    "mtitle":"Ms. Christmas Comes to Town",
+    "review":"Gale 'Ms. Christmas' Storms kicks off her show for the Holiday Shopping Center with her producer Amanda watching. Gale notices Amanda's anxious behavior and questions it. Amanda's sister, Emily, set her up on a blind date. Amanda offers to stay when she sees Gale reminiscing, but Gale tells Amanda to go and have fun.<br/><br/>Amanda goes to the coffee shop to meet a tall, dark, handsome man, Travis, with a blue peacoat. She finds him sitting at a table and grabs a seat. She quickly unloads her feelings and thoughts about blind dates, men, and love. Then, her date arrives and introduces himself. Travis laughs, gets up for the other man, offers his seat, and leaves the café.<br/><br/>Gale sits with Dr. Wilcox for a check-up. She discloses that she's felt rundown lately. Dr. Wilcox tells Gale her brain tumor returned and that Gale has 1 to 2 years left. Gale returns to the studio to discuss her future with network executive Elizabeth. Gale gives Elizabeth the diagnosis and exercises a term of her contract. She has the right to name her successor. Also, Gale wants to retire and make her last year exceptional by taking the show on the road. Elizabeth agrees to Gale's idea, but only if she gets a traveling nurse. Gale happily agrees.<br/><br/>Gale sits Amanda down and informs Amanda that she will take over the show after Gale retires. She will introduce Amanda to the audience as Ms. Holiday. Gale doesn't tell Amanda about her illness. However, she updates Amanda about the upcoming tour.<br/><br/>Elizabeth introduces Gale to her nurse, Travis, and gives Travis his cover story. Travis is uncomfortable with the cloak-and-dagger antics but doesn't have time to voice his opinions because Amanda interrupts their conversation. Travis sticks to his cover story, but Amanda doesn't believe him. Amanda tells Gale about meeting Travis for the first time, and Gale thinks it's adorable. However, Amanda refuses to date Travis. As the show hits the road, Gale will find love, Travis will discover his purpose, and Amanda will uncover her confidence. Can Gale keep her illness a secret?<br/><br/>This movie reminds viewers that you can pick your family and enjoy the holidays with them. Amanda is the daughter Gale never had, and they cherish their moments together. And you will love the whimsical driver. This film balances the tear-jerker moments with the funny ones.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bingedtodeath.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bingedtodeath.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mschristmascomestotown.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mschristmascomestotown.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"The Cowboy and the Movie Star",
-    "review":"Actress Isabella wraps up her TV show and meets with her manager, Rose. Rose tells Isabella that she got an audition for her first lead role in a dramatic film. The film is about a woman who owns a ranch. A few days later, Isabella partially gets the role. The director wants her to spend two weeks on Dreamscape Ranch, learning how to feed animals, rope, tie knots, and clean livestock. And he wants her to get on a plane and start today. She wants to risk it all and gets on a flight.<br/><br/>Hunter runs the Dreamscape Ranch with his farm hand, Walter. Hunter's family owed this ranch for generations. A local conglomerate wants to buy Hunter's ranch, but he refuses to sell. So, when a director offered to pay him to let an actress shadow him, Hunter said yes. He suspects the actress will work for one day, take a few selfies, get tired, and leave him alone.<br/><br/>Isabella walks to the ranch with a sparkly feathered hat and heels. She gives him her list, and he laughs because that's not what cowboys do. Walter sees Hunter is putting Isabella through the wringer. Walter tells Hunter to be a Southern gentleman because Isabella is working hard. Isabella gets a call from Rose. She has one week instead of two to learn everything on her list. She pleads with Hunter to stick to it. He remembers Walter's advice and decides to guide her, but she will be his guiding light to save the ranch.<br/><br/>Hunter is the typical gruff cowboy who desires to save his family legacy. However, Isabella isn't a princess, although she looks the part. She hates bug bites but isn't afraid to get dirty. Hunter's resolve changes with Isabella's perseverance and Walter's wise words. This change in dynamic saves this movie from becoming another ordinary romantic comedy. While it follows the formula, it's entertaining.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Under the Christmas Sky",
+    "review":"Kat waits impatiently with her friend, Jenna, for her optometrist. Her doctor doesn't have good news. Months ago, Kat was in an accident that caused a blind spot in her vision. Kat will never be able to go to space again without her 20/20 vision. Kat's eyes well up with the devastating update, and she meets her brother, Andy, outside. Andy reports that he quit another job because it wasn't fun. Kat tells her parents that she can't go into space, and they encourage her to stay in the space program because it's her first love.<br/><br/>Andy goes to the local planetarium to steal a poster from the display case to lift Kat's spirits. An employee, Celeste, catches him but gives Andy a head start to get away. Later, Jenna sees the flier and admits that her boss is friends with the exhibit supervisor, Renee. And Renee is looking for an expert to help with the exhibits. Kat relents and agrees to assist.<br/><br/>Kat aimlessly walks around the planetarium while texting and accidently bumps into a young girl, Lily. Kat apologizes and converses with Lily about meeting the curator, David. Lily tells Kat that David is her dad as David approaches. Lily loves space and asks Kat questions non-stop. Renee calls David and Kat into her office. Renee wants the exhibit to incorporate information kids can't find on their cell phones. Also, the exhibit needs to bring in visitors during the holidays. David doesn't believe the exhibit needs some razzle, but Renee doesn't give him a choice. Kat and David will work together to create an exhibit worthy of Christmas and the Sun. Will they make something more?<br/><br/>Yes, this story is about Kat and David falling in love. However, it's about Kat learning to deal with her blind spot. Kat sees her negative remarks reflected in Lily's statements about being unable to go to space because she is in a wheelchair. Also, the film has a subplot centered on Celeste and Andy's developing relationship. However, that storyline is about Andy finding a career to fulfill him. Kat and Andy have dreams but one must reimagine while the other discovers. This movie shares the sentiment of Christmas while teaching the audience.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecowboyandthemoviestar.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecowboyandthemoviestar.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/underthechristmassky.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/underthechristmassky.jpeg"
     }
   }
 ];
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Would You Kill For Me? The Mary Bailey Story",
+  "mtitle":"Never Been Chris'd",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/wouldyoukillformemarybailey.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/wouldyoukillformemarybailey.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/neverbeenchrisd.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/neverbeenchrisd.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Christmas By Design",
+  "mtitle":"Flipping for Christmas",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasbydesign.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasbydesign.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/flippingforchristmas.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/flippingforchristmas.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Stalked by My Stepsister",
+  "mtitle":"Sins in the Family",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalkedbymystepsister.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalkedbymystepsister.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sinsinthefamily.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sinsinthefamily.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Ms. Christmas Comes to Town",
+  "mtitle":"My Christmas Guide",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mschristmascomestotown.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mschristmascomestotown.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mychristmasguide.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mychristmasguide.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Under the Christmas Sky",
+  "mtitle":"Love at the Lodge",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/underthechristmassky.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/underthechristmassky.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveatthelodge.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveatthelodge.jpeg"
   }
 }
 
