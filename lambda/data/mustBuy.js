@@ -1,6 +1,18 @@
 var mustBuy = [
   {
-    "option": "1",
+    "option":"1",
+    "mtitle":"Gran Turismo",
+    "review":"Gran Turismo was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":"B0CFDHL2QM"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/granturismo.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/granturismo.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "Blue Beetle",
     "review": "<lang xml:lang=\"es-ES\">Jaime Reyes</lang> returns home to his family after finishing his pre-law degree. His family anxiously awaits his arrival, but his sister, Milagro, wants the family to be honest with <lang xml:lang=\"es-ES\">Jaime</lang>. Their father, Alberto, and mother, Rocio, tell Milagro to wait until <lang xml:lang=\"es-ES\">Jaime</lang> eats to give him the unfortunate news.<br/><br/>After <lang xml:lang=\"es-ES\">Jaime</lang> takes his first bite, Milagro tells <lang xml:lang=\"es-ES\">Jaime</lang> that his parents must sell their home. And Alberto had a heart attack. <lang xml:lang=\"es-ES\">Jaime's</lang> uncle Rudy blames Kord Industries for the gentrification. <lang xml:lang=\"es-ES\">Jaime</lang> promises to find a job and move the family to a big house on the hills.<br/><br/><lang xml:lang=\"es-ES\">Jaime</lang> and Milagro got a job cleaning pools to make ends meet. As they scrape gum off the pool furniture, <lang xml:lang=\"es-ES\">Jaime</lang> spots Veronica Kord and her private security, Ignacio, walking inside the home. <lang xml:lang=\"es-ES\">Jaime</lang> can't work up the nerve to ask Veronica for a job, but Milagro has no problems using Veronica's bathroom.<br/><br/>Jennifer pulls her aunt, Veronica, into a room and watches an ad for the One Man Army Corp, a.k.a. OMAC. Jennifer reminds Veronica that Jennifer's father, Ted, didn't want Kord Industries involved in weapons manufacturing anymore. Veronica demands that Jennifer back off. Jennifer walks towards the door to exit, and Ignacio tries to grab her, but <lang xml:lang=\"es-ES\">Jaime</lang> verbally defends Jennifer. Veronica fires <lang xml:lang=\"es-ES\">Jaime</lang> and Milagro. Jennifer tells <lang xml:lang=\"es-ES\">Jaime</lang> to come to Kord Industries, and she will find a job for him.<br/><br/><lang xml:lang=\"es-ES\">Jaime</lang> arrives with his cheering family in tow. <lang xml:lang=\"es-ES\">Jaime</lang> sees Jennifer running down an escalator and onto an elevator. He mirrors her movements and meets her downstairs. She hands <lang xml:lang=\"es-ES\">Jaime</lang> a burger container. She demands that he guard it with his life and never open it.<br/><br/><lang xml:lang=\"es-ES\">Jaime</lang> takes it home, and his family encourages him to open the box. They all play with the high-tech scarab inside. When <lang xml:lang=\"es-ES\">Jaime</lang> touches it, it scans his face, goes inside his body, and attaches to his spine. When <lang xml:lang=\"es-ES\">Jaime</lang> wakes up, he is on his parents' couch naked. <lang xml:lang=\"es-ES\">Jaime</lang> steals Rudy's car to get answers from Jennifer. After dodging a hail of bullets, Jennifer sits with <lang xml:lang=\"es-ES\">Jaime's</lang> family to explain. The scarab is a world-destroying weapon that chooses its hosts. Veronica needs its code to complete her OMAC project. With the scarab active, <lang xml:lang=\"es-ES\">Jaime</lang> is in danger. <lang xml:lang=\"es-ES\">Jaime</lang> wants Jennifer to remove the scarab now. The journey to expelling the scarab will make <lang xml:lang=\"es-ES\">Jaime</lang> experience the ultimate sacrifice, learn the truth about Nana, and uncover his destiny to become the Blue Beetle.<br/><br/>First, Nana is a gangster. Second, <lang xml:lang=\"es-ES\">Jaime</lang> is a reluctant hero. Finally, his family doesn't sit around waiting for <lang xml:lang=\"es-ES\">Jaime</lang> to save them. The graphics are stellar for a DC film. This color palette of the film reflects <lang xml:lang=\"es-ES\">Jaime</lang> and his family. It's fun, bright, and burst with excitement. The downside of this movie is the sound effects drown out <lang xml:lang=\"es-ES\">Jaime's</lang> suit's A.I., Khaji-Da. See this film on the best screen possible, and don't let the detractors keep you away. Also, there are mid and post-credit scenes.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "Mission: Impossible - Dead Reckoning Part 1",
     "review": "Days ago, Ethan got a message to find his ally Ilsa Faust and obtain the missing half of a cruciform key. After giving Ethan his instructions, Eugene Kittridge loses contact with Ethan. Kittridge sits in a classified meeting with Director Denlinger and his advisors and reveals information about Impossible Mission Force. Kittridge explains that experimental Artificial Intelligence meant to hack digital information went rogue and became self-aware and self-learning. They call it the Entity, the biggest threat to the world. They need Ethan to destroy it because other world powers know about the Entity and seek to harness it for global domination. Ethan must remain resilient against his past to secure the world's future. But can Ethan risk the ones he loves?<br/><br/>Based on the TV series, this Mission Impossible installment is the seventh in the franchise and lives up to the crazy stunts and spine-tingling drama of the previous six. The writers inject the right amount of humor at the most opportune moments. New fans don't need to see the previous movies to understand this film. The plot sticks to AI and Machine Learning fears in other films, but the action sets it apart. There are zero mid-credit or post-credit scenes. And yes, it ends on the perfect cliffhanger. Fans of the franchise won't be disappointed and will look forward to part two.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "My Big Fat Greek Wedding 3",
     "review": "Toula and Ian lost their fathers over the years. Toula tells Maria she and Ian are going to Greece to give her father's journal to his three best friends. The village of Toula's father, Gus, is having a reunion, and Toula hopes Gus's friends will be there. Toula and Ian arrive at the airport to find their daughter, Paris, waiting for them. Toula calls her brother, Nick, and ensures he is on his way with their aunts, Voula and Theia. As they board the plane, Paris tries to distance herself from her nosey family, but they invite her ex-boyfriend, Aristotle, to join them.<br/><br/>The family lands and instantly becomes awestruck with Greece. Mayor Victory meets them with coffee and brings them to Gus's hometown. Toula loves Gus's village, but only six people live their now. Mayor Victory sent an invitation to every family, but only the Portokaloses came. The reunion will be in a few days, but Victory believes everyone will come. The empty town discourages Toula, but Ian and her family give her faith to keep going. Toula vows to find Gus's friends and deliver the journal before returning to the States.<br/><br/>In case you were wondering, Yes. This movie has a Greek wedding in Greece. Like most adults, Toula enters the next phase of her marriage to Ian. They must care for their parents and pass the traditions to the younger generation. But Toula must balance between Gus's wishes and Ian's vacation. Ian must refocus her energy to have fun and not worry about Paris, the family, or the secrets. Yes, there are explosive secrets for the Portokaloses and the Millers. The family packs joy with their open, loving, and caring nature. They love each other no matter if they are shaving at the dinner table, swimming nude, or drinking. This film doesn't try to one-up the previous movies. It gels with them perfectly. For fans of the Greeks, see this movie in theaters.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Barbie",
     "review": "Barbie lives in her dreamhouse. She takes a waterless shower, eats her perfect pretend breakfast, and floats to her car. Barbie goes to the beach to relax, and Ken waits for Barbie to notice him. Ken asks to visit Barbie's house, and she invites him to her blowout party with choreography.<br/><br/>Everyone loves Barbie's party until Barbie asks them if they think about death. She laughs it off and continues dancing. In the morning, Barbie wakes up tired, her waterless shower is cold, and the pretend breakfast isn't edible. Barbie confesses that something is wrong, and the other Barbies tell her to go to Weird Barbie.<br/><br/>Barbie goes to Weird Barbie and tells her everything that happened. Barbie's little girl in the real world is sad, and it affects how she plays with Barbie. Barbie doesn't understand how this could happen because playing with Barbie made the lives of real girls perfect like her. Barbie heads to the real world with Ken stowing away in the backseat. She will find her girl, help her, and return to Barbieland with her body and mind in tack. However, the real world will change Barbieland in ways Barbie never dreamed, but Ken always imagined.<br/><br/>This movie starts with all the pink, butterflies, and glitter you expect from Barbie. It has all the Barbies you remember as a little child, even discontinued Barbies like Midge, Growing Up Skipper, and TV Barbie. When she enters the real world, she sees it isn't perfect. And little girls aren't thanking her for making a difference. Ken sees the human world and loves it. Men are working, driving big cars, and focusing on each other. The real world has a lasting effect on both of them.<br/><br/>As the trailer says, this film is for people who love and hate Barbie because it focuses on Barbie's issues while addressing her contributions. During the trip to Barbie, Barbie talks to her owner, Sasha, and Sasha's mother, Gloria. Gloria gives a speech to Barbie, who is having an existential crisis, and it will make you sigh with understanding and exhaustion. You leave this film with your eyes open, your feelings heard, and loving Barbie again.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/barbie.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/barbie.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Transformers: Rise of the Beasts",
-    "review": "Noah prepares for a job interview in 1994 but notices something is wrong with his little brother's hand. Noah runs to his job interview after the hospital refuses to treat Chris. Unfortunately, the interview is over. They got word from Noah's former commanding officer. Noah is a tech whiz and a soldier but not a team player.<br/><br/>Noah returns home with Chris feeling defeated. Noah needs to make money now to help his family, so he takes a shortcut and uses his technical expertise to boost cars. He finds a beautiful Porsche and uses a Jimmy to get inside. Noah turns on the radio and hears a voice yelling for Mirage to roll out. The vehicle puts itself in gear and starts a high-speed chase. After a wild ride through the streets of New York, the car morphs into Autobot Mirage. Mirage tells Noah to be cool because the others are coming and are not fond of humans.<br/><br/>Across town, Elena interns at a museum. Her boss, Jillian, brought in a statue that she claimed to be Egyptian. But Elena thinks it's much older. Elena sees Jillian's lab tech badge and uses it to gain unauthorized access to the examination equipment. As she scans the item, it breaks apart and reveals something inside. She doesn't see a stream of light emanating from it, but Optimus Prime does.<br/><br/>Optimus Prime is in awe of the light. He knows it comes from the Transwarp Key. The key opens portals through time and space. Optimus can use it to send himself and the Autobots to their home world, Cybertron. He calls the Autobots - Bumblebee, Mirage, and Acree - to plan a way into the museum. The Autobots catch Noah trying to sneak out as they discuss ways to retrieve the key. Mirage gets an idea. They can have Noah get the key for them. Optimus isn't keen on the idea, but he knows Scourge can see the beacon too.<br/><br/>Scourge leads the Terrorcons and works for Unicron. Unicron fuels himself by eating planets. Unicron sent Scourge to find the key to become unstoppable. The last time Scourge saw the key was on the homeworld of the Maximals. Their leader, Apelinq, sacrificed himself so the Maximals, including Optimus Primal, could escape with their greatest technology: the Transwarp key. Optimus knows it's a matter of time before Scourge comes to Earth looking for it.<br/><br/>Noah enters the museum, and Elena confronts him. The Terrorcons shoot a hole in the museum as they argue over the artifact. After battling on the museum's front lawn, Scourge destroys Bumblebee's spark and leaves with the key. However, they only got half the key. She believes the other half of the key is in Peru. Elena, Noah, and the Autobots head to Peru, with Scourge not far behind. Who will win the battle of the key?<br/><br/>Inspired by Transformers, this movie takes place after Bumblebee but serves as a prequel to the Transformers movie series. The intro gives the audience a glimpse of the Maximals and their mission before coming to Earth. However, the plot assumes you know the story of the Transformers. While Mirage delivers comic relief, the storyline focuses on brotherly relationships. The animation is crisp and not offputting. Luckily, the writers didn't add an unnecessary romance. Be prepared for a surprise in the final scene that will push this franchise into the future. Also, there is one mid-credit scene. This film is as enjoyable as Bumblebee but doesn't drag like the other Transformers films. It is a rejuvenated addition to the series.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0C5PLKW5X"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/transfomersriseofthebeasts.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/transfomersriseofthebeasts.jpeg"
     }
   }
 ];
@@ -71,16 +71,16 @@ module.exports = mustBuy;
 
 /*  For Must Buy later  
 
-    {
+{
     "option":"1",
-    "mtitle":"Gran Turismo",
-    "review":"Gran Turismo was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "mtitle":"The Holdovers",
+    "review":"The Holdovers was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":"B0CFDHL2QM"
+      "re":""
     },
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/granturismo.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/granturismo.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theholdovers.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theholdovers.jpeg"
     }
   }
 
@@ -184,4 +184,6 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pawpatrolmightymovie.jpeg"
     }
   }
+
+
 */
