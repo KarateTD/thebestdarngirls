@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Never Been Chris'd",
-    "review":"Liz and Naomi went to high school and college together and started an app called Best Pal. Liz wants to expand but hasn't been able to find investors. Naomi tells Liz not to worry because the holidays will provide a break and clarity.<br/><br/>Liz and Naomi wonder if they will run into old classmates while in town but doubt it. Then, they run into their crush, Chris Silver, at the local coffee shop. Chris was the most popular guy in school. And any girl he dated became sought-after overnight. They called it being 'Chris'd.' It never happened to them because they felt Chris was out of their league. Chris hopes to see them again and leaves.<br/><br/>Later, they go to a pub and find Chris at the bar with the cool kids. As Liz feels like an insecure 16-year-old again, Naomi relishes the newfound attention. Before Chris leaves, he invites them both to a party. Soon, Liz is redoing her high-school years with the cool kids, and Naomi is dating Chris. They pretend everything is great. However, Liz and Naomi have been holding back their feelings for years. It's time for them to get brutally honest. Can their friendship survive?<br/><br/>Hold on to your seats Hallmarkies, because this movie packs a season's worth of drama into 2 hours. For some, this movie is a far cry from the Hallmark movies they've come to love. For others, it's the change you have been waiting for. This film isn't the stereotypical boy-meet-girl holiday movie. It's about a co-dependent relationship spanning decades. Liz and Naomi think they secretly do things to help each other. However, both live in fear and insecurity. For the first time, a Hallmark holiday movie will make you clutch your pearls. This Hallmarkie is here for it, but the traditionalist may not be.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Devil On My Doorstep",
+    "review":"Chloe settles into her new dispatching job and meets two of the drivers, Rita and Theo. Rita calls because she won't get the package delivered on time. Chloe contacts Theo to help. Theo agrees to ship the package. The next day, Rita calls because her client's package is missing from her truck. Chloe calls all the drivers to check for it, and Theo has it. The package is for Natasha, and Theo delivers it. Out of curiosity, Chloe looks up Natasha online and discovers that Natasha is an influencer. Chloe becomes obsessed overnight. Now Chloe will do anything to be Natasha's best friend.<br/><br/>Delivery driver Theo meets the new employee, Chloe. During his route, Chloe asks him to deliver a package for Rita. Chloe agrees, and Theo brings the package to Natasha. Theo is instantly smitten with the mysterious woman. He sneaks into Rita's truck the next day and takes Natasha's package. When Chloe calls about a missing package, Theo pretends to find it and offers to deliver it to Natasha. He will find a way to make Natasha love him.<br/><br/>Theo and Chloe find out about Natasha's book signing, so they both attend. Chloe spots Theo and hides in the bathroom stall. Soon, Theo sees Chloe hanging around Natasha. Chloe thinks Theo is a dangerous stalker and will stand by Natasha's side to keep Natasha safe. Theo believes Chloe is unhinged and will do anything to protect the woman he loves. With two stalkers and one victim, who will be the last one standing?<br/><br/>Natasha, an influencer, has two types of stalkers. Theo is a nonintimate stalker. Chloe is a celebrity stalker. When they disrupt each other's fantasies, Chloe and Theo become dangerous to Natasha and each other. The plot is wild, but the ending leaves a disturbing part two possible.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/neverbeenchrisd.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/neverbeenchrisd.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/devilonmydoorstep.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/devilonmydoorstep.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Flipping for Christmas",
-    "review":"Before Abby meets with her potential client, Antonio, she gets a phone call from her sister, Claire. Claire's grandfather-in-law, Frank, passed away. Frank left his home to Claire's husband, John, and Claire wants Abby to flip the house to sell it. Abby says she will try and hangs up the phone.<br/><br/>Antonio wants to gentrify a downtown area. He knows there will be resistance, but Abby is on board and willing to work on the holidays. Antonio respects Abby's drive and makes her the real estate agent. Abby joyfully jumps with her assistant, Jessica, and leaves to see Claire.<br/><br/>Abby, Claire, and John arrive at Frank's home, and Abby sees John and Claire whispering when Bo approaches. Claire admits that John is a co-beneficiary of the home with Bo, Frank's handyman. Bo wants to turn the home into a B and B, not flip it. Bo and Abby immediately disagree.<br/><br/>As Bo and Abby work together, Abby learns more about the small town and grows to love its charm. Abby and Bo leave a café, and she spots a 90-acre lot for sale. Abby calls Jessica to get a progress report on their deal with Antonio. Then, Abby mentions the lot. Jessica takes the initiative and tells Antonio about the space. He decides he wants to build on it and gentrify the small town. Can she fix it before everything falls apart?<br/><br/>This movie wraps its few poignant moments in long lulls. The plot follows the story of an uptight, overworked city woman falling for the laid-back small-town guy. This movie offers carefree laughs and advice. Everything else is predictable. This film will not be a favorite of the season, but it rounds out the holiday movie lineup.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Everything Christmas",
+    "review":"LJ's boss, Randy, drops a new account on her desk and expects her to work through the holidays. LJ reminds Randy that she put in PTO to attend Yuletide Springs. A town that celebrates Christmas every day with a wishing tree. LJ and her grandmother wanted to visit. However, her grandmother died. LJ leaves a Post-It with 'I Quit.' She exits with no plans to return. LJ convinces her friend, co-worker Tori, to come. Tori is too cautious to quit her job.<br/><br/>LJ hears strange noises from her car before it dies. They wait for help, and a tow driver, Carl, with antlers on his truck, pulls over to help. Carl and LJ instantly connect. He checks LJ's car and determines it needs a fan belt. He doesn't have the part and asks LJ and Tori to wait while he drives into town to get it. After 45 minutes of waiting, Tori's concern grows. Chris Kringle exits the truck and offers to fix their vehicle. He happens to have the part they need. Chris leaves as Carl returns. He feels poorly about not fixing LJ's car, so he invites her into his town to celebrate the holidays.<br/><br/>LJ, Carl, and Tori find Chris performing at the community center. Tori wants to know how his illusions work, but Chris won't disclose it. Later, Chris gives them gifts with zero explanation. He gives Tori a stamp and LJ a gift voucher. They take the confusing gifts with a smile and leave town. LJ and Tori believe this is the last time they will see Carl or Chris again, but this is only act one.<br/><br/>This movie focuses on holiday magic, but it isn't childish. The plot explains Chris's abilities in the conclusion. However, viewers will hope the magic is authentic. Each hint comes full circle and brings LJ closer to Yuletide Springs and love. She isn't using love to escape her humdrum life. LJ left everything behind in the first five minutes. She is a woman on a mission. This movie entertains, but it's easy to guess the conclusion.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/flippingforchristmas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/flippingforchristmas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/everythingchristmas.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/everythingchristmas.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Sins in the Family",
-    "review":"Zara speculates something is bothering her daughter, Rose, and questions Rose about it. Rose tells her mother that her biology class is learning about genetics. And it made Rose think about her birth parents. Zara avoids the topic by taking Rose out of school and to a fair with Rose's father, Max. Rose's friend, Chloe, tells Rose to bring up the topic again. Then, they noticed the new guidance counselor, Ms. Haley Addams. Haley will meet with all the students to get to know them.<br/><br/>Rose sits with Haley and reports that school and her friendships are fine. However, she visibly becomes uncomfortable talking about her home life. Rose leaves, but Haley invites Rose for another office visit. Rose likes Haley, and they hang out after school. When Rose returns home late, Zara meets them at the front door in a rage. Haley tells Zara that she is Rose's biological mother. Zara wants to find Rose's adoption records and get a DNA test. Until then, Zara wants Rose to stay away from Haley. Zara investigates Haley and learns she is a con woman. However, the test results prove Haley is Rose's mother. She worries that Haley faked the test and will keep digging. Zara has no idea the truth she will unearth.<br/><br/>This film solves a common LMN problem by requesting a DNA test early. Nevertheless, Zara waits too long to report Haley to Rose's school. This delay allowed Haley 8 hours of uninterrupted access to Rose to corrupt her mind against her parents. The writers focus on Haley, but Haley is not the family's biggest evil. The plot takes the viewer down a path of predictability to trick you.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Mystery on Mistletoe Lane",
+    "review":"Heidi moves into a new home to start her job as director of the town's historical society. Her ex-husband, Robert, will bring their kids, Annie and Garrett, to join Heidi later. When Heidi questions the lack of decorations at work, Linda informs Heidi that David is bringing them down. Heidi scoffs at the previous director's decorations. David defends the director's fiscal spending because he was the director. Heidi gets a call from her movers. A mover tripped on a floorboard and knocked a picture off the wall, causing a hole. David offers to fix the floor and the wall.<br/><br/>David follows her home and fixes her floor. Heidi looks into the hole in the wall and finds a wooden reindeer with D3 on the bottom. Heidi concludes that the previous owner was a Christmas lover and hid items in the home. Garrett looks through his new bedroom and finds a note in a dresser drawer. It's step one in a scavenger hunt. Garrett and Annie decide to stay with Heidi to finish the hunt and find all the clues without telling Heidi. Heidi wants to discover the home's original owner. The family will uncover a secret in David's past, eight clues, and Mistletoe Manor.<br/><br/>This film is what viewers expect from H.M.M.. It has a compelling mystery with Christmas whimsy and flare. Annie and Garrett look around the home for clues as Heidi and David use their skills to find the owner. The mystery comes full circle after their stories collide. Annie and Garrett appreciate their mom through the clues. Also, David must repair his relationship with his dad. The love story between David and Heidi is barely noticeable because the mystery takes center stage. With the proper writing, this could be a yearly series.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sinsinthefamily.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sinsinthefamily.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysteryonmistletoelane.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysteryonmistletoelane.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"My Christmas Guide",
-    "review":"Peyton trains guide dogs for people with visibility issues. While she trains Max, Peyton sees a man, Trevor, pick up his daughter, Annie, from school. She watches him put away his collapsible cane and place his hand on Annie's shoulder. Later, Peyton leaves a flyer at the school for Annie.<br/><br/>Professor Trevor walks to the university to teach classic literature after dropping Annie off at school. He bumps his head on construction and demands to speak to the owner. He apologizes and leads Trevor to the closest staircase but explains the repairs will take time and change often around the building. After work, Trevor returns home. Annie sees the bump on his head, and he explains what happened. Annie wakes up and tricks Trevor into going to Peyton's business.<br/><br/>Peyton thinks a dog will help Trevor tremendously and sits with Annie and Trevor to learn more about his vision, his needs, and Annie. Trevor rapidly lost his sight two years ago. Trevor thinks his cane works fine, but Peyton says a dog can help Trevor avoid obstacles before his cane can detect them. She decides that Max is the best fit for Trevor and makes appointments to prepare Trevor to work with Max. Peyton will help Trevor see the world, but he will make her see herself.<br/><br/>The movie starts with Peyton and her boyfriend, Chad, who quickly becomes a non-factor. Also, your blood will boil after Annie defends herself in school and the principal threatens her with suspension. It's beautiful to see how Trevor and Peyton make each other stronger. This film follows the rom-com script but has a heartfelt lesson for the audience.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Murder Runs in the Family",
+    "review":"Wren receives a distressing call from her sister, Kayla, and drives home to help. Kayla says their parents, Paul and Julie, constantly fight, and she can't take it. Wren advises Kayla to stay at a friend's home for the night. Wren hasn't been home since she left her ex-fiancé, Oliver, standing at the altar.<br/><br/>Wren exits her vehicle, and her parent's neighbor, Mia, accosts her. Wren puts Mia in her place and enters the home to find Julie dead in the bathtub. The news leaves Paul and Wren's brother, Brody, distraught.<br/><br/>Wren picks up Kayla in the morning and gives Kayla the horrible news. Wren answers a knock and sees Oliver there for Kayla. Oliver works for Paul and remains close to the family. During their walk, Wren runs into an old friend, Gina. Gina works at Julie's flower shop and asks Wren to visit for information.<br/><br/>Wren goes to the shop but hides when she sees Paul leaving while arguing on the phone with someone. Gina tells Wren that Mia and Julie were business partners before Julie's death. However, Julie suspected Mia of wrongdoing and took the shop's key from Mia. Wren believes someone murdered Julie. Can she prove it after Paul got the body cremated?<br/><br/>This family's history will need your undivided concentration. The plot has adoption, blood relatives, affairs, and too many secrets. Wren isn't trying to play detective in the beginning. She stumbles across clues just like Julie's body. The plot moves slowly, but thankfully, a nosy neighbor spices things up. The motive is outlandish but provides the audience with an unassuming culprit.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mychristmasguide.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mychristmasguide.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderrunsinthefamily.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderrunsinthefamily.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Love at the Lodge",
-    "review":"Emma and her assistant tirelessly worked to create a company retreat for the partners at the law firm. Emma's boss, Ms. Hollings, hints that Emma will get her coveted promotion to partner if the trip goes well. Emma sent a box of necessities and conference room specifications to the Sunset Lodge. She plans to get there early to set up and ensure everything is perfect.<br/><br/>Liam chops wood as Mr. Powers approaches. For months, Mr. Powers tried to entice Liam to sell the lodge, but Liam refused. Today is no different. Liam gathers his team to double-check the menu and activities for the upcoming corporate retreat. If this event goes well, they can open the lodge to a new market. But if it goes poorly, Liam will have to sell.<br/><br/>Liam drives to the local bus stop to pick up Emma, and she is unhappy with the golf cart ride on a bumpy road. She wants her box, and Liam ignores her inquiries because he can't find it. She realizes Liam is the owner, and he promises to find her missing box. Liam takes Emma to her cabin and warns her the meteorologist predicts 10 inches of rain. So, the roads will close.<br/><br/>Emma calls Ms. Hollings in the morning to update her on the retreat. However, Ms. Hollings heard about the rain and canceled it. But she tells Emma not to leave. Ms. Hollings tells Emma that her cousin, Mr. Powers, has tried to buy that property for months. She wants Emma to stay and convince the owner to sell it. If she does, the promotion is a guarantee. Emma will slip into Liam's mind and try to change it, but will he do the same to her heart?<br/><br/>Emma takes planning to a scary level. When she tries to fix the rain, it's one step too far. This movie does have a romance subplot between lodge employees, but it's not necessary. However, the box comes full circle. This film is a solid way to spend two hours, but it won't be a favorite.<br/><br/>3 out of 5 stars.",
+    "mtitle":"The Santa Summit",
+    "review":"It's the last day before the winter break, and Jordin, an art teacher, scrolls through social media for inspiration. Instead, she sees her ex-boyfriend, Nico, with his new girlfriend. Jordin runs to her friend, Stella, with a fresh idea. They should attend the Santa Summit to have fun and try new things. Stella says no, but their other friend, Ava, overhears. Ava, a math teacher, wants to go because her crush, Mr. Ben, will attend. Ava and Jordin beg Stella to come. They know Stella is unhappy because the board changed her from teaching music to English. Stella caves and says yes.<br/><br/>Liam picked up his life and moved after his job left him unfulfilled. Now, he works for his brother, Mac, to secure contracting work. Liam loves small-town life, and the Santa Summit is a thrill. Before they go into the first bar, Liam sees a wallet with a house embroidered on the front. Liam sees a woman, Jordin, frantically looking at the ground. He asks if she is looking for a wallet, and she breathes a sigh of relief. Dressed as Santa with white beards, they discuss movies, music, and food. Liam offers Jordin a drink inside, and they walk into the bar. A group of people bumps into them and unknowingly separates them. The never saw each other's face or got the other's name. They will go through the entire Santa Summit to find each other. Will their search be fruitless, or true love?<br/><br/>First, the Santa Summit looks like a fun time. Second, you will get a laugh out of Liam and Jordin's near misses. But they are not the only lovers to follow. Ava continues to look for Ben. Stella needs to find her groove. Yes, this film is a rom-com, but it stands out.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveatthelodge.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveatthelodge.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesantasummit.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesantasummit.jpeg"
     }
   }
 ];
@@ -56,50 +56,6 @@ module.exports = madeForTV;
 
 /*
 
-{
-  "option":"1",
-  "mtitle":"Devil On My Doorstep",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/devilonmydoorstep.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/devilonmydoorstep.jpeg"
-  }
-},
-{
-  "option":"2",
-  "mtitle":"Everything Christmas",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/everythingchristmas.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/everythingchristmas.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"Mystery on Mistletoe Lane",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysteryonmistletoelane.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysteryonmistletoelane.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Murder Runs in the Family",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderrunsinthefamily.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderrunsinthefamily.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"The Santa Summit",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesantasummit.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesantasummit.jpeg"
-  }
-}
+
 
 */
