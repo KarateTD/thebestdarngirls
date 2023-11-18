@@ -1,6 +1,15 @@
 var videoOnDemand = [
 	{
 		"option":"1",
+		"mtitle":"Sworn Justice: Taken Before Christmas",
+		"review":"After years of deep cover, Sophie loses her badge after she gets too close to her mark, Nico. She couldn't shoot Nico, and Nico stabbed her boss, Dave, in the neck. Nico vows to get his revenge from prison. Today, Sophie rides the desk to get her badge back. This year, Sophie has more time to spend with her mother, Laila. Laila checks if Sophie will make the Christmas Sunday service tomorrow. And Sophie says yes.<br/><br/>Sophie gets a phone call from her lover, District Attorney Ty. She worries he wants to define the relationship before the holiday. However, it's a digitized voice on the phone. The caller says they have Ty and will kill him if Sophie doesn't deliver $5,000 per their instructions.<br/><br/>Ty leaves work until he gets a phone call from an unknown caller. They have Sophie, and they will kill her if he doesn't pay $5,000. And they send a photo of Sophie drugged on a mattress to prove it. These two are on a mission to save the other and don't know it. Will they discover the truth or give in?<br/><br/>This film is something you have to watch from the beginning. There are several moving parts, back-handed dealings, and several bad guys. The fight scenes are well choreographed and use everyday objects to make it believable. And be prepared for a cliffhanger that will leave some stunned. But fans of the genre will suspect it.<br/><br/>3.5 out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/swornjusticetakenbeforechristmas.jpeg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/swornjusticetakenbeforechristmas.jpeg"
+		}
+	},
+	{
+		"option":"2",
 		"mtitle":"Christmas Angel",
 		"review":"Pop singer Angel St. James wraps up her performance and interview on The Tamar Braxton Show and rushes home to meet her fiancé, super producer E.J., for their anniversary. Angel enters her house to find it empty. E.J. forgot about their anniversary and can't leave. He tells Angel to buy whatever she wants at his expense, and Angel hangs up. She tears up her tickets to Aspen and gets in the car to drive to her hometown.<br/><br/>Angel attempts to send a text and runs off the road. A tow driver, Calvin, pulls over to assist her. She offers to pay extra to have him fix it now, but he can't because her car is electric. He knows an Airbnb she can use until he fixes her car. Angel agrees and gets comfortable. Calvin and his daughter, Liz, visit Angel in the morning. Angel learns that Calvin is a widower and paralegal with several properties, including her Airbnb. His sister-in-law, Natalie, helps with Liz, but Liz still misses her mom. Angel gets inspiration from Liz and considers ending her relationship with E.J.. But the break-up could have a devastating effect on her career. Is Angel willing to risk it all to have everything?<br/><br/>This movie starts with the typical rom-com plot. However, the script adds more drama to wet your thirst. Natalie blackmails, E.J. returns, and Calvin rages. Also, Liz acts her age and isn't a brat. This film also provides catchy and original music. This movie is fun but for teens and up.<br/><br/>4 out of 5 stars.",
 		"image":{
@@ -9,7 +18,7 @@ var videoOnDemand = [
 		}
 	},
 	{
-		"option":"2",
+		"option":"3",
 		"mtitle":"Heart for the Holidays",
 		"review":"Rachel meets with her assistant, Jenna, to plan Rachel's hectic schedule. Rachel leaves to meet with a client but has a heart attack in the client's lobby. Rachel's doctor gives her grim news. She has myocarditis and needs a transplant. Later, Rachel's doctor tells Rachel that they found a heart. A woman, Angela, was in a car accident in Cheverly and won't make it. Rachel calls a car to take her to Cheverly Medical Center.<br/><br/>Rachel walks around the hospital for a cell signal to call Jenna. She gets one bar but doesn't realize she is in a woman's hospital room. It's Angela. Rachel holds Angela's hand, and Angela asks Rachel to promise that Rachel will love deeply and with all her heart. Rachel promises, and Angela dies. Rachel wakes up with Angela's heart beating in her chest.<br/><br/>Rachel continues to make phone calls as she gets better. She takes her daily trips around the hospital but nearly falls. A man, Scott, runs to her aid and fixes her medical I.V. pole. After a revealing meet-cute, Rachel runs into another transplant patient, Amy. Amy received Angela's kidney. When Amy learns Rachel has Angela's heart, Amy considers Rachel her sister. Scott told Amy that Rachel took his breath away. However, Rachel wants to leave Cheverly and return to LA for work. Rachel tries to escape, but her heart flutters. Something keeps holding Rachel back, and it's more than love.<br/><br/>The beginning will bring you to tears as Angela drifts away with a few parting words to a woman she will save but never know. Afterward, Rachel's connection to Amy garners the viewer's attention, but the film is the typical rom-com plot. Audiences will phase out when Rachel and Scott are on because you know their ending. However, you will melt when Rachel and Amy bond over the carnival, Angela, and hair. Their sisterly relationship is the storyline's driving force.<br/><br/>3.5 out of 5 stars.",
 		"image":{
@@ -18,7 +27,7 @@ var videoOnDemand = [
 		}
 	},
 	{
-		"option":"3",
+		"option":"4",
 		"mtitle":"A Wesley Christmas Wedding",
 		"review":"This year, the Wesleys have a lot to celebrate. Sylvia and Bryan made time for each other and traveled throughout the year. Chris and Trina added a beautiful baby boy to their family, and Ryan and Todd got engaged. Marcus moved in with Gloria while they attended group therapy for veterans. Cydney is ready to leave the road and return home to celebrate the holiday and nuptials.<br/><br/>Trina and Chris's daughters, Kennedy and Taryn, arrive from college with a surprise. Kennedy brought her new boyfriend, Rico, to spend the holidays with them. Taryn dislikes Rico but doesn't speak up to their parents. If Taryrn tells their parents Rico is a bum, Kennedy will spill Taryn's secret.<br/><br/>The Wesley women meet at the ballroom before Todd and Ryan's engagement party. They can't believe Ryan's mother, Diana, changed the decorations. During the party, Diana focuses the party on her but hates the ghastly holiday-themed decor. The MC calls for friends and family to make toast for the engaged, and Todd's ex-wife, Janelle, grabs the microphone to introduce herself as Todd's wife. She admits that she never signed the papers and deserves everything Todd is doing for Ryan. Ryan overhears them and gives Todd his ring back. Will there be a Wesley Christmas Wedding?<br/><br/>This sequel provides drama and hilarious moments with the Wesley Bunch and DC Go-Go. The heads of the family have found their groove, but Sylvia must deal with another woman in the family. Diana has a vision for Ryan's wedding and won't let anyone, including Ryan, stand in her way. The script covers PTSD and postpartum depression honestly and respectfully. This movie, like its predecessor, balances these series topics with pearl-clutching humor. You should watch the first before viewing the second to familiarize yourself with the family and their friends.<br/><br/>5 out of 5 stars.",
 		"image":{
@@ -27,21 +36,12 @@ var videoOnDemand = [
 		}
 	},
 	{
-		"option":"4",
+		"option":"5",
 		"mtitle":"Stay Out",
 		"review":"Donovan kisses his wife, Simone, before she leaves the house for her flight. Donovan sits at his desk and converses with his co-workers, Lauren and Graham. After their meeting, Donovan gets a phone call from a lawyer. His aunt Velma passed away ten years ago. Donovan hasn't seen his Uncle Rufus and Aunt Velma since he was young. He knew Rufus died in 1968 but had no idea about Velma's passing. Rufus and Velma had property filled with personal items. So, Donovan has to visit Georgia to finalize the estate.<br/><br/>Donovan arrives in Blue Ridge, Georgia, and most locals don't hide their disdain. Donovan decides to sell the home but can't find a real estate agent to take on the property. He visits the property and finds his old toys, a box of toothpicks, and a chicken's foot. Donovan looks up and sees Rufus in front of him. Rufus possesses his body. In 1968, two men lynched Rufus because he wouldn't give up his home. Before Rufus died, he put a voodoo protection spell on his family. Now, his spirit has taken over Donovan's body to seek revenge on those who killed him and their children. Is anyone safe from Rufus's wrath?<br/><br/>This movie isn't a horror or a thriller. It's a paranormal revenge story that allows you to cheer for the 'villain.' Rufus's targets are deserving so you won't have a problem with the bloodshed. If you watch closely, Rufus isn't the only ghost seeking vengeance. Velma wants justice. If you want something to watch for the Halloween season but with less gore, this is your film.<br/><br/>3 out of 5 stars.",
 		"image":{
 			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stayout.jpeg",
 			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stayout.jpeg"
-		}
-	},
-	{
-		"option":"5",
-		"mtitle":"If You Were The Last",
-		"review":"For three years, astronauts Adam and Jane aimlessly float in space. Jane doesn't believe that NASA is looking for them but Adam has hope. They have a goat, chickens, pop tarts, and weed to keep them busy. Jane questions Adam about a milky substance she stepped on next to the garden. He apologizes because he thought he cleaned it up. She admits to pleasuring herself, but only in her bedroom, not in front of the chickens and their food. He tosses out the idea of them sleeping together. She laughs, says no, and gives three reasons why not. Will they give in, or will they return first?<br/><br/>This movie is The Martian, with simple graphics and two people. And it's The Mountain Between Us but funny. Adam convinces Jane to watch The Princess Bride and listen to country music while line dancing. And Jane gets him to watch Alien in outer space and sing Lionel Richie. The ending is predictable, but the journey is thrilling. The director displayed their relationship through a series of montages and running gags. The comedy will keep you watching, but the sweet predictability loses your interest by the conclusion.<br/><br/>3.5 out of 5 stars.",
-		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ifyouwerethelast.jpeg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ifyouwerethelast.jpeg"
 		}
 	}
 ];
@@ -56,6 +56,16 @@ module.exports = videoOnDemand;
 
  	/*
 	 
+{
+	"option":"1",
+	"mtitle":"Dashing Through The Snow",
+	"review":"<br/><br/>* out of 5 stars.",
+	"image":{
+		"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dashingthroughthesnow.jpeg",
+		"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dashingthroughthesnow.jpeg"
+	}
+}
+
 
 	
 	*/
