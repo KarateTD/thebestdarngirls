@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Devil On My Doorstep",
-    "review":"Chloe settles into her new dispatching job and meets two of the drivers, Rita and Theo. Rita calls because she won't get the package delivered on time. Chloe contacts Theo to help. Theo agrees to ship the package. The next day, Rita calls because her client's package is missing from her truck. Chloe calls all the drivers to check for it, and Theo has it. The package is for Natasha, and Theo delivers it. Out of curiosity, Chloe looks up Natasha online and discovers that Natasha is an influencer. Chloe becomes obsessed overnight. Now Chloe will do anything to be Natasha's best friend.<br/><br/>Delivery driver Theo meets the new employee, Chloe. During his route, Chloe asks him to deliver a package for Rita. Chloe agrees, and Theo brings the package to Natasha. Theo is instantly smitten with the mysterious woman. He sneaks into Rita's truck the next day and takes Natasha's package. When Chloe calls about a missing package, Theo pretends to find it and offers to deliver it to Natasha. He will find a way to make Natasha love him.<br/><br/>Theo and Chloe find out about Natasha's book signing, so they both attend. Chloe spots Theo and hides in the bathroom stall. Soon, Theo sees Chloe hanging around Natasha. Chloe thinks Theo is a dangerous stalker and will stand by Natasha's side to keep Natasha safe. Theo believes Chloe is unhinged and will do anything to protect the woman he loves. With two stalkers and one victim, who will be the last one standing?<br/><br/>Natasha, an influencer, has two types of stalkers. Theo is a nonintimate stalker. Chloe is a celebrity stalker. When they disrupt each other's fantasies, Chloe and Theo become dangerous to Natasha and each other. The plot is wild, but the ending leaves a disturbing part two possible.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Christmas Plus One",
+    "review":"Sisters Cara and Amy wear their matching Christmas pajamas and run downstairs to write their Christmas wishes. They do this every year, and their wishes come true. This year, they both wish to find their soul mate.<br/><br/>One year later, Cara returns home for Amy's wedding to her fiancé, Chris, on the 24th. An incident sidelines Cara in Pittsburg, and she sees a man, Chace, get the last rent-a-car. She tells Chace she needs to get to New York for Amy's dress fitting. Chace chuckles because he is heading to the city too. Chace agrees to let her go. Cara and Chace feel an instant connection when they arrive in the city. They exchange numbers, and Cara invites Chace to the wedding. Chace says yes. She accidently drops her phone, and a man, Michael, kicks it into the sewer. Michael apologizes, but it's too late. The man of her dreams is down the drain.<br/><br/>Michael reports to his editor, Phil. Phil hates Michael's latest article because it wasn't what he told Michael to write. He considers firing Michael but gives him another chance. Michael, a holiday dodger, has to create a top 10 list of the things to do in New York for Christmas. Michael gladly takes the challenge but runs to Pete's Café to complain. Cara interjects after recognizing him as her phone kicker. Pete tells Michael to be kind to Cara. Cara knows the best Christmas spots. Michael can follow Cara and write. Cara finds him intriguing but asks what's in the deal for her. Pete knows she wants to be a graphic designer. Michael will pass her portfolio if she helps him. They agree.<br/><br/>On their first outing, Cara and Michael build a snowman. They look around to check out the competition, and Cara spots a handmade scarf. Chace wore it the day they met. Cara will leave breadcrumbs for him at any location she visits. Cara hopes her Christmas soulmate wish will come true, while Michael prays to keep his job.<br/><br/>For half of the movie, viewers will wait with bated breath each time Cara and Chace cross paths. Although you don't see it, Cara and Chace had a strong connection over a six-hour car ride. However, Cara and Michael spent several days sharing her holiday traditions. Finally, he admits he is not a Scrooge, only emotionally hurting. This movie has you backing the wrong horse, but it deepens the love story.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/devilonmydoorstep.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/devilonmydoorstep.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasplusone.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasplusone.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Everything Christmas",
-    "review":"LJ's boss, Randy, drops a new account on her desk and expects her to work through the holidays. LJ reminds Randy that she put in PTO to attend Yuletide Springs. A town that celebrates Christmas every day with a wishing tree. LJ and her grandmother wanted to visit. However, her grandmother died. LJ leaves a Post-It with 'I Quit.' She exits with no plans to return. LJ convinces her friend, co-worker Tori, to come. Tori is too cautious to quit her job.<br/><br/>LJ hears strange noises from her car before it dies. They wait for help, and a tow driver, Carl, with antlers on his truck, pulls over to help. Carl and LJ instantly connect. He checks LJ's car and determines it needs a fan belt. He doesn't have the part and asks LJ and Tori to wait while he drives into town to get it. After 45 minutes of waiting, Tori's concern grows. Chris Kringle exits the truck and offers to fix their vehicle. He happens to have the part they need. Chris leaves as Carl returns. He feels poorly about not fixing LJ's car, so he invites her into his town to celebrate the holidays.<br/><br/>LJ, Carl, and Tori find Chris performing at the community center. Tori wants to know how his illusions work, but Chris won't disclose it. Later, Chris gives them gifts with zero explanation. He gives Tori a stamp and LJ a gift voucher. They take the confusing gifts with a smile and leave town. LJ and Tori believe this is the last time they will see Carl or Chris again, but this is only act one.<br/><br/>This movie focuses on holiday magic, but it isn't childish. The plot explains Chris's abilities in the conclusion. However, viewers will hope the magic is authentic. Each hint comes full circle and brings LJ closer to Yuletide Springs and love. She isn't using love to escape her humdrum life. LJ left everything behind in the first five minutes. She is a woman on a mission. This movie entertains, but it's easy to guess the conclusion.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Navigating Christmas",
+    "review":"Financial Strategist Melanie takes a break from work at her company Christmas party and sits with her friend and co-worker Claire. Melanie reflects because the last year wasn't easy. She and her ex-husband, Max, finalized their divorce after he left her for a woman, Lauren, whom he met at the gym. Although she is happy to bounce back emotionally from it, Melanie's relationship with her son, Jason, is on thin ice.<br/><br/>Later, Melanie gets a call from Max. Max needs to cancel his ski trip with Jason and asks Melanie to deliver the unfortunate news. Jason is upset because he told his friends about going away on a fun trip. Melanie gets online to find a last-minute vacation under a 3-hour drive to a festive location. She scrolls and discovers St. Nicolas Island Lighthouse for $200 a night. Melanie immediately books it.<br/><br/>Melanie and Jason take a water taxi to the island, but she runs to the opposite side of the boat because she is seasick. Peter warns her to return because the water is choppy, but Melanie refuses to listen because he isn't the captain. Then, she gets splashed with seawater, and Peter walks away laughing.<br/><br/>Melanie arrives at the lighthouse to find a list of chores instead of festive decorations. The chore list gives them instructions on how to decorate the lighthouse. Melanie decides to meet with the lighthouse owner for an explanation. Melanie finds the owner, Peter, and he blames her for not reading the fine print. The person staying at the lighthouse has to decorate it for the Christmas Lights Festival. Ruth, the diner's owner, encourages Peter to help Melanie and her son fix up the lighthouse for the celebration. Peter doesn't tell anyone, but this year is different. He is in town because someone wants to buy the lighthouse and use the land to make condos. Peter desires to keep the lighthouse in his family but can figure out how. Will Melanie and Peter let down their guard to expose their troubles and get help?<br/><br/>Hallmark gives an honest view of divorce in this film. Hallmark usually wants to present all divorces as friendly, amicable, and no-fault, but that isn't the case. Peter is helping Jason connect with Melanie and decorate the lighthouse. But you don't understand how she will help him until an hour and a half into the film. Also, you have the budding romance between Jason and Mayor Katy's daughter, Sara. Sara helps Jason see that Melanie is trying to be a good mom and that he is the problem. For a story deeply enriched in reality, Hallmark handles it with care.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/everythingchristmas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/everythingchristmas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/navigatingchristmas.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/navigatingchristmas.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Mystery on Mistletoe Lane",
-    "review":"Heidi moves into a new home to start her job as director of the town's historical society. Her ex-husband, Robert, will bring their kids, Annie and Garrett, to join Heidi later. When Heidi questions the lack of decorations at work, Linda informs Heidi that David is bringing them down. Heidi scoffs at the previous director's decorations. David defends the director's fiscal spending because he was the director. Heidi gets a call from her movers. A mover tripped on a floorboard and knocked a picture off the wall, causing a hole. David offers to fix the floor and the wall.<br/><br/>David follows her home and fixes her floor. Heidi looks into the hole in the wall and finds a wooden reindeer with D3 on the bottom. Heidi concludes that the previous owner was a Christmas lover and hid items in the home. Garrett looks through his new bedroom and finds a note in a dresser drawer. It's step one in a scavenger hunt. Garrett and Annie decide to stay with Heidi to finish the hunt and find all the clues without telling Heidi. Heidi wants to discover the home's original owner. The family will uncover a secret in David's past, eight clues, and Mistletoe Manor.<br/><br/>This film is what viewers expect from H.M.M.. It has a compelling mystery with Christmas whimsy and flare. Annie and Garrett look around the home for clues as Heidi and David use their skills to find the owner. The mystery comes full circle after their stories collide. Annie and Garrett appreciate their mom through the clues. Also, David must repair his relationship with his dad. The love story between David and Heidi is barely noticeable because the mystery takes center stage. With the proper writing, this could be a yearly series.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Sisters on the Run",
+    "review":"Bruised and battered, Selma calls local stations for the cheapest ticket headed in any direction. She scrounges up a few dollars and walks towards the door but hides when she hears her husband, Officer Jason, on the other side. She grabs his gun, shoots, and runs out of the home to escape.<br/><br/>Madison is a proud cheer mom to a temperamental 15-year-old daughter, Willow. Willow lashes out at Madison's strict parenting, but Madison praises structure. Madison leads a meeting with other cheer moms when she gets an unexpected knock at her door. She stands in disbelief when her little sister, Selma, is on the other side. Selma asks for a place to stay, but Madison refuses because Selma brings trouble. Madison meets Selma at a diner. Selma promises not to bring anything ill will to Madison's home, and Madison agrees to let Selma stay.<br/><br/>Madison runs errands while Selma does laundry. Selma hears something and walks around the house on high alert. She steps on broken glass and finds two men inside the home. Selma fights them off, and Madison comes home early. They get in Madison's car and drive away. The news is reporting that Selma killed Jason and is on the run with Madison. Unfortunately, two cohorts of Jason's are looking for Selma. And they will use their badges and lies to track her down. Will they succeed?<br/><br/>This movie points out that it has a Thelma and Louise plot but without their deadly ending. It does drop Lifetime gems like Madison having asthma. So, Lifetimers can countdown to her inhaler being an issue. Also, the script balances out good cop versus bad cop. There are classic protagonist mistakes, but Lifetimers expect this. This movie is enjoyable and adds a fun twist at the end.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysteryonmistletoelane.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysteryonmistletoelane.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sistersontherun.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sistersontherun.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Murder Runs in the Family",
-    "review":"Wren receives a distressing call from her sister, Kayla, and drives home to help. Kayla says their parents, Paul and Julie, constantly fight, and she can't take it. Wren advises Kayla to stay at a friend's home for the night. Wren hasn't been home since she left her ex-fiancé, Oliver, standing at the altar.<br/><br/>Wren exits her vehicle, and her parent's neighbor, Mia, accosts her. Wren puts Mia in her place and enters the home to find Julie dead in the bathtub. The news leaves Paul and Wren's brother, Brody, distraught.<br/><br/>Wren picks up Kayla in the morning and gives Kayla the horrible news. Wren answers a knock and sees Oliver there for Kayla. Oliver works for Paul and remains close to the family. During their walk, Wren runs into an old friend, Gina. Gina works at Julie's flower shop and asks Wren to visit for information.<br/><br/>Wren goes to the shop but hides when she sees Paul leaving while arguing on the phone with someone. Gina tells Wren that Mia and Julie were business partners before Julie's death. However, Julie suspected Mia of wrongdoing and took the shop's key from Mia. Wren believes someone murdered Julie. Can she prove it after Paul got the body cremated?<br/><br/>This family's history will need your undivided concentration. The plot has adoption, blood relatives, affairs, and too many secrets. Wren isn't trying to play detective in the beginning. She stumbles across clues just like Julie's body. The plot moves slowly, but thankfully, a nosy neighbor spices things up. The motive is outlandish but provides the audience with an unassuming culprit.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"A World Record Christmas",
+    "review":"Marissa and her husband, Eric, decorate the library for the holidays when Marissa's son, Charlie, enters with Charlie's friend, Amy. Mayor Ben reminds everyone that Brookswood will continue to break world records this holiday by wrapping the most gifts in an hour. And he needs the whole town's support. Everyone agrees to join.<br/><br/>Marissa gives Charlie one gift early: Jenga. Charlie asks if his real dad, Peter, will come to Christmas this year. Charlie questions if Peter left because he has autism, and Marissa provides a definitive no. Eric wishes Charlie would call him dad, but Marissa knows Charlie's autism allows him to give one person that label. Then, Charlie gets an idea. If he breaks a world record, then Peter must come. After careful consideration, Charlie decides to break the Jenga record. He must stack 1401 Jenga blocks on one standing vertical block. Can Charlie break the record and make his dad proud?<br/><br/>Inspired by actual events, this story will have you on your seat's edge. Charlie doesn't see autism as a limitation but as a superpower. This positive mindset allows Charlie to create and face challenges. Marissa and Eric are lovingly patient. They see signs of Charlie becoming upset and handle it with care. Even Amy assists Charlie with a news interview. The script also shows Charlie's love grow. The plot did try to save Peter's character at the end, but it was unnecessary. Hallmarkies should have tissues close.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderrunsinthefamily.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderrunsinthefamily.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aworldrecordchristmas.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aworldrecordchristmas.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"The Santa Summit",
-    "review":"It's the last day before the winter break, and Jordin, an art teacher, scrolls through social media for inspiration. Instead, she sees her ex-boyfriend, Nico, with his new girlfriend. Jordin runs to her friend, Stella, with a fresh idea. They should attend the Santa Summit to have fun and try new things. Stella says no, but their other friend, Ava, overhears. Ava, a math teacher, wants to go because her crush, Mr. Ben, will attend. Ava and Jordin beg Stella to come. They know Stella is unhappy because the board changed her from teaching music to English. Stella caves and says yes.<br/><br/>Liam picked up his life and moved after his job left him unfulfilled. Now, he works for his brother, Mac, to secure contracting work. Liam loves small-town life, and the Santa Summit is a thrill. Before they go into the first bar, Liam sees a wallet with a house embroidered on the front. Liam sees a woman, Jordin, frantically looking at the ground. He asks if she is looking for a wallet, and she breathes a sigh of relief. Dressed as Santa with white beards, they discuss movies, music, and food. Liam offers Jordin a drink inside, and they walk into the bar. A group of people bumps into them and unknowingly separates them. The never saw each other's face or got the other's name. They will go through the entire Santa Summit to find each other. Will their search be fruitless, or true love?<br/><br/>First, the Santa Summit looks like a fun time. Second, you will get a laugh out of Liam and Jordin's near misses. But they are not the only lovers to follow. Ava continues to look for Ben. Stella needs to find her groove. Yes, this film is a rom-com, but it stands out.<br/><br/>4 out of 5 stars.",
+    "mtitle":"A Roommate to Die For",
+    "review":"Jeremy and Faith have another intense fight, and he ends their relationship. Faith, a real estate agent, confesses to her friend, Jaden, that she can't afford her home without Jeremy's income. Faith's only solution is to get a renter.<br/><br/>She searches for candidates online and interviews them. Vince, an LSAT tutor, wows Faith. He gives Faith a reference number, and the woman provides glowing reviews of Jeremy. Jeremy moves in, and the stress eases off Faith's shoulders. She believes she found the answer to her prayers. Instead, she found the devil in disguise.<br/><br/>No one can be this gullible anymore. Viewers will grow frustrated with Faith's over-trusting attitude. And when Faith decides to fight back, she keeps making mistakes. This movie's plot is annoying and educational. Think before you rent.<br/><br/>2 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesantasummit.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesantasummit.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroomatetodiefor.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroomatetodiefor.jpeg"
     }
   }
 ];
@@ -56,6 +56,50 @@ module.exports = madeForTV;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Haul Out the Holly: Lit Up",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/haulouttheholly2.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/haulouttheholly2.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Christmas in Notting Hill",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasinnottinghill.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasinnottinghill.jpeg"
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Holiday Road",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/holidayroad.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/holidayroad.jpeg"
+  }
+},
+{
+  "option":"4",
+  "mtitle":"Letters to Santa",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/letterstosanta.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/letterstosanta.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Catch Me If You Claus",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/catchmeifyouclaus.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/catchmeifyouclaus.jpeg"
+  }
+}
 
 */
