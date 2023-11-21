@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Oppenheimer",
+    "review":"J. Robert Oppenheimer sits in front of a security hearing board because he wants to maintain his security clearance. He recounts his life before and during his government work under scads scrutiny. He teaches at the University of California, Berkeley, and dedicates time to the California Institute of Technology. Oppenheimer crosses paths with Ernest Lawrence, Jean Tatlock, and his future wife, Katherine Puening.<br/><br/>General Leslie Groves seeks out Oppenheimer to work on the Manhattan Project but worries Oppenheimer's communist ties will delay his clearance. Oppenheimer assures Groves that he only has an academic interest in the party, not a devotion. Oppenheimer wasn't sure about creating the Atomic Bomb but wanted to end World War II. So he agreed to do it because the only scientist in Germany with Oppenheimer's knowledge was Jewish. They know Hitler won't give him funding.<br/><br/>Oppenheimer convinces Groves to create a town in Los Alamos, New Mexico, with places to pray, shop, and attend school. Oppenheimer and his researchers work before the town is complete, and William L. Borden enters with startling calculations. His math proves the Atomic Bomb could cause an explosion in the atmosphere and create a chain reaction that destroys the world. Oppenheimer asks Lewis Strauss to introduce him to Albert Einstein. He gives Albert the calculations, and Albert confirms them. Oppenheimer must continue his work with the constant threat of annihilation hanging over his head. And he will bring death to thousands if it works as expected. Can Oppenheimer accept the applause and responsibility of being a modern-day Prometheus?<br/><br/>The director made this movie with extreme precision for the period, the scientists, and their struggles. If you pay close attention, this historical film has the drama of a daytime soap opera. This movie follows Oppenheimer's life before, during, and after the Atomic Bomb. It acknowledges his flaws and brilliance throughout his career. Also, it addresses some controversies and conspiracies that surrounded him. This battle is compelling because it's between two competitive, intelligent, and petty men. This movie covers ample history, but it's not for children.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0CL7JD41F"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/oppenheimer.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/oppenheimer.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"The Equalizer 3",
     "review":"A mobster, Lorenzo, drives into his property to find dead bodies everywhere. He tells his young son to stay in the car. A nervous man with a gun tells Lorenzo the culprit is waiting in the cellar. He is Robert McCall. Robert gives Lorenzo seconds to decide his fate. Lorenzo takes too long, and Robert kills him and Lorenzo's remaining goons. Robert walks outside, sees Lorenzo's son in the truck, and tells the boy to stay put. When Robert turns his back, the boy shoots Robert, but Robert survives.<br/><br/>A local <lang xml:lang='it-IT'>Altamonte carabinieri, Bonucci</lang>, finds Robert unconscious in his car with a large gunshot wound and takes Robert to a doctor, Enzo. When Robert wakes up, Enzo asks Robert if he is a good man or a bad one. Robert answers that he doesn't know and passes out. Three days later, Robert wakes up and insists on walking around. Enzo warns him to take it slow.<br/><br/>Robert makes an anonymous phone call to CIA agent Emma Collins. Robert alerts Emma to Lorenzo's operation and hangs up. As Robert heals, he captivates the <lang xml:lang='it-IT'>Altamonte</lang> citizens, finds peace in the small community, and puts his watch away. However, Camorra members disrupt Robert's ease when Robert sees them taking protection money from the businesses. Robert tries not to intervene, but they go one step too far. And Robert puts on his watch of fate. He will rid <lang xml:lang='it-IT'>Altamonte</lang> of the Camorra while Emma follows Robert's lead to the notorious crime syndicate.<br/><br/>The third and final movie of the Equalizer franchise doesn't disappoint. It starts with the bloody aftermath of Robert's rampage and then jumps into the action. The movie balances humor, heart, and bloodlust with precision and ease. The movie gives you a brief flashback into the first film while giving a quip to the second. The fight scenes are well-choreographed and brutal. In between Robert's fighting and mingling, Emma uncovers a mystery with Robert's guidance. This fast-paced movie requires your attention, but you don't need to see the first 2 to watch this gem.<br/><br/>5 out of 5 stars.",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Gran Turismo",
     "review":"Gran Turismo was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "Blue Beetle",
     "review": "<lang xml:lang=\"es-ES\">Jaime Reyes</lang> returns home to his family after finishing his pre-law degree. His family anxiously awaits his arrival, but his sister, Milagro, wants the family to be honest with <lang xml:lang=\"es-ES\">Jaime</lang>. Their father, Alberto, and mother, Rocio, tell Milagro to wait until <lang xml:lang=\"es-ES\">Jaime</lang> eats to give him the unfortunate news.<br/><br/>After <lang xml:lang=\"es-ES\">Jaime</lang> takes his first bite, Milagro tells <lang xml:lang=\"es-ES\">Jaime</lang> that his parents must sell their home. And Alberto had a heart attack. <lang xml:lang=\"es-ES\">Jaime's</lang> uncle Rudy blames Kord Industries for the gentrification. <lang xml:lang=\"es-ES\">Jaime</lang> promises to find a job and move the family to a big house on the hills.<br/><br/><lang xml:lang=\"es-ES\">Jaime</lang> and Milagro got a job cleaning pools to make ends meet. As they scrape gum off the pool furniture, <lang xml:lang=\"es-ES\">Jaime</lang> spots Veronica Kord and her private security, Ignacio, walking inside the home. <lang xml:lang=\"es-ES\">Jaime</lang> can't work up the nerve to ask Veronica for a job, but Milagro has no problems using Veronica's bathroom.<br/><br/>Jennifer pulls her aunt, Veronica, into a room and watches an ad for the One Man Army Corp, a.k.a. OMAC. Jennifer reminds Veronica that Jennifer's father, Ted, didn't want Kord Industries involved in weapons manufacturing anymore. Veronica demands that Jennifer back off. Jennifer walks towards the door to exit, and Ignacio tries to grab her, but <lang xml:lang=\"es-ES\">Jaime</lang> verbally defends Jennifer. Veronica fires <lang xml:lang=\"es-ES\">Jaime</lang> and Milagro. Jennifer tells <lang xml:lang=\"es-ES\">Jaime</lang> to come to Kord Industries, and she will find a job for him.<br/><br/><lang xml:lang=\"es-ES\">Jaime</lang> arrives with his cheering family in tow. <lang xml:lang=\"es-ES\">Jaime</lang> sees Jennifer running down an escalator and onto an elevator. He mirrors her movements and meets her downstairs. She hands <lang xml:lang=\"es-ES\">Jaime</lang> a burger container. She demands that he guard it with his life and never open it.<br/><br/><lang xml:lang=\"es-ES\">Jaime</lang> takes it home, and his family encourages him to open the box. They all play with the high-tech scarab inside. When <lang xml:lang=\"es-ES\">Jaime</lang> touches it, it scans his face, goes inside his body, and attaches to his spine. When <lang xml:lang=\"es-ES\">Jaime</lang> wakes up, he is on his parents' couch naked. <lang xml:lang=\"es-ES\">Jaime</lang> steals Rudy's car to get answers from Jennifer. After dodging a hail of bullets, Jennifer sits with <lang xml:lang=\"es-ES\">Jaime's</lang> family to explain. The scarab is a world-destroying weapon that chooses its hosts. Veronica needs its code to complete her OMAC project. With the scarab active, <lang xml:lang=\"es-ES\">Jaime</lang> is in danger. <lang xml:lang=\"es-ES\">Jaime</lang> wants Jennifer to remove the scarab now. The journey to expelling the scarab will make <lang xml:lang=\"es-ES\">Jaime</lang> experience the ultimate sacrifice, learn the truth about Nana, and uncover his destiny to become the Blue Beetle.<br/><br/>First, Nana is a gangster. Second, <lang xml:lang=\"es-ES\">Jaime</lang> is a reluctant hero. Finally, his family doesn't sit around waiting for <lang xml:lang=\"es-ES\">Jaime</lang> to save them. The graphics are stellar for a DC film. This color palette of the film reflects <lang xml:lang=\"es-ES\">Jaime</lang> and his family. It's fun, bright, and burst with excitement. The downside of this movie is the sound effects drown out <lang xml:lang=\"es-ES\">Jaime's</lang> suit's A.I., Khaji-Da. See this film on the best screen possible, and don't let the detractors keep you away. Also, there are mid and post-credit scenes.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Mission: Impossible - Dead Reckoning Part 1",
     "review": "Days ago, Ethan got a message to find his ally Ilsa Faust and obtain the missing half of a cruciform key. After giving Ethan his instructions, Eugene Kittridge loses contact with Ethan. Kittridge sits in a classified meeting with Director Denlinger and his advisors and reveals information about Impossible Mission Force. Kittridge explains that experimental Artificial Intelligence meant to hack digital information went rogue and became self-aware and self-learning. They call it the Entity, the biggest threat to the world. They need Ethan to destroy it because other world powers know about the Entity and seek to harness it for global domination. Ethan must remain resilient against his past to secure the world's future. But can Ethan risk the ones he loves?<br/><br/>Based on the TV series, this Mission Impossible installment is the seventh in the franchise and lives up to the crazy stunts and spine-tingling drama of the previous six. The writers inject the right amount of humor at the most opportune moments. New fans don't need to see the previous movies to understand this film. The plot sticks to AI and Machine Learning fears in other films, but the action sets it apart. There are zero mid-credit or post-credit scenes. And yes, it ends on the perfect cliffhanger. Fans of the franchise won't be disappointed and will look forward to part two.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/missionimpossiblereckoningpart1.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/missionimpossiblereckoningpart1.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "My Big Fat Greek Wedding 3",
-    "review": "Toula and Ian lost their fathers over the years. Toula tells Maria she and Ian are going to Greece to give her father's journal to his three best friends. The village of Toula's father, Gus, is having a reunion, and Toula hopes Gus's friends will be there. Toula and Ian arrive at the airport to find their daughter, Paris, waiting for them. Toula calls her brother, Nick, and ensures he is on his way with their aunts, Voula and Theia. As they board the plane, Paris tries to distance herself from her nosey family, but they invite her ex-boyfriend, Aristotle, to join them.<br/><br/>The family lands and instantly becomes awestruck with Greece. Mayor Victory meets them with coffee and brings them to Gus's hometown. Toula loves Gus's village, but only six people live their now. Mayor Victory sent an invitation to every family, but only the Portokaloses came. The reunion will be in a few days, but Victory believes everyone will come. The empty town discourages Toula, but Ian and her family give her faith to keep going. Toula vows to find Gus's friends and deliver the journal before returning to the States.<br/><br/>In case you were wondering, Yes. This movie has a Greek wedding in Greece. Like most adults, Toula enters the next phase of her marriage to Ian. They must care for their parents and pass the traditions to the younger generation. But Toula must balance between Gus's wishes and Ian's vacation. Ian must refocus her energy to have fun and not worry about Paris, the family, or the secrets. Yes, there are explosive secrets for the Portokaloses and the Millers. The family packs joy with their open, loving, and caring nature. They love each other no matter if they are shaving at the dinner table, swimming nude, or drinking. This film doesn't try to one-up the previous movies. It gels with them perfectly. For fans of the Greeks, see this movie in theaters.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0CHGQGDRM"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mybigfatgreekwedding3.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mybigfatgreekwedding3.jpg"
     }
   }
 ];
@@ -135,20 +135,6 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killersoftheflowermoon.jpeg"
     }
   },
-
-  {
-    "option":"2",
-    "mtitle":"Oppenheimer",
-    "review":"J. Robert Oppenheimer sits in front of a security hearing board because he wants to maintain his security clearance. He recounts his life before and during his government work under scads scrutiny. He teaches at the University of California, Berkeley, and dedicates time to the California Institute of Technology. Oppenheimer crosses paths with Ernest Lawrence, Jean Tatlock, and his future wife, Katherine Puening.<br/><br/>General Leslie Groves seeks out Oppenheimer to work on the Manhattan Project but worries Oppenheimer's communist ties will delay his clearance. Oppenheimer assures Groves that he only has an academic interest in the party, not a devotion. Oppenheimer wasn't sure about creating the Atomic Bomb but wanted to end World War II. So he agreed to do it because the only scientist in Germany with Oppenheimer's knowledge was Jewish. They know Hitler won't give him funding.<br/><br/>Oppenheimer convinces Groves to create a town in Los Alamos, New Mexico, with places to pray, shop, and attend school. Oppenheimer and his researchers work before the town is complete, and William L. Borden enters with startling calculations. His math proves the Atomic Bomb could cause an explosion in the atmosphere and create a chain reaction that destroys the world. Oppenheimer asks Lewis Strauss to introduce him to Albert Einstein. He gives Albert the calculations, and Albert confirms them. Oppenheimer must continue his work with the constant threat of annihilation hanging over his head. And he will bring death to thousands if it works as expected. Can Oppenheimer accept the applause and responsibility of being a modern-day Prometheus?<br/><br/>The director made this movie with extreme precision for the period, the scientists, and their struggles. If you pay close attention, this historical film has the drama of a daytime soap opera. This movie follows Oppenheimer's life before, during, and after the Atomic Bomb. It acknowledges his flaws and brilliance throughout his career. Also, it addresses some controversies and conspiracies that surrounded him. This battle is compelling because it's between two competitive, intelligent, and petty men. This movie covers ample history, but it's not for children.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0CL7JD41F"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/oppenheimer.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/oppenheimer.jpeg"
-    }
-  },
-
    
   {
     "option":"2",
