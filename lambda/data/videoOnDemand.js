@@ -43,15 +43,6 @@ var videoOnDemand = [
 			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasangel.jpeg",
 			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasangel.jpeg"
 		}
-	},
-	{
-		"option":"5",
-		"mtitle":"Heart for the Holidays",
-		"review":"Rachel meets with her assistant, Jenna, to plan Rachel's hectic schedule. Rachel leaves to meet with a client but has a heart attack in the client's lobby. Rachel's doctor gives her grim news. She has myocarditis and needs a transplant. Later, Rachel's doctor tells Rachel that they found a heart. A woman, Angela, was in a car accident in Cheverly and won't make it. Rachel calls a car to take her to Cheverly Medical Center.<br/><br/>Rachel walks around the hospital for a cell signal to call Jenna. She gets one bar but doesn't realize she is in a woman's hospital room. It's Angela. Rachel holds Angela's hand, and Angela asks Rachel to promise that Rachel will love deeply and with all her heart. Rachel promises, and Angela dies. Rachel wakes up with Angela's heart beating in her chest.<br/><br/>Rachel continues to make phone calls as she gets better. She takes her daily trips around the hospital but nearly falls. A man, Scott, runs to her aid and fixes her medical I.V. pole. After a revealing meet-cute, Rachel runs into another transplant patient, Amy. Amy received Angela's kidney. When Amy learns Rachel has Angela's heart, Amy considers Rachel her sister. Scott told Amy that Rachel took his breath away. However, Rachel wants to leave Cheverly and return to LA for work. Rachel tries to escape, but her heart flutters. Something keeps holding Rachel back, and it's more than love.<br/><br/>The beginning will bring you to tears as Angela drifts away with a few parting words to a woman she will save but never know. Afterward, Rachel's connection to Amy garners the viewer's attention, but the film is the typical rom-com plot. Audiences will phase out when Rachel and Scott are on because you know their ending. However, you will melt when Rachel and Amy bond over the carnival, Angela, and hair. Their sisterly relationship is the storyline's driving force.<br/><br/>3.5 out of 5 stars.",
-		"image":{
-			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/heartfortheholidays.jpeg",
-			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/heartfortheholidays.jpeg"
-		}
 	}
 ];
 
@@ -65,5 +56,34 @@ module.exports = videoOnDemand;
 
  	/*
 
+	{
+		"option":"1",
+		"mtitle":"The Christmas Wringer",
+		"review":"<br/><br/>* out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thechristmasringer.jpeg",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thechristmasringer.jpeg"
+		}
+	},
+	{
+		"option":"2",
+		"mtitle":"A Royal Christmas Surprise",
+		"review":"<br/><br/>* out of 5 stars.",
+		"image":{
+			"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyalchristmassurprise.png",
+			"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroyalchristmassurprise.png"
+		}
+	}
+
+
+	{
+		"option":"1",
+		"mtitle":"Candy Cane Lane",
+		"review":"<br/><br/>* out of 5 stars.",
+		"image":{
+			"smallImageUrl":"",
+			"largeImageUrl":""
+		}
+	}
 	
 	*/
