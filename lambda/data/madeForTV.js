@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"The Naughty Nine",
-    "review":"Andy and his best friend, Dulce, completed their greatest heist the day before winter break. They stole all the students' confiscated items before Principal Clark could donate them. Andy and Dulce sell the items to their classmates and head home for the holiday. Andy's sister, Laurel, slyly tells their parents that Andy was in the principal's office earlier. However, Andy creates a story about fixing the principal's WiFi, and they believe him. Laurel leaves the table in disgust but warns Andy to be careful.<br/><br/>Andy wakes up everyone on Christmas morning to unwrap presents. Laurel got a new leotard from Santa, but Andy didn't receive his new gaming console. He calls Dulce, and she didn't get the archery set she wanted. They conclude that they are both on the naughty list. They see Lewis, a conspiracy theory enthusiast, for answers. He tells them the Naughty List exists. Andy requests the naughty list because he has a plan. Andy plots to fly to the North Pole, break into Santa's Workshop, and steal the gifts Santa didn't deliver to them. Andy will need six more Naught Listers to make his Naughty Nine team. This Christmas will be the best one they never had.<br/><br/>Andy is a mix of Danny Ocean and Zack Morris. He creates a master plan with contingencies and uses his charm to escape sticky situations. These kids' particular skills - which put them on the list - make them the best for the job. Kids will laugh at this wild heist while learning a lesson in doing good and influencing others. The Naughty Nine is for the whole family. And yes, there will be a part two.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Haul Out the Holly: Lit Up",
+    "review":"Evergreen Lane gears up for Christmas with Jared as H.O.A. president. Emily wants to redeem herself because last year, she was a Scrooge. Evergreen Lane is a family. However, one of the members moved away. Now, they worry about who will take over the house.<br/><br/>Mary Louise gets a snap during an H.O.A. meeting. The Jolly Johnsons are moving into the home. The Jolly Johnsons won a holiday decorating reality show competition.<br/><br/>The Jolly Johnsons - Joe, Jane, and Jimmy - roll into town with two moving trucks, one for their furniture and the other for decorations. The neighbors sit in amazement at the Johnsons holiday magnitude. The neighbors think the Johnsons will be a great addition to their street. However, the Johnsons see them as sad competition. They will woo, manipulate, and separate the neighbors. Can Jared and Emily take back Evergreen Lane?<br/><br/>This Haul Out The Holly sequel returns all the characters we know and love. Emily and Jared's relationship is stronger than ever, and they joke about their past. Unknown to Emily, Jared is on double duty. He is overseeing the Evergreen Lane decorations and preparing the perfect proposal. This movie reminds the viewers of the meaning of holiday celebrations. It's not about competition, but spending time together and having fun.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thenaughtynine.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thenaughtynine.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/haulouttheholly2.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/haulouttheholly2.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Christmas Plus One",
-    "review":"Sisters Cara and Amy wear their matching Christmas pajamas and run downstairs to write their Christmas wishes. They do this every year, and their wishes come true. This year, they both wish to find their soul mate.<br/><br/>One year later, Cara returns home for Amy's wedding to her fiancé, Chris, on the 24th. An incident sidelines Cara in Pittsburg, and she sees a man, Chace, get the last rent-a-car. She tells Chace she needs to get to New York for Amy's dress fitting. Chace chuckles because he is heading to the city too. Chace agrees to let her go. Cara and Chace feel an instant connection when they arrive in the city. They exchange numbers, and Cara invites Chace to the wedding. Chace says yes. She accidently drops her phone, and a man, Michael, kicks it into the sewer. Michael apologizes, but it's too late. The man of her dreams is down the drain.<br/><br/>Michael reports to his editor, Phil. Phil hates Michael's latest article because it wasn't what he told Michael to write. He considers firing Michael but gives him another chance. Michael, a holiday dodger, has to create a top 10 list of the things to do in New York for Christmas. Michael gladly takes the challenge but runs to Pete's Café to complain. Cara interjects after recognizing him as her phone kicker. Pete tells Michael to be kind to Cara. Cara knows the best Christmas spots. Michael can follow Cara and write. Cara finds him intriguing but asks what's in the deal for her. Pete knows she wants to be a graphic designer. Michael will pass her portfolio if she helps him. They agree.<br/><br/>On their first outing, Cara and Michael build a snowman. They look around to check out the competition, and Cara spots a handmade scarf. Chace wore it the day they met. Cara will leave breadcrumbs for him at any location she visits. Cara hopes her Christmas soulmate wish will come true, while Michael prays to keep his job.<br/><br/>For half of the movie, viewers will wait with bated breath each time Cara and Chace cross paths. Although you don't see it, Cara and Chace had a strong connection over a six-hour car ride. However, Cara and Michael spent several days sharing her holiday traditions. Finally, he admits he is not a Scrooge, only emotionally hurting. This movie has you backing the wrong horse, but it deepens the love story.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Christmas in Notting Hill",
+    "review":"Georgia flies to London to visit her sister, Lizzie. This visit is the first time they have seen each other in years. Lizzie promises to show Georgia a Notting Hill Christmas. Georgia looks forward to meeting Lizzie's boyfriend. Georgia reveals a secret to Lizzie before their father arrives. An exciting program accepted Georgia's application at the University of Indiana for occupational therapy. Georgia is excited, but her boss recommended her for a teaching abroad program. Lizzie laughs in disbelief because she knows Georgia will make the safe and responsible choice: Indiana.<br/><br/>Soccer player Graham rewatches his injury video in rehab and worries about his future. Now, he agonizes that this injury will end it all. Graham meets his brother, Henry, at a local pub. Henry shocks Graham because Henry says he is ready to propose to his girlfriend. Graham worries Henry is moving too fast. Henry bolsters that he wants this, and Graham shouldn't be afraid to make changes in his life.<br/><br/>Lizzie takes Georgia to a Christmas market but has to leave early because her boss needs her. Georgia finds a beautiful hand-painted ornament that reminds her of her deceased mother. The shop owner lets her have it. Graham hides in his mother's booth at the Christmas market. Graham hastily leaves after taking pictures and signing autographs. He bumps into Georgia, causing her to drop her ornament and mess up her jacket. He wants to help and says she can clean up at his mother's home. She cleans up her jacket and exits the home. Graham believes he will never see the mysterious woman, who knows nothing about his fame, again. However, they are closer than they know.<br/><br/>This movie's storyline uses too much foreshadowing. Hallmarkies can piece the story together in the first 30 minutes. You will watch to confirm your hunches, not for entertainment. However, Georgia and Lizzie's bonding moments are cute and funny. Save this movie for background noise during your holiday decorating.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasplusone.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasplusone.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasinnottinghill.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasinnottinghill.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Navigating Christmas",
-    "review":"Financial Strategist Melanie takes a break from work at her company Christmas party and sits with her friend and co-worker Claire. Melanie reflects because the last year wasn't easy. She and her ex-husband, Max, finalized their divorce after he left her for a woman, Lauren, whom he met at the gym. Although she is happy to bounce back emotionally from it, Melanie's relationship with her son, Jason, is on thin ice.<br/><br/>Later, Melanie gets a call from Max. Max needs to cancel his ski trip with Jason and asks Melanie to deliver the unfortunate news. Jason is upset because he told his friends about going away on a fun trip. Melanie gets online to find a last-minute vacation under a 3-hour drive to a festive location. She scrolls and discovers St. Nicolas Island Lighthouse for $200 a night. Melanie immediately books it.<br/><br/>Melanie and Jason take a water taxi to the island, but she runs to the opposite side of the boat because she is seasick. Peter warns her to return because the water is choppy, but Melanie refuses to listen because he isn't the captain. Then, she gets splashed with seawater, and Peter walks away laughing.<br/><br/>Melanie arrives at the lighthouse to find a list of chores instead of festive decorations. The chore list gives them instructions on how to decorate the lighthouse. Melanie decides to meet with the lighthouse owner for an explanation. Melanie finds the owner, Peter, and he blames her for not reading the fine print. The person staying at the lighthouse has to decorate it for the Christmas Lights Festival. Ruth, the diner's owner, encourages Peter to help Melanie and her son fix up the lighthouse for the celebration. Peter doesn't tell anyone, but this year is different. He is in town because someone wants to buy the lighthouse and use the land to make condos. Peter desires to keep the lighthouse in his family but can figure out how. Will Melanie and Peter let down their guard to expose their troubles and get help?<br/><br/>Hallmark gives an honest view of divorce in this film. Hallmark usually wants to present all divorces as friendly, amicable, and no-fault, but that isn't the case. Peter is helping Jason connect with Melanie and decorate the lighthouse. But you don't understand how she will help him until an hour and a half into the film. Also, you have the budding romance between Jason and Mayor Katy's daughter, Sara. Sara helps Jason see that Melanie is trying to be a good mom and that he is the problem. For a story deeply enriched in reality, Hallmark handles it with care.<br/><br/>4 out of 5 stars.",
+    "mtitle":"Holiday Road",
+    "review":"Maya streams the departure board for her followers while updating them about seeing her family. Dusty won't bend to the influencer's whims while Mr. and Mrs. Ling stare in confusion. Ember steps forward and looks at the board along with Trisha and Trisha's son, Ben. Dana views the screen and prays to make her snowboarding trip. Dana walks to a coffee shop and hears a man, Clay, requesting an elaborate drink order. She tells Clay that ordering something complicated is rude when a line is behind him. The nine people return to the departure board and groan when the airline cancels all their flights due to the weather. Dana pulls Trisha, Dusty, Ember, Maya, Mr. Ling, and Mrs. Ling aside and suggests they rent a van together.<br/><br/>They walk to the rental terminal and wait. The attendant tells Dana not to approach because the diamond customer gets priority. It's Clay, to Dana's surprise. The attendant warns Clay the rental company has one vehicle left, and it's massive. Clay doesn't care and orders it. The attendant tells everyone in line that the final car is gone. When Dana sees Clay coming around the corner in a van, she jumps in front of the car and forces him to stop. He is willing to help if she doesn't come. The group boards the van but can't ignore Dana sitting outside alone. They beg Clay to reconsider, and he relents. This group is going on a trip that will change their lives and holiday perspectives.<br/><br/>Inspired by actual events, this movie proves a stranger can become a friend. Surprisingly, this film gives each character a captivating backstory and a spectacular storyline. As the characters connect, you learn more about their lives, why they are traveling, and their struggles. This movie is captivating and offers the best holiday karaoke.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/navigatingchristmas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/navigatingchristmas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/holidayroad.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/holidayroad.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Sisters on the Run",
-    "review":"Bruised and battered, Selma calls local stations for the cheapest ticket headed in any direction. She scrounges up a few dollars and walks towards the door but hides when she hears her husband, Officer Jason, on the other side. She grabs his gun, shoots, and runs out of the home to escape.<br/><br/>Madison is a proud cheer mom to a temperamental 15-year-old daughter, Willow. Willow lashes out at Madison's strict parenting, but Madison praises structure. Madison leads a meeting with other cheer moms when she gets an unexpected knock at her door. She stands in disbelief when her little sister, Selma, is on the other side. Selma asks for a place to stay, but Madison refuses because Selma brings trouble. Madison meets Selma at a diner. Selma promises not to bring anything ill will to Madison's home, and Madison agrees to let Selma stay.<br/><br/>Madison runs errands while Selma does laundry. Selma hears something and walks around the house on high alert. She steps on broken glass and finds two men inside the home. Selma fights them off, and Madison comes home early. They get in Madison's car and drive away. The news is reporting that Selma killed Jason and is on the run with Madison. Unfortunately, two cohorts of Jason's are looking for Selma. And they will use their badges and lies to track her down. Will they succeed?<br/><br/>This movie points out that it has a Thelma and Louise plot but without their deadly ending. It does drop Lifetime gems like Madison having asthma. So, Lifetimers can countdown to her inhaler being an issue. Also, the script balances out good cop versus bad cop. There are classic protagonist mistakes, but Lifetimers expect this. This movie is enjoyable and adds a fun twist at the end.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Letters to Santa",
+    "review":"Enrique and Rebecca co-parent their children, Izzy and Sam, during their separation. Rebecca meets with her manager, Vanessa, and publisher, Mr. Hines. Rebecca is late with her next book. Now, her publisher is considering asking for their advance back. However, Rebecca doesn't have it. Enrique gave it to his mother, Camilla, without telling Rebecca because he thinks their family should help each other. That omission caused the riff in their marriage.<br/><br/>Rebecca and Enrique take their kids to a bookstore with a Santa. Santa gives them a gold magic pen when they disagree about what to ask for. He says whatever they write, they will get. Izzy decides to write a letter to Santa and asks for a puppy. Enrique finds a dog with a bow and no collar in the morning. Soon, the kids ask Santa to do things to bring their parents together. Can Santa deliver?<br/><br/>While Santa remains a mystery to the family, the audience knows the people behind the curtain making Sam and Izzy's dreams come true. Each time they help, it drives another wedge between Rebecca and Enrique. When they finally sit and have an honest discussion, everything comes to the surface for the better. This film may be tough to watch for a struggling family, but it's entertaining.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sistersontherun.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sistersontherun.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/letterstosanta.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/letterstosanta.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"A World Record Christmas",
-    "review":"Marissa and her husband, Eric, decorate the library for the holidays when Marissa's son, Charlie, enters with Charlie's friend, Amy. Mayor Ben reminds everyone that Brookswood will continue to break world records this holiday by wrapping the most gifts in an hour. And he needs the whole town's support. Everyone agrees to join.<br/><br/>Marissa gives Charlie one gift early: Jenga. Charlie asks if his real dad, Peter, will come to Christmas this year. Charlie questions if Peter left because he has autism, and Marissa provides a definitive no. Eric wishes Charlie would call him dad, but Marissa knows Charlie's autism allows him to give one person that label. Then, Charlie gets an idea. If he breaks a world record, then Peter must come. After careful consideration, Charlie decides to break the Jenga record. He must stack 1401 Jenga blocks on one standing vertical block. Can Charlie break the record and make his dad proud?<br/><br/>Inspired by actual events, this story will have you on your seat's edge. Charlie doesn't see autism as a limitation but as a superpower. This positive mindset allows Charlie to create and face challenges. Marissa and Eric are lovingly patient. They see signs of Charlie becoming upset and handle it with care. Even Amy assists Charlie with a news interview. The script also shows Charlie's love grow. The plot did try to save Peter's character at the end, but it was unnecessary. Hallmarkies should have tissues close.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Catch Me If You Claus",
+    "review":"Avery's boss, Nancy, tells Avery she is not getting another shot at being an anchor. Avery is a great researcher, but she wants to handle the news like her famous mother, Sophie. Her latest story focuses on Mayor Hewitt and his labor dispute with Peter. The news is reporting about a Santa Crook. He breaks into people's houses dressed as Santa and cracks their safe.<br/><br/>At the office Christmas party, Talia tells Avery that anchor Misty has laryngitis. The network is trying desperately to find someone to anchor the 5 a.m. Christmas broadcast, but no one is in town. Nancy relents and says Avery can carry the broadcast, but she can't be late. Avery returns home, says hello to her neighbor's daughter, Becca, puts on a light therapy mask, and sleeps. She wakes up after hearing a clatter in her living room. She sees a man and screams. He yells, trips, and knocks himself out. She ties the man up and tries to call the cop, but the storm ruins the reception.<br/><br/>The man, Chris, wakes up and huffs. He will be late for his deliveries, and his father will be furious. Avery laughs and accuses him of being the Santa Crook, but Chris says his father is Santa. He came to deliver a chemistry set for Becca. Then, he hears his elf, Dylan, and the reindeer flying away. Dylan calls Chris's phone, but Becca snaps it in half. She agrees to deliver the gift to Becca, but only if she can keep an eye on Chris.<br/><br/>They accidently set off the silent alarm, and an unarmed security officer stops them. Chris, still bound, hotwires the officer's car, and Avery jumps inside. They drive away. Over the cops' radio, they hear Santa Crook has struck the Mayor's house across town. Chris couldn't be the burglar. She wants to follow the story and break it. Chris wants to help her so he can deliver the world's gifts on time, but he has to make Avery believe he is Santa first.<br/><br/>This movie is a comedic mystery that hides the romance. Avery and Chris have a few hours to find the Santa Crook, clear their names, and uncover a story. At the same time, Chris has to convince Avery he is Santa and prove he can do the job to his father. They give each other confidence and reclaim their name. This film has a love story, but the mystery separates it from the others and makes it fun.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aworldrecordchristmas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aworldrecordchristmas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/catchmeifyouclaus.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/catchmeifyouclaus.jpeg"
     }
   }
 ];
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Haul Out the Holly: Lit Up",
+  "mtitle":"Ladies of the '80s: A Divas Christmas",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/haulouttheholly2.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/haulouttheholly2.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ladiesofthe80sdivachristmas.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ladiesofthe80sdivachristmas.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Christmas in Notting Hill",
+  "mtitle":"My Norwegian Holiday",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasinnottinghill.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasinnottinghill.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mynowegianholiday.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mynowegianholiday.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Holiday Road",
+  "mtitle":"Time for Her to Come Home for Christmas",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/holidayroad.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/holidayroad.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/timeforhertocomehomeforchristmas.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/timeforhertocomehomeforchristmas.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Letters to Santa",
+  "mtitle":"The Perfect In-Laws",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/letterstosanta.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/letterstosanta.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theperfectinlaws.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theperfectinlaws.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Catch Me If You Claus",
+  "mtitle":"Laughing All the Way",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/catchmeifyouclaus.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/catchmeifyouclaus.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/laughingalltheway.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/laughingalltheway.jpeg"
   }
 }
 
