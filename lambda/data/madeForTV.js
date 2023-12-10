@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Ladies of the '80s: A Divas Christmas",
-    "review":"Producer Alex convinces a network to bring back a classic '80s drama for a live TV Christmas performance. He invited the five main characters, but only four signed on. Then, Alex persuaded the higher-ups to hire his friend, Nell, to direct. Actresses Dana, Lauren, Margaux, and Lily get comfortable in the house. But everything goes awry when Juliette appears. They choose to stay and pretend to be kind.<br/><br/>The women work through a table read and see Nell and Alex's interaction. They decipher the two have an attraction for each other. They pull Nell aside and request more information. They had one date and kissed. Alex dropped out of college the next day and never called her. They restarted their friendship but never spoke about the kiss. They will use their wisdom to pair Alex and Nell by giving Nell the DIVA make-over. Can the women right the ship when their changes spark another man's interest?<br/><br/>This movie is for fans of '80s dramas and films. It has the signature slap, crazy storylines, and big hair. As the women focus on Nell and Alex, they must mend their friendship and overcome personal turmoil. They redefine DIVA for the next generation and allow the audience to fall in love with them. This film won't be a favorite of the season, but it is entertaining.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Christmas on Cherry Lane",
+    "review":"Lizzie and John will be parents in 2 weeks and moved into their first house. Lizzie's parents will come tomorrow to enjoy Christmas with them. However, most of their stuff is in boxes all over the house. Then, the doorbell rings. Lizzy's parents, Frank and Evelyn, came a day early. Lizzie and John step out of their home for some fresh air. Lizzie and John didn't think their first day at 7 Cherry Lane would be like this.<br/><br/>Regina's kids, Conrad and Winnie, create a plan on the front porch of 7 Cherry Lane. They will talk, eat, exchange gifts, and leave by 5 pm. Regina runs to the door when her boyfriend, Nelson, arrives with his new car. Winnie wants to drive it, but Nelson will save the first drive for his future wife. Regina reveals that she is engaged. Also, Regina will retire, sell the house, and move to Florida. Conrad vows to remake their Christmas memories so Regina will want to stay.<br/><br/>Quinn rings the doorbell at 7 Cherry Lane, and Mike and Zain answer in a panic. They have 14 guests coming over for Christmas dinner, and their kitchen is a disaster. Quinn promises to complete it soon, but Chef Mike wants to cook the meal at his restaurant. However, Zain wants the smell of Christmas dinner to waft through the house. Then, their social worker, Ann, comes to the door. Mike and Zain passed the final test, and a foster kid needs a placement tonight. As they say yes, a loud clang comes from the kitchen. They pull Ann outside and say they are ready. However, Mike isn't sure because the bedroom is empty, the kitchen is a mess, and 14 people will arrive for an unprepared dinner.<br/><br/>These three families face life-altering events in the same house but at different times. Lizzie and John are living in 1973. Conrad and Winnie never thought 1999 would end with their mother remarrying, retiring, and moving. Mike and Zain live in the current year and are updating Regina's old kitchen to match Chef Mike's needs. They share a beautiful and unbreakable bond, but only if they can make it through this holiday.<br/><br/>This movie is for Hallmarkies begging for a new storyline in Hallmark movies. This period film doesn't focus on someone finding love or career fulfillment. Fans will watch and try to make the connections. While one or two will be correct, there are more links than you can imagine. This story is beautifully scripted, acted, and set. It will stay on your DVR.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ladiesofthe80sdivachristmas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ladiesofthe80sdivachristmas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasoncherrylane.png",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasoncherrylane.png"
     }
   },
   {
     "option":"2",
-    "mtitle":"My Norwegian Holiday",
-    "review":"Jessica grades papers at a coffee shop while overhearing a woman breaking up with a man. The barista calls, 'Jessica Johnson.' Jessica, the man, and the woman all stand up. The woman grabs the drink, stops drinking in disgust, yells at the man for getting her drink wrong, and leaves. The man, Hernik, said he ordered the right drink, but the wrong Jessica Johnson grabbed it. She exits, but Henrik runs after her with a question. Before Henrik can ask, he bumps into Jessica and makes her spill her drink and drop her exams. She gathers everything and asks Henrik to maintain his distance.<br/><br/>Jessica enters her classroom and finishes grading papers when Henrik knocks on the door with an escaped exam. Then, Henrik asks her to take Jessica's non-refundable ticket to Norway. Jessica says no to the preposterous idea, but Henrik leaves his number on her desk and spots a troll wearing a bunad. The hand-carved troll is from Bergan, like Henrik. The troll belonged to Jessica's grandmother, who took care of Jessica after Jessica's mother died. Henrik considers it a sign, but Jessica thinks he's strange.<br/><br/>Jessica meets with her PhD advisor, Bill, for an extension. She is writing her dissertation on polar ice caps, and Bergan is the birthplace of modern meteorology. He will give her more time if she goes on the trip with Henrik. She packs her troll and a photo of her grandmother. Jessica plans to leave Henrik at the Norway airport but will become integral to Henrik's life forever.<br/><br/>This movie takes a while for the unbelievable story to start, but it's building to an unforgettable conclusion. Jessica has no family and plans to spend the holidays working on her dissertation in Norway. However, Henrik's loving and inviting family won't let that happen. They fall in love by building each other's confidence. While Jessica tells Henrik about her life, he keeps a wall up about his. He lets go, and she becomes his sounding board. This movie will have you in tears, happy and sad.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Magic in Mistletoe",
+    "review":"Famous author Harrington posts on social media and alienates his fans. He told the world he wasn't writing the 6th and final book in his Magic in Mistletoe series. And Christmas was only about the money. Harrington's publishing company, Silver Spark, must do damage control. Publisher Mallory calls their public relations expert, April, for help.<br/><br/>Mallory gathers the team into the war room and asks for opinions. April tells them about the Mistletoe Christmas Festival. Harrington hasn't been to his hometown, Mistletoe, in 5 years. The townspeople can post about it while Harrington does an apology tour. Mallory loves April's idea and runs with it. Now, April has to get Harrington on board.<br/><br/>Harrington sips his drink at a coffee shop while patrons give him dirty looks. A woman, April, walks in with a copy of Magic in Mistletoe and asks him to sign it. He notices the well-worn pages and questions her love for the series. April tells him she works for Silver Spark. April briefs Harrington her PR plan, and he says no. April threatens to sue Harrington for breach of contract and leaves. She will fly to Mistletoe and hopes he will be there.<br/><br/>April travels to Harrington's childhood home, which is now a museum for the books. Harrington's friend, Chris, lets her inside. She quips about Harrington's attitude and sees Harrington standing behind her. He agrees to attend three events of the festival and nothing more. She hopes to ease Harrington's prickly demeanor so he can retract his statement and release his final book. But will this trip home uncover more?<br/><br/>This movie starts with sharp dialogue as April and Harrington verbally spar. While viewers haven't read the fictional book, it comes to life through Harrington's friends, their costumes, and the locations. But viewers don't know what made Harrington turn on his novels, The Town of Mistletoe and Christmas. Once April and Harrington fall in love, the plot slows down and wanders into ordinary territory. This movie isn't a favorite, but you can spare a few hours to give it a chance.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mynowegianholiday.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mynowegianholiday.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/magicinmistletoe.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/magicinmistletoe.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Time for Her to Come Home for Christmas",
-    "review":"Carly sits on a bus headed to Waterford Creek. She diddles with her guitar pic while reading A Christmas to Remember. Pastor John and his wife, Susan, hired Carly to direct the choir before the Christmas service. Carly's mother, her only family, died recently. So, Carly is happy to get away from the memories.<br/><br/>Matthew sits on the bus after finishing his latest tour of duty. Matthew hopes to see his high school sweetheart again and pick up where they left off. He didn't think their relationship could handle the distance, so he broke up with her. Matthew sees a guitar pic on the bus floor as he disembarks. He picks it up and puts it in his bag.<br/><br/>John and Susan invite Carly to stay with them and attend Sunday service. Susan must contain her excitement about seeing Carly and wants to make the house more festive for her. So Susan asks her friend's son, Matthew, to get a tree. Carly goes to the tree shop and hears a man singing. It's Matthew. She asks him to join the choir because he has a beautiful tenor. Carly wears Matthew down, and he joins the choir. This moment is the first step to healing their past.<br/><br/>Inspired by Time for Me to Come Home for Christmas by Dorothy Shackleford and Travis Thrasher, this movie hints at a bigger plot for the audience but reveals it at the conclusion. The singers have great voices and fill out the storylines with heartwarming tales. However, the plot is slow and dull. Keep this movie on the back burner for a snow day.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"To All a Good Night",
+    "review":"Sam works at his father's development company. His dad, Otto, hands Sam a memory box. Later, Sam's cousin, co-worker Ella, hands Sam his mail. Sam reads a letter with an elephant stamp and runs out of the office. He hops on his motorcycle and rides to the creek.<br/><br/>Ceci gets a call from her art student's parents. Their child left their phone at the creek. She can't find the phone and calls Penny. Ceci sees a man riding a motorcycle through the woods. Then, the rider, Sam, disappears in the trees, and Ceci hears a sickening crash. His shoulder is injured, but he is conscious. Ceci stays by his side but keeps his helmet on to prevent more injuries. Sam comments on her elephant necklace and beauty. He asks Ceci to marry him on Christmas if he survives. She accepts his proposal, and Sam passes out.<br/><br/>Ceci goes to the hospital to check on Sam. With bribery, she gets Sam's room number. She brings a hamburger, a drink, and an elephant balloon. Ceci sees a text message on Sam's phone about a development deal. She runs out of the room before Sam returns and goes to work to look up Sam online. Ceci discovers that Sam works for a firm that creates luxury spaces on undeveloped property. She worries her stepmother, Vivian, wants to sell half her father's property.<br/><br/>Ceci and Penny return to the hospital, but Ceci takes off her necklace. She doesn't think Sam saw her face, but he would recognize the necklace. They ask Sam if he is in town for a land acquisition, but he doesn't offer any information. He does request a favor. Sam wants to put an ad in the paper to find the woman who saved him. Ceci will get closer to Sam to learn more about the deal, and he will do the same to discover if she saved him. They will find the link that brings them together, saves each other, and enriches the town.<br/><br/>This movie has several mysteries with one common denominator. That person created a legacy that healed others who suffered similar trauma. This film starts like Angel Eyes, but it gets better. Viewers should watch this movie when they can dedicate two hours to it. If you miss a moment, the story will not make sense. H.M.M. is the perfect place for this gem.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/timeforhertocomehomeforchristmas.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/timeforhertocomehomeforchristmas.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toallagoodnight.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toallagoodnight.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"The Perfect In-Laws",
-    "review":"Newlywed Xander comes to his family's estate after his father, Lionel, requests everyone return for an announcement. The house manager, Ms. Harper, greets Xander with a hug while his stepmother, Marlena, meets him with disdain. Xander's half-sister, Nicole, runs to the door to welcome him. Xander lets his family know his bride, Audrey, will arrive shortly.<br/><br/>Soon, Lionel's lawyer, niece Teresa, and Teresa's husband, Warren, join them. Marlena leaves and goes into Sonny's room. Marlena enjoys having an affair with Sonny under Lionel's nose.<br/><br/>Lionel sits with Marlena, Nicole, Xander, Teresa, and Warren. He informs them that he is selling the company. Xander is furious because his deceased mother started that company. Lionel reminds Xander that he is a majority shareholder. Then, Lionel pulls Marlena into his office. He has evidence of her affair and threatens to tell her charity.<br/><br/>Audrey arrives at the home, and Ms. Harper greets her. Audrey runs to Xander and learns Lionel's plan. Then, everyone hears a loud crash. Lionel drunkenly fell down their stairs and died. Well, at least that's what the police say. There is something devious about Audrey's in-laws. Can she uncover it before becoming the next victim?<br/><br/>This family is a boiling pot of unlimited tea. There are countless affairs, multiple plans, double-crosses, and murders. Viewers need a pen and paper to keep it all straight. And most of the characters are underhanded. So, the audience will watch to see who comes out on top. This film is all about the drama, and it's captivating. Sit back and enjoy this before someone ruins the ending.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Silent Night, Fatal Night",
+    "review":"Mallory entices her literary fans at the Gideon book reading and signs autographs. She utters to her manager, Michael, that this will be the last book of her successful series. Before Michael interjects, Carrie approaches the table with a book in hand. Carrie tells Mallory that she is Mallory's #1 fan and dedicates a podcast to her characters. Michael cuts Carrie off and sends Carrie away.<br/><br/>After the signing, Michael begs Mallory to continue the series, but she wants to write meaningful books for herself. Michael meets with Mallory's publisher, Wendy, and updates Wendy on Mallory's proclamation. Wendy reminds Michael that they have an agreement. They will sue for her advance and damages if Mallory doesn't write another Gideon novel. Wendy sees the look on Michael's face and knows he didn't tell Mallory about her advance because he kept it.<br/><br/>Michael talks to Mallory, but she won't budge. So, he gives Mallory his winter cabin key. It has everything she needs, including a space to write. She reluctantly takes the key and drives to the cabin. Mallory settles in with a book but wakes up handcuffed to a bed in the basement. Michael demands she uses every spare moment writing the next Gideon novel, or he will end her life. To make sure no one looks for her, Michael reported that Mallory died. Her fans mourn, but one fan finds the story suspicious and will start a one-woman search party. It's Carrie on the case.<br/><br/>One thing is true: Mallory has determination. However, Michael stays a step ahead or fights back. Carrie's admiration comes full circle in this film. Don't let the opening scene fool you with Carrie's enthusiasm. This film isn't Misery. It's not the best of the Slay Bells season. But it's solid entertainment.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theperfectinlaws.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theperfectinlaws.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/silentnightfatalnight.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/silentnightfatalnight.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Laughing All the Way",
-    "review":"Aubri works as a ghostwriter and assistant to the comedic legend Bella Deldomino. She helps Bella on set and at Bella's comedy club. Aubri decorates the club for Christmas with a Frosty. As she stumbles with the large decor, a man directs her to the best position. She puts the Frosty down and sees the man is Mike. Mike started at the club but, like many others, left when he became famous. Aubri wants nothing to do with him because he left her for Hollywood.<br/><br/>Aubri watches Bella during an interview, and the report asks Bella about sponsoring the Christmas Fest at the comedy club. Aubri planned the sponsorship but never told Bella. Bella furiously returns to her dressing room and confronts Aubri. The Christmas show will have to sell out to break even, and people don't like to leave their houses on the holiday.<br/><br/>Bella decides to get payback by forcing Aubri to work with Mike. Aubri believes that naming Mike the headliner will help the show sell tickets. He agrees because he is falling in love with Aubri and standup comedy for the second time. Everything is going in the right direction until Michael's manager calls. Mike got the next blockbuster, but he has to leave for LA now to do press. Will Michael choose Hollywood again?<br/><br/>This movie is the standard Hallmark movie on Lifetime. The comedic sets are average, and the one-liners are dull. The only stand out is Bella. She is intelligent, a diva, and the show. She steals every scene she is in. Otherwise, this story is forgettable and shouldn't waste space on your DVR.<br/><br/>1.5 out of 5 stars.",
+    "mtitle":"Mistletoe Match",
+    "review":"Olivia's boss, Lucille, takes her lead with the Mayor and gives it to Marcus. Lucille wants Olivia to write about the 10th annual Mistletoe Match. The matchmaking service touts a 90% success rate, but Lucille believes it's a lie and wants Olivia to write an exposé.<br/><br/>Widower Thomas asked his friend, Alfie, to get him an invite to the Mistletoe Match. He is ready to start dating again and thinks his daughter, Erin, can handle it. At last year's mixer, Alfie met his girlfriend, Mia. Now, she hosts the events. Thomas gets the invitation.<br/><br/>Olivia enters the mixer and sees Thomas standing there. They spark a conversation, and he walks her to the name badges. She doesn't tell Thomas that she is a reporter. She says goodbye and gives Thomas $5 because she mistook him for the concierge. The first event has the attendees put on an ugly sweater. They must find their sweater twin and build a gingerbread house with them. Olivia matches with Thomas. The pair disagree on seeking love, the holidays, and gingerbread houses.<br/><br/>Thomas and Olivia tease each other before the speed dating event. Afterward, they meet up because Olivia wants to avoid another talkative attendee. Then, Thomas hides from Mia because she is crowding him. Olivia has an idea. They can pretend to like each other. Mia will leave Thomas alone, and Olivia can avoid the talker and secretly work on her article. But what will they do when their faux feelings become real?<br/><br/>Thomas and Olivia's love story starts with a bed of lies. However, Olivia's is worse than Thomas's. The matchmaking activities are fun, informative, and festive. The conclusion is foreseeable, but the banter between Thomas and Olivia is entertaining. This movie is an easy way to kill two hours.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/laughingalltheway.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/laughingalltheway.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mistletoematch.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mistletoematch.jpeg"
     }
   }
 ];
@@ -58,48 +58,45 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Christmas on Cherry Lane",
+  "mtitle":"The Holiday Proposal Plan",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasoncherrylane.png",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasoncherrylane.png"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theholidayproposalplan.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theholidayproposalplan.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Magic in Mistletoe",
+  "mtitle":"The Secret Gift of Christmas",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/magicinmistletoe.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/magicinmistletoe.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesecretgiftofchristmas.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesecretgiftofchristmas.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"To All a Good Night",
+  "mtitle":"My Killer Reunion",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toallagoodnight.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toallagoodnight.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mykilllerreunion.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mykilllerreunion.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Silent Night, Fatal Night",
+  "mtitle":"Heaven Down Here",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/silentnightfatalnight.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/silentnightfatalnight.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/heavendownhere.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/heavendownhere.jpeg"
   }
 },
 {
   "option":"5",
-  "mtitle":"Mistletoe Match",
+  "mtitle":"Yes, Chef! Christmas",
   "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mistletoematch.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mistletoematch.jpeg"
-  }
-}
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/yeschefchristmas.jpeg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/yeschefchristmas.jpeg"
 
 */
