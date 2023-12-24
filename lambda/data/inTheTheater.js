@@ -1,6 +1,33 @@
 var inTheTheaters = [
   {
     "option":"1",
+    "mtitle":"Migration",
+    "review":"Mack and Pam Mallard swim in their pond with their ducklings, Gwen and Dax. Mack tells the ducklings that life beyond the pond is dangerous and filled with duck-eating herons. Pam sees another flock fly above in a migration formation, and they land in their pond. Mack looks for his kids and sees Dax talking to a duck in the other flock named Kim. Kim tells Dax that her family will fly to Jamaica for the winter and see water that glows. A smitten Dax wants to go, but Mack says no. The flock flies away, and Pam and Mack put their kids to bed.<br/><br/>Mack accidentally sits on his Uncle Dan. Dan agrees with Mack to stay in the pond's safety. Dan says Mack can be secure and die alone like him. Mack quickly changes his mind and wakes up Pam. He wants to migrate to Jamaica, and everyone jumps for joy. They do their manual checks and fly south. However, they notice other flocks moving in the other direction. Mack and Pam decide to stay on their path. Adventure awaits.<br/><br/>This movie is charming and well-executed. The graphics are flawless as the Mallards fly through the sky from the pond to New York. If you get motion sickness, don't see this film in 3D. Unlike most Illumination movies, the script doesn't introduce the audience to the antagonist until the halfway mark. The Mallards open their eyes to a new world, new adventures, and new problems, but they hold solid as a family. This movie is a G version of the National Lampoon vacation films. And come early to see the Minions-Vector short.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/migration.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/migration.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"The Iron Claw",
+    "review":"Jack Von Erich exits the arena after a grueling match to find his wife, Doris, and two sons waiting for him outside. Doris asks Jack how much the new Cadillac attached to their mobile home costs. Jack tells Doris he has to look like the NWA champion to get the belt. Doris prays for guidance in the front seat. Doris believes God will protect the family from the Von Erich Curse, but Jack thinks it's professional wrestling.<br/><br/>Years later, Jack runs WCCW promotion with his son, Kevin, at the top of the card. Jack and Doris's other sons, Kerry, Mike, and David, beam with pride at Kevin's in-ring accomplishments. Jack lets his sons know he has favorites in a particular order, but they are subject to change. Kerry is gearing up for the 1980 Olympics in Moscow, and Kevin will wrestle Harley Race in a non-title match. Jack announces it's David's time to get into the squared circle and tag with Kevin.<br/><br/>Kerry returns home after the U.S. pulls out of the Olympics. Jack adds Kerry to the family business and makes Kevin, Kerry, and David compete in 6-man tag team matches. After the Von Erichs battle, Jack announces that David will go for the NWA championship. Kevin knows he has gone down a rank on Jack's list. The Von Erichs will fight to be at the top of Jack's list and the wrestling world while fighting the family curse.<br/><br/>This movie is a stunning tribute to the Von Erichs by bringing their story to a peaceful end. The casting was top-notch, and the actors embodied their roles. You can sense the deep love these brothers had for one another. The director overlays the brothers in the locker room, and viewers see their similar struggles and suffering. It's unbelievable that one family went through so much tragedy. This movie deserves to be seen on the big screen because it is honest perfection.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theironclaw.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theironclaw.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Anyone But You",
+    "review":"Bea runs into a coffee shop and begs to use their bathroom. However, it's only for customers. As Bea, a law student, argues, a man, Ben, overhears them. He pretends Bea is his wife and orders a drink for her. They enjoy the day together, go to his house, and spend the night together.<br/><br/>Bea wakes up before Ben and slinks out of his house. Then, Bea calls her sister, Halle. Bea gushes over the romantic meeting but questions why she left early. Bea returns to explain her actions but overhears Ben talking to his friend, Pete. Ben says Bea is a mess and nothing to him. Bea leaves in tears without talking to Ben.<br/><br/>Six months later, Bea attends a party with Halle and Halle's girlfriend, Claudia. Claudia calls over her brother, Pete, and Pete's friend, Ben, to meet Halle. Then, Halle calls over Bea to meet Ben, and they instantly argue. Bea proudly shows off the engagement ring her fiancé, Jonathan, gave her. Their friends and family retreat as the two continue to fight.<br/><br/>Later, Halle and Claudia send their friends and family invitations to their Australian wedding. Bea and Ben see each other on the plane. Ben confronts Bea on breaking up with Jonathan and wants to know why. Bea refuses to answer. They land, and Pete meets them with startling news. Halle and Claudia want the wedding party to stay in the same house, including Bea and Ben. At the beach, Ben runs into the one who got away, Margaret, and her handsome boyfriend, Beau.<br/><br/>It doesn't take long for Ben and Bea's interactions to become combustible. So, Claudia, her family, and Halle plan to make Bea and Ben fall in love. However, Bea's parents feel that Bea's life is falling off track and that she is better with Jonathan. So, they used their frequent flyer miles to fly him to Australia to win Bea back. Bea and Ben quickly figure out Claudia and her family's plan. So, they decide to date to make their family happy, make Margaret jealous, and make Jonathan stop pursuing Bea. What can go wrong?<br/><br/>This movie brings the comedy to this rom-com. The couple has great chemistry and match wits. Their first interaction is a laugh riot that sets the tone of this film. The script isn't afraid to be raunchy and awkward. Viewers should keep their eyes open for words of wisdom written on the walls, sand, and signs. This film is for Bridesmaids fans who need a good romp and warm-hearted love.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/anyonebutyou.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/anyonebutyou.jpeg"
+    }
+  },
+  {
+    "option":"4",
     "mtitle":"Aquaman and the Lost Kingdom",
     "review":"Since Arthur became the King of Atlantis, he married and had a son, Arthur Jr.. However, he still declares himself Aquaman for the surface dwellers. Arthur loves being a dad, but the job of King disenchants him. He dislikes the political aspects of the job, and a council stops his ideas.<br/><br/>Dr. Stephen Shin works with David Kane to find Atlantis. Stephen travels to the icy corners of the globe and falls into a cavern. They follow a trail to a cavern pool and dive in. David finds a broken black trident and puts the pieces together. The creator of the trident promises to help David kill Aquaman, every person Aquaman loves, and everything Aquaman loves. But only if David frees the creator. He starts raiding ancient Atlantean artifacts and a fuel source called orichalcum. Soon, David raided all the stockpiles except for the one in Atlantis.<br/><br/>Arthur sees news reports for the surface world that the climate is haywire. Then, he goes to Atlantis and discovers something is poisoning the sea life. The council blames the surface, but Arthur assures them that the surface isn't to blame. Then, David strikes Atlantis and injures Aquaman's wife, Mera. He steals their stockpile of orichalcum before making his escape. Arthur's mother, Atlanna, and Mera's father, Nereus, uncover that David has been stealing the orichalum for five months. Using the fuel caused greenhouse gases to emit at an exponential level. Arthur wants to find David and stop him from destroying the plant, but only one man would know where David hides: Orm. Arthur must break his brother out of the Fisherman Kindom's prison undetected, find David, and save the world.<br/><br/>This sequel is more concise than its predecessor. It introduces viewers to new worlds while building on beloved characters. While the script doesn't state it, this film is a redemption story for Aquaman. The opening scene gives viewers a synopsis of the first film and swiftly introduces Arthur's updated roles. The dialog has a quick wit and doesn't force an unnecessary love story. The graphics have improved in this film, but 3D isn't necessary. There is one cringy mid-credit scene, but nothing in the post-credits. The conclusion opens the door for part three but doesn't promise it.<br/><br/>3.5 out of 5 stars.",
     "image":{
@@ -9,39 +36,12 @@ var inTheTheaters = [
     }
   },
   {
-    "option":"2",
+    "option":"5",
     "mtitle":"Wonka",
     "review":"Willy Wonka dreamed of being a magician while his mother worked by the river. She would bring him a cocoa bean every night and make him a personalized chocolate bar on his birthday. He thinks it's the best chocolate in the world, but his mother says the best chocolate is at the Galeries Gourmet. Willy wishes they could open a shop there and sell his mother's chocolates.<br/><br/>Willy sails into town with his travel chocolate factory, tattered clothes, 12 silver sovereigns, and dream of owning a chocolate store in Galeries Gourmet. It doesn't take long for Willy to spend and lose all his money. Then, Bleacher approaches to pull his dog away from Willy. He knows a place Willy can stay that's affordable. Mrs. Scrubitt owns a laundry and boarding house. She will let Willy stay one night if he pays one silver sovereign by 6 pm tomorrow. A girl pops out of the backroom and warns Willy to read the fine print. Willy writes his name on the dotted line.<br/><br/>Willy travels to the Galeries Gourmet and introduces his hover chocolates to the crowd for one silver sovereign. Before anyone can try a piece, chocolatiers Authur Slugworth, Prodnose, and Fickelguber slink to Willy and grab a candy. They hate it because they believe chocolate should be simple and for the rich. Slugworth calls the Chief of Police to remove Willy for selling chocolate without a store. The Chief of Police takes Willy's earnings and escorts him out of the market.<br/><br/>Willy returns to Mrs. Scrubitt to pay his tab because he has one silver sovereign left. However, his current bill is 10,000 silver sovereign. Willy admits he can't pay it. So, he will have to work it off. Willy meets Mrs. Scrubitt's indentured servants - accountant Abacus, plumber Piper, comedian Larry, telephone operator Lottie, and the little girl Noodle.<br/><br/>After a day of scrubbing, Noddles takes Willy to his sleeping quarters. Willy wants to leave to sell his chocolates but can't figure out how. She gives him an idea. Willy believes he will have the money to pay Mrs. Scrubitt and buy a shop soon. However, Slugworth, Prodnose, and Fickelguber, also known as the Chocolate Cartel, conspire against Willy. Willy will need more than his dream and friends to survive. He will need an Oompa-Loompa.<br/><br/>Inspired by Charlie and the Chocolate Factory, this musical prequel is a delight for the eyes and ears. The vibrant colors are for the most massive screen possible, and the music will spark your imagination. The plot provides long-time fans with Willy's background and pays homage to the original story. This musical is hilarious with a humous seduction, a thieving Oompa-Loompa, and a growing Chief of Police. Along the way, Willy makes fruitful and loving connections. And don't leave immediately, because Lofty will update the audience on everyone's whereabouts. This film is worth its weight in chocolate.<br/><br/>4.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/wonka.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/wonka.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"The Shift",
-    "review":"Kevin watches the news report about his hedge fund company closing its doors and firing all its employees after the housing market crashes. He sits at a bar with a gold AA chip in one hand and a beer in the other. Molly walks up to him as he puts the glass to his lips and calls him the saddest, most pathetic man she has ever seen. She offers tea instead, and Kevin leaves his untouched beer behind.<br/><br/>Years later, Molly and Kevin's marriage falls apart, and Kevin works a dead-end job. Kevin drives and calls Molly on the phone. A truck hits him. Kevin is in the alleyway moments later, and a man slaps him. Kevin regains consciousness, and the man calls Kevin by name. Then Kevin notices the streets are empty. When Kevin tries to call the police, the man laughs. The man calls himself 'The Benefactor' and invites Kevin to eat.<br/><br/>The Benefactor explains that he took Kevin out of his world through a shift. The Benefactor has Kevins all over the multiverse working for him as Shifters. The Benefactor gives Kevin a choice. He can go back to his life with an unhappy wife and a horrible job. Or Kevin can become a Shifter and move people throughout the universe. Kevin immediately starts to pray to God. The Benefactor becomes furious and tells Kevin that God won't protect him. Then, The Benefactor disappears. He promises God that he will return to his universe and Molly no matter how long it takes. But can Kevin keep the faith in The Benefactor's chaotic and bleak world?<br/><br/>This movie is the science fiction telling of Job. It has futuristic devices like the deviator to transport people from one universe to another. The Benefactor tries to prove to Kevin that God abandoned him. But Kevin secretly passes the gospel to the people. The shift sequences are well-timed, and the movie packs an emotional punch for people who have lost children. While the movie is entertaining, you won't want to buy it on DVD.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theshift.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theshift.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Silent Night",
-    "review":"Brian runs in an ugly Christmas sweater, a jingle bell necklace, and bloody hands. He finds the drive-by shooters in a high-speed chase. The driver gets out, beats Brian, and shoots Brian in the windpipe. Brian wakes up in the hospital. He has motor functions but has lost his ability to talk and needs an electrolarynx to speak.<br/><br/>After gaining the ability to walk with a cane, Brian returns home with his wife, Saya. Brian remembers his last moments with Taylor. They were playing in the front yard, enjoying the holiday. Then, two gang members drove down their street, shooting at each other, and a stray bullet hit Taylor. Brian lays in Taylor's bed and comes up with a plan. Brian will research, train, and stock supplies until Christmas Eve. That night, he will kill them all.<br/><br/>This film is an action-driven movie because there is zero dialog. There are a few lines in text messages, but you can count them on two hands. The battles are bloody and entertaining. Brian doesn't believe taking down the gang is enough. Instead, he must kill them to even the score. This movie is a nod to Joel's acting skills. He must convey depression, fury, and profound loss without a single word. While you won't want to buy this movie, it's worth seeing in the theaters for action fans.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/silentnight.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/silentnight.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Napoleon",
-    "review":"Napoleon stands guard as the people of France behead Queen Marie Antoinette. Revolutionary leader Paul Barras asks Napoleon what the troops need on the battlefield. Then, Napoleon alerts Paul that Toulon is a port city. If they take siege of the port, France will control the city. Next, Napoleon and his army executed Maximilien Robespierre and ended the Reign of Terror to restore order in France.<br/><br/>Napoleon enjoys his new title of General at a party and notices a woman, Joséphine, playing cards. She boldly approached him as he stammered. Later, Joséphine sends her son to retrieve his deceased father's weapon. He takes pity on the boy and returns the weapon to see Josephine standing atop the staircase. Soon, Napoleon takes Joséphine as his bride. With love conquered, Napoleon only has one more thing to conquer: the world.<br/><br/>The rise of Napoleon is as astounding as it is complex. He was brilliant on the battlefield but didn't have the social graces of a politician. This movie covers 23 years of Napoleon's rise and fall. The director, writer, costume designer, and set designer paid great attention to detail. The beheading and battles were unadulterated bloodbaths that left nothing to the imagination. However, the movie begins to lull after Joséphine's death. The big screen is the best way to see this movie, but it's better for history buffs.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/napoleon.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/napoleon.jpeg"
     }
   }
 ];
@@ -56,32 +56,6 @@ module.exports = inTheTheaters;
 
 /*
 
-{
-  "option":"1",
-  "mtitle":"Migration",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/migration.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/migration.jpeg"
-  }
-},
-{
-  "option":"2",
-  "mtitle":"The Iron Claw",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theironclaw.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theironclaw.jpeg"
-  }
-},
-{
-  "option":"3",
-  "mtitle":"Anyone But You",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/anyonebutyou.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/anyonebutyou.jpeg"
-  }
-}
+
 */
 
