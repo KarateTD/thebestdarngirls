@@ -29,7 +29,7 @@ var inTheTheaters = [
   {
     "option":"4",
     "mtitle":"Aquaman and the Lost Kingdom",
-    "review":"Since Arthur became the King of Atlantis, he married and had a son, Arthur Jr.. However, he still declares himself Aquaman for the surface dwellers. Arthur loves being a dad, but the job of King disenchants him. He dislikes the political aspects of the job, and a council stops his ideas.<br/><br/>Dr. Stephen Shin works with David Kane to find Atlantis. Stephen travels to the icy corners of the globe and falls into a cavern. They follow a trail to a cavern pool and dive in. David finds a broken black trident and puts the pieces together. The creator of the trident promises to help David kill Aquaman, every person Aquaman loves, and everything Aquaman loves. But only if David frees the creator. He starts raiding ancient Atlantean artifacts and a fuel source called orichalcum. Soon, David raided all the stockpiles except for the one in Atlantis.<br/><br/>Arthur sees news reports for the surface world that the climate is haywire. Then, he goes to Atlantis and discovers something is poisoning the sea life. The council blames the surface, but Arthur assures them that the surface isn't to blame. Then, David strikes Atlantis and injures Aquaman's wife, Mera. He steals their stockpile of orichalcum before making his escape. Arthur's mother, Atlanna, and Mera's father, Nereus, uncover that David has been stealing the orichalum for five months. Using the fuel caused greenhouse gases to emit at an exponential level. Arthur wants to find David and stop him from destroying the plant, but only one man would know where David hides: Orm. Arthur must break his brother out of the Fisherman Kindom's prison undetected, find David, and save the world.<br/><br/>This sequel is more concise than its predecessor. It introduces viewers to new worlds while building on beloved characters. While the script doesn't state it, this film is a redemption story for Aquaman. The opening scene gives viewers a synopsis of the first film and swiftly introduces Arthur's updated roles. The dialog has a quick wit and doesn't force an unnecessary love story. The graphics have improved in this film, but 3D isn't necessary. There is one cringy mid-credit scene, but nothing in the post-credits. The conclusion opens the door for part three but doesn't promise it.<br/><br/>3.5 out of 5 stars.",
+    "review":"Since Arthur became the King of Atlantis, he married and had a son, Arthur Jr.. However, he still declares himself Aquaman for the surface dwellers. Arthur loves being a dad, but the job of King disenchants him. He dislikes the political aspects of the job, and a council stops his ideas.<br/><br/>Dr. Stephen Shin works with David Kane to find Atlantis. Stephen travels to the icy corners of the globe and falls into a cavern. They follow a trail to a cavern pool and dive in. David finds a broken black trident and puts the pieces together. The creator of the trident promises to help David kill Aquaman, every person Aquaman loves, and everything Aquaman loves. But only if David frees the creator. He starts raiding ancient Atlantean artifacts and a fuel source called orichalcum. Soon, David raided all the stockpiles except for the one in Atlantis.<br/><br/>Arthur sees news reports for the surface world that the climate is haywire. Then, he goes to Atlantis and discovers something is poisoning the sea life. The council blames the surface, but Arthur assures them that the surface isn't to blame. Then, David strikes Atlantis and injures Aquaman's wife, Mera. He steals their stockpile of orichalcum before making his escape. Arthur's mother, Atlanna, and Mera's father, Nereus, uncover that David has been stealing the orichalum for five months. Using the fuel caused greenhouse gases to emit at an exponential level. Arthur wants to find David and stop him from destroying the plant, but only one man would know where David hides: Orm. Arthur must break his brother out of the Fisherman Kingdom's prison undetected, find David, and save the world.<br/><br/>This sequel is more concise than its predecessor. It introduces viewers to new worlds while building on beloved characters. While the script doesn't state it, this film is a redemption story for Aquaman. The opening scene gives viewers a synopsis of the first film and swiftly introduces Arthur's updated roles. The dialog has a quick wit and doesn't force an unnecessary love story. The graphics have improved in this film, but 3D isn't necessary. There is one cringy mid-credit scene, but nothing in the post-credits. The conclusion opens the door for part three but doesn't promise it.<br/><br/>3.5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aquaman2.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aquaman2.jpeg"
@@ -56,6 +56,33 @@ module.exports = inTheTheaters;
 
 /*
 
+{
+  "option":"1",
+  "mtitle":"The Color Purple",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"",
+    "largeImageUrl":""
+  }
+},
+{
+  "option":"2",
+  "mtitle":"The Boys in the Boat",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"",
+    "largeImageUrl":""
+  }
+},
+{
+  "option":"3",
+  "mtitle":"Ferrari",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"",
+    "largeImageUrl":""
+  }
+}
 
 */
 
