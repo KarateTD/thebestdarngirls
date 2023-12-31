@@ -5,4 +5,5 @@ s3*.sh
 build.sh
 desktop.ini
 *.copy
+resize*.sh
 **/.DS_Store
