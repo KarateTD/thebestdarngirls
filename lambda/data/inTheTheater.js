@@ -1,6 +1,33 @@
 var inTheTheaters = [
   {
     "option":"1",
+    "mtitle":"The Color Purple",
+    "review":"Celie and her sister, Nettie, reminisce about their mother when Celie's water breaks. Celie gives birth to a baby boy and names him Adam. Then, her father, Alfonso, enters to give the baby to God. Celie begs for more time with him, but her father says no. It's his baby, and he can do what he pleases.<br/><br/>Nettie walks home from school, and Mister follows her on a horse while serenading her. She tells him to leave her alone. Mister follows Nettie home and asks Alfonso for her hand in marriage. Alfonso says no. However, Celie means nothing to him, but she can work. As the men barter, Nettie and Celie watch. Alfonso tells Celie to pack her bags because she will marry Mister.<br/><br/>Celie, on foot, follows Mister on horseback to his home. He introduces her to his kids and tells her to start cleaning. Celine prepares dinner, and Mister demands to know why she didn't bathe the kids. She suggests doing it in the morning, and he slaps her to the floor. Late at night, Celie lays in bed and sees a picture of Shug Avery. Mister admits that's the woman he should've married. As Mister climbs on Celie, Celie stares at Shug's picture and dreams about her.<br/><br/>A few days later, Celie hears a knock at the door. It's Nettie. Alfonso started touching her, so she ran away. Celie begs Mister to let Nettie stay. He says yes. Everything seems to be going well until Mister creeps into Nettie's room. She pleads with him to stop and fights him when Mister resists. He grabs his gun and drags her outside. He threatens to shoot Nettie if she ever returns. When Celie tries to leave, Mister pulls her back and refuses to let Celie go. Nettie promises to write Celie once a week to let Celie know she is alive. But the letters never come, and Celie falls deeper into a loveless marriage of abuse. What will it take for Celie to discover a way to love herself and triumph over her dire circumstances?<br/><br/>Based on The Color Purple: A New Musical, this movie doesn't change the story. It only adds music to the plot. Now, the writers shorten the beginning between Nettie and Celie talking about a man doing his business. Also, the writers removed most of the internal monologue. The movie passes the torch between the original Celie and the current. Also, the sets change from a practical set to a stage setting without taking the audience out of the moment. The vocal performances are second to none, with perfect comedic timing. Be ready to sing, dance, cry, and stand taller after seeing this gem come to life on the silver screen.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecolorpurple.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecolorpurple.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"The Boys in the Boat",
+    "review":"In 1936, Joe Rantz attended the University of Washington for engineering. He needs to pay for the 2nd half of this semester in two weeks. After engineering class, Joe's friend, Roger, tells him the rowing team will pay crew members and offer housing. Coach Al Ulbrickson introduces the men to the other coaches, including Coach Thomas Bolles and the boatbuilder George Pocock. The coaches will decide who will join the varsity and junior varsity 8-men teams.<br/><br/>After a grueling tryout, Al picks Joe, Roger, and the other men. The president says they need to win, and he can ask the former students for more money. But winning one race isn't enough. They need to win gold at the Olympics. After the JV team races in the regatta and beat the best time ever by seconds, Al gets an unorthodox idea. Instead of sending the varsity team to compete in Poughkeepsie, he can send JV. The president, donors, and varsity team angrily erupt after Al's announcement. However, he won't budge. Can the JV team prove Al right by making it to the Olympics and winning gold?<br/><br/>Based on The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics by Daniel James Brown, this film focuses on Al, Joe, and their obstacles. Al went with his gut and made an unpopular choice. And he suffered along the way for it. Each time the team hit a new impossible milestone, someone moved the goalpost. Joe raised himself since he was 14. He has to learn how to depend on others and become one. This movie will make you cheer in your seat, but you won't have the urge to delve deeper into this historic win.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theboysintheboat.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theboysintheboat.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Ferrari",
+    "review":"Enzo Ferrari quietly gets out of bed. He kisses his sleeping girlfriend, Lina, and son, Piero, goodbye and pushes his car down the street so it doesn't wake them. Enzo avoids reporters and enters his office to answer phone calls. Enzo's wife, Laura, demands to know why he was late. She tells him that Ferarri is broke and leaves. Enzo is racing more vehicles than he makes.<br/><br/>His advisor tells Enzo to talk to manufacturers like Henry Ford to create an assembly partnership. Then, he asks Enzo to do one thing before meeting with other partners. Enzo must get Laura's share of the company for better bargaining power. However, he knows how to attract partners. They will run to him if he wins the <lang xml:lang='it-IT'>Mille Miglia</lang> and manipulates the press. Enzo thinks the win could also convince Laura to sell. However, Enzo can't easily sway Laura because she discovers Enzo's secret. Can Enzo save Ferrari and his personal life? Or will he sacrifice one for the other?<br/><br/>Based on Enzo Ferrari: The Man and The Machine by Brock Yates, this movie is painfully slow but well-acted. Enzo had one focus - Ferrari Racing. Everything else comes second, even manufacturing. One moment in the movie will make you sit in shock and horror. The film didn't try to make any character the hero and clearly explained everyone's intentions and motivations. However, it didn't need to take 2 hours. This film is for people who like drama with a bit of action. Everyone else should wait for streaming.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ferrari.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ferrari.jpeg"
+    }
+  },
+  {
+    "option":"1",
     "mtitle":"Migration",
     "review":"Mack and Pam Mallard swim in their pond with their ducklings, Gwen and Dax. Mack tells the ducklings that life beyond the pond is dangerous and filled with duck-eating herons. Pam sees another flock fly above in a migration formation, and they land in their pond. Mack looks for his kids and sees Dax talking to a duck in the other flock named Kim. Kim tells Dax that her family will fly to Jamaica for the winter and see water that glows. A smitten Dax wants to go, but Mack says no. The flock flies away, and Pam and Mack put their kids to bed.<br/><br/>Mack accidentally sits on his Uncle Dan. Dan agrees with Mack to stay in the pond's safety. Dan says Mack can be secure and die alone like him. Mack quickly changes his mind and wakes up Pam. He wants to migrate to Jamaica, and everyone jumps for joy. They do their manual checks and fly south. However, they notice other flocks moving in the other direction. Mack and Pam decide to stay on their path. Adventure awaits.<br/><br/>This movie is charming and well-executed. The graphics are flawless as the Mallards fly through the sky from the pond to New York. If you get motion sickness, don't see this film in 3D. Unlike most Illumination movies, the script doesn't introduce the audience to the antagonist until the halfway mark. The Mallards open their eyes to a new world, new adventures, and new problems, but they hold solid as a family. This movie is a G version of the National Lampoon vacation films. And come early to see the Minions-Vector short.<br/><br/>4 out of 5 stars.",
     "image":{
@@ -16,33 +43,6 @@ var inTheTheaters = [
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theironclaw.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theironclaw.jpeg"
     }
-  },
-  {
-    "option":"3",
-    "mtitle":"Anyone But You",
-    "review":"Bea runs into a coffee shop and begs to use their bathroom. However, it's only for customers. As Bea, a law student, argues, a man, Ben, overhears them. He pretends Bea is his wife and orders a drink for her. They enjoy the day together, go to his house, and spend the night together.<br/><br/>Bea wakes up before Ben and slinks out of his house. Then, Bea calls her sister, Halle. Bea gushes over the romantic meeting but questions why she left early. Bea returns to explain her actions but overhears Ben talking to his friend, Pete. Ben says Bea is a mess and nothing to him. Bea leaves in tears without talking to Ben.<br/><br/>Six months later, Bea attends a party with Halle and Halle's girlfriend, Claudia. Claudia calls over her brother, Pete, and Pete's friend, Ben, to meet Halle. Then, Halle calls over Bea to meet Ben, and they instantly argue. Bea proudly shows off the engagement ring her fiancé, Jonathan, gave her. Their friends and family retreat as the two continue to fight.<br/><br/>Later, Halle and Claudia send their friends and family invitations to their Australian wedding. Bea and Ben see each other on the plane. Ben confronts Bea on breaking up with Jonathan and wants to know why. Bea refuses to answer. They land, and Pete meets them with startling news. Halle and Claudia want the wedding party to stay in the same house, including Bea and Ben. At the beach, Ben runs into the one who got away, Margaret, and her handsome boyfriend, Beau.<br/><br/>It doesn't take long for Ben and Bea's interactions to become combustible. So, Claudia, her family, and Halle plan to make Bea and Ben fall in love. However, Bea's parents feel that Bea's life is falling off track and that she is better with Jonathan. So, they used their frequent flyer miles to fly him to Australia to win Bea back. Bea and Ben quickly figure out Claudia and her family's plan. So, they decide to date to make their family happy, make Margaret jealous, and make Jonathan stop pursuing Bea. What can go wrong?<br/><br/>This movie brings the comedy to this rom-com. The couple has great chemistry and match wits. Their first interaction is a laugh riot that sets the tone of this film. The script isn't afraid to be raunchy and awkward. Viewers should keep their eyes open for words of wisdom written on the walls, sand, and signs. This film is for Bridesmaids fans who need a good romp and warm-hearted love.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/anyonebutyou.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/anyonebutyou.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Aquaman and the Lost Kingdom",
-    "review":"Since Arthur became the King of Atlantis, he married and had a son, Arthur Jr.. However, he still declares himself Aquaman for the surface dwellers. Arthur loves being a dad, but the job of King disenchants him. He dislikes the political aspects of the job, and a council stops his ideas.<br/><br/>Dr. Stephen Shin works with David Kane to find Atlantis. Stephen travels to the icy corners of the globe and falls into a cavern. They follow a trail to a cavern pool and dive in. David finds a broken black trident and puts the pieces together. The creator of the trident promises to help David kill Aquaman, every person Aquaman loves, and everything Aquaman loves. But only if David frees the creator. He starts raiding ancient Atlantean artifacts and a fuel source called orichalcum. Soon, David raided all the stockpiles except for the one in Atlantis.<br/><br/>Arthur sees news reports for the surface world that the climate is haywire. Then, he goes to Atlantis and discovers something is poisoning the sea life. The council blames the surface, but Arthur assures them that the surface isn't to blame. Then, David strikes Atlantis and injures Aquaman's wife, Mera. He steals their stockpile of orichalcum before making his escape. Arthur's mother, Atlanna, and Mera's father, Nereus, uncover that David has been stealing the orichalum for five months. Using the fuel caused greenhouse gases to emit at an exponential level. Arthur wants to find David and stop him from destroying the plant, but only one man would know where David hides: Orm. Arthur must break his brother out of the Fisherman Kingdom's prison undetected, find David, and save the world.<br/><br/>This sequel is more concise than its predecessor. It introduces viewers to new worlds while building on beloved characters. While the script doesn't state it, this film is a redemption story for Aquaman. The opening scene gives viewers a synopsis of the first film and swiftly introduces Arthur's updated roles. The dialog has a quick wit and doesn't force an unnecessary love story. The graphics have improved in this film, but 3D isn't necessary. There is one cringy mid-credit scene, but nothing in the post-credits. The conclusion opens the door for part three but doesn't promise it.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aquaman2.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aquaman2.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Wonka",
-    "review":"Willy Wonka dreamed of being a magician while his mother worked by the river. She would bring him a cocoa bean every night and make him a personalized chocolate bar on his birthday. He thinks it's the best chocolate in the world, but his mother says the best chocolate is at the Galeries Gourmet. Willy wishes they could open a shop there and sell his mother's chocolates.<br/><br/>Willy sails into town with his travel chocolate factory, tattered clothes, 12 silver sovereigns, and dream of owning a chocolate store in Galeries Gourmet. It doesn't take long for Willy to spend and lose all his money. Then, Bleacher approaches to pull his dog away from Willy. He knows a place Willy can stay that's affordable. Mrs. Scrubitt owns a laundry and boarding house. She will let Willy stay one night if he pays one silver sovereign by 6 pm tomorrow. A girl pops out of the backroom and warns Willy to read the fine print. Willy writes his name on the dotted line.<br/><br/>Willy travels to the Galeries Gourmet and introduces his hover chocolates to the crowd for one silver sovereign. Before anyone can try a piece, chocolatiers Authur Slugworth, Prodnose, and Fickelguber slink to Willy and grab a candy. They hate it because they believe chocolate should be simple and for the rich. Slugworth calls the Chief of Police to remove Willy for selling chocolate without a store. The Chief of Police takes Willy's earnings and escorts him out of the market.<br/><br/>Willy returns to Mrs. Scrubitt to pay his tab because he has one silver sovereign left. However, his current bill is 10,000 silver sovereign. Willy admits he can't pay it. So, he will have to work it off. Willy meets Mrs. Scrubitt's indentured servants - accountant Abacus, plumber Piper, comedian Larry, telephone operator Lottie, and the little girl Noodle.<br/><br/>After a day of scrubbing, Noddles takes Willy to his sleeping quarters. Willy wants to leave to sell his chocolates but can't figure out how. She gives him an idea. Willy believes he will have the money to pay Mrs. Scrubitt and buy a shop soon. However, Slugworth, Prodnose, and Fickelguber, also known as the Chocolate Cartel, conspire against Willy. Willy will need more than his dream and friends to survive. He will need an Oompa-Loompa.<br/><br/>Inspired by Charlie and the Chocolate Factory, this musical prequel is a delight for the eyes and ears. The vibrant colors are for the most massive screen possible, and the music will spark your imagination. The plot provides long-time fans with Willy's background and pays homage to the original story. This musical is hilarious with a humous seduction, a thieving Oompa-Loompa, and a growing Chief of Police. Along the way, Willy makes fruitful and loving connections. And don't leave immediately, because Lofty will update the audience on everyone's whereabouts. This film is worth its weight in chocolate.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/wonka.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/wonka.jpeg"
-    }
   }
 ];
 
@@ -56,33 +56,7 @@ module.exports = inTheTheaters;
 
 /*
 
-{
-  "option":"1",
-  "mtitle":"The Color Purple",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
-  }
-},
-{
-  "option":"2",
-  "mtitle":"The Boys in the Boat",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
-  }
-},
-{
-  "option":"3",
-  "mtitle":"Ferrari",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"",
-    "largeImageUrl":""
-  }
-}
+
 
 */
 
