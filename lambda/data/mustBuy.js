@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"The Holdovers",
+    "review":"The Holdovers was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":"B0CLQR5LYY"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theholdovers.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theholdovers.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"Dumb Money",
     "review":"Keith Gill, a financial broker for MassMutual, meets with his friend, Briggsy, at a bar to discuss their investments. Keith admits that he invested $53,000 into GameStop. Briggsy can't believe it because hedge funds, including Gabe Plotkin's Melvin Capital Management, are shorting the stock. Keith goes home to his wife, Caroline, and baby girl. He posted his ideas on the Reddit forum Wall Street Bets, but no one listened. Caroline tells him to make another video. Keith walks to his basement, changes his shirt, puts on a red headband, and goes live as Roaring Kitty.<br/><br/>Jenny, a nurse, is a divorced mother of two and follows Wall Street Bets. She listens to Roaring Kitty and buys GameStop stock on the Robinhood app. Marcos works at GameStop and sees it struggling. Marcos decides to put a few dollars into GameStop after watching the stream. RiRi, a college student, has over $100,000 in student loan debt. She invested money into GameStop and encouraged others to do the same. Harmony listens to RiRi, watches Roaring Kitty, and starts to invest while falling for RiRi.<br/><br/>By January, Steve Cohen calls Gabe about GME. He warns Gabe that one person is driving up the buying. Gabe watches a few clips and doubles down on the short sale. Ken Griffin laughs at retail investors and calls them Dumb Money. The hedge fund managers aren't the only people watching GameStop. Vlad Tenev and Baiju Bhatt, owners of the Robinhood App, saw the number of users skyrocket. But none of them know that the Apes will expose Robinhood and cause a short squeeze that will spark a media frenzy, social payback, and a congressional hearing.<br/><br/>Based on The Antisocial Network by Ben Mezrich, this movie mixes real-life events with a compilation of stories from retail investors. The plot doesn't describe how to short a stock, what hedge funds are, or what a short squeeze is. Instead, the audience gets to know the man behind Roaring Kitty. He ignited the masses and made investment companies take the Apes seriously. This film has engaging dialogue, great music, and realistic portrayals. It gives you an overview of the players, their jobs, and their net worth. The audience sees how they all fared at the end. They wanted to take down the system but became the product. So, sit back, take notes, and enjoy the social gamification of the market.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"PAW Patrol: The Mighty Movie",
     "review":"The Paw Patrol gets a distress call from the J and H Junkyard. Someone stole their 10-ton magnet and started a fire during the getaway. The pups save Janet and Hank but wonder why someone would steal it. They don't ponder for long because they want to run home to see the meteor shower over Adventure Bay. The crew readies the snacks as Ryder introduces them to The Junior Patrollers, Nano, Tot, and Mini. The meteor is heading toward Adventure Bay. They run to the town, secure everyone, and clear a path. Ryder and the pups go to the crater and find the meteor pulsating. Ryder decides to examine it in his lab.<br/><br/>The news reports that Victoria Vance pulled the meteor to Earth and broadcast her crime on social media. She used the powerful magnet to attract the meteor because something powerful was inside. The police find her post, arrest Victoria, and put her in jail. Her new cellmate is Mayor Humdinger and his cats.<br/><br/>A bright light wakes up Skye, and she walks towards it. She touches the meteor, and it shatters, leaving seven crystals behind. One crystal attaches to her collar, and Sky can fly. Each crystal latches on to them. Rubble becomes a wrecking ball while Chase gets super speed. Zuma can control and become water, while Marshall can shoot fireballs from his paws. And Zuma becomes Magneto. Liberty tries with all her might but doesn't have powers. Adventure Bay marvels at their upgraded heroes and plasters them all over the news. Victoria sees the report and vows to take back the pups' powers. Humdinger offers to help break Victoria out if she shares their abilities. Can the Paw Patrol defeat Victoria and Humdinger before she takes their powers?<br/><br/>Before the movie starts, their is a short music video, a Dora short, and Pup theater etiquette for the kids. This constant change may confuse younger viewers, so parents should be ready to explain. The film is good clean entertainment with lots of action. Also, it provides an origin story for Skye. The graphics and storyline are fun for the entire family. There are jokes for adults, but they are not innuendoes. The movie is comically self-aware and entertains without dumbing down the content or making inappropriate quips over kids' heads. Bring the entire family to enjoy this film.<br/><br/>4.5 out of 5 stars for kids and 3.5 out of 5 stars for adults.",
      "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Indiana Jones and the Dial of Destiny",
     "review":"Indiana Jones and Basil Shaw battle the Nazis to recover the Lance of Longinus on a Nazi plunder train. However, Jones and the Nazi astrophysicist Jürgen Voller discover the artifact is fake. Among the train relics, Voller found Antikythera, a mechanism to locate fissures in time. Jones and Shaw battle Voller on the train and steal the Antikythera from Voller. Shaw is happy to have the device, but Jones knows they only have half of it.<br/><br/>Indiana Jones teaches his last class and retires. He goes to the local pub to celebrate, and a student sits beside him. He doesn't recognize her immediately until she tells Jones her name: Helena Shaw. She is Basil's daughter and Jones's goddaughter. She wants to know more about the relic and its current location. She believes Basil knew where to find the other half. Jones takes Helena to the school's archives and removes the machine from a hidden drawer. When CIA operatives distract Jones, Helena grabs the Dial and runs away.<br/><br/>The operatives work for Voller, who now hides as a NASA scientist on the recently-successful Apollo 11 project. They murder Jones's former co-worker but can't find Helena. Jones tries to call for help after discovering his co-worker's body, but an operative stops and grabs Jones. Jones manipulates the Apollo parade to escape and runs to Sallah for assistance. Sallah uncovered that Helena isn't a student. She is a grifter who sells historical artifacts on the black market. Jones must find Helena and the Dial before Voller finds them.<br/><br/>This review will feel disjointed because the action is missing to remove spoilers. The movie nods to the original but doesn't alienate new viewers. Helena is brilliant, but she isn't an archeologist. While she displays a careless exterior, Jones sees her passion for history and Basil's legacy. Jones is a hero without a purpose. He needs this mission to remember the man he wants to be. This new installment has a temporal plot. But it's not the film's focus. The storyline is about the hunt, not time travel. Audiences should see this movie on the big screen and fall in love for the first time or all over again.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"A Haunting in Venice",
     "review":"Hercule Poirot retires in Venice and avoids new cases with the help of his bodyguard, Vitale Portfoglio. Vitale runs to Hercule's rooftop with a message from a friend. Then, Vitale shows Hercule an apple, and Hercule knows that author Ariadne Oliver is there. An actress, Rowena Drake, hired a medium, Joyce Reynolds, to communicate with her deceased daughter, Alicia, in a séance. Alicia committed suicide after her fiancé, Maxime, left her and six months later became engaged to another woman. Ariadne was able to uncover fakes before but believes Joyce is the real deal. Ariadne is writing a book about Joyce, and proving Joyce wrong will make the book a best-seller.<br/><br/>Hercule, Ariadne, and Vitale arrive at Rowena's home and hear it's haunted history. Rowena opens her doors to let the children play on Halloween, but Leopold wants to read his book instead. Leopold doesn't want to participate in the activities because his father, Dr. Ferrier, suffers from trauma. Joyce arrives with her assistant, Desdemona Holland, wearing a cloak and mask. Before everyone walks into the salon, Rowena's housekeeper, Olga Semioff, screams at the front door. Maxime received an invitation to the séance and demands to attend.<br/><br/>Joyce puts a typewriter in the corner of the room, and Desdemona stands next to it. Joyce has Olga, Ariadne, Dr. Ferrier, Leopold, and Rowena surround her as she calls Alicia to speak from beyond the grave. Hercule stops the séance and exposes Joyce's fraud. Desdemona's half-brother, Nicholas, hid in the fireplace and signaled the typewriter. As Hercule readies to put the case to bed, windows fly open, and Joyce spends around uncontrollably speaking with Alicia's voice. She comes out of the trance and offers more information about Alicia's killer in the morning.<br/><br/>Privately, Hercule confronts Joyce for using Rowena's desperation for financial gain. Joyce he puts her mask and cloak on Hercule and tells him to do better than her. Hercule indulges in a children's game of bobbing apples, and someone pushes his face into the water. He wakes up to Vitale standing over him. Then, they all hear a scream and find Joyce impaled after someone threw her off a balcony. Hercule locks everyone inside the house and plans to investigate. Hercule doesn't believe in ghosts or God but starts to see and hear things around the house. Can Hercule uncover the killer before losing his mind?<br/><br/>Based on Hallowe'en Party by Agatha Christie, this movie starts with Hercule happily leaving the mystery world behind. The house has a horrid history with a plague, causing doctors and nurses to leave children to die. This tale leaves the plot open to ghosts with targets in their crosshairs. This film has plot points from Murder on the Orient Express and Death on the Nile. Hercule fans know to keep their eyes and ears open for every clue. And this time, you may spot the nugget of truth hidden in a brief exchange. This movie isn't the best, but you will leave the theater satisfied.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ahauntinginvenice.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ahauntinginvenice.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Oppenheimer",
-    "review":"J. Robert Oppenheimer sits in front of a security hearing board because he wants to maintain his security clearance. He recounts his life before and during his government work under scads scrutiny. He teaches at the University of California, Berkeley, and dedicates time to the California Institute of Technology. Oppenheimer crosses paths with Ernest Lawrence, Jean Tatlock, and his future wife, Katherine Puening.<br/><br/>General Leslie Groves seeks out Oppenheimer to work on the Manhattan Project but worries Oppenheimer's communist ties will delay his clearance. Oppenheimer assures Groves that he only has an academic interest in the party, not a devotion. Oppenheimer wasn't sure about creating the Atomic Bomb but wanted to end World War II. So he agreed to do it because the only scientist in Germany with Oppenheimer's knowledge was Jewish. They know Hitler won't give him funding.<br/><br/>Oppenheimer convinces Groves to create a town in Los Alamos, New Mexico, with places to pray, shop, and attend school. Oppenheimer and his researchers work before the town is complete, and William L. Borden enters with startling calculations. His math proves the Atomic Bomb could cause an explosion in the atmosphere and create a chain reaction that destroys the world. Oppenheimer asks Lewis Strauss to introduce him to Albert Einstein. He gives Albert the calculations, and Albert confirms them. Oppenheimer must continue his work with the constant threat of annihilation hanging over his head. And he will bring death to thousands if it works as expected. Can Oppenheimer accept the applause and responsibility of being a modern-day Prometheus?<br/><br/>The director made this movie with extreme precision for the period, the scientists, and their struggles. If you pay close attention, this historical film has the drama of a daytime soap opera. This movie follows Oppenheimer's life before, during, and after the Atomic Bomb. It acknowledges his flaws and brilliance throughout his career. Also, it addresses some controversies and conspiracies that surrounded him. This battle is compelling because it's between two competitive, intelligent, and petty men. This movie covers ample history, but it's not for children.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0CL7JD41F"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/oppenheimer.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/oppenheimer.jpeg"
     }
   }
 ];
@@ -70,19 +70,6 @@ module.exports = mustBuy;
 */
 
 /*  For Must Buy later  
-
-{
-    "option":"1",
-    "mtitle":"The Holdovers",
-    "review":"The Holdovers was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0CLQR5LYY"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theholdovers.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theholdovers.jpeg"
-    }
-  }
 
   {
     "option":"5",
