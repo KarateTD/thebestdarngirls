@@ -71,6 +71,32 @@ module.exports = mustBuy;
 
 /*  For Must Buy later  
 
+{
+    "option":"1",
+    "mtitle":"Mean Girls",
+    "review":"Mean Girls was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/meangirls.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/meangirls.jpeg"
+    }
+  }
+
+  {
+    "option":"2",
+    "mtitle":"Origin",
+    "review":"Origin was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/origin.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/origin.jpeg"
+    }
+  }
+
   {
     "option":"5",
     "mtitle":"Chevalier",
@@ -89,7 +115,7 @@ module.exports = mustBuy;
     "mtitle":"The Marvels",
     "review":"Years ago, Dar-Benn watched The Annihilator tear down the Supreme Intelligence to free the Kree. However, the Kree broke into a civil war and destroyed their air, water, and sun. Supremor Dar-Benn finds one of the Universal Bands, but the other is missing. She uses her Universal Weapon to charge the Band and rips open a jump point through space.<br/><br/>Nick Fury watches Monica Rambeau fix satellites from the SABER space station. He calls Carol Danvers after getting an anomaly alert from sector MB-814. He asks Carol to check things out. Carol flies to MB-814 and finds an open jump point with a strange hue. She walks towards it and touches the swirling light.<br/><br/>Monica Rambeau notices a strange glow around the earth's atmosphere as she works on the satellite. Monica floats to the atmosphere to get a better look. She activates her powers and sees a new light spectrum. She reaches out to touch it, and it wraps around her fingers.<br/><br/>Kamala Khan can't focus on her homework because her head is in the clouds. She writes Captain Marvel fan fiction and dreams of meeting her hero. Then, she sees her bangle glowing. She reaches to touch it. Carol ends up in Kamala's place, Kamala switches with Monica, and Monica ends up on MB-814. Dar-Benn's disruption of the jump points caused a quantum entanglement. It's better to stay together until they can stabilize their swaps.<br/><br/>Kamala joins Carol and Monica on Carol's ship. Dar-Benn's first target is Tarnax, a Skrull refugee colony. Dar-Benn plans to create a jump point that's large enough to steal Tarnax's atmosphere for Hala and reestablish their air supply. Kamala, Carol, and Monica get to Tarnax but can't stop Dar-Benn. Carol admits that she is The Annihilator, and Dar-Benn will destroy every place Carol calls home to save Hala and get revenge. Can The Marvels stop her before Dar-Benn ends two more planets?<br/><br/>This film is a pure superhero team-up movie. If that plot bores you, then this film isn't for you. Monica and Carol have unfinished business from her childhood. Kamala learns that being a superhero requires making difficult decisions and sacrifices. When Carol gets heavy-handed with Kamala, Monica ensures they take a breath and listen to each other. It helps to watch Captain Marvel, Avengers: Infinity Wars, Avengers: Endgame, WandaVision, and Ms. Marvel.<br/><br/>This movie has wall-to-wall action with poignant and funny moments to break up the script. Kamala's family, Goose, and Nick Fury will never fail to deliver. However, this movie heavily focuses on the action to drive the story. It's an enjoyable movie with Flerkens, fighting, dancing, and a princess that delivers what you expect with a few future nuggets.<br/><br/>4 out of 5 stars.",
     "asin":{
-      "re":""
+      "re":"B0CRRY198M"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themarvels.jpeg",
@@ -192,6 +218,9 @@ module.exports = mustBuy;
     "option":"5",
     "mtitle":"The Iron Claw",
     "review":"Jack Von Erich exits the arena after a grueling match to find his wife, Doris, and two sons waiting for him outside. Doris asks Jack how much the new Cadillac attached to their mobile home costs. Jack tells Doris he has to look like the NWA champion to get the belt. Doris prays for guidance in the front seat. Doris believes God will protect the family from the Von Erich Curse, but Jack thinks it's professional wrestling.<br/><br/>Years later, Jack runs WCCW promotion with his son, Kevin, at the top of the card. Jack and Doris's other sons, Kerry, Mike, and David, beam with pride at Kevin's in-ring accomplishments. Jack lets his sons know he has favorites in a particular order, but they are subject to change. Kerry is gearing up for the 1980 Olympics in Moscow, and Kevin will wrestle Harley Race in a non-title match. Jack announces it's David's time to get into the squared circle and tag with Kevin.<br/><br/>Kerry returns home after the U.S. pulls out of the Olympics. Jack adds Kerry to the family business and makes Kevin, Kerry, and David compete in 6-man tag team matches. After the Von Erichs battle, Jack announces that David will go for the NWA championship. Kevin knows he has gone down a rank on Jack's list. The Von Erichs will fight to be at the top of Jack's list and the wrestling world while fighting the family curse.<br/><br/>This movie is a stunning tribute to the Von Erichs by bringing their story to a peaceful end. The casting was top-notch, and the actors embodied their roles. You can sense the deep love these brothers had for one another. The director overlays the brothers in the locker room, and viewers see their similar struggles and suffering. It's unbelievable that one family went through so much tragedy. This movie deserves to be seen on the big screen because it is honest perfection.<br/><br/>5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theironclaw.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theironclaw.jpeg"
