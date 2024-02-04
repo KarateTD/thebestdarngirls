@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Confessions of a Cam Girl",
-    "review":"Kristen's parents, Carol and Peter, and her teacher question Kristen about her top college choices. High school senior Kristen doesn't understand why they pressure her so much for an answer. Besides, Kristen creates fashion content online and receives a few brand deals and promotional items. She sent some pictures to a fashion school in Paris, and they believe she has the fortitude to excel. Kristen needs $1,000 for the deposit and approximates $9,000 for living expenses for the year-long program.<br/><br/>After dinner, Kristen sits her parents down and explains her plans to go to Paris after high school. They disagree 100%. They will not let her use her college fund to pursue fashion school.<br/><br/>Kristen meets her friend, Riley, at school to discuss options. They work together, but that job won't pay her $10,000 in a few months. Kristen believes her parents will take her dream seriously if she raises the money in time. Kristen remembers a classmate talking about Exclusive Patreon, where subscribers pay for exclusive content. She makes an account and the money rains. As Kristen's bank account grows, her school work declines, her relationships suffer, and her safety is in jeopardy.<br/><br/>This 'Only Fans' warning didn't need to happen if Kristen's parents learned to compromise. With that aside, Kristen, although 18, makes alarming mistakes. Also, Kristen becomes addicted to her phone and the attention. She depends on her clients' comments to brighten her day. This film isn't exposing anything viewers don't know about gateway sites, social media, and cam girls.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Paging Mr. Darcy",
+    "review":"Professor Dr. Eloise disembarks the plane and looks forward to the Jane Austen annual conference and ball. Eloise will be the keynote speaker but has another opportunity in mind. Professor Jennings, who sits on Princeton's Hiring Committee and is an Austen scholar, will attend. Eloise wants to get in her good graces and get the position as the foremost leading Austen scholar. Eloise stands dumbfounded when she sees a man dressed like Mr. Darcy holding a sign with her name. He is her guest of honor liaison and offers to drive her to the conference. While others cosplay at this conference, Eloise considers it ridiculous. Eloise waits outside, and Sam, a.k.a. Mr. Darcy, sits beside her. He apologizes for embarrassing her and drives to the remote location.<br/><br/>She locates Professor Jennings in the dining room and introduces herself but doesn't mention the job. Jennings laughs about the festivities and bucks at anyone who doesn't revel in the fun. Eloise nervously laughs, and Jennings waves over Sam. Eloise embarrassingly hides behind her hand, and Jennings introduces Sam as her nephew. Sam pretends that Eloise loves the dress-up, balls, and lawn games. However, he plays up the façade for a reason. An actor, Krispen, spends an excessive amount of time with Jennings. If Jennings hires him, she could become a laughingstock at Princeton. Sam wants Jennings to hire Eloise. So, he will ensure Eloise plays to Jennings's liking. Can Eloise and Sam stay in character and get the job before Jennings discovers the truth?<br/><br/>Inspired by Pride and Prejudice by Jane Austen, Jane Austen fans can quickly infer which film characters derive from the novel. Eloise discovers having fun can help her connect to the books she loves and the author she admires. As Eloise lets her hair down, viewers will laugh and want to join the celebration. And if you listen carefully, you can hear Sam reveal his heartbreaking past. Also, Eloise's take-charge attitude comes from teasing and family duty. This film has a lot to unpack but captivates.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/confessionsofacamgirl.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/confessionsofacamgirl.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pagingmrdarcy.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pagingmrdarcy.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Crowdsource Murder",
-    "review":"Monica gets high praise from her boss, Richard, for exceeding the company's donation record. Afterward, Richard introduces their newest staff member, Rebecca. Monica pulls Richard aside after the meeting to talk about her potential raise. Richard says no. Rebecca asks to meet outside work, but Monica says maybe another day.<br/><br/>Monica returns home to see her ex-husband, Brian, give her daughter, Shannon, his old laptop. Monica's frustration grows, so she calls Rebecca to vent. Monica needs money for Shannon's basketball fees, and Brian doesn't help financially.<br/><br/>As Rebecca and Monica enjoy girls' night, Monica gets a call from the hospital. Shannon broke her fibula playing basketball with Brian. However, Monica's money troubles aren't over. She owes the hospital $25,000. Rebecca counsels her to join a crowdsource website to obtain the funds. After a few hours, one donor, Noah, supplies all the money.<br/><br/>Monica and Brian meet Noah in person to thank him for the donation. Brian doesn't like Noah and snoops around Noah's office. Before they leave, Noah invites Monica to spend a day at a soup kitchen with him. And she obliges. In Noah's driveway, Monica chastises Brian for rummaging through Noah's belongings because Noah is doing something nice for Shannon. Monica thinks Noah is a nice guy. She has no idea how dangerous nice guys can be.<br/><br/>Noah is a creep with Nice Guy Syndrome. When she doesn't want him after Noah gives her money, then she is ungrateful. However, a woman is a gold digger if she wants him after he gives her money. As the script dives into Noah's past, the viewer discovers Noah has this problem with anyone in his life and becomes violent. Monica and Rebecca are naive and too accommodating to the men in their lives. This movie is something to watch when you need the cathartic release of screaming at the screen.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Gilded Newport Mysteries: Murder at the Breakers",
+    "review":"Emma Vanderbilt-Cross hands her completed article to her boss, Mr. Milford, on the politics of Susan B. Anthony. However, Milford wants Emma to rewrite it to focus on Susan's fashion, not the cause. Emma grinds her teeth and drafts another article. Before she leaves, Emma gets an invite to Gertrude's coming out party. They trust Emma because she is family and a Vanderbilt.<br/><br/>Emma attends the party with her brother, Brady Cross. Their aunt Alice and uncle Cornelius greet Emma with a smile but boldly ignore Brady. Emma runs to Gertrude's side because Gertrude looks unhappy. Alice and Cornelius are upset because Gertrude's brother, Neily, is interested in Grace. They don't consider Grace an optimal choice for Neily and threaten to cut him off.<br/><br/>Emma stands on the dancefloor and catches a stranger's eye. Before the stranger can introduce himself, Cornelius's business advisor, Mr. Goddard, asks for a dance. During the dance, Emma mentions she has the Vanderbilt name but won't inherit the wealth. Mr. Goddard excuses himself to put Cornelius's lucrative railroad plans in the safe.<br/><br/>Emma looks around the room and sees an old friend, Adelaide. Emma apologizes for missing Adelaide's wedding to Rupert, and Adelaide quickly forgives Emma. Rupert demands Adelaide retrieve his walking cane. Adelaide sighs and leaves the room. Emma notices an open door during Alice and Cornelius's toast for Gertrude. Emma walks through the door and hears someone arguing above her. Then she hears a sickening thud. She turns and sees Mr. Goddard dead on the ground.<br/><br/>Detective Jesse examines the scene with Harriet. She finds a gilded shard in the wound and determines someone struck Mr. Goddard before he fell over the balcony. Emma informs Jesse that the area with the balcony is Cornelius's office. They run upstairs to find Brady unconscious on the floor with a gilded candlestick in his hand. Jesse arrests Brady for murder. Emma believes the culprit set up Brady and took the plans before killing Mr. Goddard. But can she prove it?<br/><br/>Based on Murder at the Breakers by Alyssa Maxwell, the movie has the challenge of solving a crime without modern-day technology. She utilizes her wit and connections to move within the inner circle. But Emma has to do it with the elegance of a woman of her era. The perpetrator may be easy to decipher for some, but it's fun to watch Emma find the clues. This film is a solid introduction to the characters, era, and style. It has room for growth while entertaining.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/crowdsourcemurder.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/crowdsourcemurder.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gildednewportmysteriesmurderbreakers.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gildednewportmysteriesmurderbreakers.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Woman with the Red Lipstick",
-    "review":"Lucy and Roy prepare to leave for work. Roy reminds Lucy they have a reservation at an upscale restaurant to celebrate. Later, Lucy waits for Roy to pick her up, but he is late. Her boss, Odette, tells Lucy to forget Roy, and they can hang out together. Roy enters with flowers and an apology. After dinner, Lucy questions the strength of their relationship. Roy admits their relationship needs some spice. He wants to role-play and meet in a random bar. Lucy hesitantly agrees.<br/><br/>Lucy wakes to a package at her door. Inside the package is a note from Roy, a scarf, and a blonde wig. Roy wants Lucy to wear the items and go by the name Maggie. Lucy puts her apprehension aside and gets dressed for Roy and his game. Before leaving, Lucy puts on red lipstick.<br/><br/>Roy meets Lucy and loves her sexy look but removes her lipstick. They have a passionate night together and feel more connected. Lucy goes to work and sees a TV news report about the missing socialite Magnolia Manes. Lucy sits in stunned silence because the scarf Roy gifted her looks like Magnolia's. The reporters conduct an ambush interview, and Magnolia's friend calls her Maggie. Lucy convinces Odette to let Magnolia be her next story. Roy grows tired of playing second fiddle to Lucy's work, so he breaks up with her. Lucy's investigation intensifies after someone stalks and attacks her. Can Lucy uncover the truth before losing her life?<br/><br/>This movie is a Ferris wheel of emotions. First, the script points to Roy as the abductor. Then, Lucy interviews people in Magnolia's life, and viewers will look elsewhere. The audience watches for two hours to prove their first hunch. Also, the lead is unlikeable. This film drags you through a predictable ending with unnecessary interviews and a tedious investigation.<br/><br/>2 out of 5 stars.",
+    "mtitle":"Sabotaging the Squad",
+    "review":"Missy gleefully shares the news with her daughter, Arielle. Missy got the job as head coach of the 360s. Missy cheered for them early in her career, and now Arielle wants to carry the torch. The two happily pack and move.<br/><br/>Missy unpacks her kitchen and finds her friend, Gemma, standing there. Gemma and Missy cheered together and were co-captain and captain, respectively. So, Missy hires Gemma as her assistant coach. Gemma jumps at the offer.<br/><br/>Gemma enters the training facility with Missy and Arielle. Sasha, the facility's manager, introduces himself. He replaced the old coach, Darlene, with Missy because the famed 360s didn't make regionals. Tawnya, the mayor's wife, beams as she watches her daughter, Fiona, practice. And Darlene and Tawnya love to spend time and drink with Candi. Gemma warns Missy that Candi, Darlene, and Tawnya will be difficult.<br/><br/>Missy pulls the cheerleaders aside and informs them that everyone has to earn their spot. Darlene, Candi, and Tawnya become angry. Later, the women disseminate a picture of Missy hugging Sasha on the internet and infer they are having an affair. Missy barrels to Tawnya's home and lays down the law. Missy leaves with satisfaction, but the women have more devious plans. And, someone is dangerous. They will drug, sabotage, and kill to control the squad. Will Missy survive?<br/><br/>There isn't much to say about this movie. The heroine, Missy, is a take-charge, no-nonsense woman who won't let these cheer moms disrupt her practice and performances. The overall mystery falls flat. The average Lifetime watcher can see the villain coming from a mile away. And the motive is petty. So, viewers should watch this movie for Missy's nurturing and commanding demeanor. Otherwise, you will be disappointed.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/womanwiththeredlipstick.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/womanwiththeredlipstick.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sabotagingthesquad.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sabotagingthesquad.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"The Love Advisor",
-    "review":"Abby is the executive assistant for podcaster Serena on the Love's Watching show. On the podcast, Serena gives love advice to callers, but Abby is the brains behind the operation. Serena panics and hands a stack of tabloids to Abby. Serena's ex-boyfriend, Brandon, went public about their break-up, and she is losing followers. As Abby writes notes for the new series, Jack from The Times Daily in New York calls to confirm his interview with Serena. She puts Jack on hold to talk to Serena. Serena decides to do the interview because Jack is hot. She plans on taking him to the podcast awards and flaunt him to get positive press. If they win the award, Serena will publicly credit Abby and make Abby a co-writer and producer. Abby confirms with Jack.<br/><br/>Abby wakes to a furious text message for Serena. She runs to work and sees Serena's swollen and red face. Serena tells Abby to reschedule the interview with Jack. She runs to the restaurant. Jack doesn't contain his annoyance and cancels the interview because Serena is unprofessional.<br/><br/>Jack calls his boss, Diane, because he plans to return to New York without the article. Diane understands Jack's apprehension about love and romance. She tells Jack he needs to write the article and that he's the best profiler they have. Jack calms and agrees. Jack needs a deeper connection to Serena, her podcast, and her advice. Abby offers to take Jack to the places that inspire Serena. However, they are what Abby uses for inspiration. Abby will get recognition if she keeps the secret. And Serena will get arm candy, positive press, and an award. Can Abby stick to the plan when she develops feelings for Jack?<br/><br/>It doesn't take long to see that Serena uses Abby. They are in a toxic workplace relationship because Abby does all the work, but Serena takes the credit. Jack is intelligent because he spots a discrepancy between Serena's marketing and the show's advice. The movie starts slow, but the final 30 minutes make the film worth watching. Abby finds her voice and follows a new path. So, viewers should watch for a solid ending and the worst and funniest gift basket.<br/><br/>3 out of 5 stars.",
+    "mtitle":"My Husband's Seven Wives",
+    "review":"Maggie leaves work and grabs dinner to celebrate her anniversary, but the card declines twice. She gives the hostess another card and goes home. Alan pretends to be stuck at work but surprises Maggie. He gets in his Corvette and drives away. Maggie brings the leftovers to her neighbor, Selma, and Selma asks for a favor. Selma needs a ride to a mall 40 minutes away for a date. Maggie agrees.<br/><br/>After Maggie drops Selma off, she sees Alan's car drive past. She follows it to an unknown home and enters the garage. A woman, Pam, enters the garage with a knife, demanding an explanation and threatening to call the police. Pam states the vehicle belongs to her husband, Alan. The women compare pictures and realize they are married to the same man.<br/><br/>Pam has an idea to learn about Alan's finances. They go to his job and trick the payroll person into giving Alan's banking establishment. He informs Pam that Alan needs to change the beneficiary in the company's system. The name they have is Kristin. She's Alan's 3rd wife. They go to the bank to withdraw Alan's money for revenge. But their names aren't on the account. Heather, Alan's 4th wife, is. Pam and Maggie are out for blood and won't stop until Alan pays. Can they stay ahead of the man who fooled them for years?<br/><br/>Wow, this movie is the classic Lifetime fans want and need. Pam and Maggie could fight and blame each other, but they quickly band together and focus on their collective enemy, Alan. Of course, more wives add unseen wrinkles and complications to their plans because some wives have other angles. Each layer of this story will keep you on the edge of your seat and pearls clutched. This movie demands a permanent space on your DVR.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theloveadvisor.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theloveadvisor.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myhusbandssevenwives.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myhusbandssevenwives.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Betty's Bad Luck in Love",
-    "review":"Twenty years ago, Betty sat with her best friend, Mya, and talked about Betty's crush, Brian. Betty worried because Eleni liked Brian too. Mya said it doesn't matter, and Betty shared Oreos with Brian. Eleni caught them and cursed Betty and her future partners.<br/><br/>Today, Betty sits in a cab with her boyfriend. When he tries to get out, a car almost hits him. Betty thinks it's the curse and breaks up to save him. She relaxes at a restaurant with Mya to discuss Mya's wedding. Betty eludes to the breakup but brushes it off.<br/><br/>Betty wakes up late and rushes to get dressed. At the lobby, Betty sees someone moving into the building. She can't believe someone is moving in on a Friday morning. The new resident, Alex, tries to talk to her, but she leaves in a hurry. Betty comes to an empty office and realizes it's Saturday. She embarrassingly returns to the apartment and into Alex's gleeful gaze. Later, they meet in the elevator again and get stuck after an earthquake. Betty panics because she is an actuary. But Alex keeps her calm and collected throughout the ordeal. He invites Betty to have celebration drinks, and she obliges. After a great first date, Betty admits she likes Alex but can't stop thinking about her curse. She must keep an eye on him to make sure the curse doesn't strike. Will their love defeat the curse this time?<br/><br/>Betty has had a couple terrible, horrible, no good, very bad decades. Everything becomes a warning. She borders on crazy. When the plot gets too wild, the writer grounds it into reality with one heroic stunt. That moment will draw the audience into the film and separate it from the pack. This movie is exciting and funny.<br/><br/>4 out of 5 stars.",
+    "mtitle":"My Perfect Romance",
+    "review":"Vivian and her co-workers, George and Justine, have been working on their app, The Perfect Match, for months. This app will ask questions about the individual and match people without pictures. Vivian wants to fine-tune the algorithm before presenting it to her boss, Westin.<br/><br/>Westin's mother, Judith, calls and wants an update on his division of her company. The technology sector's profits are steadily declining, and she wants results. Westin arrives late for work. So, his executive assistant, Adele, told the employees to start the marketing meeting without him. Westin saunters into the meeting and rejects all of Derek's ideas. Derek finds Vivian, and she pitches the app. Westin thinks it's perfect for a Valentine's Day release and will generate funds from suckers looking for love.<br/><br/>Westin's brother, Ben, has stupendous news. He got Westin a guest spot on a morning talk show to introduce the app. Ben tells Westin to invite Vivian along. Vivian comes to his office and says no. Adele pulls Vivian aside and explains how going on the show will help. Vivian agrees.<br/><br/>During the on-air interview, Westin tells the reporter they will do a soft launch of the app for the local area and then a U.S. rollout on Valentine's Day. The report asks if they believe in the app, and both say yes. Will the app find the perfect match for Westin and Vivian, or has it been before them all along?<br/><br/>Westin is a man avoiding love for business, like his mother. Vivian uses work to shield herself from the dating world. These two love-phobic people have to convince the world to find love. Judith is a terrific comic relief, and Michelle keeps the script grounded. However, romcom fans can predict what and when everything will happen. Watch this on Valentine's Day for a laugh with some wine.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bettysbadluckinlove.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bettysbadluckinlove.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myperfectromance.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myperfectromance.jpeg"
     }
   }
 ];
@@ -58,47 +58,38 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Paging Mr. Darcy",
-  "review":"<br/><br/>* out of 5 stars.",
+  "mtitle":"Abducted Off the Street: The Carleasha Gaither Story",
+  "review":"<br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pagingmrdarcy.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pagingmrdarcy.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedofthestreetcarleashagaither.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedofthestreetcarleashagaither.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Gilded Newport Mysteries: Murder at the Breakers",
-  "review":"<br/><br/>* out of 5 stars.",
+  "mtitle":"Tall, Dark, and Dangerous",
+  "review":"<br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gildednewportmysteriesmurderbreakers.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gildednewportmysteriesmurderbreakers.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/talldarkanddangerous.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/talldarkanddangerous.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Sabotaging the Squad",
-  "review":"<br/><br/>* out of 5 stars.",
+  "mtitle":"A Widow Seduced",
+  "review":"<br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sabotagingthesquad.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sabotagingthesquad.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/awidowseduced.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/awidowseduced.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"My Husband's Seven Wives",
-  "review":"<br/><br/>* out of 5 stars.",
+  "mtitle":"Baked with a Kiss",
+  "review":"<br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myhusbandssevenwives.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myhusbandssevenwives.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"My Perfect Romance",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myperfectromance.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myperfectromance.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bakedwithakiss.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bakedwithakiss.jpeg"
   }
 }
 
