@@ -76,11 +76,37 @@ module.exports = mustBuy;
     "mtitle":"Mean Girls",
     "review":"Mean Girls was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":""
+      "re":"B0CS3HTFB6"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/meangirls.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/meangirls.jpeg"
+    }
+  }
+
+    {
+    "option":"2",
+    "mtitle":"Scrambled",
+    "review":"Scrambled was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/scrambled.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/scrambled.jpeg"
+    }
+  }
+
+    {
+    "option":"1",
+    "mtitle":"Lisa Frankenstein",
+    "review":"Lisa Frankenstein was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":""
+    }, 
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lisafrankenstein.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lisafrankenstein.jpeg"
     }
   }
 
@@ -89,7 +115,7 @@ module.exports = mustBuy;
     "mtitle":"Origin",
     "review":"Origin was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":""
+      "re":"B0CTD283DM"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/origin.jpeg",
@@ -141,7 +167,7 @@ module.exports = mustBuy;
     "mtitle":"Wish",
     "review":"Asha is a few months shy of her 18th birthday and gives tours of her homeland, Rosas. Rosas is famous. King Magnifico learned sorcery after wicked rulers destroyed his home. Then, he created Rosas and invited anyone to come. He uses his power to grant one wish every month in a ceremony. On a person's 18th birthday, the king asks for their wish. The person gives it to him and never remembers it. Today is the 100th birthday of Asha's grandfather, Sabino. Everyone thinks Magnifico will grant his wish in the ceremony.<br/><br/>Asha finishes another tour and runs to her friends for encouragement. She has an interview to be the king's apprentice. Queen Amaya enters the kitchen and asks Asha to speak to the king. He lets her enter the room of wishes. Asha looks at everyone's wishes in wonder and finds Sabino's. He wished to inspire people with music. Asha asks Magnifico if Magnifico will allow Sabino's wish, and Magnifico says no. He doesn't know if Sabino will motivate people to love Magnifico or overthrow him. Since Sabino's wish is too vague, he won't grant it. Asha tells Magnifico to return the wish if he won't allow it because remembering it will give Sabino hope. Magnifico refuses. He rejects Asha's application for the apprenticeship.<br/><br/>Asha tries to warn Sabino and her mother, Sakina, about Magnifico, but they don't want to hear it. Asha runs to her father's favorite spot and makes a wish upon a star. A bright light comes from the sky, and all of Rosas, including Magnifico, feels it. A star comes from the sky and gives Asha's goat, Valentino, the ability to talk. Asha decides to break into Magnifico's castle and free the wishes. Magnifico believes the unknown magic is a threat to his kingdom. And he will seek and destroy it no matter what.<br/><br/>The animation and songs are second to none in this film. King Magnifico is the classic Disney villain. Also, the film makes nods to Little Jon, Bambi, Thumper, and more beloved Disney characters. The trailer is tricky because it makes viewers think Asha wants Magnifico to grant their wishes. However, she wants Magnifico to return the wishes he won't allow to restore hope, imagination, and invention to the people. This film isn't saying to grant all wishes. It's saying wishes inspire hope, so you shouldn't forget them. That's the message for kids.<br/><br/>4 out of 5 stars.",
     "asin":{
-      "re":""
+      "re":"B0CS3SR1NM"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/wish.jpeg",
