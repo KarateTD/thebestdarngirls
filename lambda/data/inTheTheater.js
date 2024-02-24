@@ -56,7 +56,24 @@ module.exports = inTheTheaters;
 
 /*
 
-
+{
+  "option":"1",
+  "mtitle":"Ordinary Angels",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ordinaryangels.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ordinaryangels.jpeg"
+  }
+},
+{
+  "option":"2",
+  "mtitle":"Drive-Away Dolls",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/driveawaydolls.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/driveawaydolls.jpeg"
+  }
+}
 
 */
 

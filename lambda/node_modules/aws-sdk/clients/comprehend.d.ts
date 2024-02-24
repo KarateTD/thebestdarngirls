@@ -52,19 +52,19 @@ declare class Comprehend extends Service {
    */
   batchDetectSyntax(callback?: (err: AWSError, data: Comprehend.Types.BatchDetectSyntaxResponse) => void): Request<Comprehend.Types.BatchDetectSyntaxResponse, AWSError>;
   /**
-   * Inspects a batch of documents and returns a sentiment analysis for each entity identified in the documents. For more information about targeted sentiment, see Targeted sentiment.
+   * Inspects a batch of documents and returns a sentiment analysis for each entity identified in the documents. For more information about targeted sentiment, see Targeted sentiment in the Amazon Comprehend Developer Guide.
    */
   batchDetectTargetedSentiment(params: Comprehend.Types.BatchDetectTargetedSentimentRequest, callback?: (err: AWSError, data: Comprehend.Types.BatchDetectTargetedSentimentResponse) => void): Request<Comprehend.Types.BatchDetectTargetedSentimentResponse, AWSError>;
   /**
-   * Inspects a batch of documents and returns a sentiment analysis for each entity identified in the documents. For more information about targeted sentiment, see Targeted sentiment.
+   * Inspects a batch of documents and returns a sentiment analysis for each entity identified in the documents. For more information about targeted sentiment, see Targeted sentiment in the Amazon Comprehend Developer Guide.
    */
   batchDetectTargetedSentiment(callback?: (err: AWSError, data: Comprehend.Types.BatchDetectTargetedSentimentResponse) => void): Request<Comprehend.Types.BatchDetectTargetedSentimentResponse, AWSError>;
   /**
-   * Creates a new document classification request to analyze a single document in real-time, using a previously created and trained custom model and an endpoint. You can input plain text or you can upload a single-page input document (text, PDF, Word, or image).  If the system detects errors while processing a page in the input document, the API response includes an entry in Errors that describes the errors. If the system detects a document-level error in your input document, the API returns an InvalidRequestException error response. For details about this exception, see  Errors in semi-structured documents in the Comprehend Developer Guide. 
+   * Creates a classification request to analyze a single document in real-time. ClassifyDocument supports the following model types:   Custom classifier - a custom model that you have created and trained. For input, you can provide plain text, a single-page document (PDF, Word, or image), or Amazon Textract API output. For more information, see Custom classification in the Amazon Comprehend Developer Guide.   Prompt safety classifier - Amazon Comprehend provides a pre-trained model for classifying input prompts for generative AI applications. For input, you provide English plain text input. For prompt safety classification, the response includes only the Classes field. For more information about prompt safety classifiers, see Prompt safety classification in the Amazon Comprehend Developer Guide.   If the system detects errors while processing a page in the input document, the API response includes an Errors field that describes the errors. If the system detects a document-level error in your input document, the API returns an InvalidRequestException error response. For details about this exception, see  Errors in semi-structured documents in the Comprehend Developer Guide. 
    */
   classifyDocument(params: Comprehend.Types.ClassifyDocumentRequest, callback?: (err: AWSError, data: Comprehend.Types.ClassifyDocumentResponse) => void): Request<Comprehend.Types.ClassifyDocumentResponse, AWSError>;
   /**
-   * Creates a new document classification request to analyze a single document in real-time, using a previously created and trained custom model and an endpoint. You can input plain text or you can upload a single-page input document (text, PDF, Word, or image).  If the system detects errors while processing a page in the input document, the API response includes an entry in Errors that describes the errors. If the system detects a document-level error in your input document, the API returns an InvalidRequestException error response. For details about this exception, see  Errors in semi-structured documents in the Comprehend Developer Guide. 
+   * Creates a classification request to analyze a single document in real-time. ClassifyDocument supports the following model types:   Custom classifier - a custom model that you have created and trained. For input, you can provide plain text, a single-page document (PDF, Word, or image), or Amazon Textract API output. For more information, see Custom classification in the Amazon Comprehend Developer Guide.   Prompt safety classifier - Amazon Comprehend provides a pre-trained model for classifying input prompts for generative AI applications. For input, you provide English plain text input. For prompt safety classification, the response includes only the Classes field. For more information about prompt safety classifiers, see Prompt safety classification in the Amazon Comprehend Developer Guide.   If the system detects errors while processing a page in the input document, the API response includes an Errors field that describes the errors. If the system detects a document-level error in your input document, the API returns an InvalidRequestException error response. For details about this exception, see  Errors in semi-structured documents in the Comprehend Developer Guide. 
    */
   classifyDocument(callback?: (err: AWSError, data: Comprehend.Types.ClassifyDocumentResponse) => void): Request<Comprehend.Types.ClassifyDocumentResponse, AWSError>;
   /**
@@ -332,13 +332,21 @@ declare class Comprehend extends Service {
    */
   detectSyntax(callback?: (err: AWSError, data: Comprehend.Types.DetectSyntaxResponse) => void): Request<Comprehend.Types.DetectSyntaxResponse, AWSError>;
   /**
-   * Inspects the input text and returns a sentiment analysis for each entity identified in the text. For more information about targeted sentiment, see Targeted sentiment.
+   * Inspects the input text and returns a sentiment analysis for each entity identified in the text. For more information about targeted sentiment, see Targeted sentiment in the Amazon Comprehend Developer Guide.
    */
   detectTargetedSentiment(params: Comprehend.Types.DetectTargetedSentimentRequest, callback?: (err: AWSError, data: Comprehend.Types.DetectTargetedSentimentResponse) => void): Request<Comprehend.Types.DetectTargetedSentimentResponse, AWSError>;
   /**
-   * Inspects the input text and returns a sentiment analysis for each entity identified in the text. For more information about targeted sentiment, see Targeted sentiment.
+   * Inspects the input text and returns a sentiment analysis for each entity identified in the text. For more information about targeted sentiment, see Targeted sentiment in the Amazon Comprehend Developer Guide.
    */
   detectTargetedSentiment(callback?: (err: AWSError, data: Comprehend.Types.DetectTargetedSentimentResponse) => void): Request<Comprehend.Types.DetectTargetedSentimentResponse, AWSError>;
+  /**
+   * Performs toxicity analysis on the list of text strings that you provide as input. The API response contains a results list that matches the size of the input list. For more information about toxicity detection, see Toxicity detection in the Amazon Comprehend Developer Guide. 
+   */
+  detectToxicContent(params: Comprehend.Types.DetectToxicContentRequest, callback?: (err: AWSError, data: Comprehend.Types.DetectToxicContentResponse) => void): Request<Comprehend.Types.DetectToxicContentResponse, AWSError>;
+  /**
+   * Performs toxicity analysis on the list of text strings that you provide as input. The API response contains a results list that matches the size of the input list. For more information about toxicity detection, see Toxicity detection in the Amazon Comprehend Developer Guide. 
+   */
+  detectToxicContent(callback?: (err: AWSError, data: Comprehend.Types.DetectToxicContentResponse) => void): Request<Comprehend.Types.DetectToxicContentResponse, AWSError>;
   /**
    * Creates a new custom model that replicates a source custom model that you import. The source model can be in your Amazon Web Services account or another one. If the source model is in another Amazon Web Services account, then it must have a resource-based policy that authorizes you to import it. The source model must be in the same Amazon Web Services Region that you're using when you import. You can't import a model that's in a different Region.
    */
@@ -500,11 +508,11 @@ declare class Comprehend extends Service {
    */
   putResourcePolicy(callback?: (err: AWSError, data: Comprehend.Types.PutResourcePolicyResponse) => void): Request<Comprehend.Types.PutResourcePolicyResponse, AWSError>;
   /**
-   * Starts an asynchronous document classification job. Use the DescribeDocumentClassificationJob operation to track the progress of the job.
+   * Starts an asynchronous document classification job using a custom classification model. Use the DescribeDocumentClassificationJob operation to track the progress of the job.
    */
   startDocumentClassificationJob(params: Comprehend.Types.StartDocumentClassificationJobRequest, callback?: (err: AWSError, data: Comprehend.Types.StartDocumentClassificationJobResponse) => void): Request<Comprehend.Types.StartDocumentClassificationJobResponse, AWSError>;
   /**
-   * Starts an asynchronous document classification job. Use the DescribeDocumentClassificationJob operation to track the progress of the job.
+   * Starts an asynchronous document classification job using a custom classification model. Use the DescribeDocumentClassificationJob operation to track the progress of the job.
    */
   startDocumentClassificationJob(callback?: (err: AWSError, data: Comprehend.Types.StartDocumentClassificationJobResponse) => void): Request<Comprehend.Types.StartDocumentClassificationJobResponse, AWSError>;
   /**
@@ -1045,11 +1053,11 @@ declare namespace Comprehend {
      */
     Text?: CustomerInputString;
     /**
-     * The Amazon Resource Number (ARN) of the endpoint. For information about endpoints, see Managing endpoints.
+     * The Amazon Resource Number (ARN) of the endpoint.  For prompt safety classification, Amazon Comprehend provides the endpoint ARN. For more information about prompt safety classifiers, see Prompt safety classification in the Amazon Comprehend Developer Guide  For custom classification, you create an endpoint for your custom model. For more information, see Using Amazon Comprehend endpoints.
      */
     EndpointArn: DocumentClassifierEndpointArn;
     /**
-     * Use the Bytes parameter to input a text, PDF, Word or image file. You can also use the Bytes parameter to input an Amazon Textract DetectDocumentText or AnalyzeDocument output file. Provide the input document as a sequence of base64-encoded bytes. If your code uses an Amazon Web Services SDK to classify documents, the SDK may encode the document file bytes for you.  The maximum length of this field depends on the input document type. For details, see  Inputs for real-time custom analysis in the Comprehend Developer Guide.  If you use the Bytes parameter, do not use the Text parameter.
+     * Use the Bytes parameter to input a text, PDF, Word or image file. When you classify a document using a custom model, you can also use the Bytes parameter to input an Amazon Textract DetectDocumentText or AnalyzeDocument output file. To classify a document using the prompt safety classifier, use the Text parameter for input. Provide the input document as a sequence of base64-encoded bytes. If your code uses an Amazon Web Services SDK to classify documents, the SDK may encode the document file bytes for you.  The maximum length of this field depends on the input document type. For details, see  Inputs for real-time custom analysis in the Comprehend Developer Guide.  If you use the Bytes parameter, do not use the Text parameter.
      */
     Bytes?: SemiStructuredDocumentBlob;
     /**
@@ -1059,11 +1067,11 @@ declare namespace Comprehend {
   }
   export interface ClassifyDocumentResponse {
     /**
-     * The classes used by the document being analyzed. These are used for multi-class trained models. Individual classes are mutually exclusive and each document is expected to have only a single class assigned to it. For example, an animal can be a dog or a cat, but not both at the same time. 
+     * The classes used by the document being analyzed. These are used for models trained in multi-class mode. Individual classes are mutually exclusive and each document is expected to have only a single class assigned to it. For example, an animal can be a dog or a cat, but not both at the same time.  For prompt safety classification, the response includes only two classes (SAFE_PROMPT and UNSAFE_PROMPT), along with a confidence score for each class. The value range of the score is zero to one, where one is the highest confidence.
      */
     Classes?: ListOfClasses;
     /**
-     * The labels used the document being analyzed. These are used for multi-label trained models. Individual labels represent different categories that are related in some manner and are not mutually exclusive. For example, a movie can be just an action movie, or it can be an action movie, a science fiction movie, and a comedy, all at the same time. 
+     * The labels used in the document being analyzed. These are used for multi-label trained models. Individual labels represent different categories that are related in some manner and are not mutually exclusive. For example, a movie can be just an action movie, or it can be an action movie, a science fiction movie, and a comedy, all at the same time. 
      */
     Labels?: ListOfLabels;
     /**
@@ -1097,7 +1105,7 @@ declare namespace Comprehend {
      */
     Text: String;
     /**
-     * The language of the input documents. Currently, English is the only valid language.
+     * The language of the input documents.
      */
     LanguageCode: LanguageCode;
   }
@@ -1165,7 +1173,7 @@ declare namespace Comprehend {
      */
     InputDataConfig: DocumentClassifierInputDataConfig;
     /**
-     * Specifies the location for the output files from a custom classifier job. This parameter is required for a request that creates a native classifier model.
+     * Specifies the location for the output files from a custom classifier job. This parameter is required for a request that creates a native document model.
      */
     OutputDataConfig?: DocumentClassifierOutputDataConfig;
     /**
@@ -1185,7 +1193,7 @@ declare namespace Comprehend {
      */
     VpcConfig?: VpcConfig;
     /**
-     * Indicates the mode in which the classifier will be trained. The classifier can be trained in multi-class mode, which identifies one and only one class for each document, or multi-label mode, which identifies one or more labels for each document. In multi-label mode, multiple labels for an individual document are separated by a delimiter. The default delimiter between labels is a pipe (|).
+     * Indicates the mode in which the classifier will be trained. The classifier can be trained in multi-class (single-label) mode or multi-label mode. Multi-class mode identifies a single class label for each document and multi-label mode identifies one or more class labels for each document. Multiple labels for an individual document are separated by a delimiter. The default delimiter between labels is a pipe (|).
      */
     Mode?: DocumentClassifierMode;
     /**
@@ -1301,7 +1309,7 @@ declare namespace Comprehend {
      */
     FlywheelName: ComprehendArnName;
     /**
-     * To associate an existing model with the flywheel, specify the Amazon Resource Number (ARN) of the model version.
+     * To associate an existing model with the flywheel, specify the Amazon Resource Number (ARN) of the model version. Do not set TaskConfig or ModelType if you specify an ActiveModelArn.
      */
     ActiveModelArn?: ComprehendModelArn;
     /**
@@ -1309,11 +1317,11 @@ declare namespace Comprehend {
      */
     DataAccessRoleArn: IamRoleArn;
     /**
-     * Configuration about the custom classifier associated with the flywheel.
+     * Configuration about the model associated with the flywheel. You need to set TaskConfig if you are creating a flywheel for a new model.
      */
     TaskConfig?: TaskConfig;
     /**
-     * The model type.
+     * The model type. You need to set ModelType if you are creating a flywheel for a new model.
      */
     ModelType?: ModelType;
     /**
@@ -1839,7 +1847,7 @@ declare namespace Comprehend {
      */
     Text: String;
     /**
-     * The language of the input documents. Currently, English is the only valid language.
+     * The language of the input text. Enter the language code for English (en) or Spanish (es).
      */
     LanguageCode: LanguageCode;
   }
@@ -1900,6 +1908,22 @@ declare namespace Comprehend {
      * Targeted sentiment analysis for each of the entities identified in the input text.
      */
     Entities?: ListOfTargetedSentimentEntities;
+  }
+  export interface DetectToxicContentRequest {
+    /**
+     * A list of up to 10 text strings. Each string has a maximum size of 1 KB, and the maximum size of the list is 10 KB.
+     */
+    TextSegments: ListOfTextSegments;
+    /**
+     * The language of the input text. Currently, English is the only supported language.
+     */
+    LanguageCode: LanguageCode;
+  }
+  export interface DetectToxicContentResponse {
+    /**
+     * Results of the content moderation analysis. Each entry in the results list contains a list of toxic content types identified in the text, along with a confidence score for each content type. The results list also includes a toxicity score for each entry in the results list. 
+     */
+    ResultList?: ListOfToxicLabels;
   }
   export interface DocumentClass {
     /**
@@ -2045,7 +2069,7 @@ declare namespace Comprehend {
      */
     S3Uri?: S3Uri;
     /**
-     * This specifies the Amazon S3 location where the test annotations for an entity recognizer are located. The URI must be in the same Amazon Web Services Region as the API endpoint that you are calling. 
+     * This specifies the Amazon S3 location that contains the test annotations for the document classifier. The URI must be in the same Amazon Web Services Region as the API endpoint that you are calling. 
      */
     TestS3Uri?: S3Uri;
     /**
@@ -2057,11 +2081,11 @@ declare namespace Comprehend {
      */
     AugmentedManifests?: DocumentClassifierAugmentedManifestsList;
     /**
-     * The type of input documents for training the model. Provide plain-text documents to create a plain-text model, and provide semi-structured documents to create a native model.
+     * The type of input documents for training the model. Provide plain-text documents to create a plain-text model, and provide semi-structured documents to create a native document model.
      */
     DocumentType?: DocumentClassifierDocumentTypeFormat;
     /**
-     * The S3 location of the training documents. This parameter is required in a request to create a native classifier model.
+     * The S3 location of the training documents. This parameter is required in a request to create a native document model.
      */
     Documents?: DocumentClassifierDocuments;
     DocumentReaderConfig?: DocumentReaderConfig;
@@ -2220,7 +2244,7 @@ declare namespace Comprehend {
      */
     DocumentReadMode?: DocumentReadMode;
     /**
-     * Specifies the type of Amazon Textract features to apply. If you chose TEXTRACT_ANALYZE_DOCUMENT as the read action, you must specify one or both of the following values:    TABLES - Returns information about any tables that are detected in the input document.     FORMS - Returns information and the data from any forms that are detected in the input document.   
+     * Specifies the type of Amazon Textract features to apply. If you chose TEXTRACT_ANALYZE_DOCUMENT as the read action, you must specify one or both of the following values:    TABLES - Returns additional information about any tables that are detected in the input document.     FORMS - Returns additional information about any forms that are detected in the input document.   
      */
     FeatureTypes?: ListOfDocumentReadFeatureTypes;
   }
@@ -2756,7 +2780,7 @@ declare namespace Comprehend {
   export type EntityTypesList = EntityTypesListItem[];
   export interface EntityTypesListItem {
     /**
-     * An entity type within a labeled training dataset that Amazon Comprehend uses to train a custom entity recognizer. Entity types must not contain the following invalid characters: \n (line break), \\n (escaped line break, \r (carriage return), \\r (escaped carriage return), \t (tab), \\t (escaped tab), space, and , (comma).
+     * An entity type within a labeled training dataset that Amazon Comprehend uses to train a custom entity recognizer. Entity types must not contain the following invalid characters: \n (line break), \\n (escaped line break, \r (carriage return), \\r (escaped carriage return), \t (tab), \\t (escaped tab), and , (comma).
      */
     Type: EntityTypeName;
   }
@@ -2957,7 +2981,7 @@ declare namespace Comprehend {
      */
     DataAccessRoleArn?: IamRoleArn;
     /**
-     * Configuration about the custom classifier associated with the flywheel.
+     * Configuration about the model associated with a flywheel.
      */
     TaskConfig?: TaskConfig;
     /**
@@ -3531,6 +3555,9 @@ declare namespace Comprehend {
   export type ListOfRelationships = RelationshipsListItem[];
   export type ListOfSyntaxTokens = SyntaxToken[];
   export type ListOfTargetedSentimentEntities = TargetedSentimentEntity[];
+  export type ListOfTextSegments = TextSegment[];
+  export type ListOfToxicContent = ToxicContent[];
+  export type ListOfToxicLabels = ToxicLabels[];
   export type ListOfWarnings = WarningsListItem[];
   export interface ListPiiEntitiesDetectionJobsRequest {
     /**
@@ -3663,7 +3690,7 @@ declare namespace Comprehend {
      */
     S3Uri: S3Uri;
     /**
-     * ID for the Amazon Web Services Key Management Service (KMS) key that Amazon Comprehend uses to encrypt the output results from an analysis job. The KmsKeyId can be one of the following formats:   KMS Key ID: "1234abcd-12ab-34cd-56ef-1234567890ab"    Amazon Resource Name (ARN) of a KMS Key: "arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab"    KMS Key Alias: "alias/ExampleAlias"    ARN of a KMS Key Alias: "arn:aws:kms:us-west-2:111122223333:alias/ExampleAlias"   
+     * ID for the Amazon Web Services Key Management Service (KMS) key that Amazon Comprehend uses to encrypt the output results from an analysis job. Specify the Key Id of a symmetric key, because you cannot use an asymmetric key for uploading data to S3. The KmsKeyId can be one of the following formats:   KMS Key ID: "1234abcd-12ab-34cd-56ef-1234567890ab"    Amazon Resource Name (ARN) of a KMS Key: "arn:aws:kms:us-west-2:111122223333:key/1234abcd-12ab-34cd-56ef-1234567890ab"    KMS Key Alias: "alias/ExampleAlias"    ARN of a KMS Key Alias: "arn:aws:kms:us-west-2:111122223333:alias/ExampleAlias"   
      */
     KmsKeyId?: KmsKeyId;
   }
@@ -3740,7 +3767,7 @@ declare namespace Comprehend {
      */
     RedactionConfig?: RedactionConfig;
     /**
-     * The language code of the input documents
+     * The language code of the input documents.
      */
     LanguageCode?: LanguageCode;
     /**
@@ -4257,7 +4284,7 @@ declare namespace Comprehend {
      */
     JobName?: JobName;
     /**
-     * The language of the input documents. Currently, English is the only valid language.
+     * The language of the input documents. Enter the language code for English (en) or Spanish (es).
      */
     LanguageCode: LanguageCode;
     /**
@@ -4726,13 +4753,19 @@ declare namespace Comprehend {
      */
     LanguageCode: LanguageCode;
     /**
-     * Configuration required for a classification model.
+     * Configuration required for a document classification model.
      */
     DocumentClassificationConfig?: DocumentClassificationConfig;
     /**
      * Configuration required for an entity recognition model.
      */
     EntityRecognitionConfig?: EntityRecognitionConfig;
+  }
+  export interface TextSegment {
+    /**
+     * The text content.
+     */
+    Text: CustomerInputString;
   }
   export type Timestamp = Date;
   export interface TopicsDetectionJobFilter {
@@ -4808,6 +4841,27 @@ declare namespace Comprehend {
     VpcConfig?: VpcConfig;
   }
   export type TopicsDetectionJobPropertiesList = TopicsDetectionJobProperties[];
+  export interface ToxicContent {
+    /**
+     * The name of the toxic content type.
+     */
+    Name?: ToxicContentType;
+    /**
+     *  Model confidence in the detected content type. Value range is zero to one, where one is highest confidence.
+     */
+    Score?: Float;
+  }
+  export type ToxicContentType = "GRAPHIC"|"HARASSMENT_OR_ABUSE"|"HATE_SPEECH"|"INSULT"|"PROFANITY"|"SEXUAL"|"VIOLENCE_OR_THREAT"|string;
+  export interface ToxicLabels {
+    /**
+     * Array of toxic content types identified in the string.
+     */
+    Labels?: ListOfToxicContent;
+    /**
+     * Overall toxicity score for the string. Value range is zero to one, where one is the highest confidence.
+     */
+    Toxicity?: Float;
+  }
   export interface UntagResourceRequest {
     /**
      *  The Amazon Resource Name (ARN) of the given Amazon Comprehend resource from which you want to remove the tags. 

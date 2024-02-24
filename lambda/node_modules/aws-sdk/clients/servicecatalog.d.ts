@@ -28,11 +28,11 @@ declare class ServiceCatalog extends Service {
    */
   associateBudgetWithResource(callback?: (err: AWSError, data: ServiceCatalog.Types.AssociateBudgetWithResourceOutput) => void): Request<ServiceCatalog.Types.AssociateBudgetWithResourceOutput, AWSError>;
   /**
-   * Associates the specified principal ARN with the specified portfolio. If you share the portfolio with principal name sharing enabled, the PrincipalARN association is included in the share.  The PortfolioID, PrincipalARN, and PrincipalType parameters are required.  You can associate a maximum of 10 Principals with a portfolio using PrincipalType as IAM_PATTERN   When you associate a principal with portfolio, a potential privilege escalation path may occur when that portfolio is then shared with other accounts. For a user in a recipient account who is not an Service Catalog Admin, but still has the ability to create Principals (Users/Groups/Roles), that user could create a role that matches a principal name association for the portfolio. Although this user may not know which principal names are associated through Service Catalog, they may be able to guess the user. If this potential escalation path is a concern, then Service Catalog recommends using PrincipalType as IAM. With this configuration, the PrincipalARN must already exist in the recipient account before it can be associated.  
+   * Associates the specified principal ARN with the specified portfolio. If you share the portfolio with principal name sharing enabled, the PrincipalARN association is included in the share.  The PortfolioID, PrincipalARN, and PrincipalType parameters are required.  You can associate a maximum of 10 Principals with a portfolio using PrincipalType as IAM_PATTERN.   When you associate a principal with portfolio, a potential privilege escalation path may occur when that portfolio is then shared with other accounts. For a user in a recipient account who is not an Service Catalog Admin, but still has the ability to create Principals (Users/Groups/Roles), that user could create a role that matches a principal name association for the portfolio. Although this user may not know which principal names are associated through Service Catalog, they may be able to guess the user. If this potential escalation path is a concern, then Service Catalog recommends using PrincipalType as IAM. With this configuration, the PrincipalARN must already exist in the recipient account before it can be associated.  
    */
   associatePrincipalWithPortfolio(params: ServiceCatalog.Types.AssociatePrincipalWithPortfolioInput, callback?: (err: AWSError, data: ServiceCatalog.Types.AssociatePrincipalWithPortfolioOutput) => void): Request<ServiceCatalog.Types.AssociatePrincipalWithPortfolioOutput, AWSError>;
   /**
-   * Associates the specified principal ARN with the specified portfolio. If you share the portfolio with principal name sharing enabled, the PrincipalARN association is included in the share.  The PortfolioID, PrincipalARN, and PrincipalType parameters are required.  You can associate a maximum of 10 Principals with a portfolio using PrincipalType as IAM_PATTERN   When you associate a principal with portfolio, a potential privilege escalation path may occur when that portfolio is then shared with other accounts. For a user in a recipient account who is not an Service Catalog Admin, but still has the ability to create Principals (Users/Groups/Roles), that user could create a role that matches a principal name association for the portfolio. Although this user may not know which principal names are associated through Service Catalog, they may be able to guess the user. If this potential escalation path is a concern, then Service Catalog recommends using PrincipalType as IAM. With this configuration, the PrincipalARN must already exist in the recipient account before it can be associated.  
+   * Associates the specified principal ARN with the specified portfolio. If you share the portfolio with principal name sharing enabled, the PrincipalARN association is included in the share.  The PortfolioID, PrincipalARN, and PrincipalType parameters are required.  You can associate a maximum of 10 Principals with a portfolio using PrincipalType as IAM_PATTERN.   When you associate a principal with portfolio, a potential privilege escalation path may occur when that portfolio is then shared with other accounts. For a user in a recipient account who is not an Service Catalog Admin, but still has the ability to create Principals (Users/Groups/Roles), that user could create a role that matches a principal name association for the portfolio. Although this user may not know which principal names are associated through Service Catalog, they may be able to guess the user. If this potential escalation path is a concern, then Service Catalog recommends using PrincipalType as IAM. With this configuration, the PrincipalARN must already exist in the recipient account before it can be associated.  
    */
   associatePrincipalWithPortfolio(callback?: (err: AWSError, data: ServiceCatalog.Types.AssociatePrincipalWithPortfolioOutput) => void): Request<ServiceCatalog.Types.AssociatePrincipalWithPortfolioOutput, AWSError>;
   /**
@@ -837,6 +837,10 @@ declare namespace ServiceCatalog {
      * The language code.    jp - Japanese    zh - Chinese  
      */
     AcceptLanguage?: AcceptLanguage;
+    /**
+     * A unique identifier that you provide to ensure idempotency. If multiple requests from the same Amazon Web Services account use the same idempotency token, the same response is returned for each repeated request. 
+     */
+    IdempotencyToken?: IdempotencyToken;
   }
   export interface AssociateServiceActionWithProvisioningArtifactOutput {
   }
@@ -1105,7 +1109,7 @@ declare namespace ServiceCatalog {
      */
     ShareTagOptions?: Boolean;
     /**
-     * Enables or disables Principal sharing when creating the portfolio share. If this flag is not provided, principal sharing is disabled.  When you enable Principal Name Sharing for a portfolio share, the share recipient account end users with a principal that matches any of the associated IAM patterns can provision products from the portfolio. Once shared, the share recipient can view associations of PrincipalType: IAM_PATTERN on their portfolio. You can create the principals in the recipient account before or after creating the share. 
+     * This parameter is only supported for portfolios with an OrganizationalNode Type of ORGANIZATION or ORGANIZATIONAL_UNIT.  Enables or disables Principal sharing when creating the portfolio share. If you do not provide this flag, principal sharing is disabled.  When you enable Principal Name Sharing for a portfolio share, the share recipient account end users with a principal that matches any of the associated IAM patterns can provision products from the portfolio. Once shared, the share recipient can view associations of PrincipalType: IAM_PATTERN on their portfolio. You can create the principals in the recipient account before or after creating the share. 
      */
     SharePrincipals?: Boolean;
   }
@@ -1435,6 +1439,10 @@ declare namespace ServiceCatalog {
      * The language code.    jp - Japanese    zh - Chinese  
      */
     AcceptLanguage?: AcceptLanguage;
+    /**
+     * A unique identifier that you provide to ensure idempotency. If multiple requests from the same Amazon Web Services account use the same idempotency token, the same response is returned for each repeated request. 
+     */
+    IdempotencyToken?: IdempotencyToken;
   }
   export interface DeleteServiceActionOutput {
   }
@@ -1986,6 +1994,10 @@ declare namespace ServiceCatalog {
      * The language code.    jp - Japanese    zh - Chinese  
      */
     AcceptLanguage?: AcceptLanguage;
+    /**
+     * A unique identifier that you provide to ensure idempotency. If multiple requests from the same Amazon Web Services account use the same idempotency token, the same response is returned for each repeated request. 
+     */
+    IdempotencyToken?: IdempotencyToken;
   }
   export interface DisassociateServiceActionFromProvisioningArtifactOutput {
   }
@@ -2994,7 +3006,7 @@ declare namespace ServiceCatalog {
   export type Principals = Principal[];
   export type ProductArn = string;
   export type ProductSource = "ACCOUNT"|string;
-  export type ProductType = "CLOUD_FORMATION_TEMPLATE"|"MARKETPLACE"|"TERRAFORM_OPEN_SOURCE"|"TERRAFORM_CLOUD"|string;
+  export type ProductType = "CLOUD_FORMATION_TEMPLATE"|"MARKETPLACE"|"TERRAFORM_OPEN_SOURCE"|"TERRAFORM_CLOUD"|"EXTERNAL"|string;
   export type ProductViewAggregationType = string;
   export interface ProductViewAggregationValue {
     /**
@@ -3161,7 +3173,7 @@ declare namespace ServiceCatalog {
      */
     Arn?: ProvisionedProductNameOrArn;
     /**
-     * The type of provisioned product. The supported values are CFN_STACK and CFN_STACKSET.
+     * The type of provisioned product. The supported values are CFN_STACK, CFN_STACKSET, TERRAFORM_OPEN_SOURCE, TERRAFORM_CLOUD, and EXTERNAL.
      */
     Type?: ProvisionedProductType;
     /**
@@ -3240,7 +3252,7 @@ declare namespace ServiceCatalog {
      */
     Arn?: ProvisionedProductNameOrArn;
     /**
-     * The type of provisioned product. The supported values are CFN_STACK and CFN_STACKSET.
+     * The type of provisioned product. The supported values are CFN_STACK, CFN_STACKSET, TERRAFORM_OPEN_SOURCE, TERRAFORM_CLOUD, and EXTERNAL.
      */
     Type?: ProvisionedProductType;
     /**
@@ -3431,7 +3443,7 @@ declare namespace ServiceCatalog {
      */
     Description?: ProvisioningArtifactName;
     /**
-     * The type of provisioning artifact.  CLOUD_FORMATION_TEMPLATE - CloudFormation template
+     * The type of provisioning artifact.    CLOUD_FORMATION_TEMPLATE - CloudFormation template    TERRAFORM_OPEN_SOURCE - Terraform Open Source configuration file    TERRAFORM_CLOUD - Terraform Cloud configuration file    EXTERNAL - External configuration file  
      */
     Type?: ProvisioningArtifactType;
     /**
@@ -3520,7 +3532,7 @@ declare namespace ServiceCatalog {
      */
     Info?: ProvisioningArtifactInfo;
     /**
-     * The type of provisioning artifact.    CLOUD_FORMATION_TEMPLATE - CloudFormation template    TERRAFORM_OPEN_SOURCE - Terraform open source configuration file  
+     * The type of provisioning artifact.    CLOUD_FORMATION_TEMPLATE - CloudFormation template    TERRAFORM_OPEN_SOURCE - Terraform Open Source configuration file    TERRAFORM_CLOUD - Terraform Cloud configuration file    EXTERNAL - External configuration file  
      */
     Type?: ProvisioningArtifactType;
     /**
@@ -3553,7 +3565,7 @@ declare namespace ServiceCatalog {
      */
     ProvisioningArtifactMetadata?: ProvisioningArtifactInfo;
   }
-  export type ProvisioningArtifactType = "CLOUD_FORMATION_TEMPLATE"|"MARKETPLACE_AMI"|"MARKETPLACE_CAR"|"TERRAFORM_OPEN_SOURCE"|"TERRAFORM_CLOUD"|string;
+  export type ProvisioningArtifactType = "CLOUD_FORMATION_TEMPLATE"|"MARKETPLACE_AMI"|"MARKETPLACE_CAR"|"TERRAFORM_OPEN_SOURCE"|"TERRAFORM_CLOUD"|"EXTERNAL"|string;
   export interface ProvisioningArtifactView {
     /**
      * Summary information about a product view.
@@ -3625,7 +3637,7 @@ declare namespace ServiceCatalog {
      */
     UpdatedTime?: UpdatedTime;
     /**
-     * The type of provisioned product. The supported values are CFN_STACK, CFN_STACKSET, TERRAFORM_OPEN_SOURCE, and TERRAFORM_CLOUD.
+     * The type of provisioned product. The supported values are CFN_STACK, CFN_STACKSET, TERRAFORM_OPEN_SOURCE, TERRAFORM_CLOUD, and EXTERNAL.
      */
     ProvisionedProductType?: ProvisionedProductType;
     /**

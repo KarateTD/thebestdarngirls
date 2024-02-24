@@ -740,11 +740,11 @@ declare class Pinpoint extends Service {
    */
   putEvents(callback?: (err: AWSError, data: Pinpoint.Types.PutEventsResponse) => void): Request<Pinpoint.Types.PutEventsResponse, AWSError>;
   /**
-   * Removes one or more attributes, of the same attribute type, from all the endpoints that are associated with an application.
+   * Removes one or more custom attributes, of the same attribute type, from the application. Existing endpoints still have the attributes but Amazon Pinpoint will stop capturing new or changed values for these attributes.
    */
   removeAttributes(params: Pinpoint.Types.RemoveAttributesRequest, callback?: (err: AWSError, data: Pinpoint.Types.RemoveAttributesResponse) => void): Request<Pinpoint.Types.RemoveAttributesResponse, AWSError>;
   /**
-   * Removes one or more attributes, of the same attribute type, from all the endpoints that are associated with an application.
+   * Removes one or more custom attributes, of the same attribute type, from the application. Existing endpoints still have the attributes but Amazon Pinpoint will stop capturing new or changed values for these attributes.
    */
   removeAttributes(callback?: (err: AWSError, data: Pinpoint.Types.RemoveAttributesResponse) => void): Request<Pinpoint.Types.RemoveAttributesResponse, AWSError>;
   /**
@@ -2085,7 +2085,7 @@ declare namespace Pinpoint {
      */
     MaximumDuration?: __integer;
     /**
-     * The maximum number of messages that a campaign can send each second. For an application, this value specifies the default limit for the number of messages that campaigns can send each second. The minimum value is 50. The maximum value is 20,000.
+     * The maximum number of messages that a campaign can send each second. For an application, this value specifies the default limit for the number of messages that campaigns can send each second. The minimum value is 1. The maximum value is 20,000.
      */
     MessagesPerSecond?: __integer;
     /**
@@ -2723,7 +2723,7 @@ declare namespace Pinpoint {
      */
     ApplicationId: __string;
     /**
-     * The unique identifier for the endpoint.
+     * The case insensitive unique identifier for the endpoint. The identifier can't contain $, { or }.
      */
     EndpointId: __string;
   }
@@ -4103,7 +4103,7 @@ declare namespace Pinpoint {
      */
     ApplicationId: __string;
     /**
-     * The unique identifier for the endpoint.
+     * The case insensitive unique identifier for the endpoint. The identifier can't contain $, { or }.
      */
     EndpointId: __string;
   }
@@ -6946,7 +6946,7 @@ declare namespace Pinpoint {
      */
     ApplicationId: __string;
     /**
-     * The unique identifier for the endpoint.
+     * The case insensitive unique identifier for the endpoint. The identifier can't contain $, { or }.
      */
     EndpointId: __string;
     EndpointRequest: EndpointRequest;

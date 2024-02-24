@@ -44,11 +44,11 @@ declare class GameLift extends Service {
    */
   createBuild(callback?: (err: AWSError, data: GameLift.Types.CreateBuildOutput) => void): Request<GameLift.Types.CreateBuildOutput, AWSError>;
   /**
-   * Creates a fleet of Amazon Elastic Compute Cloud (Amazon EC2) instances to host your custom game server or Realtime Servers. Use this operation to configure the computing resources for your fleet and provide instructions for running game servers on each instance. Most Amazon GameLift fleets can deploy instances to multiple locations, including the home Region (where the fleet is created) and an optional set of remote locations. Fleets that are created in the following Amazon Web Services Regions support multiple locations: us-east-1 (N. Virginia), us-west-2 (Oregon), eu-central-1 (Frankfurt), eu-west-1 (Ireland), ap-southeast-2 (Sydney), ap-northeast-1 (Tokyo), and ap-northeast-2 (Seoul). Fleets that are created in other Amazon GameLift Regions can deploy instances in the fleet's home Region only. All fleet instances use the same configuration regardless of location; however, you can adjust capacity settings and turn auto-scaling on/off for each location. To create a fleet, choose the hardware for your instances, specify a game server build or Realtime script to deploy, and provide a runtime configuration to direct Amazon GameLift how to start and run game servers on each instance in the fleet. Set permissions for inbound traffic to your game servers, and enable optional features as needed. When creating a multi-location fleet, provide a list of additional remote locations. If you need to debug your fleet, fetch logs, view performance metrics or other actions on the fleet, create the development fleet with port 22/3389 open. As a best practice, we recommend opening ports for remote access only when you need them and closing them when you're finished.  If successful, this operation creates a new Fleet resource and places it in NEW status, which prompts Amazon GameLift to initiate the fleet creation workflow.  Learn more   Setting up fleets   Debug fleet creation issues   Multi-location fleets 
+   * Creates a fleet of Amazon Elastic Compute Cloud (Amazon EC2) instances to host your custom game server or Realtime Servers. Use this operation to configure the computing resources for your fleet and provide instructions for running game servers on each instance. Most Amazon GameLift fleets can deploy instances to multiple locations, including the home Region (where the fleet is created) and an optional set of remote locations. Fleets that are created in the following Amazon Web Services Regions support multiple locations: us-east-1 (N. Virginia), us-west-2 (Oregon), eu-central-1 (Frankfurt), eu-west-1 (Ireland), ap-southeast-2 (Sydney), ap-northeast-1 (Tokyo), and ap-northeast-2 (Seoul). Fleets that are created in other Amazon GameLift Regions can deploy instances in the fleet's home Region only. All fleet instances use the same configuration regardless of location; however, you can adjust capacity settings and turn auto-scaling on/off for each location. To create a fleet, choose the hardware for your instances, specify a game server build or Realtime script to deploy, and provide a runtime configuration to direct Amazon GameLift how to start and run game servers on each instance in the fleet. Set permissions for inbound traffic to your game servers, and enable optional features as needed. When creating a multi-location fleet, provide a list of additional remote locations. If you need to debug your fleet, fetch logs, view performance metrics or other actions on the fleet, create the development fleet with port 22/3389 open. As a best practice, we recommend opening ports for remote access only when you need them and closing them when you're finished.  If successful, this operation creates a new Fleet resource and places it in NEW status, which prompts Amazon GameLift to initiate the fleet creation workflow. You can track fleet creation by checking fleet status using DescribeFleetAttributes and DescribeFleetLocationAttributes/, or by monitoring fleet creation events using DescribeFleetEvents.  When the fleet status changes to ACTIVE, you can enable automatic scaling with PutScalingPolicy and set capacity for the home Region with UpdateFleetCapacity. When the status of each remote location reaches ACTIVE, you can set capacity by location using UpdateFleetCapacity.  Learn more   Setting up fleets   Debug fleet creation issues   Multi-location fleets 
    */
   createFleet(params: GameLift.Types.CreateFleetInput, callback?: (err: AWSError, data: GameLift.Types.CreateFleetOutput) => void): Request<GameLift.Types.CreateFleetOutput, AWSError>;
   /**
-   * Creates a fleet of Amazon Elastic Compute Cloud (Amazon EC2) instances to host your custom game server or Realtime Servers. Use this operation to configure the computing resources for your fleet and provide instructions for running game servers on each instance. Most Amazon GameLift fleets can deploy instances to multiple locations, including the home Region (where the fleet is created) and an optional set of remote locations. Fleets that are created in the following Amazon Web Services Regions support multiple locations: us-east-1 (N. Virginia), us-west-2 (Oregon), eu-central-1 (Frankfurt), eu-west-1 (Ireland), ap-southeast-2 (Sydney), ap-northeast-1 (Tokyo), and ap-northeast-2 (Seoul). Fleets that are created in other Amazon GameLift Regions can deploy instances in the fleet's home Region only. All fleet instances use the same configuration regardless of location; however, you can adjust capacity settings and turn auto-scaling on/off for each location. To create a fleet, choose the hardware for your instances, specify a game server build or Realtime script to deploy, and provide a runtime configuration to direct Amazon GameLift how to start and run game servers on each instance in the fleet. Set permissions for inbound traffic to your game servers, and enable optional features as needed. When creating a multi-location fleet, provide a list of additional remote locations. If you need to debug your fleet, fetch logs, view performance metrics or other actions on the fleet, create the development fleet with port 22/3389 open. As a best practice, we recommend opening ports for remote access only when you need them and closing them when you're finished.  If successful, this operation creates a new Fleet resource and places it in NEW status, which prompts Amazon GameLift to initiate the fleet creation workflow.  Learn more   Setting up fleets   Debug fleet creation issues   Multi-location fleets 
+   * Creates a fleet of Amazon Elastic Compute Cloud (Amazon EC2) instances to host your custom game server or Realtime Servers. Use this operation to configure the computing resources for your fleet and provide instructions for running game servers on each instance. Most Amazon GameLift fleets can deploy instances to multiple locations, including the home Region (where the fleet is created) and an optional set of remote locations. Fleets that are created in the following Amazon Web Services Regions support multiple locations: us-east-1 (N. Virginia), us-west-2 (Oregon), eu-central-1 (Frankfurt), eu-west-1 (Ireland), ap-southeast-2 (Sydney), ap-northeast-1 (Tokyo), and ap-northeast-2 (Seoul). Fleets that are created in other Amazon GameLift Regions can deploy instances in the fleet's home Region only. All fleet instances use the same configuration regardless of location; however, you can adjust capacity settings and turn auto-scaling on/off for each location. To create a fleet, choose the hardware for your instances, specify a game server build or Realtime script to deploy, and provide a runtime configuration to direct Amazon GameLift how to start and run game servers on each instance in the fleet. Set permissions for inbound traffic to your game servers, and enable optional features as needed. When creating a multi-location fleet, provide a list of additional remote locations. If you need to debug your fleet, fetch logs, view performance metrics or other actions on the fleet, create the development fleet with port 22/3389 open. As a best practice, we recommend opening ports for remote access only when you need them and closing them when you're finished.  If successful, this operation creates a new Fleet resource and places it in NEW status, which prompts Amazon GameLift to initiate the fleet creation workflow. You can track fleet creation by checking fleet status using DescribeFleetAttributes and DescribeFleetLocationAttributes/, or by monitoring fleet creation events using DescribeFleetEvents.  When the fleet status changes to ACTIVE, you can enable automatic scaling with PutScalingPolicy and set capacity for the home Region with UpdateFleetCapacity. When the status of each remote location reaches ACTIVE, you can set capacity by location using UpdateFleetCapacity.  Learn more   Setting up fleets   Debug fleet creation issues   Multi-location fleets 
    */
   createFleet(callback?: (err: AWSError, data: GameLift.Types.CreateFleetOutput) => void): Request<GameLift.Types.CreateFleetOutput, AWSError>;
   /**
@@ -196,11 +196,11 @@ declare class GameLift extends Service {
    */
   deleteGameSessionQueue(callback?: (err: AWSError, data: GameLift.Types.DeleteGameSessionQueueOutput) => void): Request<GameLift.Types.DeleteGameSessionQueueOutput, AWSError>;
   /**
-   * Deletes a custom location. Before deleting a custom location, review any fleets currently using the custom location and deregister the location if it is in use. For more information see, DeregisterCompute.
+   * Deletes a custom location. Before deleting a custom location, review any fleets currently using the custom location and deregister the location if it is in use. For more information, see DeregisterCompute.
    */
   deleteLocation(params: GameLift.Types.DeleteLocationInput, callback?: (err: AWSError, data: GameLift.Types.DeleteLocationOutput) => void): Request<GameLift.Types.DeleteLocationOutput, AWSError>;
   /**
-   * Deletes a custom location. Before deleting a custom location, review any fleets currently using the custom location and deregister the location if it is in use. For more information see, DeregisterCompute.
+   * Deletes a custom location. Before deleting a custom location, review any fleets currently using the custom location and deregister the location if it is in use. For more information, see DeregisterCompute.
    */
   deleteLocation(callback?: (err: AWSError, data: GameLift.Types.DeleteLocationOutput) => void): Request<GameLift.Types.DeleteLocationOutput, AWSError>;
   /**
@@ -652,11 +652,11 @@ declare class GameLift extends Service {
    */
   resumeGameServerGroup(callback?: (err: AWSError, data: GameLift.Types.ResumeGameServerGroupOutput) => void): Request<GameLift.Types.ResumeGameServerGroupOutput, AWSError>;
   /**
-   * Retrieves all active game sessions that match a set of search criteria and sorts them into a specified order.  This operation is not designed to be continually called to track game session status. This practice can cause you to exceed your API limit, which results in errors. Instead, you must configure configure an Amazon Simple Notification Service (SNS) topic to receive notifications from FlexMatch or queues. Continuously polling game session status with DescribeGameSessions should only be used for games in development with low game session usage.  When searching for game sessions, you specify exactly where you want to search and provide a search filter expression, a sort expression, or both. A search request can search only one fleet, but it can search all of a fleet's locations.  This operation can be used in the following ways:    To search all game sessions that are currently running on all locations in a fleet, provide a fleet or alias ID. This approach returns game sessions in the fleet's home Region and all remote locations that fit the search criteria.   To search all game sessions that are currently running on a specific fleet location, provide a fleet or alias ID and a location name. For location, you can specify a fleet's home Region or any remote location.   Use the pagination parameters to retrieve results as a set of sequential pages.  If successful, a GameSession object is returned for each game session that matches the request. Search finds game sessions that are in ACTIVE status only. To retrieve information on game sessions in other statuses, use DescribeGameSessions . You can search or sort by the following game session attributes:    gameSessionId -- A unique identifier for the game session. You can use either a GameSessionId or GameSessionArn value.     gameSessionName -- Name assigned to a game session. Game session names do not need to be unique to a game session.    gameSessionProperties -- Custom data defined in a game session's GameProperty parameter. GameProperty values are stored as key:value pairs; the filter expression must indicate the key and a string to search the data values for. For example, to search for game sessions with custom data containing the key:value pair "gameMode:brawl", specify the following: gameSessionProperties.gameMode = "brawl". All custom data values are searched as strings.    maximumSessions -- Maximum number of player sessions allowed for a game session.    creationTimeMillis -- Value indicating when a game session was created. It is expressed in Unix time as milliseconds.    playerSessionCount -- Number of players currently connected to a game session. This value changes rapidly as players join the session or drop out.    hasAvailablePlayerSessions -- Boolean value indicating whether a game session has reached its maximum number of players. It is highly recommended that all search requests include this filter attribute to optimize search performance and return only sessions that players can join.     Returned values for playerSessionCount and hasAvailablePlayerSessions change quickly as players join sessions and others drop out. Results should be considered a snapshot in time. Be sure to refresh search results often, and handle sessions that fill up before a player can join.    All APIs by task 
+   * Retrieves all active game sessions that match a set of search criteria and sorts them into a specified order.  This operation is not designed to continually track game session status because that practice can cause you to exceed your API limit and generate errors. Instead, configure an Amazon Simple Notification Service (Amazon SNS) topic to receive notifications from a matchmaker or game session placement queue. When searching for game sessions, you specify exactly where you want to search and provide a search filter expression, a sort expression, or both. A search request can search only one fleet, but it can search all of a fleet's locations.  This operation can be used in the following ways:    To search all game sessions that are currently running on all locations in a fleet, provide a fleet or alias ID. This approach returns game sessions in the fleet's home Region and all remote locations that fit the search criteria.   To search all game sessions that are currently running on a specific fleet location, provide a fleet or alias ID and a location name. For location, you can specify a fleet's home Region or any remote location.   Use the pagination parameters to retrieve results as a set of sequential pages.  If successful, a GameSession object is returned for each game session that matches the request. Search finds game sessions that are in ACTIVE status only. To retrieve information on game sessions in other statuses, use DescribeGameSessions . To set search and sort criteria, create a filter expression using the following game session attributes. For game session search examples, see the Examples section of this topic.    gameSessionId -- A unique identifier for the game session. You can use either a GameSessionId or GameSessionArn value.     gameSessionName -- Name assigned to a game session. Game session names do not need to be unique to a game session.    gameSessionProperties -- A set of key-value pairs that can store custom data in a game session. For example: {"Key": "difficulty", "Value": "novice"}. The filter expression must specify the GameProperty -- a Key and a string Value to search for the game sessions. For example, to search for the above key-value pair, specify the following search filter: gameSessionProperties.difficulty = "novice". All game property values are searched as strings.  For examples of searching game sessions, see the ones below, and also see Search game sessions by game property.     maximumSessions -- Maximum number of player sessions allowed for a game session.    creationTimeMillis -- Value indicating when a game session was created. It is expressed in Unix time as milliseconds.    playerSessionCount -- Number of players currently connected to a game session. This value changes rapidly as players join the session or drop out.    hasAvailablePlayerSessions -- Boolean value indicating whether a game session has reached its maximum number of players. It is highly recommended that all search requests include this filter attribute to optimize search performance and return only sessions that players can join.     Returned values for playerSessionCount and hasAvailablePlayerSessions change quickly as players join sessions and others drop out. Results should be considered a snapshot in time. Be sure to refresh search results often, and handle sessions that fill up before a player can join.    All APIs by task 
    */
   searchGameSessions(params: GameLift.Types.SearchGameSessionsInput, callback?: (err: AWSError, data: GameLift.Types.SearchGameSessionsOutput) => void): Request<GameLift.Types.SearchGameSessionsOutput, AWSError>;
   /**
-   * Retrieves all active game sessions that match a set of search criteria and sorts them into a specified order.  This operation is not designed to be continually called to track game session status. This practice can cause you to exceed your API limit, which results in errors. Instead, you must configure configure an Amazon Simple Notification Service (SNS) topic to receive notifications from FlexMatch or queues. Continuously polling game session status with DescribeGameSessions should only be used for games in development with low game session usage.  When searching for game sessions, you specify exactly where you want to search and provide a search filter expression, a sort expression, or both. A search request can search only one fleet, but it can search all of a fleet's locations.  This operation can be used in the following ways:    To search all game sessions that are currently running on all locations in a fleet, provide a fleet or alias ID. This approach returns game sessions in the fleet's home Region and all remote locations that fit the search criteria.   To search all game sessions that are currently running on a specific fleet location, provide a fleet or alias ID and a location name. For location, you can specify a fleet's home Region or any remote location.   Use the pagination parameters to retrieve results as a set of sequential pages.  If successful, a GameSession object is returned for each game session that matches the request. Search finds game sessions that are in ACTIVE status only. To retrieve information on game sessions in other statuses, use DescribeGameSessions . You can search or sort by the following game session attributes:    gameSessionId -- A unique identifier for the game session. You can use either a GameSessionId or GameSessionArn value.     gameSessionName -- Name assigned to a game session. Game session names do not need to be unique to a game session.    gameSessionProperties -- Custom data defined in a game session's GameProperty parameter. GameProperty values are stored as key:value pairs; the filter expression must indicate the key and a string to search the data values for. For example, to search for game sessions with custom data containing the key:value pair "gameMode:brawl", specify the following: gameSessionProperties.gameMode = "brawl". All custom data values are searched as strings.    maximumSessions -- Maximum number of player sessions allowed for a game session.    creationTimeMillis -- Value indicating when a game session was created. It is expressed in Unix time as milliseconds.    playerSessionCount -- Number of players currently connected to a game session. This value changes rapidly as players join the session or drop out.    hasAvailablePlayerSessions -- Boolean value indicating whether a game session has reached its maximum number of players. It is highly recommended that all search requests include this filter attribute to optimize search performance and return only sessions that players can join.     Returned values for playerSessionCount and hasAvailablePlayerSessions change quickly as players join sessions and others drop out. Results should be considered a snapshot in time. Be sure to refresh search results often, and handle sessions that fill up before a player can join.    All APIs by task 
+   * Retrieves all active game sessions that match a set of search criteria and sorts them into a specified order.  This operation is not designed to continually track game session status because that practice can cause you to exceed your API limit and generate errors. Instead, configure an Amazon Simple Notification Service (Amazon SNS) topic to receive notifications from a matchmaker or game session placement queue. When searching for game sessions, you specify exactly where you want to search and provide a search filter expression, a sort expression, or both. A search request can search only one fleet, but it can search all of a fleet's locations.  This operation can be used in the following ways:    To search all game sessions that are currently running on all locations in a fleet, provide a fleet or alias ID. This approach returns game sessions in the fleet's home Region and all remote locations that fit the search criteria.   To search all game sessions that are currently running on a specific fleet location, provide a fleet or alias ID and a location name. For location, you can specify a fleet's home Region or any remote location.   Use the pagination parameters to retrieve results as a set of sequential pages.  If successful, a GameSession object is returned for each game session that matches the request. Search finds game sessions that are in ACTIVE status only. To retrieve information on game sessions in other statuses, use DescribeGameSessions . To set search and sort criteria, create a filter expression using the following game session attributes. For game session search examples, see the Examples section of this topic.    gameSessionId -- A unique identifier for the game session. You can use either a GameSessionId or GameSessionArn value.     gameSessionName -- Name assigned to a game session. Game session names do not need to be unique to a game session.    gameSessionProperties -- A set of key-value pairs that can store custom data in a game session. For example: {"Key": "difficulty", "Value": "novice"}. The filter expression must specify the GameProperty -- a Key and a string Value to search for the game sessions. For example, to search for the above key-value pair, specify the following search filter: gameSessionProperties.difficulty = "novice". All game property values are searched as strings.  For examples of searching game sessions, see the ones below, and also see Search game sessions by game property.     maximumSessions -- Maximum number of player sessions allowed for a game session.    creationTimeMillis -- Value indicating when a game session was created. It is expressed in Unix time as milliseconds.    playerSessionCount -- Number of players currently connected to a game session. This value changes rapidly as players join the session or drop out.    hasAvailablePlayerSessions -- Boolean value indicating whether a game session has reached its maximum number of players. It is highly recommended that all search requests include this filter attribute to optimize search performance and return only sessions that players can join.     Returned values for playerSessionCount and hasAvailablePlayerSessions change quickly as players join sessions and others drop out. Results should be considered a snapshot in time. Be sure to refresh search results often, and handle sessions that fill up before a player can join.    All APIs by task 
    */
   searchGameSessions(callback?: (err: AWSError, data: GameLift.Types.SearchGameSessionsOutput) => void): Request<GameLift.Types.SearchGameSessionsOutput, AWSError>;
   /**
@@ -853,7 +853,7 @@ declare namespace GameLift {
     /**
      * A unique identifier for a player delivering the response. This parameter can include one or multiple player IDs.
      */
-    PlayerIds: StringList;
+    PlayerIds: PlayerIdsForAcceptMatch;
     /**
      * Player response to the proposed match.
      */
@@ -1152,11 +1152,11 @@ declare namespace GameLift {
      */
     Description?: NonZeroAndMaxString;
     /**
-     * The unique identifier for a custom game server build to be deployed on fleet instances. You can use either the build ID or ARN. The build must be uploaded to Amazon GameLift and in READY status. This fleet property cannot be changed later.
+     * The unique identifier for a custom game server build to be deployed on fleet instances. You can use either the build ID or ARN. The build must be uploaded to Amazon GameLift and in READY status. This fleet property can't be changed after the fleet is created.
      */
     BuildId?: BuildIdOrArn;
     /**
-     * The unique identifier for a Realtime configuration script to be deployed on fleet instances. You can use either the script ID or ARN. Scripts must be uploaded to Amazon GameLift prior to creating the fleet. This fleet property cannot be changed later.
+     * The unique identifier for a Realtime configuration script to be deployed on fleet instances. You can use either the script ID or ARN. Scripts must be uploaded to Amazon GameLift prior to creating the fleet. This fleet property can't be changed after the fleet is created.
      */
     ScriptId?: ScriptIdOrArn;
     /**
@@ -1204,11 +1204,11 @@ declare namespace GameLift {
      */
     PeerVpcId?: NonZeroAndMaxString;
     /**
-     * Indicates whether to use On-Demand or Spot instances for this fleet. By default, this property is set to ON_DEMAND. Learn more about when to use  On-Demand versus Spot Instances. This property cannot be changed after the fleet is created.
+     * Indicates whether to use On-Demand or Spot instances for this fleet. By default, this property is set to ON_DEMAND. Learn more about when to use  On-Demand versus Spot Instances. This fleet property can't be changed after the fleet is created.
      */
     FleetType?: FleetType;
     /**
-     * A unique identifier for an IAM role that manages access to your Amazon Web Services services. With an instance role ARN set, any application that runs on an instance in this fleet can assume the role, including install scripts, server processes, and daemons (background processes). Create a role or look up a role's ARN by using the IAM dashboard in the Amazon Web Services Management Console. Learn more about using on-box credentials for your game servers at  Access external resources from a game server. This property cannot be changed after the fleet is created.
+     * A unique identifier for an IAM role with access permissions to other Amazon Web Services services. Any application that runs on an instance in the fleet--including install scripts, server processes, and other processes--can use these permissions to interact with Amazon Web Services resources that you own or have access to. For more information about using the role with your game server builds, see  Communicate with other Amazon Web Services resources from your fleets. This fleet property can't be changed after the fleet is created.
      */
     InstanceRoleArn?: NonEmptyString;
     /**
@@ -1231,6 +1231,10 @@ declare namespace GameLift {
      * Amazon GameLift Anywhere configuration options.
      */
     AnywhereConfiguration?: AnywhereConfiguration;
+    /**
+     * Prompts Amazon GameLift to generate a shared credentials file for the IAM role defined in InstanceRoleArn. The shared credentials file is stored on each fleet instance and refreshed as needed. Use shared credentials for applications that are deployed along with the game server executable, if the game server is integrated with server SDK version 5.x. For more information about using shared credentials, see  Communicate with other Amazon Web Services resources from your fleets.
+     */
+    InstanceRoleCredentialsProvider?: InstanceRoleCredentialsProvider;
   }
   export interface CreateFleetLocationsInput {
     /**
@@ -1336,7 +1340,7 @@ declare namespace GameLift {
      */
     Name?: NonZeroAndMaxString;
     /**
-     * A set of custom properties for a game session, formatted as key:value pairs. These properties are passed to a game server process with a request to start a new game session (see Start a Game Session).
+     * A set of key-value pairs that can store custom data in a game session. For example: {"Key": "difficulty", "Value": "novice"}. For an example, see Create a game session with custom properties. 
      */
     GameProperties?: GamePropertyList;
     /**
@@ -1468,7 +1472,7 @@ declare namespace GameLift {
      */
     CustomEventData?: CustomEventData;
     /**
-     * A set of custom properties for a game session, formatted as key:value pairs. These properties are passed to a game server process with a request to start a new game session (see Start a Game Session). This information is added to the new GameSession object that is created for a successful match. This parameter is not used if FlexMatchMode is set to STANDALONE.
+     * A set of key-value pairs that can store custom data in a game session. For example: {"Key": "difficulty", "Value": "novice"}. This information is added to the new GameSession object that is created for a successful match. This parameter is not used if FlexMatchMode is set to STANDALONE.
      */
     GameProperties?: GamePropertyList;
     /**
@@ -1522,7 +1526,7 @@ declare namespace GameLift {
     /**
      * A unique identifier for a player. Player IDs are developer-defined.
      */
-    PlayerId: NonZeroAndMaxString;
+    PlayerId: PlayerId;
     /**
      * Developer-defined information related to a player. Amazon GameLift does not use this data, so it can be formatted as needed for use in the game.
      */
@@ -2305,7 +2309,7 @@ declare namespace GameLift {
     /**
      * A unique identifier for a player to retrieve player sessions for.
      */
-    PlayerId?: NonZeroAndMaxString;
+    PlayerId?: PlayerId;
     /**
      * A unique identifier for a player session to retrieve.
      */
@@ -2413,7 +2417,7 @@ declare namespace GameLift {
     /**
      * A unique identifier for a player to associate with the player session.
      */
-    PlayerId?: NonZeroAndMaxString;
+    PlayerId?: PlayerId;
     /**
      * Developer-defined information related to a player. Amazon GameLift does not use this data, so it can be formatted as needed for use in the game.
      */
@@ -2484,7 +2488,7 @@ declare namespace GameLift {
      */
     ResourceId?: NonZeroAndMaxString;
     /**
-     * The type of event being logged.   Fleet state transition events:    FLEET_CREATED -- A fleet resource was successfully created with a status of NEW. Event messaging includes the fleet ID.   FLEET_STATE_DOWNLOADING -- Fleet status changed from NEW to DOWNLOADING. The compressed build has started downloading to a fleet instance for installation.   FLEET_STATE_VALIDATING -- Fleet status changed from DOWNLOADING to VALIDATING. Amazon GameLift has successfully downloaded the build and is now validating the build files.   FLEET_STATE_BUILDING -- Fleet status changed from VALIDATING to BUILDING. Amazon GameLift has successfully verified the build files and is now running the installation scripts.   FLEET_STATE_ACTIVATING -- Fleet status changed from BUILDING to ACTIVATING. Amazon GameLift is trying to launch an instance and test the connectivity between the build and the Amazon GameLift Service via the Server SDK.   FLEET_STATE_ACTIVE -- The fleet's status changed from ACTIVATING to ACTIVE. The fleet is now ready to host game sessions.   FLEET_STATE_ERROR -- The Fleet's status changed to ERROR. Describe the fleet event message for more details.    Fleet creation events (ordered by fleet creation activity):    FLEET_BINARY_DOWNLOAD_FAILED -- The build failed to download to the fleet instance.   FLEET_CREATION_EXTRACTING_BUILD -- The game server build was successfully downloaded to an instance, and the build files are now being extracted from the uploaded build and saved to an instance. Failure at this stage prevents a fleet from moving to ACTIVE status. Logs for this stage display a list of the files that are extracted and saved on the instance. Access the logs by using the URL in PreSignedLogUrl.   FLEET_CREATION_RUNNING_INSTALLER -- The game server build files were successfully extracted, and the GameLift is now running the build's install script (if one is included). Failure in this stage prevents a fleet from moving to ACTIVE status. Logs for this stage list the installation steps and whether or not the install completed successfully. Access the logs by using the URL in PreSignedLogUrl.   FLEET_CREATION_VALIDATING_RUNTIME_CONFIG -- The build process was successful, and the GameLift is now verifying that the game server launch paths, which are specified in the fleet's runtime configuration, exist. If any listed launch path exists, Amazon GameLift tries to launch a game server process and waits for the process to report ready. Failures in this stage prevent a fleet from moving to ACTIVE status. Logs for this stage list the launch paths in the runtime configuration and indicate whether each is found. Access the logs by using the URL in PreSignedLogUrl.   FLEET_VALIDATION_LAUNCH_PATH_NOT_FOUND -- Validation of the runtime configuration failed because the executable specified in a launch path does not exist on the instance.   FLEET_VALIDATION_EXECUTABLE_RUNTIME_FAILURE -- Validation of the runtime configuration failed because the executable specified in a launch path failed to run on the fleet instance.   FLEET_VALIDATION_TIMED_OUT -- Validation of the fleet at the end of creation timed out. Try fleet creation again.   FLEET_ACTIVATION_FAILED -- The fleet failed to successfully complete one of the steps in the fleet activation process. This event code indicates that the game build was successfully downloaded to a fleet instance, built, and validated, but was not able to start a server process. For more information, see Debug Fleet Creation Issues.   FLEET_ACTIVATION_FAILED_NO_INSTANCES -- Fleet creation was not able to obtain any instances based on the input fleet attributes. Try again at a different time or choose a different combination of fleet attributes such as fleet type, instance type, etc.   FLEET_INITIALIZATION_FAILED -- A generic exception occurred during fleet creation. Describe the fleet event message for more details.    VPC peering events:    FLEET_VPC_PEERING_SUCCEEDED -- A VPC peering connection has been established between the VPC for an Amazon GameLift fleet and a VPC in your Amazon Web Services account.   FLEET_VPC_PEERING_FAILED -- A requested VPC peering connection has failed. Event details and status information provide additional detail. A common reason for peering failure is that the two VPCs have overlapping CIDR blocks of IPv4 addresses. To resolve this, change the CIDR block for the VPC in your Amazon Web Services account. For more information on VPC peering failures, see https://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/invalid-peering-configurations.html    FLEET_VPC_PEERING_DELETED -- A VPC peering connection has been successfully deleted.    Spot instance events:     INSTANCE_INTERRUPTED -- A spot instance was interrupted by EC2 with a two-minute notification.   INSTANCE_RECYCLED -- A spot instance was determined to have a high risk of interruption and is scheduled to be recycled once it has no active game sessions.    Server process events:    SERVER_PROCESS_INVALID_PATH -- The game server executable or script could not be found based on the Fleet runtime configuration. Check that the launch path is correct based on the operating system of the Fleet.   SERVER_PROCESS_SDK_INITIALIZATION_TIMEOUT -- The server process did not call InitSDK() within the time expected. Check your game session log to see why InitSDK() was not called in time.   SERVER_PROCESS_PROCESS_READY_TIMEOUT -- The server process did not call ProcessReady() within the time expected after calling InitSDK(). Check your game session log to see why ProcessReady() was not called in time.   SERVER_PROCESS_CRASHED -- The server process exited without calling ProcessEnding(). Check your game session log to see why ProcessEnding() was not called.   SERVER_PROCESS_TERMINATED_UNHEALTHY -- The server process did not report a valid health check for too long and was therefore terminated by GameLift. Check your game session log to see if the thread became stuck processing a synchronous task for too long.   SERVER_PROCESS_FORCE_TERMINATED -- The server process did not exit cleanly after OnProcessTerminate() was sent within the time expected. Check your game session log to see why termination took longer than expected.   SERVER_PROCESS_PROCESS_EXIT_TIMEOUT -- The server process did not exit cleanly within the time expected after calling ProcessEnding(). Check your game session log to see why termination took longer than expected.    Game session events:    GAME_SESSION_ACTIVATION_TIMEOUT -- GameSession failed to activate within the expected time. Check your game session log to see why ActivateGameSession() took longer to complete than expected.    Other fleet events:    FLEET_SCALING_EVENT -- A change was made to the fleet's capacity settings (desired instances, minimum/maximum scaling limits). Event messaging includes the new capacity settings.   FLEET_NEW_GAME_SESSION_PROTECTION_POLICY_UPDATED -- A change was made to the fleet's game session protection policy setting. Event messaging includes both the old and new policy setting.    FLEET_DELETED -- A request to delete a fleet was initiated.    GENERIC_EVENT -- An unspecified event has occurred.  
+     * The type of event being logged.   Fleet state transition events:    FLEET_CREATED -- A fleet resource was successfully created with a status of NEW. Event messaging includes the fleet ID.   FLEET_STATE_DOWNLOADING -- Fleet status changed from NEW to DOWNLOADING. The compressed build has started downloading to a fleet instance for installation.   FLEET_STATE_VALIDATING -- Fleet status changed from DOWNLOADING to VALIDATING. Amazon GameLift has successfully downloaded the build and is now validating the build files.   FLEET_STATE_BUILDING -- Fleet status changed from VALIDATING to BUILDING. Amazon GameLift has successfully verified the build files and is now running the installation scripts.   FLEET_STATE_ACTIVATING -- Fleet status changed from BUILDING to ACTIVATING. Amazon GameLift is trying to launch an instance and test the connectivity between the build and the Amazon GameLift Service via the Server SDK.   FLEET_STATE_ACTIVE -- The fleet's status changed from ACTIVATING to ACTIVE. The fleet is now ready to host game sessions.   FLEET_STATE_ERROR -- The Fleet's status changed to ERROR. Describe the fleet event message for more details.    Fleet creation events (ordered by fleet creation activity):    FLEET_BINARY_DOWNLOAD_FAILED -- The build failed to download to the fleet instance.   FLEET_CREATION_EXTRACTING_BUILD -- The game server build was successfully downloaded to an instance, and the build files are now being extracted from the uploaded build and saved to an instance. Failure at this stage prevents a fleet from moving to ACTIVE status. Logs for this stage display a list of the files that are extracted and saved on the instance. Access the logs by using the URL in PreSignedLogUrl.   FLEET_CREATION_RUNNING_INSTALLER -- The game server build files were successfully extracted, and the GameLift is now running the build's install script (if one is included). Failure in this stage prevents a fleet from moving to ACTIVE status. Logs for this stage list the installation steps and whether or not the install completed successfully. Access the logs by using the URL in PreSignedLogUrl.   FLEET_CREATION_VALIDATING_RUNTIME_CONFIG -- The build process was successful, and the GameLift is now verifying that the game server launch paths, which are specified in the fleet's runtime configuration, exist. If any listed launch path exists, Amazon GameLift tries to launch a game server process and waits for the process to report ready. Failures in this stage prevent a fleet from moving to ACTIVE status. Logs for this stage list the launch paths in the runtime configuration and indicate whether each is found. Access the logs by using the URL in PreSignedLogUrl.   FLEET_VALIDATION_LAUNCH_PATH_NOT_FOUND -- Validation of the runtime configuration failed because the executable specified in a launch path does not exist on the instance.   FLEET_VALIDATION_EXECUTABLE_RUNTIME_FAILURE -- Validation of the runtime configuration failed because the executable specified in a launch path failed to run on the fleet instance.   FLEET_VALIDATION_TIMED_OUT -- Validation of the fleet at the end of creation timed out. Try fleet creation again.   FLEET_ACTIVATION_FAILED -- The fleet failed to successfully complete one of the steps in the fleet activation process. This event code indicates that the game build was successfully downloaded to a fleet instance, built, and validated, but was not able to start a server process. For more information, see Debug Fleet Creation Issues.   FLEET_ACTIVATION_FAILED_NO_INSTANCES -- Fleet creation was not able to obtain any instances based on the input fleet attributes. Try again at a different time or choose a different combination of fleet attributes such as fleet type, instance type, etc.   FLEET_INITIALIZATION_FAILED -- A generic exception occurred during fleet creation. Describe the fleet event message for more details.    VPC peering events:    FLEET_VPC_PEERING_SUCCEEDED -- A VPC peering connection has been established between the VPC for an Amazon GameLift fleet and a VPC in your Amazon Web Services account.   FLEET_VPC_PEERING_FAILED -- A requested VPC peering connection has failed. Event details and status information provide additional detail. A common reason for peering failure is that the two VPCs have overlapping CIDR blocks of IPv4 addresses. To resolve this, change the CIDR block for the VPC in your Amazon Web Services account. For more information on VPC peering failures, see https://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/invalid-peering-configurations.html    FLEET_VPC_PEERING_DELETED -- A VPC peering connection has been successfully deleted.    Spot instance events:     INSTANCE_INTERRUPTED -- A spot instance was interrupted by EC2 with a two-minute notification.   INSTANCE_RECYCLED -- A spot instance was determined to have a high risk of interruption and is scheduled to be recycled once it has no active game sessions.    Server process events:    SERVER_PROCESS_INVALID_PATH -- The game server executable or script could not be found based on the Fleet runtime configuration. Check that the launch path is correct based on the operating system of the Fleet.   SERVER_PROCESS_SDK_INITIALIZATION_TIMEOUT -- The server process did not call InitSDK() within the time expected (5 minutes). Check your game session log to see why InitSDK() was not called in time.   SERVER_PROCESS_PROCESS_READY_TIMEOUT -- The server process did not call ProcessReady() within the time expected (5 minutes) after calling InitSDK(). Check your game session log to see why ProcessReady() was not called in time.   SERVER_PROCESS_CRASHED -- The server process exited without calling ProcessEnding(). Check your game session log to see why ProcessEnding() was not called.   SERVER_PROCESS_TERMINATED_UNHEALTHY -- The server process did not report a valid health check for too long and was therefore terminated by GameLift. Check your game session log to see if the thread became stuck processing a synchronous task for too long.   SERVER_PROCESS_FORCE_TERMINATED -- The server process did not exit cleanly within the time expected after OnProcessTerminate() was sent. Check your game session log to see why termination took longer than expected.   SERVER_PROCESS_PROCESS_EXIT_TIMEOUT -- The server process did not exit cleanly within the time expected (30 seconds) after calling ProcessEnding(). Check your game session log to see why termination took longer than expected.    Game session events:    GAME_SESSION_ACTIVATION_TIMEOUT -- GameSession failed to activate within the expected time. Check your game session log to see why ActivateGameSession() took longer to complete than expected.    Other fleet events:    FLEET_SCALING_EVENT -- A change was made to the fleet's capacity settings (desired instances, minimum/maximum scaling limits). Event messaging includes the new capacity settings.   FLEET_NEW_GAME_SESSION_PROTECTION_POLICY_UPDATED -- A change was made to the fleet's game session protection policy setting. Event messaging includes both the old and new policy setting.    FLEET_DELETED -- A request to delete a fleet was initiated.    GENERIC_EVENT -- An unspecified event has occurred.  
      */
     EventCode?: EventCode;
     /**
@@ -2523,7 +2527,7 @@ declare namespace GameLift {
      */
     FleetArn?: FleetArn;
     /**
-     * Indicates whether to use On-Demand or Spot instances for this fleet. By default, this property is set to ON_DEMAND. Learn more about when to use  On-Demand versus Spot Instances. This property cannot be changed after the fleet is created.
+     * Indicates whether to use On-Demand or Spot instances for this fleet. By default, this property is set to ON_DEMAND. Learn more about when to use  On-Demand versus Spot Instances. This fleet property can't be changed after the fleet is created.
      */
     FleetType?: FleetType;
     /**
@@ -2596,7 +2600,7 @@ declare namespace GameLift {
      */
     StoppedActions?: FleetActionList;
     /**
-     * A unique identifier for an IAM role that manages access to your Amazon Web Services services. With an instance role ARN set, any application that runs on an instance in this fleet can assume the role, including install scripts, server processes, and daemons (background processes). Create a role or look up a role's ARN by using the IAM dashboard in the Amazon Web Services Management Console. Learn more about using on-box credentials for your game servers at  Access external resources from a game server.
+     * A unique identifier for an IAM role with access permissions to other Amazon Web Services services. Any application that runs on an instance in the fleet--including install scripts, server processes, and other processes--can use these permissions to interact with Amazon Web Services resources that you own or have access to. For more information about using the role with your game server builds, see  Communicate with other Amazon Web Services resources from your fleets.
      */
     InstanceRoleArn?: NonEmptyString;
     CertificateConfiguration?: CertificateConfiguration;
@@ -2605,6 +2609,10 @@ declare namespace GameLift {
      */
     ComputeType?: ComputeType;
     AnywhereConfiguration?: AnywhereConfiguration;
+    /**
+     * Indicates that fleet instances maintain a shared credentials file for the IAM role defined in InstanceRoleArn. Shared credentials allow applications that are deployed with the game server executable to communicate with other Amazon Web Services resources. This property is used only when the game server is integrated with the server SDK version 5.x. For more information about using shared credentials, see  Communicate with other Amazon Web Services resources from your fleets.
+     */
+    InstanceRoleCredentialsProvider?: InstanceRoleCredentialsProvider;
   }
   export type FleetAttributesList = FleetAttributes[];
   export interface FleetCapacity {
@@ -2868,7 +2876,7 @@ declare namespace GameLift {
      */
     StatusReason?: GameSessionStatusReason;
     /**
-     * A set of custom properties for a game session, formatted as key:value pairs. These properties are passed to a game server process with a request to start a new game session (see Start a Game Session).
+     * A set of key-value pairs that can store custom data in a game session. For example: {"Key": "difficulty", "Value": "novice"}.
      */
     GameProperties?: GamePropertyList;
     /**
@@ -2954,7 +2962,7 @@ declare namespace GameLift {
      */
     Status?: GameSessionPlacementState;
     /**
-     * A set of custom properties for a game session, formatted as key:value pairs. These properties are passed to a game server process with a request to start a new game session (see Start a Game Session).
+     * A set of key-value pairs that can store custom data in a game session. For example: {"Key": "difficulty", "Value": "novice"}.
      */
     GameProperties?: GamePropertyList;
     /**
@@ -3252,6 +3260,7 @@ declare namespace GameLift {
   export type InstanceDefinitions = InstanceDefinition[];
   export type InstanceId = string;
   export type InstanceList = Instance[];
+  export type InstanceRoleCredentialsProvider = "SHARED_CREDENTIAL_FILE"|string;
   export type InstanceStatus = "PENDING"|"ACTIVE"|"TERMINATING"|string;
   export type Integer = number;
   export type IpAddress = string;
@@ -3267,7 +3276,7 @@ declare namespace GameLift {
     /**
      * A range of allowed IP addresses. This value must be expressed in CIDR notation. Example: "000.000.000.000/[subnet mask]" or optionally the shortened version "0.0.0.0/[subnet mask]".
      */
-    IpRange: NonBlankString;
+    IpRange: IpRange;
     /**
      * The network communication protocol used by the fleet.
      */
@@ -3275,6 +3284,7 @@ declare namespace GameLift {
   }
   export type IpPermissionsList = IpPermission[];
   export type IpProtocol = "TCP"|"UDP"|string;
+  export type IpRange = string;
   export type LargeGameSessionData = string;
   export type LatencyMap = {[key: string]: PositiveInteger};
   export type LaunchParametersStringModel = string;
@@ -3563,7 +3573,7 @@ declare namespace GameLift {
     /**
      * A unique identifier for a player 
      */
-    PlayerId?: NonZeroAndMaxString;
+    PlayerId?: PlayerId;
     /**
      * A unique identifier for a player session
      */
@@ -3626,7 +3636,7 @@ declare namespace GameLift {
      */
     CreationTime?: Timestamp;
     /**
-     * A set of custom properties for a game session, formatted as key:value pairs. These properties are passed to a game server process with a request to start a new game session (see Start a Game Session). This information is added to the new GameSession object that is created for a successful match. This parameter is not used when FlexMatchMode is set to STANDALONE.
+     * A set of key-value pairs that can store custom data in a game session. For example: {"Key": "difficulty", "Value": "novice"}. This information is added to the new GameSession object that is created for a successful match. This parameter is not used when FlexMatchMode is set to STANDALONE.
      */
     GameProperties?: GamePropertyList;
     /**
@@ -3724,7 +3734,6 @@ declare namespace GameLift {
   export type MetricGroupList = MetricGroup[];
   export type MetricName = "ActivatingGameSessions"|"ActiveGameSessions"|"ActiveInstances"|"AvailableGameSessions"|"AvailablePlayerSessions"|"CurrentPlayerSessions"|"IdleInstances"|"PercentAvailableGameSessions"|"PercentIdleInstances"|"QueueDepth"|"WaitTime"|"ConcurrentActivatableGameSessions"|string;
   export type NonBlankAndLengthConstraintString = string;
-  export type NonBlankString = string;
   export type NonEmptyString = string;
   export type NonNegativeDouble = number;
   export type NonNegativeLimitedLengthDouble = string;
@@ -3734,7 +3743,7 @@ declare namespace GameLift {
     /**
      * A unique identifier for a player that is associated with this player session.
      */
-    PlayerId?: NonZeroAndMaxString;
+    PlayerId?: PlayerId;
     /**
      * A unique identifier for a player session.
      */
@@ -3745,7 +3754,7 @@ declare namespace GameLift {
     /**
      * A unique identifier for a player
      */
-    PlayerId?: NonZeroAndMaxString;
+    PlayerId?: PlayerId;
     /**
      * A collection of key:value pairs containing player information for use in matchmaking. Player attribute keys must match the playerAttributes used in a matchmaking rule set. Example: "PlayerAttributes": {"skill": {"N": "23"}, "gameMode": {"S": "deathmatch"}}. You can provide up to 10 PlayerAttributes.
      */
@@ -3765,12 +3774,14 @@ declare namespace GameLift {
   export type PlayerAttributeStringList = PlayerAttributeString[];
   export type PlayerData = string;
   export type PlayerDataMap = {[key: string]: PlayerData};
-  export type PlayerIdList = NonZeroAndMaxString[];
+  export type PlayerId = string;
+  export type PlayerIdList = PlayerId[];
+  export type PlayerIdsForAcceptMatch = PlayerId[];
   export interface PlayerLatency {
     /**
      * A unique identifier for a player associated with the latency data.
      */
-    PlayerId?: NonZeroAndMaxString;
+    PlayerId?: PlayerId;
     /**
      * Name of the Region that is associated with the latency value.
      */
@@ -3801,7 +3812,7 @@ declare namespace GameLift {
     /**
      * A unique identifier for a player that is associated with this player session.
      */
-    PlayerId?: NonZeroAndMaxString;
+    PlayerId?: PlayerId;
     /**
      * A unique identifier for the game session that the player session is connected to.
      */
@@ -4269,7 +4280,7 @@ declare namespace GameLift {
      */
     GameSessionQueueName: GameSessionQueueNameOrArn;
     /**
-     * A set of custom properties for a game session, formatted as key:value pairs. These properties are passed to a game server process with a request to start a new game session (see Start a Game Session).
+     * A set of key-value pairs that can store custom data in a game session. For example: {"Key": "difficulty", "Value": "novice"}.
      */
     GameProperties?: GamePropertyList;
     /**
@@ -4677,6 +4688,10 @@ declare namespace GameLift {
      * Game session protection policy to apply to this game session only.    NoProtection -- The game session can be terminated during a scale-down event.    FullProtection -- If the game session is in an ACTIVE status, it cannot be terminated during a scale-down event.  
      */
     ProtectionPolicy?: ProtectionPolicy;
+    /**
+     * A set of key-value pairs that can store custom data in a game session. For example: {"Key": "difficulty", "Value": "novice"}. You can use this parameter to modify game properties in an active game session. This action adds new properties and modifies existing properties. There is no way to delete properties. For an example, see Update the value of a game property. 
+     */
+    GameProperties?: GamePropertyList;
   }
   export interface UpdateGameSessionOutput {
     /**
@@ -4766,7 +4781,7 @@ declare namespace GameLift {
      */
     CustomEventData?: CustomEventData;
     /**
-     * A set of custom properties for a game session, formatted as key:value pairs. These properties are passed to a game server process with a request to start a new game session (see Start a Game Session). This information is added to the new GameSession object that is created for a successful match. This parameter is not used if FlexMatchMode is set to STANDALONE.
+     * A set of key-value pairs that can store custom data in a game session. For example: {"Key": "difficulty", "Value": "novice"}. This information is added to the new GameSession object that is created for a successful match. This parameter is not used if FlexMatchMode is set to STANDALONE.
      */
     GameProperties?: GamePropertyList;
     /**
