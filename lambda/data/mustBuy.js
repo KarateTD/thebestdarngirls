@@ -226,4 +226,27 @@ module.exports = mustBuy;
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bobmarleyonelove.jpeg"
     }
   }
+
+    {
+    "option":"3",
+    "mtitle":"Cabrini",
+    "review":"Mother Frances Cabrini receives an invitation to visit the cardinal in Vatican City. She wrote the Pope several times to start a mission to help orphans globally. She feels that the Vatican ignores the East. So, Mother Cabrini wants to begin in China and work her way West. She wants to create an Empire of Hope. She refuses the cardinal's rejection and demands to speak to the Pope. The Pope listens to Mother Cabrini's passionate plea and accepts her mission but with a condition. Italian immigrants living in New York's Five Points witness children freezing to death in the streets while Americans ignore their plight. The Pope will allow Mother Cabrini's mission if she starts in New York. Mother Cabrini returns and tells her fellow Sisters to pack. They migrate to New York. Cabrini, sick with lung disease, will face prejudice, corruption, and sexism to save children around the world.<br/><br/>This nun doesn't sit idly by and accept rejection. She learns to navigate the world of politics and media to sway the opinions of the American people. She gains allies from all walks of life to advance her efforts. Mother Cabrini's drive comes from a short life expectancy. She doesn't have time to accept no. This woman wasn't afraid to be loud, towering, and visible.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cabrini.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cabrini.jpeg"
+    }
+  }
+
+  {
+    "option":"1",
+    "mtitle":"Ghostbusters: Frozen Empire",
+    "review":"After capturing the Hell's Kitchen's Dragon Ghost, the Ghostbusters - Gary, Callie, Trevor, and Phoebe - meet with Mayor Walter Peck. Mayor Peck threatens to charge Gary and Callie with child labor crimes if they don't bench Phoebe. They return home to extract the ghost from the trap, but the containment unit takes a while to go green. Gary and Phoebe start to worry if the containment unit has enough room.<br/><br/>Nadeem enters Dr. Ray Stantz's store with several of his grandmother's items, looking for a quick buck. At first, nothing catches Ray's eye until he picks up a bronze orb covered in ancient glyphs. Ray scans it with a PKE meter, and it violently vibrates. The orb causes the wall around the containment unit to crack. Dr. Winston takes them to his secret lab. He has a containment unit several times larger than the one in the Ghostbuster's basement. Intern Lucky and Lars try to extract the ghost from the orb, but it protects itself with a layer of freezing ice.<br/><br/>They take the orb to a linguistic specialist, Dr. Hurbert Wartzki. He recognizes it from wall carvings in ancient tombs. It houses a ghostly deity, Garraka, who worked alongside a king to expand the king's empire. Garraka rose and started to freeze the world around him. A group known as the Fire Masters trapped Garraka in the bronze orb to protect the world from his wrath. The Ghostbusters must find a fire master to trap and destroy Garraka for good. If not, Garraka will raise a ghost army, bring forth the second ice age, and end humankind.<br/><br/>This sequel starts with a Robert Frost poem and keeps viewers on the edge of their seats from beginning to end. It has jokes for older and newer fans of the franchise. While the script packs action in most scenes, the encompassing theme is family. The elder team reunites to help save the world. The current Ghostbusters are finding their groove as a blended family. Also, the Spengler kids are asserting their independence. Parents should be careful. The plot mentions a sex dungeon and hookers once. Also, it has one mid-credit scene. This film is intriguing, suspenseful, heartfelt, and funny.<br><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ghostbustersfrozenempire.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ghostbustersfrozenempire.jpeg"
+    }
+  }
 */
