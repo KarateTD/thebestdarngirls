@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"Friday Night Sext Scandal",
-    "review":"Shawn eats dinner with his mother, Lucinda, his best friend, Lauren, and Lauren's mother, Cara, and discuss their day. He relays that he made 1st string on the varsity football game. Then, Shawn tells Lucinda that teammate Woodley invited him to a party. Lucinda says Shawn can go.<br/><br/>Shawn goes to Woodley's house to pregame. Woodley logs on to a website, and Shawn recognizes some girls. Woodley explains that the site is for them to share nude photos of girls at their school. They plan to find new girls from the party to add to the site. And they want Shawn to join.<br/><br/>Shawn meets Brooklynn at the party, and the team wants Shawn to add her. They date and have sex, and she shares private photos. Later, Shawn gets hit during a drill and hurts his ACL. When Brooklyn starts dating someone else, he gets revenge by posting her pictures on the Hunted website. St. Frances, a rival school, challenged them. They want to see who can get the most band girls on the site. Woodley remembers that Shawn's best friend, Lauren, plays in the school band and wants to put a target on Lauren. Shawn opposes. Woodley assumes that Shawn wants Lauren for himself. However, Woodley warns Shawn that someone will put a target on Lauren, so Shawn should act quickly. Shawn doesn't want to be an outsider on the team but doesn't want to hurt Lauren. What will he choose?<br/><br/>This film focuses on Shawn and why he adds photos to the site. The conclusion is tricky. Some viewers will love the ending because the school blames the boys. And some will agree with Lauren's action, but others will not. This movie could become a teaching tool for handling peer pressure among males.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Surviving the Sleepover",
+    "review":"Hannah and her mother, Jessica, reside in a hotel while contractors finish their home. Jessica tells Hannah to worry more about making friends than their living arrangements.<br/><br/>Hannah vlogs about coping with her father's passing and moving to another town. As she films while walking to school, Melissa honks her horn, causing Hannah to drop her phone. Abbie and Charlotte, recognized the new girl but didn't know she resided in a hotel.<br/><br/>Melissa arrives at school and sees her stepbrother, Cameron, watching Hannah's vlog. She warns Cameron to stay away from Hannah. Cameron pulls Melissa away from her friends and rages that they had a one-time fling.<br/><br/>Hannah and Abbie talk during Spanish class and become friends. Abbie encourages Hannah to ask Cameron to date but warns that Melissa is protective over him. Hannah takes Abbie's advice, and Cameron accepts. Before they can cement their plans, Melissa invites Hannah to a girls-only sleepover.<br/><br/>During the sleepover, Melissa tries to humiliate Hannah. They play the game 'Never Have I Ever.' Melissa's card asks if the reader ever had a crush on their stepbrother. Melissa flies into a rage and blames Hannah. Hannah tries to pass Melissa, but Melissa grabs a knife. Abbie, attempting to help Hannah leave, gets stabbed by Melissa. Melissa panics and guides Hannah and Abbie to a room so Abbie can rest and wait for an ambulance. However, Melissa locks them inside. She doesn't plan on Abbie or Hannah surviving the sleepover.<br/><br/>This movie is Mean Girls turned deadly. Melissa's obsession with Cameron is narcissistic and delusional. Charlotte is the consummate beta follower, but Abbie openly second-guesses Melissa. As Melissa's crazy slowly ramps up, her cunning nature evolves. However, the final 5 minutes destroy her character development. She caused so much havoc and didn't suffer any consequences. Instead of punishment, viewers get a group therapy session. It leaves the audience with a bad taste in their mouths.<br/><br/>2.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fridaynightsextscandal.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fridaynightsextscandal.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/survivingthesleepover.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/survivingthesleepover.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Crimes of Fashion: Killer Clutch",
-    "review":"Lauren walks with her detective father when she gets a call from her friend, Charlotte. Charlotte arrived in Manhattan with her boss, famed fashion designer Virgil St-James. Virgil is having a panic attack. Charlotte wants Lauren to use her expertise as a fashion psychologist to calm Virgil. Lauren runs to Virgil's rental loft and uses the 3-3-3 method to ease his fears. Virgil decides he needs her skills for Paris Fashion Week.<br/><br/>Virgil and Charlotte welcome Lauren to the Lavigne Paris design house. They introduce her to Virgil's core staff. Gerard handles Lavigne's business side while Théo directs the show and coordinates the models. Ondine oversees designs, and Ari is the CEO. hen, Lauren hears Gerard yelling at the photographer, Patrick. He fires Patrick over a poorly lit photoshoot, and Patrick vows payback.<br/><br/>Later, everyone scurries because editor-in-chief Diana arrives to get an advanced look at the show. Gerard warns her about giving the fashions a poor review. He threatens to pull their ads if he can't approve her evaluations.<br/><br/>Lauren sits by the runway and hears fashion blogger Tabi arguing with Gerard. He placed her behind a column, and now she fumes. Then, a rival designer, Riccardo, demands to speak to Virgil, but Virgil briskly walks away. Lauren can see a model, Naomi, is upset and wearing another dress. Virgil picked another model to be his muse by placing his pin on her and giving the model the top spot in the show. Before the models approach the catwalk, Virgil and Charlotte put a metal signature hairpin in their hair.<br/><br/>The show ends, and Charlotte collects the hairpins. Then, Lauren hears Charlotte's screams. She runs upstairs to find Charlotte with a box of hairpins and Gerard dead with a hairpin stabbed in his back. Inspector André questions everyone in attendance. André asks Lauren if she saw anyone other than Charlotte with Gerard's body at the murder scene. Lauren refuses to lie and says no. After quickly learning that the Parisian wheels of justice run differently, Lauren will do anything to clear Charlotte's name before André formerly charges Charlotte with Gerard's murder.<br/><br/>This new Hallmark Mystery movie is a series in the making. The script provides Hallmarkies with a detailed description of its leading protagonist, Lauren, at the beginning. And Inspector André has a complex backstory. The plot offers several suspects with rivalries, resentment, and revenge in the cut-throat fashion world. However, one statement from a goon will give the culprit away, but Hallmarkies will watch to uncover the motive. This film is a gripping start to a promising franchise.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"My Father's Murder in Greece",
+    "review":"Allie visits her father, Giorgos, and grandmother, Yiayia, in Greece after Yiayia received a poor prognosis earlier. They stand at a street crossing, and an officer aggressively approaches and accosts Giorgos. Soon, Giorgos and the officer laugh. He is Giorgos long-time friend, Kostas.<br/><br/>Allie arrives in Yiayia's warm embrace and delights Yiayia by speaking Greek. Yiayia prepares dinner for Allie, Giorgos, and Kostas. The dinner is pleasant until Giorgos's brother, Theo, enters. Allie understands they are fighting over a woman named Iris. Theo slept with Iris while Giorgos was dating her. Theo blames Giorgos for leaving him alone to care for their mother. They continue to yell until Theo leaves.<br/><br/>Allie sleeps until she gets a phone call from her mother, Catherine. Allie hears a thud during their conversation and leaves her room to find the sound's origin. She discovers her father dead on the ground and cries over his body. Then, someone knocks her out before she can call for help. Kostas wants to declare Giorgos's death as a heart attack, but Allie believes he is wrong. She believes someone killed her father and rendered her unconscious. She thinks Theo is the culprit, but Yiayia can't imagine Theo killing Giorgos. Can Allie prove someone murdered Giorgos and that someone was Theo?<br/><br/>This movie has several twists, allowing viewers to journey with Allie. The mystery will throw you for a loop, but the lead's stupidity will keep you grounded. She goes on an unknown boat alone, privately meets with a stranger, and turns off her phone's locator. The audience slowly loses sympathy for Allie. Viewers should watch this movie for the mystery and to yell at the screen.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/crimesoffashionkillerclutch.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/crimesoffashionkillerclutch.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myfathersmurderingreece.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myfathersmurderingreece.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Killing All My Sisters",
-    "review":"Best friends Jenna and Emily move into their dorm with their mothers by their side. Madison approaches them and talks about the Beta Kappa Epsilon sorority. Emily worries about drinking, but the president, Brittany, says sisters under 21 are not allowed to drink. Madison, the vice president, and Brittany invite Jenna and Emily to a mixer.<br/><br/>Jenna and Emily meet several sisters at the BKE house, including Dana. Dana drinks tea and water because alcohol can negatively affect her blood sugar. The girls party but return to their dorms to make the first day of classes on time. Emily eagerly wakes up Jenna for classes. Jenna and Emily walk together and find Dana dead in the courtyard.<br/><br/>The police report that Dana was drunk and hit her head, but Emily knows that can't be correct. After more incidents, Emily decides not to pledge, but Jenna stays. Emily believes Madison and Brittany are corrupt leaders on a power trip. And Brittany hasn't gotten over her ex-boyfriend, Spencer, who dates every girl in the BKE house. Soon, Emily is alone, and the BKE sisters get injured, threatened, or disappear. Is Emily right to be concerned?<br/><br/>The title is deceptive because the body count is low. However, the plot does capture your attention with a juicy whodunit. You must watch this movie until the end because it wraps up quickly and puts a nice bow on everyone's story. If you are an adult watching this film, remember these young women are immature and figuring out life. This film is a fun way to spend 2 hours.<br/><br/>3.5 out of 5 stars.",
+    "mtitle":"Dying on Party Island",
+    "review":"Mel travels to a remote island to identify the remains of her sister, Georgia. The police believe Georgia died while cliff diving and washed ashore with her wallet. Then, Mel meets with Georgia's hosts, spouses Keaton and Paula. They give Mel Georgia's belongings, and Mel notices that Georgia's phone and passport are missing. Later, Mel calls her mother, Annie, to confirm Georgia's passing. She informs Annie that Georgia got another tattoo and the manner of death. Annie thinks those are out of character for Georgia. So, Mel decides to stay in town and asks questions about Georgia and her final days on the island. Mel's questions will bring a message from Georgia, put a gun in Mel's face, and uncover corruption.<br/><br/>This dark mystery adds reels and a phone call to keep viewers guessing. You wonder if Georgia is dead or alive. However, it doesn't take long to understand what's happening on this island. You can see familiar techniques and the blaring warning signs around Mel. This movie doesn't require your full attention but is a new twist on the 2024 Spring Breakdowns season.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killingallmysisters.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killingallmysisters.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangeronpartyisland.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangeronpartyisland.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"A Royal Makeover",
-    "review":"Historian Doctor Angelica sits in a shared office with her office mate, Dana, and discusses how much Angelica loves her job at the museum. However, Dana can see that Angelica has had her eyes on their boss, George, for years. George comes into their office and requests Angelica follow him.<br/><br/>Angelica stands stunned when George introduces her to King Felipe and Queen Leticia of Saint Pablo. It's tradition for the king to abdicate the throne at age 65 and crown his heir. The king will be 65 in two weeks but never had children. The king's distant family came to Miami years ago, and that family has an unknowing heir, Ramone. They want Angelica to help Ramone prepare to become a king. They will fund the museum and Angelica's research trip to St. Pablo if Angelica is successful.<br/><br/>The king and queen visit Ramone and inform him of his royal bloodline. They ask him to meet with a beautiful woman, Angelica, and have dinner at the most exclusive restaurant in Miami. At the dinner, he gets up, walks out, and invites Angelica to join him. He orders 12 tacos and hands most of them to homeless people. He informs Angelica that he has no desire to be king. However, Angelica believes he is a diamond in the rough.<br/><br/>George requests an update. Angelica tells George that Ramone is hesitant but thinks he will be ready. They need the king and queen's philanthropy to save their department and Angelica's job. Angelica's determination solidifies. However, the king's advisor, Carlos, watches to sabotage Angelica. If Ramone rejects the title, St. Pablo will become a republic, and Carlos will be the president. Can Angelica succeed in a royal makeover, or will Carlos reign supreme?<br/><br/>This movie has a gender swap with the guy discovering he is a king. Ramone second-guesses his ability because his mother taught him negative self-worth. However, Angelica and the audience can see he is benevolent, determined, and understanding. This film is funny, charming, and well-acted. But the backing track drowns out the actors several times. So enjoy this movie with your remote to turn up the volume.<br/><br/>4.5 out of 5 stars.",
+    "mtitle":"Killing for Extra Credit",
+    "review":"Marybeth receives more disparaging text from classmates before the start of her senior year. Her best friend, Sophie, tells Marybeth to ignore the bullies and focus on this year. Last year, intimate photos Marybeth sent her boyfriend, Josh, were leaked to the school. Marybeth's friend, Ray, meets Marybeth and Sophie at school, and they walk in together but stop when they see Marybeth's presidential rival, Toby. Toby exposed Marybeth's photos in the school newspaper and now gloats about taking her job and being president.<br/><br/>Josh attempts to talk to Marybeth during class, but she refuses. She believes Josh gave her photos to Toby, but Josh vehemently denies it. The school gets a text message from someone calling themselves 'Extra Credit.' And this unanimous person exposes secrets throughout the day. Marybeth asks Sophie and Ray to help her expose 'Extra Credit.'<br/><br/>Marybeth gets the shock of her life one day. 'Extra Credit' tells the school that Sophie released Marybeth's pictures. Marybeth confronts Sophie, and Sophie cries and begs to explain. Marybeth refuses to listen. Later, Sophie's father can't find Sophie. Marybeth runs to their private meeting spot and finds Sophie dead. The police rule it a suicide, but Marybeth doesn't believe it. She wants to prove someone killed Sophie and that it was 'Extra Credit.' Can Marybeth uncover the culprit without losing her life?<br/><br/>This movie feels like a continuation of Friday Night Sext Scandal and has many moving parts. The plot slows as Marybeth and Ray look through Marybeth's life to uncover the events leading to her demise. However, the conclusion - well, the first - speeds up the movie ten times. But hang on because there is a fun twist. This movie is perfect for the Spring Break crowd, but adults may want more.<br/><br/>3.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyalmakeover.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroyalmakeover.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killingforextracredit.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killingforextracredit.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Hunting Housewives",
-    "review":"Karla, Joli, Sharell, and Rebel planned a phone-free girl's trip at an exclusive spa. They board a private plane to the spa. Later, Karla wakes up in a field with burning plane wreckage around her. She stumbles around the site and finds Joli with an injured leg and Sharell. They yelled for Rebel, but she did not survive.<br/><br/>Karla's husband, Mark, invites Joli's husband, Jared, Rebel's husband, Evan, and Sharell's husband, Andre, into his screening room. Mark turns on the TV to watch the feed of the women in the woods. At first, Jared, Evan, and Andre think it's a joke or a new reality show. However, Mark tells them it's real and part of his plan. They will all be free of their problem if the women die. When Evan doesn't see Rebel on camera, he questions Mark. Mark congratulates Evan on getting the bonus prize because Rebel died on impact. Evan flies into a rage and tries to attack Mark, but Mark pulls out a gun and forces Evan into a panic room. Mark locks the door behind Evan and returns to the screening room. Andre and Jared privately discuss a way to save their wives while escaping a madman. Will Joli, Sharell, and Karla make it out alive?<br/><br/>This movie is a compelling idea with poor execution. The message is about housewives, lost in marriages, finding their self-worth to escape their husbands' control. However, this empowerment plot becomes hindered by bad acting, horrible graphics, and flat jokes. If you are not a Real Housewives fan, skip this film.<br/><br/>1.5 out of 5 stars.",
+    "mtitle":"Sweetly Salted",
+    "review":"Alison critiques restaurants under the pseudonym Sweetly Salted for Chicago Today. She clings to anonymity until she gets a phone call from Olivia Sterling from Hudson Publishers. Olivia wants Alison to write a book because there are so few female critics with Alison's reach. However, they want to break her identity.<br/><br/>Alison goes to Isla Dulce with her friend, co-worker Jules. Alison has been looking forward to this outing because they serve Jibarito. The first time she tasted it, she gave the server a 20 dollar tip with 'thank you for the salty and the sweet' written on it. However, she rejects the food because it has Hawaiian rolls instead of plantains. She returns to the office and writes a scathing yet clever review.<br/><br/>Jules approaches Alison at work with a pitiful look and shows Alison the comments under her review. Alison's fans love Isla Dulce and turn against Alison. Alison's boss, Lexi, thinks Alison should take a sabbatical from the newspaper so the readers can miss her.<br/><br/>Alison goes to Isla Dulce to speak to the chef, Seb, and explain her review but overhears a conversation between Seb and his sous chef. The sous chef quits because a poor review from Sweetly Salted ended other establishments. Alison had no clue about the impact her comments had. And it gives her an idea. She will use her break to work at the Isla Dulce as a sous chef. Then she will write about it for her book. Alison convinces Seb to give her the job without revealing her inexperience in the kitchen, alter ego, or upcoming book. Can she continue to hide the truth while falling in love?<br/><br/>Putting the apple cheddar pie and pineapple basil salad to the side, Alison has a lot of finesse. However, Seb is desperate. Alison never considered her article's ripple effect on people's lives and livelihoods. This realization will make you watch, but the love story is foreseeable.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/huntinghousewives.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/huntinghousewives.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sweetlysalted.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sweetlysalted.jpeg"
     }
   }
 ];
@@ -58,48 +58,29 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"Surviving the Sleepover",
+  "mtitle":"An Easter Bloom",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/survivingthesleepover.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/survivingthesleepover.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aneasterbloom.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aneasterbloom.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"My Father's Murder in Greece",
+  "mtitle":"My Acting Coach Nightmare",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myfathersmurderingreece.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myfathersmurderingreece.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myactingcoachnightmare.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myactingcoachnightmare.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Dying on Party Island",
+  "mtitle":"Shifting Gears",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dangeronpartyisland.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dangeronpartyisland.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Killing for Extra Credit",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killingforextracredit.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killingforextracredit.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"Sweetly Salted",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sweetlysalted.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sweetlysalted.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/shiftinggears.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/shiftinggears.jpeg"
   }
 }
-
 */
