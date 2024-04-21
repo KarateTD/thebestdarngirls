@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"My Child Has My Doctor's Face",
+    "review":"Jessica and Dylan decided to try IVF after infertility issues for 3 and a half years. Today, they have a happy and healthy baby boy named Henry. She mistakenly grabs another boy and notices he looks identical to Henry. She shakes the thought out of her mind and takes Henry to his annual checkup.<br/><br/>After the visit, Jessica walks into the hallway and sees the boy from the playground, Evan, and his mom, Sarah. The women look at each other and their children as Dr. Preston Bellamy exits his office. Jessica smiles at Preston, remembering he was her fertility doctor, but Sarah leaves disgusted.<br/><br/>Jessica gets Henry's annual results, and he has a clean bill of health. She sees Henry's blood type is O positive like hers and questions Dylan about his. Dylan says he is A B negative, which causes Jessica to research blood types on the internet. She finds Preston's video. It states that an O and A B parent will produce an A or B child.<br/><br/>Preston gives a few reasons why Henry's blood type is O, but Jessica has evidence to the contrary. She openly wonders if Preston's office had a mixup, and Preston explodes. Later, Sarah catches up to Jessica. She believes Evan and Henry share the same father, Dr. Preston Bellamy. Sarah wants Jessica to join her so they can go to the police and report Preston for fertility fraud, but Jessica isn't ready to accept it. She wants to talk to Preston again. However, Preston blatantly ignores Jessica. So, she joins Sarah on a frightening road to the truth. Can they get Preston to admit what he did and make him pay?<br/><br/>Inspired by actual events, this movie alters the motive but maintains the doctor's sick mentality. Donald Cline committed his crimes because he was a part of the Quiverfull belief. However, Preston will die in a few months. Then, the script involves married adults keeping secrets from each other and risking their safety with foolish decisions. Jessica and Sarah's investigation skills are worse than a Lifetime cop. If you want to root for the creepy villain, this movie is for you.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mychildhasmydoctorsface.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mychildhasmydoctorsface.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Locked in My House",
+    "review":"Professor Caris meets with her friend, Julia, after class. She updates Julia about her fertility progress. Caris got an appointment with the country's top fertility clinic, Hope and Beginnings, and excitedly beams. Caris and her husband, John, plan a romantic evening. Unfortunately, John can't attend the appointment.<br/><br/>Caris arrives at the clinic and meets Dr. Marrick. He wants to perform tests to determine her reproductive health. Dr. Marrick sexually assaults Caris during the exam, and Caris freezes. Dr. Marrick leaves the room before Caris cries. She quickly dresses and notices something in the ceiling. She stands on the exam table and finds a camera. She opens his laptop and finds security footage of his exam rooms.<br/><br/>Caris immediately reports Dr. Marrick's crime to a detective. Julia tells Caris to post the incident on social media. Caris's story goes viral overnight. Caris goes home to check her post. She sees messages from several of Dr. Marrick's victims and starts a support group.<br/><br/>Renee approaches Caris after the group and admits Dr. Marrick assaulted her too. Caris leaves and goes to Dr. Marrick's office, intending to break in. Caris sees Dr. Marrick stumbling out of his office and into his car. He drives to the railroad tracks and passes out on them. Caris pulls him off the tracks before the train arrives. Caris takes Dr. Marrick to her home, ties him up, and puts him in the basement. Caris keeps her cool with friends and family. However, the police find Dr. Marrick's abandoned car on the tracks. Caris must find justice without anyone uncovering Dr. Marrick locked in her house.<br/><br/>This movie has a 'Ripped from the Headlines' feel but changes into the LMN plot when Caris kidnaps Dr. Marrick. She doesn't have a thorough plan about what to do during or after. She wants to uncover the truth but doesn't realize that Dr. Marrick is evil. And her disguise is more comical than scary. This movie has an emotional start, a funny middle, and a satisfying but quick conclusion. It's not horrible but mildly entertaining.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lockedinmyhouse.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lockedinmyhouse.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"Killer Fortune Teller",
+    "review":"Shane is the CEO of Settel Pharmaceuticals after his father died and passed it to him. Shane wants to start a hostile takeover. A board member calls Shane's sister, Olivia, to the conference room to talk some sense into him. Olivia warns Shane that their father wouldn't have done this. Shane mocks Olivia's concern because their father depended on fortune tellers to make business decisions. Then, Shane gets an email from The Optical Initiative and chooses to visit the store.<br/><br/>Shane browses the store when Maya approaches him. Maya tells Shane she isn't a fortune teller but an intuitive offering guidance. She asks if he wants a free tarot reading, and Shane curiously accepts. Maya reads his cards and predicts good fortune after death. Shane scoffs at Maya's prediction and leaves.<br/><br/>Later, Shane's competition's CEO dies after falling down the stairs. Now, Shane can buy his company without a hostile takeover. His erratic change causes Olivia to worry that Shane is falling down the same charlatan rabbit hole as their father. Olivia wants to prove Maya is a fake, but Olivia doesn't know that Maya is deadly.<br/><br/>This movie sprinkles hints about the motive, but it's easy to decipher before the antagonist's monologue. There are two benefits to this movie. First, Olivia is a hard-working and driven woman. And Detective Rita is a helpful and intelligent cop. This dynamic duo makes this film watchable.<br/><br/>2.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killerfortuneteller.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killerfortuneteller.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Secrets of the Pastor's Wife",
+    "review":"Angie and her women's prayer group laugh and gossip when they notice the new pool boy, Jason. Angie walks over and introduces herself. The other women giggle, but Angie assures them she only has eyes for her husband, Pastor Jim.<br/><br/>Jason fixes the pool after a water feature malfunctions. Soon, Angie purposely breaks things and flirts during Jason's visits. Angie goes to bed feeling lonely. She gives in to Jason the next time they meet. While Angie finds it exciting, Jim's sermons make her feel guilty. After receiving a threatening anonymous note about sinners, Angie calls off the affair. However, Jason is obsessed. When someone murders Jason, will Angie's affair come to light and make her the number one suspect?<br/><br/>This movie wraps a scandalous romance with a mystery. However, the mystery falls flat. While the script points at multiple suspects, average Lifetimers can spot the antagonist. Viewers will sympathize with Angie's behavior because Jim is condescending, dismissive, and boring. You won't care when Angie has an affair despite Jim's profession. Also, Jim receives cryptic, threatening messages too. So, the audience will assume he is doing something sinful. This movie is a case of 'everyone sucks,' excluding Angie's sister, Catherine, and Angie's friend, Sarah.<br/><br/>2.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofthepastorswife.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofthepastorswife.jpeg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"Legend of the Lost Locket",
     "review":"Amelia uncovers that one-half of the True Love's Locket, once belonging to Queen Elizabeth I, is in Wilmaton. The locket belonged to James, a carpenter, who fled to America to become a self-made man and prove to his lover's parents that he was worthy of her. Amelia believed James changed his name to Jacob Jameson and started Wilmaton. She thinks the other half of the locket is there with his descendants.<br/><br/>Amelia lands in the U.S. and drives to Wilmaton but has car troubles. She calls roadside assistance, but Marcus shows up first. Jack approaches with his tow truck but says it will take time. He assures Amelia that Marcus is a safe companion. And she accepts Marcus's ride to her B and B.. The proprietor, Francine, and Francine's daughter, Hannah, give Amelia a brief history lesson about the town.<br/><br/>Francine and Amelia go to the local diner to get more information. Francine introduces Amelia to the ladies of the Historical Society. They sadly report that the archives are closed. However, Mayor Bob could give Amelia access.<br/><br/>Amelia meets with Bob, but he won't open the archives for her. So Amelia's business partner, Rebecca, slyly suggests Amelia break in. Amelia takes Rebecca's advice but unknowingly trips the silent alarm. Amelia stands in stunned silence when Marcus arrests her. He is the town sheriff.<br/><br/>After an impromptu town appraisal, Amelia gets a bright idea. She learned that Wilmaton is having a 200th Anniversary Founder's Ball. She promises Bob to invite a who's who of antique dealers for two things. First, the town hosts an antique fair for the dealers the day after the ball. Finally, Amelia wants access to the archives. Bob agrees.<br/><br/>Bob, Marcus, and Amelia arrive at the archives. However, the documents are missing. Amelia promises she hasn't taken them. But Amelia has had a feeling that someone is watching her. Marcus decides to stay by her side. Can Amelia uncover the locket's lost half without unveiling her motive while falling in love?<br/><br/>Give this movie a series! It has a heartwarming mystery without a murder and a town full of secrets to uncover. Amelia is fun, charming, and clever. Marcus is a small-town guy who fell in love with Boston but has since returned for his family. Marcus and Amelia balance each other out beautifully. And the conclusion will surprise and uplift. This mystery is a marvelous start to something that has glorious potential.<br/><br/>5 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/legendofthelostlocket.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/legendofthelostlocket.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Roommate Regret",
-    "review":"Jessica signs the paperwork for her new home and uses her inheritance for the down payment. Her realtor warns that the monthly mortgage payment was higher than expected but suggests Jessica rent the spare bedroom to cover the difference. Jessica meets with her friend, Louisa, and discusses finding a roommate. Louisa offers to help to weed out crazy people. They put an ad online. Jessica finds several candidates, including attorney Sharon, but no one fits.<br/><br/>Alec leaves London after two large men attack him. After he lands in the States, one of the men calls him. Alec lies about his location and looks online for a room to rent. He stumbles across Jessica's ad and applies. He turns up the charm when Jessica asks him to complete a credit report. He says he is new to the U.S. and doesn't have credit. He offers Jessica 1 month of rent and a security deposit, and rent for the next five months after he signs his band in a few weeks. This deal will offer Jessica 6 months of rent in a few weeks. Jessica says yes and relaxes. Jessica will regret it soon.<br/><br/>Jessica is a victim of looks over brains, and Louisa isn't helping. She talks Jessica out of trusting her instincts after Alec offers cold-hard cash. Jessica is sharing her home with a con man that doesn't have an end game. He knows when to turn on the charm and how. You don't feel bad for her predicament because Jessica didn't take the necessary precautions. However, Jessica does warn others about Alec when she discovers the truth. The one shining hero in this movie is Sharon.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/roommateregret.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/roommateregret.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"A Model Murder",
-    "review":"Kara finishes her photoshoot with photographer Dex, and they get a text from Kara's friend, Emily. Someone murdered their friend, Maxine. Kara and Emily meet at Kara's home and watch the news reports. They focus on Maxine's posts on Model Fans. Model Fans is a site for models to connect with their admirers for a price. Emily reads some fan mail and blocks a creepy message from a fan called Blaze. Emily highlights that Kara went up in the site's ratings. Kara believes this will boost her chances at her audition tomorrow.<br/><br/>Kara arrives at the audition, but the casting director wants to see her naked more than her talent. Kara checks her messages and gets another creepy comment from someone called Fireball. She blocks them and goes to the club with Emily.<br/><br/>Kara soaks her troubles away in the tub and takes photos for her subscribers. When Rocket sends more creepy messages, she blocks him. Kara gets an email from Fortitech security. They want to offer Kara 6 months free to help scrub her information from the internet, but the representative, Cody, wants to meet in person.<br/><br/>Kara meets Cody, and he shows Kara how much information he found about her online after searching for an hour. Kara considers hiring him until Cody victim-blames her. Kara tells Cody off and leaves the building. After another incident, Kara calls Cody, and he apologizes. Kara hires Fortitech and relaxes. She hopes Cody and Fortitech will put an end to her stalker. It is only the beginning.<br/><br/>This movie shows how internet stalking can become dangerous. The stalker can use doxing and swatting to terrorize their victim in the real world. And Kara is under added pressure because of her job. The cops constantly blame Kara and ignore her concerns. It's frustrating to watch Kara put herself in danger to get assistance. However, watching Kara become more trusting in a dangerous predicament is infuriating. Even part-time Lifetimers can see the culprit a mile away.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amodelmurder.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amodelmurder.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Secret Life of a Sorority Girl",
-    "review":"Math teacher Cheryl declines a date with Principal Randall to spend the evening with her daughter, Ashley. Cheryl finds Ashley with her boyfriend, Beckett, but Ashley can't have dinner. Ashley flusters and says she will go to work at the library after changing clothes. Cheryl and Beckett stand in confusion.<br/><br/>Cheryl goes to work and sees her co-worker, Ben, recuperating from his bachelor party hangover. He apologizes and shows Cheryl an image of Ashley dancing on a pole. Cheryl immediately leaves work to confront Ashley at her sorority house. Cheryl demands an explanation. Ashley lost her scholarship after a poorly performing semester and needed money for school and sorority dues.<br/><br/>Ashley's sorority sister, Karla, runs to Cheryl's home for help. Both haven't seen or heard from Ashley for two days. So, Ashley decides to enter the belly of the beast as a rookie stripper to find Ashley. Can she do it without losing her life?<br/><br/>This film hints at issues strippers face, but it's not a call to action. It's a whodunit with pole dancing. The plot gives viewers several red herrings but nothing concrete. Cheryl challenges unruly customers, jealous dancers, and trashy boyfriends. One unforeseen alliance is the owner, Dolly. Dolly is tough but fair. She counts money first and your feelings second. The protagonist makes missteps, but mostly everyone gets a happy ending.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretlifeofasororitygirl.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretlifeofasororitygirl.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Blind Date Book Club",
-    "review":"Meg comes to Mimi's Book Corner in a somber mood. Her aunt, Renee, is coming to the store to talk but doesn't give any details. Meg's friend, employee Alice, spotlights the bright side. Meg wraps up books with twine and adds a cryptic description to the wrapping. She calls it Blind Date with a Book Club. Also, radio host Raina will interview Meg today about the store and the club.<br/><br/>Graham meets with his manager, Terrance, to discuss Graham's new book. Terrance thinks the historical romance is okay but wants Graham to finish the 8th book of his successful series. Graham gets in his car and calls his sister, Lizzy, for guidance. Like Terrance, she wants him to stick to his series too. Graham politely ends the call and turns on Raina's radio show. Graham delightfully listens to Meg conversing about books, the club, and unknown talent. He decides to travel to Nantucket and meet her.<br/><br/>Meg drops Renee off at the B and B, but Renee won't discuss why she came to town. So, Meg returns to the store with the feeling of impending dread. Graham walks into the store, and they relate over books and marketing. Meg has her book selections for the next two months but offers to read it with an honest critique. Graham introduces himself by his pseudonym, Dylan Turner, and leaves with a self-assured smile.<br/><br/>Meg meets with Renee, and Renee wants to liquidate her half of the bookstore. Meg worked in real estate before she took over the store after her mother, Mimi, passed. It wasn't Meg's passion to run the store, but now she loves the community she created. However, she isn't sure she can take on the financial responsibility alone.<br/><br/>Graham and Terrance talk on the phone. Terrance reminds Graham that his 8th book is due in three weeks. And Graham must return his advance if he doesn't finish it. Graham returns to the store and receives less-than-stellar feedback. But Meg admits she knows his actual name is Graham, and he is a famous author. She will help him find his passion for writing to help him finish his 8th book while adding his new book to the club. Will helping Graham spark her desire for the store and him too?<br/><br/>This movie pairs two bibliophiles looking for a direction, similar to Meg's book club. While Meg and Graham find each other, they are on different paths. Graham wants to carve a new legacy for himself. Meg must learn which legacy is for her. The Hallmarkies will delight in them growing together while having an open and honest discussion. This film is a charming addition to the 2024 Spring Into Love Season.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/blinddatebookclub.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/blinddatebookclub.jpeg"
     }
   }
 ];
@@ -58,39 +58,48 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"My Child Has My Doctor's Face",
+  "mtitle":"A Chef's Deadly Revenge",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mychildhasmydoctorsface.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mychildhasmydoctorsface.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/achefsdeadlyrevenge.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/achefsdeadlyrevenge.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Locked in My House",
+  "mtitle":"Curious Caterer: Foiled Plans",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lockedinmyhouse.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lockedinmyhouse.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/curiouscatererfoiledplans.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/curiouscatererfoiledplans.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Killer Fortune Teller",
+  "mtitle":"Fatal Fixer Upper",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killerfortuneteller.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killerfortuneteller.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fatalfixerupper.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fatalfixerupper.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Secrets of the Pastor's Wife",
+  "mtitle":"Have You Seen My Son?",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofthepastorswife.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofthepastorswife.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/haveyouseenmyson.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/haveyouseenmyson.jpeg"
   }
 },
+{
+  "option":"5",
+  "mtitle":"Falling in Love in Niagara",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fallinginloveinniagra.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fallinginloveinniagra.jpeg"
+  }
+}
 
 */
