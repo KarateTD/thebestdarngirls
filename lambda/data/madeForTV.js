@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
-    "mtitle":"My Child Has My Doctor's Face",
-    "review":"Jessica and Dylan decided to try IVF after infertility issues for 3 and a half years. Today, they have a happy and healthy baby boy named Henry. She mistakenly grabs another boy and notices he looks identical to Henry. She shakes the thought out of her mind and takes Henry to his annual checkup.<br/><br/>After the visit, Jessica walks into the hallway and sees the boy from the playground, Evan, and his mom, Sarah. The women look at each other and their children as Dr. Preston Bellamy exits his office. Jessica smiles at Preston, remembering he was her fertility doctor, but Sarah leaves disgusted.<br/><br/>Jessica gets Henry's annual results, and he has a clean bill of health. She sees Henry's blood type is O positive like hers and questions Dylan about his. Dylan says he is A B negative, which causes Jessica to research blood types on the internet. She finds Preston's video. It states that an O and A B parent will produce an A or B child.<br/><br/>Preston gives a few reasons why Henry's blood type is O, but Jessica has evidence to the contrary. She openly wonders if Preston's office had a mixup, and Preston explodes. Later, Sarah catches up to Jessica. She believes Evan and Henry share the same father, Dr. Preston Bellamy. Sarah wants Jessica to join her so they can go to the police and report Preston for fertility fraud, but Jessica isn't ready to accept it. She wants to talk to Preston again. However, Preston blatantly ignores Jessica. So, she joins Sarah on a frightening road to the truth. Can they get Preston to admit what he did and make him pay?<br/><br/>Inspired by actual events, this movie alters the motive but maintains the doctor's sick mentality. Donald Cline committed his crimes because he was a part of the Quiverfull belief. However, Preston will die in a few months. Then, the script involves married adults keeping secrets from each other and risking their safety with foolish decisions. Jessica and Sarah's investigation skills are worse than a Lifetime cop. If you want to root for the creepy villain, this movie is for you.<br/><br/>3 out of 5 stars.",
+    "mtitle":"A Chef's Deadly Revenge",
+    "review":"Chef Lucy focuses on plating meals when her stalker leaves an origami crane and private photos at the table. Lucy's friend, Sous Chef Megan, lets Lucy stay at her place. In the past, Lucy's ex-boyfriend, Ayden, invaded her privacy and stalked her. Lucy remembers from experience that without concrete evidence, the police can't help.<br/><br/>Lucy takes a break from work to clear her mind. She sits on a park bench and sees a man, Frank, with his dog. They politely converse until Frank talks about her being late for the lunch shift. Lucy never mentioned her job, so Frank's knowledge worries her. She believes Frank is her stalker. However, Frank has zero ties to Lucy. Megan worries that Lucy strings together coincidences and creates a fearful situation. Lucy focuses on work until she finds a mutilated mannequin with a scary note. Lucy sees this as a threat. Lucy is tired of being a stalking victim. Now, she will turn the tables and become a stalker.<br/><br/>This movie takes a while to get to the point or start a body count. However, it's about who can out-crazy the other. Frank is Lucy's stalker, but his infatuation isn't about romance. He is a Resentful Stalker. Lucy's response is to become a Revenge Stalker. In an attempt to destroy each other, Lucy and Frank emotionally and physically hurt people around them. The only victims in the film are Megan and Frank's wife, Emily.<br/><br/>3 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mychildhasmydoctorsface.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mychildhasmydoctorsface.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/achefsdeadlyrevenge.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/achefsdeadlyrevenge.jpeg"
     }
   },
   {
     "option":"2",
-    "mtitle":"Locked in My House",
-    "review":"Professor Caris meets with her friend, Julia, after class. She updates Julia about her fertility progress. Caris got an appointment with the country's top fertility clinic, Hope and Beginnings, and excitedly beams. Caris and her husband, John, plan a romantic evening. Unfortunately, John can't attend the appointment.<br/><br/>Caris arrives at the clinic and meets Dr. Marrick. He wants to perform tests to determine her reproductive health. Dr. Marrick sexually assaults Caris during the exam, and Caris freezes. Dr. Marrick leaves the room before Caris cries. She quickly dresses and notices something in the ceiling. She stands on the exam table and finds a camera. She opens his laptop and finds security footage of his exam rooms.<br/><br/>Caris immediately reports Dr. Marrick's crime to a detective. Julia tells Caris to post the incident on social media. Caris's story goes viral overnight. Caris goes home to check her post. She sees messages from several of Dr. Marrick's victims and starts a support group.<br/><br/>Renee approaches Caris after the group and admits Dr. Marrick assaulted her too. Caris leaves and goes to Dr. Marrick's office, intending to break in. Caris sees Dr. Marrick stumbling out of his office and into his car. He drives to the railroad tracks and passes out on them. Caris pulls him off the tracks before the train arrives. Caris takes Dr. Marrick to her home, ties him up, and puts him in the basement. Caris keeps her cool with friends and family. However, the police find Dr. Marrick's abandoned car on the tracks. Caris must find justice without anyone uncovering Dr. Marrick locked in her house.<br/><br/>This movie has a 'Ripped from the Headlines' feel but changes into the LMN plot when Caris kidnaps Dr. Marrick. She doesn't have a thorough plan about what to do during or after. She wants to uncover the truth but doesn't realize that Dr. Marrick is evil. And her disguise is more comical than scary. This movie has an emotional start, a funny middle, and a satisfying but quick conclusion. It's not horrible but mildly entertaining.<br/><br/>3 out of 5 stars.",
+    "mtitle":"Curious Caterer: Foiled Plans",
+    "review":"Goldy and Marla set up for Elk Park Prep Academy's Medieval-themed fundraiser at Sir Alistair's castle. Then, she leaves and checks on her daughter's fencing class. As Olive battles her opponent, Goldy takes the opportunity to talk to Olive's coach, Pierre. She knows the fencing team will wow the guests.<br/><br/>Later, Goldy overhears a disagreement between Alistair and Pierre. Alistair wants the fencing team to dominate and become champions. Alistair will make an announcement before the big feast. His assistant, Emma, hands Alistair the phone because his physician, Dr. Tag, called again. Alistair grabs the phone, chastises Emma, threatens Pierre's job, and leaves.<br/><br/>Goldy and Marla watch the festivities from above as Alistair's butler, Klaus, introduces everyone who enters the parlor. First, Baron Sweetwater enters. He lost his candy business after Alistair took it in a hostile takeover. Ivan and Agatha enter. Marla says Ivan loves his wife but believes she is having an affair with Alistair. Then, Richard, Goldy's ex-husband, saunters in with a smile. Detective David arrives. But Goldy feels butterflies when she spies Tom entering with Mason.<br/><br/>Goldy serves food while Emma draws caricatures, and Charlie entertains as a jester. As everyone enjoys the festivities, U.S. Marshall Gerard walks in and refuses to put on a costume. Gerard pulls Tom aside because Tom's father, Edmund, broke out of prison. Gerard questions Tom about Edmund's whereabouts, but Tom is clueless. Goldy introduces Alistair. Alistair enters, groans, falls, and dies. Tom and Mason tell everyone to stay in the castle until they solve the crime. Can they uncover who killed Alistair and why?<br/><br/>This movie is a full-course meal based on Sticks and Scones by Diane Mott Davidson. It delights with medieval costumes and dialogue. Then, whets your appetite with a devious victim. Next, the audience gets a Smörgåsbord of suspects and motives. And to round out your viewing meal, Tom's dad gives the script a kick of flavor. Goldy creates her murder board, well, tapestry, to visualize the crime. And viewers get two mysteries solved in one. This movie is a classic in the Curious Caterer series and deserves three viewings.<br/><br/>5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lockedinmyhouse.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lockedinmyhouse.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/curiouscatererfoiledplans.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/curiouscatererfoiledplans.jpeg"
     }
   },
   {
     "option":"3",
-    "mtitle":"Killer Fortune Teller",
-    "review":"Shane is the CEO of Settel Pharmaceuticals after his father died and passed it to him. Shane wants to start a hostile takeover. A board member calls Shane's sister, Olivia, to the conference room to talk some sense into him. Olivia warns Shane that their father wouldn't have done this. Shane mocks Olivia's concern because their father depended on fortune tellers to make business decisions. Then, Shane gets an email from The Optical Initiative and chooses to visit the store.<br/><br/>Shane browses the store when Maya approaches him. Maya tells Shane she isn't a fortune teller but an intuitive offering guidance. She asks if he wants a free tarot reading, and Shane curiously accepts. Maya reads his cards and predicts good fortune after death. Shane scoffs at Maya's prediction and leaves.<br/><br/>Later, Shane's competition's CEO dies after falling down the stairs. Now, Shane can buy his company without a hostile takeover. His erratic change causes Olivia to worry that Shane is falling down the same charlatan rabbit hole as their father. Olivia wants to prove Maya is a fake, but Olivia doesn't know that Maya is deadly.<br/><br/>This movie sprinkles hints about the motive, but it's easy to decipher before the antagonist's monologue. There are two benefits to this movie. First, Olivia is a hard-working and driven woman. And Detective Rita is a helpful and intelligent cop. This dynamic duo makes this film watchable.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"Fatal Fixer Upper",
+    "review":"Vivian and Ryan look at their prospective home with their realtor, Sandy, and fall in love with it. Sandy warns them the owner, Josh, is very particular about selecting the buyer. Josh demands Sandy accept Vivian and Ryan's proposal. Josh believes Vivian is the woman for him and Ryan is a formality. Josh knows the home needs repairs and offers to give Vivian a hand around the house to prove his worth. Vivian thinks he is being nice. However, Ryan sees through the act. They don't know Josh is deadly. Will they discover the truth before Vivian becomes Josh's prey?<br/><br/>This movie won't capture your attention. Vivian is naive, and Ryan spends more time puffing his chest than researching Josh.. The plot sets up a fantastic standoff that falls flat because the conclusion is a miraculous coincidence. The shining light in this film is Josh's Obsessive Love Disorder. It brings his character to a new level of crazy with a definitive reason. This movie is background noise because it doesn't require your full attention to keep up with the plot.<br/><br/>2 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killerfortuneteller.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killerfortuneteller.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fatalfixerupper.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fatalfixerupper.jpeg"
     }
   },
   {
     "option":"4",
-    "mtitle":"Secrets of the Pastor's Wife",
-    "review":"Angie and her women's prayer group laugh and gossip when they notice the new pool boy, Jason. Angie walks over and introduces herself. The other women giggle, but Angie assures them she only has eyes for her husband, Pastor Jim.<br/><br/>Jason fixes the pool after a water feature malfunctions. Soon, Angie purposely breaks things and flirts during Jason's visits. Angie goes to bed feeling lonely. She gives in to Jason the next time they meet. While Angie finds it exciting, Jim's sermons make her feel guilty. After receiving a threatening anonymous note about sinners, Angie calls off the affair. However, Jason is obsessed. When someone murders Jason, will Angie's affair come to light and make her the number one suspect?<br/><br/>This movie wraps a scandalous romance with a mystery. However, the mystery falls flat. While the script points at multiple suspects, average Lifetimers can spot the antagonist. Viewers will sympathize with Angie's behavior because Jim is condescending, dismissive, and boring. You won't care when Angie has an affair despite Jim's profession. Also, Jim receives cryptic, threatening messages too. So, the audience will assume he is doing something sinful. This movie is a case of 'everyone sucks,' excluding Angie's sister, Catherine, and Angie's friend, Sarah.<br/><br/>2.5 out of 5 stars.",
+    "mtitle":"Have You Seen My Son?",
+    "review":"Catherine walks to the halfway house with her parole officer, Miriam, after the parole board granted her release from prison. Miriam informs Catherine that she is on conditional release because she has dissociative amnesia. A jury found Catherine guilty of killing her son, but they never found his body. Catherine doesn't remember hurting him and maintains her innocence. And she wants to uncover the truth behind her missing memories.<br/><br/>Catherine runs and stops at the home of her ex-husband, Matthew, and his new family. He cheated during her marriage and left her alone with a colicky baby. During the trial, Matthew ended their marriage. She returns to the halfway house, and someone reports she stole something. Miriam looks through Catherine's room and finds a necklace in a sock. Miriam can't charge Catherine because they don't have proof she stole it. Catherine believes someone's setting her up so she can return to prison. She vows to find out what happened to her son. And no one will stand in her way.<br/><br/>This movie is a slow burn, but it's worth the wait. As Catherine peels the layers of her former life, she finds sick and evil people at every turn. Catherine is a bulldozer who doesn't take crap from anyone. She refuses to accept an easy answer and won't let anyone gaslight her. She is a force of nature. You will laugh, cheer, and jump for joy for this mama bear.<br/><br/>4.5 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofthepastorswife.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofthepastorswife.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/haveyouseenmyson.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/haveyouseenmyson.jpeg"
     }
   },
   {
     "option":"5",
-    "mtitle":"Legend of the Lost Locket",
-    "review":"Amelia uncovers that one-half of the True Love's Locket, once belonging to Queen Elizabeth I, is in Wilmaton. The locket belonged to James, a carpenter, who fled to America to become a self-made man and prove to his lover's parents that he was worthy of her. Amelia believed James changed his name to Jacob Jameson and started Wilmaton. She thinks the other half of the locket is there with his descendants.<br/><br/>Amelia lands in the U.S. and drives to Wilmaton but has car troubles. She calls roadside assistance, but Marcus shows up first. Jack approaches with his tow truck but says it will take time. He assures Amelia that Marcus is a safe companion. And she accepts Marcus's ride to her B and B.. The proprietor, Francine, and Francine's daughter, Hannah, give Amelia a brief history lesson about the town.<br/><br/>Francine and Amelia go to the local diner to get more information. Francine introduces Amelia to the ladies of the Historical Society. They sadly report that the archives are closed. However, Mayor Bob could give Amelia access.<br/><br/>Amelia meets with Bob, but he won't open the archives for her. So Amelia's business partner, Rebecca, slyly suggests Amelia break in. Amelia takes Rebecca's advice but unknowingly trips the silent alarm. Amelia stands in stunned silence when Marcus arrests her. He is the town sheriff.<br/><br/>After an impromptu town appraisal, Amelia gets a bright idea. She learned that Wilmaton is having a 200th Anniversary Founder's Ball. She promises Bob to invite a who's who of antique dealers for two things. First, the town hosts an antique fair for the dealers the day after the ball. Finally, Amelia wants access to the archives. Bob agrees.<br/><br/>Bob, Marcus, and Amelia arrive at the archives. However, the documents are missing. Amelia promises she hasn't taken them. But Amelia has had a feeling that someone is watching her. Marcus decides to stay by her side. Can Amelia uncover the locket's lost half without unveiling her motive while falling in love?<br/><br/>Give this movie a series! It has a heartwarming mystery without a murder and a town full of secrets to uncover. Amelia is fun, charming, and clever. Marcus is a small-town guy who fell in love with Boston but has since returned for his family. Marcus and Amelia balance each other out beautifully. And the conclusion will surprise and uplift. This mystery is a marvelous start to something that has glorious potential.<br/><br/>5 out of 5 stars.",
+    "mtitle":"Falling in Love in Niagara",
+    "review":"Madeline eats breakfast as her fiancé, Jason, charges in, looking for his lucky socks. Madeline admits she threw them out because they were holey. Before Jason leaves, Madeline asks what Jason wants to do for their honeymoon in Niagara Falls in 5 weeks. Madeline intends to recreate everything her grandparents did the day they met. Jason tells Madeline to do whatever she likes and leaves. Madeline calls the tour company, Hanley Tours Niagara, and plans every detail to the last minute.<br/><br/>Mike loves creating adventure tours but loathes the romantic ones. He asks his business partner, Emily, to cover it. However, her brother's best friend, Phil, and Phil's wife, Beth, are coming to town for their wedding. Mike answers Madeline's call and pretends to take notes. Emily reminds Mike to be punctual because they need the business or lose their company.<br/><br/>Madeline and Jason meet for dinner, and she already ordered for him. Jason didn't get the job and decided to call off the engagement. He can't live under Madeline's structured life and wishes she had a sense of adventure. Madeline eats junk food on the couch for four weeks. Her sister, Harley, visits. She wants Madeline to go to Niagara with her and be adventurous. The word 'adventure' wakes Madeline's spirit. She will go on the trip, take pictures of her adventures, and post them to attract Jason's attention.<br/><br/>Madeline and Harley arrive in Niagara and settle into their room. Madeline explores the grounds and sees a man, Mike, singing and playing the guitar. She assumes he needs spare change and throws coins into his full coffee cup. The drink splashes on him. Mike huffs and storms off.<br/><br/>Madeline and Harley go to Hanley Tours Niagara and meet Emily. Mike and Madeline's eyes meet, and they instantly want someone else. Emily vows Mike will be on his best behavior.<br/><br/>On the second day, Mike makes a scheduling mistake, and Madeline panics because she can't recreate her grandparents' experience. He makes a plan with designated free time and gives her an itinerary in the morning. Madeline breathes a sigh of relief. He uses their free time to white water raft, zip line, and ride a Ferris wheel. He helps her make posts to lure Jason, but can he keep it up as he falls in love with her?<br/><br/>Madeline's tightly wound, but the script gives her a heartfelt reason to crave order. It seems like it ruined her relationship on the surface, but the plot doesn't reveal Jason's issues until the end. Also, Mike wasn't always disorganized. His ex-girlfriend broke up with him, and he lost his passion for the business. They are dealing with broken hearts. This love story promotes positive influence in relationships and Niagara Falls.<br/><br/>4 out of 5 stars.",
     "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/legendofthelostlocket.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/legendofthelostlocket.jpeg"
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fallinginloveinniagra.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fallinginloveinniagra.jpeg"
     }
   }
 ];
@@ -58,47 +58,38 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"A Chef's Deadly Revenge",
+  "mtitle":"A Deadly Threat to My Family",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/achefsdeadlyrevenge.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/achefsdeadlyrevenge.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adeadlythreattomyfamily.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adeadlythreattomyfamily.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Curious Caterer: Foiled Plans",
+  "mtitle":"Our Mother's Secret Affair",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/curiouscatererfoiledplans.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/curiouscatererfoiledplans.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ourmotherssecretaffair.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ourmotherssecretaffair.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"Fatal Fixer Upper",
+  "mtitle":"The Replacement Daughter",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fatalfixerupper.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fatalfixerupper.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thereplacementdaughter.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thereplacementdaughter.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"Have You Seen My Son?",
+  "mtitle":"Branching Out",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/haveyouseenmyson.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/haveyouseenmyson.jpeg"
-  }
-},
-{
-  "option":"5",
-  "mtitle":"Falling in Love in Niagara",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fallinginloveinniagra.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fallinginloveinniagra.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/branchingout.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/branchingout.jpeg"
   }
 }
 
