@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"A Deadly Threat to My Family",
+    "review":"Reporters flank Serena as she exits the courthouse with her brother, Ryan. They interrogate her about The Builders of Ascension cult. Serena testified against the leader, Aleph, and he got 30 years in prison. The cult believed the world would end in five days. So they planned to take their life and rise to the next level.<br/><br/>Ryan brings Serena home to the arms of her adoring niece, Aria, and uneasy sister-in-law, Marielle. He offers Serena the guest house to give her much-needed privacy. Marielle worries about Serena's progress, but Ryan tells Marielle not to focus on the past.<br/><br/>Marielle, Serena, and Aria get into the car to take Aria to school and Serena to therapy. Marielle and Aria argue about Aria trying to impress new classmates. Serena warns Marielle to loosen the reigns on Aria, or someone will take Aria away. Marielle sees Serena's warning as a threat. Marielle should worry because a deadly threat creeps around her family, and she has 5 days to save them.<br/><br/>Can someone slap Ryan? You will come unglued every time he accuses Marielle of overreacting. This movie boils down to communication. If Serena told Ryan and Marielle about the cult's plans, everything would have been avoidable. The plot feels farfetched. However, NXIVM, Heaven's Gate, and Jonestowns prove this can happen. This movie won't be a favorite, but it's an entertaining distraction for two hours.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adeadlythreattomyfamily.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adeadlythreattomyfamily.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Our Mother's Secret Affair",
+    "review":"Fran grabs a weapon to confront an intruder, Kasey. However, Kasey introduces herself as Fran's older sister. The police question Kasey as Fran's mother, Diana, and Diana's old co-worker, Troy, arrive. Diana explains that she and Troy had an affair. They called it off when his wife, Elle, discovered the truth. However, Diana became pregnant with Kasey. Since Elle couldn't have kids, Diana signed over her rights to Elle and Troy. Diana missed Kasey so much that she got pregnant with Fran by her husband.<br/><br/>Elle calls her mother, Gloria, in a frantic state. Elle's brother, Jake, wants to end Diana, but Gloria warns him to step back. He is on probation and could return to jail for the slightest mishap. Elle had a mental breakdown over Troy's affair, and caring for Kasey helped her through it. Gloria won't let Diana hurt Elle again. Gloria assures Jake that she has wheels in motion to handle Diana.<br/><br/>Across town, a woman gets a phone call as she stashes her cash and gun. The caller wants her to take care of two females. She agrees to do it and gets pictures of Diana and Fran in her email. The woman makes a profile named Lynda and will ingratiate herself to Fran. She plans to get into Diana's home and make Diana and Fran's deaths look like accidents. Will she succeed before Fran and Kasey connect?<br/><br/>Lifetimers must pull out a notepad to keep track of all the connections, dealings, and motives. With each new character, the script injects a new complexity. The writers risk the script with more sensationalism. The plot has so many moving parts it becomes a parody of itself. Honestly, Troy is the villain of this movie. His affair caused a ripple effect for decades.<br/><br/>3 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ourmotherssecretaffair.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ourmotherssecretaffair.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"The Replacement Daughter",
+    "review":"Jessica leaves school with her friend, Vanessa, and discusses how Shane stared at Jessica during school. Jessica runs to her mother's beauty salon. Jessica's mother, Liza, argues with her landlord, Frank, about the business space. Condo developers offered Frank money to sell, but now Liza refuses to move. Frank leaves in a huff, and Liza finishes Eva's nails. Liza's friend, co-worker Helen, suggests Liza get the cameras fixed because the cafe down the street had two break-ins. Liza and Jessica leave to spend the evening together. As Jessica takes a selfie, a car hits Liza.<br/><br/>Weeks after the accident, the police haven't found the person who hit Liza. Helen happily took Jessica into her home and now brings Jessica to visit Liza daily. Eva arrives at the hospital to see Liza and offers to take Jessica to dinner so Helen can pick up a delivery at the salon. Helen allows it.<br/><br/>During dinner, Eva says she overheard Jessica's dilemma about school. Jessica's top school accepted her, but with financial aid, she is $10,000 short of tuition. Eva has a surprise. She talked to the dean, and they are offering Jessica a full-ride scholarship. Jessica and Eva leave the restaurant so Jessica can go home with Helen. However, they find Helen dead in the alley. Feeling alone, Jessica inquires about living with Eva after a social worker suggests going to a temporary foster home. Eva informs the social worker that she is a foster parent, waiting to receive her first placement. Jessica eases into a life she never dreamed of, but Eva is a dangerous woman looking for a replacement daughter.<br/><br/>This movie is old-school Lifetime, and you will love it. Eva is unhinged but has the resources to make others fall in line. Eva quickly eliminates the competition and racks up a body count. And the hits come hard and fast. Jessica isn't a wilting flower. The moment she suspects something is wrong with Eva, she investigates and refuses to accept excuses. If you love a crazy villain, this is the film for you.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thereplacementdaughter.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thereplacementdaughter.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"Branching Out",
+    "review":"Guitar newbie Ruby sits in class when her teacher, Miss Weaver, gives the class their next term project. She wants them to create a family tree and give a presentation about their heritage. After class, Ruby asks Miss Weaver for another project because Ruby is the product of IVF. Also, Ruby's mother, Amelia, is an only child with a deceased mother and an estranged father. Miss Weaver encourages Ruby to complete the project and discover her heritage.<br/><br/>Ruby questions Amelia about her father. Amelia remembers keeping the donor's information about him along with an audio recording. However, the donor wanted to remain anonymous until Ruby's 18th birthday. Amelia prepares dinner with her friend, Maura, and Maura understands Ruby's need to reach out. Maura suggests Amelia give Ruby an ancestry test. Ruby overhears and begs for the tests. Amelia says yes and waits for the results.<br/><br/>TJ is a struggling guitarist who works on his family's famous farm to make ends meet. His parents, Tomás and Sofia Cruz, run the Cruz Family Farm. They hint at TJ to start a family, but he is happy to play cool uncle.<br/><br/>Amelia gets an email with Ruby's result, and Ruby matches with Sofia Cruz. She decides to meet them. Amelia drives to the farm and approaches TJ. Within moments, she blurts out that TJ has a daughter and walks away. However, TJ wants to meet her. Amelia worries that TJ could break Ruby's heart as her father did to hers. Can she put her apprehension aside for Ruby's sake while falling in love with TJ? Will her concerns come to fruition when TJ gets his dream job?<br/><br/>This movie rests on the heart of one incredible young girl. Ruby starts with one project that looks simple, but for today's families, a tree can be a complex assignment. The script ensures that TJ and Amelia aren't the antagonists in the movie. Amelia knows how it feels to have a father disappoint her. TJ becomes a father overnight with responsibilities beyond the imagination. Luckily, TJ and Amelia have friends and family to hold them accountable and strive for Ruby to thrive. With one group chat, these strangers become a loving and caring family. This movie deserves your full attention with the whole family.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/branchingout.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/branchingout.jpeg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"A Chef's Deadly Revenge",
     "review":"Chef Lucy focuses on plating meals when her stalker leaves an origami crane and private photos at the table. Lucy's friend, Sous Chef Megan, lets Lucy stay at her place. In the past, Lucy's ex-boyfriend, Ayden, invaded her privacy and stalked her. Lucy remembers from experience that without concrete evidence, the police can't help.<br/><br/>Lucy takes a break from work to clear her mind. She sits on a park bench and sees a man, Frank, with his dog. They politely converse until Frank talks about her being late for the lunch shift. Lucy never mentioned her job, so Frank's knowledge worries her. She believes Frank is her stalker. However, Frank has zero ties to Lucy. Megan worries that Lucy strings together coincidences and creates a fearful situation. Lucy focuses on work until she finds a mutilated mannequin with a scary note. Lucy sees this as a threat. Lucy is tired of being a stalking victim. Now, she will turn the tables and become a stalker.<br/><br/>This movie takes a while to get to the point or start a body count. However, it's about who can out-crazy the other. Frank is Lucy's stalker, but his infatuation isn't about romance. He is a Resentful Stalker. Lucy's response is to become a Revenge Stalker. In an attempt to destroy each other, Lucy and Frank emotionally and physically hurt people around them. The only victims in the film are Megan and Frank's wife, Emily.<br/><br/>3 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/achefsdeadlyrevenge.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/achefsdeadlyrevenge.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Curious Caterer: Foiled Plans",
-    "review":"Goldy and Marla set up for Elk Park Prep Academy's Medieval-themed fundraiser at Sir Alistair's castle. Then, she leaves and checks on her daughter's fencing class. As Olive battles her opponent, Goldy takes the opportunity to talk to Olive's coach, Pierre. She knows the fencing team will wow the guests.<br/><br/>Later, Goldy overhears a disagreement between Alistair and Pierre. Alistair wants the fencing team to dominate and become champions. Alistair will make an announcement before the big feast. His assistant, Emma, hands Alistair the phone because his physician, Dr. Tag, called again. Alistair grabs the phone, chastises Emma, threatens Pierre's job, and leaves.<br/><br/>Goldy and Marla watch the festivities from above as Alistair's butler, Klaus, introduces everyone who enters the parlor. First, Baron Sweetwater enters. He lost his candy business after Alistair took it in a hostile takeover. Ivan and Agatha enter. Marla says Ivan loves his wife but believes she is having an affair with Alistair. Then, Richard, Goldy's ex-husband, saunters in with a smile. Detective David arrives. But Goldy feels butterflies when she spies Tom entering with Mason.<br/><br/>Goldy serves food while Emma draws caricatures, and Charlie entertains as a jester. As everyone enjoys the festivities, U.S. Marshall Gerard walks in and refuses to put on a costume. Gerard pulls Tom aside because Tom's father, Edmund, broke out of prison. Gerard questions Tom about Edmund's whereabouts, but Tom is clueless. Goldy introduces Alistair. Alistair enters, groans, falls, and dies. Tom and Mason tell everyone to stay in the castle until they solve the crime. Can they uncover who killed Alistair and why?<br/><br/>This movie is a full-course meal based on Sticks and Scones by Diane Mott Davidson. It delights with medieval costumes and dialogue. Then, whets your appetite with a devious victim. Next, the audience gets a Smörgåsbord of suspects and motives. And to round out your viewing meal, Tom's dad gives the script a kick of flavor. Goldy creates her murder board, well, tapestry, to visualize the crime. And viewers get two mysteries solved in one. This movie is a classic in the Curious Caterer series and deserves three viewings.<br/><br/>5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/curiouscatererfoiledplans.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/curiouscatererfoiledplans.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Fatal Fixer Upper",
-    "review":"Vivian and Ryan look at their prospective home with their realtor, Sandy, and fall in love with it. Sandy warns them the owner, Josh, is very particular about selecting the buyer. Josh demands Sandy accept Vivian and Ryan's proposal. Josh believes Vivian is the woman for him and Ryan is a formality. Josh knows the home needs repairs and offers to give Vivian a hand around the house to prove his worth. Vivian thinks he is being nice. However, Ryan sees through the act. They don't know Josh is deadly. Will they discover the truth before Vivian becomes Josh's prey?<br/><br/>This movie won't capture your attention. Vivian is naive, and Ryan spends more time puffing his chest than researching Josh.. The plot sets up a fantastic standoff that falls flat because the conclusion is a miraculous coincidence. The shining light in this film is Josh's Obsessive Love Disorder. It brings his character to a new level of crazy with a definitive reason. This movie is background noise because it doesn't require your full attention to keep up with the plot.<br/><br/>2 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fatalfixerupper.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fatalfixerupper.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Have You Seen My Son?",
-    "review":"Catherine walks to the halfway house with her parole officer, Miriam, after the parole board granted her release from prison. Miriam informs Catherine that she is on conditional release because she has dissociative amnesia. A jury found Catherine guilty of killing her son, but they never found his body. Catherine doesn't remember hurting him and maintains her innocence. And she wants to uncover the truth behind her missing memories.<br/><br/>Catherine runs and stops at the home of her ex-husband, Matthew, and his new family. He cheated during her marriage and left her alone with a colicky baby. During the trial, Matthew ended their marriage. She returns to the halfway house, and someone reports she stole something. Miriam looks through Catherine's room and finds a necklace in a sock. Miriam can't charge Catherine because they don't have proof she stole it. Catherine believes someone's setting her up so she can return to prison. She vows to find out what happened to her son. And no one will stand in her way.<br/><br/>This movie is a slow burn, but it's worth the wait. As Catherine peels the layers of her former life, she finds sick and evil people at every turn. Catherine is a bulldozer who doesn't take crap from anyone. She refuses to accept an easy answer and won't let anyone gaslight her. She is a force of nature. You will laugh, cheer, and jump for joy for this mama bear.<br/><br/>4.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/haveyouseenmyson.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/haveyouseenmyson.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Falling in Love in Niagara",
-    "review":"Madeline eats breakfast as her fiancé, Jason, charges in, looking for his lucky socks. Madeline admits she threw them out because they were holey. Before Jason leaves, Madeline asks what Jason wants to do for their honeymoon in Niagara Falls in 5 weeks. Madeline intends to recreate everything her grandparents did the day they met. Jason tells Madeline to do whatever she likes and leaves. Madeline calls the tour company, Hanley Tours Niagara, and plans every detail to the last minute.<br/><br/>Mike loves creating adventure tours but loathes the romantic ones. He asks his business partner, Emily, to cover it. However, her brother's best friend, Phil, and Phil's wife, Beth, are coming to town for their wedding. Mike answers Madeline's call and pretends to take notes. Emily reminds Mike to be punctual because they need the business or lose their company.<br/><br/>Madeline and Jason meet for dinner, and she already ordered for him. Jason didn't get the job and decided to call off the engagement. He can't live under Madeline's structured life and wishes she had a sense of adventure. Madeline eats junk food on the couch for four weeks. Her sister, Harley, visits. She wants Madeline to go to Niagara with her and be adventurous. The word 'adventure' wakes Madeline's spirit. She will go on the trip, take pictures of her adventures, and post them to attract Jason's attention.<br/><br/>Madeline and Harley arrive in Niagara and settle into their room. Madeline explores the grounds and sees a man, Mike, singing and playing the guitar. She assumes he needs spare change and throws coins into his full coffee cup. The drink splashes on him. Mike huffs and storms off.<br/><br/>Madeline and Harley go to Hanley Tours Niagara and meet Emily. Mike and Madeline's eyes meet, and they instantly want someone else. Emily vows Mike will be on his best behavior.<br/><br/>On the second day, Mike makes a scheduling mistake, and Madeline panics because she can't recreate her grandparents' experience. He makes a plan with designated free time and gives her an itinerary in the morning. Madeline breathes a sigh of relief. He uses their free time to white water raft, zip line, and ride a Ferris wheel. He helps her make posts to lure Jason, but can he keep it up as he falls in love with her?<br/><br/>Madeline's tightly wound, but the script gives her a heartfelt reason to crave order. It seems like it ruined her relationship on the surface, but the plot doesn't reveal Jason's issues until the end. Also, Mike wasn't always disorganized. His ex-girlfriend broke up with him, and he lost his passion for the business. They are dealing with broken hearts. This love story promotes positive influence in relationships and Niagara Falls.<br/><br/>4 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fallinginloveinniagra.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fallinginloveinniagra.jpeg"
     }
   }
 ];
@@ -58,38 +58,29 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"A Deadly Threat to My Family",
+  "mtitle":"Mommy Meanest",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/adeadlythreattomyfamily.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/adeadlythreattomyfamily.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mommymeanest.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mommymeanest.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Our Mother's Secret Affair",
+  "mtitle":"The Manny",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ourmotherssecretaffair.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ourmotherssecretaffair.jpeg"
+    "smallImageUrl":"",
+    "largeImageUrl":""
   }
 },
 {
   "option":"3",
-  "mtitle":"The Replacement Daughter",
+  "mtitle":"My Life is on the Line",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thereplacementdaughter.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thereplacementdaughter.jpeg"
-  }
-},
-{
-  "option":"4",
-  "mtitle":"Branching Out",
-  "review":"<br/><br/>* out of 5 stars.",
-  "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/branchingout.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/branchingout.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mylifeisontheline.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mylifeisontheline.jpeg"
   }
 }
 
