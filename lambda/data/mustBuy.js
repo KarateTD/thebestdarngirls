@@ -75,6 +75,9 @@ module.exports = mustBuy;
     "option":"1",
     "mtitle":"Ezra",
     "review":"Ezra was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+     "asin":{
+      "re":""
+    },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ezra.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ezra.jpeg"
@@ -172,6 +175,19 @@ module.exports = mustBuy;
     }
   }
 
+ {
+    "option":"3",
+    "mtitle":"Kingdom of the Planet of the Apes",
+    "review":"A human-made virus increased apes' intelligence and gave them the ability to speak, but it did the opposite for humans. One of the apes led them to prosperity. His name was Caesar, but he died many generations ago. Today, the Eagle Clan is a close-knit group that will celebrate the bonding ceremony at sunrise. Noa, urged by his mother, runs to his father, Koro, with his eagle egg. Koro is proud but smells a unique scent on Noa's blanket. Noa admits an Echo - their name for a human - took his blanket, but Noa retrieved it. Koro demands to know if Noa went into the valley. Noa truthfully says no.<br/><br/>Noa catches an odor coming from a tent and investigates. He finds a female Echo hiding inside and scares it away. The Echo charges past him and breaks his egg. He needs it for the ceremony. So, he travels into the forest to get a new one. He hears the Coastal Clan riding on their horses and hides. They see Noa's horse in the woods, shock it, and follow it to the Eagle Clan.<br/><br/>Noa hurries home to warn the others, but it's too late. Proximus, leader of the Coastal Clan, had his army attack the Eagle clan and take them prisoner. Noa wakes up in the morning. The Coastal Clan killed Koro and stole the Eagle Clan. Noa travels through the valley and vows to bring them back. Noa will learn the truth about Caesar, the Echos, and Proximus's greatest desire. Proximus is hunting the female Echo because she is the key to the evolution of his Kingdom of Apes.<br/><br/>This latest Planet of the Apes installment has mesmerizing graphics, heart-warming laughs, and a captivating storyline. The plot slows when Noa uncovers Promxius's plan and meets Raka. Don't get confused. This film occurs several generations after Caesar died. One thing Apes and Humans want is knowledge. It's the key to their survival, but can they coexist? This plot point is the movie's standout. Planet fans should keep their eyes and ears open for a few easter eggs. And there aren't any post-credit scenes, but the movie leaves room for another film.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kingdomoftheplanetoftheapes.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kingdomoftheplanetoftheapes.jpeg"
+    }
+  }
+
     {
     "option":"1",
     "mtitle":"Abigail",
@@ -255,7 +271,7 @@ module.exports = mustBuy;
     "mtitle":"Cabrini",
     "review":"Mother Frances Cabrini receives an invitation to visit the cardinal in Vatican City. She wrote the Pope several times to start a mission to help orphans globally. She feels that the Vatican ignores the East. So, Mother Cabrini wants to begin in China and work her way West. She wants to create an Empire of Hope. She refuses the cardinal's rejection and demands to speak to the Pope. The Pope listens to Mother Cabrini's passionate plea and accepts her mission but with a condition. Italian immigrants living in New York's Five Points witness children freezing to death in the streets while Americans ignore their plight. The Pope will allow Mother Cabrini's mission if she starts in New York. Mother Cabrini returns and tells her fellow Sisters to pack. They migrate to New York. Cabrini, sick with lung disease, will face prejudice, corruption, and sexism to save children around the world.<br/><br/>This nun doesn't sit idly by and accept rejection. She learns to navigate the world of politics and media to sway the opinions of the American people. She gains allies from all walks of life to advance her efforts. Mother Cabrini's drive comes from a short life expectancy. She doesn't have time to accept no. This woman wasn't afraid to be loud, towering, and visible.<br/><br/>4.5 out of 5 stars.",
     "asin":{
-      "re":""
+      "re":"B0CYGWJSCD"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cabrini.jpeg",
