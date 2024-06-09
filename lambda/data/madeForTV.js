@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option":"1",
+    "mtitle":"The Girl Locked Upstairs: The Tanya Kach Story",
+    "review":"A student liaison walks a new student, 14-year-old Tanya Kach, around the school. The liaison tells Tanya to watch out for the mean girls and the strict, creepy security guard, 38-year-old Tom Hose. Tanya sits on the bleachers and smokes with another boy. Tom catches them and gives the boy detention but sits Tanya down to talk. Tanya doesn't want to go to her foster home because someone asked her to touch him. She reported it to the CPS worker, but no one believed her. She wants to move back with her mother, Christine but doesn't know how to get there.<br/><br/>Later, Tom finds Tanya at the bleachers and offers her money, directions, and instructions to Christine's home. The price for everything is a kiss. Tanya follows his instructions and walks to Christine's doorstep. She tells Tanya to leave and return to her foster parents. Feeling dejected and rejected, Tanya notices an address at the bottom of the instructions. She walks to it and discovers it's Tom's parents' home. He pulls her inside and drags her upstairs. He tells her to keep quiet because his parents will hear her.<br/><br/>Tanya wonders if Tom will let her attend school. However, he wants her to go to the home of his friend, Judy, and learn. Tom offers Tanya beer and assaults her. He walks to his parents' home and heads to his bedroom. Tom gives her the key and tells her to only open the door for him. He wants to keep her safe so Child Services won't return Tanya to her abusive foster parents. He promises it will be for a little while. That 'little while' will equate to a decade of abuse, sexual assault, manipulation, and control.<br/><br/>Based on Memoir of a Milk Carton Kid by Tanya Kach and Lawrence Fisher, this movie shows how grooming works. According to Tanya, Tom studied her student file before she started school. He knew she came from a turbulent home life and was desperate for love. She doesn't see the evil in Tom until she wants to leave several months later. It's easy to watch and scrutinize Tanya's actions, but she was a 14-year-old girl trying to survive a monster. Her story is a teachable moment for everyone to watch out for this behavior and have compassion for the survivors.<br/><br/>5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegirlockedupstairstanyakach.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegirlockedupstairstanyakach.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Tipline Mysteries: Dial 1 for Murder",
+    "review":"Hotel concierge Maddie handles clients while listening to her police scanner app. She quietly cheers as her favorite cop, badge 219, takes down another suspect. And it's rumored that 219 will get a promotion to detective. After a full day of work, Maddie enters the Detroit Free Press and sits at the crime tip desk with her fellow tipster, Penny. Maddie calls Detective Grazier about a stolen cat ring, but he pretends to care.<br/><br/>Captain Nyland calls Officer Beeks into her office and takes his badge. She informs Beeks that he passed the detective's exam with the best score in the precinct. He will start his new job as Detective Beeks in a week and take over for Detective Grazier.<br/><br/>One week later, Maddie gets a tip: someone will rob a jewelry store tonight. Maddie calls Detective Grazier's number, but he doesn't pick up. She tells Beeks about the tip and asks him to put a patrol car outside every jewelry store. He tells her that's impossible and shoots down any other options.<br/><br/>Beeks gets a call in the morning. Someone shot Joseph Trimani in the neck with a dart gun before robbing his jewelry store. Sadly, Joseph died during the robbery. Maddie runs to Trimani's Jewelry after hearing it on her scanner app. Beeks interviews Joseph's estranged wife, Marcella. She gives Beeks information about the safe company, and when he arrives, Maddie is there talking to the owner, Luke.<br/><br/>Beeks gently nudges Maddie out of the store before questioning Luke. Luke's company supplied the safe, but he didn't install it. His former son-in-law, Nick, did the installation. Luke gives Beeks Nick's most recent address.<br/><br/>Beeks goes to Nick's address, but he isn't there. The home belongs to Amanda's grandmother, who is in assisted living. Amanda lives in the house with her boyfriend, Toby, and Nick sporadically sleeps there. Amanda permits Beeks to search the home, and Beeks finds Nick's old uniform. He notes it and leaves.<br/><br/>Maddie's assistant, Ethan, found other robberies with the same M.O. and uncovered the robber used an animal tranquilizer to knock out the owner. She runs to the police station with the new information. Beeks pacifies and shoos her away until Captain Nyland enters with the lab results. Maddie is right. Joseph's heart medication and the robber's tranquilizer created a deadly combination. Captain Nyland likes Maddie's skills and makes her a volunteer reserve officer. She wants Beeks and Maddie to solve their first homicide together. Can they trust each other and catch the culprit?<br/><br/>This movie has a solid foundation for a series. Unlike other stories, Beeks isn't a seasoned, hard-nosed cop. This crime is the first case of his detective career, and he has something to prove. Maddie is a true-crime lover. However, she was a crime victim who learned the purpose of tiplines. It will be great to see these characters grow together. The script gave the audience a glimpse into the Tipline Universe but has more to cover.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/tiplinemysteriesdial1formurder.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/tiplinemysteriesdial1formurder.jpeg"
+    }
+  },
+  {
+    "option":"3",
+    "mtitle":"My Husband's Killer Affair",
+    "review":"Michelle updates her husband, Will, on their nanny's prognosis. Someone attacked their caregiver, Charlotte, at the park. Now, Charlotte is in a coma, and the doctors aren't sure when she will wake up. Michelle puts away her work to attend her father-in-law's party. However, Will doesn't want to go because his father, Richard, passed him over for a promotion again. To prove himself, Will set a meeting with a client, Gabe, that he lost.<br/><br/>Will arrives at the bar to meet with Gabe, but Gabe can't make it because his daughter is ill. A beautiful woman, Melissa, sits next to and commiserates with him. Melissa meets Will in the alley, and they kiss. He walks away.<br/><br/>Michelle goes to the park with her daughter, Lucy. Lucy sees a woman reading a book from her favorite series and walks over to her. Michelle sparks a conversation about it, and the woman introduces herself as Melissa. Melissa is an out-of-work nanny. Later, Michelle hires Melissa.<br/><br/>After Will goes on his business trip, Michelle moves in to help Melissa. However, Michelle isn't the average crazy homewrecker. Will's brother, Carlton, sent her on a mission to destroy Will's life. He wants Will to lose his job, wife, and child. Melissa is his weapon of choice.<br/><br/>This movie has enough crazy to keep your eyes glued to the screen. The writers did everything they could to make the audience sympathize with Melissa. She wasn't a homewrecker by choice. Carlton forced her hand by threatening her mother, Madison. Carlton is a scheming but fun villain, and Michelle is the aloof wife who gains strength throughout the script. This film won't be a favorite, but it entertains from beginning to end.<br/><br/>4 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myhusbandskilleraffair.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myhusbandskilleraffair.jpeg"
+    }
+  },
+  {
+    "option":"4",
+    "mtitle":"May the Best Wedding Win",
+    "review":"Amber relaxes in the morning with her fiancé, Daniel, and enjoys a lazy morning before work. However, Amber instantly regrets it when she gets a text message from her co-worker, Tiffany. Tiffany, a talent manager, poached one of Amber's prospective clients.<br/><br/>Tiffany leaves her office to celebrate her victory over Amber and receives a call from her fiancé, Colin. Colin ends their engagement over the phone. As she screams on the phone, Tiffany hears Amber behind her. Tiffany composes herself and doesn't elaborate, but Amber infers what happened.<br/><br/>Later, Tiffany complains about canceling her wedding reservations, and Amber offers to do it for Tiffany. Tiffany calls the wedding planner, Julia, and discovers that Amber didn't cancel the wedding but changed the reservation to her name. Tiffany fumes and demands they change it back. Tiffany lies to Amber and says she made up with Colin.<br/><br/>Amber meets with Julia and devises a plan because she thinks Tiffany is lying. So, to flush out Tiffany's lies, Julia should call Tiffany and state they will enforce bespoke planning. Julia accepts the plan and calls Tiffany for a tasting tomorrow. Tiffany begrudgingly accepts Julia's new policy and panics.<br/><br/>Tiffany privately asks their assistant, Emily, to look up potential clients. Emily finds Nick's acting profile, and Tiffany meets Nick at a bar. Tiffany promises to represent Ryan if he pretends to be Colin and attends Julia's meetings. For the sake of his career, Nick agrees to help Tiffany. Tiffany and Amber will battle, but who will win the war?<br/><br/>Let's all agree that Nick and Daniel are the only victims in this movie. Daniel watches his bride-to-be slip into competitive madness to prove she's right. Unlike Daniel, Nick knows what's going on. But he slowly falls in love with Tiffany. Both women learn a valuable lesson at the end. And why Amber takes the reservation will make you scream and tear up. This movie has funny and endearing moments but can frustrate you if you have a problem with immaturity.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mythebestweddingwin.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mythebestweddingwin.jpeg"
+    }
+  },
+  {
+    "option":"5",
     "mtitle":"For Love and Honey",
     "review":"Anthropologist Dr. Austin teaches his class about Jacques De Beauvoir and his writings. Austin came to Malta to start his research about Jacques but hasn't made significant strides. Austin's research partner, Michael, warns Austin that he needs to write and submit his research paper in a week. If he doesn't, Austin must return to the states. Austin waves goodbye to his friend and walks towards the Port Grace Library. He wanders in the street, and a motorcyclist, Eva, dodges to miss him. They blame each other before both leave in a huff.<br/><br/>Eva returns to her apiary and informs her Maltese Honey Bees of her close call with a rude tourist. Her sister, Chloe, interjects with unfortunate news. Chloe didn't get the promotion. Then, Chloe alerts Eva to a bee emergency at the library.<br/><br/>Eva arrives at the library, and her friend, Luna, informs her about the new handsome, single doctor. They hear him scream from outside because an unwelcome bee slipped inside. Eva traps the bee inside a glass with a 400-year-old document. Austin cringes and begs her to be careful with the historical paper. She releases the bee outside to follow it back to its hive. They find the hive, and Austin pleads for the paper. She promises to return it if he never swats another bee. He agrees, and she hands him the document.<br/><br/>Later, Eva returns to remove the hive safely. Austin sees a painting underneath as she chips away at the bee wall. He discovers a mural that breathes new life into his research. The mayor, Matthew, comes for a closer look. They have a festival coming up, and Matthew wants a marquee event. This finding is it. Eva doesn't want the wall to distract from the protected bees. Austin must protect the wall for his research. Matthew puts them in charge of each other. They must preserve the wall and the bees for the festival and their love.<br/><br/>This sweet movie is about two people who want to preserve history. Eva's family kept bees for centuries and is part of local legends. Austin wants to uncover lost history. They never thought that they would deeply connect. And watching their passions join them is charming. This film is a sweet way to pass the time with your favorite locally sourced honey and tea.<br/><br/>3 out of 5 stars.",
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/forloveandhoney.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/forloveandhoney.jpeg"
-    }
-  },
-  {
-    "option":"2",
-    "mtitle":"Daddy's Deadly Secret",
-    "review":"Richard and Caroline discuss expanding their family after putting Richard's daughter, Abigail, to bed. Caroline loves Abigail and wants to have another child with Richard. Also, Richard tells Caroline he is getting his affairs in order after giving his sister, Darla, a restraining order.<br/><br/>Richard and Caroline drop Abigail off at her mother's home, and Richard speaks with Abigail's stepfather, Doug. Richard finds Abigail's mom, Ellie, in the bathroom with puffy eyes. She blames it on allergies and swears that she is taking her medication.<br/><br/>On the drive home, Caroline sees Abigail cross the street with a group of girls bullying a younger girl. The crossing guard, Marianne, introduces herself to Caroline. Marianne confirms Caroline's fears. Abigail's new friend group isn't a good influence. Caroline visits her patient, Beth, at Beth's home. Caroline attempts to get Beth to visit her office, but Beth refuses.<br/><br/>Caroline returns home and gets a call from Richard. Abigail didn't return to Doug and Ellie's house. Caroline runs upstairs, but Abigail isn't their either. Caroline and Richard run to Doug and Ellie's and discuss what to do next. Ellie admits that Abigail's demeanor is changing. Richard's anger boils over at the revelation, and they call the police. Caroline prays this is the first step to finding Abigail. But it's the slippery slope to the truth.<br/><br/>This movie has smaller pieces that come together in the end. So those bits need your attention as the plot circles back. Caroline and Ellie have a pivotal and revealing moment, but their crying makes them incomprehensible. So, it's difficult to understand the antagonist's ultimate deception. Otherwise, this film is a wild ride with lies, murder, corruption, and greed. It has something for everyone.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/daddysdeadlysecret.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/daddysdeadlysecret.jpeg"
-    }
-  },
-  {
-    "option":"3",
-    "mtitle":"Cruise Ship Murder",
-    "review":"Olivia drives her Aunt Theresa and Theresa's husband, Ian, to the docks for Theresa and Ian's cruise. Theresa pulls Olivia aside and informs Olivia that this isn't a pleasure cruise. Before Theresa elaborates, they have to board. Olivia waves goodbye to them.<br/><br/>Days later, Olivia gets a call from Ian. Theresa fell overboard during a storm, and the ship's officers can't find her. Soon, Olivia's fears come true. The police found Theresa's remains. When Ian arrives home, Olivia meets with Ian to check on him. He is understandably upset. She comforts him and gets in her car. Then, Shelly, a reporter, knocks on Olivia's window. Shelly asks to interview Olivia about Theresa's death. Disgusted, Olivia rolls up her window and drives away.<br/><br/>Olivia stands at Theresa's gravesite and mourns as Ellen approaches her. Ellen was Theresa's lawyer and now wants to talk to Olivia. Olivia goes to Ellen's office and learns Theresa tried to change her will before she died. This fact raises concerns for Olivia, but Ellen doesn't know how much Ian knew. Olivia plans to ask Ian later.<br/><br/>After talking to Ian, Olivia feels disturbed by his answers and demeanor. She decides to put her skills to work and investigate Theresa's death. Soon, someone sends Olivia death threats, stalks her, and attacks her. Can Olivia uncover what happened on the cruise before she loses her life?<br/><br/>This movie takes time to ramp up, but the body count rises exponentially. Unlike this review, viewers see everything happening on the boat before Theresa falls overboard. There was a drugging, an affair, and a violent storm. It was the perfect background for a devious death. The audience should give the plot a chance to play out. The movie has enough twists and turns to spark your interest.<br/><br/>3.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cruiseshipmurder.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cruiseshipmurder.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Cradle of Deception",
-    "review":"Widow Erin visits her IVF clinic, and Dr. Jackson, a personal friend, puts her mind at ease. Jackson assures Erin that she will be a good mother and her baby boy is healthy. A few days later, Erin gives birth to Ben and breathes a sigh of relief.<br/><br/>Now, Ben is four months old and can't stop crying. Erin grabs a thermometer, and Ben has a 102-degree temperature. Erin rushes him to the hospital. They run several tests and discover Ben has SCID, a genetic disorder. The pediatrician, Dr. Alice, says Ben needs a donor. She and her mother, Ruth, are Ben's only living relatives.<br/><br/>Erin gets the idea to have a local paper run Ben's story. They could raise awareness and find a donor. A reporter, Charlie, calls Erin and asks her to stop by for an interview. Later, Charlie tells Erin that her story sounds familiar to another family who used IVF at her clinic. Days later, Erin reads Charlie's article, an exposé about Jackson and the clinic, and can't believe her eyes. Then, she gets a letter from the clinic threatening to sue her for defamation. She can't afford a legal battle, so she confronts Jackson at his office. Jackson offers a free DNA test to determine Ben's lineage. Erin hopes this will settle her concerns, but it will open Pandora's box.<br/><br/>This film gives My Child Has My Doctor's Face a body count using a similar plot. Jackson follows the advice of keeping your friends close and your enemies closer. He is a cunning villain who keeps you watching with a dutiful wife, Diana, by his side. Everything else is predictable.<br/><br/>3 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/cradleofdeception.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/cradleofdeception.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"The Ice Rink Murders",
-    "review":"Megan got a scholarship to ice skate from Coach Diane. Megan meets Carly. Carly is a top-tier skater and a social media guru with sponsors. Her last partner, Brian, left her to skate with another competitor overseas. Now, Carly skates with her hockey player brother, Trevor. Fellow skater, Lyndsey walks past Megan with a warning to stay out of her way. Lyndsey got injured, and now Megan is there to fill in until Lyndsey is ready to compete. Carly introduces Megan to their equipment manager, Blaze. Megan prepares to become a champion, but someone wants her out of the way. And they will resort to murder to get the job done.<br/><br/>Don't let the title fool you because the body count is low. The viewer doesn't need to pay attention to understand what's happening, and the killer is evident to experienced Lifetimers. The film picks up when the culprit delivers their monologue, and a friend exposes it in real time. If you skip this story, you won't miss much.<br/><br/>2.5 out of 5 stars.",
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theicerinkmurders.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theicerinkmurders.jpeg"
     }
   }
 ];
@@ -58,38 +58,47 @@ module.exports = madeForTV;
 
 {
   "option":"1",
-  "mtitle":"The Girl Locked Upstairs: The Tanya Kach Story",
+  "mtitle":"Yoga Teacher Killer: The Kaitlin Armstrong Story",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegirlockedupstairstanyakach.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegirlockedupstairstanyakach.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/yogateacherkillerthekaitlinarmstrongstory.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/yogateacherkillerthekaitlinarmstrongstory.jpeg"
   }
 },
 {
   "option":"2",
-  "mtitle":"Tipline Mysteries: Dial 1 for Murder",
+  "mtitle":"Death Down the Aisle",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/tiplinemysteriesdial1formurder.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/tiplinemysteriesdial1formurder.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deathdowntheaisle.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deathdowntheaisle.jpeg"
   }
 },
 {
   "option":"3",
-  "mtitle":"My Husband's Killer Affair",
+  "mtitle":"Gaslit By My Husband: The Morgan Metzer Story",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myhusbandskilleraffair.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myhusbandskilleraffair.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/gaslitbymyhusbandthemorganmetzerstory.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/gaslitbymyhusbandthemorganmetzerstory.jpeg"
   }
 },
 {
   "option":"4",
-  "mtitle":"May the Best Wedding Win",
+  "mtitle":"The Wedding Rule",
   "review":"<br/><br/>* out of 5 stars.",
   "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mythebestweddingwin.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mythebestweddingwin.jpeg"
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theweddingrule.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theweddingrule.jpeg"
+  }
+},
+{
+  "option":"5",
+  "mtitle":"Savoring Paris",
+  "review":"<br/><br/>* out of 5 stars.",
+  "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/savoringparis.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/savoringparis.jpeg"
   }
 }
 

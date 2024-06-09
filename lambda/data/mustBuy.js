@@ -76,7 +76,7 @@ module.exports = mustBuy;
     "mtitle":"Ezra",
     "review":"Ezra was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
      "asin":{
-      "re":""
+      "re":"B0D294KQFM"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ezra.jpeg",
@@ -102,7 +102,7 @@ module.exports = mustBuy;
     "mtitle":"Babes",
     "review":"Babes was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":""
+      "re":"B0D5BTMFPJ"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/babes.jpeg",
@@ -284,11 +284,24 @@ module.exports = mustBuy;
     "mtitle":"IF",
     "review":"Elizabeth, better known as Bea, temporarily moves in with her grandmother during her father's treatment. For Bea, this brings back memories of when she lost her mother. Her mother encouraged her to tell stories, perform, and play make-believe. Her dad does the same with his joyful attitude.<br/><br/>After visiting her dad, Bea sees a young girl running in the hallway. Bea chases after her, but the girl runs into the top-floor apartment. Bea knocks, and a man answers without opening the door. The man answers that no girl lives there.<br/><br/>Bea finds an old camcorder and plays the tape inside. It's a recording of happier times with her mother. Then she sees the man and girl outside her window. Bea follows them down the street and watches the man enter a brownstone. Inside the home, the man, Cal, asks Blue to come out of the closet. Outside, Bea sees Blue's large purple hand open the bedroom window. She turns in disbelief and sees the girl from the apartment. But she is not human. Bea faints.<br/><br/>Bea wakes up in Cal's apartment, and the 'girl,' Blossom, makes Bea tea. Blue explains that they are IF, an acronym for Imaginary Friend. The kids that manifested them grew up. Cal is a matchmaker of sorts. He is helping them find new kids to match with. Bea gets an idea. They will locate the kids who created them as adults now. If they can get the adults to remember them, maybe they'll save the IFs. Bea, who tries to be an adult, will discover the beauty in fun and imagination.<br/><br/>This film is an astounding, heartfelt story that asks, 'What IF.' Viewers must catch this movie from the beginning. The script delivers the lovely relationship between Bea and her parents in a montage. Seeing the IFs helps Bea find joy in having fun again. The script shows the audience the importance of Imaginary Friends then and now. And the score will make your heart swell with excitement. You will want the DVD to uncover what they left on the cutting room floor. If you saw this movie, don't ruin the twist. But adults may see it coming.<br/><br/>4 out of 5 stars.",
      "asin":{
-      "re":""
+      "re":"B0D3VF4Q5Z"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/if.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/if.jpeg"
+    }
+  }
+
+    {
+    "option":"1",
+    "mtitle":"Bad Boys: Ride or Die",
+    "review":"Marcus delivers a toast at a moment he thought would never happen: Mike's wedding. Marcus cries as he wishes Mike the best with his new bride, Christine. Marcus gets help from Captain Conrad's daughter, U.S. Marshall Judy, and granddaughter, Callie. Marcus dances the Wobble and suffers a heart attack. Captain Conrad assures Marcus that he won't die and gives Marcus a warning. Marcus wakes up with a new lease on life and is 100% fearless. As Marcus begs Mike to get him Skittles, Mike gets a news alert on his phone. The FBI found evidence that Captain Conrad was working with the drug cartels.<br/><br/>Mike and Marcus run to headquarters to clear their captain's legacy, but Captain Rita and her boyfriend, Attorney General Lockwood, must follow the evidence. Judy enters and demands they find the real culprits. Mike offers to help, but she refuses because Mike's son, Armando, killed her dad.<br/><br/>Mike and Marcus ride and contemplate their next steps when they get a video message from Conrad. He was looking into corruption after their ecstasy bust years ago. Now, he needs his Bad Boys to clear his name. He warns them to trust no one. Mike believes they must ask a cartel member to catch the corruption.<br/><br/>Mike and Marcus visit Armando in prison. Armando states that Conrad was clean. Also, his mother, Isabel, didn't put Conrad on the list; someone added him. Mike and Marcus find Conrad's secret case files and pull Armando out of jail to go through them. They believe they have an advantage, but the culprit is one step ahead. To get through this, Mike and Marcus will need fate, AMMO, Reggie, and alligators.<br/><br/>For newcomers to the franchise, it helps to see the three previous films before watching this 4th installment. This chapter of the buddy-action-comedy will introduce a new version of Bad Boys, tie up loose ends, and show you another side of Reggie. Unlike the previous films, Mike is cautious and has panic attacks. However, Marcus is fearless and wild. Their switch, along with the action-packed fight scenes, make this movie entertaining. Be prepared to laugh, wince, and cheer.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/badboysrideordie.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/badboysrideordie.jpeg"
     }
   }
     
