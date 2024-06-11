@@ -1,6 +1,30 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"Godzilla x Kong: The New Empire",
+    "review":"Kong fights off adversaries in Hallow Earth and tries to eat the carcass, but he has an injured tooth. Dr. Ilene teaches about the Titans to her students. The Monarch has several outposts on the Earth's surface and one on Hallow Earth. On the surface, Godzilla battles other Titans attacking the Earth. As Godzilla rests in the Colosseum, a scientist pulls Dr. Ilene aside to examine the latest signals. Others want to dismiss them, but the readings are too steady.<br/><br/>Ilene's daughter, Jia, became distracted in class and drew the same symbols on her paper and desk. Jia informs Ilene that something from Hallow Earth is calling her. Ilene looks closer at Jia's drawings and realizes they match the signals. Ilene takes the information to Bernie for help.<br/><br/>Bernie runs the Titan Truth podcast and posts about his work saving the world. Ilene asks Benie to look over the signals. The signals are a distress call from Hallow Earth and could cause Kong and Godzilla to collide again. Ilene rests until she hears that Kong is coming to the surface. She will travel to the Hallow Earth Access Point to stop Kong and take him back. And Bernie insists on going and filming the events for his podcast.<br/><br/>Bernie and Ilene arrive at the Access Point, and Jia walks to the observation deck. Kong rises to the shore, and Ilene spots the damaged tooth. Trapper, the Titan veterinarian, sedates Kong, removes the tooth, and implants a new one. While Kong relaxes on the shore, Godzilla collects power from nuclear plants worldwide. Ilene believes Godzilla is charging himself for round two. They must bring Kong to Hallow Earth and find the source of this signal before Kong and Godzilla battle again. Dr. Ilene, Trapper, Bernie, and Jia will open the door to a world undiscovered for thousands of years and awaken a monster that can bring forth the second ice age. Can they save the world for humans and the Titans?<br/><br/>This movie is proof that 2024 is the year of the sequels. Godzilla x Kong doesn't disappoint its core audience. It builds on the existing storyline while expanding its world and adding new Titans. The writers understand that viewers want action and stunning graphics. So, they deliver. The CGI team allowed Kong to have emotions without looking too human. They created the other animals and Titans beautifully. The fight scenes between Titans are astounding and equally comical. While the movie is action-packed, the overall theme is discovering where you belong. See this movie if you loved Godzilla vs. Kong. Also, watch it if you didn't. It is a fun time for everyone.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0CY9Y3H3P"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/godzillaxkongthenewempire.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/godzillaxkongthenewempire.jpeg"
+    }
+  },
+  {
+    "option":"2",
+    "mtitle":"Origin",
+    "review":"Origin was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":"B0CTD283DM"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/origin.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/origin.jpeg"
+    }
+  },
+  {
+    "option":"3",
     "mtitle":"Bob Marley: One Love",
     "review":"In 1976, Bob Marley and the Wailers met with reporters about their upcoming free concert in Jamaica. Some say that Bob's concert will strengthen the divide, but Bob maintains that he isn't picking a side. He wants to bring everyone peacefully together.<br/><br/>Bob plays with his friends and family and travels to practice before the concert. Bob's wife, Rita, sings background vocals but leaves to take care of things before the show. Rita sees several men approaching the house with guns. Before she can warn Bob and the band, a man shoots her in the head. The men run inside and shoot anyone moving. Bob and Rita survive their wounds and perform the concert two days later. He tells Rita to take the children and stay with Rita's mother in America while he records his next album in London. Soon, Bob wants to perform in Africa, but Rita worries his pursuits are pulling focus away from Jamaica. After financial disputes, domestic issues, and health problems, Bob will discover that delivering the message isn't enough. He has to become the message.<br/><br/>This film only covers a few years of Marley's life in detail. The documentary doesn't try to glamorize Bob or paint him as a hero. They allow the audience to see his motivation, artistic process, and determination. Also, it props up Rita's involvement in Bob's personal and professional life. Viewers will learn more about the man, his music, and his relationships.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -12,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"4",
     "mtitle":"Dune: Part Two",
     "review":"Paul and his pregnant mother, Lady Jessica, hide among the Freman people in the desert as word of their death travels through the houses. Stilgar pulls Jessica aside because he and other southern Freman believe Paul is there to fulfill the prophecy. A Reverand Mother is dying, and they want Jessica to take her place. Jessica says yes and goes through the deadly ritual but doesn't tell them she's pregnant. With her new status, Jessica will convince non-believing Freman that Paul is the Messiah.<br/><br/>Paul desires to learn the ways of the Freman. Stilgar gladly teaches Paul, and southern Freman delights in Paul's triumphs. However, a northern Freman, Chani, isn't impressed. She doesn't subscribe to the prophecy because she thinks it's an enslavement tool. Paul confides in Chani about his apocalyptic dreams as the two become inseparable. Paul's dreams warn that traveling to Southern Arrakis will bring death to billions.<br/><br/>Glossu Rabban Harkonnen sends spice harvesters and soldiers to the northern part of the Arrakis. Since the death of Duke Leto, Baron Vladimir Harroken wants his nephew, Glossu, to regain control of spice production. Vladimir thinks Glossu is a doting foot soldier but doesn't believe Glossu is ready to lead. Vladimir wants his other nephew, Feyd-Rautha, to take the throne. Emperor Shaddam IV's Truthsayer, Gaius Helen Mohiam, agrees. Shaddam's daughter, Princess Irulan, disagrees because Feyd-Rautha is a psychopath. Irulan keeps a secret. She suspects that Paul and Jessica are alive but unsure of their location. Can Paul and the Fremans stop the Harroken with the Emperor and his people secretly working for them?<br/><br/>Based on the novel Dune by Frank Herbert and the sequel to Dune, this film deserves the most vivid screen and best sound an audience can find. The graphics are extraordinary and clean. The sound gives the script a proper build for its iconic moments. The story is captivating and dramatic. The script doesn't force its high-level wit on you and profoundly uses silence. On this surface, this movie is about empires fighting over a resource. However, this plot gently discusses religion and looting. This sequel is better than the first film and deserves your time and money. Its stunning fight scenes, jaw-dropping graphics, and compelling storyline are worth the running time.<br/><br/>5 out of 5 stars.",
     "asin":{
@@ -24,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"5",
     "mtitle":"Mean Girls",
     "review":"Mean Girls was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -33,30 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/meangirls.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/meangirls.jpeg"
-    }
-  },
-  {
-    "option":"4",
-    "mtitle":"Ordinary Angels",
-    "review":"Five years ago, Ed and his wife, Theresa, welcomed their baby girl, Michelle, into this world. Now, Ed, Michelle, and Michelle's older sister, Ashley, attend Theresa's funeral. Ed lost his wife and now may lose Michelle. Michelle has biliary atresia and needs a liver transplant. Theresa died and left a staggering amount of medical debt. Now, Michelle's bills are piling up too.<br/><br/>Sharon wakes up in her friend's bed after a wild night of partying. So, her friend, Rose, forces Sharon to attend an A.A. meeting. Afterward, Sharon goes to the store to buy a six-pack and sees a newspaper article about Michelle. She feels compelled to attend Theresa's funeral. Ed thanks Sharon for coming and pulls his daughters away.<br/><br/>Sharon wakes up with a new passion. She raises over $4000 for the family and hand-delivers it to them. Ed's mother, Barbara, invites Sharon inside for dinner. Sharon looks over Ed's shoulder and sees a stack of unpaid bills. She returns home, calls his utility companies, and gets his balances. She can't believe Ed owes over $430,000. Sharon uses her business skills to help Ed's finances and get Michelle a liver. While focusing on the family, Rose worries it's another form of addictive behavior. Can Sharon help save Michelle's life without falling into despair?<br/><br/>Based on Ordinary Angels by Sharon Stevens Evans, this movie's core value is perseverance. Ed is a prideful man and has difficulty asking for and accepting help. Sharon gets inspiration during the A.A. meeting to be a service to others. However, she replaces one addiction with another because she hasn't acknowledged the problem. When Ed and Sharon work together, they rally a community to help Michelle. They can overcome a blizzard, summon planes, and clear debt. This movie will bring a tear to your eye and strengthen your faith in the community.<br/><br/>5 out of 5 stars.",
-    "asin":{
-      "re":"B0CTKWCLQ6"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ordinaryangels.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ordinaryangels.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Lisa Frankenstein",
-    "review":"Lisa Frankenstein was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0CV4G3N1X"
-    }, 
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/lisafrankenstein.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/lisafrankenstein.jpeg"
     }
   }
 ];
@@ -125,19 +125,6 @@ module.exports = mustBuy;
 
   {
     "option":"2",
-    "mtitle":"Origin",
-    "review":"Origin was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0CTD283DM"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/origin.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/origin.jpeg"
-    }
-  }
-
-  {
-    "option":"2",
     "mtitle":"The Ministry of Ungentlemanly Warfare",
     "review":" The Ministry of Ungentlemanly Warfare was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -146,19 +133,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theministryofungentlemanlywarfare.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theministryofungentlemanlywarfare.jpeg"
-    }
-  }
-
-    {
-    "option":"5",
-    "mtitle":"Godzilla x Kong: The New Empire",
-    "review":"Kong fights off adversaries in Hallow Earth and tries to eat the carcass, but he has an injured tooth. Dr. Ilene teaches about the Titans to her students. The Monarch has several outposts on the Earth's surface and one on Hallow Earth. On the surface, Godzilla battles other Titans attacking the Earth. As Godzilla rests in the Colosseum, a scientist pulls Dr. Ilene aside to examine the latest signals. Others want to dismiss them, but the readings are too steady.<br/><br/>Ilene's daughter, Jia, became distracted in class and drew the same symbols on her paper and desk. Jia informs Ilene that something from Hallow Earth is calling her. Ilene looks closer at Jia's drawings and realizes they match the signals. Ilene takes the information to Bernie for help.<br/><br/>Bernie runs the Titan Truth podcast and posts about his work saving the world. Ilene asks Benie to look over the signals. The signals are a distress call from Hallow Earth and could cause Kong and Godzilla to collide again. Ilene rests until she hears that Kong is coming to the surface. She will travel to the Hallow Earth Access Point to stop Kong and take him back. And Bernie insists on going and filming the events for his podcast.<br/><br/>Bernie and Ilene arrive at the Access Point, and Jia walks to the observation deck. Kong rises to the shore, and Ilene spots the damaged tooth. Trapper, the Titan veterinarian, sedates Kong, removes the tooth, and implants a new one. While Kong relaxes on the shore, Godzilla collects power from nuclear plants worldwide. Ilene believes Godzilla is charging himself for round two. They must bring Kong to Hallow Earth and find the source of this signal before Kong and Godzilla battle again. Dr. Ilene, Trapper, Bernie, and Jia will open the door to a world undiscovered for thousands of years and awaken a monster that can bring forth the second ice age. Can they save the world for humans and the Titans?<br/><br/>This movie is proof that 2024 is the year of the sequels. Godzilla x Kong doesn't disappoint its core audience. It builds on the existing storyline while expanding its world and adding new Titans. The writers understand that viewers want action and stunning graphics. So, they deliver. The CGI team allowed Kong to have emotions without looking too human. They created the other animals and Titans beautifully. The fight scenes between Titans are astounding and equally comical. While the movie is action-packed, the overall theme is discovering where you belong. See this movie if you loved Godzilla vs. Kong. Also, watch it if you didn't. It is a fun time for everyone.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0CY9Y3H3P"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/godzillaxkongthenewempire.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/godzillaxkongthenewempire.jpeg"
     }
   }
 
