@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option":"1",
+    "mtitle":"American Fiction",
+    "review":"After Professor Dr. Thelonious 'Monk' Ellison rages at another student, the school advisors think he should take some time off to focus on his upcoming book and spend time with his family. Monk hasn't sold a novel in years, and several publishers turned down his latest manuscript. Another publisher turned down Monk's work because it wasn't 'black enough.' Monk thinks that's ridiculous. Monk returns to Boston and attends a book festival, but the crowd is thin. Another author explains that everyone is at the session for Sinatra Golden. Monk quietly enters her session and becomes sickened by her book, 'We's Lives in Da Ghetto.' He thinks her book appeals to the lowest demographic and panders to stereotypes. Later, Monk visits his sister, OB GYN Dr. Lisa, at work, and she drives him to their mother's home. They enjoy a night out with Agnes.<br/><br/>Monk and Lisa meet for lunch, and she warns him that Agnes's health is declining. Monk asks if their brother, Plastic Surgeon Dr. Cliff, will help, but he is in dire straits emotionally and financially since his divorce. Then, the unimaginable happens. Now, Monk has to come up with the money to care for Agnes. So, he sits and writes a book called 'My Pafology' with all the racial stereotypes and sends it to Arthur under the pseudonym Stagg R. Leigh.<br/><br/>Monk gets a phone call from a gleeful Arthur in the morning. A publishing company offered Monk $750,000 for his book. Monk can't believe it and rejects the offer because the book goes against everything he believes. Arthur reminds Monk Agnes needs help. Monk staggers to yes. Monk thinks this deal is one-and-done. However, Leigh's rise could trigger Monk's downfall.<br/><br/>Based on Erasure by Percival Everett, this movie bravely acknowledges issues in literature while defending it. Companies love to shine a light on black voices but only tell the stories of violence and slavery. However, companies shouldn't ignore or overlook these stories either. This plot gives the viewer a glimpse into the writer's process and multiple endings. Also, this movie makes the most uncomfortable moments hilarious. Don't let preconceived notions stop you from seeing this film. It's for everyone. So, do you believe Monk is a sell-out, or does the ends justify the means?<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0D2BTLCTG"
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/americanfiction.jpeg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/americanfiction.jpeg"
+    }
+  },
+  {
+    "option":"2",
     "mtitle":"Godzilla x Kong: The New Empire",
     "review":"Kong fights off adversaries in Hallow Earth and tries to eat the carcass, but he has an injured tooth. Dr. Ilene teaches about the Titans to her students. The Monarch has several outposts on the Earth's surface and one on Hallow Earth. On the surface, Godzilla battles other Titans attacking the Earth. As Godzilla rests in the Colosseum, a scientist pulls Dr. Ilene aside to examine the latest signals. Others want to dismiss them, but the readings are too steady.<br/><br/>Ilene's daughter, Jia, became distracted in class and drew the same symbols on her paper and desk. Jia informs Ilene that something from Hallow Earth is calling her. Ilene looks closer at Jia's drawings and realizes they match the signals. Ilene takes the information to Bernie for help.<br/><br/>Bernie runs the Titan Truth podcast and posts about his work saving the world. Ilene asks Benie to look over the signals. The signals are a distress call from Hallow Earth and could cause Kong and Godzilla to collide again. Ilene rests until she hears that Kong is coming to the surface. She will travel to the Hallow Earth Access Point to stop Kong and take him back. And Bernie insists on going and filming the events for his podcast.<br/><br/>Bernie and Ilene arrive at the Access Point, and Jia walks to the observation deck. Kong rises to the shore, and Ilene spots the damaged tooth. Trapper, the Titan veterinarian, sedates Kong, removes the tooth, and implants a new one. While Kong relaxes on the shore, Godzilla collects power from nuclear plants worldwide. Ilene believes Godzilla is charging himself for round two. They must bring Kong to Hallow Earth and find the source of this signal before Kong and Godzilla battle again. Dr. Ilene, Trapper, Bernie, and Jia will open the door to a world undiscovered for thousands of years and awaken a monster that can bring forth the second ice age. Can they save the world for humans and the Titans?<br/><br/>This movie is proof that 2024 is the year of the sequels. Godzilla x Kong doesn't disappoint its core audience. It builds on the existing storyline while expanding its world and adding new Titans. The writers understand that viewers want action and stunning graphics. So, they deliver. The CGI team allowed Kong to have emotions without looking too human. They created the other animals and Titans beautifully. The fight scenes between Titans are astounding and equally comical. While the movie is action-packed, the overall theme is discovering where you belong. See this movie if you loved Godzilla vs. Kong. Also, watch it if you didn't. It is a fun time for everyone.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"3",
     "mtitle":"Origin",
     "review":"Origin was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"3",
+    "option":"4",
     "mtitle":"Bob Marley: One Love",
     "review":"In 1976, Bob Marley and the Wailers met with reporters about their upcoming free concert in Jamaica. Some say that Bob's concert will strengthen the divide, but Bob maintains that he isn't picking a side. He wants to bring everyone peacefully together.<br/><br/>Bob plays with his friends and family and travels to practice before the concert. Bob's wife, Rita, sings background vocals but leaves to take care of things before the show. Rita sees several men approaching the house with guns. Before she can warn Bob and the band, a man shoots her in the head. The men run inside and shoot anyone moving. Bob and Rita survive their wounds and perform the concert two days later. He tells Rita to take the children and stay with Rita's mother in America while he records his next album in London. Soon, Bob wants to perform in Africa, but Rita worries his pursuits are pulling focus away from Jamaica. After financial disputes, domestic issues, and health problems, Bob will discover that delivering the message isn't enough. He has to become the message.<br/><br/>This film only covers a few years of Marley's life in detail. The documentary doesn't try to glamorize Bob or paint him as a hero. They allow the audience to see his motivation, artistic process, and determination. Also, it props up Rita's involvement in Bob's personal and professional life. Viewers will learn more about the man, his music, and his relationships.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"5",
     "mtitle":"Dune: Part Two",
     "review":"Paul and his pregnant mother, Lady Jessica, hide among the Freman people in the desert as word of their death travels through the houses. Stilgar pulls Jessica aside because he and other southern Freman believe Paul is there to fulfill the prophecy. A Reverand Mother is dying, and they want Jessica to take her place. Jessica says yes and goes through the deadly ritual but doesn't tell them she's pregnant. With her new status, Jessica will convince non-believing Freman that Paul is the Messiah.<br/><br/>Paul desires to learn the ways of the Freman. Stilgar gladly teaches Paul, and southern Freman delights in Paul's triumphs. However, a northern Freman, Chani, isn't impressed. She doesn't subscribe to the prophecy because she thinks it's an enslavement tool. Paul confides in Chani about his apocalyptic dreams as the two become inseparable. Paul's dreams warn that traveling to Southern Arrakis will bring death to billions.<br/><br/>Glossu Rabban Harkonnen sends spice harvesters and soldiers to the northern part of the Arrakis. Since the death of Duke Leto, Baron Vladimir Harroken wants his nephew, Glossu, to regain control of spice production. Vladimir thinks Glossu is a doting foot soldier but doesn't believe Glossu is ready to lead. Vladimir wants his other nephew, Feyd-Rautha, to take the throne. Emperor Shaddam IV's Truthsayer, Gaius Helen Mohiam, agrees. Shaddam's daughter, Princess Irulan, disagrees because Feyd-Rautha is a psychopath. Irulan keeps a secret. She suspects that Paul and Jessica are alive but unsure of their location. Can Paul and the Fremans stop the Harroken with the Emperor and his people secretly working for them?<br/><br/>Based on the novel Dune by Frank Herbert and the sequel to Dune, this film deserves the most vivid screen and best sound an audience can find. The graphics are extraordinary and clean. The sound gives the script a proper build for its iconic moments. The story is captivating and dramatic. The script doesn't force its high-level wit on you and profoundly uses silence. On this surface, this movie is about empires fighting over a resource. However, this plot gently discusses religion and looting. This sequel is better than the first film and deserves your time and money. Its stunning fight scenes, jaw-dropping graphics, and compelling storyline are worth the running time.<br/><br/>5 out of 5 stars.",
     "asin":{
@@ -45,18 +57,6 @@ var mustBuy = [
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/dunepart2.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/dunepart2.jpeg"
-    }
-  },
-  {
-    "option":"5",
-    "mtitle":"Mean Girls",
-    "review":"Mean Girls was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0CS3HTFB6"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/meangirls.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/meangirls.jpeg"
     }
   }
 ];
@@ -214,19 +214,6 @@ module.exports = mustBuy;
     }
   }
 
-  {
-    "option":"4",
-    "mtitle":"American Fiction",
-    "review":"After Professor Dr. Thelonious 'Monk' Ellison rages at another student, the school advisors think he should take some time off to focus on his upcoming book and spend time with his family. Monk hasn't sold a novel in years, and several publishers turned down his latest manuscript. Another publisher turned down Monk's work because it wasn't 'black enough.' Monk thinks that's ridiculous. Monk returns to Boston and attends a book festival, but the crowd is thin. Another author explains that everyone is at the session for Sinatra Golden. Monk quietly enters her session and becomes sickened by her book, 'We's Lives in Da Ghetto.' He thinks her book appeals to the lowest demographic and panders to stereotypes. Later, Monk visits his sister, OB GYN Dr. Lisa, at work, and she drives him to their mother's home. They enjoy a night out with Agnes.<br/><br/>Monk and Lisa meet for lunch, and she warns him that Agnes's health is declining. Monk asks if their brother, Plastic Surgeon Dr. Cliff, will help, but he is in dire straits emotionally and financially since his divorce. Then, the unimaginable happens. Now, Monk has to come up with the money to care for Agnes. So, he sits and writes a book called 'My Pafology' with all the racial stereotypes and sends it to Arthur under the pseudonym Stagg R. Leigh.<br/><br/>Monk gets a phone call from a gleeful Arthur in the morning. A publishing company offered Monk $750,000 for his book. Monk can't believe it and rejects the offer because the book goes against everything he believes. Arthur reminds Monk Agnes needs help. Monk staggers to yes. Monk thinks this deal is one-and-done. However, Leigh's rise could trigger Monk's downfall.<br/><br/>Based on Erasure by Percival Everett, this movie bravely acknowledges issues in literature while defending it. Companies love to shine a light on black voices but only tell the stories of violence and slavery. However, companies shouldn't ignore or overlook these stories either. This plot gives the viewer a glimpse into the writer's process and multiple endings. Also, this movie makes the most uncomfortable moments hilarious. Don't let preconceived notions stop you from seeing this film. It's for everyone. So, do you believe Monk is a sell-out, or does the ends justify the means?<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0D2BTLCTG"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/americanfiction.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/americanfiction.jpeg"
-    }
-  }
-
     {
     "option":"3",
     "mtitle":"Cabrini",
@@ -271,11 +258,37 @@ module.exports = mustBuy;
     "mtitle":"Bad Boys: Ride or Die",
     "review":"Marcus delivers a toast at a moment he thought would never happen: Mike's wedding. Marcus cries as he wishes Mike the best with his new bride, Christine. Marcus gets help from Captain Conrad's daughter, U.S. Marshall Judy, and granddaughter, Callie. Marcus dances the Wobble and suffers a heart attack. Captain Conrad assures Marcus that he won't die and gives Marcus a warning. Marcus wakes up with a new lease on life and is 100% fearless. As Marcus begs Mike to get him Skittles, Mike gets a news alert on his phone. The FBI found evidence that Captain Conrad was working with the drug cartels.<br/><br/>Mike and Marcus run to headquarters to clear their captain's legacy, but Captain Rita and her boyfriend, Attorney General Lockwood, must follow the evidence. Judy enters and demands they find the real culprits. Mike offers to help, but she refuses because Mike's son, Armando, killed her dad.<br/><br/>Mike and Marcus ride and contemplate their next steps when they get a video message from Conrad. He was looking into corruption after their ecstasy bust years ago. Now, he needs his Bad Boys to clear his name. He warns them to trust no one. Mike believes they must ask a cartel member to catch the corruption.<br/><br/>Mike and Marcus visit Armando in prison. Armando states that Conrad was clean. Also, his mother, Isabel, didn't put Conrad on the list; someone added him. Mike and Marcus find Conrad's secret case files and pull Armando out of jail to go through them. They believe they have an advantage, but the culprit is one step ahead. To get through this, Mike and Marcus will need fate, AMMO, Reggie, and alligators.<br/><br/>For newcomers to the franchise, it helps to see the three previous films before watching this 4th installment. This chapter of the buddy-action-comedy will introduce a new version of Bad Boys, tie up loose ends, and show you another side of Reggie. Unlike the previous films, Mike is cautious and has panic attacks. However, Marcus is fearless and wild. Their switch, along with the action-packed fight scenes, make this movie entertaining. Be prepared to laugh, wince, and cheer.<br/><br/>4 out of 5 stars.",
     "asin":{
-      "re":""
+      "re":"B0D5JKCHGK"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/badboysrideordie.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/badboysrideordie.jpeg"
+    }
+  }
+
+   {
+    "option": "1",
+    "mtitle": "Inside Out 2",
+    "review": "Over the years, Riley became an excellent student, strong hockey player, animal lover, and caring friend. Her emotions - Joy, Sadness, Fear, Disgust, and Anger - continue to share her core memories and store them in long-term storage. The vital memories form her beliefs. Each belief creates Riley's belief system and her sense of self, the newest section of her mind. Joy will do anything to protect the latest system.<br/><br/>Riley celebrates with her best friends Grace and Bree as the coach of the Fire Hawks, Coach Roberts, approaches them after winning a game. She wants them to come to her hockey camp to train. Her favorite player, Val, is on the team. Val started her first year and is a legend among high school players. Grace, Bree, and Riley accept the invitation.<br/><br/>Riley goes to bed the night before camp and dreams of meeting Val and practicing with her friends. As Riley turns in for the night, her emotions do the same. A beeping awakes Joy in the middle of the night. She and the other emotions walk over to the console and see the puberty light gently flashing. Then, it blares. The demo team rips out the console and updates it for the new guys, but Riley wakes up before they finish.<br/><br/>Riley's mother, Mrs. Andersen, enters Riley's room and expresses her surprise that Riley isn't ready for camp. Her emotions touch the console, and Riley cries, yells, and collapses in bed. They find a new emotion touching it. Anxiety introduces Riley's emotions to Envy, Ennui, and Embarrassment.<br/><br/>The Andersens give Riley and her friends a ride to camp. Riley talks about their future together when Disgust notices a look on Bree's face. Grace feels the tension and blurts out that she and Bree will attend a different high school. Riley maintains her composure until her parents drive away. Val notices Riley's sadness, talks to her, and invites Riley to sit with her team. Anxiety takes over and defuses the situation by predicting possible outcomes and changes Riley's personality to give Riley the best conclusion. Joy tries to help, but her attempts make Riley look silly. Anxiety tells Embarrassment to grab Riley's old emotions after Joy makes another mistake. Anxiety tells the mind police to take them to Riley's Dark Secrets Vault. Then, Anxiety disconnects Riley's Sense of Self and sends it to the back of Riley's mind. They will use her new memories with second-generation emotions to build a new Riley. Can Riley's first-generation emotions return to Riley's mind before Anxiety takes over?<br/><br/>Riley and her emotions did it again. They cause the audience to laugh, cringe, cry, and breathe a sigh of relief. The writers added new sections of Riley's mind while taking fans through familiar territory. Riley breaks the rules, disregards her friends, and forces herself to practice when her other emotions are at the helm. Riley loses her Sense of Self for popularity. The movie explains how Anxiety works, helps, and harms people in a lovingly gentle way. The conclusion profoundly affects adults and teaches kids the value of emotions. You should see this movie in theaters today.<br/><br/>5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/insideout2.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/insideout2.jpeg"
+    }
+  }
+
+    {
+    "option": "4",
+    "mtitle": "Furiosa: A Mad Max Saga",
+    "review": "Furiosa plucks fruit with her sister, Valkyrie, when she sees scavengers in their woods. Furiosa's home is an oasis, The Green Place, in the wastelands, and she has to protect it. One of the scavengers captures and kidnaps Furiosa. Valkyrie warns their mother, Mary. Mary finds Furiosa but gets captured by Dementus, the biker leader. Dementus sees Furiosa is in good health and demands to know her origin. Both refuse to talk. So Dementus makes Furiosa watch as he kills her mother.<br/><br/>Dementus sees his men are starving and orders Immortan Joe, ruler of the Citadel, to give his people more food and water. When Joe doesn't listen, Dementus captures the ruler of Gastown and brings him to the Citadel. Joe gives in to some of Dementus's requests and makes Dementus the new ruler of Gastown. However, Joe wants Furiosa as a future wife because she has never been sick. Furiosa must escape Joe, get revenge for Mary, and return to The Green Place.<br/><br/>This prequel has the action you expect from the Mad Max series while answering fanatics' questions about Furiosa. This installment tells you who kidnapped her, what happened to her arm, the start of her face paint, and how she developed into a War Rig commander and Imperator. Also, this movie, unlike its predecessor, is told in four parts - The Pole Inaccessibility, Lessons from the Wasteland, The Stowaway, and Homeward. And the director brilliantly connected the two movies for die-hard fans in the last scene. When there isn't an explosion to rely on, the dialogue and storytelling dulls.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":"B0D3VHSM6R"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/furiosaamadmaxsaga.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/furiosaamadmaxsaga.jpeg"
     }
   }
     
