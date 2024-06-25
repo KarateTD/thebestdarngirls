@@ -24,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"4",
+    "option":"3",
     "mtitle":"Monkey Man",
     "review":"Bobby dons a monkey mask and fights in the Tiger's Temple's underground bouts. After losing to King Cobra, Bobby argues with the owner, Tiger, over money. Bobby must have a longer and bloodier match if he wants more cash.<br/><br/>Bobby orchestrates people to pickpocket Queenie's wallet. Queenie is a restauranteur and criminal mastermind. Bobby walks to Queenie's restaurant and returns the wallet. Queenie offers him rupees for her troubles, but Bobby wants a job instead. He states that he is willing to do the job no one else wants and doesn't fear getting hurt. Queenie gives Bobby the dishwasher position and tells him to stay out of her business. Bobby crossed off step one of his deadly vengeance plan. Blood will spill.<br/><br/>This movie starts with Bobby's mother, Neela, telling him about Hanuman. It's necessary to watch the beginning because Bobby's story parallels this and explains why Bobby wears the monkey mask. This movie offers gritty action, point-of-view camera angles, and the hero's journey. The plot sprinkles Bobby's need for revenge throughout the story. This film has jerky camera angles. People who suffer from motion sickness should think twice before watching. Otherwise, this movie is for action fans with a worthwhile story and eye-popping imagery. See this movie today.<br/><br/>4.5 out of 5 stars.",
     "asin":{
@@ -36,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
+    "option":"4",
     "mtitle":"The Boys in the Boat",
     "review":"In 1936, Joe Rantz attended the University of Washington for engineering. He needs to pay for the 2nd half of this semester in two weeks. After engineering class, Joe's friend, Roger, tells him the rowing team will pay crew members and offer housing. Coach Al Ulbrickson introduces the men to the other coaches, including Coach Thomas Bolles and the boatbuilder George Pocock. The coaches will decide who will join the varsity and junior varsity 8-men teams.<br/><br/>After a grueling tryout, Al picks Joe, Roger, and the other men. The president says they need to win, and he can ask the former students for more money. But winning one race isn't enough. They need to win gold at the Olympics. After the JV team races in the regatta and beat the best time ever by seconds, Al gets an unorthodox idea. Instead of sending the varsity team to compete in Poughkeepsie, he can send JV. The president, donors, and varsity team angrily erupt after Al's announcement. However, he won't budge. Can the JV team prove Al right by making it to the Olympics and winning gold?<br/><br/>Based on The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics by Daniel James Brown, this film focuses on Al, Joe, and their obstacles. Al went with his gut and made an unpopular choice. And he suffered along the way for it. Each time the team hit a new impossible milestone, someone moved the goalpost. Joe raised himself since he was 14. He has to learn how to depend on others and become one. This movie will make you cheer in your seat, but you won't have the urge to delve deeper into this historic win.<br/><br/>4 out of 5 stars.",
     "asin":{
