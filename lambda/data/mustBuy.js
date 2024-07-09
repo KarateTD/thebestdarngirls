@@ -1,62 +1,62 @@
 var mustBuy = [
   {
-    "option":"1",
-    "mtitle":"Ghostbusters: Frozen Empire",
-    "review":"After capturing the Hell's Kitchen's Dragon Ghost, the Ghostbusters - Gary, Callie, Trevor, and Phoebe - meet with Mayor Walter Peck. Mayor Peck threatens to charge Gary and Callie with child labor crimes if they don't bench Phoebe. They return home to extract the ghost from the trap, but the containment unit takes a while to go green. Gary and Phoebe start to worry if the containment unit has enough room.<br/><br/>Nadeem enters Dr. Ray Stantz's store with several of his grandmother's items, looking for a quick buck. At first, nothing catches Ray's eye until he picks up a bronze orb covered in ancient glyphs. Ray scans it with a PKE meter, and it violently vibrates. The orb causes the wall around the containment unit to crack. Dr. Winston takes them to his secret lab. He has a containment unit several times larger than the one in the Ghostbuster's basement. Intern Lucky and Lars try to extract the ghost from the orb, but it protects itself with a layer of freezing ice.<br/><br/>They take the orb to a linguistic specialist, Dr. Hurbert Wartzki. He recognizes it from wall carvings in ancient tombs. It houses a ghostly deity, Garraka, who worked alongside a king to expand the king's empire. Garraka rose and started to freeze the world around him. A group known as the Fire Masters trapped Garraka in the bronze orb to protect the world from his wrath. The Ghostbusters must find a fire master to trap and destroy Garraka for good. If not, Garraka will raise a ghost army, bring forth the second ice age, and end humankind.<br/><br/>This sequel starts with a Robert Frost poem and keeps viewers on the edge of their seats from beginning to end. It has jokes for older and newer fans of the franchise. While the script packs action in most scenes, the encompassing theme is family. The elder team reunites to help save the world. The current Ghostbusters are finding their groove as a blended family. Also, the Spengler kids are asserting their independence. Parents should be careful. The plot mentions a sex dungeon and hookers once. Also, it has one mid-credit scene. This film is intriguing, suspenseful, heartfelt, and funny.<br/><br/>5 out of 5 stars.",
-    "asin":{
-      "re":"B0CWLT1FQ1"
+    "option": "1",
+    "mtitle": "Abigail",
+    "review": "Abigail finishes her ballet practice and gets into her chauffeured vehicle. She settles for the night. Then, three masked intruders jump out and pounce on the child. Two hold her down while another injects Abigail with a sedative.<br/><br/>They arrive at their destination and put Abigail into a bedroom. The negotiator, Lambert, tells them to keep Abigail alive for 24 hours while he extorts her father for money. One of the kidnappers asks what they should call each other if they can't exchange names. So, Lambert gives them code names. The sedative injector is Joey. The hacker is Sammy, while the muscle is Peter. Dean is the driver, and Rickles is the weapons expert. Frank rounds out the crew with his short temper. Lambert reminds everyone that Joey is the only person allowed to communicate with Abigail and leaves.<br/><br/>Joey visits Abigail. Abigail fears they will hurt her, but Joey pinky-promises they won't. Then, Abigail warns Joey they made a mistake. Abigail says her father doesn't care about her.<br/><br/>The team splits for the night, and Dean goes to the kitchen. Then, something grabs and decapitates him. Sammy finds Dean's body and screams. Frank barges into Abigail's room and demands her father's name. Frank runs to the team and panics because Abigail's father is Kristof Lazar. Rickles knows the lore surrounding the legendary crimelord and decides to leave. Then, something kills Rickles. Frank wants to kill Abigail. He runs to her room with a gun, but Joey stops him after remembering her pinky promise. While they argue, Sammy notices Abigail remove her restraints with ease. Then Abigail transforms into a dancing vampire. She is Kristof's hitwoman, and she will make them pay. Can they survive?<br/><br/>This movie is a bloody, funny mystery with a brilliant ensemble. It's not a traditional horror movie, but it provides entertaining jump scares. The script takes a while to reveal Abigail's powers. It's necessary because it allows the viewers to connect with each character. While the crew makes typical horror mistakes, they get some actions correct. If you like M3GAN, this film is for you.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0D1KZK1TS"
     },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ghostbustersfrozenempire.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ghostbustersfrozenempire.jpeg"
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/abagail.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/abagail.jpeg"
     }
   },
   {
-    "option":"2",
-    "mtitle":"The Ministry of Ungentlemanly Warfare",
-    "review":" The Ministry of Ungentlemanly Warfare was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0CYRR2SKT"
+    "option": "2",
+    "mtitle": "Unsung Hero",
+    "review": "Unsung Hero was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0D1LFXW8H"
     },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theministryofungentlemanlywarfare.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theministryofungentlemanlywarfare.jpeg"
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/unsunghero.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/unsunghero.jpeg"
     }
   },
   {
-    "option":"3",
-    "mtitle":"Monkey Man",
-    "review":"Bobby dons a monkey mask and fights in the Tiger's Temple's underground bouts. After losing to King Cobra, Bobby argues with the owner, Tiger, over money. Bobby must have a longer and bloodier match if he wants more cash.<br/><br/>Bobby orchestrates people to pickpocket Queenie's wallet. Queenie is a restauranteur and criminal mastermind. Bobby walks to Queenie's restaurant and returns the wallet. Queenie offers him rupees for her troubles, but Bobby wants a job instead. He states that he is willing to do the job no one else wants and doesn't fear getting hurt. Queenie gives Bobby the dishwasher position and tells him to stay out of her business. Bobby crossed off step one of his deadly vengeance plan. Blood will spill.<br/><br/>This movie starts with Bobby's mother, Neela, telling him about Hanuman. It's necessary to watch the beginning because Bobby's story parallels this and explains why Bobby wears the monkey mask. This movie offers gritty action, point-of-view camera angles, and the hero's journey. The plot sprinkles Bobby's need for revenge throughout the story. This film has jerky camera angles. People who suffer from motion sickness should think twice before watching. Otherwise, this movie is for action fans with a worthwhile story and eye-popping imagery. See this movie today.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0D16YYLQC"
+    "option": "3",
+    "mtitle": "Ghostbusters: Frozen Empire",
+    "review": "After capturing the Hell's Kitchen's Dragon Ghost, the Ghostbusters - Gary, Callie, Trevor, and Phoebe - meet with Mayor Walter Peck. Mayor Peck threatens to charge Gary and Callie with child labor crimes if they don't bench Phoebe. They return home to extract the ghost from the trap, but the containment unit takes a while to go green. Gary and Phoebe start to worry if the containment unit has enough room.<br/><br/>Nadeem enters Dr. Ray Stantz's store with several of his grandmother's items, looking for a quick buck. At first, nothing catches Ray's eye until he picks up a bronze orb covered in ancient glyphs. Ray scans it with a PKE meter, and it violently vibrates. The orb causes the wall around the containment unit to crack. Dr. Winston takes them to his secret lab. He has a containment unit several times larger than the one in the Ghostbuster's basement. Intern Lucky and Lars try to extract the ghost from the orb, but it protects itself with a layer of freezing ice.<br/><br/>They take the orb to a linguistic specialist, Dr. Hurbert Wartzki. He recognizes it from wall carvings in ancient tombs. It houses a ghostly deity, Garraka, who worked alongside a king to expand the king's empire. Garraka rose and started to freeze the world around him. A group known as the Fire Masters trapped Garraka in the bronze orb to protect the world from his wrath. The Ghostbusters must find a fire master to trap and destroy Garraka for good. If not, Garraka will raise a ghost army, bring forth the second ice age, and end humankind.<br/><br/>This sequel starts with a Robert Frost poem and keeps viewers on the edge of their seats from beginning to end. It has jokes for older and newer fans of the franchise. While the script packs action in most scenes, the encompassing theme is family. The elder team reunites to help save the world. The current Ghostbusters are finding their groove as a blended family. Also, the Spengler kids are asserting their independence. Parents should be careful. The plot mentions a sex dungeon and hookers once. Also, it has one mid-credit scene. This film is intriguing, suspenseful, heartfelt, and funny.<br/><br/>5 out of 5 stars.",
+    "asin": {
+      "re": "B0CWLT1FQ1"
     },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/monkeyman.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/monkeyman.jpeg"
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ghostbustersfrozenempire.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ghostbustersfrozenempire.jpeg"
     }
   },
   {
-    "option":"4",
-    "mtitle":"The Boys in the Boat",
-    "review":"In 1936, Joe Rantz attended the University of Washington for engineering. He needs to pay for the 2nd half of this semester in two weeks. After engineering class, Joe's friend, Roger, tells him the rowing team will pay crew members and offer housing. Coach Al Ulbrickson introduces the men to the other coaches, including Coach Thomas Bolles and the boatbuilder George Pocock. The coaches will decide who will join the varsity and junior varsity 8-men teams.<br/><br/>After a grueling tryout, Al picks Joe, Roger, and the other men. The president says they need to win, and he can ask the former students for more money. But winning one race isn't enough. They need to win gold at the Olympics. After the JV team races in the regatta and beat the best time ever by seconds, Al gets an unorthodox idea. Instead of sending the varsity team to compete in Poughkeepsie, he can send JV. The president, donors, and varsity team angrily erupt after Al's announcement. However, he won't budge. Can the JV team prove Al right by making it to the Olympics and winning gold?<br/><br/>Based on The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics by Daniel James Brown, this film focuses on Al, Joe, and their obstacles. Al went with his gut and made an unpopular choice. And he suffered along the way for it. Each time the team hit a new impossible milestone, someone moved the goalpost. Joe raised himself since he was 14. He has to learn how to depend on others and become one. This movie will make you cheer in your seat, but you won't have the urge to delve deeper into this historic win.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0D2658CQW"
+    "option": "4",
+    "mtitle": "The Ministry of Ungentlemanly Warfare",
+    "review": " The Ministry of Ungentlemanly Warfare was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0CYRR2SKT"
     },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theboysintheboat.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theboysintheboat.jpeg"
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theministryofungentlemanlywarfare.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theministryofungentlemanlywarfare.jpeg"
     }
   },
   {
-    "option":"5",
-    "mtitle":"American Fiction",
-    "review":"After Professor Dr. Thelonious 'Monk' Ellison rages at another student, the school advisors think he should take some time off to focus on his upcoming book and spend time with his family. Monk hasn't sold a novel in years, and several publishers turned down his latest manuscript. Another publisher turned down Monk's work because it wasn't 'black enough.' Monk thinks that's ridiculous. Monk returns to Boston and attends a book festival, but the crowd is thin. Another author explains that everyone is at the session for Sinatra Golden. Monk quietly enters her session and becomes sickened by her book, 'We's Lives in Da Ghetto.' He thinks her book appeals to the lowest demographic and panders to stereotypes. Later, Monk visits his sister, OB GYN Dr. Lisa, at work, and she drives him to their mother's home. They enjoy a night out with Agnes.<br/><br/>Monk and Lisa meet for lunch, and she warns him that Agnes's health is declining. Monk asks if their brother, Plastic Surgeon Dr. Cliff, will help, but he is in dire straits emotionally and financially since his divorce. Then, the unimaginable happens. Now, Monk has to come up with the money to care for Agnes. So, he sits and writes a book called 'My Pafology' with all the racial stereotypes and sends it to Arthur under the pseudonym Stagg R. Leigh.<br/><br/>Monk gets a phone call from a gleeful Arthur in the morning. A publishing company offered Monk $750,000 for his book. Monk can't believe it and rejects the offer because the book goes against everything he believes. Arthur reminds Monk Agnes needs help. Monk staggers to yes. Monk thinks this deal is one-and-done. However, Leigh's rise could trigger Monk's downfall.<br/><br/>Based on Erasure by Percival Everett, this movie bravely acknowledges issues in literature while defending it. Companies love to shine a light on black voices but only tell the stories of violence and slavery. However, companies shouldn't ignore or overlook these stories either. This plot gives the viewer a glimpse into the writer's process and multiple endings. Also, this movie makes the most uncomfortable moments hilarious. Don't let preconceived notions stop you from seeing this film. It's for everyone. So, do you believe Monk is a sell-out, or does the ends justify the means?<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0D2BTLCTG"
+    "option": "5",
+    "mtitle": "Monkey Man",
+    "review": "Bobby dons a monkey mask and fights in the Tiger's Temple's underground bouts. After losing to King Cobra, Bobby argues with the owner, Tiger, over money. Bobby must have a longer and bloodier match if he wants more cash.<br/><br/>Bobby orchestrates people to pickpocket Queenie's wallet. Queenie is a restauranteur and criminal mastermind. Bobby walks to Queenie's restaurant and returns the wallet. Queenie offers him rupees for her troubles, but Bobby wants a job instead. He states that he is willing to do the job no one else wants and doesn't fear getting hurt. Queenie gives Bobby the dishwasher position and tells him to stay out of her business. Bobby crossed off step one of his deadly vengeance plan. Blood will spill.<br/><br/>This movie starts with Bobby's mother, Neela, telling him about Hanuman. It's necessary to watch the beginning because Bobby's story parallels this and explains why Bobby wears the monkey mask. This movie offers gritty action, point-of-view camera angles, and the hero's journey. The plot sprinkles Bobby's need for revenge throughout the story. This film has jerky camera angles. People who suffer from motion sickness should think twice before watching. Otherwise, this movie is for action fans with a worthwhile story and eye-popping imagery. See this movie today.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0D16YYLQC"
     },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/americanfiction.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/americanfiction.jpeg"
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/monkeyman.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/monkeyman.jpeg"
     }
   }
 ];
@@ -81,19 +81,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ezra.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ezra.jpeg"
-    }
-  }
-
-{
-    "option":"1",
-    "mtitle":"Unsung Hero",
-    "review":"Unsung Hero was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0D1LFXW8H"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/unsunghero.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/unsunghero.jpeg"
     }
   }
 
@@ -159,19 +146,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kingdomoftheplanetoftheapes.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kingdomoftheplanetoftheapes.jpeg"
-    }
-  }
-
-    {
-    "option":"1",
-    "mtitle":"Abigail",
-    "review":"Abigail finishes her ballet practice and gets into her chauffeured vehicle. She settles for the night. Then, three masked intruders jump out and pounce on the child. Two hold her down while another injects Abigail with a sedative.<br/><br/>They arrive at their destination and put Abigail into a bedroom. The negotiator, Lambert, tells them to keep Abigail alive for 24 hours while he extorts her father for money. One of the kidnappers asks what they should call each other if they can't exchange names. So, Lambert gives them code names. The sedative injector is Joey. The hacker is Sammy, while the muscle is Peter. Dean is the driver, and Rickles is the weapons expert. Frank rounds out the crew with his short temper. Lambert reminds everyone that Joey is the only person allowed to communicate with Abigail and leaves.<br/><br/>Joey visits Abigail. Abigail fears they will hurt her, but Joey pinky-promises they won't. Then, Abigail warns Joey they made a mistake. Abigail says her father doesn't care about her.<br/><br/>The team splits for the night, and Dean goes to the kitchen. Then, something grabs and decapitates him. Sammy finds Dean's body and screams. Frank barges into Abigail's room and demands her father's name. Frank runs to the team and panics because Abigail's father is Kristof Lazar. Rickles knows the lore surrounding the legendary crimelord and decides to leave. Then, something kills Rickles. Frank wants to kill Abigail. He runs to her room with a gun, but Joey stops him after remembering her pinky promise. While they argue, Sammy notices Abigail remove her restraints with ease. Then Abigail transforms into a dancing vampire. She is Kristof's hitwoman, and she will make them pay. Can they survive?<br/><br/>This movie is a bloody, funny mystery with a brilliant ensemble. It's not a traditional horror movie, but it provides entertaining jump scares. The script takes a while to reveal Abigail's powers. It's necessary because it allows the viewers to connect with each character. While the crew makes typical horror mistakes, they get some actions correct. If you like M3GAN, this film is for you.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0D1KZK1TS"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abagail.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abagail.jpeg"
     }
   }
 
@@ -250,6 +224,19 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/furiosaamadmaxsaga.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/furiosaamadmaxsaga.jpeg"
+    }
+  }
+
+  {
+    "option": "1",
+    "mtitle": "Sound of Hope: The Story of Possum Trot",
+    "review": "First Lady Donna Martin is happy with her family in the small town of Possum Trot. Her husband, Reverand W.C. Martin, leads the Bennett Baptist Church. They have two children, Ladonna and Princeton. However, Donna's mother, Murtha, wants Donna and W.C. to have more children. Murtha, the mother of 18, returns home and dies. Donna falls into a depression for months. After arguing with W.C., Donna leaves the house and travels to the ruins of her childhood home. There, she sees a group of children playing and hears God speak to her. Donna calls her sister, Diann, and asks Diann to attend an adoption seminar.<br/><br/>Social worker Susan explains that 70% of the children suffer from poverty-induced neglect. The other 30% suffered severe abuse. She shows Diann and Donna images of the other 30%, and the pictures call both to act.<br/><br/>A brother and sister come to Susan's office with heartbreaking stories. Susan exhausts all her options. Donna jumps at the chance to help and welcomes them into her home. W.C. preaches to their congregation about their adoption, the excuses not to adopt, and the bible's most notable adoption. It inspires 22 families to adopt. However, the people can't afford to come to Susan for the classes. They ask Susan to host it in their church. This small town will make a lasting imprint on the children, Texas, and the system, but it won't be easy.<br/><br/>This movie doesn't make adoption look effortless. However, the families in Possum Trot never give up. The writers don't depict adoption as a magic bullet to fix these children's long-term hardships. It's the first step of many. When W.C. and Donna see the town falling apart and second-guessing their choice, they lean on each other with group prayer and outreach. They recap the children and townspeople today at the conclusion before asking the audience to help. It will assist viewers make an informed choice about adoption. But hopefully, it will spark a passion for others to follow Possum Trot's lead.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/soundofhopethestoryofpossomtrot.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/soundofhopethestoryofpossomtrot.jpg"
     }
   }
     
