@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "Sister Wife Murder",
+    "review": "Chloe's mother, Lois, yells at Chloe to wake up for work. Since Chloe's father died, Chloe's life has been in a downward spiral of drugs, alcohol, and parties. Lois won't allow Chloe to lay around the house. She tells Chloe to get out of bed, get a job, and attend church.<br/><br/>Chloe gazes at Caleb preaching the word at the pulpit and becomes entranced. Afterward, Caleb pulls Chloe aside and discusses ways she can get involved in the church. Also, he runs a foundation called Sacred Heart, which helps needy families. He offers Chloe a job, and she says yes.<br/><br/>Margo meets Chloe at Sacred Heart and shows Chloe around the office. Chloe meets with her friends, Alexis and Dalton, and drones about Caleb. Alexis reminds Chloe he is a married man. Chloe laughs because she was only looking.<br/><br/>Chloe gets familiar with Sacred Heart while spending time with Caleb. Soon, Caleb and Chloe become intimate. However, Chloe doesn't want to be his dirty secret and wants to know if they have a future. Caleb explains that his wife, Anna, knows about their relationship. Chloe pretends to accept the arrangement, but her jealousy grows. Later, Caleb asks Chloe to skip Alexis's party for a retreat. He convinces Chloe to say yes.<br/><br/>Chloe shares her hardships with the retreat attendees and connects with Anna and Caleb. Chloe wakes at night and walks around the canteen. She finds Caleb kissing Margo and runs out of the room. Caleb admits he is married to Margo and Anna and wants Chloe to join their family. They invite Chloe to dinner to meet everyone and see how they live. After dinner, Chloe leaves home, marries Caleb, and becomes a sister-wife. She believes she is following God's path. But the devil has her fooled, and one sister-wife pays the ultimate price.<br/><br/>This movie spends time on character development to make Chloe's change from party girl to sister-wife believable. Once Chloe is in the home, it doesn't take long for cracks to form. Your skin will crawl when Caleb defends his abusive actions with the bible. Then, you will wait for each woman to see the light. This film is entertaining, but the murder takes time because of well-written character development.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sisterwifemurder.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sisterwifemurder.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Signed, Sealed, Delivered: The Tale of Three Letters",
+    "review": "Oliver and Shane return from their honeymoon with joy in their hearts. They arrive at the Dead Letter Office and hug their friends, co-workers Norman and Rita. Then, Shane and Oliver notice something on the wall: the 2017 Great Mailbox Breach letters. The POstables can't contain their excitement and open the first letter to find the owner. Someone sent it to Maria. The sender reprimanded Maria for her actions and suggested that jail is a better option to help Maria build character. They work together to analyze clues in the letter to locate Maria and deliver it to her.<br/><br/>Shane, Norman, Oliver, and Rita meet Joe at a restaurant. Charley arrives with Eleanor, and Norman offers to take the baby for a walk. The POstables realize Charley went to the same school as Maria. They question her, but Charley doesn't have answers. Then, Charley admits to the group that the breach was her fault. She and her friends, Marlon and Barry, like to play pranks. So they put an alarm clock in the mailbox and set it to ring during the carrier's scheduled pickup. However, the alarm didn't sound, and the mail carrier mistook the ticking for a bomb. The authorities detonated the mailbox to prevent potential damage. The POstables will find three letters in this set that will change the course of their work, lives, and loves forever.<br/><br/>This installment in the POstable series takes a realistic view of marriage. The writers make a brave choice and show the truth. The wedding is the first step, not the finish line. Shane throws Oliver's button-up life into disarray. Also, Norman and Rita have marital woes surrounding their adoption. Both couples have issues but help each other through them with sage advice. This film will warm your heart while showing a healthy but uncomfortable argument and three letters that provide a miracle for everyone.<br/><br/>4.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/signedsealeddeliverdataleofthreeletters.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/signedsealeddeliverdataleofthreeletters.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "Deadly Wives Club",
+    "review": "Jack gets a fabulous opportunity to work at a better company for more money, and his wife, Anita, is excited until she learns they must move. Anita is socially awkward and hasn't been able to make friends after their daughter, Jilly, got better. Jack assures Anita it will be easy because their new neighborhood has a country club with events. After Anita agrees, they get a call from their social worker, Kendra. Kendra asks Anita to consider opening Jilly's adoption, but Anita vehemently refuses.<br/><br/>Jack and Anita move to Predator's Ridge with Jilly. Anita and Jilly eat treats while window shopping, and Anita loses sight of Jilly. Anita frantically searches for Jilly and finds Jilly talking to Marti. Marti and the other wives want to welcome Jack and Anita to the neighborhood with a party at Joy's house. Anita agrees.<br/><br/>Anita admits to having an emotional affair, her social anxiety, and Jilly's illness in one conversation at the party. She apologizes for talking too much and asks for water. Anita walks into the garage for water and finds a ladder with a fixed rung. Then, the garage door slams shut and locks. She screams for help until Sarah opens it. Later, Anita finds a photo of four women together. It's Joy, Marti, Sarah, and Patrice. Sadly, Patrice died years ago.<br/><br/>Jack and Anita eat with his boss, Hank, and Hank's wife, Bonnie. Bonnie gushes about moving away from the wives club because she thinks they got away with murder. During a party, Patrice fell off a ladder, obtaining a frisbee. The police said it was an accident, but Bonnie blames the wives.<br/><br/>Later, Anita has dinner with Joy, Sarah, and Marti. They commiserate about their husbands and give Anita a gold TWC pin. While the acronym means many things, one rule holds: loyalty has no limits. They ask Anita to join, and she graciously says yes. Anita believes this is the first step of friendship, but should she heed Bonnie's warning?<br/><br/>Anita has zero survival skills. So, your frustration will grow watching her. The wives are worse than gangs. However, their foundation is shaky. The wrap-up has a lot of action around the culprit's monologue, so piecing the motive together is complex. Also, you need to remember two key characters from the beginning of the script. The film may be confusing, but it's a captivating watch.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deadlywivesclub.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deadlywivesclub.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "Couples Retreat Murder",
+    "review": "Rebecca leaves her home and drives to a bar after arguing with her husband, Jim. Rebecca tells her friend, Paulina, that Jim's work motivation has become an obsession since he got a new job. Rebecca confesses that she admires Paulina's relationship with Paulina's husband, Phil. Paulina admits that she and Phil attend couples retreats to help their marriage and encourages Rebecca to attend the next retreat at Lotusland.<br/><br/>Rebecca looks up the retreat in the morning and convinces Jim to attend and save their marriage. Jim relents and drives there. On the road, Rebecca admits this trip was Paulina's idea. Jim pulls over and screams because he doesn't like Phil. Frustrated, Jim agrees to keep up appearances for their marriage.<br/><br/>Counselor Alan greets Jim and Rebecca. After the other couples arrive, they learn the rules. The retreat removes their phones and doesn't have meat or alcohol, so the couples can focus on each other without being weighed down or distracted. Jim, a lawyer, scoffs but gives in. The couples hope this will reignite their relationships, but someone will die.<br/><br/>Lifetimers will rejoice when Rebecca discovers that she has cell service at the remote retreat. When Alan takes their phones, it dashes your hopes. It's the first sign that things will go wrong. The editors made one flaw by having a commercial break during the culprit's monologue. It makes the confession disjointed and distracting. Experiences Lifetimers will spot inappropriate behavior, brief interactions, and glances throughout the film. This movie is a solvable mystery with a comfortable motive, and it fills the holes during the conclusion. However, viewers must assume the survivor is okay.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/couplesretreatmurder.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/couplesretreatmurder.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "Amish Affair",
     "review": "Hannah finds Aaron waiting for her at the train station. He takes her in his horse and buggy to his home that he shares with his wife, Sarah, and daughters, Rachel and Grace. Hannah inquires if the congregation knows about her sorted past. While the police cleared Hannah, her Amish community didn't. Aaron believes Sarah has ALS, but she refuses to see a doctor or take modern medicine. Hannah eats dinner and settles in for the night. She will take over Sarah's household duties while caring for Sarah.<br/><br/>Hannah is working in the barn when Aaron approaches her. She rejects his advances earlier but gives in to temptation. However, Hannah stops the affair after watching the tribunal shun Miriam for tempting a married man. Soon, Hannah meets two of Aaron's employees, Jacob and Laura. He asks Hannah out on a date, infuriating Aaron. Aaron tells Jacob about Hannah's past to coerce Jacob to break up with Hannah. To Aaron's surprise, Hannah still won't date Aaron while Sarah is alive. Days later, Sarah dies, and Aaron turns to Hannah for comfort. The police investigate after hearing about Hannah's past. When gossip spreads around the small community, Hannah must discover the truth or lose her freedom.<br/><br/>Inspired by actual events, this movie slowly entices viewers into a sexy murder plot. While the audience knows the killer, you will be unsure when the crime started. Aaron uses Hannah's fears to push her into a relationship with him. And her community solidifies her concerns by shunning Mariam. While the conclusion gives the characters a happy ending, it's obvious the community's mindset doesn't change about who they punish. This film will whet your appetite.<br/><br/>4 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/amishaffair.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/amishaffair.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "Little Girl in the Window",
-    "review": "Paul returns home to find his wife, Iris, on the couch watching an unsolved crime show about a missing girl named Jennifer. Iris suffers from depression after a miscarriage. Paul gives Iris a professional camera to help Iris engage with the world.<br/><br/>Iris leaves her home for the first time in months and takes pictures of homes around town. She stumbles across a house but notices strange writing on the window. Iris snaps a few photos until a barking dog frightens her. Mrs. Norris chastises the pup and introduces herself. They converse, and Iris leaves.<br/><br/>Iris examines the photos and sees the writing on the window spelled HELP backward. She goes to Robert's home, and he catches Iris standing outside. As Robert extends his hand to greet Iris, Iris sees a little girl in the window and yelps. Iris takes her concerns to Detective Clark. Clark thinks Iris is mistaken but goes to Robert's home. Clark asks about the little girl, and Robert grabs a large doll. Clark says goodbye and contacts Iris. He threatens to file a police report against Iris if she makes false allegations again.<br/><br/>Iris doesn't accept Detective Clark's excuse and travels to Robert's home again. She sternly asks to see the doll, and Robert invites Iris inside. She tries to run, but Robert grabs her. Iris wakes up in a basement, chained to the floor. She sees two women chained at opposite ends of the room. Iris vows to escape, but how?<br/><br/>This movie will have you questioning reality for the first hour. You won't be sure if Iris is seeing things or not. It's easy to deduce that Iris is dealing with trauma from losing her child. There are two things viewers should notice. First, Robert screams a warning into a so-called empty house. And the final hint, Robert grabs Iris. After that moment, it becomes the standard Lifetime escape film.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/littlegirlinthewindow.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/littlegirlinthewindow.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "Falling Like Snowflakes",
-    "review": "Photographer Teagan meets with her friend, gallery owner Charlotte, to discuss the Christmas Auction at Winslow Gallery. Teagan hopes her snowflake images will garner enough money to fix some of the Willow Creek Community Center's repairs. She prays for a Christmas miracle and drives to the center to meet her students. After class, Teagan sees Julie standing alone. Julie knows her father, Noah, will come, but he is plowing the recent snowfall. Teagan offers to drive Julie to Noah's plow garage to help. Teagan and Noah stammer at the other's appearance, and Julie notices. She asks about their history, and they explain they are old friends.<br/><br/>Charlotte asks Teagan to come to the gallery as soon as possible. Calvin, an art collector and hotel owner, is interested in Teagan's photographs. Calvin knows there are 35 types of snowflakes but sees 34 images. He wants a complete collection. Calvin offers to buy the collection if she gets the last one. Calvin's purchase will cover the center's repairs and make this show the most successful. Teagan agrees to try. After Teagan leaves, photographer Susan overhears the snowflake conversation. She decides to find the snowflake first to get in the show.<br/><br/>Teagan sees Noah in the town square and questions him about the weather. Noah openly wonders about her interrogation, and Teagan admits this impending storm is the perfect condition for her missing snowflake. This storm will be dangerous, so Noah insists on going in his snow plow. This pair will hunt for a mysterious snowflake, but will they find something more before Susan beats them to the Christmas Auction?<br/><br/>This movie has interesting facts about the weather and snowflakes, but the film won't need your full attention. Its saving grace is Susan's trickery. She feels like a Disney villain. You will love to hate her. And her character has more growth than others. Also, Julie's gift for Noah is incredible, and the reveal will make you misty-eyed. The plot is predictable and shows why Hallmark saved this film for July.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/fallinglikesnowflakes.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/fallinglikesnowflakes.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "The Killer Inside: The Ruth Finley Story",
-    "review": "Ruth Finley prepares dinner for her husband, Ed, and mother, Fay, while watching the latest news about the BTK Killer. Ed turns off the TV. He's worried that Ruth is too engrossed with the case and knows more than the police. After Fay leaves, Ed discusses taking a trip to Europe instead of their typical vacation. Ruth is unsure.<br/><br/>Ruth tells her friend, co-worker Susan, about Ed's idea. Susan's shocked that Ruth didn't say yes but says it aligns with Ruth's predictable ways. Later, Ruth accepts the European vacation while she and Ed garden. Ed beams with joy until he has a heart attack and falls in the yard. They rush Ed to the hospital, and doctors care for him. Ruth wants to stay by his side, but Ed convinces her to leave and rest. Later, an unknown person calls Ruth. The caller has intimate knowledge about her previous attack. Ruth hangs up and doesn't sleep.<br/><br/>Ed returns home after days in the hospital. He feels good but sees something is bothering Ruth because she is relentlessly baking. Ruth brushes off his worries and focuses on her job. Then, Ed gets a call from Susan. Ruth left work for her lunch break and never returned. Two men kidnapped her, attacked her, and pulled her into the woods. She escaped. However, Ruth's torment doesn't stop there. The attacker continues to call and write threatening letters. The police believe it's BTK. Will Ruth survive, or will the killer succeed?<br/><br/>The movie starts with the brutal slaying of a Kansas woman in 1977 with her son in the home. It helps viewers understand the police's urgency to protect Ruth and find the killer. Ruth receives several threats via phone and mail. As the story follows Ruth's harassment, the plot slows. But one late-night moment will pull you back into this story and make you scream at the TV. This movie isn't fantastic, but it's intriguing.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thekillerinsidetheruthfinleystory.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thekillerinsidetheruthfinleystory.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Devil on Campus: The Larry Ray Story",
-    "review": "Talia Ray tells her friends, Claudia, Isabella, Santos, and Daniel, that her father, Larry Ray, is out of jail and outside their door. Larry enters with a bag of cash, a limo, and a story. He gives the college students money for food and offers to cook. He stays the night in their dorm room. However, Claudia's concerns grow when Larry doesn't leave and spends time in Isabella's bedroom. Claudia's parents, Tom and Christian, meet with Sarah Lawrence College officials about Claudia's living arrangements. However, the offical reminds Tom and Christian that the students are over 18 and parents can visit without limiting the duration. Unsatisfied, Tom and Christian leave the campus and offer to let Claudia stay home this semester. Claudia doesn't want to go. They smile, hug, and leave Claudia to stay in the dorm. It's a mistake they will all regret. Larry Ray is evil personified.<br/><br/>This movie will horrify and disgust you. But it should be a discussion topic because it is a true story. Larry Ray slowly crept into these students' lives and manipulated them. He blamed them for his mistakes, issues, or illnesses and never took accountability. Larry relished in his control while gaining millions from them. The school failed these students because they had the power to stop it. This film should have had two parts. Viewers should watch this movie with their older teens and first-year college students.<br/><br/>4.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deviloncampusthelarryraystory.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deviloncampusthelarryraystory.jpg"
     }
   }
 ];
@@ -58,39 +58,39 @@ module.exports = madeForTV;
 
 {
 "option":"1",
-"mtitle":"Sister Wife Murder",
+"mtitle":"Abducted at an HBCU: A Black Girl Missing Movie",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/sisterwifemurder.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/sisterwifemurder.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/abductedatanhbcublackgirlmissingmovie.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/abductedatanhbcublackgirlmissingmovie.jpg"
 }
 },
 {
 "option":"2",
-"mtitle":"Signed, Sealed, Delivered: The Tale of Three Letters",
+"mtitle":"When Mom Becomes a Murderer",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/signedsealeddeliverdataleofthreeletters.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/signedsealeddeliverdataleofthreeletters.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whenmombecomesamurderer.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whenmombecomesamurderer.jpg"
 }
 },
 {
 "option":"3",
-"mtitle":"Deadly Wives Club",
+"mtitle":"Lies and Ex Wives: Secrets of Maple Street",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deadlywivesclub.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deadlywivesclub.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/liesandwivessecretsofmaplestreet.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/liesandwivessecretsofmaplestreet.jpg"
 }
 },
 {
 "option":"4",
-"mtitle":"Couples Retreat Murder",
+"mtitle":"Rescuing Christmas",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/couplesretreatmurder.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/couplesretreatmurder.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rescuingchristmas.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rescuingchristmas.jpg"
 }
-}
+},
 
 */
