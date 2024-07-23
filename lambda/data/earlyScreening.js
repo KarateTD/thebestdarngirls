@@ -34,15 +34,6 @@ var earlyScreening = [
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelma.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelma.jpeg"
     }
-  },
-  {
-    "option": "5",
-    "mtitle": "Ezra",
-    "review": "Comedian Max and realtor Jenna get a call from their son's teacher. Their son, Ezra, started a school riot after binge-watching Breaking Bad episodes with his dad. The principal and Ezra's teacher believe Ezra is a dangerous influence. They think exes Max and Jenna should put Ezra in a school for students with special needs. Max thinks they don't want to do their jobs because Ezra has autism.<br/><br/>Jenna's boyfriend, Bruce, jokes about killing Max after Max leaves. Ezra overhears Bruce and leaves Jenna's home in his pajamas. Max dashes into the street to avoid an aggressive dog and gets bumped by a cab.<br/><br/>Ezra wakes up in the hospital, and the staff wants to ask him questions. After several psychiatric evaluations, the doctors report the incident and make Ezra a ward of the state to monitor him. They demand Max and Jenna put Ezra into a special needs school and give Ezra antipsychotics. The doctor makes a rude remark, and Max attacks him.<br/><br/>Attorney Bruce meets Max in jail. The doctor will drop the charges if Max complies with his treatment and Max stays away from Ezra for three months. Max begrudgingly obliges. Later, Max lurks around Ezra's new school and sees Ezra is unhappy. He sneaks into Ezra's bedroom that night, takes Ezra down the fire escape, and leaves a note for Jenna.<br/><br/>While spending time with his friend, Nick, Max gets earth-shattering news. First, Jimmy Kimmel wants to give Max a spot on his show, but he has to be in LA by next Friday. Second, after four days without her son, Jenna called the police. They decided to issue an Amber Alert for Ezra. Now, Max is on the run. Max puts his son, career, and freedom on the line with one road trip. Will this family make it?<br/><br/>This touching movie shows both parents going to war for their son. While Max battles the system after feeling like a failure, Jenna battles Max and his demons. Jenna feels like the villain, but viewers must remember that her son has been missing for over four days. With Ezra's challenges, Jenna worries about Ezra being on a trip without the comforts of home. They are both loving parents trying to do what they believe is best for Ezra. The movie comes to a truthful resolution with plenty of laughs and breakthroughs along the road trip. The script will leave a hopeful mark on your spirit.<br/><br/>4.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ezra.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ezra.jpeg"
-    }
   }
 ];
 

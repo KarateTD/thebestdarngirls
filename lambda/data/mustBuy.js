@@ -1,6 +1,30 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "The Fall Guy",
+    "review": "The Fall Guy was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0D2LWPV9M"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/fallguy.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/fallguy.jpeg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Ezra",
+    "review": "Ezra was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0D294KQFM"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ezra.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ezra.jpeg"
+    }
+  },
+  {
+    "option": "3",
     "mtitle": "Abigail",
     "review": "Abigail finishes her ballet practice and gets into her chauffeured vehicle. She settles for the night. Then, three masked intruders jump out and pounce on the child. Two hold her down while another injects Abigail with a sedative.<br/><br/>They arrive at their destination and put Abigail into a bedroom. The negotiator, Lambert, tells them to keep Abigail alive for 24 hours while he extorts her father for money. One of the kidnappers asks what they should call each other if they can't exchange names. So, Lambert gives them code names. The sedative injector is Joey. The hacker is Sammy, while the muscle is Peter. Dean is the driver, and Rickles is the weapons expert. Frank rounds out the crew with his short temper. Lambert reminds everyone that Joey is the only person allowed to communicate with Abigail and leaves.<br/><br/>Joey visits Abigail. Abigail fears they will hurt her, but Joey pinky-promises they won't. Then, Abigail warns Joey they made a mistake. Abigail says her father doesn't care about her.<br/><br/>The team splits for the night, and Dean goes to the kitchen. Then, something grabs and decapitates him. Sammy finds Dean's body and screams. Frank barges into Abigail's room and demands her father's name. Frank runs to the team and panics because Abigail's father is Kristof Lazar. Rickles knows the lore surrounding the legendary crimelord and decides to leave. Then, something kills Rickles. Frank wants to kill Abigail. He runs to her room with a gun, but Joey stops him after remembering her pinky promise. While they argue, Sammy notices Abigail remove her restraints with ease. Then Abigail transforms into a dancing vampire. She is Kristof's hitwoman, and she will make them pay. Can they survive?<br/><br/>This movie is a bloody, funny mystery with a brilliant ensemble. It's not a traditional horror movie, but it provides entertaining jump scares. The script takes a while to reveal Abigail's powers. It's necessary because it allows the viewers to connect with each character. While the crew makes typical horror mistakes, they get some actions correct. If you like M3GAN, this film is for you.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -12,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "4",
     "mtitle": "Unsung Hero",
     "review": "Unsung Hero was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -24,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "5",
     "mtitle": "Ghostbusters: Frozen Empire",
     "review": "After capturing the Hell's Kitchen's Dragon Ghost, the Ghostbusters - Gary, Callie, Trevor, and Phoebe - meet with Mayor Walter Peck. Mayor Peck threatens to charge Gary and Callie with child labor crimes if they don't bench Phoebe. They return home to extract the ghost from the trap, but the containment unit takes a while to go green. Gary and Phoebe start to worry if the containment unit has enough room.<br/><br/>Nadeem enters Dr. Ray Stantz's store with several of his grandmother's items, looking for a quick buck. At first, nothing catches Ray's eye until he picks up a bronze orb covered in ancient glyphs. Ray scans it with a PKE meter, and it violently vibrates. The orb causes the wall around the containment unit to crack. Dr. Winston takes them to his secret lab. He has a containment unit several times larger than the one in the Ghostbuster's basement. Intern Lucky and Lars try to extract the ghost from the orb, but it protects itself with a layer of freezing ice.<br/><br/>They take the orb to a linguistic specialist, Dr. Hurbert Wartzki. He recognizes it from wall carvings in ancient tombs. It houses a ghostly deity, Garraka, who worked alongside a king to expand the king's empire. Garraka rose and started to freeze the world around him. A group known as the Fire Masters trapped Garraka in the bronze orb to protect the world from his wrath. The Ghostbusters must find a fire master to trap and destroy Garraka for good. If not, Garraka will raise a ghost army, bring forth the second ice age, and end humankind.<br/><br/>This sequel starts with a Robert Frost poem and keeps viewers on the edge of their seats from beginning to end. It has jokes for older and newer fans of the franchise. While the script packs action in most scenes, the encompassing theme is family. The elder team reunites to help save the world. The current Ghostbusters are finding their groove as a blended family. Also, the Spengler kids are asserting their independence. Parents should be careful. The plot mentions a sex dungeon and hookers once. Also, it has one mid-credit scene. This film is intriguing, suspenseful, heartfelt, and funny.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -33,30 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ghostbustersfrozenempire.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ghostbustersfrozenempire.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "The Ministry of Ungentlemanly Warfare",
-    "review": " The Ministry of Ungentlemanly Warfare was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0CYRR2SKT"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theministryofungentlemanlywarfare.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theministryofungentlemanlywarfare.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Monkey Man",
-    "review": "Bobby dons a monkey mask and fights in the Tiger's Temple's underground bouts. After losing to King Cobra, Bobby argues with the owner, Tiger, over money. Bobby must have a longer and bloodier match if he wants more cash.<br/><br/>Bobby orchestrates people to pickpocket Queenie's wallet. Queenie is a restauranteur and criminal mastermind. Bobby walks to Queenie's restaurant and returns the wallet. Queenie offers him rupees for her troubles, but Bobby wants a job instead. He states that he is willing to do the job no one else wants and doesn't fear getting hurt. Queenie gives Bobby the dishwasher position and tells him to stay out of her business. Bobby crossed off step one of his deadly vengeance plan. Blood will spill.<br/><br/>This movie starts with Bobby's mother, Neela, telling him about Hanuman. It's necessary to watch the beginning because Bobby's story parallels this and explains why Bobby wears the monkey mask. This movie offers gritty action, point-of-view camera angles, and the hero's journey. The plot sprinkles Bobby's need for revenge throughout the story. This film has jerky camera angles. People who suffer from motion sickness should think twice before watching. Otherwise, this movie is for action fans with a worthwhile story and eye-popping imagery. See this movie today.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0D16YYLQC"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/monkeyman.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/monkeyman.jpeg"
     }
   }
 ];
@@ -71,19 +71,6 @@ module.exports = mustBuy;
 
 /*  For Must Buy later  
 
- {
-    "option":"1",
-    "mtitle":"Ezra",
-    "review":"Ezra was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-     "asin":{
-      "re":"B0D294KQFM"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ezra.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ezra.jpeg"
-    }
-  }
-
   {
     "option":"1",
     "mtitle":"Fly Me to the Moon",
@@ -96,19 +83,6 @@ module.exports = mustBuy;
     "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/flymetothemoon.jpeg"
     }
     }
-
-   {
-    "option": "5",
-    "mtitle": "The Fall Guy",
-    "review": "The Fall Guy was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0D2LWPV9M"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/fallguy.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/fallguy.jpeg"
-    }
-  }
 
     {
     "option":"1",
@@ -133,6 +107,19 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/scrambled.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/scrambled.jpeg"
+    }
+  }
+
+  {
+    "option":"2",
+    "mtitle":"Sing Sing",
+    "review":"Sing Sing was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":""
+    },
+    "image":{
+      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/singsing.jpg",
+      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/singsing.jpg"
     }
   }
 
