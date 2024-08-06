@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Babes",
+    "review": "Babes was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0D5BTMFPJ"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/babes.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/babes.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "The Fall Guy",
     "review": "The Fall Guy was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "Ezra",
     "review": "Ezra was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "Abigail",
     "review": "Abigail finishes her ballet practice and gets into her chauffeured vehicle. She settles for the night. Then, three masked intruders jump out and pounce on the child. Two hold her down while another injects Abigail with a sedative.<br/><br/>They arrive at their destination and put Abigail into a bedroom. The negotiator, Lambert, tells them to keep Abigail alive for 24 hours while he extorts her father for money. One of the kidnappers asks what they should call each other if they can't exchange names. So, Lambert gives them code names. The sedative injector is Joey. The hacker is Sammy, while the muscle is Peter. Dean is the driver, and Rickles is the weapons expert. Frank rounds out the crew with his short temper. Lambert reminds everyone that Joey is the only person allowed to communicate with Abigail and leaves.<br/><br/>Joey visits Abigail. Abigail fears they will hurt her, but Joey pinky-promises they won't. Then, Abigail warns Joey they made a mistake. Abigail says her father doesn't care about her.<br/><br/>The team splits for the night, and Dean goes to the kitchen. Then, something grabs and decapitates him. Sammy finds Dean's body and screams. Frank barges into Abigail's room and demands her father's name. Frank runs to the team and panics because Abigail's father is Kristof Lazar. Rickles knows the lore surrounding the legendary crimelord and decides to leave. Then, something kills Rickles. Frank wants to kill Abigail. He runs to her room with a gun, but Joey stops him after remembering her pinky promise. While they argue, Sammy notices Abigail remove her restraints with ease. Then Abigail transforms into a dancing vampire. She is Kristof's hitwoman, and she will make them pay. Can they survive?<br/><br/>This movie is a bloody, funny mystery with a brilliant ensemble. It's not a traditional horror movie, but it provides entertaining jump scares. The script takes a while to reveal Abigail's powers. It's necessary because it allows the viewers to connect with each character. While the crew makes typical horror mistakes, they get some actions correct. If you like M3GAN, this film is for you.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Unsung Hero",
     "review": "Unsung Hero was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/unsunghero.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/unsunghero.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Ghostbusters: Frozen Empire",
-    "review": "After capturing the Hell's Kitchen's Dragon Ghost, the Ghostbusters - Gary, Callie, Trevor, and Phoebe - meet with Mayor Walter Peck. Mayor Peck threatens to charge Gary and Callie with child labor crimes if they don't bench Phoebe. They return home to extract the ghost from the trap, but the containment unit takes a while to go green. Gary and Phoebe start to worry if the containment unit has enough room.<br/><br/>Nadeem enters Dr. Ray Stantz's store with several of his grandmother's items, looking for a quick buck. At first, nothing catches Ray's eye until he picks up a bronze orb covered in ancient glyphs. Ray scans it with a PKE meter, and it violently vibrates. The orb causes the wall around the containment unit to crack. Dr. Winston takes them to his secret lab. He has a containment unit several times larger than the one in the Ghostbuster's basement. Intern Lucky and Lars try to extract the ghost from the orb, but it protects itself with a layer of freezing ice.<br/><br/>They take the orb to a linguistic specialist, Dr. Hurbert Wartzki. He recognizes it from wall carvings in ancient tombs. It houses a ghostly deity, Garraka, who worked alongside a king to expand the king's empire. Garraka rose and started to freeze the world around him. A group known as the Fire Masters trapped Garraka in the bronze orb to protect the world from his wrath. The Ghostbusters must find a fire master to trap and destroy Garraka for good. If not, Garraka will raise a ghost army, bring forth the second ice age, and end humankind.<br/><br/>This sequel starts with a Robert Frost poem and keeps viewers on the edge of their seats from beginning to end. It has jokes for older and newer fans of the franchise. While the script packs action in most scenes, the encompassing theme is family. The elder team reunites to help save the world. The current Ghostbusters are finding their groove as a blended family. Also, the Spengler kids are asserting their independence. Parents should be careful. The plot mentions a sex dungeon and hookers once. Also, it has one mid-credit scene. This film is intriguing, suspenseful, heartfelt, and funny.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0CWLT1FQ1"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ghostbustersfrozenempire.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ghostbustersfrozenempire.jpeg"
     }
   }
 ];
@@ -83,19 +83,6 @@ module.exports = mustBuy;
     "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/flymetothemoon.jpeg"
     }
     }
-
-    {
-    "option":"1",
-    "mtitle":"Babes",
-    "review":"Babes was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0D5BTMFPJ"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/babes.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/babes.jpeg"
-    }
-  }
 
     {
     "option":"2",
@@ -224,6 +211,19 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/soundofhopethestoryofpossomtrot.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/soundofhopethestoryofpossomtrot.jpg"
+    }
+  }
+
+   {
+    "option": "4",
+    "mtitle": "Deadpool and Wolverine",
+    "review": "Wade Wilson wanted more from his life because Vanessa asked him to cut out the nonsense. He uses Cable's time-traveling device to join a superhero team, but they reject him. Wade returns to his timeline and sells cars with Peter for 6 years. Deadpool is a thing of the past. Wade bikes home and finds a surprise birthday party waiting for him. He answers a knock at the door and assumes the uniformed people are strippers. They are the Time Variant Authority or TVA. They rip the wig off Wade's head and pull him into a portal.<br/><br/>Wade wakes up at a table with Mr. Paradox at the opposite end. Mr. Paradox introduces Wade to the TVA and the Sacred Timeline. Mr. Paradox warns Wade that his timeline will end because an 'anchor being' died. He grows tired of waiting for the timelines to parish. Mr. Paradox is building a Time Ripper to destroy Wade's timeline but will allow Wade to move to another and spare his life. Wade assumes he's the anchor being, and Mr. Paradox laughs. Wade's timeline's anchor is Wolverine. Wade can't stomach the thought of losing his friends. He steals Mr. Paradox's TemPad and jumps through timelines to find a replacement Wolverine.<br/><br/>Wade returns with a suitable Logan and demands Mr. Paradox return them to his timeline. Mr. Paradox laughs because this version of Logan ended his universe. Mr. Paradox sends them to the Void. He expects Cassandra Nova and Alioth to finish the job. Wade and Logan must put their issues aside to leave the Void, stop Mr. Paradox from using the Time Ripper, and save Wade's timeline.<br/><br/>This movie reaches across universes and production studios to fulfill every fan's fantasy. The opening sequence starts with blood, guts, violation, and NSync. Then, Wade travels through the timeline and finds a host of Wolverines. They will surprise and humor you. The team-up in the Void is legendary and finishes several characters' stories while staying true to Deadpool. The graphics hold hidden gems amongst the gore and make your stomach churn with Cassandra's powers. The music covers all genres and is perfectly inappropriate. This film will surpass your expectations and remind you why you love this franchise. See this before anyone spoils the surprises. Also, there are post- and mid-credit scenes.<br/><br/>5 out of 5 stars.",
+   "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deadpoolandwolverine.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deadpoolandwolverine.jpg"
     }
   }
     
