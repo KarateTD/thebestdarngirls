@@ -12,7 +12,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "2",
     "mtitle": "Furiosa: A Mad Max Saga",
     "review": "Furiosa plucks fruit with her sister, Valkyrie, when she sees scavengers in their woods. Furiosa's home is an oasis, The Green Place, in the wastelands, and she has to protect it. One of the scavengers captures and kidnaps Furiosa. Valkyrie warns their mother, Mary. Mary finds Furiosa but gets captured by Dementus, the biker leader. Dementus sees Furiosa is in good health and demands to know her origin. Both refuse to talk. So Dementus makes Furiosa watch as he kills her mother.<br/><br/>Dementus sees his men are starving and orders Immortan Joe, ruler of the Citadel, to give his people more food and water. When Joe doesn't listen, Dementus captures the ruler of Gastown and brings him to the Citadel. Joe gives in to some of Dementus's requests and makes Dementus the new ruler of Gastown. However, Joe wants Furiosa as a future wife because she has never been sick. Furiosa must escape Joe, get revenge for Mary, and return to The Green Place.<br/><br/>This prequel has the action you expect from the Mad Max series while answering fanatics' questions about Furiosa. This installment tells you who kidnapped her, what happened to her arm, the start of her face paint, and how she developed into a War Rig commander and Imperator. Also, this movie, unlike its predecessor, is told in four parts - The Pole Inaccessibility, Lessons from the Wasteland, The Stowaway, and Homeward. And the director brilliantly connected the two movies for die-hard fans in the last scene. When there isn't an explosion to rely on, the dialogue and storytelling dulls.<br/><br/>4 out of 5 stars.",
     "asin": {
