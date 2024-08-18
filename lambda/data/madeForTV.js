@@ -1,47 +1,47 @@
 var madeForTV = [
   {
-    "option": "1",
+    "option":"1",
+    "mtitle":"Terry McMillan Presents: Tempted by Love",
+    "review":"Chef Ava finishes a successful night and rides home. She gets a call saying her Aunt Judy sustained an injury. Ava catches the first flight to South Carolina. She calls a car service to pick her up from the airport to go to Judy's hospital bedside. The driver, Luke, is chatty. Before Ava enters the hospital, Luke shares his contact information with her. Now, she can call him whenever she needs help.<br/><br/>Judy complains to the hospital staff about black-eyed peas. Then, Ava tells Judy she is at a crossroads. Her doctor diagnosed her with rheumatoid arthritis, and Ava hasn't made progress with her cookbook. As Judy guides Ava, Ava gets a phone call. Ava lost her job. Luke enters with a bowl of black-eyed peas and he offers Ava a taste. Luke admits he wants to get his contractor license or go to cooking school. Ava is impressed with the dish but suggests he use pork stock instead of chicken.<br/><br/>Later, Ava calls Luke to install safety railings in Judy's home. Ava quietly checks out Luke when her phone rings. Her ex-boyfriend calls because he wants to propose to his new girlfriend at Ava's old job. Ava hangs up the phone to find Luke standing behind her. Ava feels pathetic. Luke doesn't want to leave Ava alone. So he gives her two options: spend time with him at a restaurant or watch trash TV together in Judy's home. Ava agrees to go out but refuses to call it a date. Ava believes Luke is too young, but he is ready to prove her wrong. Can Luke convince Ava that age doesn't matter?<br/><br/>Take a breath Lifetimers. This movie isn't the craziness and mayhem you expect. It's a story about Ava learning to love and allowing someone to love her. Their love story won't end as expected, but it shows Ava's maturity. This film is like a book. It takes time for the plot to captivate you, but it allows you to fall in love slowly. If you need a break from craziness, this movie is for you, but it's not for younger viewers.<br/><br/>4.5 out of stars.",
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanpresentstemptedbylove.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanpresentstemptedbylove.jpg"
+    }
+    },
+    {
+    "option":"2",
+    "mtitle":"My Son's Deception",
+    "review":"Jackson's family greets him with a surprise party. His uncle, Coach Pete, and mother, Maria, sing Happy Birthday. Later, Pete tells Jackson he is on the shortlist for the San Francisco University Soccker Scholarship. Jackson asks if his friend, teammate Tyler, made it. Sadly, he did not.<br/><br/>Tyler and Jackson talk after practice. Tyler teases Jackson and gets a text from his job. Tyler shows off his gold chain as the fruits of his labor. Jackson drops Tyler off at the Blue Fox Social Club and notices everyone wearing a fox mask. Tyler asks Jackson to consider working at the Blue Fox, but Jackson rejects him and drives to the diner.<br/><br/>Maria owns and operates a local restaurant, but local land development hurts her business. Pete comes inside after hours, and Maria shows him a letter she got from the development company. They want to buy her café for a lot of money. Unbeknownst to Maria and Pete, Jackson overhears their conversation. Jackson and Maria converse after Pete leaves. Jackson offers to help more, but Maria refuses.<br/><br/>Jackson chooses to work at the Blue Fox Social Club and asks Tyler for help. Tyler invites Jackson to the club, and Myles welcomes Jackson. Myles informs Jackson that the mask helps patrons lower their inhibitions. Jackson's job is to entertain, but Jackson can dictate how far he wants to go. But the more Jackson does, the more customers will pay. Tyler comes to practice the next day and hands Jackson an envelope full of money. Jackson gives the cash to Maria. Jackson believes that he uncovered the answer to Maria's money woes. However, his service job will lead him to a life of guns, sex work, and murder.<br/><br/>One secret in this plot is unchallenging for Lifetimers to discover. But the second will make your head spin with one word. That unexpected twist saves the movie. Viewers will question Maria's actions, but you will learn she is parenting from guilt. She is deceiving Jackson, as he is her. There are a few unnecessary scenes, and the final fight is laughable. However, this movie is a decent way to spend two hours.<br/><br/>3 out of stars.",
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysonsdeception.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysonsdeception.jpg"
+    }
+    },
+    {
+    "option":"3",
+    "mtitle":"Stalked by My Amish Boyfriend",
+    "review":"Carly will be alone this summer because her best friend, Jenna, will spend the summer with family. On the first day of summer break, Carly purchases a coffee from a café and requests free water to take her heart medication. She turns and bumps into Abram, dropping her coffee on the floor. Carly and Abram dated over the summer. Abram tells Carly he is Amish, and they continue to spend time together until Carly breaks up with him.<br/><br/>Jenna returns and is happy to start college with Carly. Carly attends classes and shockingly sees Abram. He enrolled after getting a high school diploma through the mail and leaving his community. Carly and Abram start dating again. Jenna flirts with a student staff member to learn about Abram's enrollment. She uncovers that he isn't a member of the student body. She runs to Abram and demands he leave Carly and the school. Jenna goes to the bathroom, and someone knocks her out.<br/><br/>Jenna reports the attack to Officer Morgan and blames Abram. Carly believes Jenna has abandonment issues and envies her relationship. After a few days, Carly feels Abram is smothering her. She asks to take a break and hangs out with her friend, Wyatt. Abram sees them and attacks Wyatt. Carly pulls out her phone to call 911, but Abram hits her. Abram kidnapped Carly, stole her phone, and texted her family and friends. And he never plans to let her go. Can Carly escape a madman?<br/><br/>Carly, you picked the wrong Amish boyfriend. Viewers will give Jenna a suspicious look at the movie's start because she spends every moment weaving herself into Carly's life. However, her warnings are correct but fall on blocked ears. Carly spends more time defending her relationship than evaluating it. This film has the wild plot Lifetimers crave. It doesn't become shocking in the last 15 minutes. It starts deranged and ramps up. Your flesh will crawl as you laugh and yell at the TV. This movie is what viewers beg for.<br/><br/>5 out of stars.",
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalkedbymyamishboyfriend.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalkedbymyamishboyfriend.jpg"
+    }
+    },
+    {
+    "option":"4",
+    "mtitle":"My Dreams of You",
+    "review":"Grace has a dream about inviting a man, Michael, to sit with her. They converse, and she finally learns his first name but doesn't get his last. She asks her sister, Becky, if she remembers Michael. Grace assumes the man is from their past, but Becky and Grace can't place him.<br/><br/>After finishing her temp job, Grace gets in her car, and Becky texts her. Becky arranged a blind date for Grace and her friend, John. Grace goes but spends the night looking for Michael. That night, she dreams of leaving John and dancing with Michael. She wakes up and wonders about the source of her Michael dreams.<br/><br/>Harvey walks recruits around Dream Central. They collect and store people's memories and use them for their dreams to inspire them. Harvey warns that they can only use their subject's memories. Newbie Alura admires her handiwork with Grace. Alura will go before the dream counsel to review her work. She watches VHS tapes of Grace's memories for inspiration. Then Alura pulls the tape out to put it in its sleeve and realizes she made a mistake. She used Michael's memories for Grace's dreams and vice versa. She runs to Harvey to explain the mishap, and Harvey wants to fix the issue now.<br/><br/>Harvey and Alura hijack Grace's latest dream and bring Grace to Dream Central. They clarify their jobs, the confusion, and the fix. They will wipe Michael from Grace's mind. Also, Grace can never meet Michael. Before Grace can agree, Becky shakes Grace out of her slumber. Grace remembers everything Alura said, including Michael's last name, occupation, and location.<br/><br/>Grace finds Michael's profile and takes a rideshare to watch Michael perform. Grace introduces herself, but he doesn't recognize her. Grace leaves and wallows at a diner. Michael enters, and they strike up a conversation. He remembers that Grace's grandmother resides in the same city as his next gig. He invites Grace to accompany him and visit her grandmother. Grace is unsure until she sees Harvey and Alura. She knows they are there to take her memories of Michael. She agrees to go and pulls Michael on the train. Harvey notifies Alura they must find and stop Grace before she does more damage and ruins Alura's job. Will love prevail, or will dreams die?<br/><br/>This story has the Hallmark premise but with a mystical twist. And you will love it. It's charming, whimsical, funny, and inspiring. The Dream Center uses people's memories to help them realize their full potential. Michael and Grace dream of a career in the arts. However, their concerned families want them to find stable work with guaranteed pay. As they discuss their dreams, they encourage each other, and you can see their eyes light up. This film reminds you that dreams have a purpose.<br/><br/>4.5 out of stars.",
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mydreamsofyou.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mydreamsofyou.jpg"
+    }
+    },
+  {
+    "option": "5",
     "mtitle": "Miss Cleo: Her Rise and Fall",
     "review": "Youree runs lines before her sold-out performance at a community center. She leaves rehearsals early after a script disagreement, and the director, Carl, runs after her. Everyone knows she got a grant, and they want her to pay them now. Youree won't budge and drives home. She leaves with her daughters and the theater's grant money.<br/><br/>Youree arrives in Fort Lauderdale with her daughters, Crystal and Lena. She looks at the newspaper for jobs and finds one for the Psychic Readers Network. The manager hands Youree a document and tells her to sign it. It states that Youree is a psychic. She signs and gets on the phone. Youree goes off script, fakes a Jamaican accent, brings tarot cards to work, and calls herself Miss Cleo. She becomes Fort Lauderdale's #1 phone psychic.<br/><br/>Peter enters a frustrated Steven's office. Their telecommunications company dwindles, and Steven needs help. Peter gives Steven the Fort Lauderdale numbers and delightfully says they are from one operator. Peter tells Steven to arrange a meeting with Youree.<br/><br/>Peter and Steven meet with Youree. They ask her to become a spokesperson for the network. Steven likes her style but wants to change Miss Cleo's backstory. Youree agrees to become the face of the network after dinner. For Youree, this is another acting job. However, she's joined a billion-dollar scam.<br/><br/>First, The Lady of Rage pulls an award-winning performance in this movie. Next, the writers ensured they didn't make Miss Cleo a hero. Viewers should listen closely during Youree's first meeting with Peter and Steven. Steven uses many words to say they are collecting and selling customer information without their knowledge. During her fall, Youree's status makes her the face of the scam, and falsely, the mastermind. Some viewers may consider this unfair, while others say it's karma. This conclusion leaves that decision to the audience. So, watch and judge for yourself.<br/><br/>5 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/misscleoherriseandfall.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/misscleoherriseandfall.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "Stepmom from Hell",
-    "review": "Izzy returns home to pitch her app, Trusting Paws, to investors. However, they don't want to invest after they discover her father, Jack, isn't behind it. Izzy travels to Jack's home for a party. Jack is celebrating the 30th anniversary of his company. As Izzy and Jack converse, Jack notices Izzy's stepsister, Dana, walk past. Jack stands on the steps to give a speech to his dedicated workers. However, he forgets who they are halfway through.<br/><br/>Dana informs Izzy that Jack hasn't kept up with the expansion. Izzy is happy Jack has Catherine, but Dana speaks poorly about her mother. Jack sits down, and Dana tries to talk about the issues. However, Jack cuts her off and tells Dana to give the problems to his secretary, Terry. Jack tells Izzy he wants her to take over the business while she gets her app off the ground. Izzy relents.<br/><br/>Izzy enters the office on Sunday to look around. Days earlier, someone broke in and rummaged through the files but didn't steal anything. Izzy looks through the file room and sees a bank statement for $700,000. Someone transferred the money from Jack's business account to the Credence Account. Later, Izzy spots Terry shredding documents on the business's day off. She questions Terry, and Dana answers. Dana warns Izzy to back off and leave them to handle things.<br/><br/>Izzy visits his father and finds him on the bathroom floor with blood on his head. She begs Catherine to call 9-1-1, but Catherine calls Dr. Jeffery. Izzy pulls Dr. Jeffery aside and alerts him about Jack's memory loss. Dr. Jeffery tells Izzy to bring Jack into his office immediately.<br/><br/>Dr. Jeffery asks Jack questions and believes Jack has the early signs of dementia. Then, Catherine barges into the room and threatens Dr. Jeffery and Izzy. Later, Catherine serves Izzy with a restraining order. Izzy won't back down because Dana and Catherine are trying to take her father and his company. Can she prove it before they take it all?<br/><br/>This movie is a slow burn with strange backing tracks and bad lighting. As the title states, Catherine is the perfect villain. She is loving, charming, and fun when you meet her. But Dana warns Izzy that Catherine has a dark side. She is pure evil. Her monologue blares with narcissism and contempt. This film seems slow. However, the last 30 minutes will thrill you if you stick it out.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/stepmomfromhell.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/stepmomfromhell.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "The Neighbor Who Saw Too Much",
-    "review": "Hayley moves into the new home of her sister, Diane, after their mother's death. Diane greets their neighbor, Jason, while loading boxes into the house. Hayley FaceTimes her friend, Chrissy, and complains about her new room.<br/><br/>Flight attendant Diane informs teen Hayley that she has a Tokyo flight. So Hayley will be home alone for two nights. Hayley throws a raging party with underage drinking. The neighbors call the police, and the police arrest Hayley. The social worker warns Diane that she could lose custody of Hayley if this happens again. Diane takes a demotion to domestic travel to spend more time at home.<br/><br/>Chrissy spends the night. She and Hayley notice Jason bring a woman home, and they watch him from Hayley's window. Later, Hayley sees a woman screaming for her life while someone attacks her. Hayley hears a news report about a missing woman named Layla. Hayley believes Layla is the woman she saw entering Jason's home. Hayley thinks Jason is a killer. Now, she has to prove it.<br/><br/>It won't take long for Lifetimers to despise Hayley. She is a bratty teen who causes Diane's demotion, jeopardizes Chrissy's life, and endangers herself numerous times. Hayley never regrets her actions and makes everything worse. Viewers should watch only to cheer for Jason.<br/><br/>2.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theneighborwhosawtoomuch.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theneighborwhosawtoomuch.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Junebug",
-    "review": "Book editor Juniper walks into Aurora Roasters and requests coffee. She sips and realizes she got the wrong one. Juniper signals the man, artist Alex, before her and informs him that he got her coffee. Juniper leaves for work. Juniper's boss, Paula, wants them to watch for new illustrators and authors for their children's books.<br/><br/>Juniper's parents come to her home and give Juniper her wish box. She put her wishes in a box when she was eight years old. Juniper takes the box and puts it aside.<br/><br/>Juniper sits on her bed and opens the wish box. Inside, Juniper has three wishes. She wanted everyone in her kingdom to be happy, to make her dreams come true, and to meet a knight. Juniper believes she has achieved one of those dreams and goes to sleep. She walks up to find an 8-year-old girl in her bed and screams. The girl says her name is Junebug. Juniper realizes Junebug is her. Junebug believes she's there to help Juniper through a crisis. Juniper tells Junebug to leave, and surprisingly, Junebug does.<br/><br/>Juniper wakes and assumes she dreamt of Junebug until Junebug disapproves of her clothes. Juniper walks to the coffee shop with Junebug following. Junebug won't leave until Juniper accomplishes her 8-year-old dreams. She wants Juniper to become a writer and find a knight while keeping her family and friends happy.<br/><br/>This movie perfectly handles reconnecting to your childhood. Juniper discovers her fears hold her back. It just takes a tiny nudge, scream, and threat from Junebug. Juniper finds happiness with a few scary but life-affirming decisions. This film is a delightful twist to the Hallmark formula that will make you smile and cheer. Enjoy this lighthearted and lovable romantic comedy.<br/><br/>4.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/junebug.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/junebug.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "I Thought My Husband's Wife Was Dead",
-    "review": "Pregnant Layla talks to her husband, Leo, on the phone while he is away for business. Layla ends the call and hears someone banging on her door. Shocked, Layla sees a homeless woman calling herself Leo's dead wife, Vikki. Through the doorbell camera, Vikki tells Layla she is alive and wants her life back. Vikki leaves and spends the night on a bathroom floor.<br/><br/>Vikki walks into Karing Salon for a job. So the owner, Kerin, offers Vikki a job in exchange for room and board while Vikki looks for a better position. Karin asks her to take a pregnant woman to the hospital because the woman is having complications. The woman, Layla, refuses Vikki's help until the pains worsen. Vikki drives Layla to the hospital.<br/><br/>The doctor puts Layla on bed rest, and Vikki drives Layla home. Vikki takes advantage of the situation and steals Layla's clothes and shoes. Vikki takes a nap on Layla's sofa and cooks after waking. Vikki jumps and lunges a knife when she hears a noise behind her. It's Leo, and she cuts him. He wants to know where Vikki has been.<br/><br/>Vikki explains that a man grabbed her while she was running in the woods five years ago. She calls him the monster. Then, he shot her and left her for dead. Vikki's father died before her kidnapping and left $80,000. She wants that money and one of Leo's cars to start over. Leo confesses that they are broke. Vikki demands the money by the end of the week or else. She takes cash from Leo's wallet and his car. Layla and Leo want Vikki out of their lives, but Vikki won't make it easy.<br/><br/>Based on Unmissing by Minka Kent, this movie is a visual chess game. Characters say things that feel trivial but return in the wrap-up. It will make viewers' heads spin. Layla is a greedy woman who purchases two of everything and knows their family's financial woes. Leo moved on from Vikki but traces of Vikki are in his restaurant in loving and disturbing ways. And Vikki is a forgotten woman scorned. You won't know who comes out on top until the last 3 minutes.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ithoughtmyhusbandswifewasdead.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ithoughtmyhusbandswifewasdead.jpg"
     }
   }
 ];
@@ -58,38 +58,47 @@ module.exports = madeForTV;
 
 {
 "option":"1",
-"mtitle":"Terry McMillan Presents: Tempted by Love",
-"review":"<br/><br/>* out of stars.",
+"mtitle":"Terry McMillan Presents: Forever",
+"review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanpresentstemptedbylove.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanpresentstemptedbylove.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanpresentsforever.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanpresentsforever.jpg"
 }
 },
 {
 "option":"2",
-"mtitle":"My Son's Deception",
-"review":"<br/><br/>* out of stars.",
+"mtitle":"Nelly Knows Mysteries: A Fatal Engagement",
+"review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysonsdeception.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysonsdeception.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nellyknowsmysteriesafatalengagment.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nellyknowsmysteriesafatalengagment.jpg"
 }
 },
 {
 "option":"3",
-"mtitle":"Stalked by My Amish Boyfriend",
-"review":"<br/><br/>* out of stars.",
+"mtitle":"Bonds Will Be Broken",
+"review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalkedbymyamishboyfriend.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalkedbymyamishboyfriend.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bondswillbebroken.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bondswillbebroken.jpg"
 }
 },
 {
 "option":"4",
-"mtitle":"My Dreams of You",
-"review":"<br/><br/>* out of stars.",
+"mtitle":"Trapped in the Rocky Mountains",
+"review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mydreamsofyou.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mydreamsofyou.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedintherockymountains.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trappedintherockymountains.jpg"
+}
+},
+{
+"option":"5",
+"mtitle":"A Costa Rican Wedding",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/acostaricanwedding.jpeg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/acostaricanwedding.jpeg"
 }
 }
 
