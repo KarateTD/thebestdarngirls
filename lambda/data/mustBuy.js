@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Kingdom of the Planet of the Apes",
+    "review": "A human-made virus increased apes' intelligence and gave them the ability to speak, but it did the opposite for humans. One of the apes led them to prosperity. His name was Caesar, but he died many generations ago. Today, the Eagle Clan is a close-knit group that will celebrate the bonding ceremony at sunrise. Noa, urged by his mother, runs to his father, Koro, with his eagle egg. Koro is proud but smells a unique scent on Noa's blanket. Noa admits an Echo - their name for a human - took his blanket, but Noa retrieved it. Koro demands to know if Noa went into the valley. Noa truthfully says no.<br/><br/>Noa catches an odor coming from a tent and investigates. He finds a female Echo hiding inside and scares it away. The Echo charges past him and breaks his egg. He needs it for the ceremony. So, he travels into the forest to get a new one. He hears the Coastal Clan riding on their horses and hides. They see Noa's horse in the woods, shock it, and follow it to the Eagle Clan.<br/><br/>Noa hurries home to warn the others, but it's too late. Proximus, leader of the Coastal Clan, had his army attack the Eagle clan and take them prisoner. Noa wakes up in the morning. The Coastal Clan killed Koro and stole the Eagle Clan. Noa travels through the valley and vows to bring them back. Noa will learn the truth about Caesar, the Echos, and Proximus's greatest desire. Proximus is hunting the female Echo because she is the key to the evolution of his Kingdom of Apes.<br/><br/>This latest Planet of the Apes installment has mesmerizing graphics, heart-warming laughs, and a captivating storyline. The plot slows when Noa uncovers Promxius's plan and meets Raka. Don't get confused. This film occurs several generations after Caesar died. One thing Apes and Humans want is knowledge. It's the key to their survival, but can they coexist? This plot point is the movie's standout. Planet fans should keep their eyes and ears open for a few easter eggs. And there aren't any post-credit scenes, but the movie leaves room for another film.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0D8J9HYGD"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/kingdomoftheplanetoftheapes.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/kingdomoftheplanetoftheapes.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "IF",
     "review": "Elizabeth, better known as Bea, temporarily moves in with her grandmother during her father's treatment. For Bea, this brings back memories of when she lost her mother. Her mother encouraged her to tell stories, perform, and play make-believe. Her dad does the same with his joyful attitude.<br/><br/>After visiting her dad, Bea sees a young girl running in the hallway. Bea chases after her, but the girl runs into the top-floor apartment. Bea knocks, and a man answers without opening the door. The man answers that no girl lives there.<br/><br/>Bea finds an old camcorder and plays the tape inside. It's a recording of happier times with her mother. Then she sees the man and girl outside her window. Bea follows them down the street and watches the man enter a brownstone. Inside the home, the man, Cal, asks Blue to come out of the closet. Outside, Bea sees Blue's large purple hand open the bedroom window. She turns in disbelief and sees the girl from the apartment. But she is not human. Bea faints.<br/><br/>Bea wakes up in Cal's apartment, and the 'girl,' Blossom, makes Bea tea. Blue explains that they are IF, an acronym for Imaginary Friend. The kids that manifested them grew up. Cal is a matchmaker of sorts. He is helping them find new kids to match with. Bea gets an idea. They will locate the kids who created them as adults now. If they can get the adults to remember them, maybe they'll save the IFs. Bea, who tries to be an adult, will discover the beauty in fun and imagination.<br/><br/>This film is an astounding, heartfelt story that asks, 'What IF.' Viewers must catch this movie from the beginning. The script delivers the lovely relationship between Bea and her parents in a montage. Seeing the IFs helps Bea find joy in having fun again. The script shows the audience the importance of Imaginary Friends then and now. And the score will make your heart swell with excitement. You will want the DVD to uncover what they left on the cutting room floor. If you saw this movie, don't ruin the twist. But adults may see it coming.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "Furiosa: A Mad Max Saga",
     "review": "Furiosa plucks fruit with her sister, Valkyrie, when she sees scavengers in their woods. Furiosa's home is an oasis, The Green Place, in the wastelands, and she has to protect it. One of the scavengers captures and kidnaps Furiosa. Valkyrie warns their mother, Mary. Mary finds Furiosa but gets captured by Dementus, the biker leader. Dementus sees Furiosa is in good health and demands to know her origin. Both refuse to talk. So Dementus makes Furiosa watch as he kills her mother.<br/><br/>Dementus sees his men are starving and orders Immortan Joe, ruler of the Citadel, to give his people more food and water. When Joe doesn't listen, Dementus captures the ruler of Gastown and brings him to the Citadel. Joe gives in to some of Dementus's requests and makes Dementus the new ruler of Gastown. However, Joe wants Furiosa as a future wife because she has never been sick. Furiosa must escape Joe, get revenge for Mary, and return to The Green Place.<br/><br/>This prequel has the action you expect from the Mad Max series while answering fanatics' questions about Furiosa. This installment tells you who kidnapped her, what happened to her arm, the start of her face paint, and how she developed into a War Rig commander and Imperator. Also, this movie, unlike its predecessor, is told in four parts - The Pole Inaccessibility, Lessons from the Wasteland, The Stowaway, and Homeward. And the director brilliantly connected the two movies for die-hard fans in the last scene. When there isn't an explosion to rely on, the dialogue and storytelling dulls.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "Babes",
     "review": "Babes was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "The Fall Guy",
     "review": "The Fall Guy was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/fallguy.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/fallguy.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Ezra",
-    "review": "Ezra was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0D294KQFM"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ezra.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ezra.jpeg"
     }
   }
 ];
@@ -107,6 +107,19 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/scrambled.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/scrambled.jpeg"
+    }
+  }
+
+   {
+    "option": "1",
+    "mtitle": "Slingshot",
+    "review": "Slingshot was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+     "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/slingshot.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/slingshot.jpg"
     }
   }
 
@@ -211,6 +224,16 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deadpoolandwolverine.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deadpoolandwolverine.jpg"
+    }
+  }
+
+  {
+    "option": "4",
+    "mtitle": "Trap",
+    "review": "Cooper smiles as his daughter, Riley, dances and sings to her favorite artist, Lady Raven. As they wait in line to scan their tickets, Cooper notices officers with high-powered rifles.<br/><br/>They settle into their seats as Lady Raven performs for 20,000 people. Cooper spots police officers taking men out of the audience. Cooper enters the bathroom stall, pulls out his phone, and checks on Spencer. Spencer is the person Cooper chained in a basement. Cooper gleams as Spencer pulls his chains, cries, and begs for help.<br/><br/>During the intermission, Riley wants concert merchandise. The vendor, Jamie, loves Cooper's example. He offers to find another shirt later if Cooper returns in 10 minutes. Cooper pulls Jamie aside and asks why the arena has a vast police presence. Jamie whispers that the concert is a trap. The FBI discovered that 'The Butcher' would be there. The Butcher is a notorious serial killer who dismembered a dozen victims. They have SWAT covering every exit, FBI profiler Dr. Josephine Grant in The Butcher's head, and they will stop every man.<br/><br/>Cooper tests the security. He sees a drunken girl wobbling near a staircase. He bumps into her, and she falls. Arena security runs to her aid, but SWAT doesn't move. Cooper has to find a way out of the trap without tipping off Riley. Can he make it out?<br/><br/>This movie builds slowly for 15 minutes to allow the audience to see Cooper's bond with Riley and Riley's admiration for Lady Raven. Viewers will notice little quirks in Cooper's character before he sits with his daughter. It's not until Cooper looks at his phone that you understand the depths of his depravity. Cooper maneuvers around the arena with precision, finesse, and dumb luck. With this director, you expect a twist. However, there are several that will keep you guessing. Don't be surprised if you root for Cooper.<br/><br/>4.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/trap.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/trap.jpeg"
     }
   }
     
