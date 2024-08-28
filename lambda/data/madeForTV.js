@@ -1,47 +1,47 @@
 var madeForTV = [
   {
-    "option":"1",
-    "mtitle":"Terry McMillan Presents: Tempted by Love",
-    "review":"Chef Ava finishes a successful night and rides home. She gets a call saying her Aunt Judy sustained an injury. Ava catches the first flight to South Carolina. She calls a car service to pick her up from the airport to go to Judy's hospital bedside. The driver, Luke, is chatty. Before Ava enters the hospital, Luke shares his contact information with her. Now, she can call him whenever she needs help.<br/><br/>Judy complains to the hospital staff about black-eyed peas. Then, Ava tells Judy she is at a crossroads. Her doctor diagnosed her with rheumatoid arthritis, and Ava hasn't made progress with her cookbook. As Judy guides Ava, Ava gets a phone call. Ava lost her job. Luke enters with a bowl of black-eyed peas and he offers Ava a taste. Luke admits he wants to get his contractor license or go to cooking school. Ava is impressed with the dish but suggests he use pork stock instead of chicken.<br/><br/>Later, Ava calls Luke to install safety railings in Judy's home. Ava quietly checks out Luke when her phone rings. Her ex-boyfriend calls because he wants to propose to his new girlfriend at Ava's old job. Ava hangs up the phone to find Luke standing behind her. Ava feels pathetic. Luke doesn't want to leave Ava alone. So he gives her two options: spend time with him at a restaurant or watch trash TV together in Judy's home. Ava agrees to go out but refuses to call it a date. Ava believes Luke is too young, but he is ready to prove her wrong. Can Luke convince Ava that age doesn't matter?<br/><br/>Take a breath Lifetimers. This movie isn't the craziness and mayhem you expect. It's a story about Ava learning to love and allowing someone to love her. Their love story won't end as expected, but it shows Ava's maturity. This film is like a book. It takes time for the plot to captivate you, but it allows you to fall in love slowly. If you need a break from craziness, this movie is for you, but it's not for younger viewers.<br/><br/>4.5 out of stars.",
-    "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanpresentstemptedbylove.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanpresentstemptedbylove.jpg"
+    "option": "1",
+    "mtitle": "Terry McMillan Presents: Forever",
+    "review": "Johnnie returns home after his wife, Tina, served him with divorce papers on base. Johnnie demands his car keys and drives away. Police officers Carlie and Levi pull Johnnie over. Levi recognizes Johnnie as a hometown baseball hero. He asks Carlie to let Johnnie off with a warning because his registration expired. She agrees, but he must drive straight home.<br/><br/>Johnnie orders and sees a young man, Tim, harassing a young woman, Leslie. Johnnie tells Tim to leave Leslie alone, or Johnnie will disqualify Tim from making the baseball team. Tim lunges for Lesley again when Leslie's mother, Carlie, enters. Carlie forces Tim to leave and grounds Leslie for poor grades. Then, she turns to Johnnie and questions him about not going home like he promised. Johnnie asks Carlie on a date. She says no because she has three daughters, Lesley, Courtney, and Tessa. While he's never dated a woman with kids, Johnnie isn't scared to try. He asks Carlie for a chance. This choice will be Carlie's forever.<br/><br/>This movie feels typical on the surface. However, it shocks like Terry's books. Carlie and Johnnie fall for each other but deal with integrating him into the family. As life eases, they get a gut punch that will leave your jaw on the floor. She wants Johnnie to feel welcome but needs her daughters to feel heard. Johnnie learns that dating a woman with kids comes with different priorities. Viewers should not give up on this film too soon because it will take you through the emotional gauntlet.<br/><br/>4.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanpresentsforever.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanpresentsforever.jpg"
     }
-    },
-    {
-    "option":"2",
-    "mtitle":"My Son's Deception",
-    "review":"Jackson's family greets him with a surprise party. His uncle, Coach Pete, and mother, Maria, sing Happy Birthday. Later, Pete tells Jackson he is on the shortlist for the San Francisco University Soccker Scholarship. Jackson asks if his friend, teammate Tyler, made it. Sadly, he did not.<br/><br/>Tyler and Jackson talk after practice. Tyler teases Jackson and gets a text from his job. Tyler shows off his gold chain as the fruits of his labor. Jackson drops Tyler off at the Blue Fox Social Club and notices everyone wearing a fox mask. Tyler asks Jackson to consider working at the Blue Fox, but Jackson rejects him and drives to the diner.<br/><br/>Maria owns and operates a local restaurant, but local land development hurts her business. Pete comes inside after hours, and Maria shows him a letter she got from the development company. They want to buy her café for a lot of money. Unbeknownst to Maria and Pete, Jackson overhears their conversation. Jackson and Maria converse after Pete leaves. Jackson offers to help more, but Maria refuses.<br/><br/>Jackson chooses to work at the Blue Fox Social Club and asks Tyler for help. Tyler invites Jackson to the club, and Myles welcomes Jackson. Myles informs Jackson that the mask helps patrons lower their inhibitions. Jackson's job is to entertain, but Jackson can dictate how far he wants to go. But the more Jackson does, the more customers will pay. Tyler comes to practice the next day and hands Jackson an envelope full of money. Jackson gives the cash to Maria. Jackson believes that he uncovered the answer to Maria's money woes. However, his service job will lead him to a life of guns, sex work, and murder.<br/><br/>One secret in this plot is unchallenging for Lifetimers to discover. But the second will make your head spin with one word. That unexpected twist saves the movie. Viewers will question Maria's actions, but you will learn she is parenting from guilt. She is deceiving Jackson, as he is her. There are a few unnecessary scenes, and the final fight is laughable. However, this movie is a decent way to spend two hours.<br/><br/>3 out of stars.",
-    "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mysonsdeception.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mysonsdeception.jpg"
+  },
+  {
+    "option": "2",
+    "mtitle": "Nelly Knows Mysteries: A Fatal Engagement",
+    "review": "Nelly reports to work and discusses her column with Fiona. Nelly cycles through her mail and finds a letter without a return address. The letter is from a woman who suspects her boyfriend of cheating. Nelly, from the small town of Babbleton, knows everyone and recognizes the hearts above the I's. The letter is from Dahlia, who is dating Blake. Nelly wants to handle this face-to-face.<br/><br/>Nelly arrives at Blake's workshop and finds the door open. She peers inside and finds Blake dead with $20,000 in his pocket. Nelly calls the police. Sheriff Burgi introduces Nelly to the new detective, Michael. Michael interviews Nelly about finding the body. Nelly reveals everything and hands Michael the cash. Burgi gives this case to Michael to prove himself, but she tells Michael to work with Nelly because Nelly knows the town. Dahlia says she spoke to Blake the night before, but he rushed her off the phone. She doesn't think he was cheating but keeping a secret. Nelly tells Dahlia to talk to Michael but convinces Michael to let her sit with Dahlia during the interview. Dahlia completes the interrogation, and Michael allows her to exit, but she remains a suspect. Nelly promises to clear Dahlia's name. Can Nelly and Michael find Blake's killer?<br/><br/>This plot has several moving parts and people with bad intentions. The night before Blake's murder, Blake had a poker game. Each player had a secret. Blake has a neighbor, Rumple, who dislikes him and his prior devious acts. Nelly is a new type of protagonist for Hallmark Mystery fans. She is unapologetically happy and keeps an earth-shattering grin on her face. However, you learn that her smile holds a lot of pain. The wrap-up pushes lots of information in 10 minutes and will require a second watch to keep up. Nevertheless, this film can become a series with a developing romance.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/nellyknowsmysteriesafatalengagment.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nellyknowsmysteriesafatalengagment.jpg"
     }
-    },
-    {
-    "option":"3",
-    "mtitle":"Stalked by My Amish Boyfriend",
-    "review":"Carly will be alone this summer because her best friend, Jenna, will spend the summer with family. On the first day of summer break, Carly purchases a coffee from a café and requests free water to take her heart medication. She turns and bumps into Abram, dropping her coffee on the floor. Carly and Abram dated over the summer. Abram tells Carly he is Amish, and they continue to spend time together until Carly breaks up with him.<br/><br/>Jenna returns and is happy to start college with Carly. Carly attends classes and shockingly sees Abram. He enrolled after getting a high school diploma through the mail and leaving his community. Carly and Abram start dating again. Jenna flirts with a student staff member to learn about Abram's enrollment. She uncovers that he isn't a member of the student body. She runs to Abram and demands he leave Carly and the school. Jenna goes to the bathroom, and someone knocks her out.<br/><br/>Jenna reports the attack to Officer Morgan and blames Abram. Carly believes Jenna has abandonment issues and envies her relationship. After a few days, Carly feels Abram is smothering her. She asks to take a break and hangs out with her friend, Wyatt. Abram sees them and attacks Wyatt. Carly pulls out her phone to call 911, but Abram hits her. Abram kidnapped Carly, stole her phone, and texted her family and friends. And he never plans to let her go. Can Carly escape a madman?<br/><br/>Carly, you picked the wrong Amish boyfriend. Viewers will give Jenna a suspicious look at the movie's start because she spends every moment weaving herself into Carly's life. However, her warnings are correct but fall on blocked ears. Carly spends more time defending her relationship than evaluating it. This film has the wild plot Lifetimers crave. It doesn't become shocking in the last 15 minutes. It starts deranged and ramps up. Your flesh will crawl as you laugh and yell at the TV. This movie is what viewers beg for.<br/><br/>5 out of stars.",
-    "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/stalkedbymyamishboyfriend.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/stalkedbymyamishboyfriend.jpg"
+  },
+  {
+    "option": "3",
+    "mtitle": "Bonds Will Be Broken",
+    "review": "Janine talks to Kelly about the 'Becoming You' seminar. Kelly promises it will lead Janine to enlightenment. Janine pays $300 and attends the meeting. Janine spends more time with Kelly before going to meet with Victor. Victor is an investigative journalist writing a report on a dangerous cult. Anna infiltrated the seminar with the name Janine. Anna has worked on the cult for three months with little progress. She wants to speed things up to find her sister, Nina. Nina went missing after going to a seminar. Anna plans to rescue and deprogram Nina, but Anna has to find Nina first. Anna will gain Kelly's trust and get closer to Ray. Then, Ray will bring Anna to their cabin. She will meet the leader, David, and hopefully, find Nina. Victor warns Anna to be careful and don't get in too deep. He believes this cult has killed and will kill again.<br/><br/>This film displays the BITE model and cult practices. He love-bombs them with acceptance after destroying their confidence. These moments don't compel you to watch. It's the second Nina sees Anna. Her response will floor you. It will make you sit up and watch until the end. This film won't be a favorite, but it's worth your time.<br/><br/>3 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/bondswillbebroken.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/bondswillbebroken.jpg"
     }
-    },
-    {
-    "option":"4",
-    "mtitle":"My Dreams of You",
-    "review":"Grace has a dream about inviting a man, Michael, to sit with her. They converse, and she finally learns his first name but doesn't get his last. She asks her sister, Becky, if she remembers Michael. Grace assumes the man is from their past, but Becky and Grace can't place him.<br/><br/>After finishing her temp job, Grace gets in her car, and Becky texts her. Becky arranged a blind date for Grace and her friend, John. Grace goes but spends the night looking for Michael. That night, she dreams of leaving John and dancing with Michael. She wakes up and wonders about the source of her Michael dreams.<br/><br/>Harvey walks recruits around Dream Central. They collect and store people's memories and use them for their dreams to inspire them. Harvey warns that they can only use their subject's memories. Newbie Alura admires her handiwork with Grace. Alura will go before the dream counsel to review her work. She watches VHS tapes of Grace's memories for inspiration. Then Alura pulls the tape out to put it in its sleeve and realizes she made a mistake. She used Michael's memories for Grace's dreams and vice versa. She runs to Harvey to explain the mishap, and Harvey wants to fix the issue now.<br/><br/>Harvey and Alura hijack Grace's latest dream and bring Grace to Dream Central. They clarify their jobs, the confusion, and the fix. They will wipe Michael from Grace's mind. Also, Grace can never meet Michael. Before Grace can agree, Becky shakes Grace out of her slumber. Grace remembers everything Alura said, including Michael's last name, occupation, and location.<br/><br/>Grace finds Michael's profile and takes a rideshare to watch Michael perform. Grace introduces herself, but he doesn't recognize her. Grace leaves and wallows at a diner. Michael enters, and they strike up a conversation. He remembers that Grace's grandmother resides in the same city as his next gig. He invites Grace to accompany him and visit her grandmother. Grace is unsure until she sees Harvey and Alura. She knows they are there to take her memories of Michael. She agrees to go and pulls Michael on the train. Harvey notifies Alura they must find and stop Grace before she does more damage and ruins Alura's job. Will love prevail, or will dreams die?<br/><br/>This story has the Hallmark premise but with a mystical twist. And you will love it. It's charming, whimsical, funny, and inspiring. The Dream Center uses people's memories to help them realize their full potential. Michael and Grace dream of a career in the arts. However, their concerned families want them to find stable work with guaranteed pay. As they discuss their dreams, they encourage each other, and you can see their eyes light up. This film reminds you that dreams have a purpose.<br/><br/>4.5 out of stars.",
-    "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mydreamsofyou.jpg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mydreamsofyou.jpg"
+  },
+  {
+    "option": "4",
+    "mtitle": "Trapped in the Rocky Mountains",
+    "review": "Carrie won a contest for a one-night stay at a 4-star cabin in the Rocky Mountains. She rejoices in her prize as she drives to the cabin with her husband, Chef Jared. Carrie doesn't care about the cell service because she wants this weekend to focus on their marriage.<br/><br/>They notice strange things when they approach the cabin. The cabin's front door is ajar, the property is empty, and there is no WiFi. Carrie hears noises outside and sees two people walking towards the property. Jared recognizes them. It's Wes and his sister, Lizzie. Wes works for a travel magazine. The editor sent him to the cabin to write about it. He asked Lizzie to come.<br/><br/>They tour the cabin when they hear more voices in the sitting area. It's Harrison and Rayanne. Rayanne plans to meet a client tomorrow, and Harrison was there to meet a woman he met online. Jared tells Carrie they were friends in college but haven't seen each other in ten years. They consider leaving, but all decide to stay the night. After nightfall, Harrison decides to leave. Carrie reminds him that the next town is 2 hours away, but he takes the chance. Later, Harrison returns because someone locked the iron gate. They can't exit the property.<br/><br/>Carrie can see the tension rising within the group and asks Jared to explain privately. Jared tells Carrie that they came to a cabin like this ten years ago with their friend Ashley. Ashley decided to play Death Poker. The players are all in or fold. The last person would have to stay in the woods all night alone. Ashley lost. She went into the woods and went missing in the morning. Later, the police declared Ashley dead. Carrie talks to the group and uncovers critical information Jared didn't reveal. They didn't tell the police about the game and said she wandered off after hiking. Now, they think someone blames them and wants them to confess. They must find a way out or suffer, but who can they trust?<br/><br/>This movie starts with people making poor decisions. It's ill-advised for them but the perfect setup for the audience. The characters are people with a loose moral compass. During an intense conversation, the kid gloves come off, and they don't hold their punches. It is a popcorn and tea moment for the viewers. The story revisits old scenes that you missed during the recap. This picture is beyond wild and will enthrall you, but you have to get past their first set of poor choices.<br/><br/>4.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/trappedintherockymountains.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/trappedintherockymountains.jpg"
     }
-    },
+  },
   {
     "option": "5",
-    "mtitle": "Miss Cleo: Her Rise and Fall",
-    "review": "Youree runs lines before her sold-out performance at a community center. She leaves rehearsals early after a script disagreement, and the director, Carl, runs after her. Everyone knows she got a grant, and they want her to pay them now. Youree won't budge and drives home. She leaves with her daughters and the theater's grant money.<br/><br/>Youree arrives in Fort Lauderdale with her daughters, Crystal and Lena. She looks at the newspaper for jobs and finds one for the Psychic Readers Network. The manager hands Youree a document and tells her to sign it. It states that Youree is a psychic. She signs and gets on the phone. Youree goes off script, fakes a Jamaican accent, brings tarot cards to work, and calls herself Miss Cleo. She becomes Fort Lauderdale's #1 phone psychic.<br/><br/>Peter enters a frustrated Steven's office. Their telecommunications company dwindles, and Steven needs help. Peter gives Steven the Fort Lauderdale numbers and delightfully says they are from one operator. Peter tells Steven to arrange a meeting with Youree.<br/><br/>Peter and Steven meet with Youree. They ask her to become a spokesperson for the network. Steven likes her style but wants to change Miss Cleo's backstory. Youree agrees to become the face of the network after dinner. For Youree, this is another acting job. However, she's joined a billion-dollar scam.<br/><br/>First, The Lady of Rage pulls an award-winning performance in this movie. Next, the writers ensured they didn't make Miss Cleo a hero. Viewers should listen closely during Youree's first meeting with Peter and Steven. Steven uses many words to say they are collecting and selling customer information without their knowledge. During her fall, Youree's status makes her the face of the scam, and falsely, the mastermind. Some viewers may consider this unfair, while others say it's karma. This conclusion leaves that decision to the audience. So, watch and judge for yourself.<br/><br/>5 out of 5 stars.",
+    "mtitle": "A Costa Rican Wedding",
+    "review": "Bonnie catches Emily daydreaming about Emily's ex-boyfriend, Shane. She cautions Emily against checking Shane's social media. Bonnie hopes Emily will use the upcoming trip to Costa Rica for Phoebe's wedding to detach from Shane. Emily shows Bonnie Phoebe's family heirloom wedding bands. Bonnie gives Emily her gift for Costa Rica: a first aid kit. Bonnie knows Emily will hurt herself.<br/><br/>Emily arrives and waits for Jamal's cousin to pick her up from the airport. Emily fumbles when Ryan calls her name. Jamal's uncle married Ryan's aunt, so now they are cousins and best friends. Emily grits her teeth and gets in Ryan's truck.<br/><br/>Emily meets Phoebe on the beach, and Phoebe asks Emily to clarify Emily's issues with Ryan. Emily won't divulge and chooses to focus on Phoebe and Jamal's wedding day. As Phoebe and Jamal's families arrive, they breathe a sigh of relief when they see Emily has the rings. Everyone knows that where Emily goes, disaster follows.<br/><br/>The women skip the bachelorette party and join the bridal party for a swim. Emily sees a monkey running off with her bag and first aid kit. She remembers the bag had a stealth pocket, and she put the rings inside but forgot to take them out. The bridal party laughs as the monkey runs away with it, and Emily quietly panics. She tells them she needs it because her phone's inside. Phoebe uses her phone to locate Emily's. Emily promises to return after finding her bag. Ryan knows the countryside and offers to go with Emily. Emily and Ryan expect to find the monkey and get Emily's bag back. If not, Emily will lose the heirloom rings forever and ruin Phoebe and Jamal's wedding.<br/><br/>This movie increases the comedy in a rom-com as Emily and Ryan bumble through the jungle. Their adventure includes run-ins with venomous snakes, mud pits, and thieving monkeys. However, it forces them to converse and work through their issues. You may view Emily as a stubborn whiner who causes her calamities. However, Ryan's speech saves the day. The scenery is as beautiful as the friendships. This film is for good-humored people with patience.<br/><br/>3.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/misscleoherriseandfall.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/misscleoherriseandfall.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/acostaricanwedding.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/acostaricanwedding.jpeg"
     }
   }
 ];
@@ -58,47 +58,29 @@ module.exports = madeForTV;
 
 {
 "option":"1",
-"mtitle":"Terry McMillan Presents: Forever",
+"mtitle":"Twisted Neighbor",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanpresentsforever.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanpresentsforever.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/twistedneighbor.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/twistedneighbor.jpg"
 }
 },
 {
 "option":"2",
-"mtitle":"Nelly Knows Mysteries: A Fatal Engagement",
+"mtitle":"Deadly DILF",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nellyknowsmysteriesafatalengagment.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nellyknowsmysteriesafatalengagment.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deadlydilf.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deadlydilf.jpg"
 }
 },
 {
 "option":"3",
-"mtitle":"Bonds Will Be Broken",
+"mtitle":"The Magic of Lemon Drops",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/bondswillbebroken.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/bondswillbebroken.jpg"
-}
-},
-{
-"option":"4",
-"mtitle":"Trapped in the Rocky Mountains",
-"review":"<br/><br/>* out of 5 stars.",
-"image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/trappedintherockymountains.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/trappedintherockymountains.jpg"
-}
-},
-{
-"option":"5",
-"mtitle":"A Costa Rican Wedding",
-"review":"<br/><br/>* out of 5 stars.",
-"image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/acostaricanwedding.jpeg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/acostaricanwedding.jpeg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themagicoflemondrops.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themagicoflemondrops.jpg"
 }
 }
 
