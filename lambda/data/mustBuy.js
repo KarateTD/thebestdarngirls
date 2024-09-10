@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Inside Out 2",
+    "review": "Over the years, Riley became an excellent student, strong hockey player, animal lover, and caring friend. Her emotions - Joy, Sadness, Fear, Disgust, and Anger - continue to share her core memories and store them in long-term storage. The vital memories form her beliefs. Each belief creates Riley's belief system and her sense of self, the newest section of her mind. Joy will do anything to protect the latest system.<br/><br/>Riley celebrates with her best friends Grace and Bree as the coach of the Fire Hawks, Coach Roberts, approaches them after winning a game. She wants them to come to her hockey camp to train. Her favorite player, Val, is on the team. Val started her first year and is a legend among high school players. Grace, Bree, and Riley accept the invitation.<br/><br/>Riley goes to bed the night before camp and dreams of meeting Val and practicing with her friends. As Riley turns in for the night, her emotions do the same. A beeping awakes Joy in the middle of the night. She and the other emotions walk over to the console and see the puberty light gently flashing. Then, it blares. The demo team rips out the console and updates it for the new guys, but Riley wakes up before they finish.<br/><br/>Riley's mother, Mrs. Andersen, enters Riley's room and expresses her surprise that Riley isn't ready for camp. Her emotions touch the console, and Riley cries, yells, and collapses in bed. They find a new emotion touching it. Anxiety introduces Riley's emotions to Envy, Ennui, and Embarrassment.<br/><br/>The Andersens give Riley and her friends a ride to camp. Riley talks about their future together when Disgust notices a look on Bree's face. Grace feels the tension and blurts out that she and Bree will attend a different high school. Riley maintains her composure until her parents drive away. Val notices Riley's sadness, talks to her, and invites Riley to sit with her team. Anxiety takes over and defuses the situation by predicting possible outcomes and changes Riley's personality to give Riley the best conclusion. Joy tries to help, but her attempts make Riley look silly. Anxiety tells Embarrassment to grab Riley's old emotions after Joy makes another mistake. Anxiety tells the mind police to take them to Riley's Dark Secrets Vault. Then, Anxiety disconnects Riley's Sense of Self and sends it to the back of Riley's mind. They will use her new memories with second-generation emotions to build a new Riley. Can Riley's first-generation emotions return to Riley's mind before Anxiety takes over?<br/><br/>Riley and her emotions did it again. They cause the audience to laugh, cringe, cry, and breathe a sigh of relief. The writers added new sections of Riley's mind while taking fans through familiar territory. Riley breaks the rules, disregards her friends, and forces herself to practice when her other emotions are at the helm. Riley loses her Sense of Self for popularity. The movie explains how Anxiety works, helps, and harms people in a lovingly gentle way. The conclusion profoundly affects adults and teaches kids the value of emotions. You should see this movie in theaters today.<br/><br/>5 out of 5 stars.",
+    "asin":{
+      "re":"B0DCK89635"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/insideout2.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/insideout2.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "Kingdom of the Planet of the Apes",
     "review": "A human-made virus increased apes' intelligence and gave them the ability to speak, but it did the opposite for humans. One of the apes led them to prosperity. His name was Caesar, but he died many generations ago. Today, the Eagle Clan is a close-knit group that will celebrate the bonding ceremony at sunrise. Noa, urged by his mother, runs to his father, Koro, with his eagle egg. Koro is proud but smells a unique scent on Noa's blanket. Noa admits an Echo - their name for a human - took his blanket, but Noa retrieved it. Koro demands to know if Noa went into the valley. Noa truthfully says no.<br/><br/>Noa catches an odor coming from a tent and investigates. He finds a female Echo hiding inside and scares it away. The Echo charges past him and breaks his egg. He needs it for the ceremony. So, he travels into the forest to get a new one. He hears the Coastal Clan riding on their horses and hides. They see Noa's horse in the woods, shock it, and follow it to the Eagle Clan.<br/><br/>Noa hurries home to warn the others, but it's too late. Proximus, leader of the Coastal Clan, had his army attack the Eagle clan and take them prisoner. Noa wakes up in the morning. The Coastal Clan killed Koro and stole the Eagle Clan. Noa travels through the valley and vows to bring them back. Noa will learn the truth about Caesar, the Echos, and Proximus's greatest desire. Proximus is hunting the female Echo because she is the key to the evolution of his Kingdom of Apes.<br/><br/>This latest Planet of the Apes installment has mesmerizing graphics, heart-warming laughs, and a captivating storyline. The plot slows when Noa uncovers Promxius's plan and meets Raka. Don't get confused. This film occurs several generations after Caesar died. One thing Apes and Humans want is knowledge. It's the key to their survival, but can they coexist? This plot point is the movie's standout. Planet fans should keep their eyes and ears open for a few easter eggs. And there aren't any post-credit scenes, but the movie leaves room for another film.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "IF",
     "review": "Elizabeth, better known as Bea, temporarily moves in with her grandmother during her father's treatment. For Bea, this brings back memories of when she lost her mother. Her mother encouraged her to tell stories, perform, and play make-believe. Her dad does the same with his joyful attitude.<br/><br/>After visiting her dad, Bea sees a young girl running in the hallway. Bea chases after her, but the girl runs into the top-floor apartment. Bea knocks, and a man answers without opening the door. The man answers that no girl lives there.<br/><br/>Bea finds an old camcorder and plays the tape inside. It's a recording of happier times with her mother. Then she sees the man and girl outside her window. Bea follows them down the street and watches the man enter a brownstone. Inside the home, the man, Cal, asks Blue to come out of the closet. Outside, Bea sees Blue's large purple hand open the bedroom window. She turns in disbelief and sees the girl from the apartment. But she is not human. Bea faints.<br/><br/>Bea wakes up in Cal's apartment, and the 'girl,' Blossom, makes Bea tea. Blue explains that they are IF, an acronym for Imaginary Friend. The kids that manifested them grew up. Cal is a matchmaker of sorts. He is helping them find new kids to match with. Bea gets an idea. They will locate the kids who created them as adults now. If they can get the adults to remember them, maybe they'll save the IFs. Bea, who tries to be an adult, will discover the beauty in fun and imagination.<br/><br/>This film is an astounding, heartfelt story that asks, 'What IF.' Viewers must catch this movie from the beginning. The script delivers the lovely relationship between Bea and her parents in a montage. Seeing the IFs helps Bea find joy in having fun again. The script shows the audience the importance of Imaginary Friends then and now. And the score will make your heart swell with excitement. You will want the DVD to uncover what they left on the cutting room floor. If you saw this movie, don't ruin the twist. But adults may see it coming.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "Furiosa: A Mad Max Saga",
     "review": "Furiosa plucks fruit with her sister, Valkyrie, when she sees scavengers in their woods. Furiosa's home is an oasis, The Green Place, in the wastelands, and she has to protect it. One of the scavengers captures and kidnaps Furiosa. Valkyrie warns their mother, Mary. Mary finds Furiosa but gets captured by Dementus, the biker leader. Dementus sees Furiosa is in good health and demands to know her origin. Both refuse to talk. So Dementus makes Furiosa watch as he kills her mother.<br/><br/>Dementus sees his men are starving and orders Immortan Joe, ruler of the Citadel, to give his people more food and water. When Joe doesn't listen, Dementus captures the ruler of Gastown and brings him to the Citadel. Joe gives in to some of Dementus's requests and makes Dementus the new ruler of Gastown. However, Joe wants Furiosa as a future wife because she has never been sick. Furiosa must escape Joe, get revenge for Mary, and return to The Green Place.<br/><br/>This prequel has the action you expect from the Mad Max series while answering fanatics' questions about Furiosa. This installment tells you who kidnapped her, what happened to her arm, the start of her face paint, and how she developed into a War Rig commander and Imperator. Also, this movie, unlike its predecessor, is told in four parts - The Pole Inaccessibility, Lessons from the Wasteland, The Stowaway, and Homeward. And the director brilliantly connected the two movies for die-hard fans in the last scene. When there isn't an explosion to rely on, the dialogue and storytelling dulls.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Babes",
     "review": "Babes was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/babes.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/babes.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "The Fall Guy",
-    "review": "The Fall Guy was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0D2LWPV9M"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/fallguy.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/fallguy.jpeg"
     }
   }
 ];
@@ -198,19 +198,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theforge.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theforge.jpg"
-    }
-  }
-
-   {
-    "option": "1",
-    "mtitle": "Inside Out 2",
-    "review": "Over the years, Riley became an excellent student, strong hockey player, animal lover, and caring friend. Her emotions - Joy, Sadness, Fear, Disgust, and Anger - continue to share her core memories and store them in long-term storage. The vital memories form her beliefs. Each belief creates Riley's belief system and her sense of self, the newest section of her mind. Joy will do anything to protect the latest system.<br/><br/>Riley celebrates with her best friends Grace and Bree as the coach of the Fire Hawks, Coach Roberts, approaches them after winning a game. She wants them to come to her hockey camp to train. Her favorite player, Val, is on the team. Val started her first year and is a legend among high school players. Grace, Bree, and Riley accept the invitation.<br/><br/>Riley goes to bed the night before camp and dreams of meeting Val and practicing with her friends. As Riley turns in for the night, her emotions do the same. A beeping awakes Joy in the middle of the night. She and the other emotions walk over to the console and see the puberty light gently flashing. Then, it blares. The demo team rips out the console and updates it for the new guys, but Riley wakes up before they finish.<br/><br/>Riley's mother, Mrs. Andersen, enters Riley's room and expresses her surprise that Riley isn't ready for camp. Her emotions touch the console, and Riley cries, yells, and collapses in bed. They find a new emotion touching it. Anxiety introduces Riley's emotions to Envy, Ennui, and Embarrassment.<br/><br/>The Andersens give Riley and her friends a ride to camp. Riley talks about their future together when Disgust notices a look on Bree's face. Grace feels the tension and blurts out that she and Bree will attend a different high school. Riley maintains her composure until her parents drive away. Val notices Riley's sadness, talks to her, and invites Riley to sit with her team. Anxiety takes over and defuses the situation by predicting possible outcomes and changes Riley's personality to give Riley the best conclusion. Joy tries to help, but her attempts make Riley look silly. Anxiety tells Embarrassment to grab Riley's old emotions after Joy makes another mistake. Anxiety tells the mind police to take them to Riley's Dark Secrets Vault. Then, Anxiety disconnects Riley's Sense of Self and sends it to the back of Riley's mind. They will use her new memories with second-generation emotions to build a new Riley. Can Riley's first-generation emotions return to Riley's mind before Anxiety takes over?<br/><br/>Riley and her emotions did it again. They cause the audience to laugh, cringe, cry, and breathe a sigh of relief. The writers added new sections of Riley's mind while taking fans through familiar territory. Riley breaks the rules, disregards her friends, and forces herself to practice when her other emotions are at the helm. Riley loses her Sense of Self for popularity. The movie explains how Anxiety works, helps, and harms people in a lovingly gentle way. The conclusion profoundly affects adults and teaches kids the value of emotions. You should see this movie in theaters today.<br/><br/>5 out of 5 stars.",
-    "asin":{
-      "re":"B0DCK89635"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/insideout2.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/insideout2.jpeg"
     }
   }
 
