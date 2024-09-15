@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
-    "mtitle": "Held Hostage in My House",
-    "review": "Charlie doesn't want to go camping with his father, Matt, and Matt's girlfriend, Kate, but Charlie's mother, Dawn, tells Charlie to give Kate a chance. Dawn goes through her guest list and checks her guesthouse before check-in. She steps on fire ants before entering her home. Charlie reluctantly gets in Matt's car, and Matt pulls Dawn aside to talk. He wants Dawn to quit her art career and work a regular job. Dawn's anger boils over because Matt recently got sober and acts like a model dad but doesn't offer financial support. He threatens to sue for full custody if she doesn't get a job.<br/><br/>Dawn calls her best friend, Victoria, for moral support. Victoria invites Dawn on a trip like they did in Dawn's single days. Dawn says no. Victoria doesn't think a judge will side with Matt. Dawn sighs, bids farewell to Victoria, and goes home to greet her guest. However, she doesn't know they canceled. Dawn sees the guesthouse's front door open and assumes the guest came early. She enters and tries to alert them, but someone hits her on the head with a vase. Dawn wakes up with her arms and feet bound to her bed. She prays someone finds her before her attacker kills her.<br/><br/>This movie pushes its viewers in a 'Lifetime' direction with Matt and Dawn's looming custody battle. So, the audience will wonder why the script takes them down memory lane. As the fire ants sting Dawn, she starts to hallucinate. The flashback will return full circle, although they seem irrelevant at first. Viewers must be patient and attentive. And thank goodness for Charlie. He saves the day for his mom. This film isn't about Dawn's escape but her sleuthing skills. This picture features stunning artwork and respectfully credits the artist Valentina Sarfeh. Valentina's work is breathtaking. This movie takes a long way to become entertaining. However, it pays off if you wait.<br/><br/>4 out of 5 stars.",
+    "mtitle": "The Face I Can't Forget",
+    "review": "A doctor checks on their amnesia patient, but the patient doesn't remember her name. Luckily, the doctor identified the woman as Mia, a famous romance author. A man enters the room and introduces himself as Mia's husband, Jessie. They have a daughter, Madison, in community college, and he was in the car crash with her but wasn't hurt. Madison and Jessie take Mia home. Mia remembered a woman in the passenger seat. She asks if they have another daughter. Jessie says her nightmare isn't a memory because he was the only person in the car with her.<br/><br/>Madison drives Mia to her physical therapy appointment, and Mia meets her physical therapist, Erin. The two get to know each other during their sessions. Then, Mia remembers sharing a cupcake with the woman in the car. Mia converses with Erin about the flashback as a fan named Wade approaches and asks for an autograph. He confesses that he has all of Mia's books and articles written about her. Mia asks for a copy and gives Wade her address so he can deliver it.<br/><br/>Mia returns home. She sees Jessie's new iPad and Madison's new coat. Jessie tells Mia that Mia got a 6 figure advance. Mia is uncomfortable spending the money. Jessie assures her it will all be okay. Mia asks about another daughter, but Jessie says they are a family of three.<br/><br/>Mia goes to therapy again, and Erin wonders if Wade turned in the information. Mia says no and wants to find him. Mia and Erin go to Wade's house, and an officer answers the door. Sadly, the officer tells Mia that Wade is dead.<br/><br/>Mia finds her book on the shelf and opens it. The dedication page says, 'For Angela.' Then, a man follows her into the bathroom, and Erin scares him off. She thinks Jessie is hiding something from her. The scary thing is that he's telling the truth. Well, at least a half-truth.<br/><br/>First, let's give a R.I.P. to Wade. Once he died, the script forgot about him. Second, fellow Lifetimers should be ready to scream 'the audacity' each time Jessie opens his mouth. He dismisses Mia's feelings and is very condescending. Also, Mia makes annoying mistakes that will make your blood boil. The movie has funny moments, but viewers watch to see if their hunch is correct.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/heldhostageinmyhouse.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/heldhostageinmyhouse.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thefaceicantforget.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thefaceicantforget.jpg"
     }
   },
   {
     "option": "2",
-    "mtitle": "The Past Comes Knocking",
-    "review": "After running into her daughter, Autumn, Professor Susan goes to a diner for lunch. Her teaching assistant, Jane, went missing three weeks ago, and the police haven't found her. Sadly, they called off the search. The waitress, Zoe, overhears Susan talking about it and shares her condolences. Zoe recognizes Susan from Susan's book. The book covered Attorney General Vincent Darte and his crimes. He ended his life after the book's release, and it caused a ripple effect among Vincent's family and victims. Zoe admits she wanted to take Susan's course but transferred too late to register. Susan will gladly add Zoe to the class if Zoe likes it.<br/><br/>Susan teaches the class as Zoe arrives late. After class, Zoe apologizes and blames her tardiness on work. Susan allows Zoe to come to class but as a teaching assistant. Zoe jumps at the chance to work for her idol. Susan asks Zoe to meet at Susan's home to converse.<br/><br/>Zoe arrives, meets Autumn, and reminds Susan about her date with Professor Thomas. Zoe returns home after a great night out and finds the door open. She searches through the home and finds a mess. Susan calls Zoe and hears Zoe's phone ring under paperwork. Then, Susan calls the police.<br/><br/>Detective Marissa arrives and doesn't hide her disdain for Susan. She remembers Zoe is the 2nd assistant to go missing. Marissa informs Susan they will investigate and believes the evidence will point to Susan. Susan thinks someone is framing her by making her assistants disappear. Susan must dig into her journalism past before Detective Marissa pins the crimes on her.<br/><br/>Where to start? This movie begins with someone chasing a pretty girl through the woods. She falls and dies. Then, viewers get a few poorly manufactured wigs that are hard to ignore. Susan has an unnecessary love interest, and the ending is anticlimactic. Also, Susan doesn't keep her personal and professional lives separate. These enormous mistakes make viewers lose interest in Susan's well-being. Lifetimers can skip this movie. It is a slow burn to nowhere.<br/><br/>2 out of 5 stars.",
+    "mtitle": "The Cases of Mystery Lane: Death is Listening",
+    "review": "Birdie and Alden take private investigator classes to fine-tune their skills. However, Birdie is worried they are becoming the Murder Couple. She wants more couple friends outside of their life of investigation.<br/><br/>Alden meets with Birdie in the parking lot after interrupting her yoga class. He tempts her into eating a donut when her old high school rival, Kristin, approaches. She invites them to her home to eat and meet her new boyfriend, Tom.<br/><br/>Birdie and Alden arrive at Kristin's home. Birdie sips wine in the kitchen with Kristin while Alden looks at Kristin's bookshelf. He finds a book from his favorite 'true crime' author, Laurel St. James. Kristin is a true crime buff, and they jump for joy. Then, Tom knocks. To their surprise, Tom is Detective Tom Newton. They sigh.<br/><br/>Across town, Laurel enters Studio 45 to record her podcast. She briefly converses with the manager, Nigel, before knocking on the window to get another podcaster's attention. She shows Pat it's 9:02 pm and forces him to leave. Laurel records her segment about a local serial killer. She says she is ready to reveal the truth. Someone walks into the studio, shoots Laurel, and leaves a note on her body.<br/><br/>Birdie and Alden hear about Laurel's murder on the news. They report that Laurel could be a victim of the serial killer. At the police station, Detective Newton investigates the podcasters and Nigel. However, Newton can't comprehend what these characters are saying. Tom's boss wants to hire someone that speaks their language. Newton grinds his teeth and calls Birdie and Alden. The Cases are on the case. Can they find Laurel's killer?<br/><br/>This mystery series is different because Alden and Birdie are a happily married couple. So, they deal with real-life issues about maintaining their marriage. Since each movie doesn't have a 'falling in love' subplot, the writers can focus on the crime. And this one is a doozy. Birdie and Alden hilariously work together to find Laurel's enemies. They do this while tracking a mouse in their home. Alden's final trap is legendary. The conclusion will throw sleuthers for a loop and bring a tear to your eye as the Cases bring closure to a town. Don't miss this second installment.<br/><br/>4.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thepastcomeknocking.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thepastcomeknocking.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thecasesofmysterylanedeathislistening.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thecasesofmysterylanedeathislistening.jpeg"
     }
   },
   {
     "option": "3",
-    "mtitle": "The Daughter I Gave Away",
-    "review": "After hearing her distressed cries during a nightmare, Cynthia's husband, Andrew, wakes her. Cynthia dreamt about the day she gave up her daughter, Lexi. Andrew asks Cynthia if she has the adoption paperwork. Cynthia says yes. Andrew tells her to contact the adoption agency since the process is open.<br/><br/>Cynthia calls the agency, but they don't have a record of the adoption or the agent. Someone kidnapped Lexi. Cynthia panics. Cynthia decides to use an ancestry site to connect. After a few weeks, Cynthia gets incredible news. She matched with a teenage girl named Rebecca. Cynthia found her long-lost daughter. She messages Rebecca through the service and searches for her on social media. Then, Cynthia reads the comments and discovers that Rebecca is missing. She refuses to lose the daughter she recently found and chooses to rescue Rebecca. Cynthia will uncover a kidnapper, enablers, and a coverup.<br/><br/>This movie momentarily captures your attention. When Cynthia talks to an agency representative and discovers someone kidnapped Lexi, you will be on the edge of your seat. When Cynthia talks to Rebecca's friend, Jenny, your heart will crumble as Jenny recounts her last communication with Rebecca. Rebecca was fearful for her life before she disappeared and reached out to her friends for help. The ending is predictable, but the ride is worth your two hours.<br/><br/>3 out of 5 stars.",
+    "mtitle": "Mommy's Stolen Memories",
+    "review": "Mallory asks her friend, business partner Linda, for people's names at a party. Mallory suffered from three strokes and can't recall much. She relies on Linda and her husband, Reese, to fill in the gaps. Mallory and Reese's son, Billy, ask to leave, and they oblige.<br/><br/>Mallory returns to work after her latest stroke and handles her first client with ease but can't shake her headaches. Each one comes with a flashback. Mallory picks up Billy from school, and Billy says he made a friend named Samantha, but he won't give Mallory more information. Mallory takes Billy to a climbing park to practice. Mallory sees him talking to a woman. Mallory abruptly concludes her conversation and walks over to Billy. The woman leaves, and Billy says she's Samantha. She is a part of Mallory's past, which reveals a heartbreaking truth. Can Mallory handle it?<br/><br/>The movie starts slow and leaves the viewers in the dark, like Mallory. It begins to bore you because you won't know what's happening. While the plot leaves breadcrumbs, you will only figure out part of the mystery. The film tries to be a whodunit but doesn't leave the audience enough clues to care. And the ending only leaves one person with a smile. Watch this picture if you have two hours to burn.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thedaughterigaveaway.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thedaughterigaveaway.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mommysstolenmemories.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mommysstolenmemories.jpg"
     }
   },
   {
     "option": "4",
-    "mtitle": "Head Over Heels",
-    "review": "Addison works in her father's shoe repair shop and loves to sketch shoe designs. Her favorite client gave Addison a pair of Delaney Diaz shoes to repair, and Addison drools over them. Delaney is Addison's favorite shoe designer. Addison's sister, Claudia, goes to baby class with a woman from Delaney's company. She got Addison an interview with them.<br/><br/>Addison arrives and expects to take the receptionist job. As Thomas rips off the headphones, Janice tells him to halt his celebration. Delaney's assistant, Kendra, quit, and they want Addison to take her place. Janice walks Addison to Kendra's old office and warns Addison to clean the desk. Addison searches for cleaning supplies and bumps into Austin from marketing. She spills his coffee on his white shoes. So she pulls Austin into a fabric room, grabs his shoes, and covers the stain. Austin admires her handy work and sings her praises to Delaney. Delaney gives Addison a one-week test to prove she can be Delaney's assistant. Addison jumps at the chance to work with her idol. However, she must learn to navigate corporate espionage, a hostile takeover, and work-life balance.<br/><br/>This film is The Devil Wears Prada mixed with Ugly Betty. Her family wants her to spend more time with them, but Addison focuses on work. When they scold her for prioritizing a meeting over her niece's first birthday, the family will annoy the viewers. Also, Delaney is a tenacious boss and takes advantage of Addison's admiration and lack of boundaries. Addison's confidant is Austin. He understands her struggles and helps with encouraging words and advice. This plot won't be a favorite, but the movie is entertaining.<br/><br/>2.5 out of 5 stars.",
+    "mtitle": "Murder Below Deck",
+    "review": "Naomi greets Lauren as she boards the Song of Songs ship. She wanted a career change, and Naomi got Lauren a job on the ship. Lauren meets Captain Liam and their crew chief, Amy, before the elite guests board. One guest, Mark, catches Lauren's eye, and Naomi notices. Naomi and crewmember Sara call Mark a big tuna because he is a single billionaire.<br/><br/>Lauren and Mark converse after her shift. She tells him about her business idea, and he loves it. She leaves but returns for a night of passion. Lauren returns to her cabin in the morning, and Naomi teases her. They look out at the water and see a boat with a woman at the bow. The woman, Dana, boards their ship and kisses Mark. Lauren doesn't miss the engagement ring on Dana's hand. Lauren is furious, but Amy tells her to focus on her job. Amy makes Lauren Dana's assistant for the remainder of the cruise.<br/><br/>Lauren and Amy spend time together, and Dana spills secrets about Mark. Dana warns Lauren about going into business with Mark. Dana and Lauren return to the ship, and Dana settles in Mark's room for the night. Lauren overhears them yelling and leaves the room. She wakes to find no trace of Dana on the ship. Mark says Dana left, but Lauren thinks something more sinister happened to Dana. Can Lauren uncover the truth without losing her life?<br/><br/>It's funny how everyone comes to Lauren for advice when Lauren's world is crumbling around her. Also, Mark runs shady deals in his company, but his right-hand man, Rudy, is on to Mark's corruption. This film isn't a whodunit. It focuses on sensationalism to attract its audience. This film won't be a favorite, but it entertains for two hours.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/headoverheels.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/headoverheels.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/murderbelowdeck.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/murderbelowdeck.jpg"
     }
   },
   {
     "option": "5",
-    "mtitle": "Twisted Neighbor",
-    "review": "Colleen's mom, Vanessa, doesn't understand why Colleen left New York for a cul-de-sac called Sunny Vista. Colleen walks home from the market as the neighbors take notice of the newcomer. Her bag rips open, and the contents fall on the street. Quinn picks up an item while saying hello but leaves Colleen to finish the retrieval. Dan runs over with a box to contain the food as Jared watches. Jared's wife, Kimberly, chats about Colleen with her friend Ashton on the neighborhood app. They attempt to learn about Colleen's marital status and job. Jillian, the H.O.A. president, forcefully reminds Colleen that the H.O.A. is having a meeting tonight and suggests Colleen change clothes.<br/><br/>The H.O.A. meets at Theo's home, and everyone gives Colleen the third degree. After the meeting, Colleen gets notifications from the neighborhood app. As Colleen reads other messages, she sees everyone discussing Edith's unkempt property. Colleen bakes a pie and walks to Edith's to offer cleaning help. She finds Edith dead with a fireplace poker in her abdomen.<br/><br/>Colleen collects herself at home when she sees movement at her back door. She calls the police and grabs a rolling pin. To Colleen's surprise, it's Theo with a jar of sauce. He disclosed that he has mushrooms, and they get high. Colleen wants to tell Theo about her past, but he receives a message. An anonymous texter accuses him of selling smut. Theo says he knows the caller and leaves to confront them but promises to return. Colleen comes down from her high in the morning, but Theo never returns. Days later, Colleen finds Theo's mangled body. Neighbors worry that Colleen is the killer because she was the last person with Theo. Can Colleen clear her name and find the culprit before another person dies?<br/><br/>Where to start? You should watch this film if you want a funny and unhinged movie. The mystery is compelling and gives viewers an unforeseeable culprit. After Colleen takes drugs, you won't be sure if she's still hallucinating these events. And you have to assume Edith's killer is the person wearing the mask. They never explicitly say who killed her. This movie has drugs, affairs, murders, and BDSM. Viewers should watch this movie with a glass of wine and a good sense of humor.<br/><br/>3 out of 5 stars.",
+    "mtitle": "His and Hers",
+    "review": "Dana works at Larson and Brown Law Firm, handling acquisitions and mergers. Her uncle, Paul, runs the firm and counts on Dana to take over high-profile cases. Mark is a divorce lawyer at Gale, Fauble, and Partners. He plans to become a partner within the year. Dana and Mark meet at their favorite restaurant to celebrate their 7th wedding anniversary. They take out notepads and go over grievances and gratitude.<br/><br/>Paul intersects Dana at work because their fund's biggest donor, Tabby Noble, wants to divorce her husband, Brett. She investigated Dana's job history and discovered Dana has a family court background. Dana begrudgingly takes the case and tells Tabby to keep things civil. But Tabby demands everything.<br/><br/>Mark's boss, Lois, walks him to the conference room before Mark meets his new client, Brett. Brett won't be an easy-going client, but he will bring attention to their firm. He believes he is the brains behind his and Tabby's reality empire and wants everything. Mark informs Brett that New York is an equitable distribution state, but Brett doesn't care.<br/><br/>Mark and Dana relax after work. She turns on the Noble's reality show. Mark asks why, but Dana skirts the answer and gives Mark a fidget spinner. Later, Mark meets with Brett at the gym. A server pretends to be a fan and gives Brett divorce papers before Mark can stop her. Simultaneously, Dana is at Tabby's home to smooth out the divorce details. A server pretends to be a delivery person and gives Tabby the divorce paperwork before Dana can handle it. Dana and Mark tell their clients to be quiet, but Tabby and Brett take to social media to air out their issues. Later, Dana and Mark discover they are working on opposite ends of the same case. They swear it won't affect their relationship, but can their marriage cope with the downfall of someone else's?<br/><br/>This movie shines a light on the world of reality TV without turning it into an afterschool special. They don't know reality from reality TV. And they make everyone pawns in their game. Mark and Dana question their marriage, pre-nuptial agreement, and having children during this case. And their background checks shine a light on secrets from their past. These lawyers' approach may not be popular, but it's effective. This film is funny, introspective, and captivating.<br/><br/>4.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/twistedneighbor.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/twistedneighbor.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/hisandhers.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/hisandhers.jpg"
     }
   }
 ];
@@ -58,47 +58,29 @@ module.exports = madeForTV;
 
 {
 "option":"1",
-"mtitle":"The Face I Can't Forget",
+"mtitle":"Buried Alive and Survived",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thefaceicantforget.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thefaceicantforget.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/buriedaliveandsurvived.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/buriedaliveandsurvived.jpg"
 }
 },
 {
 "option":"2",
-"mtitle":"The Cases of Mystery Lane: Death is Listening",
+"mtitle":"Nightmare in the Desert",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thecasesofmysterylanedeathislistening.jpeg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thecasesofmysterylanedeathislistening.jpeg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/nightmareinthedesert.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/nightmareinthedesert.jpg"
 }
 },
 {
 "option":"3",
-"mtitle":"Mommy's Stolen Memories",
+"mtitle":"The Heiress and the Handyman",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/mommysstolenmemories.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/mommysstolenmemories.jpg"
-}
-},
-{
-"option":"4",
-"mtitle":"Murder Below Deck",
-"review":"<br/><br/>* out of 5 stars.",
-"image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderbelowdeck.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderbelowdeck.jpg"
-}
-},
-{
-"option":"5",
-"mtitle":"His and Hers",
-"review":"<br/><br/>* out of 5 stars.",
-"image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hisandhers.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hisandhers.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theheiressandthehandyman.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theheiressandthehandyman.jpg"
 }
 }
 
