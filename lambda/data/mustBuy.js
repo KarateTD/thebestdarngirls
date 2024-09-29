@@ -89,7 +89,7 @@ module.exports = mustBuy;
     "mtitle":"Skincare",
     "review":"Skincare was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":""
+      "re":"B0DGH3LRWV"
     },
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/skincar.jpeg",
@@ -115,7 +115,7 @@ module.exports = mustBuy;
     "mtitle": "Slingshot",
     "review": "Slingshot was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
      "asin":{
-      "re":""
+      "re":"B0D9WLFJX2"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/slingshot.jpg",
@@ -232,12 +232,25 @@ module.exports = mustBuy;
     "mtitle":"Transformers One",
     "review":"Orion Pax sneaks into the Cybertron Archives to find recordings about the Matrix of Leadership. The first Primes died in a battle against the Quintessons, and the Matrix was lost. Since its disappearance, the Energon stopped flowing naturally, and Cybertronians are born without their transformation cog. Without the ability to transform, Energon miners, like Orion, dig below the surface to mine the resource. And their leader, Sentinel Prime, searches the surface for the Matrix. Security guards find Orion and chase him out of the archives. Orion jumps out of a window, and his best friend, D-16, saves him.<br/><br/>D-16 and Orion dig with their co-worker, Jazz, and captain, Elita-1. During their dig, an explosion traps Jazz, and Elita-1 tells Orion and D-16 to leave him and follow protocol. But Orion won't listen. He convinces D-16 to save Jazz. They do, but cause a cave-in. Then, Sentinel Prime makes an announcement. The miners will get the day off for Iacon 5000.<br/><br/>Orion and D-16 walk to the race, and Orion pulls D-16 into a secret entrance. D-16 grins at the starting line until Orion straps a jetpack to their backs. They enter the race and nearly win before losing miserably. However, Sentinel Prime congratulates them for motiving the mining bots. After Sentinel Prime and his second-in-command, Arachnid, leave, a racer furiously barges into the room. They caused him to crash, and he punishes them. He dumps them to level 50.<br/><br/>B-127 can't believe he has guests. Then, B-127 introduces them to his 'friends.' Orion accidentally knocks into B-127's 'friend,' and a chip falls out. It plays a message from Alpha Trion. He is in battle and gives their final location. Orion believes that's where they will find the Matrix. He convinces D-16 and B-127 to come to the surface to find the Matrix. They uncover so much more.<br/><br/>This origin story plays into the best friends becoming mortal enemies cliché but is highly entertaining and feels original. The story has jokes for parents without making sexual innuendos. The film has action and astounding storytelling. Also, they don't force a romantic storyline. This film is about the creation of Optimus Prime, Megatron, Bumblebee, the Autobots, and the Decepticons. There is one mid-credit scene and one post-credit scene. The graphics could be better, but the story makes up for the visual pitfalls. See this movie with the entire family.<br/><br/>4 out of 5 stars.",
     "asin":{
-      "re":""
+      "re":"B0DGYC9RBD"
     },
     "image":{
     "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/transformersone.jpg",
     "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/transformersone.jpg"
     }
     }
+
+     {
+    "option": "4",
+    "mtitle": "Beetlejuice Beetlejuice",
+    "review": "Psychic Medium Lydia halts the taping of her show, Ghost House, after seeing Betelgeuse in the crowd. She runs to the bathroom and opens her pill bottle. Her boyfriend, manager Rory, chases after her. Then, Lydia gets several urgent texts from her stepmother, Delia.<br/><br/>Lydia runs to Delia's latest art installation and gets woeful news. Lydia's father, Charles, died. Lydia calls her daughter, Astrid, but she won't answer. Astrid believes her mother is a fraud because Lydia can't see her dad, Richard. Lydia, Delia, Astrid, and Rory arrive at the original Ghost House in Winter River. They have a funeral for Charles, and Delia shrouds the house in black cloth for a grief collective. During the wake, Rory proposes to Lydia, and she reluctantly agrees. Astrid leaves in disgust, jumps on her bike, and narrowly escapes death by crashing through a fence and into a tree. A boy, Jeremy, sees her from his tree house and runs down to help. The two connect and make plans to meet before the wedding.<br/><br/>In the afterlife, Betelgeuse manages a call center. He gets a call from Ghost Detective Wolf Jackson because someone accidently reanimated Betelgeuse's ex-wife, Delores. Betelgeuse tells them he married Delores, thinking he found the love of his life. He didn't know she was a witch who traded immortality for taking people's lives. She poisoned Betelgeuse on their wedding night. Before the poison took effect, he killed her. Now she is traveling through the afterlife, sucking the souls out of anyone standing in between her and Betelgeuse. He believes marrying Lydia will save him from Delores.<br/><br/>Before the wedding, Astrid roams to the attic and finds the town model, a Betelgeuse flyer, and a photo album with pictures of Richard. She questions Lydia about the flyer and says Betelgeuse's name twice. Lydia pulls Astrid out of the attic and forbids her from going inside. Later, Lydia walks into the attic, and Rory finds her. He believes Betelgeuse is a figment of her imagination and says the name three times. Betelgeuse acts as their marriage counselor before Lydia and Rory escape. She relocates Betelgeuse to her past until Astrid gets in trouble and enters the afterlife. Lydia will say the three words that put fear in her heart. Will she regret it?<br/><br/>This sequel has callbacks from the first with songs, outfits, and art but tells a unique tale. Lydia kept her ability to talk to ghosts and now uses it to make a living. Delia moved beyond sculpture and now uses her body as a canvas. On the surface, the movie is about Lydia, Delia, and Astrid escaping Betelgeuse. However, it's about bringing Lydia and Astrid together because Astrid doesn't understand Lydia's love for her. Viewers will get a new possession song and dance while laughing with their favorite bio-exorcist. Also, the audience learns more about Betelgeuse before his death in a foreign-film-style retelling. They also get an animated version of Charles' death and the Soul Train. Fans of the original movie will not be disappointed.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":"B0DDVDSVMS"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/beetlejuicebeetlejuice.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/beetlejuicebeetlejuice.jpg"
+    }
+  }
     
 */
