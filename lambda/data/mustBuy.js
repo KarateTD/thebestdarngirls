@@ -1,6 +1,30 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Deadpool and Wolverine",
+    "review": "Wade Wilson wanted more from his life because Vanessa asked him to cut out the nonsense. He uses Cable's time-traveling device to join a superhero team, but they reject him. Wade returns to his timeline and sells cars with Peter for 6 years. Deadpool is a thing of the past. Wade bikes home and finds a surprise birthday party waiting for him. He answers a knock at the door and assumes the uniformed people are strippers. They are the Time Variant Authority or TVA. They rip the wig off Wade's head and pull him into a portal.<br/><br/>Wade wakes up at a table with Mr. Paradox at the opposite end. Mr. Paradox introduces Wade to the TVA and the Sacred Timeline. Mr. Paradox warns Wade that his timeline will end because an 'anchor being' died. He grows tired of waiting for the timelines to parish. Mr. Paradox is building a Time Ripper to destroy Wade's timeline but will allow Wade to move to another and spare his life. Wade assumes he's the anchor being, and Mr. Paradox laughs. Wade's timeline's anchor is Wolverine. Wade can't stomach the thought of losing his friends. He steals Mr. Paradox's TemPad and jumps through timelines to find a replacement Wolverine.<br/><br/>Wade returns with a suitable Logan and demands Mr. Paradox return them to his timeline. Mr. Paradox laughs because this version of Logan ended his universe. Mr. Paradox sends them to the Void. He expects Cassandra Nova and Alioth to finish the job. Wade and Logan must put their issues aside to leave the Void, stop Mr. Paradox from using the Time Ripper, and save Wade's timeline.<br/><br/>This movie reaches across universes and production studios to fulfill every fan's fantasy. The opening sequence starts with blood, guts, violation, and NSync. Then, Wade travels through the timeline and finds a host of Wolverines. They will surprise and humor you. The team-up in the Void is legendary and finishes several characters' stories while staying true to Deadpool. The graphics hold hidden gems amongst the gore and make your stomach churn with Cassandra's powers. The music covers all genres and is perfectly inappropriate. This film will surpass your expectations and remind you why you love this franchise. See this before anyone spoils the surprises. Also, there are post- and mid-credit scenes.<br/><br/>5 out of 5 stars.",
+   "asin":{
+      "re":"B0DHH8ZTGS"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deadpoolandwolverine.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deadpoolandwolverine.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Slingshot",
+    "review": "Slingshot was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+     "asin":{
+      "re":"B0D9WLFJX2"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/slingshot.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/slingshot.jpg"
+    }
+  },
+  {
+    "option": "3",
     "mtitle": "Cabrini",
     "review": "Mother Frances Cabrini receives an invitation to visit the cardinal in Vatican City. She wrote the Pope several times to start a mission to help orphans globally. She feels that the Vatican ignores the East. So, Mother Cabrini wants to begin in China and work her way West. She wants to create an Empire of Hope. She refuses the cardinal's rejection and demands to speak to the Pope. The Pope listens to Mother Cabrini's passionate plea and accepts her mission but with a condition. Italian immigrants living in New York's Five Points witness children freezing to death in the streets while Americans ignore their plight. The Pope will allow Mother Cabrini's mission if she starts in New York. Mother Cabrini returns and tells her fellow Sisters to pack. They migrate to New York. Cabrini, sick with lung disease, will face prejudice, corruption, and sexism to save children around the world.<br/><br/>This nun doesn't sit idly by and accept rejection. She learns to navigate the world of politics and media to sway the opinions of the American people. She gains allies from all walks of life to advance her efforts. Mother Cabrini's drive comes from a short life expectancy. She doesn't have time to accept no. This woman wasn't afraid to be loud, towering, and visible.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -12,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "4",
     "mtitle": "Bad Boys: Ride or Die",
     "review": "Marcus delivers a toast at a moment he thought would never happen: Mike's wedding. Marcus cries as he wishes Mike the best with his new bride, Christine. Marcus gets help from Captain Conrad's daughter, U.S. Marshall Judy, and granddaughter, Callie. Marcus dances the Wobble and suffers a heart attack. Captain Conrad assures Marcus that he won't die and gives Marcus a warning. Marcus wakes up with a new lease on life and is 100% fearless. As Marcus begs Mike to get him Skittles, Mike gets a news alert on his phone. The FBI found evidence that Captain Conrad was working with the drug cartels.<br/><br/>Mike and Marcus run to headquarters to clear their captain's legacy, but Captain Rita and her boyfriend, Attorney General Lockwood, must follow the evidence. Judy enters and demands they find the real culprits. Mike offers to help, but she refuses because Mike's son, Armando, killed her dad.<br/><br/>Mike and Marcus ride and contemplate their next steps when they get a video message from Conrad. He was looking into corruption after their ecstasy bust years ago. Now, he needs his Bad Boys to clear his name. He warns them to trust no one. Mike believes they must ask a cartel member to catch the corruption.<br/><br/>Mike and Marcus visit Armando in prison. Armando states that Conrad was clean. Also, his mother, Isabel, didn't put Conrad on the list; someone added him. Mike and Marcus find Conrad's secret case files and pull Armando out of jail to go through them. They believe they have an advantage, but the culprit is one step ahead. To get through this, Mike and Marcus will need fate, AMMO, Reggie, and alligators.<br/><br/>For newcomers to the franchise, it helps to see the three previous films before watching this 4th installment. This chapter of the buddy-action-comedy will introduce a new version of Bad Boys, tie up loose ends, and show you another side of Reggie. Unlike the previous films, Mike is cautious and has panic attacks. However, Marcus is fearless and wild. Their switch, along with the action-packed fight scenes, make this movie entertaining. Be prepared to laugh, wince, and cheer.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -24,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "5",
     "mtitle": "Inside Out 2",
     "review": "Over the years, Riley became an excellent student, strong hockey player, animal lover, and caring friend. Her emotions - Joy, Sadness, Fear, Disgust, and Anger - continue to share her core memories and store them in long-term storage. The vital memories form her beliefs. Each belief creates Riley's belief system and her sense of self, the newest section of her mind. Joy will do anything to protect the latest system.<br/><br/>Riley celebrates with her best friends Grace and Bree as the coach of the Fire Hawks, Coach Roberts, approaches them after winning a game. She wants them to come to her hockey camp to train. Her favorite player, Val, is on the team. Val started her first year and is a legend among high school players. Grace, Bree, and Riley accept the invitation.<br/><br/>Riley goes to bed the night before camp and dreams of meeting Val and practicing with her friends. As Riley turns in for the night, her emotions do the same. A beeping awakes Joy in the middle of the night. She and the other emotions walk over to the console and see the puberty light gently flashing. Then, it blares. The demo team rips out the console and updates it for the new guys, but Riley wakes up before they finish.<br/><br/>Riley's mother, Mrs. Andersen, enters Riley's room and expresses her surprise that Riley isn't ready for camp. Her emotions touch the console, and Riley cries, yells, and collapses in bed. They find a new emotion touching it. Anxiety introduces Riley's emotions to Envy, Ennui, and Embarrassment.<br/><br/>The Andersens give Riley and her friends a ride to camp. Riley talks about their future together when Disgust notices a look on Bree's face. Grace feels the tension and blurts out that she and Bree will attend a different high school. Riley maintains her composure until her parents drive away. Val notices Riley's sadness, talks to her, and invites Riley to sit with her team. Anxiety takes over and defuses the situation by predicting possible outcomes and changes Riley's personality to give Riley the best conclusion. Joy tries to help, but her attempts make Riley look silly. Anxiety tells Embarrassment to grab Riley's old emotions after Joy makes another mistake. Anxiety tells the mind police to take them to Riley's Dark Secrets Vault. Then, Anxiety disconnects Riley's Sense of Self and sends it to the back of Riley's mind. They will use her new memories with second-generation emotions to build a new Riley. Can Riley's first-generation emotions return to Riley's mind before Anxiety takes over?<br/><br/>Riley and her emotions did it again. They cause the audience to laugh, cringe, cry, and breathe a sigh of relief. The writers added new sections of Riley's mind while taking fans through familiar territory. Riley breaks the rules, disregards her friends, and forces herself to practice when her other emotions are at the helm. Riley loses her Sense of Self for popularity. The movie explains how Anxiety works, helps, and harms people in a lovingly gentle way. The conclusion profoundly affects adults and teaches kids the value of emotions. You should see this movie in theaters today.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -33,30 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/insideout2.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/insideout2.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Kingdom of the Planet of the Apes",
-    "review": "A human-made virus increased apes' intelligence and gave them the ability to speak, but it did the opposite for humans. One of the apes led them to prosperity. His name was Caesar, but he died many generations ago. Today, the Eagle Clan is a close-knit group that will celebrate the bonding ceremony at sunrise. Noa, urged by his mother, runs to his father, Koro, with his eagle egg. Koro is proud but smells a unique scent on Noa's blanket. Noa admits an Echo - their name for a human - took his blanket, but Noa retrieved it. Koro demands to know if Noa went into the valley. Noa truthfully says no.<br/><br/>Noa catches an odor coming from a tent and investigates. He finds a female Echo hiding inside and scares it away. The Echo charges past him and breaks his egg. He needs it for the ceremony. So, he travels into the forest to get a new one. He hears the Coastal Clan riding on their horses and hides. They see Noa's horse in the woods, shock it, and follow it to the Eagle Clan.<br/><br/>Noa hurries home to warn the others, but it's too late. Proximus, leader of the Coastal Clan, had his army attack the Eagle clan and take them prisoner. Noa wakes up in the morning. The Coastal Clan killed Koro and stole the Eagle Clan. Noa travels through the valley and vows to bring them back. Noa will learn the truth about Caesar, the Echos, and Proximus's greatest desire. Proximus is hunting the female Echo because she is the key to the evolution of his Kingdom of Apes.<br/><br/>This latest Planet of the Apes installment has mesmerizing graphics, heart-warming laughs, and a captivating storyline. The plot slows when Noa uncovers Promxius's plan and meets Raka. Don't get confused. This film occurs several generations after Caesar died. One thing Apes and Humans want is knowledge. It's the key to their survival, but can they coexist? This plot point is the movie's standout. Planet fans should keep their eyes and ears open for a few easter eggs. And there aren't any post-credit scenes, but the movie leaves room for another film.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0D8J9HYGD"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/kingdomoftheplanetoftheapes.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/kingdomoftheplanetoftheapes.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "IF",
-    "review": "Elizabeth, better known as Bea, temporarily moves in with her grandmother during her father's treatment. For Bea, this brings back memories of when she lost her mother. Her mother encouraged her to tell stories, perform, and play make-believe. Her dad does the same with his joyful attitude.<br/><br/>After visiting her dad, Bea sees a young girl running in the hallway. Bea chases after her, but the girl runs into the top-floor apartment. Bea knocks, and a man answers without opening the door. The man answers that no girl lives there.<br/><br/>Bea finds an old camcorder and plays the tape inside. It's a recording of happier times with her mother. Then she sees the man and girl outside her window. Bea follows them down the street and watches the man enter a brownstone. Inside the home, the man, Cal, asks Blue to come out of the closet. Outside, Bea sees Blue's large purple hand open the bedroom window. She turns in disbelief and sees the girl from the apartment. But she is not human. Bea faints.<br/><br/>Bea wakes up in Cal's apartment, and the 'girl,' Blossom, makes Bea tea. Blue explains that they are IF, an acronym for Imaginary Friend. The kids that manifested them grew up. Cal is a matchmaker of sorts. He is helping them find new kids to match with. Bea gets an idea. They will locate the kids who created them as adults now. If they can get the adults to remember them, maybe they'll save the IFs. Bea, who tries to be an adult, will discover the beauty in fun and imagination.<br/><br/>This film is an astounding, heartfelt story that asks, 'What IF.' Viewers must catch this movie from the beginning. The script delivers the lovely relationship between Bea and her parents in a montage. Seeing the IFs helps Bea find joy in having fun again. The script shows the audience the importance of Imaginary Friends then and now. And the score will make your heart swell with excitement. You will want the DVD to uncover what they left on the cutting room floor. If you saw this movie, don't ruin the twist. But adults may see it coming.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0D3VF4Q5Z"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/if.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/if.jpeg"
     }
   }
 ];
@@ -107,19 +107,6 @@ module.exports = mustBuy;
     "image":{
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/scrambled.jpeg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/scrambled.jpeg"
-    }
-  }
-
-   {
-    "option": "1",
-    "mtitle": "Slingshot",
-    "review": "Slingshot was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-     "asin":{
-      "re":"B0D9WLFJX2"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/slingshot.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/slingshot.jpg"
     }
   }
 
@@ -185,19 +172,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/soundofhopethestoryofpossomtrot.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/soundofhopethestoryofpossomtrot.jpg"
-    }
-  }
-
-   {
-    "option": "4",
-    "mtitle": "Deadpool and Wolverine",
-    "review": "Wade Wilson wanted more from his life because Vanessa asked him to cut out the nonsense. He uses Cable's time-traveling device to join a superhero team, but they reject him. Wade returns to his timeline and sells cars with Peter for 6 years. Deadpool is a thing of the past. Wade bikes home and finds a surprise birthday party waiting for him. He answers a knock at the door and assumes the uniformed people are strippers. They are the Time Variant Authority or TVA. They rip the wig off Wade's head and pull him into a portal.<br/><br/>Wade wakes up at a table with Mr. Paradox at the opposite end. Mr. Paradox introduces Wade to the TVA and the Sacred Timeline. Mr. Paradox warns Wade that his timeline will end because an 'anchor being' died. He grows tired of waiting for the timelines to parish. Mr. Paradox is building a Time Ripper to destroy Wade's timeline but will allow Wade to move to another and spare his life. Wade assumes he's the anchor being, and Mr. Paradox laughs. Wade's timeline's anchor is Wolverine. Wade can't stomach the thought of losing his friends. He steals Mr. Paradox's TemPad and jumps through timelines to find a replacement Wolverine.<br/><br/>Wade returns with a suitable Logan and demands Mr. Paradox return them to his timeline. Mr. Paradox laughs because this version of Logan ended his universe. Mr. Paradox sends them to the Void. He expects Cassandra Nova and Alioth to finish the job. Wade and Logan must put their issues aside to leave the Void, stop Mr. Paradox from using the Time Ripper, and save Wade's timeline.<br/><br/>This movie reaches across universes and production studios to fulfill every fan's fantasy. The opening sequence starts with blood, guts, violation, and NSync. Then, Wade travels through the timeline and finds a host of Wolverines. They will surprise and humor you. The team-up in the Void is legendary and finishes several characters' stories while staying true to Deadpool. The graphics hold hidden gems amongst the gore and make your stomach churn with Cassandra's powers. The music covers all genres and is perfectly inappropriate. This film will surpass your expectations and remind you why you love this franchise. See this before anyone spoils the surprises. Also, there are post- and mid-credit scenes.<br/><br/>5 out of 5 stars.",
-   "asin":{
-      "re":"B0DHH8ZTGS"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deadpoolandwolverine.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deadpoolandwolverine.jpg"
     }
   }
 
