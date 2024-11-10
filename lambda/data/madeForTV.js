@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
-    "mtitle": "A Kidnapping in Amish Country",
-    "review": "Lena runs to the home of her ex-boyfriend, Aaron, with a suitcase. She worries he won't accept her because she turned her back on the Amish lifestyle, but Aaron doesn't have a beard. After a passionate night, Lena hears a sound coming from her suitcase downstairs. She opens the luggage, containing $500,000 and a burner phone. Lena snaps the phone in half and returns to Aaron's bed.<br/><br/>Five years later, Lena and Aaron have a daughter, Miriam. And they returned to the Amish community. Aaron and Lena try for a baby, but she does something in bed that makes Aaron uneasy. He tells her to pray and leaves the bedroom. Lena has a nightmare about a man lying dead on the floor and wakes up in a panic. She finds Aaron reading the bible. He asks if she has secrets, and Lena says no.<br/><br/>Aaron and Lena ride home after visiting their friend, Ruth. They find a man lying in the road and stop to help. The man attacks while another man kidnaps Miriam. She discovers a message written on her arm and shows Aaron. It warns them to keep quiet about Miriam's kidnapping, or they will kill her. They look over Lena's body and unearth another message. The message demands $500,000 with a meeting time and place. Lena runs to the backyard with a shovel and digs up the suitcase while Aaron scolds her for not listening to her husband.<br/><br/>Lena arrives at the location alone because Aaron chose to alert the police. She hands the man the suitcase, but that's not enough. He ties Lena to a chair, puts makeup on her, and takes pictures. Lena demands Miriam, but the man says no and leaves. Lena unties herself and scurries to an ex-communicated friend named Skye. Skye steams because Lena hasn't spoken to Skye in five years. Lena apologizes and informs Skye about Miriam but refuses to give Skye any more details. Skye relents and helps Lena. But unearthing the truth will put both of their lives in danger.<br/><br/>Lena will stay in trouble because she digs herself deeper into each situation. The Mastermind is an obvious choice for Lifetime fans. This movie took one issue, wrapped it in Amish clothing, and added a child. It tries to be a wild ride but leaves you with one question: who killed Eddie? Skye is a dedicated friend, but you can leave Lena behind with this film.<br/><br/>2.5 out of 5 stars.",
+    "mtitle": "Search for a Serial Killer: The Regina Smith Story",
+    "review": "Regina Smith left her husband. She tells her mother that she and her daughter, Nikki, will stay with her friend, Ester. Regina turns on the radio and hears a public announcement. The police and fire department seek African American women to join the ranks. Regina signs up and takes basic training. After a grueling start, Regina passes.<br/><br/>The captain wants someone to do community outreach. He picks Regina and Eddie to meet with local business owners and townspeople. During their outreach, a store owner complains about the prostitutes across the street. Regina walks over to the prostitutes and recognizes a few of them. She collects their information and provides comfort.<br/><br/>Regina and Eddie continue to patrol the neighborhood. They find a crack house, and Regina grabs boards and nails to seal the home. Eddie argues with Regina about putting herself in danger, and they spot a body in the grass. Regina recognizes the woman as one of the prostitutes from her neighborhood. Regina tells the detective that she wants to warn the other prostitutes, but the detective tells Regina to back down. After someone finds another body, Regina hopes the newspapers will report it. They dash her dreams when they bury the story. Regina refuses to let anyone hurt her girls. She vows to find the Eyeball Killer.<br/><br/>Lt. Regina Smith leads with compassion. She sees the world write these women off because of their profession and addictions. Eddie's character feels distant, but he grows. The movie discusses Regina's and the killer's backstories. However, this film doesn't go into the gory details of the crime. It focuses on Regina's work-life balance, investigative superpower, and love life. She and Eddie made the streets safer for all women.<br/><br/>4 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/akidnappinginamishcountry.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/akidnappinginamishcountry.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/searchinforaserialkillerthereginasmithstory.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/searchinforaserialkillerthereginasmithstory.jpg"
     }
   },
   {
     "option": "2",
-    "mtitle": "A Carol for Two",
-    "review": "Violette leaves her hometown behind for the bright lights of Boardway and has her father, Thomas, and the town cheering for her. Thomas informs Violette that he called Hazel to keep an eye on Violette. Hazel was the best friend of Violette's aunt, Carol. Violette arrives at her audition and finds a man cleaning. The man explains that the investors pulled out of the show. So, they canceled it. Violette doesn't want to return home and disappoint everyone, so she visits Hazel's lounge called Fiore's.<br/><br/>Hazel charms patrons while giving her staff hard truths. She offers them stage time if they earn it. She extends the offer to her best waiter, Alex, if he stops extending credit to his cousin, Brad. Alex tells Brad to pay his tab.<br/><br/>Violette arrives at Fiore's and explains her situation to Hazel. Hazel offers Violette a job, gives Violette stage time, and introduces her to the staff. So, Hazel asks Rae to room with Violette and Alex to show Violette the ropes. Rae agrees, but Alex believes Violette is another entitled employee because she got a spot instantly.<br/><br/>Violette performs, the crowd goes wild, and Brad is smitten. If Alex works with Violette, Hazel offers Alex a coveted spot in her Christmas Eve show. Alex relents. Brad asks Alex to learn about Violette so he can attract her. Alex will keep up the lie, but Brad must pay his tab. As Alex and Violette work on their duet, he learns more about her and falls in love. Will he keep lying for Brad or continue lying to himself?<br/><br/>Brad and Hazel are the stand-out characters in this movie. They are hustlers of the same coin. Hazel is the hard-nosed momma bear for her employees. Brad is a sly fox who skates on charm and wit. Vivian and Alex grow throughout the film, but the script foreshadows their development. So viewers aren't concerned about their relationship. This movie is a delightful entry into the 2024 Countdown to Christmas for holiday music lovers.<br/><br/>3.5 out of 5 stars.",
+    "mtitle": "Trivia at St. Nick's",
+    "review": "Astronomy professor Celeste rambles about the annual Christmas Trivia contest at St. Nick's Bar to her teaching assistant, Ruby. Teams of 6 compete in a tournament over several days. Celeste's crush, Richard, joined the team because he won Jeopardy twice. Celeste reminds him the group will meet tonight, and he requests a practice schedule.<br/><br/>Celeste meets with her team. They will sign up today. Before they enter, Richard runs in with astounding news. He is going to Asia tomorrow. Celeste panics. They must have six members for their team. Celeste runs around campus to find a replacement. She settles on Ruby. But other teaching assistants convinced Ruby to play and name their team We Came to Slay.<br/><br/>Football offensive coach Max enters St. Nick's and asks to sit at their table. Celeste remembers Max as the rude, self-important buffet line jumper. She tells him no. The trivia game starts. The first question is about sports. Sherry runs over to Max, brings him to the table. After six questions, the team places third and wants him to stay. Celeste must get Max to take the tournament seriously because winning is her most important priority. However, Max wants Celeste to find the fun in winning. Can they change each other's minds and hearts?<br/><br/>Celeste is a bit overzealous, but she loves trivia. She misjudged Max as a dumb jock who doesn't care about the rules or studying. Max proves her wrong. Max believes Celeste is too tense. However, he sees she cares deeply about something and holds on. He falls for her competitive spirit as she embraces his winning edge. Hallmarkies will laugh at the Hallmark movie references. So watch and be ready to compete.<br/><br/>4 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/acarolfortwo.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/acarolfortwo.jpeg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/triviaatstnicks.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/triviaatstnicks.jpg"
     }
   },
   {
     "option": "3",
-    "mtitle": "My Sweet Austrian Holiday",
-    "review": "Charlotte took over Dobler Chocolates after her grandmother passed away. Now, Charlotte finds herself fighting city hall. Danube Development wants to tear down the complex and build luxury shops and condos. Charlotte is the final holdout and believes she has two secret weapons to win. Charlotte is a finalist for chocolatier of the year and plans to have her shop listed as a historical landmark. Maya works in Charlotte's store and offers sage advice.<br/><br/>The CEO of Danube, Morgana, reviews the logistics of their latest deal with her assistant, Jules. Jules reports they have the documents for all but one of the properties. Morgana says Charlotte doesn't have the proof to declare her business a landmark, causing Charlotte to lose. She is ready to meet with Gordon, the CEO of Eurostar. He acquired her company after they obtained the lucrative deal. Henry and his right-hand man, Wilfred, arrive. Gordon had a health scare, stepped down, and gave Henry the reigns without telling Morgana. Morgana lies and says everything is going according to plan. Henry tells Morgana he desires a holiday and doesn't want to handle business until the new year.<br/><br/>Henry and Wilfred visit a Christmas market and see Charlotte and Maya at a booth. They unofficially met at a fundraiser, and Maya felt sparks between Henry and Charlotte. She tricks Charlotte into spending time alone with Henry while she gets to know Wilfred better. Henry mentions that he works for Eurostar but doesn't discuss Danube Development. He doesn't know the truth until he sees her paperwork. Against Wilfred's warnings, Henry doesn't tell Charlotte his connection to her strife. Can he find a deal that works for them both without losing Charlotte?<br/><br/>The romance between Maya and Wilfred will keep you watching. Charlotte's resolution won't surprise Hallmarkies because the movie is a typical 'bad developer' story. Morgana is a villain from Disney. All she needed was a cat or a coat made of Dalmatian fur. This film won't interest you and gets lost in the holiday schedule.<br/><br/>2.5 out of 5 stars.",
+    "mtitle": "Who's Stalking My Family",
+    "review": "Ivy comes home and finds her daughter, Sadie, tutoring Colton in the kitchen. Ivy got the tenure position and wants to celebrate. She invites Colton to go with them and bring his mother, Angela. Colton thanks Ivy for her hospitality but rejects the offer.<br/><br/>Ivy drops off dry cleaning at her sister's home. Her sister, Lily, doesn't answer when Ivy yells. So, Ivy searches around the house. Lily's husband, Pete, ransacked their bedroom before attacking Lily. Ivy finds Lily in the bathroom crying and convinces Lily to leave Pete. Lily stays with Ivy.<br/><br/>Ivy leaves work, and Pete accosts her. He demands she tell Lily to take him back, but Ivy refuses. He grabs Ivy. Her co-worker, Leo, sees this and scares Pete away. Later, Leo asks Ivy out on a date. Ivy accepts.<br/><br/>Colton meets Sadie at school. He wants to meet her later for tutoring and to get forgotten items. Sadie gives Colton the code so he can get the things he forgot. Colton lets himself inside the home and cooks. He startles Ivy. She questions his presence but allows him to cook. Sadie returns and hangs out with Colton as Ivy goes on her date with Leo.<br/><br/>During Ivy's date, she thinks she sees Colton in the background. She texts Sadie to uncover his location. Sadie says Colton left their house a while ago. Ivy meets with Angela to discuss Colton's behavior. Angela understands Ivy's concern, but Sadie is upset. Ivy's uneasiness grows after someone kills her neighbor. Ivy has a stalker. Can Ivy uncover the truth before she becomes a victim?<br/><br/>Ivy isn't another irrational damsel. She calls out poor behavior and uncomfortable situations. She catches Sadie sneaking in after a date, calls out Pete's abuse, and gives Leo a chance to explain a curious situation. Sadie isn't a brat but makes mistakes. When Sadie speaks ill of Ivy, Lily comes to Ivy's defense. This film gives viewers several red herrings and a surprising culprit. This picture is entertaining for old-school Lifetimers.<br/><br/>4 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mysweetaustrianholiday.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mysweetaustrianholiday.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/whostalkingmyfamily.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/whostalkingmyfamily.jpg"
     }
   },
   {
     "option": "4",
-    "mtitle": "The 5-Year Christmas Party",
-    "review": "Alex arrives late to her friend's holiday party. They congratulate Alex on her rendition of A Christmas Carol. As they exchange gifts, Alex's crush, Max, arrives. She escapes to the roof, and Max follows. They discuss their future and lean in for a kiss, but Alex stops Max. She doesn't understand how he ignored her in college for four years and wants to kiss her now. Max rebuts and says she avoided him. They choose to leave without showing affection.<br/><br/>Alex gets a call from her mother with unfortunate news. Her mom lost the bookstore, can't visit for Christmas, and can't pay for Alex's apartment. Alex meets with Max's sister, Pam, and asks for a job at Pam's catering company. Pam gives Alex a job but doesn't tell Alex that Max is the bartender.<br/><br/>Max and Alex complete a private party job for Pam, and Pam lets Alex take the Christmas tree home. Max helps Alex take it to her apartment, and they decide to have a do-over kiss, but reverse roles. They acknowledge the attraction but are going in different directions. They choose to be friends. Max and Alex take four Christmases to get it right and be honest about what's wrong.<br/><br/>This pair feels frustrating, but the script takes an authentic view of relationships. Max and Alex are young and believe a long-distance relationship will cause too much strain on their careers and personal lives. As they go through triumphs and troubles in their careers, they lean on and lie to each other. However, their lies unravel when Alex and Max are face-to-face. Those moments will make you laugh and cry. The timelapse is well done, necessary, and realistic.<br/><br/>4 out of 5 stars.",
+    "mtitle": "Five Gold Rings",
+    "review": "Audrey sketches the pier as her grandmother, Molly, combs the beach for treasure. Molly finds a St. Nicolas pendant and shows it to Audrey. Audrey questions if Molly will sell the pendant in her antique store. But she won't because it has an inscription that reads O'Sullivan. Molly wants to find the owner before Christmas and return it. Until then, Molly asks Audrey to put the pendant in the store's secret hiding place. Then, Molly requests that Audrey's mother, Kay, frame Audrey's drawing.<br/><br/>Today, Audrey lives in New York and paints while Kay handles the store. The lawyer finished reviewing Molly's will, and Molly left the store to Kay and Audrey equally. Audrey hasn't been to Springside in years. Until Audrey looks at her blank canvas and chooses to return to Springside to get inspiration and help Kay.<br/><br/>Audrey embraces Kay and looks around the store. Kay tells Audrey that Molly left her a message that reads, 'Look in the secret spot.' Audrey finds a note from Molly and reads it. When Molly got her stage four diagnosis, she went to the beach and uncovered five gold rings. Molly wanted Audrey to find the owners of the five items before Christmas. Audrey wants to fulfill Molly's final wish but knows she will need help. Kay reminds her that Finn O'Sullivan owns a detective agency now. Audrey meets Finn, and he agrees without hearing the details. The pair has 9 days to find five owners, but will they uncover more?<br/><br/>There is nothing better than a heartwarming mystery during the holidays. Each owner has a special holiday memory attached to their item. And the mysteries aren't easy to solve. Some have heartbreaking memories, while others are funny, but they experience joy when they hold their lost item. The mystery will bewitch viewers so much that they will forget about the love story between Finn and Audrey. This story is beautifully written and perfect for the holiday season.<br/><br/>5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thefiveyearchristmasparty.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thefiveyearchristmasparty.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/fivegoldrings.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/fivegoldrings.jpeg"
     }
   },
   {
     "option": "5",
-    "mtitle": "Don't Scream, It's Me",
-    "review": "Liz argues with her estranged husband, Officer Jay. They live together but in separate bedrooms. Jay hasn't fixed the dryer. So Liz puts their clothes on a line to dry. Then, a man grabs Liz from behind and tells her not to scream. It's her ex-boyfriend, Drew. Drew broke out of prison. He begs for clothes and food. Liz relents and tells Drew to stay outside momentarily. Liz lies and tells Jay she's too sick to attend work. He wishes her well and leaves.<br/><br/>Liz gives Drew clean clothes and a bowl of cereal. Then, she helps Drew remove the handcuffs while telling him to return to prison. Drew escaped with Wesley, who suffers from stage 4 pancreatic cancer. Wesley killed a guard to escape, and now Drew fears Wesley will murder more. Then, Liz gets a knock at the door, and Drew hides. It's a prison officer. He looks around the home and doesn't find Drew. Liz gets a closer look at the officer's name and sees it's the dead officer's shirt. The man, masquerading as the dead officer, is Wesley. Wesley overpowers Drew and handcuffs him to the refrigerator. Wesley demands Liz assist him, or he will kill Drew.<br/><br/>This movie is wild and funny at the same time. Liz has the worst taste in men. Her commitment to health care won't allow her to kill Wesley when he's down. Instead, she imprisons him, and he lives to keep fighting. Liz and Drew's backstory consistently slows the excitement but offers a compelling look into Liz's thought process. This film has exciting moments, but several flashbacks distract the audience.<br/><br/>3 out of 5 stars.",
+    "mtitle": "Secrets Between Sisters",
+    "review": "Cassie apologizes to her husband, Steven, for her daughter's bratty behavior. Cassie's ex-husband, Lyle, thinks it's time for their daughter, Ariel, to live with him. Cassie politely rejects his suggestion.<br/><br/>Cassie relaxes in the tub when she hears a noise. She investigates and gets startled by her sister, Miranda. Cassie sees Miranda's black eye and asks Miranda if Rufus hit her. Miranda doesn't want to elaborate on the abuse and questions Cassie about helping their brother, Kevin. Miranda begs Cassie to forgive and help Kevin. But Cassie says no because Kevin has a gambling addiction and refuses to seek help.<br/><br/>After a long day at work, Cassie returns home and catches Miranda giving Ariel beer. Miranda apologizes and requests a girls' night out. However, Cassie wants to rest. So Miranda goes out alone.<br/><br/>Ariel can't find Miranda in the guest bedroom. Cassie texts Miranda but doesn't get a response and goes to work. Kevin is waiting for her. He asks Cassie for money, but she says no. He breaks items in her office and retreats. Cassie returns home, and Steven files a restraining order against Kevin. Then, Steven uses his District Attorney position to have the police track Miranda's phone. The trace leads the police to Rufus's truck. When Detective Andrews appears at Cassie's doorstep, Cassie expects good news. However, Detective Andrews reports someone found Cassie's remains in an alley. Cassie won't wait for the police to uncover the truth. She will find it in a world of lies, texts, and sex clubs.<br/><br/>The title doesn't match the movie's plot, but the body count is high. With every step forward Cassie makes in the case, another person dies. The final fight scene is funny, but the plot is compelling. Viewers can guess who the murderer is, so you watch to prove you're correct. This film won't be a favorite, but it's worth a rainy day watch.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/dontscreamitsme.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/dontscreamitsme.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/secretsbetweensisters.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/secretsbetweensisters.jpg"
     }
   }
 ];
@@ -58,47 +58,47 @@ module.exports = madeForTV;
 
 {
 "option":"1",
-"mtitle":"Search for a Serial Killer: The Regina Smith Story",
+"mtitle":"Christmas at Plumhill Manor",
 "review":"<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/searchinforaserialkillerthereginasmithstory.jpg",
-  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/searchinforaserialkillerthereginasmithstory.jpg"
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmasatplumhillmanor.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmasatplumhillmanor.jpg"
 }
 },
 {
 "option":"2",
-"mtitle":"Trivia at St. Nick's",
+"mtitle":"Christmas with the Singhs",
 "review":"<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/triviaatstnicks.jpg",
-  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/triviaatstnicks.jpg"
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/christmaswiththesignhs.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/christmaswiththesignhs.jpg"
 }
 },
 {
 "option":"3",
-"mtitle":"Who's Stalking My Family",
+"mtitle":"The Woman with My Face",
 "review":"<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl":"",
-  "largeImageUrl":""
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thewomanwithmyface.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thewomanwithmyface.jpg"
 }
 },
 {
 "option":"4",
-"mtitle":"Five Gold Rings",
+"mtitle":"A Reason for the Season",
 "review":"<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/fivegoldrings.jpeg",
-  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/fivegoldrings.jpeg"
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/areasonfortheseason.jpeg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/areasonfortheseason.jpeg"
 }
 },
 {
 "option":"5",
-"mtitle":"Secrets Between Sisters",
+"mtitle":"'Tis the Season to Be Irish",
 "review":"<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretsbetweensisters.jpg",
-  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretsbetweensisters.jpg"
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/tistheseasontobeirish.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/tistheseasontobeirish.jpg"
 }
 }
 
