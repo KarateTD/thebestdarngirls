@@ -1,10 +1,34 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "The Forge",
+    "review": "Cynthia returns home and summons her son, Isaiah, to the kitchen. He hasn't cleaned his room, taken out the trash, or done his laundry. Cynthia tells Isaiah to get a job and pay rent if he's not attending school. She gives him one month to do this, or he must move out.<br/><br/>Isaiah enters Cynthia's hair salon and asks for her car keys. Stores have job openings, but they are too far for him to bike. Cynthia tells Isaiah he must bring the car back by 5 pm. When Isaiah drives to the store, it's closed. His friends call to play basketball, and Isaiah goes to the court. He loses track of time and arrives at the salon at 5:30 pm. Cynthia is furious, and her anger grows when she sees sweat on Isaiah's clothing. Cynthia tells Isaiah he's acting like his father. She calls her sister, Elizabeth, for prayer support.<br/><br/>Elizabeth arrives at Cynthia's hair salon with her prayer warrior, Miss Clara. Cynthia wants them to pray for Isaiah because he is following a path of irresponsibility. Cynthia understands it's hard for a woman to call out the man in their son. So, she asks the warriors to pray for Isaiah to find his way.<br/><br/>Isaiah walks into Moore Fitness and asks for an application. A man, Joshua, enters and asks Isaiah why he's there. Isaiah snaps at Joshua and demands to know why Joshua questions him. Joshua explains that he is the president of Moore Fitness. Isaiah rips up the application and sulks to the door. Joshua stops him and asks Isaiah to lunch. Joshua offers Isaiah a part-time job and discipleship. He asks Isaiah to come to work 30 minutes early for breakfast and mentoring. Isaiah agrees.<br/><br/>Cynthia cooks dinner, and Isaiah gives Cynthia the great news. He got a job with Joshua Moore. Also, Joshua wants to mentor him. Cynthia hugs and congratulates Isaiah. After Isaiah leaves, she thanks God because their prayers worked. She knows the impact Joshua had on Isaiah's Uncle Tony. Joshua will show Isaiah the true meaning of a man, leadership, and being a disciple.<br/><br/>The Forge is a force. It's unnecessary to see War Room, but this film makes a heartfelt reach to the previous picture. This movie is faith-based, but that should not stop anyone from seeing it. The script doesn't place blame on any parent but recognizes both play a significant role in Isaiah's development. This plot talks about forgiveness, sacrifice, commitment, and the power of prayer. Miss Clara states that people treat prayer like a spare tire. They only use it when they need it. They should consider it a steering wheel for their lives. This movie is a teaching tool for mentorship and discipleship, especially amongst men. This funny, spiritual, and thought-provoking piece deserves a second watch.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0DJPPTNRG"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theforge.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theforge.jpg"
+    }
+  },
+  {
+    "option": "5",
+    "mtitle": "The Wild Robot",
+    "review": "ROZZUM Unit 7 1 3 4 is an assistance robot from Universal Dynamics. It activates on a remote, uninhabited island and looks for a task. The wildlife and terrain become a challenge. So, ROZZUM puts herself in observation mode for several days. She learns about the ecosystem and animal linguistics. When she is at 100%, ROZZUM turns on and looks for her owner to give her a task. ROZZUM enters a bear cave while searching. The bear, Thorn, wakes and chases ROZZUM. ROZZUM escapes by slipping and crushing a bird's nest. ROZZUM looks under herself and finds a dead goose and several broken eggs. Only one is intact. A fox, Fink, steals the egg to eat it, but ROZZUM stops him. ROZZUM sends a distress beacon so the manufacturers can locate her, but the gosling breaks it. An opossum, Pinktail, sees ROZZUM struggling with the tiny bird and explains that it thinks ROZZUM is its mother. ROZZUM leaves the gosling behind to find a task. Pinktail tells ROZZUM that her task is to get the gosling some food, teach it to swim, and teach it how to fly before winter. ROZZUM's programming activates, and she cares for the gosling.<br/><br/>ROZZUM crosses paths with Fink again while acquiring food for the gosling. Fink tells ROZZUM to give up because it's a runt and wasn't supposed to survive. However, ROZZUM refuses to accept this because it's her task. Later, Fink tells ROZZUM to name the young bird. She calls the gosling Brightbill and tells everyone to call her Roz. Over months, Roz, Fink, and Brightbill become a family, but Brightbill can't fly and is a weak swimmer. Brightbill finds other geese during a swimming lesson, but they exclude him because a 'monster' raised him. Roz feels guilty and ventures around the island. She finds several broken ROZZUMs in a cave. She disconnects its return beacon, steals it, and returns to Brightbill to complete her tasks. She must teach Brightbill to fly. After several attempts, an elder goose, Longneck, promises to take Brightbill under his wing for the migration. But Roz has to get Brightbill ready in a week. Can Roz and Fink get Brightbill prepared for the winter migration?<br/><br/>Based on The Wild Robot by Peter Brown, this movie gives a caring and unapologetic view of parenting. However, it offers it from a wildlife perspective. Fink wants her to give Brightbill his independence, but she wants him to be independent while closer to her. Roz excels beyond her programming when she experiences love. The audience should know that the movie goes beyond the migration. Roz's time with Brightbill helps her become a mother. However, something more makes her a wild robot. The storyline is compelling and unique. The voice actors deliver the lines with emotion and perfect comedic timing. And the graphics are astounding. Viewers should keep an ear open for the A-1 13 reference. The film is on a cliffhanger because it's book 1 of a series. Also, there is a short but funny post-credit scene.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0DGY4LZXC"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thewildrobot.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thewildrobot.jpg"
+    }
+  },
+  {
+    "option": "3",
     "mtitle": "Beetlejuice Beetlejuice",
     "review": "Psychic Medium Lydia halts the taping of her show, Ghost House, after seeing Betelgeuse in the crowd. She runs to the bathroom and opens her pill bottle. Her boyfriend, manager Rory, chases after her. Then, Lydia gets several urgent texts from her stepmother, Delia.<br/><br/>Lydia runs to Delia's latest art installation and gets woeful news. Lydia's father, Charles, died. Lydia calls her daughter, Astrid, but she won't answer. Astrid believes her mother is a fraud because Lydia can't see her dad, Richard. Lydia, Delia, Astrid, and Rory arrive at the original Ghost House in Winter River. They have a funeral for Charles, and Delia shrouds the house in black cloth for a grief collective. During the wake, Rory proposes to Lydia, and she reluctantly agrees. Astrid leaves in disgust, jumps on her bike, and narrowly escapes death by crashing through a fence and into a tree. A boy, Jeremy, sees her from his tree house and runs down to help. The two connect and make plans to meet before the wedding.<br/><br/>In the afterlife, Betelgeuse manages a call center. He gets a call from Ghost Detective Wolf Jackson because someone accidently reanimated Betelgeuse's ex-wife, Delores. Betelgeuse tells them he married Delores, thinking he found the love of his life. He didn't know she was a witch who traded immortality for taking people's lives. She poisoned Betelgeuse on their wedding night. Before the poison took effect, he killed her. Now she is traveling through the afterlife, sucking the souls out of anyone standing in between her and Betelgeuse. He believes marrying Lydia will save him from Delores.<br/><br/>Before the wedding, Astrid roams to the attic and finds the town model, a Betelgeuse flyer, and a photo album with pictures of Richard. She questions Lydia about the flyer and says Betelgeuse's name twice. Lydia pulls Astrid out of the attic and forbids her from going inside. Later, Lydia walks into the attic, and Rory finds her. He believes Betelgeuse is a figment of her imagination and says the name three times. Betelgeuse acts as their marriage counselor before Lydia and Rory escape. She relocates Betelgeuse to her past until Astrid gets in trouble and enters the afterlife. Lydia will say the three words that put fear in her heart. Will she regret it?<br/><br/>This sequel has callbacks from the first with songs, outfits, and art but tells a unique tale. Lydia kept her ability to talk to ghosts and now uses it to make a living. Delia moved beyond sculpture and now uses her body as a canvas. On the surface, the movie is about Lydia, Delia, and Astrid escaping Betelgeuse. However, it's about bringing Lydia and Astrid together because Astrid doesn't understand Lydia's love for her. Viewers will get a new possession song and dance while laughing with their favorite bio-exorcist. Also, the audience learns more about Betelgeuse before his death in a foreign-film-style retelling. They also get an animated version of Charles' death and the Soul Train. Fans of the original movie will not be disappointed.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0DDVDSVMS"
+    "asin": {
+      "re": "B0DDVDSVMS"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/beetlejuicebeetlejuice.jpg",
@@ -12,19 +36,19 @@ var mustBuy = [
     }
   },
   {
-    "option":"2",
-    "mtitle":"Skincare",
-    "review":"Skincare was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0DGH3LRWV"
+    "option": "4",
+    "mtitle": "Skincare",
+    "review": "Skincare was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0DGH3LRWV"
     },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/skincar.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/skincar.jpeg"
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/skincar.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/skincar.jpeg"
     }
   },
   {
-    "option": "3",
+    "option": "5",
     "mtitle": "Trap",
     "review": "Cooper smiles as his daughter, Riley, dances and sings to her favorite artist, Lady Raven. As they wait in line to scan their tickets, Cooper notices officers with high-powered rifles.<br/><br/>They settle into their seats as Lady Raven performs for 20,000 people. Cooper spots police officers taking men out of the audience. Cooper enters the bathroom stall, pulls out his phone, and checks on Spencer. Spencer is the person Cooper chained in a basement. Cooper gleams as Spencer pulls his chains, cries, and begs for help.<br/><br/>During the intermission, Riley wants concert merchandise. The vendor, Jamie, loves Cooper's example. He offers to find another shirt later if Cooper returns in 10 minutes. Cooper pulls Jamie aside and asks why the arena has a vast police presence. Jamie whispers that the concert is a trap. The FBI discovered that 'The Butcher' would be there. The Butcher is a notorious serial killer who dismembered a dozen victims. They have SWAT covering every exit, FBI profiler Dr. Josephine Grant in The Butcher's head, and they will stop every man.<br/><br/>Cooper tests the security. He sees a drunken girl wobbling near a staircase. He bumps into her, and she falls. Arena security runs to her aid, but SWAT doesn't move. Cooper has to find a way out of the trap without tipping off Riley. Can he make it out?<br/><br/>This movie builds slowly for 15 minutes to allow the audience to see Cooper's bond with Riley and Riley's admiration for Lady Raven. Viewers will notice little quirks in Cooper's character before he sits with his daughter. It's not until Cooper looks at his phone that you understand the depths of his depravity. Cooper maneuvers around the arena with precision, finesse, and dumb luck. With this director, you expect a twist. However, there are several that will keep you guessing. Don't be surprised if you root for Cooper.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -33,30 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/trap.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/trap.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Sound of Hope: The Story of Possum Trot",
-    "review": "First Lady Donna Martin is happy with her family in the small town of Possum Trot. Her husband, Reverand W.C. Martin, leads the Bennett Baptist Church. They have two children, Ladonna and Princeton. However, Donna's mother, Murtha, wants Donna and W.C. to have more children. Murtha, the mother of 18, returns home and dies. Donna falls into a depression for months. After arguing with W.C., Donna leaves the house and travels to the ruins of her childhood home. There, she sees a group of children playing and hears God speak to her. Donna calls her sister, Diann, and asks Diann to attend an adoption seminar.<br/><br/>Social worker Susan explains that 70% of the children suffer from poverty-induced neglect. The other 30% suffered severe abuse. She shows Diann and Donna images of the other 30%, and the pictures call both to act.<br/><br/>A brother and sister come to Susan's office with heartbreaking stories. Susan exhausts all her options. Donna jumps at the chance to help and welcomes them into her home. W.C. preaches to their congregation about their adoption, the excuses not to adopt, and the bible's most notable adoption. It inspires 22 families to adopt. However, the people can't afford to come to Susan for the classes. They ask Susan to host it in their church. This small town will make a lasting imprint on the children, Texas, and the system, but it won't be easy.<br/><br/>This movie doesn't make adoption look effortless. However, the families in Possum Trot never give up. The writers don't depict adoption as a magic bullet to fix these children's long-term hardships. It's the first step of many. When W.C. and Donna see the town falling apart and second-guessing their choice, they lean on each other with group prayer and outreach. They recap the children and townspeople today at the conclusion before asking the audience to help. It will assist viewers make an informed choice about adoption. But hopefully, it will spark a passion for others to follow Possum Trot's lead.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0DJHCYBPM"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/soundofhopethestoryofpossomtrot.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/soundofhopethestoryofpossomtrot.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Deadpool and Wolverine",
-    "review": "Wade Wilson wanted more from his life because Vanessa asked him to cut out the nonsense. He uses Cable's time-traveling device to join a superhero team, but they reject him. Wade returns to his timeline and sells cars with Peter for 6 years. Deadpool is a thing of the past. Wade bikes home and finds a surprise birthday party waiting for him. He answers a knock at the door and assumes the uniformed people are strippers. They are the Time Variant Authority or TVA. They rip the wig off Wade's head and pull him into a portal.<br/><br/>Wade wakes up at a table with Mr. Paradox at the opposite end. Mr. Paradox introduces Wade to the TVA and the Sacred Timeline. Mr. Paradox warns Wade that his timeline will end because an 'anchor being' died. He grows tired of waiting for the timelines to parish. Mr. Paradox is building a Time Ripper to destroy Wade's timeline but will allow Wade to move to another and spare his life. Wade assumes he's the anchor being, and Mr. Paradox laughs. Wade's timeline's anchor is Wolverine. Wade can't stomach the thought of losing his friends. He steals Mr. Paradox's TemPad and jumps through timelines to find a replacement Wolverine.<br/><br/>Wade returns with a suitable Logan and demands Mr. Paradox return them to his timeline. Mr. Paradox laughs because this version of Logan ended his universe. Mr. Paradox sends them to the Void. He expects Cassandra Nova and Alioth to finish the job. Wade and Logan must put their issues aside to leave the Void, stop Mr. Paradox from using the Time Ripper, and save Wade's timeline.<br/><br/>This movie reaches across universes and production studios to fulfill every fan's fantasy. The opening sequence starts with blood, guts, violation, and NSync. Then, Wade travels through the timeline and finds a host of Wolverines. They will surprise and humor you. The team-up in the Void is legendary and finishes several characters' stories while staying true to Deadpool. The graphics hold hidden gems amongst the gore and make your stomach churn with Cassandra's powers. The music covers all genres and is perfectly inappropriate. This film will surpass your expectations and remind you why you love this franchise. See this before anyone spoils the surprises. Also, there are post- and mid-credit scenes.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0DHH8ZTGS"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deadpoolandwolverine.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deadpoolandwolverine.jpg"
     }
   }
 ];
@@ -149,19 +149,6 @@ module.exports = mustBuy;
     }
   }
 
-  {
-    "option": "4",
-    "mtitle": "The Forge",
-    "review": "Cynthia returns home and summons her son, Isaiah, to the kitchen. He hasn't cleaned his room, taken out the trash, or done his laundry. Cynthia tells Isaiah to get a job and pay rent if he's not attending school. She gives him one month to do this, or he must move out.<br/><br/>Isaiah enters Cynthia's hair salon and asks for her car keys. Stores have job openings, but they are too far for him to bike. Cynthia tells Isaiah he must bring the car back by 5 pm. When Isaiah drives to the store, it's closed. His friends call to play basketball, and Isaiah goes to the court. He loses track of time and arrives at the salon at 5:30 pm. Cynthia is furious, and her anger grows when she sees sweat on Isaiah's clothing. Cynthia tells Isaiah he's acting like his father. She calls her sister, Elizabeth, for prayer support.<br/><br/>Elizabeth arrives at Cynthia's hair salon with her prayer warrior, Miss Clara. Cynthia wants them to pray for Isaiah because he is following a path of irresponsibility. Cynthia understands it's hard for a woman to call out the man in their son. So, she asks the warriors to pray for Isaiah to find his way.<br/><br/>Isaiah walks into Moore Fitness and asks for an application. A man, Joshua, enters and asks Isaiah why he's there. Isaiah snaps at Joshua and demands to know why Joshua questions him. Joshua explains that he is the president of Moore Fitness. Isaiah rips up the application and sulks to the door. Joshua stops him and asks Isaiah to lunch. Joshua offers Isaiah a part-time job and discipleship. He asks Isaiah to come to work 30 minutes early for breakfast and mentoring. Isaiah agrees.<br/><br/>Cynthia cooks dinner, and Isaiah gives Cynthia the great news. He got a job with Joshua Moore. Also, Joshua wants to mentor him. Cynthia hugs and congratulates Isaiah. After Isaiah leaves, she thanks God because their prayers worked. She knows the impact Joshua had on Isaiah's Uncle Tony. Joshua will show Isaiah the true meaning of a man, leadership, and being a disciple.<br/><br/>The Forge is a force. It's unnecessary to see War Room, but this film makes a heartfelt reach to the previous picture. This movie is faith-based, but that should not stop anyone from seeing it. The script doesn't place blame on any parent but recognizes both play a significant role in Isaiah's development. This plot talks about forgiveness, sacrifice, commitment, and the power of prayer. Miss Clara states that people treat prayer like a spare tire. They only use it when they need it. They should consider it a steering wheel for their lives. This movie is a teaching tool for mentorship and discipleship, especially amongst men. This funny, spiritual, and thought-provoking piece deserves a second watch.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0DJPPTNRG"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theforge.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theforge.jpg"
-    }
-  }
-
    {
     "option": "5",
     "mtitle": "Piece By Piece",
@@ -200,19 +187,6 @@ module.exports = mustBuy;
     "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/transformersone.jpg"
     }
     }
-
-   {
-    "option": "5",
-    "mtitle": "The Wild Robot",
-    "review": "ROZZUM Unit 7 1 3 4 is an assistance robot from Universal Dynamics. It activates on a remote, uninhabited island and looks for a task. The wildlife and terrain become a challenge. So, ROZZUM puts herself in observation mode for several days. She learns about the ecosystem and animal linguistics. When she is at 100%, ROZZUM turns on and looks for her owner to give her a task. ROZZUM enters a bear cave while searching. The bear, Thorn, wakes and chases ROZZUM. ROZZUM escapes by slipping and crushing a bird's nest. ROZZUM looks under herself and finds a dead goose and several broken eggs. Only one is intact. A fox, Fink, steals the egg to eat it, but ROZZUM stops him. ROZZUM sends a distress beacon so the manufacturers can locate her, but the gosling breaks it. An opossum, Pinktail, sees ROZZUM struggling with the tiny bird and explains that it thinks ROZZUM is its mother. ROZZUM leaves the gosling behind to find a task. Pinktail tells ROZZUM that her task is to get the gosling some food, teach it to swim, and teach it how to fly before winter. ROZZUM's programming activates, and she cares for the gosling.<br/><br/>ROZZUM crosses paths with Fink again while acquiring food for the gosling. Fink tells ROZZUM to give up because it's a runt and wasn't supposed to survive. However, ROZZUM refuses to accept this because it's her task. Later, Fink tells ROZZUM to name the young bird. She calls the gosling Brightbill and tells everyone to call her Roz. Over months, Roz, Fink, and Brightbill become a family, but Brightbill can't fly and is a weak swimmer. Brightbill finds other geese during a swimming lesson, but they exclude him because a 'monster' raised him. Roz feels guilty and ventures around the island. She finds several broken ROZZUMs in a cave. She disconnects its return beacon, steals it, and returns to Brightbill to complete her tasks. She must teach Brightbill to fly. After several attempts, an elder goose, Longneck, promises to take Brightbill under his wing for the migration. But Roz has to get Brightbill ready in a week. Can Roz and Fink get Brightbill prepared for the winter migration?<br/><br/>Based on The Wild Robot by Peter Brown, this movie gives a caring and unapologetic view of parenting. However, it offers it from a wildlife perspective. Fink wants her to give Brightbill his independence, but she wants him to be independent while closer to her. Roz excels beyond her programming when she experiences love. The audience should know that the movie goes beyond the migration. Roz's time with Brightbill helps her become a mother. However, something more makes her a wild robot. The storyline is compelling and unique. The voice actors deliver the lines with emotion and perfect comedic timing. And the graphics are astounding. Viewers should keep an ear open for the A-1 13 reference. The film is on a cliffhanger because it's book 1 of a series. Also, there is a short but funny post-credit scene.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0DGY4LZXC"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thewildrobot.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thewildrobot.jpg"
-    }
-  }
 
    {
     "option": "4",
