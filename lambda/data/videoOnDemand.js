@@ -36,7 +36,7 @@ var videoOnDemand = [
 		}
 	},
 	{
-		"option": "1",
+		"option": "5",
 		"mtitle": "A Christmas Miracle",
 		"review": "Roz prepares for the Community Center's Christmas Jubilee when she gets a call. The government wants to make room for a new commercial complex. So, they are cutting funding from several programs. Roz packs the Christmas stuff away and heads home.<br/><br/>Dalton closes a big deal before the holidays. Now, he wants to focus on his family. He overhears his co-worker, James, on the phone with his superintendent. The pipe in James's apartment broke, and it's flooded. They won't be able to fix it until after the holidays. Dalton offers to let James stay with his family, but James declines the invitation.<br/><br/>James sits at a cafe calling hotels, but no one has a room. He orders a blueberry muffin and leaves the table to wash his hands. Seconds later, Lisa enters and sits at the empty table. The waitress assumes James left and gives Lisa the muffin for free. James sits down, corrects the waitress's mistake, grabs the muffin, and eats it. Lisa gets her things and angrily leaves. He takes Dalton's offer.<br/><br/>The McKenzie family returns for another week of Christmas fun. Later, the family eats and has a joyous celebration over dinner until James arrives. The family can feel the tension between the muffin man and Lisa. Roz leaves to get James a plate and hears an announcement on the TV. The city council won't stop at removing the Jubilee. They want to eliminate the community center. This family will pull together to create the Christmas Jubilee without the city council and prove the community center's worth. Can the McKenzies pull off a Christmas Miracle?<br/><br/>The third installment in the McKenzies franchise doesn't disappoint. They continue to be open, loving, and compassionate. They spread this message of joy and prosperity to their community. Yes, the pastor is back. Viewers should make the McKenzies a regular part of your holiday season.<br/><br/>5 out of 5 stars.",
 		"image": {
@@ -56,6 +56,14 @@ module.exports = videoOnDemand;
 
 /*
 
-
+{
+"option":"1",
+"mtitle":"Too Many Christmas",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/toomanychristmases.jpeg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/toomanychristmases.jpeg"
+}
+}
 
 */
