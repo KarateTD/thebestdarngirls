@@ -1,49 +1,49 @@
 var madeForTV = [
   {
-    "option": "1",
-    "mtitle": "Don't Let Him Find You",
-    "review": "Alex and Robert take their daughter, Charlie, to the park for fun and lunch. Alex notices a woman, Mary, in distress. Alex's quick thinking saves Mary's life. Afterward, Alex, Robert, and Charlie walk toward their car, but a reporter, Jane Chance, stops them. She wants to interview Alex for a human interest story. Alex politely refuses.<br/><br/>Bystanders recorded Alex saving Mary and posted the video on social media. By daybreak, Alex's story made the news. Then, Alex gets a call from Stuart, a True Crime Blog Unlimited reporter. He knows Alex's true identity and will reveal it to the world if she doesn't meet him. Years ago, Alex's brother-in-law, Justin, became obsessed with her. Her sister, Ashley, blamed Alex and attacked her with a knife. During the struggle, Alex accidently stabbed Ashley. Instead of calling the police, Ashley ran and changed her name. Now, Alex is a wanted woman.<br/><br/>Alex agrees to meet Stuart, but it must be off the record. But he never shows. Someone murdered Stuart, and Alex is Detective DeAngelis's number one suspect because Stuart had a draft of the article on his laptop. Alex's world is caving in, and it gets worse. Jane Chance got Stuart's recording of his meeting with Alex. Now, she wants an exclusive about Alex's past. Can Alex clear her name before her past kills her?<br/><br/>Alex has a history of making the worst decisions under pressure. Alex ran from her sister's stabbing and went on the run. She and Richard consider doing it again. While Alex's actions are wild, the motive is crazy. So, viewers should stay for the final monologue. This movie is a fun mystery with irresponsible and impulsive characters.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/dontlethimfindyou.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/dontlethimfindyou.jpg"
+    "option":"1",
+    "mtitle":"A Very Merry Beauty Salon",
+    "review":"Sienna opens her beauty salon, and her friends, co-workers Ella and Miss Kimmy, aren't far behind. Everyone is happy that the Tinsel Ball found a new co-sponsor. Sienna's mother, Georgia, enters and directs Sienna to the back of the store for a private conversation. Georgia is upset because she saw Sienna's ex-husband, Greg, with his new girlfriend. Sienna doesn't care because she asked for their divorce. This year, the Tinsel Ball will honor Sienna's contributions to the neighborhood. The honoree gets a spotlight dance. Sienna plans to dance with her friend, Kyle.<br/><br/>Sienna works, and a man, Lawrence, walks into the salon. He's opening a tasting room and introducing himself to local business owners. They flirt, laugh, and exchange business cards. Then, Georgia yells at him. Lawrence is the new co-sponsor. He makes a hasty exit after saying goodbye to Sienna. Georgia tells Sienna that Lawrence's using his financial influence to make the ball about his wine. Georgia won't let him. However, Sienna can't ignore her attraction to him. Can Sienna pursue a relationship with her mother's enemy?<br/><br/>This heartwarming story has three stages of love. Kimmy is a widow who mourns her husband. Ella is a military girlfriend. She prays her boyfriend can make it home for the ball. Sienna wasn't looking for love, but it found her. She ponders if she is making the same mistake with Lawrence as her ex-husband. These women lean on and encourage each other to step out of their comfort zone and into love. This film is a mellow watch for the holiday season.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/averymerrybeautysalon.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/averymerrybeautysalon.jpg"
     }
-  },
-  {
-    "option": "2",
-    "mtitle": "Deck the Walls",
-    "review": "Interior Designer Rose handles another call from a 'Real Housewife' client. Then, Rose's assistant, Libby, tells Rose that her brother, Sal, has called several times. She picks up, warmly greets him, and reminds him she is not returning for the holidays. She hasn't come since their parents died.<br/><br/>Sal works with his friend, contractor Brysen. They are renovating a home for a needy family. The mayor, Molly, wants to meet them in her office. They arrive, and she has unfortunate news. Sal and Brysen must finish the home in 10 days without cash. They must finish on time because a local reporter, Jake, will document the progress and story. Sal remembers Jake from school because Jake was his bully. Molly mentions having help from donations and Rose. Brysen says no but relents. He doesn't think Rose will return. Sal calls Rose for help. Rose says no but changes her mind to continue her family's legacy of kindness.<br/><br/>Rose arrives in town and visits a local café. She opens the door and bumps Brysen, causing him to spill his drink. Neither apologizes but blames the other for the mishap. Rose returns to her aunt Gigi's home. To her surprise, Brysen lives there too. In 10 days, Rose, Sal, and Brysen must overcome their issues to build a house for a deserving family. Can they do it without killing each other?<br/><br/>In this film, ordinary people do extraordinary things. Sal and Brysen have two unknown benefactors, and the community lends a helping hand. Each deals with personal strife during the renovation. Through healthy and open discussions, they release their fears, comfort each other, and find love. This movie is worth watching, but it won't be your favorite.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deckthewalls.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deckthewalls.jpg"
+    },
+    {
+    "option":"2",
+    "mtitle":"Private Princess Christmas",
+    "review":"Princess Violet fails another task when Wingravia is watching. Her mother, the Queen, grows tired of Violet's irresponsibility. The Queen doesn't believe Violet is ready. She thinks her brother is a more suitable option. Violet gawks at the idea of her uncle on the throne. However, he has a plan. When Violet's uncle acted unfavorably, his father sent him to a boot camp in Colorado. Violet thinks it is ridiculous until the Queen's stipulation. Violet can only get the throne if she graduates boot camp. Violet agrees.<br/><br/>Captain Ryan works at the customer service desk at a big box store. He deals with one entitled customer after another. Then, Ryan sees his commanding officer standing in front of him. Chesterfield Academy needs a new leader for its recruits. The officer wants Ryan to return. Ryan agrees after the next entitled customer.<br/><br/>Ryan gets the rundown of their recruits from his right-hand Squibby. He gives the lay of the land and takes their technology. He will teach them the core principles of the boot camp to get them on the right path. However, Princess Violet won't give in easily. Ryan refuses to let her take control because he doesn't want to lose another recruit. Can Violet pass boot camp and get the throne?<br/><br/>Viewers shouldn't watch this movie if they are in the military. No officer would ever let a cadet disrespect them the way Violet does. The script allows Violet to recover because Violet has a kind heart for those in need. This movie can kill two hours, but you can skip it this holiday season.<br/><br/>2 out of 5 stars.",
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/privateprincesschristmas.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/privateprincesschristmas.jpeg"
     }
-  },
-  {
-    "option": "3",
-    "mtitle": "A '90s Christmas",
-    "review": "Spencer enters Lucy's office with a letter. She is officially a partner at the law firm. Lucy's sister, Alex, calls. She begs Lucy to come to Milwaukee for the holidays. Their mother would love to see Lucy. She promises to think about it.<br/><br/>Lucy eats pancakes when an old high school friend, Matt, approaches. Before they part, Matt asks if she ever thinks about their past. She says no. Waitress Grace sits after Matt leaves and asks why Lucy pushes loved ones away. Lucy made sacrifices to ensure her career. Grace excuses herself from the table.<br/><br/>Lucy calls a rideshare, and Grace drives up. Lucy asks Grace to drive her home and falls asleep. She wakes up, exits the vehicle, and realizes she is in Milwaukee. Graces says it's too late to drive Lucy back to Chicago. Lucy finds a spare key in a potted plant and lets herself in the house. Her mother, Tina, yells at Lucy for arriving home late but declares they will handle this in the morning. Lucy goes to her room and sleeps.<br/><br/>Lucy's radio alarm plays Kiss Me. She runs to the driveway for the newspaper. It's dated December 22nd, 1999. Lucy traveled back in time. The only thing from her past is the promotion letter. Lucy looks up and sees Grace standing across the cul-de-sac. Grace explains that Lucy can't change anything to keep her future. But will she give her life a second chance for friends, family, and love?<br/><br/>Welcome to a world of dial-up internet, no Google, and phones on the wall. Lucy goes back in time to either right wrongs or keep things right. She's not sure. When Lucy does something different, her promotion letter slowly disappears. December 1999 was her first year without her dad. Her mother hides her grief, while her sister keeps her sexual orientation a secret. This movie will stir up your nostalgia but falls in step with other time-traveling holiday films.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/a90schristmas.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/a90schristmas.jpg"
+    },
+    {
+    "option":"3",
+    "mtitle":"You Better Watch Out",
+    "review":"Aubrey works with a therapist to overcome her fear of flying. Her sister, Tracy, will have a baby soon. Aubrey packs, boards the plane, and prays to make it there before her nephew arrives. Sadly, a snowstorm grounds Aubrey's plane. She stands behind a couple, Jon and Leigh, arguing with the representative. Jon leaves in frustration and bumps into Aubrey, breaking her phone. She runs after Jon, yelling. A security guard, Officer Armstrong, blames Aubrey for the mishap and threatens to arrest her if she keeps screaming. Aubrey returns to the representatives and gets a morning flight, a restaurant voucher, and directions to the nearest duty-free store.<br/><br/>Aubrey goes to the store and purchases gum and a burner phone. The clerk, Graham, says the phone isn't great, but it will get her through the night. Aubrey sits at the terminal and has a funny conversation with snowboarder Finn. Aubrey leaves for dinner, and Claire takes her order. Vivian sits across the bar and asks to join Aubrey. Finn accompanies them as Aubrey tries to call Tracy. However, she can't get a signal. Claire informs Aubrey about a great signal location in the parking lot.<br/><br/>Aubrey walks to the parking lot and hears strange sounds inside a white unmarked van. Aubrey opens the door and finds a girl, Chloe, inside. Aubrey starts to untie the girl but hears someone in the distance. Aubrey fixes Chloe's restraints, exits the van, and hides. Aubrey returns to the airport but doesn't know who to trust. She must save Chloe without losing her life. However, the kidnapper is at the airport. Who among the stranded kidnapped Chloe?<br/><br/>This film is Clue in an airport. As Aubrey gets new information, the viewers go with her. And the plot doesn't wait until the last 15 minutes to reveal the culprit and motive. You will get it within the first hour. Afterward, it is a cat-and-mouse game. The pressure is on, and it's unique. Aubrey makes stunning errors, but the conclusion makes up for it all.<br/><br/>3.5 out of 5 stars.",
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/youbetterwatchout.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/youbetterwatchout.jpg"
     }
-  },
-  {
-    "option": "4",
-    "mtitle": "Debbie Macomber's Joyful Mrs. Miracle",
-    "review": "Teenagers Charlotte and Austin promised to spend eternity together before they exchange gifts at the stables. They left the stable before anyone caught them. Austin's father, ranch hand Monty, warned Austin to stay away from Charlotte. Charlotte's grandmother, Vivian, could fire him. He tells Austin to focus on the Navy, not the girl.<br/><br/>Decades later, Austin is the executor of Vivian's estate. He calls Vivian's three grandchildren to return to her home. Vivian's passing left an open seat on the board, and a family member must take it. The successor will be Benedict, Henry, or Charlotte. They started and tanked a business previously. Now, they resent each other.<br/><br/>Benedict kisses his girlfriend, Portia. He wants the seat to build his good name in the business community. Henry meets with shady investors. Henry assures them he will get the seat and have access to the cash. He will pay them soon. Charlotte is a divorced mom of Cody. Cody has trouble regulating his emotions, but Charlotte is patient. She wants the board seat to prove to her ex-husband and brothers that she can handle the job.<br/><br/>The siblings return to the house and argue on the front porch until Annie shows up in an antique car. Vivian requested Annie help the family after her passing. However, there is more to Annie than meets the eye. She has a Mary Poppin's bag, ancient recipes, and a book. Can Annie help the three siblings get their life on track before they lose their family's legacy and each other?<br/><br/>Annie's chipper demeanor is infectious. One person can see through her: Cody. Each family member has a distinct reason for wanting the board seat. However, their siblings know a reason why they shouldn't. Based loosely on A Mrs. Miracle Christmas by Debbie Macomber, this movie is delightful and is for the family.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/debbiemacombersjoyfulmrschristmas.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/debbiemacombersjoyfulmrschristmas.jpeg"
+    },
+    {
+    "option":"4",
+    "mtitle":"A Dance in the Snow",
+    "review":"One year ago, Jenny attended the high school holiday dance with her mother, Melanie. Melanie spent time with Jenny's English teacher, Daniel, while Jenny hung out with her friends. Melanie couldn't stop worrying because Jenny had forgotten her headphones. Jenny has autism, and loud music can trigger her. Then, artificial snow fell from the roof. Melanie found Jenny hiding in a panic. Jenny doesn't like snow. They went home.<br/><br/>Today, Melanie asks Jenny if Jenny wants to attend the school dance. Jenny remembers the snow and says no. Melanie worries that Jenny isn't getting the complete high school experience. So, she joins the PTA to make the holiday party more inclusive. She wants to turn down the music, eliminate the strobe lights, and remove the snow. Daniel signs on to help. Melanie tells Daniel she wants to change the party without telling Jenny.<br/><br/>Jenny joins her friends, Bella and Caitlin, in school. Jenny sees teens harassing a young man, Will. She stands up for Will, but he doesn't speak. Jenny believes Melanie is unhappy that Jenny isn't going to the dance. So, Jenny decides to put on a dance for all students. It will have softer music, fewer lights, and no snow. However, Jenny wants it to be a surprise. Her friends are thrilled to help. Mother and daughter have secret dueling parties, but their lives have another new twist: love.<br/><br/>Jenny and Melanie's lives mirror each other while they plan the parties. Both have new friends, interest, and romance. Jenny, like most teens, is finding her independence. Melanie created a center to help teens with autism navigate school and work. The movie does a magnificent job of displaying the spectrum of autism. It causes hindrances, but it doesn't make Will or Jenny incapable. This film is a loving movie to share with the family.<br/><br/>5 out of 5 stars.",
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/danceinthesnow.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/danceinthesnow.jpg"
     }
-  },
-  {
-    "option": "5",
-    "mtitle": "Christmas Under the Lights",
-    "review": "Emily rests at her LA home after planning another successful launch party. Her friends and co-workers ask Emily if she will go home for the holidays, but she avoids the question. Emily grew up in Meadow Grove on a farm with her mother and brother, Nick. Since 1999, their mother has thrown the Christmas Carnival for the town with a beautiful light show. It was Emily's favorite.<br/><br/>Nick works on the farm. His friend, Luke, separated from his wife and moved into Nick's home to get back on his feet. This year is the first time he's hosted the carnival without Nick's mother. Luke admits he doesn't know how and wonders if Emily can help. Nick doesn't think Emily will but gives her a call. She thinks about her past and says yes to honor their mother.<br/><br/>Emily arrives in Meadow Grove and feels like a fish out of water. Emily grabs her coffee and pancakes to go and drives to the farm. She fumbles with her drink and doesn't see Luke crossing the street. She slams on her brakes, gets out of the car, and yells at him. He blames her for the mishap.<br/><br/>Emily and Nick greet each other and talk about the festival. Luke approaches, and Emily gives him a tepid reception. Nick mentions Luke's last name, and Emily knows him. He is a famous artist known for his work with lights. She asks Nick if Luke would consider working on the light show for the carnival. Nick says no. Luke hasn't created an art piece since his divorce. She wants to maintain her mother's legacy and redeem herself for missing several Christmases before her death. She wants this carnival to be a celebration of life and lights.<br/><br/>This film handles transition with ease. Emily dreams about her past and what led her to Meadow Grove. Her mother hoped Emily would return and use her degree for the farm. However, Emily left and rarely returned. Now, Emily agonizes over the decision while working to build the carnival and Luke's confidence. The connection between them is genuine. The audience knows how the relationship will end, but you watch for Luke's final project.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/christmasunderthelights.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/christmasunderthelights.jpeg"
+    },
+    {
+    "option":"5",
+    "mtitle":"The Christmas Quest",
+    "review":"Archeology Professor Stephanie Baxter lectures her students at Hearst College about The Magnus Olafsson manuscript. It discusses the Yule Lads Legend, but historians believe the margins contain the clues to treasure. Stephanie's mother, Joan, has searched for the treasure for years.<br/><br/>Stephanie returns to her office and finds a man, Victor, scanning her bookshelf. He wants Stephanie to locate the Yule Lad Treasure. Stephanie reminds Victor that she can't start without a cryptex, a Yule Horn, to decipher code along the margins. He uncovered the horn's location among ancient runes and will fund Stephanie's trip.<br/><br/>Stephanie finds the horn and uses it to decode the markings in the margin. However, they're written in ancient Norse. Victor asks if Stephanie knows someone who can translate a dead language, and she knows of one. It's her ex-husband, Chase.<br/><br/>When Stephanie arrives, Chase glows. Then she tells him about the quest, and his annoyance grows. He rejects the quest and Stephanie and Victor retreat. But Stephanie knows to wait. Moments later, Chase returns to help because no one else is available. Stephanie and Chase will search for the Yule Lads Treasure but must stay mum to keep other treasure hunters off their trail.<br/><br/>This film differs because Stephanie and Chase aren't finding love but rediscovering it. This quest has the twists and intrigue of a Hallmark Mystery movie without the murder. Chase and Stephanie globe-trot unveiling new holiday traditions and uncovering the meaning of love this Christmas season. One pivotal moment brings Stephanie closer to her mother and helps her see her past mistakes. It will strike a chord with all Hallmark viewers. This quest will have you glued to your seat.<br/><br/>4.5 out of 5 stars.",
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thechristmasquest.jpg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thechristmasquest.jpg"
     }
-  }
+    }
 ];
 
 module.exports = madeForTV;
@@ -57,5 +57,55 @@ module.exports = madeForTV;
 /*
 
 
+
+
+
+
+
+{
+"option":"1",
+"mtitle":"The Holiday Junkie",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theholidayjunkie.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theholidayjunkie.jpg"
+}
+},
+{
+"option":"2",
+"mtitle":"Hanukkah on the Rocks",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/hanukkahontherocks.jpeg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/hanukkahontherocks.jpeg"
+}
+},
+{
+"option":"3",
+"mtitle":"Be Careful What You Say",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/becarefulwhatyousay.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/becarefulwhatyousay.jpg"
+}
+},
+{
+"option":"4",
+"mtitle":"All I Need for Christmas",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/allineedforchristmas.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/allineedforchristmas.jpg"
+}
+},
+{
+"option":"5",
+"mtitle":"Leah's Perfect Gift",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/leahsperfectgift.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/leahsperfectgift.jpg"
+}
+}
 
 */
