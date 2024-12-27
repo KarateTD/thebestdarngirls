@@ -174,5 +174,18 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/here.jpeg"
     }
   }
+
+   {
+    "option": "4",
+    "mtitle": "Moana 2",
+    "review": "Moana has taken to her Wayfinder roots. She travels to other islands to find people. Moana climbs the tallest mountain, blows her horn, and waits for a response. However, she hears nothing. Moana's parents, Tui and Sina, wait patiently for Moana while her little sister, Simea, runs to her. The village celebrates her return and asks for updates.<br/><br/>Moana takes Simea to the caverns and tells Simea the story about their ancestors - the Wayfinders. Tautai Vasa took his crew to Motufetu Island. But the god Nalo caused a storm that destroyed their canoe. Tui pulls Moana aside. She is the first Wayfinder in generations, and he wants her to accept the title Tautai. Moana humbly takes the title in a ritual. Today, the ancestors want Moana to find Motufetu because it connects people worldwide. Moana wakes and tells her tribe.<br/><br/>Moana prepares to leave, but Sina thinks Moana needs a crew, and Heihei isn't enough. Moana chooses Loto, Kela, and Moni. Moana approaches Moni's tapestry of Maui and whispers for Maui to join her. However, Maui doesn't respond. Moana, Loto, Kela, Moni, Heihei, and Pua travel to find the lost island of Motufetu.<br/><br/>Goddess Matangi holds Maui captive in a secret location. Her boss, God Nalo, is furious with Maui. Maui helped Moana. Nalo knows humans can reunite the people and end his control over the land. A united world would dismantle Nalo's power. Maui tells Matangi that Moana isn't Nalo's problem. Matangi tells Maui that it's too late. Nalo will end Moana. Maui and his tattoo must free themselves and warn Moana to stay away from Motufeto before Matangi and Nalo end the lives of her and her crew.<br/><br/>This sequel expands the island and world of Moana. Moana has friends who help her prepare for her missions. She is a proud chief and Wayfinder. It's best to watch the first movie before seeing the second. The script mentions what happened in the past but doesn't go into great detail. The graphics express the growth of the Disney animation team. The entire theater will light up with their artwork. Children will love the movie. It takes them on a new adventure, focusing on problem-solving, teamwork, and fun. This film has one mid-credit scene, but it's unnecessary to see it in 3D.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/moana2.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/moana2.jpeg"
+    }
+  }
     
 */
