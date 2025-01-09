@@ -758,7 +758,7 @@ declare namespace ACMPCA {
   }
   export interface GetPolicyRequest {
     /**
-     * The Amazon Resource Number (ARN) of the private CA that will have its policy retrieved. You can find the CA's ARN by calling the ListCertificateAuthorities action. 
+     * The Amazon Resource Number (ARN) of the private CA that will have its policy retrieved. You can find the CA's ARN by calling the ListCertificateAuthorities action.  &lt;/p&gt; 
      */
     ResourceArn: Arn;
   }
@@ -824,8 +824,8 @@ declare namespace ACMPCA {
      */
     CertificateArn?: Arn;
   }
-  export type KeyAlgorithm = "RSA_2048"|"RSA_4096"|"EC_prime256v1"|"EC_secp384r1"|string;
-  export type KeyStorageSecurityStandard = "FIPS_140_2_LEVEL_2_OR_HIGHER"|"FIPS_140_2_LEVEL_3_OR_HIGHER"|string;
+  export type KeyAlgorithm = "RSA_2048"|"RSA_4096"|"EC_prime256v1"|"EC_secp384r1"|"SM2"|string;
+  export type KeyStorageSecurityStandard = "FIPS_140_2_LEVEL_2_OR_HIGHER"|"FIPS_140_2_LEVEL_3_OR_HIGHER"|"CCPC_LEVEL_1_OR_HIGHER"|string;
   export interface KeyUsage {
     /**
      *  Key can be used for digital signing.
@@ -866,13 +866,13 @@ declare namespace ACMPCA {
   }
   export interface ListCertificateAuthoritiesRequest {
     /**
-     * Use this parameter when paginating results in a subsequent request after you receive a response with truncated results. Set it to the value of the NextToken parameter from the response you just received.
-     */
-    NextToken?: NextToken;
-    /**
      * Use this parameter when paginating results to specify the maximum number of items to return in the response on each page. If additional items exist beyond the number you specify, the NextToken element is sent in the response. Use this NextToken value in a subsequent request to retrieve additional items. Although the maximum value is 1000, the action only returns a maximum of 100 items.
      */
     MaxResults?: MaxResults;
+    /**
+     * Use this parameter when paginating results in a subsequent request after you receive a response with truncated results. Set it to the value of the NextToken parameter from the response you just received.
+     */
+    NextToken?: NextToken;
     /**
      * Use this parameter to filter the returned set of certificate authorities based on their owner. The default is SELF.
      */
@@ -880,61 +880,61 @@ declare namespace ACMPCA {
   }
   export interface ListCertificateAuthoritiesResponse {
     /**
-     * Summary information about each certificate authority you have created.
-     */
-    CertificateAuthorities?: CertificateAuthorities;
-    /**
      * When the list is truncated, this value is present and should be used for the NextToken parameter in a subsequent pagination request.
      */
     NextToken?: NextToken;
+    /**
+     * Summary information about each certificate authority you have created.
+     */
+    CertificateAuthorities?: CertificateAuthorities;
   }
   export interface ListPermissionsRequest {
     /**
-     * The Amazon Resource Number (ARN) of the private CA to inspect. You can find the ARN by calling the ListCertificateAuthorities action. This must be of the form: arn:aws:acm-pca:region:account:certificate-authority/12345678-1234-1234-1234-123456789012 You can get a private CA's ARN by running the ListCertificateAuthorities action.
+     * When paginating results, use this parameter to specify the maximum number of items to return in the response. If additional items exist beyond the number you specify, the NextToken element is sent in the response. Use this NextToken value in a subsequent request to retrieve additional items.
      */
-    CertificateAuthorityArn: Arn;
+    MaxResults?: MaxResults;
     /**
      * When paginating results, use this parameter in a subsequent request after you receive a response with truncated results. Set it to the value of NextToken from the response you just received.
      */
     NextToken?: NextToken;
     /**
-     * When paginating results, use this parameter to specify the maximum number of items to return in the response. If additional items exist beyond the number you specify, the NextToken element is sent in the response. Use this NextToken value in a subsequent request to retrieve additional items.
+     * The Amazon Resource Number (ARN) of the private CA to inspect. You can find the ARN by calling the ListCertificateAuthorities action. This must be of the form: arn:aws:acm-pca:region:account:certificate-authority/12345678-1234-1234-1234-123456789012 You can get a private CA's ARN by running the ListCertificateAuthorities action.
      */
-    MaxResults?: MaxResults;
+    CertificateAuthorityArn: Arn;
   }
   export interface ListPermissionsResponse {
-    /**
-     * Summary information about each permission assigned by the specified private CA, including the action enabled, the policy provided, and the time of creation.
-     */
-    Permissions?: PermissionList;
     /**
      * When the list is truncated, this value is present and should be used for the NextToken parameter in a subsequent pagination request. 
      */
     NextToken?: NextToken;
+    /**
+     * Summary information about each permission assigned by the specified private CA, including the action enabled, the policy provided, and the time of creation.
+     */
+    Permissions?: PermissionList;
   }
   export interface ListTagsRequest {
     /**
-     * The Amazon Resource Name (ARN) that was returned when you called the CreateCertificateAuthority action. This must be of the form:   arn:aws:acm-pca:region:account:certificate-authority/12345678-1234-1234-1234-123456789012  
+     * Use this parameter when paginating results to specify the maximum number of items to return in the response. If additional items exist beyond the number you specify, the NextToken element is sent in the response. Use this NextToken value in a subsequent request to retrieve additional items.
      */
-    CertificateAuthorityArn: Arn;
+    MaxResults?: MaxResults;
     /**
      * Use this parameter when paginating results in a subsequent request after you receive a response with truncated results. Set it to the value of NextToken from the response you just received.
      */
     NextToken?: NextToken;
     /**
-     * Use this parameter when paginating results to specify the maximum number of items to return in the response. If additional items exist beyond the number you specify, the NextToken element is sent in the response. Use this NextToken value in a subsequent request to retrieve additional items.
+     * The Amazon Resource Name (ARN) that was returned when you called the CreateCertificateAuthority action. This must be of the form:   arn:aws:acm-pca:region:account:certificate-authority/12345678-1234-1234-1234-123456789012  
      */
-    MaxResults?: MaxResults;
+    CertificateAuthorityArn: Arn;
   }
   export interface ListTagsResponse {
-    /**
-     * The tags associated with your private CA.
-     */
-    Tags?: TagList;
     /**
      * When the list is truncated, this value is present and should be used for the NextToken parameter in a subsequent pagination request. 
      */
     NextToken?: NextToken;
+    /**
+     * The tags associated with your private CA.
+     */
+    Tags?: TagList;
   }
   export type MaxResults = number;
   export type NextToken = string;
@@ -1062,7 +1062,7 @@ declare namespace ACMPCA {
   export type S3BucketName3To255 = string;
   export type S3Key = string;
   export type S3ObjectAcl = "PUBLIC_READ"|"BUCKET_OWNER_FULL_CONTROL"|string;
-  export type SigningAlgorithm = "SHA256WITHECDSA"|"SHA384WITHECDSA"|"SHA512WITHECDSA"|"SHA256WITHRSA"|"SHA384WITHRSA"|"SHA512WITHRSA"|string;
+  export type SigningAlgorithm = "SHA256WITHECDSA"|"SHA384WITHECDSA"|"SHA512WITHECDSA"|"SHA256WITHRSA"|"SHA384WITHRSA"|"SHA512WITHRSA"|"SM3WITHSM2"|string;
   export type String = string;
   export type String128 = string;
   export type String16 = string;

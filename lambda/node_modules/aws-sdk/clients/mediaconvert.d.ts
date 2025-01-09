@@ -92,11 +92,11 @@ declare class MediaConvert extends Service {
    */
   deleteQueue(callback?: (err: AWSError, data: MediaConvert.Types.DeleteQueueResponse) => void): Request<MediaConvert.Types.DeleteQueueResponse, AWSError>;
   /**
-   * Send an request with an empty body to the regional API endpoint to get your account API endpoint.
+   * Send a request with an empty body to the regional API endpoint to get your account API endpoint. Note that DescribeEndpoints is no longer required. We recommend that you send your requests directly to the regional endpoint instead.
    */
   describeEndpoints(params: MediaConvert.Types.DescribeEndpointsRequest, callback?: (err: AWSError, data: MediaConvert.Types.DescribeEndpointsResponse) => void): Request<MediaConvert.Types.DescribeEndpointsResponse, AWSError>;
   /**
-   * Send an request with an empty body to the regional API endpoint to get your account API endpoint.
+   * Send a request with an empty body to the regional API endpoint to get your account API endpoint. Note that DescribeEndpoints is no longer required. We recommend that you send your requests directly to the regional endpoint instead.
    */
   describeEndpoints(callback?: (err: AWSError, data: MediaConvert.Types.DescribeEndpointsResponse) => void): Request<MediaConvert.Types.DescribeEndpointsResponse, AWSError>;
   /**
@@ -195,6 +195,14 @@ declare class MediaConvert extends Service {
    * Create or change your policy. For more information about policies, see the user guide at http://docs.aws.amazon.com/mediaconvert/latest/ug/what-is.html
    */
   putPolicy(callback?: (err: AWSError, data: MediaConvert.Types.PutPolicyResponse) => void): Request<MediaConvert.Types.PutPolicyResponse, AWSError>;
+  /**
+   * Retrieve a JSON array that includes job details for up to twenty of your most recent jobs. Optionally filter results further according to input file, queue, or status. To retrieve the twenty next most recent jobs, use the nextToken string returned with the array.
+   */
+  searchJobs(params: MediaConvert.Types.SearchJobsRequest, callback?: (err: AWSError, data: MediaConvert.Types.SearchJobsResponse) => void): Request<MediaConvert.Types.SearchJobsResponse, AWSError>;
+  /**
+   * Retrieve a JSON array that includes job details for up to twenty of your most recent jobs. Optionally filter results further according to input file, queue, or status. To retrieve the twenty next most recent jobs, use the nextToken string returned with the array.
+   */
+  searchJobs(callback?: (err: AWSError, data: MediaConvert.Types.SearchJobsResponse) => void): Request<MediaConvert.Types.SearchJobsResponse, AWSError>;
   /**
    * Add tags to a MediaConvert queue, preset, or job template. For information about tagging, see the User Guide at https://docs.aws.amazon.com/mediaconvert/latest/ug/tagging-resources.html
    */
@@ -1151,6 +1159,10 @@ When you do, you must also separately specify a regular, a bold, and an italic f
      */
     CodecSpecification?: CmafCodecSpecification;
     /**
+     * Specify whether MediaConvert generates I-frame only video segments for DASH trick play, also known as trick mode. When specified, the I-frame only video segments are included within an additional AdaptationSet in your DASH output manifest. To generate I-frame only video segments: Enter a name as a text string, up to 256 character long. This name is appended to the end of this output group's base filename, that you specify as part of your destination URI, and used for the I-frame only video segment files. You may also include format identifiers. For more information, see: https://docs.aws.amazon.com/mediaconvert/latest/ug/using-variables-in-your-job-settings.html#using-settings-variables-with-streaming-outputs To not generate I-frame only video segments: Leave blank.
+     */
+    DashIFrameTrickPlayNameModifier?: __stringMin1Max256;
+    /**
      * Specify how MediaConvert writes SegmentTimeline in your output DASH manifest. To write a SegmentTimeline in each video Representation: Keep the default value, Basic. To write a common SegmentTimeline in the video AdaptationSet: Choose Compact. Note that MediaConvert will still write a SegmentTimeline in any Representation that does not share a common timeline. To write a video AdaptationSet for each different output framerate, and a common SegmentTimeline in each AdaptationSet: Choose Distinct.
      */
     DashManifestStyle?: DashManifestStyle;
@@ -1677,6 +1689,10 @@ When you specify Version 1, you must also set ID3 metadata to Passthrough.
      * A partial URI prefix that will be put in the manifest (.mpd) file at the top level BaseURL element. Can be used if streams are delivered from a different URL than the manifest file.
      */
     BaseUrl?: __string;
+    /**
+     * Specify whether MediaConvert generates I-frame only video segments for DASH trick play, also known as trick mode. When specified, the I-frame only video segments are included within an additional AdaptationSet in your DASH output manifest. To generate I-frame only video segments: Enter a name as a text string, up to 256 character long. This name is appended to the end of this output group's base filename, that you specify as part of your destination URI, and used for the I-frame only video segment files. You may also include format identifiers. For more information, see: https://docs.aws.amazon.com/mediaconvert/latest/ug/using-variables-in-your-job-settings.html#using-settings-variables-with-streaming-outputs To not generate I-frame only video segments: Leave blank.
+     */
+    DashIFrameTrickPlayNameModifier?: __stringMin1Max256;
     /**
      * Specify how MediaConvert writes SegmentTimeline in your output DASH manifest. To write a SegmentTimeline in each video Representation: Keep the default value, Basic. To write a common SegmentTimeline in the video AdaptationSet: Choose Compact. Note that MediaConvert will still write a SegmentTimeline in any Representation that does not share a common timeline. To write a video AdaptationSet for each different output framerate, and a common SegmentTimeline in each AdaptationSet: Choose Distinct.
      */
@@ -3417,11 +3433,11 @@ Within your job settings, all of your DVB-Sub settings must be identical.
     /**
      * Set End timecode to the end of the portion of the input you are clipping. The frame corresponding to the End timecode value is included in the clip. Start timecode or End timecode may be left blank, but not both. Use the format HH:MM:SS:FF or HH:MM:SS;FF, where HH is the hour, MM is the minute, SS is the second, and FF is the frame number. When choosing this value, take into account your setting for timecode source under input settings. For example, if you have embedded timecodes that start at 01:00:00:00 and you want your clip to end six minutes into the video, use 01:06:00:00.
      */
-    EndTimecode?: __stringPattern010920405090509092;
+    EndTimecode?: __stringPattern010920405090509092090909;
     /**
      * Set Start timecode to the beginning of the portion of the input you are clipping. The frame corresponding to the Start timecode value is included in the clip. Start timecode or End timecode may be left blank, but not both. Use the format HH:MM:SS:FF or HH:MM:SS;FF, where HH is the hour, MM is the minute, SS is the second, and FF is the frame number. When choosing this value, take into account your setting for Input timecode source. For example, if you have embedded timecodes that start at 01:00:00:00 and you want your clip to begin five minutes into the video, use 01:05:00:00.
      */
-    StartTimecode?: __stringPattern010920405090509092;
+    StartTimecode?: __stringPattern010920405090509092090909;
   }
   export type InputDeblockFilter = "ENABLED"|"DISABLED"|string;
   export interface InputDecryptionSettings {
@@ -3540,9 +3556,27 @@ Within your job settings, all of your DVB-Sub settings must be identical.
   export type InputTimecodeSource = "EMBEDDED"|"ZEROBASED"|"SPECIFIEDSTART"|string;
   export interface InputVideoGenerator {
     /**
-     * Specify an integer value for Black video duration from 50 to 86400000 to generate a black video input for that many milliseconds. Required when you include Video generator.
+     * Specify the number of audio channels to include in your video generator input. MediaConvert creates these audio channels as silent audio within a single audio track. Enter an integer from 1 to 32.
+     */
+    Channels?: __integerMin1Max32;
+    /**
+     * Specify the duration, in milliseconds, for your video generator input.
+Enter an integer from 50 to 86400000.
      */
     Duration?: __integerMin50Max86400000;
+    /**
+     * Specify the denominator of the fraction that represents the frame rate for your video generator input. When you do, you must also specify a value for Frame rate numerator. MediaConvert uses a default frame rate of 29.97 when you leave Frame rate numerator and Frame rate denominator blank.
+     */
+    FramerateDenominator?: __integerMin1Max1001;
+    /**
+     * Specify the numerator of the fraction that represents the frame rate for your video generator input. When you do, you must also specify a value for Frame rate denominator. MediaConvert uses a default frame rate of 29.97 when you leave Frame rate numerator and Frame rate denominator blank.
+     */
+    FramerateNumerator?: __integerMin1Max60000;
+    /**
+     * Specify the audio sample rate, in Hz, for the silent audio in your video generator input.
+Enter an integer from 32000 to 48000.
+     */
+    SampleRate?: __integerMin32000Max48000;
   }
   export interface InsertableImage {
     /**
@@ -4984,7 +5018,7 @@ When you specify Version 1, you must also set ID3 metadata to Passthrough.
     /**
      * Use Name modifier to have the service add a string to the end of each output filename. You specify the base filename as part of your destination URI. When you create multiple outputs in the same output group, Name modifier is required. Name modifier also accepts format identifiers. For DASH ISO outputs, if you use the format identifiers $Number$ or $Time$ in one output, you must use them in the same way in all outputs of the output group.
      */
-    NameModifier?: __stringMin1;
+    NameModifier?: __stringMin1Max256;
     /**
      * Specific settings for this type of output.
      */
@@ -5432,6 +5466,42 @@ When you specify Version 1, you must also set ID3 metadata to Passthrough.
      * Set Framerate to make sure that the captions and the video are synchronized in the output. Specify a frame rate that matches the frame rate of the associated video. If the video frame rate is 29.97, choose 29.97 dropframe only if the video has video_insertion=true and drop_frame_timecode=true; otherwise, choose 29.97 non-dropframe.
      */
     Framerate?: SccDestinationFramerate;
+  }
+  export interface SearchJobsRequest {
+    /**
+     * Optional. Provide your input file URL or your partial input file name. The maximum length for an input file is 300 characters.
+     */
+    InputFile?: __string;
+    /**
+     * Optional. Number of jobs, up to twenty, that will be returned at one time.
+     */
+    MaxResults?: __integerMin1Max20;
+    /**
+     * Optional. Use this string, provided with the response to a previous request, to request the next batch of jobs.
+     */
+    NextToken?: __string;
+    /**
+     * Optional. When you request lists of resources, you can specify whether they are sorted in ASCENDING or DESCENDING order. Default varies by resource.
+     */
+    Order?: Order;
+    /**
+     * Optional. Provide a queue name, or a queue ARN, to return only jobs from that queue.
+     */
+    Queue?: __string;
+    /**
+     * Optional. A job's status can be SUBMITTED, PROGRESSING, COMPLETE, CANCELED, or ERROR.
+     */
+    Status?: JobStatus;
+  }
+  export interface SearchJobsResponse {
+    /**
+     * List of jobs.
+     */
+    Jobs?: __listOfJob;
+    /**
+     * Use this string to request the next batch of jobs.
+     */
+    NextToken?: __string;
   }
   export type SimulateReservedQueue = "DISABLED"|"ENABLED"|string;
   export interface SpekeKeyProvider {
@@ -6599,6 +6669,7 @@ When you specify Version 1, you must also set ID3 metadata to Passthrough.
   export type __stringMin9Max19PatternAZ26EastWestCentralNorthSouthEastWest1912 = string;
   export type __stringPattern = string;
   export type __stringPattern010920405090509092 = string;
+  export type __stringPattern010920405090509092090909 = string;
   export type __stringPattern01D20305D205D = string;
   export type __stringPattern0940191020191209301 = string;
   export type __stringPattern09aFAF809aFAF409aFAF409aFAF409aFAF12 = string;

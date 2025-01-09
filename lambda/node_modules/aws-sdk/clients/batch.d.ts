@@ -12,11 +12,11 @@ declare class Batch extends Service {
   constructor(options?: Batch.Types.ClientConfiguration)
   config: Config & Batch.Types.ClientConfiguration;
   /**
-   * Cancels a job in an Batch job queue. Jobs that are in the SUBMITTED or PENDING are canceled. A job inRUNNABLE remains in RUNNABLE until it reaches the head of the job queue. Then the job status is updated to FAILED.  A PENDING job is canceled after all dependency jobs are completed. Therefore, it may take longer than expected to cancel a job in PENDING status. When you try to cancel an array parent job in PENDING, Batch attempts to cancel all child jobs. The array parent job is canceled when all child jobs are completed.  Jobs that progressed to the STARTING or RUNNING state aren't canceled. However, the API operation still succeeds, even if no job is canceled. These jobs must be terminated with the TerminateJob operation.
+   * Cancels a job in an Batch job queue. Jobs that are in a SUBMITTED, PENDING, or RUNNABLE state are cancelled and the job status is updated to FAILED.  A PENDING job is canceled after all dependency jobs are completed. Therefore, it may take longer than expected to cancel a job in PENDING status. When you try to cancel an array parent job in PENDING, Batch attempts to cancel all child jobs. The array parent job is canceled when all child jobs are completed.  Jobs that progressed to the STARTING or RUNNING state aren't canceled. However, the API operation still succeeds, even if no job is canceled. These jobs must be terminated with the TerminateJob operation.
    */
   cancelJob(params: Batch.Types.CancelJobRequest, callback?: (err: AWSError, data: Batch.Types.CancelJobResponse) => void): Request<Batch.Types.CancelJobResponse, AWSError>;
   /**
-   * Cancels a job in an Batch job queue. Jobs that are in the SUBMITTED or PENDING are canceled. A job inRUNNABLE remains in RUNNABLE until it reaches the head of the job queue. Then the job status is updated to FAILED.  A PENDING job is canceled after all dependency jobs are completed. Therefore, it may take longer than expected to cancel a job in PENDING status. When you try to cancel an array parent job in PENDING, Batch attempts to cancel all child jobs. The array parent job is canceled when all child jobs are completed.  Jobs that progressed to the STARTING or RUNNING state aren't canceled. However, the API operation still succeeds, even if no job is canceled. These jobs must be terminated with the TerminateJob operation.
+   * Cancels a job in an Batch job queue. Jobs that are in a SUBMITTED, PENDING, or RUNNABLE state are cancelled and the job status is updated to FAILED.  A PENDING job is canceled after all dependency jobs are completed. Therefore, it may take longer than expected to cancel a job in PENDING status. When you try to cancel an array parent job in PENDING, Batch attempts to cancel all child jobs. The array parent job is canceled when all child jobs are completed.  Jobs that progressed to the STARTING or RUNNING state aren't canceled. However, the API operation still succeeds, even if no job is canceled. These jobs must be terminated with the TerminateJob operation.
    */
   cancelJob(callback?: (err: AWSError, data: Batch.Types.CancelJobResponse) => void): Request<Batch.Types.CancelJobResponse, AWSError>;
   /**
@@ -115,6 +115,14 @@ declare class Batch extends Service {
    * Describes one or more of your scheduling policies.
    */
   describeSchedulingPolicies(callback?: (err: AWSError, data: Batch.Types.DescribeSchedulingPoliciesResponse) => void): Request<Batch.Types.DescribeSchedulingPoliciesResponse, AWSError>;
+  /**
+   * Provides a list of the first 100 RUNNABLE jobs associated to a single job queue.
+   */
+  getJobQueueSnapshot(params: Batch.Types.GetJobQueueSnapshotRequest, callback?: (err: AWSError, data: Batch.Types.GetJobQueueSnapshotResponse) => void): Request<Batch.Types.GetJobQueueSnapshotResponse, AWSError>;
+  /**
+   * Provides a list of the first 100 RUNNABLE jobs associated to a single job queue.
+   */
+  getJobQueueSnapshot(callback?: (err: AWSError, data: Batch.Types.GetJobQueueSnapshotResponse) => void): Request<Batch.Types.GetJobQueueSnapshotResponse, AWSError>;
   /**
    * Returns a list of Batch jobs. You must specify only one of the following items:   A job queue ID to return a list of jobs in that job queue   A multi-node parallel job ID to return a list of nodes for that job   An array job ID to return a list of the children for that job   You can filter the results by job status with the jobStatus parameter. If you don't specify a status, only RUNNING jobs are returned.
    */
@@ -403,6 +411,10 @@ declare namespace Batch {
      * Unique identifier for the compute environment.
      */
     uuid?: String;
+    /**
+     * Reserved.
+     */
+    context?: String;
   }
   export type ComputeEnvironmentDetailList = ComputeEnvironmentDetail[];
   export interface ComputeEnvironmentOrder {
@@ -837,6 +849,10 @@ declare namespace Batch {
      * The details for the Amazon EKS cluster that supports the compute environment.
      */
     eksConfiguration?: EksConfiguration;
+    /**
+     * Reserved.
+     */
+    context?: String;
   }
   export interface CreateComputeEnvironmentResponse {
     /**
@@ -1248,6 +1264,10 @@ declare namespace Batch {
      * The details for the init containers.
      */
     initContainers?: EksAttemptContainerDetails;
+    /**
+     * The Amazon Resource Name (ARN) of the Amazon EKS cluster.
+     */
+    eksClusterArn?: String;
     /**
      * The name of the pod for this job attempt.
      */
@@ -1672,6 +1692,39 @@ declare namespace Batch {
     platformVersion?: String;
   }
   export type Float = number;
+  export interface FrontOfQueueDetail {
+    /**
+     * The Amazon Resource Names (ARNs) of the first 100 RUNNABLE jobs in a named job queue. For first-in-first-out (FIFO) job queues, jobs are ordered based on their submission time. For fair share scheduling (FSS) job queues, jobs are ordered based on their job priority and share usage.
+     */
+    jobs?: FrontOfQueueJobSummaryList;
+    /**
+     * The Unix timestamp (in milliseconds) for when each of the first 100 RUNNABLE jobs were last updated. 
+     */
+    lastUpdatedAt?: Long;
+  }
+  export interface FrontOfQueueJobSummary {
+    /**
+     * The ARN for a job in a named job queue.
+     */
+    jobArn?: String;
+    /**
+     * The Unix timestamp (in milliseconds) for when the job transitioned to its current position in the job queue.
+     */
+    earliestTimeAtPosition?: Long;
+  }
+  export type FrontOfQueueJobSummaryList = FrontOfQueueJobSummary[];
+  export interface GetJobQueueSnapshotRequest {
+    /**
+     * The job queue’s name or full queue Amazon Resource Name (ARN).
+     */
+    jobQueue: String;
+  }
+  export interface GetJobQueueSnapshotResponse {
+    /**
+     * The list of the first 100 RUNNABLE jobs in each job queue. For first-in-first-out (FIFO) job queues, jobs are ordered based on their submission time. For fair share scheduling (FSS) job queues, jobs are ordered based on their job priority and share usage.
+     */
+    frontOfQueue?: FrontOfQueueDetail;
+  }
   export interface Host {
     /**
      * The path on the host container instance that's presented to the container. If this parameter is empty, then the Docker daemon has assigned a host path for you. If this parameter contains a file location, then the data volume persists at the specified location on the host container instance until you delete it manually. If the source path location doesn't exist on the host container instance, the Docker daemon creates it. If the location does exist, the contents of the source path folder are exported.  This parameter isn't applicable to jobs that run on Fargate resources. Don't provide this for these jobs. 
@@ -2099,7 +2152,7 @@ declare namespace Batch {
      */
     jobStatus?: JobStatus;
     /**
-     * The maximum number of results returned by ListJobs in paginated output. When this parameter is used, ListJobs only returns maxResults results in a single page and a nextToken response element. The remaining results of the initial request can be seen by sending another ListJobs request with the returned nextToken value. This value can be between 1 and 100. If this parameter isn't used, then ListJobs returns up to 100 results and a nextToken value if applicable.
+     * The maximum number of results returned by ListJobs in a paginated output. When this parameter is used, ListJobs returns up to maxResults results in a single page and a nextToken response element, if applicable. The remaining results of the initial request can be seen by sending another ListJobs request with the returned nextToken value. The following outlines key parameters and limitations:   The minimum value is 1.    When --job-status is used, Batch returns up to 1000 values.    When --filters is used, Batch returns up to 100 values.   If neither parameter is used, then ListJobs returns up to 1000 results (jobs that are in the RUNNING status) and a nextToken value, if applicable.  
      */
     maxResults?: Integer;
     /**
@@ -2275,6 +2328,10 @@ declare namespace Batch {
      * An object that contains the instance types that you want to replace for the existing resources of a job.
      */
     instanceTypes?: StringList;
+    /**
+     * An object that contains the properties that you want to replace for the existing Amazon EKS resources of a job.
+     */
+    eksPropertiesOverride?: EksPropertiesOverride;
   }
   export type NodePropertyOverrides = NodePropertyOverride[];
   export type NodeRangeProperties = NodeRangeProperty[];
@@ -2295,6 +2352,10 @@ declare namespace Batch {
      * This is an object that represents the properties of the node range for a multi-node parallel job.
      */
     ecsProperties?: EcsProperties;
+    /**
+     * This is an object that represents the properties of the node range for a multi-node parallel job.
+     */
+    eksProperties?: EksProperties;
   }
   export type OrchestrationType = "ECS"|"EKS"|string;
   export type ParametersMap = {[key: string]: String};
@@ -2817,6 +2878,10 @@ declare namespace Batch {
      * Specifies the updated infrastructure update policy for the compute environment. For more information about infrastructure updates, see Updating compute environments in the Batch User Guide.
      */
     updatePolicy?: UpdatePolicy;
+    /**
+     * Reserved.
+     */
+    context?: String;
   }
   export interface UpdateComputeEnvironmentResponse {
     /**

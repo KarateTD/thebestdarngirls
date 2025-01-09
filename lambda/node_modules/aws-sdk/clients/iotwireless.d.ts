@@ -1875,7 +1875,7 @@ declare namespace IoTWireless {
   export type FirmwareUpdateRole = string;
   export type FragmentIntervalMS = number;
   export type FragmentSizeBytes = number;
-  export type FuotaDeviceStatus = "Initial"|"Package_Not_Supported"|"FragAlgo_unsupported"|"Not_enough_memory"|"FragIndex_unsupported"|"Wrong_descriptor"|"SessionCnt_replay"|"MissingFrag"|"MemoryError"|"MICError"|"Successful"|string;
+  export type FuotaDeviceStatus = "Initial"|"Package_Not_Supported"|"FragAlgo_unsupported"|"Not_enough_memory"|"FragIndex_unsupported"|"Wrong_descriptor"|"SessionCnt_replay"|"MissingFrag"|"MemoryError"|"MICError"|"Successful"|"Device_exist_in_conflict_fuota_task"|string;
   export interface FuotaTask {
     Id?: FuotaTaskId;
     Arn?: FuotaTaskArn;
@@ -3615,7 +3615,7 @@ declare namespace IoTWireless {
   }
   export type MessageId = string;
   export type MessageType = "CUSTOM_COMMAND_ID_NOTIFY"|"CUSTOM_COMMAND_ID_GET"|"CUSTOM_COMMAND_ID_SET"|"CUSTOM_COMMAND_ID_RESP"|string;
-  export type MetricName = "DeviceRSSI"|"DeviceSNR"|"DeviceUplinkCount"|"DeviceDownlinkCount"|"DeviceUplinkLostCount"|"DeviceUplinkLostRate"|"DeviceJoinRequestCount"|"DeviceJoinAcceptCount"|"DeviceRoamingUplinkCount"|"DeviceRoamingDownlinkCount"|"GatewayUpTime"|"GatewayDownTime"|"GatewayRSSI"|"GatewaySNR"|"GatewayUplinkCount"|"GatewayDownlinkCount"|"GatewayJoinRequestCount"|"GatewayJoinAcceptCount"|"AwsAccountUplinkCount"|"AwsAccountDownlinkCount"|"AwsAccountUplinkLostCount"|"AwsAccountUplinkLostRate"|"AwsAccountJoinRequestCount"|"AwsAccountJoinAcceptCount"|"AwsAccountRoamingUplinkCount"|"AwsAccountRoamingDownlinkCount"|"AwsAccountDeviceCount"|"AwsAccountGatewayCount"|"AwsAccountActiveDeviceCount"|"AwsAccountActiveGatewayCount"|string;
+  export type MetricName = "DeviceRSSI"|"DeviceSNR"|"DeviceRoamingRSSI"|"DeviceRoamingSNR"|"DeviceUplinkCount"|"DeviceDownlinkCount"|"DeviceUplinkLostCount"|"DeviceUplinkLostRate"|"DeviceJoinRequestCount"|"DeviceJoinAcceptCount"|"DeviceRoamingUplinkCount"|"DeviceRoamingDownlinkCount"|"GatewayUpTime"|"GatewayDownTime"|"GatewayRSSI"|"GatewaySNR"|"GatewayUplinkCount"|"GatewayDownlinkCount"|"GatewayJoinRequestCount"|"GatewayJoinAcceptCount"|"AwsAccountUplinkCount"|"AwsAccountDownlinkCount"|"AwsAccountUplinkLostCount"|"AwsAccountUplinkLostRate"|"AwsAccountJoinRequestCount"|"AwsAccountJoinAcceptCount"|"AwsAccountRoamingUplinkCount"|"AwsAccountRoamingDownlinkCount"|"AwsAccountDeviceCount"|"AwsAccountGatewayCount"|"AwsAccountActiveDeviceCount"|"AwsAccountActiveGatewayCount"|string;
   export type MetricQueryEndTimestamp = Date;
   export type MetricQueryError = string;
   export type MetricQueryId = string;

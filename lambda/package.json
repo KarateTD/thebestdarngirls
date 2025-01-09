@@ -8,6 +8,7 @@
     "ask-sdk-core": "^2.14.0",
     "ask-sdk-model": "^1.86.0",
     "aws-sdk": "^2.1608.0",
+    "cross-spawn":">=7.0.5",
     "dot-prop": "^5.3.0",
     "hosted-git-info": "^2.8.9",
     "ip": "2.0.1",
@@ -29,6 +30,7 @@
   "devDependencies": {
     "@types/node": "^18.19.31",
     "ansi-regex": ">=5.0.1",
+    "cross-spawn":">=7.0.5",
     "got": "^12.6.1",
     "http-cache-semantics": "4.1.1",
     "json-schema": ">=0.4.0",

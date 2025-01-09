@@ -12,19 +12,27 @@ declare class Bedrock extends Service {
   constructor(options?: Bedrock.Types.ClientConfiguration)
   config: Config & Bedrock.Types.ClientConfiguration;
   /**
-   * API operation for creating and managing Amazon Bedrock automatic model evaluation jobs and model evaluation jobs that use human workers. To learn more about the requirements for creating a model evaluation job see, Model evaluations.
+   * Creates a batch deletion job. A model evaluation job can only be deleted if it has following status FAILED, COMPLETED, and STOPPED. You can request up to 25 model evaluation jobs be deleted in a single request.
+   */
+  batchDeleteEvaluationJob(params: Bedrock.Types.BatchDeleteEvaluationJobRequest, callback?: (err: AWSError, data: Bedrock.Types.BatchDeleteEvaluationJobResponse) => void): Request<Bedrock.Types.BatchDeleteEvaluationJobResponse, AWSError>;
+  /**
+   * Creates a batch deletion job. A model evaluation job can only be deleted if it has following status FAILED, COMPLETED, and STOPPED. You can request up to 25 model evaluation jobs be deleted in a single request.
+   */
+  batchDeleteEvaluationJob(callback?: (err: AWSError, data: Bedrock.Types.BatchDeleteEvaluationJobResponse) => void): Request<Bedrock.Types.BatchDeleteEvaluationJobResponse, AWSError>;
+  /**
+   * API operation for creating and managing Amazon Bedrock automatic model evaluation jobs and model evaluation jobs that use human workers. To learn more about the requirements for creating a model evaluation job see, Model evaluation.
    */
   createEvaluationJob(params: Bedrock.Types.CreateEvaluationJobRequest, callback?: (err: AWSError, data: Bedrock.Types.CreateEvaluationJobResponse) => void): Request<Bedrock.Types.CreateEvaluationJobResponse, AWSError>;
   /**
-   * API operation for creating and managing Amazon Bedrock automatic model evaluation jobs and model evaluation jobs that use human workers. To learn more about the requirements for creating a model evaluation job see, Model evaluations.
+   * API operation for creating and managing Amazon Bedrock automatic model evaluation jobs and model evaluation jobs that use human workers. To learn more about the requirements for creating a model evaluation job see, Model evaluation.
    */
   createEvaluationJob(callback?: (err: AWSError, data: Bedrock.Types.CreateEvaluationJobResponse) => void): Request<Bedrock.Types.CreateEvaluationJobResponse, AWSError>;
   /**
-   * Creates a guardrail to block topics and to filter out harmful content.   Specify a name and optional description.   Specify messages for when the guardrail successfully blocks a prompt or a model response in the blockedInputMessaging and blockedOutputsMessaging fields.   Specify topics for the guardrail to deny in the topicPolicyConfig object. Each GuardrailTopicConfig object in the topicsConfig list pertains to one topic.   Give a name and description so that the guardrail can properly identify the topic.   Specify DENY in the type field.   (Optional) Provide up to five prompts that you would categorize as belonging to the topic in the examples list.     Specify filter strengths for the harmful categories defined in Amazon Bedrock in the contentPolicyConfig object. Each GuardrailContentFilterConfig object in the filtersConfig list pertains to a harmful category. For more information, see Content filters. For more information about the fields in a content filter, see GuardrailContentFilterConfig.   Specify the category in the type field.   Specify the strength of the filter for prompts in the inputStrength field and for model responses in the strength field of the GuardrailContentFilterConfig.     (Optional) For security, include the ARN of a KMS key in the kmsKeyId field.   (Optional) Attach any tags to the guardrail in the tags object. For more information, see Tag resources.  
+   * Creates a guardrail to block topics and to implement safeguards for your generative AI applications. You can configure the following policies in a guardrail to avoid undesirable and harmful content, filter out denied topics and words, and remove sensitive information for privacy protection.    Content filters - Adjust filter strengths to block input prompts or model responses containing harmful content.    Denied topics - Define a set of topics that are undesirable in the context of your application. These topics will be blocked if detected in user queries or model responses.    Word filters - Configure filters to block undesirable words, phrases, and profanity. Such words can include offensive terms, competitor names etc.    Sensitive information filters - Block or mask sensitive information such as personally identifiable information (PII) or custom regex in user inputs and model responses.   In addition to the above policies, you can also configure the messages to be returned to the user if a user input or model response is in violation of the policies defined in the guardrail. For more information, see Guardrails for Amazon Bedrock in the Amazon Bedrock User Guide.
    */
   createGuardrail(params: Bedrock.Types.CreateGuardrailRequest, callback?: (err: AWSError, data: Bedrock.Types.CreateGuardrailResponse) => void): Request<Bedrock.Types.CreateGuardrailResponse, AWSError>;
   /**
-   * Creates a guardrail to block topics and to filter out harmful content.   Specify a name and optional description.   Specify messages for when the guardrail successfully blocks a prompt or a model response in the blockedInputMessaging and blockedOutputsMessaging fields.   Specify topics for the guardrail to deny in the topicPolicyConfig object. Each GuardrailTopicConfig object in the topicsConfig list pertains to one topic.   Give a name and description so that the guardrail can properly identify the topic.   Specify DENY in the type field.   (Optional) Provide up to five prompts that you would categorize as belonging to the topic in the examples list.     Specify filter strengths for the harmful categories defined in Amazon Bedrock in the contentPolicyConfig object. Each GuardrailContentFilterConfig object in the filtersConfig list pertains to a harmful category. For more information, see Content filters. For more information about the fields in a content filter, see GuardrailContentFilterConfig.   Specify the category in the type field.   Specify the strength of the filter for prompts in the inputStrength field and for model responses in the strength field of the GuardrailContentFilterConfig.     (Optional) For security, include the ARN of a KMS key in the kmsKeyId field.   (Optional) Attach any tags to the guardrail in the tags object. For more information, see Tag resources.  
+   * Creates a guardrail to block topics and to implement safeguards for your generative AI applications. You can configure the following policies in a guardrail to avoid undesirable and harmful content, filter out denied topics and words, and remove sensitive information for privacy protection.    Content filters - Adjust filter strengths to block input prompts or model responses containing harmful content.    Denied topics - Define a set of topics that are undesirable in the context of your application. These topics will be blocked if detected in user queries or model responses.    Word filters - Configure filters to block undesirable words, phrases, and profanity. Such words can include offensive terms, competitor names etc.    Sensitive information filters - Block or mask sensitive information such as personally identifiable information (PII) or custom regex in user inputs and model responses.   In addition to the above policies, you can also configure the messages to be returned to the user if a user input or model response is in violation of the policies defined in the guardrail. For more information, see Guardrails for Amazon Bedrock in the Amazon Bedrock User Guide.
    */
   createGuardrail(callback?: (err: AWSError, data: Bedrock.Types.CreateGuardrailResponse) => void): Request<Bedrock.Types.CreateGuardrailResponse, AWSError>;
   /**
@@ -36,6 +44,14 @@ declare class Bedrock extends Service {
    */
   createGuardrailVersion(callback?: (err: AWSError, data: Bedrock.Types.CreateGuardrailVersionResponse) => void): Request<Bedrock.Types.CreateGuardrailVersionResponse, AWSError>;
   /**
+   * Copies a model to another region so that it can be used there. For more information, see Copy models to be used in other regions in the Amazon Bedrock User Guide.
+   */
+  createModelCopyJob(params: Bedrock.Types.CreateModelCopyJobRequest, callback?: (err: AWSError, data: Bedrock.Types.CreateModelCopyJobResponse) => void): Request<Bedrock.Types.CreateModelCopyJobResponse, AWSError>;
+  /**
+   * Copies a model to another region so that it can be used there. For more information, see Copy models to be used in other regions in the Amazon Bedrock User Guide.
+   */
+  createModelCopyJob(callback?: (err: AWSError, data: Bedrock.Types.CreateModelCopyJobResponse) => void): Request<Bedrock.Types.CreateModelCopyJobResponse, AWSError>;
+  /**
    * Creates a fine-tuning job to customize a base model. You specify the base foundation model and the location of the training data. After the model-customization job completes successfully, your custom model resource will be ready to use. Amazon Bedrock returns validation loss metrics and output generations after the job completes.  For information on the format of training and validation data, see Prepare the datasets.  Model-customization jobs are asynchronous and the completion time depends on the base model and the training/validation data size. To monitor a job, use the GetModelCustomizationJob operation to retrieve the job status. For more information, see Custom models in the Amazon Bedrock User Guide.
    */
   createModelCustomizationJob(params: Bedrock.Types.CreateModelCustomizationJobRequest, callback?: (err: AWSError, data: Bedrock.Types.CreateModelCustomizationJobResponse) => void): Request<Bedrock.Types.CreateModelCustomizationJobResponse, AWSError>;
@@ -43,6 +59,22 @@ declare class Bedrock extends Service {
    * Creates a fine-tuning job to customize a base model. You specify the base foundation model and the location of the training data. After the model-customization job completes successfully, your custom model resource will be ready to use. Amazon Bedrock returns validation loss metrics and output generations after the job completes.  For information on the format of training and validation data, see Prepare the datasets.  Model-customization jobs are asynchronous and the completion time depends on the base model and the training/validation data size. To monitor a job, use the GetModelCustomizationJob operation to retrieve the job status. For more information, see Custom models in the Amazon Bedrock User Guide.
    */
   createModelCustomizationJob(callback?: (err: AWSError, data: Bedrock.Types.CreateModelCustomizationJobResponse) => void): Request<Bedrock.Types.CreateModelCustomizationJobResponse, AWSError>;
+  /**
+   * Creates a model import job to import model that you have customized in other environments, such as Amazon SageMaker. For more information, see Import a customized model 
+   */
+  createModelImportJob(params: Bedrock.Types.CreateModelImportJobRequest, callback?: (err: AWSError, data: Bedrock.Types.CreateModelImportJobResponse) => void): Request<Bedrock.Types.CreateModelImportJobResponse, AWSError>;
+  /**
+   * Creates a model import job to import model that you have customized in other environments, such as Amazon SageMaker. For more information, see Import a customized model 
+   */
+  createModelImportJob(callback?: (err: AWSError, data: Bedrock.Types.CreateModelImportJobResponse) => void): Request<Bedrock.Types.CreateModelImportJobResponse, AWSError>;
+  /**
+   * Creates a batch inference job to invoke a model on multiple prompts. Format your data according to Format your inference data and upload it to an Amazon S3 bucket. For more information, see Process multiple prompts with batch inference. The response returns a jobArn that you can use to stop or get details about the job.
+   */
+  createModelInvocationJob(params: Bedrock.Types.CreateModelInvocationJobRequest, callback?: (err: AWSError, data: Bedrock.Types.CreateModelInvocationJobResponse) => void): Request<Bedrock.Types.CreateModelInvocationJobResponse, AWSError>;
+  /**
+   * Creates a batch inference job to invoke a model on multiple prompts. Format your data according to Format your inference data and upload it to an Amazon S3 bucket. For more information, see Process multiple prompts with batch inference. The response returns a jobArn that you can use to stop or get details about the job.
+   */
+  createModelInvocationJob(callback?: (err: AWSError, data: Bedrock.Types.CreateModelInvocationJobResponse) => void): Request<Bedrock.Types.CreateModelInvocationJobResponse, AWSError>;
   /**
    * Creates dedicated throughput for a base or custom model with the model units and for the duration that you specify. For pricing details, see Amazon Bedrock Pricing. For more information, see Provisioned Throughput in the Amazon Bedrock User Guide.
    */
@@ -68,6 +100,14 @@ declare class Bedrock extends Service {
    */
   deleteGuardrail(callback?: (err: AWSError, data: Bedrock.Types.DeleteGuardrailResponse) => void): Request<Bedrock.Types.DeleteGuardrailResponse, AWSError>;
   /**
+   * Deletes a custom model that you imported earlier. For more information, see Import a customized model in the Amazon Bedrock User Guide. 
+   */
+  deleteImportedModel(params: Bedrock.Types.DeleteImportedModelRequest, callback?: (err: AWSError, data: Bedrock.Types.DeleteImportedModelResponse) => void): Request<Bedrock.Types.DeleteImportedModelResponse, AWSError>;
+  /**
+   * Deletes a custom model that you imported earlier. For more information, see Import a customized model in the Amazon Bedrock User Guide. 
+   */
+  deleteImportedModel(callback?: (err: AWSError, data: Bedrock.Types.DeleteImportedModelResponse) => void): Request<Bedrock.Types.DeleteImportedModelResponse, AWSError>;
+  /**
    * Delete the invocation logging. 
    */
   deleteModelInvocationLoggingConfiguration(params: Bedrock.Types.DeleteModelInvocationLoggingConfigurationRequest, callback?: (err: AWSError, data: Bedrock.Types.DeleteModelInvocationLoggingConfigurationResponse) => void): Request<Bedrock.Types.DeleteModelInvocationLoggingConfigurationResponse, AWSError>;
@@ -92,11 +132,11 @@ declare class Bedrock extends Service {
    */
   getCustomModel(callback?: (err: AWSError, data: Bedrock.Types.GetCustomModelResponse) => void): Request<Bedrock.Types.GetCustomModelResponse, AWSError>;
   /**
-   * Retrieves the properties associated with a model evaluation job, including the status of the job. For more information, see Model evaluations.
+   * Retrieves the properties associated with a model evaluation job, including the status of the job. For more information, see Model evaluation.
    */
   getEvaluationJob(params: Bedrock.Types.GetEvaluationJobRequest, callback?: (err: AWSError, data: Bedrock.Types.GetEvaluationJobResponse) => void): Request<Bedrock.Types.GetEvaluationJobResponse, AWSError>;
   /**
-   * Retrieves the properties associated with a model evaluation job, including the status of the job. For more information, see Model evaluations.
+   * Retrieves the properties associated with a model evaluation job, including the status of the job. For more information, see Model evaluation.
    */
   getEvaluationJob(callback?: (err: AWSError, data: Bedrock.Types.GetEvaluationJobResponse) => void): Request<Bedrock.Types.GetEvaluationJobResponse, AWSError>;
   /**
@@ -116,6 +156,30 @@ declare class Bedrock extends Service {
    */
   getGuardrail(callback?: (err: AWSError, data: Bedrock.Types.GetGuardrailResponse) => void): Request<Bedrock.Types.GetGuardrailResponse, AWSError>;
   /**
+   * Gets properties associated with a customized model you imported. 
+   */
+  getImportedModel(params: Bedrock.Types.GetImportedModelRequest, callback?: (err: AWSError, data: Bedrock.Types.GetImportedModelResponse) => void): Request<Bedrock.Types.GetImportedModelResponse, AWSError>;
+  /**
+   * Gets properties associated with a customized model you imported. 
+   */
+  getImportedModel(callback?: (err: AWSError, data: Bedrock.Types.GetImportedModelResponse) => void): Request<Bedrock.Types.GetImportedModelResponse, AWSError>;
+  /**
+   * Gets information about an inference profile. For more information, see the Amazon Bedrock User Guide.
+   */
+  getInferenceProfile(params: Bedrock.Types.GetInferenceProfileRequest, callback?: (err: AWSError, data: Bedrock.Types.GetInferenceProfileResponse) => void): Request<Bedrock.Types.GetInferenceProfileResponse, AWSError>;
+  /**
+   * Gets information about an inference profile. For more information, see the Amazon Bedrock User Guide.
+   */
+  getInferenceProfile(callback?: (err: AWSError, data: Bedrock.Types.GetInferenceProfileResponse) => void): Request<Bedrock.Types.GetInferenceProfileResponse, AWSError>;
+  /**
+   * Retrieves information about a model copy job. For more information, see Copy models to be used in other regions in the Amazon Bedrock User Guide.
+   */
+  getModelCopyJob(params: Bedrock.Types.GetModelCopyJobRequest, callback?: (err: AWSError, data: Bedrock.Types.GetModelCopyJobResponse) => void): Request<Bedrock.Types.GetModelCopyJobResponse, AWSError>;
+  /**
+   * Retrieves information about a model copy job. For more information, see Copy models to be used in other regions in the Amazon Bedrock User Guide.
+   */
+  getModelCopyJob(callback?: (err: AWSError, data: Bedrock.Types.GetModelCopyJobResponse) => void): Request<Bedrock.Types.GetModelCopyJobResponse, AWSError>;
+  /**
    * Retrieves the properties associated with a model-customization job, including the status of the job. For more information, see Custom models in the Amazon Bedrock User Guide.
    */
   getModelCustomizationJob(params: Bedrock.Types.GetModelCustomizationJobRequest, callback?: (err: AWSError, data: Bedrock.Types.GetModelCustomizationJobResponse) => void): Request<Bedrock.Types.GetModelCustomizationJobResponse, AWSError>;
@@ -123,6 +187,22 @@ declare class Bedrock extends Service {
    * Retrieves the properties associated with a model-customization job, including the status of the job. For more information, see Custom models in the Amazon Bedrock User Guide.
    */
   getModelCustomizationJob(callback?: (err: AWSError, data: Bedrock.Types.GetModelCustomizationJobResponse) => void): Request<Bedrock.Types.GetModelCustomizationJobResponse, AWSError>;
+  /**
+   * Retrieves the properties associated with import model job, including the status of the job. For more information, see Import a customized model in the Amazon Bedrock User Guide.
+   */
+  getModelImportJob(params: Bedrock.Types.GetModelImportJobRequest, callback?: (err: AWSError, data: Bedrock.Types.GetModelImportJobResponse) => void): Request<Bedrock.Types.GetModelImportJobResponse, AWSError>;
+  /**
+   * Retrieves the properties associated with import model job, including the status of the job. For more information, see Import a customized model in the Amazon Bedrock User Guide.
+   */
+  getModelImportJob(callback?: (err: AWSError, data: Bedrock.Types.GetModelImportJobResponse) => void): Request<Bedrock.Types.GetModelImportJobResponse, AWSError>;
+  /**
+   * Gets details about a batch inference job. For more information, see View details about a batch inference job 
+   */
+  getModelInvocationJob(params: Bedrock.Types.GetModelInvocationJobRequest, callback?: (err: AWSError, data: Bedrock.Types.GetModelInvocationJobResponse) => void): Request<Bedrock.Types.GetModelInvocationJobResponse, AWSError>;
+  /**
+   * Gets details about a batch inference job. For more information, see View details about a batch inference job 
+   */
+  getModelInvocationJob(callback?: (err: AWSError, data: Bedrock.Types.GetModelInvocationJobResponse) => void): Request<Bedrock.Types.GetModelInvocationJobResponse, AWSError>;
   /**
    * Get the current configuration values for model invocation logging.
    */
@@ -172,6 +252,30 @@ declare class Bedrock extends Service {
    */
   listGuardrails(callback?: (err: AWSError, data: Bedrock.Types.ListGuardrailsResponse) => void): Request<Bedrock.Types.ListGuardrailsResponse, AWSError>;
   /**
+   * Returns a list of models you've imported. You can filter the results to return based on one or more criteria. For more information, see Import a customized model in the Amazon Bedrock User Guide.
+   */
+  listImportedModels(params: Bedrock.Types.ListImportedModelsRequest, callback?: (err: AWSError, data: Bedrock.Types.ListImportedModelsResponse) => void): Request<Bedrock.Types.ListImportedModelsResponse, AWSError>;
+  /**
+   * Returns a list of models you've imported. You can filter the results to return based on one or more criteria. For more information, see Import a customized model in the Amazon Bedrock User Guide.
+   */
+  listImportedModels(callback?: (err: AWSError, data: Bedrock.Types.ListImportedModelsResponse) => void): Request<Bedrock.Types.ListImportedModelsResponse, AWSError>;
+  /**
+   * Returns a list of inference profiles that you can use.
+   */
+  listInferenceProfiles(params: Bedrock.Types.ListInferenceProfilesRequest, callback?: (err: AWSError, data: Bedrock.Types.ListInferenceProfilesResponse) => void): Request<Bedrock.Types.ListInferenceProfilesResponse, AWSError>;
+  /**
+   * Returns a list of inference profiles that you can use.
+   */
+  listInferenceProfiles(callback?: (err: AWSError, data: Bedrock.Types.ListInferenceProfilesResponse) => void): Request<Bedrock.Types.ListInferenceProfilesResponse, AWSError>;
+  /**
+   * Returns a list of model copy jobs that you have submitted. You can filter the jobs to return based on one or more criteria. For more information, see Copy models to be used in other regions in the Amazon Bedrock User Guide.
+   */
+  listModelCopyJobs(params: Bedrock.Types.ListModelCopyJobsRequest, callback?: (err: AWSError, data: Bedrock.Types.ListModelCopyJobsResponse) => void): Request<Bedrock.Types.ListModelCopyJobsResponse, AWSError>;
+  /**
+   * Returns a list of model copy jobs that you have submitted. You can filter the jobs to return based on one or more criteria. For more information, see Copy models to be used in other regions in the Amazon Bedrock User Guide.
+   */
+  listModelCopyJobs(callback?: (err: AWSError, data: Bedrock.Types.ListModelCopyJobsResponse) => void): Request<Bedrock.Types.ListModelCopyJobsResponse, AWSError>;
+  /**
    * Returns a list of model customization jobs that you have submitted. You can filter the jobs to return based on one or more criteria. For more information, see Custom models in the Amazon Bedrock User Guide.
    */
   listModelCustomizationJobs(params: Bedrock.Types.ListModelCustomizationJobsRequest, callback?: (err: AWSError, data: Bedrock.Types.ListModelCustomizationJobsResponse) => void): Request<Bedrock.Types.ListModelCustomizationJobsResponse, AWSError>;
@@ -179,6 +283,22 @@ declare class Bedrock extends Service {
    * Returns a list of model customization jobs that you have submitted. You can filter the jobs to return based on one or more criteria. For more information, see Custom models in the Amazon Bedrock User Guide.
    */
   listModelCustomizationJobs(callback?: (err: AWSError, data: Bedrock.Types.ListModelCustomizationJobsResponse) => void): Request<Bedrock.Types.ListModelCustomizationJobsResponse, AWSError>;
+  /**
+   * Returns a list of import jobs you've submitted. You can filter the results to return based on one or more criteria. For more information, see Import a customized model in the Amazon Bedrock User Guide.
+   */
+  listModelImportJobs(params: Bedrock.Types.ListModelImportJobsRequest, callback?: (err: AWSError, data: Bedrock.Types.ListModelImportJobsResponse) => void): Request<Bedrock.Types.ListModelImportJobsResponse, AWSError>;
+  /**
+   * Returns a list of import jobs you've submitted. You can filter the results to return based on one or more criteria. For more information, see Import a customized model in the Amazon Bedrock User Guide.
+   */
+  listModelImportJobs(callback?: (err: AWSError, data: Bedrock.Types.ListModelImportJobsResponse) => void): Request<Bedrock.Types.ListModelImportJobsResponse, AWSError>;
+  /**
+   * Lists all batch inference jobs in the account. For more information, see View details about a batch inference job.
+   */
+  listModelInvocationJobs(params: Bedrock.Types.ListModelInvocationJobsRequest, callback?: (err: AWSError, data: Bedrock.Types.ListModelInvocationJobsResponse) => void): Request<Bedrock.Types.ListModelInvocationJobsResponse, AWSError>;
+  /**
+   * Lists all batch inference jobs in the account. For more information, see View details about a batch inference job.
+   */
+  listModelInvocationJobs(callback?: (err: AWSError, data: Bedrock.Types.ListModelInvocationJobsResponse) => void): Request<Bedrock.Types.ListModelInvocationJobsResponse, AWSError>;
   /**
    * Lists the Provisioned Throughputs in the account. For more information, see Provisioned Throughput in the Amazon Bedrock User Guide.
    */
@@ -220,6 +340,14 @@ declare class Bedrock extends Service {
    */
   stopModelCustomizationJob(callback?: (err: AWSError, data: Bedrock.Types.StopModelCustomizationJobResponse) => void): Request<Bedrock.Types.StopModelCustomizationJobResponse, AWSError>;
   /**
+   * Stops a batch inference job. You're only charged for tokens that were already processed. For more information, see Stop a batch inference job.
+   */
+  stopModelInvocationJob(params: Bedrock.Types.StopModelInvocationJobRequest, callback?: (err: AWSError, data: Bedrock.Types.StopModelInvocationJobResponse) => void): Request<Bedrock.Types.StopModelInvocationJobResponse, AWSError>;
+  /**
+   * Stops a batch inference job. You're only charged for tokens that were already processed. For more information, see Stop a batch inference job.
+   */
+  stopModelInvocationJob(callback?: (err: AWSError, data: Bedrock.Types.StopModelInvocationJobResponse) => void): Request<Bedrock.Types.StopModelInvocationJobResponse, AWSError>;
+  /**
    * Associate tags with a resource. For more information, see Tagging resources in the Amazon Bedrock User Guide.
    */
   tagResource(params: Bedrock.Types.TagResourceRequest, callback?: (err: AWSError, data: Bedrock.Types.TagResourceResponse) => void): Request<Bedrock.Types.TagResourceResponse, AWSError>;
@@ -236,11 +364,11 @@ declare class Bedrock extends Service {
    */
   untagResource(callback?: (err: AWSError, data: Bedrock.Types.UntagResourceResponse) => void): Request<Bedrock.Types.UntagResourceResponse, AWSError>;
   /**
-   * Updates a guardrail with the values you specify.   Specify a name and optional description.   Specify messages for when the guardrail successfully blocks a prompt or a model response in the blockedInputMessaging and blockedOutputsMessaging fields.   Specify topics for the guardrail to deny in the topicPolicyConfig object. Each GuardrailTopicConfig object in the topicsConfig list pertains to one topic.   Give a name and description so that the guardrail can properly identify the topic.   Specify DENY in the type field.   (Optional) Provide up to five prompts that you would categorize as belonging to the topic in the examples list.     Specify filter strengths for the harmful categories defined in Amazon Bedrock in the contentPolicyConfig object. Each GuardrailContentFilterConfig object in the filtersConfig list pertains to a harmful category. For more information, see Content filters. For more information about the fields in a content filter, see GuardrailContentFilterConfig.   Specify the category in the type field.   Specify the strength of the filter for prompts in the inputStrength field and for model responses in the strength field of the GuardrailContentFilterConfig.     (Optional) For security, include the ARN of a KMS key in the kmsKeyId field.   (Optional) Attach any tags to the guardrail in the tags object. For more information, see Tag resources.  
+   * Updates a guardrail with the values you specify.   Specify a name and optional description.   Specify messages for when the guardrail successfully blocks a prompt or a model response in the blockedInputMessaging and blockedOutputsMessaging fields.   Specify topics for the guardrail to deny in the topicPolicyConfig object. Each GuardrailTopicConfig object in the topicsConfig list pertains to one topic.   Give a name and description so that the guardrail can properly identify the topic.   Specify DENY in the type field.   (Optional) Provide up to five prompts that you would categorize as belonging to the topic in the examples list.     Specify filter strengths for the harmful categories defined in Amazon Bedrock in the contentPolicyConfig object. Each GuardrailContentFilterConfig object in the filtersConfig list pertains to a harmful category. For more information, see Content filters. For more information about the fields in a content filter, see GuardrailContentFilterConfig.   Specify the category in the type field.   Specify the strength of the filter for prompts in the inputStrength field and for model responses in the strength field of the GuardrailContentFilterConfig.     (Optional) For security, include the ARN of a KMS key in the kmsKeyId field.  
    */
   updateGuardrail(params: Bedrock.Types.UpdateGuardrailRequest, callback?: (err: AWSError, data: Bedrock.Types.UpdateGuardrailResponse) => void): Request<Bedrock.Types.UpdateGuardrailResponse, AWSError>;
   /**
-   * Updates a guardrail with the values you specify.   Specify a name and optional description.   Specify messages for when the guardrail successfully blocks a prompt or a model response in the blockedInputMessaging and blockedOutputsMessaging fields.   Specify topics for the guardrail to deny in the topicPolicyConfig object. Each GuardrailTopicConfig object in the topicsConfig list pertains to one topic.   Give a name and description so that the guardrail can properly identify the topic.   Specify DENY in the type field.   (Optional) Provide up to five prompts that you would categorize as belonging to the topic in the examples list.     Specify filter strengths for the harmful categories defined in Amazon Bedrock in the contentPolicyConfig object. Each GuardrailContentFilterConfig object in the filtersConfig list pertains to a harmful category. For more information, see Content filters. For more information about the fields in a content filter, see GuardrailContentFilterConfig.   Specify the category in the type field.   Specify the strength of the filter for prompts in the inputStrength field and for model responses in the strength field of the GuardrailContentFilterConfig.     (Optional) For security, include the ARN of a KMS key in the kmsKeyId field.   (Optional) Attach any tags to the guardrail in the tags object. For more information, see Tag resources.  
+   * Updates a guardrail with the values you specify.   Specify a name and optional description.   Specify messages for when the guardrail successfully blocks a prompt or a model response in the blockedInputMessaging and blockedOutputsMessaging fields.   Specify topics for the guardrail to deny in the topicPolicyConfig object. Each GuardrailTopicConfig object in the topicsConfig list pertains to one topic.   Give a name and description so that the guardrail can properly identify the topic.   Specify DENY in the type field.   (Optional) Provide up to five prompts that you would categorize as belonging to the topic in the examples list.     Specify filter strengths for the harmful categories defined in Amazon Bedrock in the contentPolicyConfig object. Each GuardrailContentFilterConfig object in the filtersConfig list pertains to a harmful category. For more information, see Content filters. For more information about the fields in a content filter, see GuardrailContentFilterConfig.   Specify the category in the type field.   Specify the strength of the filter for prompts in the inputStrength field and for model responses in the strength field of the GuardrailContentFilterConfig.     (Optional) For security, include the ARN of a KMS key in the kmsKeyId field.  
    */
   updateGuardrail(callback?: (err: AWSError, data: Bedrock.Types.UpdateGuardrailResponse) => void): Request<Bedrock.Types.UpdateGuardrailResponse, AWSError>;
   /**
@@ -253,6 +381,7 @@ declare class Bedrock extends Service {
   updateProvisionedModelThroughput(callback?: (err: AWSError, data: Bedrock.Types.UpdateProvisionedModelThroughputResponse) => void): Request<Bedrock.Types.UpdateProvisionedModelThroughputResponse, AWSError>;
 }
 declare namespace Bedrock {
+  export type AccountId = string;
   export interface AutomatedEvaluationConfig {
     /**
      * Specifies the required elements for an automatic model evaluation job.
@@ -260,6 +389,48 @@ declare namespace Bedrock {
     datasetMetricConfigs: EvaluationDatasetMetricConfigs;
   }
   export type BaseModelIdentifier = string;
+  export interface BatchDeleteEvaluationJobError {
+    /**
+     * The ARN of the model evaluation job being deleted.
+     */
+    jobIdentifier: EvaluationJobIdentifier;
+    /**
+     * A HTTP status code of the model evaluation job being deleted.
+     */
+    code: String;
+    /**
+     * A status message about the model evaluation job deletion.
+     */
+    message?: String;
+  }
+  export type BatchDeleteEvaluationJobErrors = BatchDeleteEvaluationJobError[];
+  export interface BatchDeleteEvaluationJobItem {
+    /**
+     * The ARN of model evaluation job to be deleted.
+     */
+    jobIdentifier: EvaluationJobIdentifier;
+    /**
+     * The status of the job's deletion.
+     */
+    jobStatus: EvaluationJobStatus;
+  }
+  export type BatchDeleteEvaluationJobItems = BatchDeleteEvaluationJobItem[];
+  export interface BatchDeleteEvaluationJobRequest {
+    /**
+     * An array of model evaluation job ARNs to be deleted.
+     */
+    jobIdentifiers: EvaluationJobIdentifiers;
+  }
+  export interface BatchDeleteEvaluationJobResponse {
+    /**
+     * A JSON object containing the HTTP status codes and the ARNs of model evaluation jobs that failed to be deleted.
+     */
+    errors: BatchDeleteEvaluationJobErrors;
+    /**
+     * The list of model evaluation jobs to be deleted.
+     */
+    evaluationJobs: BatchDeleteEvaluationJobItems;
+  }
   export type BedrockModelId = string;
   export type Boolean = boolean;
   export type BrandedName = string;
@@ -349,6 +520,10 @@ declare namespace Bedrock {
      */
     sensitiveInformationPolicyConfig?: GuardrailSensitiveInformationPolicyConfig;
     /**
+     * The contextual grounding policy configuration used to create a guardrail.
+     */
+    contextualGroundingPolicyConfig?: GuardrailContextualGroundingPolicyConfig;
+    /**
      * The message to return when the guardrail blocks a prompt.
      */
     blockedInputMessaging: GuardrailBlockedMessaging;
@@ -375,11 +550,11 @@ declare namespace Bedrock {
      */
     guardrailId: GuardrailId;
     /**
-     * The ARN of the guardrail that was created.
+     * The ARN of the guardrail.
      */
     guardrailArn: GuardrailArn;
     /**
-     * The version of the guardrail that was created. This value should be 1.
+     * The version of the guardrail that was created. This value will always be DRAFT.
      */
     version: GuardrailDraftVersion;
     /**
@@ -389,7 +564,7 @@ declare namespace Bedrock {
   }
   export interface CreateGuardrailVersionRequest {
     /**
-     * The unique identifier of the guardrail.
+     * The unique identifier of the guardrail. This can be an ID or the ARN.
      */
     guardrailIdentifier: GuardrailIdentifier;
     /**
@@ -410,6 +585,34 @@ declare namespace Bedrock {
      * The number of the version of the guardrail.
      */
     version: GuardrailNumericalVersion;
+  }
+  export interface CreateModelCopyJobRequest {
+    /**
+     * The Amazon Resource Name (ARN) of the model to be copied.
+     */
+    sourceModelArn: ModelArn;
+    /**
+     * A name for the copied model.
+     */
+    targetModelName: CustomModelName;
+    /**
+     * The ARN of the KMS key that you use to encrypt the model copy.
+     */
+    modelKmsKeyId?: KmsKeyId;
+    /**
+     * Tags to associate with the target model. For more information, see Tag resources in the Amazon Bedrock User Guide.
+     */
+    targetModelTags?: TagList;
+    /**
+     * A unique, case-sensitive identifier to ensure that the API request completes no more than one time. If this token matches a previous request, Amazon Bedrock ignores the request, but does not return an error. For more information, see Ensuring idempotency.
+     */
+    clientRequestToken?: IdempotencyToken;
+  }
+  export interface CreateModelCopyJobResponse {
+    /**
+     * The Amazon Resource Name (ARN) of the model copy job.
+     */
+    jobArn: ModelCopyJobArn;
   }
   export interface CreateModelCustomizationJobRequest {
     /**
@@ -475,6 +678,90 @@ declare namespace Bedrock {
      */
     jobArn: ModelCustomizationJobArn;
   }
+  export interface CreateModelImportJobRequest {
+    /**
+     * The name of the import job.
+     */
+    jobName: JobName;
+    /**
+     * The name of the imported model.
+     */
+    importedModelName: ImportedModelName;
+    /**
+     * The Amazon Resource Name (ARN) of the model import job.
+     */
+    roleArn: RoleArn;
+    /**
+     * The data source for the imported model.
+     */
+    modelDataSource: ModelDataSource;
+    /**
+     * Tags to attach to this import job. 
+     */
+    jobTags?: TagList;
+    /**
+     * Tags to attach to the imported model.
+     */
+    importedModelTags?: TagList;
+    /**
+     * A unique, case-sensitive identifier to ensure that the API request completes no more than one time. If this token matches a previous request, Amazon Bedrock ignores the request, but does not return an error. For more information, see Ensuring idempotency.
+     */
+    clientRequestToken?: IdempotencyToken;
+    /**
+     * VPC configuration parameters for the private Virtual Private Cloud (VPC) that contains the resources you are using for the import job.
+     */
+    vpcConfig?: VpcConfig;
+    /**
+     * The imported model is encrypted at rest using this key.
+     */
+    importedModelKmsKeyId?: KmsKeyId;
+  }
+  export interface CreateModelImportJobResponse {
+    /**
+     * The Amazon Resource Name (ARN) of the model import job.
+     */
+    jobArn: ModelImportJobArn;
+  }
+  export interface CreateModelInvocationJobRequest {
+    /**
+     * A name to give the batch inference job.
+     */
+    jobName: ModelInvocationJobName;
+    /**
+     * The Amazon Resource Name (ARN) of the service role with permissions to carry out and manage batch inference. You can use the console to create a default service role or follow the steps at Create a service role for batch inference.
+     */
+    roleArn: RoleArn;
+    /**
+     * A unique, case-sensitive identifier to ensure that the API request completes no more than one time. If this token matches a previous request, Amazon Bedrock ignores the request, but does not return an error. For more information, see Ensuring idempotency.
+     */
+    clientRequestToken?: ModelInvocationIdempotencyToken;
+    /**
+     * The unique identifier of the foundation model to use for the batch inference job.
+     */
+    modelId: ModelId;
+    /**
+     * Details about the location of the input to the batch inference job.
+     */
+    inputDataConfig: ModelInvocationJobInputDataConfig;
+    /**
+     * Details about the location of the output of the batch inference job.
+     */
+    outputDataConfig: ModelInvocationJobOutputDataConfig;
+    /**
+     * The number of hours after which to force the batch inference job to time out.
+     */
+    timeoutDurationInHours?: ModelInvocationJobTimeoutDurationInHours;
+    /**
+     * Any tags to associate with the batch inference job. For more information, see Tagging Amazon Bedrock resources.
+     */
+    tags?: TagList;
+  }
+  export interface CreateModelInvocationJobResponse {
+    /**
+     * The Amazon Resource Name (ARN) of the batch inference job.
+     */
+    jobArn: ModelInvocationJobArn;
+  }
   export interface CreateProvisionedModelThroughputRequest {
     /**
      * A unique, case-sensitive identifier to ensure that the API request completes no more than one time. If this token matches a previous request, Amazon Bedrock ignores the request, but does not return an error. For more information, see Ensuring idempotency in the Amazon S3 User Guide.
@@ -493,7 +780,7 @@ declare namespace Bedrock {
      */
     modelId: ModelIdentifier;
     /**
-     * The commitment duration requested for the Provisioned Throughput. Billing occurs hourly and is discounted for longer commitment terms. To request a no-commit Provisioned Throughput, omit this field. Custom models support all levels of commitment. To see which base models support no commitment, see Supported regions and models for Provisioned Throughput in the Amazon Bedrock User Guide
+     * The commitment duration requested for the Provisioned Throughput. Billing occurs hourly and is discounted for longer commitment terms. To request a no-commit Provisioned Throughput, omit this field. Custom models support all levels of commitment. To see which base models support no commitment, see Supported regions and models for Provisioned Throughput in the Amazon Bedrock User Guide 
      */
     commitmentDuration?: CommitmentDuration;
     /**
@@ -534,6 +821,10 @@ declare namespace Bedrock {
      * Specifies whether to carry out continued pre-training of a model or whether to fine-tune it. For more information, see Custom models.
      */
     customizationType?: CustomizationType;
+    /**
+     * The unique identifier of the account that owns the model.
+     */
+    ownerAccountId?: AccountId;
   }
   export type CustomModelSummaryList = CustomModelSummary[];
   export type CustomizationType = "FINE_TUNING"|"CONTINUED_PRE_TRAINING"|string;
@@ -547,7 +838,7 @@ declare namespace Bedrock {
   }
   export interface DeleteGuardrailRequest {
     /**
-     * The unique identifier of the guardrail.
+     * The unique identifier of the guardrail. This can be an ID or the ARN.
      */
     guardrailIdentifier: GuardrailIdentifier;
     /**
@@ -556,6 +847,14 @@ declare namespace Bedrock {
     guardrailVersion?: GuardrailNumericalVersion;
   }
   export interface DeleteGuardrailResponse {
+  }
+  export interface DeleteImportedModelRequest {
+    /**
+     * Name of the imported model to delete.
+     */
+    modelIdentifier: ImportedModelIdentifier;
+  }
+  export interface DeleteImportedModelResponse {
   }
   export interface DeleteModelInvocationLoggingConfigurationRequest {
   }
@@ -593,7 +892,7 @@ declare namespace Bedrock {
   }
   export interface EvaluationDataset {
     /**
-     * Used to specify supported built-in prompt datasets. Valid values are Builtin.Bold, Builtin.BoolQ, Builtin.NaturalQuestions, Builtin.Gigaword, Builtin.RealToxicityPrompts, Builtin.TriviaQa, Builtin.T-Rex, Builtin.WomensEcommerceClothingReviews and Builtin.Wikitext2.
+     * Used to specify supported built-in prompt datasets. Valid values are Builtin.Bold, Builtin.BoolQ, Builtin.NaturalQuestions, Builtin.Gigaword, Builtin.RealToxicityPrompts, Builtin.TriviaQA, Builtin.T-Rex, Builtin.WomensEcommerceClothingReviews and Builtin.Wikitext2.
      */
     name: EvaluationDatasetName;
     /**
@@ -632,8 +931,9 @@ declare namespace Bedrock {
   export type EvaluationJobArn = string;
   export type EvaluationJobDescription = string;
   export type EvaluationJobIdentifier = string;
+  export type EvaluationJobIdentifiers = EvaluationJobIdentifier[];
   export type EvaluationJobName = string;
-  export type EvaluationJobStatus = "InProgress"|"Completed"|"Failed"|"Stopping"|"Stopped"|string;
+  export type EvaluationJobStatus = "InProgress"|"Completed"|"Failed"|"Stopping"|"Stopped"|"Deleting"|string;
   export type EvaluationJobType = "Human"|"Automated"|string;
   export type EvaluationMetricDescription = string;
   export type EvaluationMetricName = string;
@@ -920,7 +1220,7 @@ declare namespace Bedrock {
   }
   export interface GetGuardrailRequest {
     /**
-     * The unique identifier of the guardrail for which to get details.
+     * The unique identifier of the guardrail for which to get details. This can be an ID or the ARN.
      */
     guardrailIdentifier: GuardrailIdentifier;
     /**
@@ -942,7 +1242,7 @@ declare namespace Bedrock {
      */
     guardrailId: GuardrailId;
     /**
-     * The ARN of the guardrail that was created.
+     * The ARN of the guardrail.
      */
     guardrailArn: GuardrailArn;
     /**
@@ -969,6 +1269,10 @@ declare namespace Bedrock {
      * The sensitive information policy that was configured for the guardrail.
      */
     sensitiveInformationPolicy?: GuardrailSensitiveInformationPolicy;
+    /**
+     * The contextual grounding policy used in the guardrail.
+     */
+    contextualGroundingPolicy?: GuardrailContextualGroundingPolicy;
     /**
      * The date and time at which the guardrail was created.
      */
@@ -997,6 +1301,142 @@ declare namespace Bedrock {
      * The ARN of the KMS key that encrypts the guardrail.
      */
     kmsKeyArn?: KmsKeyArn;
+  }
+  export interface GetImportedModelRequest {
+    /**
+     * Name or Amazon Resource Name (ARN) of the imported model.
+     */
+    modelIdentifier: ImportedModelIdentifier;
+  }
+  export interface GetImportedModelResponse {
+    /**
+     * The Amazon Resource Name (ARN) associated with this imported model.
+     */
+    modelArn?: ImportedModelArn;
+    /**
+     * The name of the imported model.
+     */
+    modelName?: ImportedModelName;
+    /**
+     * Job name associated with the imported model.
+     */
+    jobName?: JobName;
+    /**
+     * Job Amazon Resource Name (ARN) associated with the imported model.
+     */
+    jobArn?: ModelImportJobArn;
+    /**
+     * The data source for this imported model.
+     */
+    modelDataSource?: ModelDataSource;
+    /**
+     * Creation time of the imported model.
+     */
+    creationTime?: Timestamp;
+    /**
+     * The architecture of the imported model.
+     */
+    modelArchitecture?: String;
+    /**
+     * The imported model is encrypted at rest using this key.
+     */
+    modelKmsKeyArn?: KmsKeyArn;
+  }
+  export interface GetInferenceProfileRequest {
+    /**
+     * The unique identifier of the inference profile.
+     */
+    inferenceProfileIdentifier: InferenceProfileIdentifier;
+  }
+  export interface GetInferenceProfileResponse {
+    /**
+     * The name of the inference profile.
+     */
+    inferenceProfileName: InferenceProfileName;
+    /**
+     * A list of information about each model in the inference profile.
+     */
+    models: InferenceProfileModels;
+    /**
+     * The description of the inference profile.
+     */
+    description?: InferenceProfileDescription;
+    /**
+     * The time at which the inference profile was created.
+     */
+    createdAt?: Timestamp;
+    /**
+     * The time at which the inference profile was last updated.
+     */
+    updatedAt?: Timestamp;
+    /**
+     * The Amazon Resource Name (ARN) of the inference profile.
+     */
+    inferenceProfileArn: InferenceProfileArn;
+    /**
+     * The unique identifier of the inference profile.
+     */
+    inferenceProfileId: InferenceProfileId;
+    /**
+     * The status of the inference profile. ACTIVE means that the inference profile is available to use.
+     */
+    status: InferenceProfileStatus;
+    /**
+     * The type of the inference profile. SYSTEM_DEFINED means that the inference profile is defined by Amazon Bedrock.
+     */
+    type: InferenceProfileType;
+  }
+  export interface GetModelCopyJobRequest {
+    /**
+     * The Amazon Resource Name (ARN) of the model copy job.
+     */
+    jobArn: ModelCopyJobArn;
+  }
+  export interface GetModelCopyJobResponse {
+    /**
+     * The Amazon Resource Name (ARN) of the model copy job.
+     */
+    jobArn: ModelCopyJobArn;
+    /**
+     * The status of the model copy job.
+     */
+    status: ModelCopyJobStatus;
+    /**
+     * The time at which the model copy job was created.
+     */
+    creationTime: Timestamp;
+    /**
+     * The Amazon Resource Name (ARN) of the copied model.
+     */
+    targetModelArn: CustomModelArn;
+    /**
+     * The name of the copied model.
+     */
+    targetModelName?: CustomModelName;
+    /**
+     * The unique identifier of the account that the model being copied originated from.
+     */
+    sourceAccountId: AccountId;
+    /**
+     * The Amazon Resource Name (ARN) of the original model being copied.
+     */
+    sourceModelArn: ModelArn;
+    /**
+     * The Amazon Resource Name (ARN) of the KMS key encrypting the copied model.
+     */
+    targetModelKmsKeyArn?: KmsKeyArn;
+    /**
+     * The tags associated with the copied model.
+     */
+    targetModelTags?: TagList;
+    /**
+     * An error message for why the model copy job failed.
+     */
+    failureMessage?: ErrorMessage;
+    /**
+     * The name of the original model being copied.
+     */
+    sourceModelName?: CustomModelName;
   }
   export interface GetModelCustomizationJobRequest {
     /**
@@ -1089,6 +1529,130 @@ declare namespace Bedrock {
      * VPC configuration for the custom model job.
      */
     vpcConfig?: VpcConfig;
+  }
+  export interface GetModelImportJobRequest {
+    /**
+     * The identifier of the import job.
+     */
+    jobIdentifier: ModelImportJobIdentifier;
+  }
+  export interface GetModelImportJobResponse {
+    /**
+     * The Amazon Resource Name (ARN) of the import job.
+     */
+    jobArn?: ModelImportJobArn;
+    /**
+     * The name of the import job.
+     */
+    jobName?: JobName;
+    /**
+     * The name of the imported model.
+     */
+    importedModelName?: ImportedModelName;
+    /**
+     * The Amazon Resource Name (ARN) of the imported model.
+     */
+    importedModelArn?: ImportedModelArn;
+    /**
+     * The Amazon Resource Name (ARN) of the IAM role associated with this job.
+     */
+    roleArn?: RoleArn;
+    /**
+     * The data source for the imported model.
+     */
+    modelDataSource?: ModelDataSource;
+    /**
+     * The status of the job. A successful job transitions from in-progress to completed when the imported model is ready to use. If the job failed, the failure message contains information about why the job failed.
+     */
+    status?: ModelImportJobStatus;
+    /**
+     * Information about why the import job failed.
+     */
+    failureMessage?: ErrorMessage;
+    /**
+     * The time the resource was created.
+     */
+    creationTime?: Timestamp;
+    /**
+     * Time the resource was last modified.
+     */
+    lastModifiedTime?: Timestamp;
+    /**
+     * Time that the resource transitioned to terminal state.
+     */
+    endTime?: Timestamp;
+    /**
+     * The Virtual Private Cloud (VPC) configuration of the import model job.
+     */
+    vpcConfig?: VpcConfig;
+    /**
+     * The imported model is encrypted at rest using this key.
+     */
+    importedModelKmsKeyArn?: KmsKeyArn;
+  }
+  export interface GetModelInvocationJobRequest {
+    /**
+     * The Amazon Resource Name (ARN) of the batch inference job.
+     */
+    jobIdentifier: ModelInvocationJobIdentifier;
+  }
+  export interface GetModelInvocationJobResponse {
+    /**
+     * The Amazon Resource Name (ARN) of the batch inference job.
+     */
+    jobArn: ModelInvocationJobArn;
+    /**
+     * The name of the batch inference job.
+     */
+    jobName?: ModelInvocationJobName;
+    /**
+     * The unique identifier of the foundation model used for model inference.
+     */
+    modelId: ModelId;
+    /**
+     * A unique, case-sensitive identifier to ensure that the API request completes no more than one time. If this token matches a previous request, Amazon Bedrock ignores the request, but does not return an error. For more information, see Ensuring idempotency.
+     */
+    clientRequestToken?: ModelInvocationIdempotencyToken;
+    /**
+     * The Amazon Resource Name (ARN) of the service role with permissions to carry out and manage batch inference. You can use the console to create a default service role or follow the steps at Create a service role for batch inference.
+     */
+    roleArn: RoleArn;
+    /**
+     * The status of the batch inference job.
+     */
+    status?: ModelInvocationJobStatus;
+    /**
+     * If the batch inference job failed, this field contains a message describing why the job failed.
+     */
+    message?: Message;
+    /**
+     * The time at which the batch inference job was submitted.
+     */
+    submitTime: Timestamp;
+    /**
+     * The time at which the batch inference job was last modified.
+     */
+    lastModifiedTime?: Timestamp;
+    /**
+     * The time at which the batch inference job ended.
+     */
+    endTime?: Timestamp;
+    /**
+     * Details about the location of the input to the batch inference job.
+     */
+    inputDataConfig: ModelInvocationJobInputDataConfig;
+    /**
+     * Details about the location of the output of the batch inference job.
+     */
+    outputDataConfig: ModelInvocationJobOutputDataConfig;
+    /**
+     * The number of hours after which batch inference job was set to time out.
+     */
+    timeoutDurationInHours?: ModelInvocationJobTimeoutDurationInHours;
+    /**
+     * The time at which the batch inference job times or timed out.
+     */
+    jobExpirationTime?: Timestamp;
   }
   export interface GetModelInvocationLoggingConfigurationRequest {
   }
@@ -1203,6 +1767,43 @@ declare namespace Bedrock {
      */
     filtersConfig: GuardrailContentFiltersConfig;
   }
+  export interface GuardrailContextualGroundingFilter {
+    /**
+     * The filter type details for the guardrails contextual grounding filter.
+     */
+    type: GuardrailContextualGroundingFilterType;
+    /**
+     * The threshold details for the guardrails contextual grounding filter.
+     */
+    threshold: GuardrailContextualGroundingFilterThresholdDouble;
+  }
+  export interface GuardrailContextualGroundingFilterConfig {
+    /**
+     * The filter details for the guardrails contextual grounding filter.
+     */
+    type: GuardrailContextualGroundingFilterType;
+    /**
+     * The threshold details for the guardrails contextual grounding filter.
+     */
+    threshold: GuardrailContextualGroundingFilterConfigThresholdDouble;
+  }
+  export type GuardrailContextualGroundingFilterConfigThresholdDouble = number;
+  export type GuardrailContextualGroundingFilterThresholdDouble = number;
+  export type GuardrailContextualGroundingFilterType = "GROUNDING"|"RELEVANCE"|string;
+  export type GuardrailContextualGroundingFilters = GuardrailContextualGroundingFilter[];
+  export type GuardrailContextualGroundingFiltersConfig = GuardrailContextualGroundingFilterConfig[];
+  export interface GuardrailContextualGroundingPolicy {
+    /**
+     * The filter details for the guardrails contextual grounding policy.
+     */
+    filters: GuardrailContextualGroundingFilters;
+  }
+  export interface GuardrailContextualGroundingPolicyConfig {
+    /**
+     * The filter configuration details for the guardrails contextual grounding policy.
+     */
+    filtersConfig: GuardrailContextualGroundingFiltersConfig;
+  }
   export type GuardrailDescription = string;
   export type GuardrailDraftVersion = string;
   export type GuardrailFailureRecommendation = string;
@@ -1231,7 +1832,7 @@ declare namespace Bedrock {
   export type GuardrailPiiEntitiesConfig = GuardrailPiiEntityConfig[];
   export interface GuardrailPiiEntity {
     /**
-     * The type of PII entity. For example, Social Security Number.
+     * The type of PII entity. For exampvle, Social Security Number.
      */
     type: GuardrailPiiEntityType;
     /**
@@ -1241,7 +1842,7 @@ declare namespace Bedrock {
   }
   export interface GuardrailPiiEntityConfig {
     /**
-     * Configure guardrail type when the PII entity is detected.
+     * Configure guardrail type when the PII entity is detected. The following PIIs are used to block or mask sensitive information:    General     ADDRESS  A physical address, such as "100 Main Street, Anytown, USA" or "Suite #12, Building 123". An address can include information such as the street, building, location, city, state, country, county, zip code, precinct, and neighborhood.     AGE  An individual's age, including the quantity and unit of time. For example, in the phrase "I am 40 years old," Guarrails recognizes "40 years" as an age.     NAME  An individual's name. This entity type does not include titles, such as Dr., Mr., Mrs., or Miss. guardrails doesn't apply this entity type to names that are part of organizations or addresses. For example, guardrails recognizes the "John Doe Organization" as an organization, and it recognizes "Jane Doe Street" as an address.     EMAIL  An email address, such as marymajor@email.com.    PHONE  A phone number. This entity type also includes fax and pager numbers.     USERNAME  A user name that identifies an account, such as a login name, screen name, nick name, or handle.     PASSWORD  An alphanumeric string that is used as a password, such as "*very20special#pass*".     DRIVER_ID  The number assigned to a driver's license, which is an official document permitting an individual to operate one or more motorized vehicles on a public road. A driver's license number consists of alphanumeric characters.     LICENSE_PLATE  A license plate for a vehicle is issued by the state or country where the vehicle is registered. The format for passenger vehicles is typically five to eight digits, consisting of upper-case letters and numbers. The format varies depending on the location of the issuing state or country.     VEHICLE_IDENTIFICATION_NUMBER  A Vehicle Identification Number (VIN) uniquely identifies a vehicle. VIN content and format are defined in the ISO 3779 specification. Each country has specific codes and formats for VINs.       Finance     REDIT_DEBIT_CARD_CVV  A three-digit card verification code (CVV) that is present on VISA, MasterCard, and Discover credit and debit cards. For American Express credit or debit cards, the CVV is a four-digit numeric code.     CREDIT_DEBIT_CARD_EXPIRY  The expiration date for a credit or debit card. This number is usually four digits long and is often formatted as month/year or MM/YY. Guardrails recognizes expiration dates such as 01/21, 01/2021, and Jan 2021.     CREDIT_DEBIT_CARD_NUMBER  The number for a credit or debit card. These numbers can vary from 13 to 16 digits in length. However, Amazon Comprehend also recognizes credit or debit card numbers when only the last four digits are present.     PIN  A four-digit personal identification number (PIN) with which you can access your bank account.     INTERNATIONAL_BANK_ACCOUNT_NUMBER  An International Bank Account Number has specific formats in each country. For more information, see www.iban.com/structure.    SWIFT_CODE  A SWIFT code is a standard format of Bank Identifier Code (BIC) used to specify a particular bank or branch. Banks use these codes for money transfers such as international wire transfers. SWIFT codes consist of eight or 11 characters. The 11-digit codes refer to specific branches, while eight-digit codes (or 11-digit codes ending in 'XXX') refer to the head or primary office.      IT     IP_ADDRESS  An IPv4 address, such as 198.51.100.0.     MAC_ADDRESS  A media access control (MAC) address is a unique identifier assigned to a network interface controller (NIC).     URL  A web address, such as www.example.com.     AWS_ACCESS_KEY  A unique identifier that's associated with a secret access key; you use the access key ID and secret access key to sign programmatic Amazon Web Services requests cryptographically.     AWS_SECRET_KEY  A unique identifier that's associated with an access key. You use the access key ID and secret access key to sign programmatic Amazon Web Services requests cryptographically.       USA specific     US_BANK_ACCOUNT_NUMBER  A US bank account number, which is typically 10 to 12 digits long.     US_BANK_ROUTING_NUMBER  A US bank account routing number. These are typically nine digits long,     US_INDIVIDUAL_TAX_IDENTIFICATION_NUMBER  A US Individual Taxpayer Identification Number (ITIN) is a nine-digit number that starts with a "9" and contain a "7" or "8" as the fourth digit. An ITIN can be formatted with a space or a dash after the third and forth digits.     US_PASSPORT_NUMBER  A US passport number. Passport numbers range from six to nine alphanumeric characters.     US_SOCIAL_SECURITY_NUMBER  A US Social Security Number (SSN) is a nine-digit number that is issued to US citizens, permanent residents, and temporary working residents.       Canada specific     CA_HEALTH_NUMBER  A Canadian Health Service Number is a 10-digit unique identifier, required for individuals to access healthcare benefits.     CA_SOCIAL_INSURANCE_NUMBER  A Canadian Social Insurance Number (SIN) is a nine-digit unique identifier, required for individuals to access government programs and benefits. The SIN is formatted as three groups of three digits, such as 123-456-789. A SIN can be validated through a simple check-digit process called the Luhn algorithm.      UK Specific     UK_NATIONAL_HEALTH_SERVICE_NUMBER  A UK National Health Service Number is a 10-17 digit number, such as 485 777 3456. The current system formats the 10-digit number with spaces after the third and sixth digits. The final digit is an error-detecting checksum.    UK_NATIONAL_INSURANCE_NUMBER  A UK National Insurance Number (NINO) provides individuals with access to National Insurance (social security) benefits. It is also used for some purposes in the UK tax system. The number is nine digits long and starts with two letters, followed by six numbers and one letter. A NINO can be formatted with a space or a dash after the two letters and after the second, forth, and sixth digits.    UK_UNIQUE_TAXPAYER_REFERENCE_NUMBER  A UK Unique Taxpayer Reference (UTR) is a 10-digit number that identifies a taxpayer or a business.       Custom     Regex filter - You can use a regular expressions to define patterns for a guardrail to recognize and act upon such as serial number, booking ID etc..    
      */
     type: GuardrailPiiEntityType;
     /**
@@ -1486,6 +2087,77 @@ declare namespace Bedrock {
     instructions?: HumanTaskInstructions;
   }
   export type IdempotencyToken = string;
+  export type ImportedModelArn = string;
+  export type ImportedModelIdentifier = string;
+  export type ImportedModelName = string;
+  export interface ImportedModelSummary {
+    /**
+     * The Amazon Resource Name (ARN) of the imported model.
+     */
+    modelArn: ImportedModelArn;
+    /**
+     * Name of the imported model.
+     */
+    modelName: ImportedModelName;
+    /**
+     * Creation time of the imported model.
+     */
+    creationTime: Timestamp;
+  }
+  export type ImportedModelSummaryList = ImportedModelSummary[];
+  export type InferenceProfileArn = string;
+  export type InferenceProfileDescription = string;
+  export type InferenceProfileId = string;
+  export type InferenceProfileIdentifier = string;
+  export interface InferenceProfileModel {
+    /**
+     * The Amazon Resource Name (ARN) of the model.
+     */
+    modelArn?: FoundationModelArn;
+  }
+  export type InferenceProfileModels = InferenceProfileModel[];
+  export type InferenceProfileName = string;
+  export type InferenceProfileStatus = "ACTIVE"|string;
+  export type InferenceProfileSummaries = InferenceProfileSummary[];
+  export interface InferenceProfileSummary {
+    /**
+     * The name of the inference profile.
+     */
+    inferenceProfileName: InferenceProfileName;
+    /**
+     * A list of information about each model in the inference profile.
+     */
+    models: InferenceProfileModels;
+    /**
+     * The description of the inference profile.
+     */
+    description?: InferenceProfileDescription;
+    /**
+     * The time at which the inference profile was created.
+     */
+    createdAt?: Timestamp;
+    /**
+     * The time at which the inference profile was last updated.
+     */
+    updatedAt?: Timestamp;
+    /**
+     * The Amazon Resource Name (ARN) of the inference profile.
+     */
+    inferenceProfileArn: InferenceProfileArn;
+    /**
+     * The unique identifier of the inference profile.
+     */
+    inferenceProfileId: InferenceProfileId;
+    /**
+     * The status of the inference profile. ACTIVE means that the inference profile is available to use.
+     */
+    status: InferenceProfileStatus;
+    /**
+     * The type of the inference profile. SYSTEM_DEFINED means that the inference profile is defined by Amazon Bedrock.
+     */
+    type: InferenceProfileType;
+  }
+  export type InferenceProfileType = "SYSTEM_DEFINED"|string;
   export type InferenceType = "ON_DEMAND"|"PROVISIONED"|string;
   export type InferenceTypeList = InferenceType[];
   export type JobName = string;
@@ -1514,11 +2186,11 @@ declare namespace Bedrock {
      */
     foundationModelArnEquals?: FoundationModelArn;
     /**
-     * Maximum number of results to return in the response.
+     * The maximum number of results to return in the response. If the total number of results is greater than this value, use the token returned in the response in the nextToken field when making another request to return the next batch of results.
      */
     maxResults?: MaxResults;
     /**
-     * Continuation token from the previous response, for Amazon Bedrock to list the next set of results.
+     * If the total number of results is greater than the maxResults value provided in the request, enter the token returned in the nextToken field in the response in this field to return the next batch of results.
      */
     nextToken?: PaginationToken;
     /**
@@ -1529,10 +2201,14 @@ declare namespace Bedrock {
      * The sort order of the results.
      */
     sortOrder?: SortOrder;
+    /**
+     * Return custom models depending on if the current account owns them (true) or if they were shared with the current account (false).
+     */
+    isOwned?: Boolean;
   }
   export interface ListCustomModelsResponse {
     /**
-     * Continuation token for the next request to list the next set of results.
+     * If the total number of results is greater than the maxResults value provided in the request, use this token when making another request in the nextToken field to return the next batch of results.
      */
     nextToken?: PaginationToken;
     /**
@@ -1610,7 +2286,7 @@ declare namespace Bedrock {
   }
   export interface ListGuardrailsRequest {
     /**
-     * The unique identifier of the guardrail.
+     * The unique identifier of the guardrail. This can be an ID or the ARN.
      */
     guardrailIdentifier?: GuardrailIdentifier;
     /**
@@ -1632,6 +2308,118 @@ declare namespace Bedrock {
      */
     nextToken?: PaginationToken;
   }
+  export interface ListImportedModelsRequest {
+    /**
+     * Return imported models that created before the specified time.
+     */
+    creationTimeBefore?: Timestamp;
+    /**
+     * Return imported models that were created after the specified time.
+     */
+    creationTimeAfter?: Timestamp;
+    /**
+     * Return imported models only if the model name contains these characters.
+     */
+    nameContains?: ImportedModelName;
+    /**
+     * The maximum number of results to return in the response. If the total number of results is greater than this value, use the token returned in the response in the nextToken field when making another request to return the next batch of results.
+     */
+    maxResults?: MaxResults;
+    /**
+     * If the total number of results is greater than the maxResults value provided in the request, enter the token returned in the nextToken field in the response in this field to return the next batch of results.
+     */
+    nextToken?: PaginationToken;
+    /**
+     * The field to sort by in the returned list of imported models.
+     */
+    sortBy?: SortModelsBy;
+    /**
+     * Specifies whetehr to sort the results in ascending or descending order.
+     */
+    sortOrder?: SortOrder;
+  }
+  export interface ListImportedModelsResponse {
+    /**
+     * If the total number of results is greater than the maxResults value provided in the request, use this token when making another request in the nextToken field to return the next batch of results.
+     */
+    nextToken?: PaginationToken;
+    /**
+     * Model summaries.
+     */
+    modelSummaries?: ImportedModelSummaryList;
+  }
+  export interface ListInferenceProfilesRequest {
+    /**
+     * The maximum number of results to return in the response. If the total number of results is greater than this value, use the token returned in the response in the nextToken field when making another request to return the next batch of results.
+     */
+    maxResults?: MaxResults;
+    /**
+     * If the total number of results is greater than the maxResults value provided in the request, enter the token returned in the nextToken field in the response in this field to return the next batch of results.
+     */
+    nextToken?: PaginationToken;
+  }
+  export interface ListInferenceProfilesResponse {
+    /**
+     * A list of information about each inference profile that you can use.
+     */
+    inferenceProfileSummaries?: InferenceProfileSummaries;
+    /**
+     * If the total number of results is greater than the maxResults value provided in the request, use this token when making another request in the nextToken field to return the next batch of results.
+     */
+    nextToken?: PaginationToken;
+  }
+  export interface ListModelCopyJobsRequest {
+    /**
+     * Filters for model copy jobs created after the specified time.
+     */
+    creationTimeAfter?: Timestamp;
+    /**
+     * Filters for model copy jobs created before the specified time. 
+     */
+    creationTimeBefore?: Timestamp;
+    /**
+     * Filters for model copy jobs whose status matches the value that you specify.
+     */
+    statusEquals?: ModelCopyJobStatus;
+    /**
+     * Filters for model copy jobs in which the account that the source model belongs to is equal to the value that you specify.
+     */
+    sourceAccountEquals?: AccountId;
+    /**
+     * Filters for model copy jobs in which the Amazon Resource Name (ARN) of the source model to is equal to the value that you specify.
+     */
+    sourceModelArnEquals?: ModelArn;
+    /**
+     * Filters for model copy jobs in which the name of the copied model contains the string that you specify.
+     */
+    targetModelNameContains?: CustomModelName;
+    /**
+     * The maximum number of results to return in the response. If the total number of results is greater than this value, use the token returned in the response in the nextToken field when making another request to return the next batch of results.
+     */
+    maxResults?: MaxResults;
+    /**
+     * If the total number of results is greater than the maxResults value provided in the request, enter the token returned in the nextToken field in the response in this field to return the next batch of results.
+     */
+    nextToken?: PaginationToken;
+    /**
+     * The field to sort by in the returned list of model copy jobs.
+     */
+    sortBy?: SortJobsBy;
+    /**
+     * Specifies whether to sort the results in ascending or descending order.
+     */
+    sortOrder?: SortOrder;
+  }
+  export interface ListModelCopyJobsResponse {
+    /**
+     * If the total number of results is greater than the maxResults value provided in the request, use this token when making another request in the nextToken field to return the next batch of results.
+     */
+    nextToken?: PaginationToken;
+    /**
+     * A list of information about each model copy job.
+     */
+    modelCopyJobSummaries?: ModelCopyJobSummaries;
+  }
   export interface ListModelCustomizationJobsRequest {
     /**
      * Return customization jobs created after the specified time. 
@@ -1650,11 +2438,11 @@ declare namespace Bedrock {
      */
     nameContains?: JobName;
     /**
-     * Maximum number of results to return in the response.
+     * The maximum number of results to return in the response. If the total number of results is greater than this value, use the token returned in the response in the nextToken field when making another request to return the next batch of results.
      */
     maxResults?: MaxResults;
     /**
-     * Continuation token from the previous response, for Amazon Bedrock to list the next set of results.
+     * If the total number of results is greater than the maxResults value provided in the request, enter the token returned in the nextToken field in the response in this field to return the next batch of results.
      */
     nextToken?: PaginationToken;
     /**
@@ -1668,13 +2456,101 @@ declare namespace Bedrock {
   }
   export interface ListModelCustomizationJobsResponse {
     /**
-     * Page continuation token to use in the next request.
+     * If the total number of results is greater than the maxResults value provided in the request, use this token when making another request in the nextToken field to return the next batch of results.
      */
     nextToken?: PaginationToken;
     /**
      * Job summaries.
      */
     modelCustomizationJobSummaries?: ModelCustomizationJobSummaries;
+  }
+  export interface ListModelImportJobsRequest {
+    /**
+     * Return import jobs that were created after the specified time.
+     */
+    creationTimeAfter?: Timestamp;
+    /**
+     * Return import jobs that were created before the specified time.
+     */
+    creationTimeBefore?: Timestamp;
+    /**
+     * Return imported jobs with the specified status.
+     */
+    statusEquals?: ModelImportJobStatus;
+    /**
+     * Return imported jobs only if the job name contains these characters.
+     */
+    nameContains?: JobName;
+    /**
+     * The maximum number of results to return in the response. If the total number of results is greater than this value, use the token returned in the response in the nextToken field when making another request to return the next batch of results.
+     */
+    maxResults?: MaxResults;
+    /**
+     * If the total number of results is greater than the maxResults value provided in the request, enter the token returned in the nextToken field in the response in this field to return the next batch of results.
+     */
+    nextToken?: PaginationToken;
+    /**
+     * The field to sort by in the returned list of imported jobs.
+     */
+    sortBy?: SortJobsBy;
+    /**
+     * Specifies whether to sort the results in ascending or descending order.
+     */
+    sortOrder?: SortOrder;
+  }
+  export interface ListModelImportJobsResponse {
+    /**
+     * If the total number of results is greater than the maxResults value provided in the request, enter the token returned in the nextToken field in the response in this field to return the next batch of results.
+     */
+    nextToken?: PaginationToken;
+    /**
+     * Import job summaries.
+     */
+    modelImportJobSummaries?: ModelImportJobSummaries;
+  }
+  export interface ListModelInvocationJobsRequest {
+    /**
+     * Specify a time to filter for batch inference jobs that were submitted after the time you specify.
+     */
+    submitTimeAfter?: Timestamp;
+    /**
+     * Specify a time to filter for batch inference jobs that were submitted before the time you specify.
+     */
+    submitTimeBefore?: Timestamp;
+    /**
+     * Specify a status to filter for batch inference jobs whose statuses match the string you specify.
+     */
+    statusEquals?: ModelInvocationJobStatus;
+    /**
+     * Specify a string to filter for batch inference jobs whose names contain the string.
+     */
+    nameContains?: ModelInvocationJobName;
+    /**
+     * The maximum number of results to return. If there are more results than the number that you specify, a nextToken value is returned. Use the nextToken in a request to return the next batch of results.
+     */
+    maxResults?: MaxResults;
+    /**
+     * If there were more results than the value you specified in the maxResults field in a previous ListModelInvocationJobs request, the response would have returned a nextToken value. To see the next batch of results, send the nextToken value in another request.
+     */
+    nextToken?: PaginationToken;
+    /**
+     * An attribute by which to sort the results.
+     */
+    sortBy?: SortJobsBy;
+    /**
+     * Specifies whether to sort the results by ascending or descending order.
+     */
+    sortOrder?: SortOrder;
+  }
+  export interface ListModelInvocationJobsResponse {
+    /**
+     * If there are more results than can fit in the response, a nextToken is returned. Use the nextToken in a request to return the next batch of results.
+     */
+    nextToken?: PaginationToken;
+    /**
+     * A list of items, each of which contains a summary about a batch inference job.
+     */
+    invocationJobSummaries?: ModelInvocationJobSummaries;
   }
   export interface ListProvisionedModelThroughputsRequest {
     /**
@@ -1760,8 +2636,58 @@ declare namespace Bedrock {
     embeddingDataDeliveryEnabled?: Boolean;
   }
   export type MaxResults = number;
+  export type Message = string;
   export type MetricFloat = number;
   export type ModelArn = string;
+  export type ModelCopyJobArn = string;
+  export type ModelCopyJobStatus = "InProgress"|"Completed"|"Failed"|string;
+  export type ModelCopyJobSummaries = ModelCopyJobSummary[];
+  export interface ModelCopyJobSummary {
+    /**
+     * The Amazon Resoource Name (ARN) of the model copy job.
+     */
+    jobArn: ModelCopyJobArn;
+    /**
+     * The status of the model copy job.
+     */
+    status: ModelCopyJobStatus;
+    /**
+     * The time that the model copy job was created.
+     */
+    creationTime: Timestamp;
+    /**
+     * The Amazon Resource Name (ARN) of the copied model.
+     */
+    targetModelArn: CustomModelArn;
+    /**
+     * The name of the copied model.
+     */
+    targetModelName?: CustomModelName;
+    /**
+     * The unique identifier of the account that the model being copied originated from.
+     */
+    sourceAccountId: AccountId;
+    /**
+     * The Amazon Resource Name (ARN) of the original model being copied.
+     */
+    sourceModelArn: ModelArn;
+    /**
+     * The Amazon Resource Name (ARN) of the KMS key used to encrypt the copied model.
+     */
+    targetModelKmsKeyArn?: KmsKeyArn;
+    /**
+     * Tags associated with the copied model.
+     */
+    targetModelTags?: TagList;
+    /**
+     * If a model fails to be copied, a message describing why the job failed is included here.
+     */
+    failureMessage?: ErrorMessage;
+    /**
+     * The name of the original model being copied.
+     */
+    sourceModelName?: CustomModelName;
+  }
   export type ModelCustomization = "FINE_TUNING"|"CONTINUED_PRE_TRAINING"|string;
   export type ModelCustomizationHyperParameters = {[key: string]: String};
   export type ModelCustomizationJobArn = string;
@@ -1811,7 +2737,149 @@ declare namespace Bedrock {
     customizationType?: CustomizationType;
   }
   export type ModelCustomizationList = ModelCustomization[];
+  export interface ModelDataSource {
+    /**
+     * The Amazon S3 data source of the imported model.
+     */
+    s3DataSource?: S3DataSource;
+  }
+  export type ModelId = string;
   export type ModelIdentifier = string;
+  export type ModelImportJobArn = string;
+  export type ModelImportJobIdentifier = string;
+  export type ModelImportJobStatus = "InProgress"|"Completed"|"Failed"|string;
+  export type ModelImportJobSummaries = ModelImportJobSummary[];
+  export interface ModelImportJobSummary {
+    /**
+     * The Amazon Resource Name (ARN) of the import job.
+     */
+    jobArn: ModelImportJobArn;
+    /**
+     * The name of the import job.
+     */
+    jobName: JobName;
+    /**
+     * The status of the imported job. 
+     */
+    status: ModelImportJobStatus;
+    /**
+     * The time when the import job was last modified.
+     */
+    lastModifiedTime?: Timestamp;
+    /**
+     * The time import job was created.
+     */
+    creationTime: Timestamp;
+    /**
+     * The time when import job ended.
+     */
+    endTime?: Timestamp;
+    /**
+     * The Amazon resource Name (ARN) of the imported model.
+     */
+    importedModelArn?: ImportedModelArn;
+    /**
+     * The name of the imported model.
+     */
+    importedModelName?: ImportedModelName;
+  }
+  export type ModelInvocationIdempotencyToken = string;
+  export type ModelInvocationJobArn = string;
+  export type ModelInvocationJobIdentifier = string;
+  export interface ModelInvocationJobInputDataConfig {
+    /**
+     * Contains the configuration of the S3 location of the input data.
+     */
+    s3InputDataConfig?: ModelInvocationJobS3InputDataConfig;
+  }
+  export type ModelInvocationJobName = string;
+  export interface ModelInvocationJobOutputDataConfig {
+    /**
+     * Contains the configuration of the S3 location of the output data.
+     */
+    s3OutputDataConfig?: ModelInvocationJobS3OutputDataConfig;
+  }
+  export interface ModelInvocationJobS3InputDataConfig {
+    /**
+     * The format of the input data.
+     */
+    s3InputFormat?: S3InputFormat;
+    /**
+     * The S3 location of the input data.
+     */
+    s3Uri: S3Uri;
+  }
+  export interface ModelInvocationJobS3OutputDataConfig {
+    /**
+     * The S3 location of the output data.
+     */
+    s3Uri: S3Uri;
+    /**
+     * The unique identifier of the key that encrypts the S3 location of the output data.
+     */
+    s3EncryptionKeyId?: KmsKeyId;
+  }
+  export type ModelInvocationJobStatus = "Submitted"|"InProgress"|"Completed"|"Failed"|"Stopping"|"Stopped"|"PartiallyCompleted"|"Expired"|"Validating"|"Scheduled"|string;
+  export type ModelInvocationJobSummaries = ModelInvocationJobSummary[];
+  export interface ModelInvocationJobSummary {
+    /**
+     * The Amazon Resource Name (ARN) of the batch inference job.
+     */
+    jobArn: ModelInvocationJobArn;
+    /**
+     * The name of the batch inference job.
+     */
+    jobName: ModelInvocationJobName;
+    /**
+     * The unique identifier of the foundation model used for model inference.
+     */
+    modelId: ModelId;
+    /**
+     * A unique, case-sensitive identifier to ensure that the API request completes no more than one time. If this token matches a previous request, Amazon Bedrock ignores the request, but does not return an error. For more information, see Ensuring idempotency.
+     */
+    clientRequestToken?: ModelInvocationIdempotencyToken;
+    /**
+     * The Amazon Resource Name (ARN) of the service role with permissions to carry out and manage batch inference. You can use the console to create a default service role or follow the steps at Create a service role for batch inference.
+     */
+    roleArn: RoleArn;
+    /**
+     * The status of the batch inference job.
+     */
+    status?: ModelInvocationJobStatus;
+    /**
+     * If the batch inference job failed, this field contains a message describing why the job failed.
+     */
+    message?: Message;
+    /**
+     * The time at which the batch inference job was submitted.
+     */
+    submitTime: Timestamp;
+    /**
+     * The time at which the batch inference job was last modified.
+     */
+    lastModifiedTime?: Timestamp;
+    /**
+     * The time at which the batch inference job ended.
+     */
+    endTime?: Timestamp;
+    /**
+     * Details about the location of the input to the batch inference job.
+     */
+    inputDataConfig: ModelInvocationJobInputDataConfig;
+    /**
+     * Details about the location of the output of the batch inference job.
+     */
+    outputDataConfig: ModelInvocationJobOutputDataConfig;
+    /**
+     * The number of hours after which the batch inference job was set to time out.
+     */
+    timeoutDurationInHours?: ModelInvocationJobTimeoutDurationInHours;
+    /**
+     * The time at which the batch inference job times or timed out.
+     */
+    jobExpirationTime?: Timestamp;
+  }
+  export type ModelInvocationJobTimeoutDurationInHours = number;
   export type ModelModality = "TEXT"|"IMAGE"|"EMBEDDING"|string;
   export type ModelModalityList = ModelModality[];
   export type ModelName = string;
@@ -1898,6 +2966,13 @@ declare namespace Bedrock {
      */
     keyPrefix?: KeyPrefix;
   }
+  export interface S3DataSource {
+    /**
+     * The URI of the Amazon S3 data source.
+     */
+    s3Uri: S3Uri;
+  }
+  export type S3InputFormat = "JSONL"|string;
   export type S3Uri = string;
   export type SageMakerFlowDefinitionArn = string;
   export type SecurityGroupId = string;
@@ -1921,6 +2996,14 @@ declare namespace Bedrock {
     jobIdentifier: ModelCustomizationJobIdentifier;
   }
   export interface StopModelCustomizationJobResponse {
+  }
+  export interface StopModelInvocationJobRequest {
+    /**
+     * The Amazon Resource Name (ARN) of the batch inference job to stop.
+     */
+    jobIdentifier: ModelInvocationJobIdentifier;
+  }
+  export interface StopModelInvocationJobResponse {
   }
   export type String = string;
   export type SubnetId = string;
@@ -1979,7 +3062,7 @@ declare namespace Bedrock {
   }
   export interface UpdateGuardrailRequest {
     /**
-     * The unique identifier of the guardrail
+     * The unique identifier of the guardrail. This can be an ID or the ARN.
      */
     guardrailIdentifier: GuardrailIdentifier;
     /**
@@ -2007,6 +3090,10 @@ declare namespace Bedrock {
      */
     sensitiveInformationPolicyConfig?: GuardrailSensitiveInformationPolicyConfig;
     /**
+     * The contextual grounding policy configuration used to update a guardrail.
+     */
+    contextualGroundingPolicyConfig?: GuardrailContextualGroundingPolicyConfig;
+    /**
      * The message to return when the guardrail blocks a prompt.
      */
     blockedInputMessaging: GuardrailBlockedMessaging;
@@ -2025,7 +3112,7 @@ declare namespace Bedrock {
      */
     guardrailId: GuardrailId;
     /**
-     * The ARN of the guardrail that was created.
+     * The ARN of the guardrail.
      */
     guardrailArn: GuardrailArn;
     /**
