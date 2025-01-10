@@ -123,19 +123,6 @@ module.exports = mustBuy;
     }
   }
 
- {
-    "option":"3",
-    "mtitle":"Kingdom of the Planet of the Apes",
-    "review":"A human-made virus increased apes' intelligence and gave them the ability to speak, but it did the opposite for humans. One of the apes led them to prosperity. His name was Caesar, but he died many generations ago. Today, the Eagle Clan is a close-knit group that will celebrate the bonding ceremony at sunrise. Noa, urged by his mother, runs to his father, Koro, with his eagle egg. Koro is proud but smells a unique scent on Noa's blanket. Noa admits an Echo - their name for a human - took his blanket, but Noa retrieved it. Koro demands to know if Noa went into the valley. Noa truthfully says no.<br/><br/>Noa catches an odor coming from a tent and investigates. He finds a female Echo hiding inside and scares it away. The Echo charges past him and breaks his egg. He needs it for the ceremony. So, he travels into the forest to get a new one. He hears the Coastal Clan riding on their horses and hides. They see Noa's horse in the woods, shock it, and follow it to the Eagle Clan.<br/><br/>Noa hurries home to warn the others, but it's too late. Proximus, leader of the Coastal Clan, had his army attack the Eagle clan and take them prisoner. Noa wakes up in the morning. The Coastal Clan killed Koro and stole the Eagle Clan. Noa travels through the valley and vows to bring them back. Noa will learn the truth about Caesar, the Echos, and Proximus's greatest desire. Proximus is hunting the female Echo because she is the key to the evolution of his Kingdom of Apes.<br/><br/>This latest Planet of the Apes installment has mesmerizing graphics, heart-warming laughs, and a captivating storyline. The plot slows when Noa uncovers Promxius's plan and meets Raka. Don't get confused. This film occurs several generations after Caesar died. One thing Apes and Humans want is knowledge. It's the key to their survival, but can they coexist? This plot point is the movie's standout. Planet fans should keep their eyes and ears open for a few easter eggs. And there aren't any post-credit scenes, but the movie leaves room for another film.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0D8J9HYGD"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kingdomoftheplanetoftheapes.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kingdomoftheplanetoftheapes.jpeg"
-    }
-  }
-
   {
     "option":"2",
     "mtitle":"Killers of the Flower Moon",
@@ -185,6 +172,19 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/moana2.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/moana2.jpeg"
+    }
+  }
+
+    {
+    "option": "1",
+    "mtitle": "Den of Thieves 2: Pantera",
+    "review": "Donnie and his crew ambush the security at the Antwerp International Airport tarmac. They break into one of the shipping containers and steal the diamonds inside. Some days later, they meet in Nice France, and Jovanna hands Donnie his cover story. He will act as a diamond dealer and use the stolen gems to get access to the World Diamond Center. Donnie funds the operation and collects information about the diamond volt. No one has ever successfully robbed the WDC, and Donnie plans to be the first.<br/><br/>Detective Nick finalized his divorce and custody agreement with his ex-wife in Los Angeles. And he can't get the representatives of the Federal Reserve to admit someone robbed them. Nick grabs Merrimen's girlfriend and threatens her life if she doesn't tell him where Donnie hid the money. She admits the money is in Panama. Only one account catches his eye, and someone has made regular withdrawals from France. Nick flies to France and uses his old U.S. Marshall's badge to gain access to the French police department. The police show Nick footage around the WDC, and Nick spots Donnie on security tapes. However, he tells the police it's not Donnie and leaves the precinct.<br/><br/>Donnie returns to his French apartment after spending time at the WDC. He hears something moving throughout and grabs his gun. Nick is eating a meal and enjoying a drink. He wants to join Donnie's crew and get paid. If Donnie doesn't include Nick, then Nick will arrest Donnie. So Donnie relents. Donnie and Nick think they can rob the WDC and leave without a trace. However, Donnie doesn't know that the diamonds he originally stole belong to a mafia syndicate called Octopus. The leader put a tracker on his diamonds and wants them back now. Can Donnie and Nick complete the heist before the Octopus gets a hold of them?<br/><br/>This sequel, inspired by the Antwerp Diamond Heist, has all the heart-pounding action of the first movie while telling a fresh story. It puts the audience in the middle of the heist with several ticking clocks, low-tech solutions, and high-tech gadgets. And the heist isn't the end of the story. The script recaps the first film, so you don't need to see it to enjoy this picture. There are no mid- or post-credit scenes, but the ending hints at part 3. So be ready to hold your breath and root for the bad guy because this film will take you on a wild ride.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/denofthieves2pantera.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/denofthieves2pantera.jpeg"
     }
   }
     
