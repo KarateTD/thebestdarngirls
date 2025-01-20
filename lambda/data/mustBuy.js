@@ -136,19 +136,6 @@ module.exports = mustBuy;
     }
   }
 
-  {
-    "option":"2",
-    "mtitle":"Killers of the Flower Moon",
-    "review":"Ernest Burkhart returns from World War I to his Uncle William's cattle ranch. William King Hale, called King, offers Ernest a job running a cab but suggests there is more than one way to make money. The Osage people found oil on their land and had the final say on who could drill for a monthly payment. While they have wealth, the government won't let them access the money without a white guardian. And that guardian can be a spouse.<br/><br/>Ernest sees Mollie leave a store and offers her a ride. She accepts but doesn't take his proffered hand. Mollie and Ernest fall in love after several rides. Ernest tells King he wants to marry Mollie, and King tells him about headrights. Ernest can live off her monthly payments and inherit them if Mollie dies.<br/><br/>Mollie lives with her mother and looks after her sisters, Anna, Rita, and Minnie. Minnie is married to Bill Smith, but she has a wasting disease. Over the years, Mollie notes uninvestigated murders throughout the Osage nation. And she blames the strange new faces around her for the deaths. Her blame doesn't shift when Minnie dies. King sits on the porch and tells Ernest that it's a shame that Minnie's money will go to Bill, not Minnie's surviving family. Under the right circumstances, all the family's wealth could be Mollie's. And in turn, Ernest's. Mollie offers a reward and hires an investigator after someone murders Anna. King sits in the circle and adds $1,000 to Mollie's reward. Mollie's efforts will help create the modern-day FBI and uncover corruption, greed, and evil hidden within their nation.<br/><br/>Based on Killers of the Flower Moon: The Osage Murders and the Birth of the FBI, this movie is tragically breathtaking. It respects the Osage Nation by correctly using the nation's language, writing, and traditions. The clothing, technology, and conclusion were within the era. However, the film jumps around the timeline without any explanation. This film will begin a deeper conversation about history, heritage, genocide, and greed.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":""
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/killersoftheflowermoon.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/killersoftheflowermoon.jpeg"
-    }
-  }
-
    {
     "option": "4",
     "mtitle": "Rob Peace",
@@ -193,11 +180,37 @@ module.exports = mustBuy;
     "mtitle": "Den of Thieves 2: Pantera",
     "review": "Donnie and his crew ambush the security at the Antwerp International Airport tarmac. They break into one of the shipping containers and steal the diamonds inside. Some days later, they meet in Nice France, and Jovanna hands Donnie his cover story. He will act as a diamond dealer and use the stolen gems to get access to the World Diamond Center. Donnie funds the operation and collects information about the diamond volt. No one has ever successfully robbed the WDC, and Donnie plans to be the first.<br/><br/>Detective Nick finalized his divorce and custody agreement with his ex-wife in Los Angeles. And he can't get the representatives of the Federal Reserve to admit someone robbed them. Nick grabs Merrimen's girlfriend and threatens her life if she doesn't tell him where Donnie hid the money. She admits the money is in Panama. Only one account catches his eye, and someone has made regular withdrawals from France. Nick flies to France and uses his old U.S. Marshall's badge to gain access to the French police department. The police show Nick footage around the WDC, and Nick spots Donnie on security tapes. However, he tells the police it's not Donnie and leaves the precinct.<br/><br/>Donnie returns to his French apartment after spending time at the WDC. He hears something moving throughout and grabs his gun. Nick is eating a meal and enjoying a drink. He wants to join Donnie's crew and get paid. If Donnie doesn't include Nick, then Nick will arrest Donnie. So Donnie relents. Donnie and Nick think they can rob the WDC and leave without a trace. However, Donnie doesn't know that the diamonds he originally stole belong to a mafia syndicate called Octopus. The leader put a tracker on his diamonds and wants them back now. Can Donnie and Nick complete the heist before the Octopus gets a hold of them?<br/><br/>This sequel, inspired by the Antwerp Diamond Heist, has all the heart-pounding action of the first movie while telling a fresh story. It puts the audience in the middle of the heist with several ticking clocks, low-tech solutions, and high-tech gadgets. And the heist isn't the end of the story. The script recaps the first film, so you don't need to see it to enjoy this picture. There are no mid- or post-credit scenes, but the ending hints at part 3. So be ready to hold your breath and root for the bad guy because this film will take you on a wild ride.<br/><br/>4.5 out of 5 stars.",
     "asin":{
-      "re":""
+      "re":"B0DQ3YHW2Y"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/denofthieves2pantera.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/denofthieves2pantera.jpeg"
+    }
+  }
+
+  {
+    "option": "5",
+    "mtitle": "Sonic the Hedgehog 3",
+    "review": "Tom, Maddie, Tails, and Knuckles throw Sonic a surprise B-EARTH-Day party to celebrate the day he landed on the planet. Tom and Maddie revel in the quiet when a beam of light comes from a helicopter. Director Rockwell exits and asks for Team Sonic's help. An alien escaped a private base in Tokyo. And they can't catch him. Sonic, Tails, and Knuckles board the helicopter.<br/><br/>Team Sonic lands in Tokyo and can't believe the alien standing before them looks like Sonic. His name is Shadow. Sonic chases after him, but Shadow outsmarts him. The team meets Commander Walters at a restaurant.<br/><br/>Commander Walters explains that Shadow landed on Earth 50 years ago inside a meteorite. They hid him in a top-secret base to study his powers under the guidance of a professor. The professor's granddaughter, Maria, bonded with Shadow and became best friends. Then, an accident at the base took Maria's life. Now that Shadow is free, he wants revenge for Maria.<br/><br/>Hours ago, someone hacked their system and lowered their defenses. Reports state that Dr. Robotnik's symbol emerged on the screen during the hack. Then, Robotnik's drones enter the restaurant and aim for the team after fatally wounding Commander Walters. Walters hands Sonic a key to a powerful weapon. A motorcyclist rides into the restaurant, incapacitates the attack drones, and exits. The team follows the cyclist until he stops. It's Agent Stone. He says someone framed Dr. Robotnik, and he has proof.<br/><br/>Agent Stone takes the team to Dr. Robotnik's lair. When he learns someone stole his tech, Dr. Robotnik chooses to work with Team Sonic to find the culprit. However, he needs something from Sonic. Sonic rolls his eyes and pulls out a quill. This unlikely mash-up must stop Shadow's revenge and keep the key out of the wrong person's hands.<br/><br/>It may be unbelievable, but this film is the best of the trilogy. First, this adventure is worldwide. Second, this film is about the toxic nature of anger and revenge. Third, this movie respects its core audience by referencing old tech, movies, and jokes. However, it doesn't forget its new fans. The movie kept a steady pace while introducing new characters. The plot didn't waste time recapping the last films. This film is an animated action-adventure comedy for the whole family with mid- and post-credit scenes.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0DQLW3HXP"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sonicthehedgehog3.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sonicthehedgehog3.jpg"
+    }
+  }
+
+    {
+    "option": "1",
+    "mtitle": "Nickel Boys",
+    "review": "Elwood lives with his grandmother, Hattie, after losing his mother. He is attentive in school and dreams of going to college. His teacher, Mr. Hill, doesn't teach American History from the textbooks. He encourages his students to be free-thinkers, question authority, and demand change in the Jim Crow South. Mr. Hill sees promise in Elwood and gives Elwood a pamphlet for a free college. Elwood decides to hitchhike to the school and apply. A man pulls over and offers Elwood a ride. Later, police pull the man over. They arrest the man and Elwood for stealing the car. The judge sends Elwood to Nickel Academy, a segregated reform school for boys.<br/><br/>It doesn't take long for Elwood to uncover that the staff treats black and white students differently. He considers changing the dynamics until he meets Turner. Turner warns Elwood that there are four ways to leave Nickel Academy: do your time, age out, run away, or die. Elwood believes there's a 5th way: change it. Decades later, the state is investigating the academy. It triggers panic attacks in Elwood because the state needs witnesses. Can Elwood testify and come to terms with his past?<br/><br/>Based on the novel The Nickel Boys by Colson Whitehead, the director intentionally shot the movie from different perspectives. It gives Elwood's point of view from his childhood through his teens. The point of view switches when Elwood meets Turner. Once Elwood enters adulthood, the camera changes to a birds-eye view. This director does this to shock the audience during the final reveal. This film features abuse, but you don't see it. You feel it. This film is an extraordinary watch if you can handle it.<br/><br/>5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/nickelboys.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nickelboys.jpeg"
     }
   }
     
