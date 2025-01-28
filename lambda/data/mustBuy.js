@@ -200,5 +200,18 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nickelboys.jpeg"
     }
   }
+
+   {
+    "option": "5",
+    "mtitle": "Mufasa: The Lion King",
+    "review": "Simba runs to find Nala and leaves their daughter, Kiara, with Rafiki, Timon, and Pumbaa. Kiara dreams she could be as strong as her grandfather. Rafiki explains that Mufasa wasn't always a king. Rafiki sits Kiara down and tells the story of her grandfather, Mufasa: The Lion King.<br/><br/>Mufasa and his parents, Afia and Masego, are living through drought. Mufasa's mother, Afia, tells Mufasa that the drought won't last forever. Until then, he should look at the horizon. Beyond the light is a land called Milele. Everything in Milele flows in abundance. Then, the rain falls. Mufasa and his family go to the watering hole with the other animals. Later, they hear a rumble and see a flood. An elephant hits the dam, and the water sweeps Mufasa away.<br/><br/>Mufasa struggles on a branch when a cub, Taka, appears. He is the son of King Obasi and Obasi's mate, Eshe. Taka saves Mufasa and brings him ashore. Eshe tells Taka to leave Mufasa alone because Obasi doesn't like strays. Eshe has compassion for the cub and brings Mufasa to the pride. Obasi wants to eat Mufasa, but Mufasa says he is too fast. Obasi creates Taka's first challenge to prove he can be a king. If Taka beats Mufasa in a race, Obasi will eat Mufasa. If Mufasa wins, then he can stay with their pride. They race, but Eshe sees that Taka lets Mufasa win. Obasi keeps his promise but tells Mufasa he must live with the females.<br/><br/>As Taka and Mufasa grow, their brotherly bond becomes tighter, much to Obasi's displeasure. Taka wants to learn how to hunt like Mufasa, but Obasi says his place is sleeping on a rock, protecting the pride. When Obasi falls asleep, Taka follows Eshe to learn. They hear others approaching but don't have time to escape. Mufasa saves Eshe while Taka runs away.<br/><br/>The remaining white lion returns to the leader, Kiros. With a lowered head, the surviving lion explains that Mufasa killed Kiros's son while saving Eshe. Then, he pledges vengeance for his son.<br/><br/>Mufasa can smell Kiros and his pride coming. Eshe tells Taka and Mufasa to leave and protect each other. Kiros believes there can only be one king. They slaughter Obasi's pride. However, Kiros knows the lion who killed his son isn't there. He orders his pride to track Mufasa and Taka. He vows to kill the pair, avenge his son, and become the king.<br/><br/>This Lion King prequel starts with a tribute to James Earl Jones. Then, it transports the audience to Pride Rock. It's not Mufasa's story alone. It's the tale of two brothers, entitlement, courage, and the king's court. By staying with the pride's females, Mufasa learned lessons that separated him from the others. Mufasa's journey mirrors Simba's. He leaves home for safety and finds friends along the way. The graphics far surpass the live adaptation of The Lion King, and the voice acting is stellar. The music flows wonderfully with the theme, although it drowns out the vocal performances. Also, the backing track makes the room vibrate and crescendos with the sun. This film is an astounding prequel.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mufasathelionking.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mufasathelionking.jpg"
+    }
+  }
     
 */
