@@ -71,6 +71,19 @@ module.exports = mustBuy;
 
 /*  For Must Buy later  
 
+{
+    "option": "3",
+    "mtitle": "Wicked",
+    "review": "Wicked was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":"B0DNLDXN7Z"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/wicked.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/wicked.jpeg"
+    }
+  }
+
   {
     "option":"1",
     "mtitle":"Fly Me to the Moon",
@@ -211,6 +224,19 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mufasathelionking.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mufasathelionking.jpg"
+    }
+  }
+
+   {
+    "option": "4",
+    "mtitle": "The Fire Inside",
+    "review": "Jason Crutchfield trains young men to box at the Berston Field House. Every day, a young girl, Claressa Shields, runs to the gym. One day, Jason notices Claressa throwing punches with the boys. He allows her into the ring to battle one round against Zay. Zay pins Claressa against the ropes and lands several punches, but Jason can see she has a fighter's spirit. He gives her a few pointers, and Claressa dominates in the second round.<br/><br/>Five years later, Claressa is on the Olympic radar. She travels with Jason to Spokane Washington, for the 2012 Olympic Team Trials. Claressa keeps her undefeated record as she rockets to the top and earns a chance to compete at the Women's World Boxing Championship in Shanghai China. If she ranks in the top 8, Claressa will join the U.S. Olympic Boxing team. Claressa and her hometown, Flint, beam with pride until Jason gives her some unfortunate news. He isn't a member of the AIBA, so he can't come to China to coach her. For the first time, Claressa won't have Jason in her corner for the most monumental qualifier in her career. However, this won't be her most grueling battle. She fights against poverty, abuse, and disrespect within her sport. Claressa steps inside the ring for herself but fights three rounds to change boxing forever.<br/><br/>People often equate a gold medal with fame and riches. But with every gold medalist you know, there are 10 you don't. Claressa learns she can't have the same demeanor as the men in her profession. She has issues at home, also. Her mother often neglects Claressa and her siblings, and her father spent most of Claressa's life in prison. When she returns home with a medal and below the poverty line, Claressa demands the respect she has earned. It's her unselfish nature and grit that shines through in this film. Unlike others, her story ends in triumph. You will leave the theater with a smile on your face.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thefireinside.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thefireinside.jpeg"
     }
   }
     
