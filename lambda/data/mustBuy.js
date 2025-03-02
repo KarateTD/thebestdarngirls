@@ -102,7 +102,7 @@ module.exports = mustBuy;
     "mtitle": "Paddington in Peru",
     "review": "Paddington in Peru was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":""
+      "re":"B0DWH9BG2Q"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/paddingtoninperu.jpeg",
@@ -219,7 +219,7 @@ module.exports = mustBuy;
     "mtitle": "Mufasa: The Lion King",
     "review": "Simba runs to find Nala and leaves their daughter, Kiara, with Rafiki, Timon, and Pumbaa. Kiara dreams she could be as strong as her grandfather. Rafiki explains that Mufasa wasn't always a king. Rafiki sits Kiara down and tells the story of her grandfather, Mufasa: The Lion King.<br/><br/>Mufasa and his parents, Afia and Masego, are living through drought. Mufasa's mother, Afia, tells Mufasa that the drought won't last forever. Until then, he should look at the horizon. Beyond the light is a land called Milele. Everything in Milele flows in abundance. Then, the rain falls. Mufasa and his family go to the watering hole with the other animals. Later, they hear a rumble and see a flood. An elephant hits the dam, and the water sweeps Mufasa away.<br/><br/>Mufasa struggles on a branch when a cub, Taka, appears. He is the son of King Obasi and Obasi's mate, Eshe. Taka saves Mufasa and brings him ashore. Eshe tells Taka to leave Mufasa alone because Obasi doesn't like strays. Eshe has compassion for the cub and brings Mufasa to the pride. Obasi wants to eat Mufasa, but Mufasa says he is too fast. Obasi creates Taka's first challenge to prove he can be a king. If Taka beats Mufasa in a race, Obasi will eat Mufasa. If Mufasa wins, then he can stay with their pride. They race, but Eshe sees that Taka lets Mufasa win. Obasi keeps his promise but tells Mufasa he must live with the females.<br/><br/>As Taka and Mufasa grow, their brotherly bond becomes tighter, much to Obasi's displeasure. Taka wants to learn how to hunt like Mufasa, but Obasi says his place is sleeping on a rock, protecting the pride. When Obasi falls asleep, Taka follows Eshe to learn. They hear others approaching but don't have time to escape. Mufasa saves Eshe while Taka runs away.<br/><br/>The remaining white lion returns to the leader, Kiros. With a lowered head, the surviving lion explains that Mufasa killed Kiros's son while saving Eshe. Then, he pledges vengeance for his son.<br/><br/>Mufasa can smell Kiros and his pride coming. Eshe tells Taka and Mufasa to leave and protect each other. Kiros believes there can only be one king. They slaughter Obasi's pride. However, Kiros knows the lion who killed his son isn't there. He orders his pride to track Mufasa and Taka. He vows to kill the pair, avenge his son, and become the king.<br/><br/>This Lion King prequel starts with a tribute to James Earl Jones. Then, it transports the audience to Pride Rock. It's not Mufasa's story alone. It's the tale of two brothers, entitlement, courage, and the king's court. By staying with the pride's females, Mufasa learned lessons that separated him from the others. Mufasa's journey mirrors Simba's. He leaves home for safety and finds friends along the way. The graphics far surpass the live adaptation of The Lion King, and the voice acting is stellar. The music flows wonderfully with the theme, although it drowns out the vocal performances. Also, the backing track makes the room vibrate and crescendos with the sun. This film is an astounding prequel.<br/><br/>4.5 out of 5 stars.",
     "asin":{
-      "re":""
+      "re":"B0DW47PXBF"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mufasathelionking.jpg",
@@ -237,6 +237,19 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thefireinside.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thefireinside.jpeg"
+    }
+  }
+
+  {
+    "option": "5",
+    "mtitle": "Companion",
+    "review": "Iris awakens after a long drive to a rustic small cabin in the woods with her boyfriend, Josh, in the driver's seat. Kat answers the door but gives Iris the cold shoulder. Iris and Josh greet Patrick as he cooks, and Patrick's boyfriend, Eli, offers Iris and Josh hugs. Later, Kat's boyfriend, Sergey, descends the stairs and welcomes everyone to his home.<br/><br/>After dinner, Iris sits with Kat and asks about her relationship with Sergey. Kat admits Sergey is a terrible boyfriend and husband, but he has money. She dislikes what Iris represents: Kat's replacement. The couples turn in for the night, and Josh and Iris make love. Afterward, Iris professes her undying love to Josh, and he tells her to go to sleep.<br/><br/>Iris wakes up and prepares for an evening on the beach with Josh. However, he doesn't want to go. Iris walks to the beach chairs and breathes in the morning air. She puts her hands in her pocket and pulls out a switchblade. Sergey joins Iris. Later, Iris returns to the cabin with a large blood stain on her shirt. Josh demands answers. Iris explains that Sergey attacked her, and she defended herself. Iris didn't care about dying but was afraid not to see Josh again. Josh tells Iris to go to sleep, and she powers down.<br/><br/>Josh and Patrick tie Iris to a chair, and Josh asks to be alone with Iris to say goodbye. He wakes Iris up and explains that she is his companion robot from Empathix Robotics. They will explain to the police that Iris killed someone. Empathix will label her defective and turn her off. Iris cuts herself free and escapes from the house with Josh's phone. Patrick sees Iris escape and warns the others. Josh says they must get Iris back. If Empathix examines her, they will see he jailbroke Iris to make her more aggressive and go against her factory settings. He and Kat planned Sergey's murder and asked Patrick and Eli to come to strengthen their alibi. Can Iris escape them before they destroy her?<br/><br/>This movie is leaps and bounds better than the trailer. The trailer gives viewers one plot twist. However, there are several. This plot leans into the warnings of artificial intelligence and the dehumanization of people while being bloody and funny. The script touches on the importance of autonomy, the pitfalls of entitlement, and why you should read the user agreement without being preachy. This film isn't a horror movie but falls in the same category as M3GAN. It's a thought-provoking, bloody, cringy good time. You can also take a date.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0DTQ921YB"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/companion.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/companion.jpeg"
     }
   }
     
