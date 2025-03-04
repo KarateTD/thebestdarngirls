@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Den of Thieves 2: Pantera",
+    "review": "Donnie and his crew ambush the security at the Antwerp International Airport tarmac. They break into one of the shipping containers and steal the diamonds inside. Some days later, they meet in Nice France, and Jovanna hands Donnie his cover story. He will act as a diamond dealer and use the stolen gems to get access to the World Diamond Center. Donnie funds the operation and collects information about the diamond volt. No one has ever successfully robbed the WDC, and Donnie plans to be the first.<br/><br/>Detective Nick finalized his divorce and custody agreement with his ex-wife in Los Angeles. And he can't get the representatives of the Federal Reserve to admit someone robbed them. Nick grabs Merrimen's girlfriend and threatens her life if she doesn't tell him where Donnie hid the money. She admits the money is in Panama. Only one account catches his eye, and someone has made regular withdrawals from France. Nick flies to France and uses his old U.S. Marshall's badge to gain access to the French police department. The police show Nick footage around the WDC, and Nick spots Donnie on security tapes. However, he tells the police it's not Donnie and leaves the precinct.<br/><br/>Donnie returns to his French apartment after spending time at the WDC. He hears something moving throughout and grabs his gun. Nick is eating a meal and enjoying a drink. He wants to join Donnie's crew and get paid. If Donnie doesn't include Nick, then Nick will arrest Donnie. So Donnie relents. Donnie and Nick think they can rob the WDC and leave without a trace. However, Donnie doesn't know that the diamonds he originally stole belong to a mafia syndicate called Octopus. The leader put a tracker on his diamonds and wants them back now. Can Donnie and Nick complete the heist before the Octopus gets a hold of them?<br/><br/>This sequel, inspired by the Antwerp Diamond Heist, has all the heart-pounding action of the first movie while telling a fresh story. It puts the audience in the middle of the heist with several ticking clocks, low-tech solutions, and high-tech gadgets. And the heist isn't the end of the story. The script recaps the first film, so you don't need to see it to enjoy this picture. There are no mid- or post-credit scenes, but the ending hints at part 3. So be ready to hold your breath and root for the bad guy because this film will take you on a wild ride.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0DQ3YHW2Y"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/denofthieves2pantera.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/denofthieves2pantera.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "Wicked",
     "review": "Wicked was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "Here",
     "review": "A realtor walks a newlywed couple, Al and Rose Young, around a house and shows them the large dining room, living room, and kitchen. She states the price is $3400, and Al gags. He only expected to pay $3000. However, the realtor states Al's G.I. bill will help them. Before Al ponders further, Rose says she's pregnant. Al chooses to buy the home.<br/><br/>Rose gives birth to Richard and has two more children, Jimmy and Elizabeth. Years later, Richard brings his girlfriend, Margaret, home to meet his parents. Rose pats Margaret's hand, stands up, and tells her to focus on her dreams because time won't wait. Richard asks Margaret to spend the night here. She wants to spend the rest of her life here. 'Here' has been many things to many people.<br/><br/>Based on Here by Richard McGuire, this movie's plot centers on the Young family. However, the timeline stretches from prehistoric days until now. The scenes overlay like photos in a scrapbook during pivotal moments to make the connection. The camera doesn't change angles until the last 10 seconds. This spot has a place in history and with each family. It goes through birth, life, and death. This director and editor stayed faithful to the source material and made the movie identical to the graphic novel. This picture isn't for you if you don't like a nonlinear story. This movie will be in film classes for years to come.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "Joker: Folie à Deux",
     "review": "The guards at Arkham Asylum give Arthur Fleck a clean shave and suit before he meets his lawyer, Maryanne Stewart. Maryanne prepares Arthur for a conference with his court-appointed psychologist. The psychologists believes Arthur has a split personality that he calls Joker after suffering years of abuse. If they can get the court to accept it, Arthur will spend his life in a mental facility instead of a prison for murdering five people. The guards lead Arthur to B-ward, and he hears singing. Arthur peeks inside and glances at a beautiful woman with an angelic voice. Arthur finishes his psychiatric evaluation, but Maryanne knows this strategy is a long shot. Arthur goes back to his cell. During yard time, a guard, Jackie, got Arthur some time in the B-ward's music class. Arthur can't contain his excitement.<br/><br/>Arthur sits next to the woman. She tells him her name is Lee. He inspired her. She grew up in the same building as him and had an abusive father. She watched Arthur on The Murray Franklin Show and wanted Arthur to shoot him. Then, he did. That's when Lee felt seen for the first time. The guards pull Arthur away, but he is smitten with Lee.<br/><br/>Arthur watches District Attorney Harvey Dent give a press conference about Arthur's trial. Judge Herman Rothwax deemed Arthur fit to stand trial. And Harvey wants Arthur to get the death penalty.<br/><br/>B-ward's music class watches a musical. Lee gets up, walks to the piano, sets it ablaze, and sits in her seat. When people spot the fire, they run. Lee grabs Arthur, and they flee in the other direction. The guards grab Arthur and throw him into the hole until his trial.<br/><br/>One day, Lee awakens Arthur. She bribed a guard to let her into the hole to say goodbye to Arthur. However, she plans to be at Arthur's trial daily. She paints Arthur's face, and they make love in the hole.<br/><br/>Arthur enters the courtroom but looks back at the door during the opening statement. He beams with glee when Lee enters and sits in the back. After the first day of deliberations, Lee confronts Maryanne in the vestibule. Lee thinks Maryanne is mocking the Joker and losing the trial. Lee says the world is on Joker's side and will free him.<br/><br/>Lee goes to the holding cell and tells Joker that Maryanne will lose the trial. Maryanne meets with Arthur about the trial. He professes his love for Lee, and Maryanne laughs. She reveals that Lee is a liar. Her name is Harley Quinzel, and her parents are rich. Arthur confronts Lee about her lies, and she confesses. She lied because she wanted Joker to like her. She wants him to let Joker free. Arthur takes her advice and fires Maryanne. Joker will represent himself and make the world smile. Will he be found guilty and sent to death?<br/><br/>This musical sequel is an ambitious change from the first film. Arthur and Lee perform songs, together and apart, to express their feelings. However, the movie stays grounded when the real world bleeds into the music and dance. The costume designers ensured the world around Arthur was gloomy and gray. But Joker's world had spots of color. The storyline does an excellent job of recapping the first film. The plot slows down for the songs, and sometimes the music drowns out the actors. However, the film is worthwhile. The audience will watch Arthur Fleck's trial and Joker's birth.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Piece By Piece",
     "review": "Pharrell Williams welcomes a documentary crew into his home. But before he answers questions, he thinks the story should be in Lego. He doesn't feel that anything is new. We take what exists, break it apart, and create something different, just like the classic toy. Then, Pharrell talks about his early connection with music, especially Stevie Wonder. He bonded with the music because Pharrell has synesthesia. He sees and hears the music around him. His grandmother saw his potential. She told him God had a higher purpose for him, bought him a snare drum, and instructed him to join the band. He met Chad, Shay, Pusha T, Missy Elliott, and Timbaland. Pharrell's life will touch the world.<br/><br/>Pharrell was correct. His story could only be in Lego. You see the world through his creative lens. The film doesn't feel like a typical Behind The Music documentary. Each song is a different Lego structure that lights up and bounces when he shows it to others. In case you are wondering, it never changes perspective. The audience stays in the Lego world. Viewers will learn something new about the legendary producer while singing along to his greatest hits. He wants creativity to be celebrated and never boxed in. Parents should know there is some light swearing, but it doesn't dominate the film. Also, some classic music videos get the Lego treatment. This movie is a pure classic.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -159,19 +171,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/moana2.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/moana2.jpeg"
-    }
-  }
-
-    {
-    "option": "1",
-    "mtitle": "Den of Thieves 2: Pantera",
-    "review": "Donnie and his crew ambush the security at the Antwerp International Airport tarmac. They break into one of the shipping containers and steal the diamonds inside. Some days later, they meet in Nice France, and Jovanna hands Donnie his cover story. He will act as a diamond dealer and use the stolen gems to get access to the World Diamond Center. Donnie funds the operation and collects information about the diamond volt. No one has ever successfully robbed the WDC, and Donnie plans to be the first.<br/><br/>Detective Nick finalized his divorce and custody agreement with his ex-wife in Los Angeles. And he can't get the representatives of the Federal Reserve to admit someone robbed them. Nick grabs Merrimen's girlfriend and threatens her life if she doesn't tell him where Donnie hid the money. She admits the money is in Panama. Only one account catches his eye, and someone has made regular withdrawals from France. Nick flies to France and uses his old U.S. Marshall's badge to gain access to the French police department. The police show Nick footage around the WDC, and Nick spots Donnie on security tapes. However, he tells the police it's not Donnie and leaves the precinct.<br/><br/>Donnie returns to his French apartment after spending time at the WDC. He hears something moving throughout and grabs his gun. Nick is eating a meal and enjoying a drink. He wants to join Donnie's crew and get paid. If Donnie doesn't include Nick, then Nick will arrest Donnie. So Donnie relents. Donnie and Nick think they can rob the WDC and leave without a trace. However, Donnie doesn't know that the diamonds he originally stole belong to a mafia syndicate called Octopus. The leader put a tracker on his diamonds and wants them back now. Can Donnie and Nick complete the heist before the Octopus gets a hold of them?<br/><br/>This sequel, inspired by the Antwerp Diamond Heist, has all the heart-pounding action of the first movie while telling a fresh story. It puts the audience in the middle of the heist with several ticking clocks, low-tech solutions, and high-tech gadgets. And the heist isn't the end of the story. The script recaps the first film, so you don't need to see it to enjoy this picture. There are no mid- or post-credit scenes, but the ending hints at part 3. So be ready to hold your breath and root for the bad guy because this film will take you on a wild ride.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0DQ3YHW2Y"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/denofthieves2pantera.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/denofthieves2pantera.jpeg"
     }
   }
 
