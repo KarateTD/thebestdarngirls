@@ -618,12 +618,19 @@ const MovieChoicesHandler = {
 	},
 	handle(handlerInput){
 		console.log("in movie choice intent")
+		console.log("in command repeat");
+			console.log("menu is "+menu);
+			console.log("choice is "+choice);
+			
 		const request = handlerInput.requestEnvelope.request;
+		console.log("check slot "+request.intent.slots);
 		console.log(request)
 		if (request.type === 'Alexa.Presentation.APL.UserEvent') {
 			choice = request.arguments[0];
-		}else if(request.intent.slots.choice){
-			choice = request.intent.slots.choice.value;
+		}else if(request.intent.slots){
+			 if(request.intent.slots.choice){
+				choice = request.intent.slots.choice.value;
+			 }
 		}
 
 		let element;
@@ -632,7 +639,7 @@ const MovieChoicesHandler = {
 		let mySettings = makeSettings(request.locale);
 		
 		if(typeof menu === 'undefined'){
-			console.log("** im menu is undefined")
+			console.log("** in menu is undefined")
 			let apology = "Sorry, your response was not understood.  Going back to the main menu.  ";
 			if(supportsAPL(handlerInput)){
 				console.log("**** if it has a screen")
@@ -777,13 +784,13 @@ const MovieChoicesHandler = {
 				});
 
  			
-				console.log("returning")
+				console.log("APL returning")
       			return handlerInput.responseBuilder
 				  .withShouldEndSession(false)
       			  .withStandardCard(element.mtitle, element.review.replace(/<br\/>/g,'\n'), element.image.smallImageUrl, element.image.largeImageUrl)
       			  .getResponse();
 			}else{
-				console.log("returning")
+				console.log("NO APL returning")
       			return handlerInput.responseBuilder
 				  .speak(speechConcat)
 				  .withShouldEndSession(false)
@@ -1133,16 +1140,26 @@ const LibraryHandler = {
 const CommandsHandler = {
 	canHandle(handlerInput){
 		const request = handlerInput.requestEnvelope.request;
-		return (request.type === 'IntentRequest'
-		  && request.intent.name === 'Commands');
+		return request.type === 'IntentRequest'
+		  && (request.intent.name === 'Commands'
+		  ||  request.intent.name === 'AMAZON.RepeatIntent');
 	},
 	handle(handlerInput){
+		console.log("in command handler start");
 		const request = handlerInput.requestEnvelope.request
-		let com = request.intent.slots.command.value;
+		let com = "";
+		if(request.intent.name === 'Commands'){
+			com = request.intent.slots.command.value;
+		}
 		let locale = request.locale
 		let mySettings = makeSettings(locale);
+		console.log("in command handler "+request);
 
-		if(com.toLowerCase() === 'repeat'){
+		if(com.toLowerCase() === 'repeat' || request.intent.name === 'AMAZON.RepeatIntent'){
+			console.log("in command repeat");
+			console.log("menu is "+menu);
+			console.log("choice is "+choice);
+			console.log("com is "+com);
 		    repeat=true;
 			return MovieChoicesHandler.handle(handlerInput);
 		}else if(com.toLowerCase() === 'movie options'){
