@@ -893,7 +893,9 @@ const SessionResumedRequestHandler = {
 							console.info(`[INFO] Shopping Action had an issue while performing the request. ${payload.message}`);
 						}
 					}
-					else if(token === 'AddToShoppingCartToken'){
+					//var compare = require('secure-compare');
+					else if(compare(token, 'AddToShoppingCartToken')){
+					//else if(token === 'AddToShoppingCartToken'){
 						console.log("in first else");
 						console.info(`[INFO] Shopping Action: Add to cart action was a success for ${token}.`);
 						speechText = "If you added an item to your cart, you can finish purchasing, modify, or remove the item on Amazon.com. Let's get back to the reviews! ".concat(repeatGoBack);
