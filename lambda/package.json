@@ -9,6 +9,7 @@
     "ask-sdk-model": "^1.86.0",
     "aws-sdk": "^2.1608.0",
     "boxen": "^8.0.1",
+    "cross-spawn": "^7.0.6",
     "dot-prop": "^5.3.0",
     "execa": "^9.5.2",
     "hosted-git-info": "^2.8.9",
