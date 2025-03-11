@@ -148,6 +148,19 @@ module.exports = mustBuy;
     }
   }
 
+  {
+    "option":"1",
+    "mtitle":"Novocaine",
+    "review":"Novocaine was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":""
+    },
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/novocaine.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/novocaine.jpeg"
+    }
+    }
+
    {
     "option": "4",
     "mtitle": "Rob Peace",
@@ -236,6 +249,19 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/companion.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/companion.jpeg"
+    }
+  }
+
+    {
+    "option": "5",
+    "mtitle": "Love Hurts",
+    "review": "Realtor Marvin bakes cookies before riding his bike to his next house showing. Marvin's assistant, Ashley, calls to remind Marvin about the office Valentine's Day party.<br/><br/>After the house showing, Marvin arrives with leftover heart-shaped cookies for the staff. He opens a red envelope with a note saying Rose is back. Dumbfounded, Marvin asks Ashley to give him some alone time in his office. Marvin walks through the door and wakes up. Marvin lifts his head to see assassin Raven sitting on the couch reading poetry. Raven only has one question for Marvin: where's Rose? Marvin says he doesn't know and fights. He asks Cliff to borrow his car and drives home.<br/><br/>Marvin quickly bags clothes and money. Then, hitmen King and Otis break in and attack. They want to know why Marvin didn't kill Rose as Marvin's brother, Knuckles, instructed. Years ago, Rose was Knuckle's accountant and kept his dirty money clean. However, Knuckles discovered she stole $4,000,000 from him. Marvin took the hit because Marvin secretly loved Rose. He told her to hide and never return. Marvin did the same. Marvin escapes Otis and King, but Rose shocks Marvin with a stun gun before he makes it to Cliff's car.<br/><br/>Marvin wakes up with a new shirt in the back of a club. He finds Rose serving drinks at the bar. She is tired of hiding because 'hiding ain't living.' Rose found information to prove she didn't steal Knuckle's money. So she sent Valentine's Day cards to Knuckles and everyone in his inner circle to announce her return. She wants Marvin to reclaim his hitman life, end Knuckle's crew, and control the empire. However, Marvin is happy with his new life. With Rose announcing her return, Knuckles wants his goons to bring them to him alive. What path will Marvin choose, and will he live to see it?<br/><br/>This film is a Valentine's Day movie that has something for everyone. It has true love, betrayal, and violence. The highly choreographed fights will remind the audience of Kill Bill. The director used interesting point-of-view angles from inanimate objects. However, the cuts make the stunt doubles and wire work obvious while taking away from the cinematography. The writers used the holiday to inject some much-needed humor into the script. While the film has flaws, it will entertain you and become your go-to Valentine's Day movie.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/lovehurts.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/lovehurts.jpg"
     }
   }
     
