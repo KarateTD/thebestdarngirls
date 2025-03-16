@@ -264,5 +264,18 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/lovehurts.jpg"
     }
   }
+
+   {
+    "option": "5",
+    "mtitle": "The Unbreakable Boy",
+    "review": "Scott gets help from his imaginary friend, Joe, to work up the courage to ask out a beautiful woman, Teresa, who works at the store. Scott can't take his eyes off Teresa's striking blue eyes. She accepts but notices he keeps items in a straight line and evenly taps his feet. Three dates later, Teresa is pregnant with their first child. However, she admits she's worried. Teresa has osteogenesis imperfecta type 1, and it's genetic. Scott reassures Teresa the baby will be fine.<br/><br/>Scott and Teresa have their son, Austin, who they lovingly call Auz-man. After Auz-man suffers his first break, nurses and doctors discover he has osteogenesis imperfecta. A few years later, Scott and Teresa have another son named Logan. Logan's birth spotlighted the differences between Logan and Auz-man. They have Auz-man tested and discover he has autism. Auz-man's surmounting bills and mood swings become unpredictable. Scott talks to Joe about his fathering ability. As Scott questions himself, he turns to a vice to feel better. He has to overcome his fear of failure as a father to live like Auz-man.<br/><br/>Based on the novel The Unbreakable Boy: A Father's Fear, a Son's Courage, and a Story of Unconditional Love by Scott Michael LeRette with Susy Flory, this movie will bring a tear to your eye and make you feel seen. The script allowed the audience to enter into deeply personal moments. Scott and Teresa were open and honest about their failures and successes in their relationship and parenthood. This film will take viewers through heartbreak and healing. It's beautiful.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":"B0DSR3QYXP"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theunbreakableboy.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theunbreakableboy.jpg"
+    }
+  }
     
 */
