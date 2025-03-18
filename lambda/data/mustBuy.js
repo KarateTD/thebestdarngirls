@@ -1,6 +1,18 @@
 var mustBuy = [
   {
-    "option": "1",
+    "option": "4",
+    "mtitle": "Moana 2",
+    "review": "Moana has taken to her Wayfinder roots. She travels to other islands to find people. Moana climbs the tallest mountain, blows her horn, and waits for a response. However, she hears nothing. Moana's parents, Tui and Sina, wait patiently for Moana while her little sister, Simea, runs to her. The village celebrates her return and asks for updates.<br/><br/>Moana takes Simea to the caverns and tells Simea the story about their ancestors - the Wayfinders. Tautai Vasa took his crew to Motufetu Island. But the god Nalo caused a storm that destroyed their canoe. Tui pulls Moana aside. She is the first Wayfinder in generations, and he wants her to accept the title Tautai. Moana humbly takes the title in a ritual. Today, the ancestors want Moana to find Motufetu because it connects people worldwide. Moana wakes and tells her tribe.<br/><br/>Moana prepares to leave, but Sina thinks Moana needs a crew, and Heihei isn't enough. Moana chooses Loto, Kela, and Moni. Moana approaches Moni's tapestry of Maui and whispers for Maui to join her. However, Maui doesn't respond. Moana, Loto, Kela, Moni, Heihei, and Pua travel to find the lost island of Motufetu.<br/><br/>Goddess Matangi holds Maui captive in a secret location. Her boss, God Nalo, is furious with Maui. Maui helped Moana. Nalo knows humans can reunite the people and end his control over the land. A united world would dismantle Nalo's power. Maui tells Matangi that Moana isn't Nalo's problem. Matangi tells Maui that it's too late. Nalo will end Moana. Maui and his tattoo must free themselves and warn Moana to stay away from Motufeto before Matangi and Nalo end the lives of her and her crew.<br/><br/>This sequel expands the island and world of Moana. Moana has friends who help her prepare for her missions. She is a proud chief and Wayfinder. It's best to watch the first movie before seeing the second. The script mentions what happened in the past but doesn't go into great detail. The graphics express the growth of the Disney animation team. The entire theater will light up with their artwork. Children will love the movie. It takes them on a new adventure, focusing on problem-solving, teamwork, and fun. This film has one mid-credit scene, but it's unnecessary to see it in 3D.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": "B0DVTFYSLS"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/moana2.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/moana2.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "Den of Thieves 2: Pantera",
     "review": "Donnie and his crew ambush the security at the Antwerp International Airport tarmac. They break into one of the shipping containers and steal the diamonds inside. Some days later, they meet in Nice France, and Jovanna hands Donnie his cover story. He will act as a diamond dealer and use the stolen gems to get access to the World Diamond Center. Donnie funds the operation and collects information about the diamond volt. No one has ever successfully robbed the WDC, and Donnie plans to be the first.<br/><br/>Detective Nick finalized his divorce and custody agreement with his ex-wife in Los Angeles. And he can't get the representatives of the Federal Reserve to admit someone robbed them. Nick grabs Merrimen's girlfriend and threatens her life if she doesn't tell him where Donnie hid the money. She admits the money is in Panama. Only one account catches his eye, and someone has made regular withdrawals from France. Nick flies to France and uses his old U.S. Marshall's badge to gain access to the French police department. The police show Nick footage around the WDC, and Nick spots Donnie on security tapes. However, he tells the police it's not Donnie and leaves the precinct.<br/><br/>Donnie returns to his French apartment after spending time at the WDC. He hears something moving throughout and grabs his gun. Nick is eating a meal and enjoying a drink. He wants to join Donnie's crew and get paid. If Donnie doesn't include Nick, then Nick will arrest Donnie. So Donnie relents. Donnie and Nick think they can rob the WDC and leave without a trace. However, Donnie doesn't know that the diamonds he originally stole belong to a mafia syndicate called Octopus. The leader put a tracker on his diamonds and wants them back now. Can Donnie and Nick complete the heist before the Octopus gets a hold of them?<br/><br/>This sequel, inspired by the Antwerp Diamond Heist, has all the heart-pounding action of the first movie while telling a fresh story. It puts the audience in the middle of the heist with several ticking clocks, low-tech solutions, and high-tech gadgets. And the heist isn't the end of the story. The script recaps the first film, so you don't need to see it to enjoy this picture. There are no mid- or post-credit scenes, but the ending hints at part 3. So be ready to hold your breath and root for the bad guy because this film will take you on a wild ride.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "Wicked",
     "review": "Wicked was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "Here",
     "review": "A realtor walks a newlywed couple, Al and Rose Young, around a house and shows them the large dining room, living room, and kitchen. She states the price is $3400, and Al gags. He only expected to pay $3000. However, the realtor states Al's G.I. bill will help them. Before Al ponders further, Rose says she's pregnant. Al chooses to buy the home.<br/><br/>Rose gives birth to Richard and has two more children, Jimmy and Elizabeth. Years later, Richard brings his girlfriend, Margaret, home to meet his parents. Rose pats Margaret's hand, stands up, and tells her to focus on her dreams because time won't wait. Richard asks Margaret to spend the night here. She wants to spend the rest of her life here. 'Here' has been many things to many people.<br/><br/>Based on Here by Richard McGuire, this movie's plot centers on the Young family. However, the timeline stretches from prehistoric days until now. The scenes overlay like photos in a scrapbook during pivotal moments to make the connection. The camera doesn't change angles until the last 10 seconds. This spot has a place in history and with each family. It goes through birth, life, and death. This director and editor stayed faithful to the source material and made the movie identical to the graphic novel. This picture isn't for you if you don't like a nonlinear story. This movie will be in film classes for years to come.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Joker: Folie à Deux",
     "review": "The guards at Arkham Asylum give Arthur Fleck a clean shave and suit before he meets his lawyer, Maryanne Stewart. Maryanne prepares Arthur for a conference with his court-appointed psychologist. The psychologists believes Arthur has a split personality that he calls Joker after suffering years of abuse. If they can get the court to accept it, Arthur will spend his life in a mental facility instead of a prison for murdering five people. The guards lead Arthur to B-ward, and he hears singing. Arthur peeks inside and glances at a beautiful woman with an angelic voice. Arthur finishes his psychiatric evaluation, but Maryanne knows this strategy is a long shot. Arthur goes back to his cell. During yard time, a guard, Jackie, got Arthur some time in the B-ward's music class. Arthur can't contain his excitement.<br/><br/>Arthur sits next to the woman. She tells him her name is Lee. He inspired her. She grew up in the same building as him and had an abusive father. She watched Arthur on The Murray Franklin Show and wanted Arthur to shoot him. Then, he did. That's when Lee felt seen for the first time. The guards pull Arthur away, but he is smitten with Lee.<br/><br/>Arthur watches District Attorney Harvey Dent give a press conference about Arthur's trial. Judge Herman Rothwax deemed Arthur fit to stand trial. And Harvey wants Arthur to get the death penalty.<br/><br/>B-ward's music class watches a musical. Lee gets up, walks to the piano, sets it ablaze, and sits in her seat. When people spot the fire, they run. Lee grabs Arthur, and they flee in the other direction. The guards grab Arthur and throw him into the hole until his trial.<br/><br/>One day, Lee awakens Arthur. She bribed a guard to let her into the hole to say goodbye to Arthur. However, she plans to be at Arthur's trial daily. She paints Arthur's face, and they make love in the hole.<br/><br/>Arthur enters the courtroom but looks back at the door during the opening statement. He beams with glee when Lee enters and sits in the back. After the first day of deliberations, Lee confronts Maryanne in the vestibule. Lee thinks Maryanne is mocking the Joker and losing the trial. Lee says the world is on Joker's side and will free him.<br/><br/>Lee goes to the holding cell and tells Joker that Maryanne will lose the trial. Maryanne meets with Arthur about the trial. He professes his love for Lee, and Maryanne laughs. She reveals that Lee is a liar. Her name is Harley Quinzel, and her parents are rich. Arthur confronts Lee about her lies, and she confesses. She lied because she wanted Joker to like her. She wants him to let Joker free. Arthur takes her advice and fires Maryanne. Joker will represent himself and make the world smile. Will he be found guilty and sent to death?<br/><br/>This musical sequel is an ambitious change from the first film. Arthur and Lee perform songs, together and apart, to express their feelings. However, the movie stays grounded when the real world bleeds into the music and dance. The costume designers ensured the world around Arthur was gloomy and gray. But Joker's world had spots of color. The storyline does an excellent job of recapping the first film. The plot slows down for the songs, and sometimes the music drowns out the actors. However, the film is worthwhile. The audience will watch Arthur Fleck's trial and Joker's birth.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -57,18 +69,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/piecebypiece.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/piecebypiece.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Transformers One",
-    "review": "Orion Pax sneaks into the Cybertron Archives to find recordings about the Matrix of Leadership. The first Primes died in a battle against the Quintessons, and the Matrix was lost. Since its disappearance, the Energon stopped flowing naturally, and Cybertronians are born without their transformation cog. Without the ability to transform, Energon miners, like Orion, dig below the surface to mine the resource. And their leader, Sentinel Prime, searches the surface for the Matrix. Security guards find Orion and chase him out of the archives. Orion jumps out of a window, and his best friend, D-16, saves him.<br/><br/>D-16 and Orion dig with their co-worker, Jazz, and captain, Elita-1. During their dig, an explosion traps Jazz, and Elita-1 tells Orion and D-16 to leave him and follow protocol. But Orion won't listen. He convinces D-16 to save Jazz. They do, but cause a cave-in. Then, Sentinel Prime makes an announcement. The miners will get the day off for Iacon 5000.<br/><br/>Orion and D-16 walk to the race, and Orion pulls D-16 into a secret entrance. D-16 grins at the starting line until Orion straps a jetpack to their backs. They enter the race and nearly win before losing miserably. However, Sentinel Prime congratulates them for motiving the mining bots. After Sentinel Prime and his second-in-command, Arachnid, leave, a racer furiously barges into the room. They caused him to crash, and he punishes them. He dumps them to level 50.<br/><br/>B-127 can't believe he has guests. Then, B-127 introduces them to his 'friends.' Orion accidentally knocks into B-127's 'friend,' and a chip falls out. It plays a message from Alpha Trion. He is in battle and gives their final location. Orion believes that's where they will find the Matrix. He convinces D-16 and B-127 to come to the surface to find the Matrix. They uncover so much more.<br/><br/>This origin story plays into the best friends becoming mortal enemies cliché but is highly entertaining and feels original. The story has jokes for parents without making sexual innuendos. The film has action and astounding storytelling. Also, they don't force a romantic storyline. This film is about the creation of Optimus Prime, Megatron, Bumblebee, the Autobots, and the Decepticons. There is one mid-credit scene and one post-credit scene. The graphics could be better, but the story makes up for the visual pitfalls. See this movie with the entire family.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0DGYC9RBD"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/transformersone.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/transformersone.jpg"
     }
   }
 ];
@@ -171,19 +171,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/robpeace.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/robpeace.jpeg"
-    }
-  }
-
-   {
-    "option": "4",
-    "mtitle": "Moana 2",
-    "review": "Moana has taken to her Wayfinder roots. She travels to other islands to find people. Moana climbs the tallest mountain, blows her horn, and waits for a response. However, she hears nothing. Moana's parents, Tui and Sina, wait patiently for Moana while her little sister, Simea, runs to her. The village celebrates her return and asks for updates.<br/><br/>Moana takes Simea to the caverns and tells Simea the story about their ancestors - the Wayfinders. Tautai Vasa took his crew to Motufetu Island. But the god Nalo caused a storm that destroyed their canoe. Tui pulls Moana aside. She is the first Wayfinder in generations, and he wants her to accept the title Tautai. Moana humbly takes the title in a ritual. Today, the ancestors want Moana to find Motufetu because it connects people worldwide. Moana wakes and tells her tribe.<br/><br/>Moana prepares to leave, but Sina thinks Moana needs a crew, and Heihei isn't enough. Moana chooses Loto, Kela, and Moni. Moana approaches Moni's tapestry of Maui and whispers for Maui to join her. However, Maui doesn't respond. Moana, Loto, Kela, Moni, Heihei, and Pua travel to find the lost island of Motufetu.<br/><br/>Goddess Matangi holds Maui captive in a secret location. Her boss, God Nalo, is furious with Maui. Maui helped Moana. Nalo knows humans can reunite the people and end his control over the land. A united world would dismantle Nalo's power. Maui tells Matangi that Moana isn't Nalo's problem. Matangi tells Maui that it's too late. Nalo will end Moana. Maui and his tattoo must free themselves and warn Moana to stay away from Motufeto before Matangi and Nalo end the lives of her and her crew.<br/><br/>This sequel expands the island and world of Moana. Moana has friends who help her prepare for her missions. She is a proud chief and Wayfinder. It's best to watch the first movie before seeing the second. The script mentions what happened in the past but doesn't go into great detail. The graphics express the growth of the Disney animation team. The entire theater will light up with their artwork. Children will love the movie. It takes them on a new adventure, focusing on problem-solving, teamwork, and fun. This film has one mid-credit scene, but it's unnecessary to see it in 3D.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0DVTFYSLS"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/moana2.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/moana2.jpeg"
     }
   }
 
