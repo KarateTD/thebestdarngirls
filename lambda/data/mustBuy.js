@@ -59,18 +59,7 @@ var mustBuy = [
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/jokerfolieadeux.jpeg"
     }
   },
-  {
-    "option": "5",
-    "mtitle": "Piece By Piece",
-    "review": "Pharrell Williams welcomes a documentary crew into his home. But before he answers questions, he thinks the story should be in Lego. He doesn't feel that anything is new. We take what exists, break it apart, and create something different, just like the classic toy. Then, Pharrell talks about his early connection with music, especially Stevie Wonder. He bonded with the music because Pharrell has synesthesia. He sees and hears the music around him. His grandmother saw his potential. She told him God had a higher purpose for him, bought him a snare drum, and instructed him to join the band. He met Chad, Shay, Pusha T, Missy Elliott, and Timbaland. Pharrell's life will touch the world.<br/><br/>Pharrell was correct. His story could only be in Lego. You see the world through his creative lens. The film doesn't feel like a typical Behind The Music documentary. Each song is a different Lego structure that lights up and bounces when he shows it to others. In case you are wondering, it never changes perspective. The audience stays in the Lego world. Viewers will learn something new about the legendary producer while singing along to his greatest hits. He wants creativity to be celebrated and never boxed in. Parents should know there is some light swearing, but it doesn't dominate the film. Also, some classic music videos get the Lego treatment. This movie is a pure classic.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0DJMY8D1V"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/piecebypiece.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/piecebypiece.jpeg"
-    }
-  }
+ 
 ];
 
 module.exports = mustBuy;
