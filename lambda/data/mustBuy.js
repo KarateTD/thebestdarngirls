@@ -263,4 +263,17 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/lastbreathmovie.jpeg"
     }
   }
+
+  {
+    "option": "4",
+    "mtitle": "Queen of the Ring",
+    "review": "Waitress Mildred Burke is a single mother who works in her mother's diner. However, Mildred never wants to be ordinary. She dreams of being a wrestler, but every state bans women in the squared circle. Mildred and her mother, Bertha, attend a wrestling match and watch Billy Wolfe win.<br/><br/>Billy and his son, G. Bill, patronize Bertha's diner. Mildred approaches Billy and gushes over him. She asks Billy to train her, and he says no. Months later, Billy and G. Bill enter the restaurant again. Bertha encourages Mildred to approach Billy again but tells Mildred not to back down. Mildred spews fire towards Billy, and he loves her moxie. He offers to train her the next day.<br/><br/>Mildred arrives at the carnival, and Billy and G. Bill sit outside the ring. To prove her worth, Billy has Mildred face a man. She wins and impresses Billy. Billy and Mildred work the carnival circuit but can't get legitimate work until the states lift the ban. Over time, Mildred becomes a household name and creates a business with Billy. Mildred chooses to marry Billy to solidify their professional relationship. That decision will impact Mildred's life and professional wrestling, but force her legacy in darkness for years.<br/><br/>Based on the novel The Queen of the Ring: Sex, Muscles, Diamonds, and the Making of an American Legend by Jeff Leen, this movie is the hidden history in professional wrestling. Mildred was the first million-dollar female athlete and accomplished it while being a single mother. She refused to let the era dictate her path. Instead, she played within it. The film credits Billy with elevating women's wrestling and integrating the sport. However, the film didn't skip past his abusive nature in and out of the ring. The audience doesn't need to be a wrestling fan to appreciate the picture. The costumes, hair, makeup, and wrestling style perfectly encapsulate the period. This film is an astounding tribute to the sport and Mildred's legacy. It's for everyone.<br/><br/>5 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/queenofthering.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/queenofthering.jpg"
+    }
+  }
 */
