@@ -1,6 +1,54 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "One of Them Days",
+    "review": "One of Them Days was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0DTB7KH72"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/oneofthemdays.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/oneofthemdays.jpeg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Companion",
+    "review": "Iris awakens after a long drive to a rustic small cabin in the woods with her boyfriend, Josh, in the driver's seat. Kat answers the door but gives Iris the cold shoulder. Iris and Josh greet Patrick as he cooks, and Patrick's boyfriend, Eli, offers Iris and Josh hugs. Later, Kat's boyfriend, Sergey, descends the stairs and welcomes everyone to his home.<br/><br/>After dinner, Iris sits with Kat and asks about her relationship with Sergey. Kat admits Sergey is a terrible boyfriend and husband, but he has money. She dislikes what Iris represents: Kat's replacement. The couples turn in for the night, and Josh and Iris make love. Afterward, Iris professes her undying love to Josh, and he tells her to go to sleep.<br/><br/>Iris wakes up and prepares for an evening on the beach with Josh. However, he doesn't want to go. Iris walks to the beach chairs and breathes in the morning air. She puts her hands in her pocket and pulls out a switchblade. Sergey joins Iris. Later, Iris returns to the cabin with a large blood stain on her shirt. Josh demands answers. Iris explains that Sergey attacked her, and she defended herself. Iris didn't care about dying but was afraid not to see Josh again. Josh tells Iris to go to sleep, and she powers down.<br/><br/>Josh and Patrick tie Iris to a chair, and Josh asks to be alone with Iris to say goodbye. He wakes Iris up and explains that she is his companion robot from Empathix Robotics. They will explain to the police that Iris killed someone. Empathix will label her defective and turn her off. Iris cuts herself free and escapes from the house with Josh's phone. Patrick sees Iris escape and warns the others. Josh says they must get Iris back. If Empathix examines her, they will see he jailbroke Iris to make her more aggressive and go against her factory settings. He and Kat planned Sergey's murder and asked Patrick and Eli to come to strengthen their alibi. Can Iris escape them before they destroy her?<br/><br/>This movie is leaps and bounds better than the trailer. The trailer gives viewers one plot twist. However, there are several. This plot leans into the warnings of artificial intelligence and the dehumanization of people while being bloody and funny. The script touches on the importance of autonomy, the pitfalls of entitlement, and why you should read the user agreement without being preachy. This film isn't a horror movie but falls in the same category as M3GAN. It's a thought-provoking, bloody, cringy good time. You can also take a date.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0DTQ921YB"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/companion.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/companion.jpeg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "Mufasa: The Lion King",
+    "review": "Simba runs to find Nala and leaves their daughter, Kiara, with Rafiki, Timon, and Pumbaa. Kiara dreams she could be as strong as her grandfather. Rafiki explains that Mufasa wasn't always a king. Rafiki sits Kiara down and tells the story of her grandfather, Mufasa: The Lion King.<br/><br/>Mufasa and his parents, Afia and Masego, are living through drought. Mufasa's mother, Afia, tells Mufasa that the drought won't last forever. Until then, he should look at the horizon. Beyond the light is a land called Milele. Everything in Milele flows in abundance. Then, the rain falls. Mufasa and his family go to the watering hole with the other animals. Later, they hear a rumble and see a flood. An elephant hits the dam, and the water sweeps Mufasa away.<br/><br/>Mufasa struggles on a branch when a cub, Taka, appears. He is the son of King Obasi and Obasi's mate, Eshe. Taka saves Mufasa and brings him ashore. Eshe tells Taka to leave Mufasa alone because Obasi doesn't like strays. Eshe has compassion for the cub and brings Mufasa to the pride. Obasi wants to eat Mufasa, but Mufasa says he is too fast. Obasi creates Taka's first challenge to prove he can be a king. If Taka beats Mufasa in a race, Obasi will eat Mufasa. If Mufasa wins, then he can stay with their pride. They race, but Eshe sees that Taka lets Mufasa win. Obasi keeps his promise but tells Mufasa he must live with the females.<br/><br/>As Taka and Mufasa grow, their brotherly bond becomes tighter, much to Obasi's displeasure. Taka wants to learn how to hunt like Mufasa, but Obasi says his place is sleeping on a rock, protecting the pride. When Obasi falls asleep, Taka follows Eshe to learn. They hear others approaching but don't have time to escape. Mufasa saves Eshe while Taka runs away.<br/><br/>The remaining white lion returns to the leader, Kiros. With a lowered head, the surviving lion explains that Mufasa killed Kiros's son while saving Eshe. Then, he pledges vengeance for his son.<br/><br/>Mufasa can smell Kiros and his pride coming. Eshe tells Taka and Mufasa to leave and protect each other. Kiros believes there can only be one king. They slaughter Obasi's pride. However, Kiros knows the lion who killed his son isn't there. He orders his pride to track Mufasa and Taka. He vows to kill the pair, avenge his son, and become the king.<br/><br/>This Lion King prequel starts with a tribute to James Earl Jones. Then, it transports the audience to Pride Rock. It's not Mufasa's story alone. It's the tale of two brothers, entitlement, courage, and the king's court. By staying with the pride's females, Mufasa learned lessons that separated him from the others. Mufasa's journey mirrors Simba's. He leaves home for safety and finds friends along the way. The graphics far surpass the live adaptation of The Lion King, and the voice acting is stellar. The music flows wonderfully with the theme, although it drowns out the vocal performances. Also, the backing track makes the room vibrate and crescendos with the sun. This film is an astounding prequel.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0DW47PXBF"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mufasathelionking.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mufasathelionking.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "Love Hurts",
+    "review": "Realtor Marvin bakes cookies before riding his bike to his next house showing. Marvin's assistant, Ashley, calls to remind Marvin about the office Valentine's Day party.<br/><br/>After the house showing, Marvin arrives with leftover heart-shaped cookies for the staff. He opens a red envelope with a note saying Rose is back. Dumbfounded, Marvin asks Ashley to give him some alone time in his office. Marvin walks through the door and wakes up. Marvin lifts his head to see assassin Raven sitting on the couch reading poetry. Raven only has one question for Marvin: where's Rose? Marvin says he doesn't know and fights. He asks Cliff to borrow his car and drives home.<br/><br/>Marvin quickly bags clothes and money. Then, hitmen King and Otis break in and attack. They want to know why Marvin didn't kill Rose as Marvin's brother, Knuckles, instructed. Years ago, Rose was Knuckle's accountant and kept his dirty money clean. However, Knuckles discovered she stole $4,000,000 from him. Marvin took the hit because Marvin secretly loved Rose. He told her to hide and never return. Marvin did the same. Marvin escapes Otis and King, but Rose shocks Marvin with a stun gun before he makes it to Cliff's car.<br/><br/>Marvin wakes up with a new shirt in the back of a club. He finds Rose serving drinks at the bar. She is tired of hiding because 'hiding ain't living.' Rose found information to prove she didn't steal Knuckle's money. So she sent Valentine's Day cards to Knuckles and everyone in his inner circle to announce her return. She wants Marvin to reclaim his hitman life, end Knuckle's crew, and control the empire. However, Marvin is happy with his new life. With Rose announcing her return, Knuckles wants his goons to bring them to him alive. What path will Marvin choose, and will he live to see it?<br/><br/>This film is a Valentine's Day movie that has something for everyone. It has true love, betrayal, and violence. The highly choreographed fights will remind the audience of Kill Bill. The director used interesting point-of-view angles from inanimate objects. However, the cuts make the stunt doubles and wire work obvious while taking away from the cinematography. The writers used the holiday to inject some much-needed humor into the script. While the film has flaws, it will entertain you and become your go-to Valentine's Day movie.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": "B0DVTJKVR2"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/lovehurts.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/lovehurts.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "Moana 2",
     "review": "Moana has taken to her Wayfinder roots. She travels to other islands to find people. Moana climbs the tallest mountain, blows her horn, and waits for a response. However, she hears nothing. Moana's parents, Tui and Sina, wait patiently for Moana while her little sister, Simea, runs to her. The village celebrates her return and asks for updates.<br/><br/>Moana takes Simea to the caverns and tells Simea the story about their ancestors - the Wayfinders. Tautai Vasa took his crew to Motufetu Island. But the god Nalo caused a storm that destroyed their canoe. Tui pulls Moana aside. She is the first Wayfinder in generations, and he wants her to accept the title Tautai. Moana humbly takes the title in a ritual. Today, the ancestors want Moana to find Motufetu because it connects people worldwide. Moana wakes and tells her tribe.<br/><br/>Moana prepares to leave, but Sina thinks Moana needs a crew, and Heihei isn't enough. Moana chooses Loto, Kela, and Moni. Moana approaches Moni's tapestry of Maui and whispers for Maui to join her. However, Maui doesn't respond. Moana, Loto, Kela, Moni, Heihei, and Pua travel to find the lost island of Motufetu.<br/><br/>Goddess Matangi holds Maui captive in a secret location. Her boss, God Nalo, is furious with Maui. Maui helped Moana. Nalo knows humans can reunite the people and end his control over the land. A united world would dismantle Nalo's power. Maui tells Matangi that Moana isn't Nalo's problem. Matangi tells Maui that it's too late. Nalo will end Moana. Maui and his tattoo must free themselves and warn Moana to stay away from Motufeto before Matangi and Nalo end the lives of her and her crew.<br/><br/>This sequel expands the island and world of Moana. Moana has friends who help her prepare for her missions. She is a proud chief and Wayfinder. It's best to watch the first movie before seeing the second. The script mentions what happened in the past but doesn't go into great detail. The graphics express the growth of the Disney animation team. The entire theater will light up with their artwork. Children will love the movie. It takes them on a new adventure, focusing on problem-solving, teamwork, and fun. This film has one mid-credit scene, but it's unnecessary to see it in 3D.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -10,56 +58,7 @@ var mustBuy = [
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/moana2.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/moana2.jpeg"
     }
-  },
-  {
-    "option": "2",
-    "mtitle": "Den of Thieves 2: Pantera",
-    "review": "Donnie and his crew ambush the security at the Antwerp International Airport tarmac. They break into one of the shipping containers and steal the diamonds inside. Some days later, they meet in Nice France, and Jovanna hands Donnie his cover story. He will act as a diamond dealer and use the stolen gems to get access to the World Diamond Center. Donnie funds the operation and collects information about the diamond volt. No one has ever successfully robbed the WDC, and Donnie plans to be the first.<br/><br/>Detective Nick finalized his divorce and custody agreement with his ex-wife in Los Angeles. And he can't get the representatives of the Federal Reserve to admit someone robbed them. Nick grabs Merrimen's girlfriend and threatens her life if she doesn't tell him where Donnie hid the money. She admits the money is in Panama. Only one account catches his eye, and someone has made regular withdrawals from France. Nick flies to France and uses his old U.S. Marshall's badge to gain access to the French police department. The police show Nick footage around the WDC, and Nick spots Donnie on security tapes. However, he tells the police it's not Donnie and leaves the precinct.<br/><br/>Donnie returns to his French apartment after spending time at the WDC. He hears something moving throughout and grabs his gun. Nick is eating a meal and enjoying a drink. He wants to join Donnie's crew and get paid. If Donnie doesn't include Nick, then Nick will arrest Donnie. So Donnie relents. Donnie and Nick think they can rob the WDC and leave without a trace. However, Donnie doesn't know that the diamonds he originally stole belong to a mafia syndicate called Octopus. The leader put a tracker on his diamonds and wants them back now. Can Donnie and Nick complete the heist before the Octopus gets a hold of them?<br/><br/>This sequel, inspired by the Antwerp Diamond Heist, has all the heart-pounding action of the first movie while telling a fresh story. It puts the audience in the middle of the heist with several ticking clocks, low-tech solutions, and high-tech gadgets. And the heist isn't the end of the story. The script recaps the first film, so you don't need to see it to enjoy this picture. There are no mid- or post-credit scenes, but the ending hints at part 3. So be ready to hold your breath and root for the bad guy because this film will take you on a wild ride.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0DQ3YHW2Y"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/denofthieves2pantera.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/denofthieves2pantera.jpeg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "Wicked",
-    "review": "Wicked was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0DNLMFDX7"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/wicked.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/wicked.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Here",
-    "review": "A realtor walks a newlywed couple, Al and Rose Young, around a house and shows them the large dining room, living room, and kitchen. She states the price is $3400, and Al gags. He only expected to pay $3000. However, the realtor states Al's G.I. bill will help them. Before Al ponders further, Rose says she's pregnant. Al chooses to buy the home.<br/><br/>Rose gives birth to Richard and has two more children, Jimmy and Elizabeth. Years later, Richard brings his girlfriend, Margaret, home to meet his parents. Rose pats Margaret's hand, stands up, and tells her to focus on her dreams because time won't wait. Richard asks Margaret to spend the night here. She wants to spend the rest of her life here. 'Here' has been many things to many people.<br/><br/>Based on Here by Richard McGuire, this movie's plot centers on the Young family. However, the timeline stretches from prehistoric days until now. The scenes overlay like photos in a scrapbook during pivotal moments to make the connection. The camera doesn't change angles until the last 10 seconds. This spot has a place in history and with each family. It goes through birth, life, and death. This director and editor stayed faithful to the source material and made the movie identical to the graphic novel. This picture isn't for you if you don't like a nonlinear story. This movie will be in film classes for years to come.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0DLXM2Z51"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/here.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/here.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Joker: Folie à Deux",
-    "review": "The guards at Arkham Asylum give Arthur Fleck a clean shave and suit before he meets his lawyer, Maryanne Stewart. Maryanne prepares Arthur for a conference with his court-appointed psychologist. The psychologists believes Arthur has a split personality that he calls Joker after suffering years of abuse. If they can get the court to accept it, Arthur will spend his life in a mental facility instead of a prison for murdering five people. The guards lead Arthur to B-ward, and he hears singing. Arthur peeks inside and glances at a beautiful woman with an angelic voice. Arthur finishes his psychiatric evaluation, but Maryanne knows this strategy is a long shot. Arthur goes back to his cell. During yard time, a guard, Jackie, got Arthur some time in the B-ward's music class. Arthur can't contain his excitement.<br/><br/>Arthur sits next to the woman. She tells him her name is Lee. He inspired her. She grew up in the same building as him and had an abusive father. She watched Arthur on The Murray Franklin Show and wanted Arthur to shoot him. Then, he did. That's when Lee felt seen for the first time. The guards pull Arthur away, but he is smitten with Lee.<br/><br/>Arthur watches District Attorney Harvey Dent give a press conference about Arthur's trial. Judge Herman Rothwax deemed Arthur fit to stand trial. And Harvey wants Arthur to get the death penalty.<br/><br/>B-ward's music class watches a musical. Lee gets up, walks to the piano, sets it ablaze, and sits in her seat. When people spot the fire, they run. Lee grabs Arthur, and they flee in the other direction. The guards grab Arthur and throw him into the hole until his trial.<br/><br/>One day, Lee awakens Arthur. She bribed a guard to let her into the hole to say goodbye to Arthur. However, she plans to be at Arthur's trial daily. She paints Arthur's face, and they make love in the hole.<br/><br/>Arthur enters the courtroom but looks back at the door during the opening statement. He beams with glee when Lee enters and sits in the back. After the first day of deliberations, Lee confronts Maryanne in the vestibule. Lee thinks Maryanne is mocking the Joker and losing the trial. Lee says the world is on Joker's side and will free him.<br/><br/>Lee goes to the holding cell and tells Joker that Maryanne will lose the trial. Maryanne meets with Arthur about the trial. He professes his love for Lee, and Maryanne laughs. She reveals that Lee is a liar. Her name is Harley Quinzel, and her parents are rich. Arthur confronts Lee about her lies, and she confesses. She lied because she wanted Joker to like her. She wants him to let Joker free. Arthur takes her advice and fires Maryanne. Joker will represent himself and make the world smile. Will he be found guilty and sent to death?<br/><br/>This musical sequel is an ambitious change from the first film. Arthur and Lee perform songs, together and apart, to express their feelings. However, the movie stays grounded when the real world bleeds into the music and dance. The costume designers ensured the world around Arthur was gloomy and gray. But Joker's world had spots of color. The storyline does an excellent job of recapping the first film. The plot slows down for the songs, and sometimes the music drowns out the actors. However, the film is worthwhile. The audience will watch Arthur Fleck's trial and Joker's birth.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0DJ22GXHR"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/jokerfolieadeux.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/jokerfolieadeux.jpeg"
-    }
-  },
- 
+  }
 ];
 
 module.exports = mustBuy;
@@ -84,19 +83,6 @@ module.exports = mustBuy;
     "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/flymetothemoon.jpeg"
     }
     }
-
-    {
-    "option":"1",
-    "mtitle":"One of Them Days",
-    "review":"One of Them Days was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0DTB7KH72"
-    },
-    "image":{
-      "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/oneofthemdays.jpeg",
-      "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/oneofthemdays.jpeg"
-    }
-  }
 
    {
     "option": "1",
@@ -142,7 +128,7 @@ module.exports = mustBuy;
     "mtitle":"Novocaine",
     "review":"Novocaine was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":""
+      "re":"B0DZDZB875"
     },
     "image":{
     "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/novocaine.jpeg",
@@ -190,19 +176,6 @@ module.exports = mustBuy;
   }
 
    {
-    "option": "5",
-    "mtitle": "Mufasa: The Lion King",
-    "review": "Simba runs to find Nala and leaves their daughter, Kiara, with Rafiki, Timon, and Pumbaa. Kiara dreams she could be as strong as her grandfather. Rafiki explains that Mufasa wasn't always a king. Rafiki sits Kiara down and tells the story of her grandfather, Mufasa: The Lion King.<br/><br/>Mufasa and his parents, Afia and Masego, are living through drought. Mufasa's mother, Afia, tells Mufasa that the drought won't last forever. Until then, he should look at the horizon. Beyond the light is a land called Milele. Everything in Milele flows in abundance. Then, the rain falls. Mufasa and his family go to the watering hole with the other animals. Later, they hear a rumble and see a flood. An elephant hits the dam, and the water sweeps Mufasa away.<br/><br/>Mufasa struggles on a branch when a cub, Taka, appears. He is the son of King Obasi and Obasi's mate, Eshe. Taka saves Mufasa and brings him ashore. Eshe tells Taka to leave Mufasa alone because Obasi doesn't like strays. Eshe has compassion for the cub and brings Mufasa to the pride. Obasi wants to eat Mufasa, but Mufasa says he is too fast. Obasi creates Taka's first challenge to prove he can be a king. If Taka beats Mufasa in a race, Obasi will eat Mufasa. If Mufasa wins, then he can stay with their pride. They race, but Eshe sees that Taka lets Mufasa win. Obasi keeps his promise but tells Mufasa he must live with the females.<br/><br/>As Taka and Mufasa grow, their brotherly bond becomes tighter, much to Obasi's displeasure. Taka wants to learn how to hunt like Mufasa, but Obasi says his place is sleeping on a rock, protecting the pride. When Obasi falls asleep, Taka follows Eshe to learn. They hear others approaching but don't have time to escape. Mufasa saves Eshe while Taka runs away.<br/><br/>The remaining white lion returns to the leader, Kiros. With a lowered head, the surviving lion explains that Mufasa killed Kiros's son while saving Eshe. Then, he pledges vengeance for his son.<br/><br/>Mufasa can smell Kiros and his pride coming. Eshe tells Taka and Mufasa to leave and protect each other. Kiros believes there can only be one king. They slaughter Obasi's pride. However, Kiros knows the lion who killed his son isn't there. He orders his pride to track Mufasa and Taka. He vows to kill the pair, avenge his son, and become the king.<br/><br/>This Lion King prequel starts with a tribute to James Earl Jones. Then, it transports the audience to Pride Rock. It's not Mufasa's story alone. It's the tale of two brothers, entitlement, courage, and the king's court. By staying with the pride's females, Mufasa learned lessons that separated him from the others. Mufasa's journey mirrors Simba's. He leaves home for safety and finds friends along the way. The graphics far surpass the live adaptation of The Lion King, and the voice acting is stellar. The music flows wonderfully with the theme, although it drowns out the vocal performances. Also, the backing track makes the room vibrate and crescendos with the sun. This film is an astounding prequel.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0DW47PXBF"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mufasathelionking.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mufasathelionking.jpg"
-    }
-  }
-
-   {
     "option": "4",
     "mtitle": "The Fire Inside",
     "review": "Jason Crutchfield trains young men to box at the Berston Field House. Every day, a young girl, Claressa Shields, runs to the gym. One day, Jason notices Claressa throwing punches with the boys. He allows her into the ring to battle one round against Zay. Zay pins Claressa against the ropes and lands several punches, but Jason can see she has a fighter's spirit. He gives her a few pointers, and Claressa dominates in the second round.<br/><br/>Five years later, Claressa is on the Olympic radar. She travels with Jason to Spokane Washington, for the 2012 Olympic Team Trials. Claressa keeps her undefeated record as she rockets to the top and earns a chance to compete at the Women's World Boxing Championship in Shanghai China. If she ranks in the top 8, Claressa will join the U.S. Olympic Boxing team. Claressa and her hometown, Flint, beam with pride until Jason gives her some unfortunate news. He isn't a member of the AIBA, so he can't come to China to coach her. For the first time, Claressa won't have Jason in her corner for the most monumental qualifier in her career. However, this won't be her most grueling battle. She fights against poverty, abuse, and disrespect within her sport. Claressa steps inside the ring for herself but fights three rounds to change boxing forever.<br/><br/>People often equate a gold medal with fame and riches. But with every gold medalist you know, there are 10 you don't. Claressa learns she can't have the same demeanor as the men in her profession. She has issues at home, also. Her mother often neglects Claressa and her siblings, and her father spent most of Claressa's life in prison. When she returns home with a medal and below the poverty line, Claressa demands the respect she has earned. It's her unselfish nature and grit that shines through in this film. Unlike others, her story ends in triumph. You will leave the theater with a smile on your face.<br/><br/>4 out of 5 stars.",
@@ -212,32 +185,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thefireinside.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thefireinside.jpeg"
-    }
-  }
-
-  {
-    "option": "5",
-    "mtitle": "Companion",
-    "review": "Iris awakens after a long drive to a rustic small cabin in the woods with her boyfriend, Josh, in the driver's seat. Kat answers the door but gives Iris the cold shoulder. Iris and Josh greet Patrick as he cooks, and Patrick's boyfriend, Eli, offers Iris and Josh hugs. Later, Kat's boyfriend, Sergey, descends the stairs and welcomes everyone to his home.<br/><br/>After dinner, Iris sits with Kat and asks about her relationship with Sergey. Kat admits Sergey is a terrible boyfriend and husband, but he has money. She dislikes what Iris represents: Kat's replacement. The couples turn in for the night, and Josh and Iris make love. Afterward, Iris professes her undying love to Josh, and he tells her to go to sleep.<br/><br/>Iris wakes up and prepares for an evening on the beach with Josh. However, he doesn't want to go. Iris walks to the beach chairs and breathes in the morning air. She puts her hands in her pocket and pulls out a switchblade. Sergey joins Iris. Later, Iris returns to the cabin with a large blood stain on her shirt. Josh demands answers. Iris explains that Sergey attacked her, and she defended herself. Iris didn't care about dying but was afraid not to see Josh again. Josh tells Iris to go to sleep, and she powers down.<br/><br/>Josh and Patrick tie Iris to a chair, and Josh asks to be alone with Iris to say goodbye. He wakes Iris up and explains that she is his companion robot from Empathix Robotics. They will explain to the police that Iris killed someone. Empathix will label her defective and turn her off. Iris cuts herself free and escapes from the house with Josh's phone. Patrick sees Iris escape and warns the others. Josh says they must get Iris back. If Empathix examines her, they will see he jailbroke Iris to make her more aggressive and go against her factory settings. He and Kat planned Sergey's murder and asked Patrick and Eli to come to strengthen their alibi. Can Iris escape them before they destroy her?<br/><br/>This movie is leaps and bounds better than the trailer. The trailer gives viewers one plot twist. However, there are several. This plot leans into the warnings of artificial intelligence and the dehumanization of people while being bloody and funny. The script touches on the importance of autonomy, the pitfalls of entitlement, and why you should read the user agreement without being preachy. This film isn't a horror movie but falls in the same category as M3GAN. It's a thought-provoking, bloody, cringy good time. You can also take a date.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0DTQ921YB"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/companion.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/companion.jpeg"
-    }
-  }
-
-    {
-    "option": "5",
-    "mtitle": "Love Hurts",
-    "review": "Realtor Marvin bakes cookies before riding his bike to his next house showing. Marvin's assistant, Ashley, calls to remind Marvin about the office Valentine's Day party.<br/><br/>After the house showing, Marvin arrives with leftover heart-shaped cookies for the staff. He opens a red envelope with a note saying Rose is back. Dumbfounded, Marvin asks Ashley to give him some alone time in his office. Marvin walks through the door and wakes up. Marvin lifts his head to see assassin Raven sitting on the couch reading poetry. Raven only has one question for Marvin: where's Rose? Marvin says he doesn't know and fights. He asks Cliff to borrow his car and drives home.<br/><br/>Marvin quickly bags clothes and money. Then, hitmen King and Otis break in and attack. They want to know why Marvin didn't kill Rose as Marvin's brother, Knuckles, instructed. Years ago, Rose was Knuckle's accountant and kept his dirty money clean. However, Knuckles discovered she stole $4,000,000 from him. Marvin took the hit because Marvin secretly loved Rose. He told her to hide and never return. Marvin did the same. Marvin escapes Otis and King, but Rose shocks Marvin with a stun gun before he makes it to Cliff's car.<br/><br/>Marvin wakes up with a new shirt in the back of a club. He finds Rose serving drinks at the bar. She is tired of hiding because 'hiding ain't living.' Rose found information to prove she didn't steal Knuckle's money. So she sent Valentine's Day cards to Knuckles and everyone in his inner circle to announce her return. She wants Marvin to reclaim his hitman life, end Knuckle's crew, and control the empire. However, Marvin is happy with his new life. With Rose announcing her return, Knuckles wants his goons to bring them to him alive. What path will Marvin choose, and will he live to see it?<br/><br/>This film is a Valentine's Day movie that has something for everyone. It has true love, betrayal, and violence. The highly choreographed fights will remind the audience of Kill Bill. The director used interesting point-of-view angles from inanimate objects. However, the cuts make the stunt doubles and wire work obvious while taking away from the cinematography. The writers used the holiday to inject some much-needed humor into the script. While the film has flaws, it will entertain you and become your go-to Valentine's Day movie.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":""
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/lovehurts.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/lovehurts.jpg"
     }
   }
 
@@ -258,6 +205,9 @@ module.exports = mustBuy;
     "option": "5",
     "mtitle": "Last Breath",
     "review": "Chris Lemons spends time with his fiancée, Morag, planning paint colors for their baby's room. Morag expresses concern about Chris's job as a saturation diver, but Chris thinks it's cool. He reassures Morag that everything is okay before driving to Aberdeen Harbour. Chris greets friends on the ship and learns from fellow diver Duncan that they have a new Captain. Then, teammates tell Chris that 'Vulcan' is joining them on this dive. The divers meet with their coordinator, Craig. Craig divides the divers into four teams of three. Duncan, Chris, and the 'Vulcan' - whose name is Dave - are on team A..<br/><br/>The men spend time in the pod while the crew pressurizes it to prepare for their dive. After some time, each team makes the dive in their pod. They will take turns repairing the gas pipeline. They dive, and Craig chooses Team A to go to the subsea manifold first. Chris and Dave will dive while Duncan monitors their umbilical cables and air levels from above. Duncan opens the hatch, and the water rushes inside. He knows it's a sign of a 20-foot swell above. Craig confirms Duncan's suspicions, but the team continues.<br/><br/>While Chris and Dave work on the manifold, they don't know what's happening above until the umbilical cable retracts without Duncan's assistance. The thrusters on the ship failed, and the vessel, connected to their pod, drifts further into the sea. Dave and Chris climb the manifold as the ship pulls. Then, Chris's umbilical cable snags on the manifold. Duncan warns Chris that his cable will snap under the strain. Knowing that the vessel will pull him before he can help Chris, Dave tells Chris to climb the manifold after the cable breaks. He can't save Chris if he can't find him. His cable breaks. Chris falls, and the ship pulls Dave away. Dave rejoins a somber Duncan. They can't rescue Chris until the vessel stops drifting. Chris has 10 minutes of air before he dies. Can the vessel's crew stop the drift so Dave and Duncan can return to save Chris?<br/><br/>Based on the Last Breath documentary, this movie only gives the audience a brief moment to understand the characters and their work. However, it's enough to have you waiting with bated breath as they count down Chris's air supply. Your heart will drop when the countdown changes from time with air to time without it. The camera work doesn't make you the diver but turns you into a fish in the ocean. You swim around the divers while they work and struggle. This film will take you through a roller coaster of emotions without crass humor. This film is a must-see in theaters.<br/><br/>5 out of 5 stars.",
+    "asin": {
+      "re": "B0DXFZ3Z17"
+    },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/lastbreathmovie.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/lastbreathmovie.jpeg"
