@@ -239,4 +239,17 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/queenofthering.jpg"
     }
   }
+
+  {
+    "option": "5",
+    "mtitle": "Black Bag",
+    "review": "British Intelligence Officer George meets with his boss, Meacham, in an alleyway. Meacham informs George that a nuclear program called Severus leaked. He gives George a list of five people with the knowledge, skill, and clearance level to obtain Severus. George's wife, Kathryn, is on the list. George vows to find the mole in a week.<br/><br/>George returns home and plans a dinner with the suspects. However, he warns Kathryn to avoid one item because it contains drugs. Agents James, Zoe, Freddie, and Clarissa arrive. James and Freddie are field agents. James is in a relationship with agency psychiatrist Dr. Zoe, and Freddie is dating satellite analyst Clarissa. As the drugs take effect, everyone becomes unencumbered and reveals secrets. After everyone leaves, George finds a movie ticket stub for Dark Window in the trash.<br/><br/>George and Kathryn prepare for work. He asks her to go to the movies with him to see Dark Window. She states that she hasn't heard of it. She will be on a mission tomorrow. George inquires about it, but she says, 'Black Bag.' They use the term to hide classified information about their job without lying. However, George wonders if Kathryn lied about the movie. He will investigate his colleagues and the love of his life. Can George uncover the rat and find Severus while keeping his marriage?<br/><br/>This movie is exciting in its simplicity. You don't get constant action like in Mission Impossible but an intriguing mystery with spies like Hercule Poirot. The opening scene has a hypnotizing tracking shot that follows George as he searches for Meacham. Every scene, conversation, and object has a purpose to the enigma. Unlike other thrillers, the script had two impactful meetings that involved all the suspects. The first is a dinner that allows George to probe for information. The second is the unveiling. This meeting is brisk but reveals a lot of information in five minutes. So keep your ears open. This movie will cause many spirited discussions and a few laughs while entertaining. Don't miss it.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0F35Q3N1Z"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/blackbag.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/blackbag.jpeg"
+    }
+  }
 */
