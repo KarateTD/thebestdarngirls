@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "Desire: A Temptations Story",
+    "review": "TV host Kendra concludes today's show and gets updates from her executive producer, best friend Natalie, and assistant, Emma, for tomorrow's taping. She then leaves the studio to visit her mother, Meredith, in the hospital. Meredith encourages Kendra to be strong because her time is near. Then, Meredith dies. Natalie found a refreshing spiritual retreat, and Emma booked the excursions. Natalie reminds Kendra that she must take her bodyguard, Charlie, because it's studio policy for international travel.<br/><br/>Kendra and Charlie arrive at the resort, and Charlie scans the room. Afterward, Kendra dismisses Charlie for the evening and sleeps. In the morning, Kendra goes to breakfast and spots Charlie across the restaurant. She asks the waitress to extend an invitation to Charlie, and he joins her. They share a laugh and food, but Kendra sees a handsome man sitting at another table. She recalls seeing him get out of a hot tub with a sexy physique.<br/><br/>Kendra and Charlie walk a trail. He encourages Kendra to walk ahead of him to receive the spiritual experience. Kendra strolls forward, and the handsome man, Malcolm, stumbles out of the woods. Within days, Malcolm and Kendra bond over grief, fall in love, get engaged, and marry. Charlie accepts their marriage to Kendra's face but believes something is wrong. He asks his friend, Ricky, to investigate Malcolm, his business, and his financials. Ricky thinks Charlie's fears stem from jealousy but moves forward with the investigation. Ricky returns with some harsh and frightening truths and alerts Charlie. Will Kendra believe Charlie, or will she choose Malcolm?<br/><br/>Before you get mad, listen to the opening sequence. Kendra admits she had a desperate desire for love. This moment of clarity gives the viewer a look into Kendra's redeeming quality. She takes accountability for her mistakes. The actors give a stellar performance with a mid-level script, and the sets are breathtaking. This movie feels like a Tyler Perry film with a Lifetime budget. Viewers should follow the protective Charlie to enjoy this film. Otherwise, Kendra's actions are infuriating.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/desireatemptationsstory.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/desireatemptationsstory.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Get Rich or Die Trying",
+    "review": "Manager Keely worries that her business partner, best friend Nicole, hasn't taken the time to grieve. Nicole doesn't want to mourn because she doesn't think her sister, Darcie, is missing. She needed to return to The Over Easy diner and cook to take her mind off her problems. Chef Nicole will prove it by cooking for a critic, Derrick, later that evening. Nicole cooks for Derrick, but he starts to choke. She left a bread tag inside his French toast. Keely comforts Nicole and begs her to take a break.<br/><br/>Nicole visits Darcie's home. She finds a notebook in a drawer, and a slip of paper falls. Darcie wrote a warning that her company, Sweet Co., kidnapped her. Nicole calls the Sweet Co.'s number and registers for the weekend seminar.<br/><br/>Nicole drives to the property, and the valet politely forces Nicole out of her vehicle. She enters the complex, and Candace greets her. Candace gives Nicole her tight schedule and stringent rules. Then, Nicole hears a commotion. The room becomes abuzz when everyone sees Melissa enter. Melissa welcomes her sweethearts before exiting.<br/><br/>Once Candace leaves, Nicole calls and updates Keely. Keely cautions Nicole about falling for their tactics. If Darcy could fall for their scheme, anyone could. Nicole assures Keely that she will persevere through their mind control. However, the allure may be too much. Can Nicole find Darcie before losing everything to this evil MLM?<br/><br/>This film starts slow, but has a captivating leader. The film follows the BITE model of authoritarian control. Sweet Co. is similar to NXIVM and LuLaRoe. They pull you in with the promise of growth and sisterhood, but it becomes all-encompassing. While the concept is strong, the title doesn't make sense unless you watch the movie from Melissa's perspective. The film takes an hour for the craziness to start. Until then, you get uncomfortable laughter and mediocre acting. This movie is watchable, but don't cancel plans.<br/><br/>3 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/getrichordietrying.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/getrichordietrying.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "Sins of the Bride",
+    "review": "Cassie kisses her fiancé, Jack, before going to work and reminds him about events later that evening. He forgot and had made other plans. Cassie asks if he's having cold feet because he shows little interest in their nuptials. He confirms that he's ready.<br/><br/>Cassie goes to the church, and the best man, Greg, is there. He stands in for the groom and gives Cassie a passionate hug. She asks Greg about Jack's apprehensions, but Greg swears Jack loves her.<br/><br/>The wedding day is here, but Jack isn't. The wedding party calls emergency services, but no one can find him. Cassie cries with humiliation because Jack stood her up. Greg finds Cassie and professes his love for her. They have sex. In her afterglow, Cassie gets a phone call from a hospital several towns over. Jack is there because someone beat him and left him for dead.<br/><br/>Cassie rushes to the hospital and finds Jack bruised and broken. Greg offers to move in with the couple to help care for Jack. Cassie attempts to argue but agrees. Greg promises not to mention their rendezvous. However, Greg has darker intentions. Will Cassie and Jack uncover Greg's desires before he exposes the bride's sins?<br/><br/>This movie defines 'the audacity' while it makes you clutch your pearls. The actors play with the gray areas of the script with all-knowing looks, secret histories, and lasting touches. The backing track and Ariel's observations will make the audience chuckle. You should watch this movie until the end for an extra dose of insanity.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinsofthebride.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinsofthebride.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "Hearts Around the Table: Kiki's Fourth Ingredient",
+    "review": "Kiki drops off her chocolate zucchini muffins at a local store. She rushes out to meet her family for dinner and accidentally bumps into a man, Clay, behind her. Clay buys a dozen.<br/><br/>Kiki meets the family for Sunday Supper and confirms she will cook for Jenna and Andrew's wedding. Jenna's concerned because Kiki hasn't cooked for 100 people before. Kiki tells Jenna she has everything under control. However, Kiki hides her fears.<br/><br/>Josh, Evan, and Andrew meet at a bar to discuss the stag party. Andrew doesn't want the traditional festivities. So, Evan promises to throw a low-key celebration. Then, the best man, Clay, joins them. Andrew informs the guys that Clay owns the 7 Basil restaurant and other establishments.<br/><br/>Kiki delivers several pizzas and almost drops one as Clay catches it. He introduces himself to her, and they laugh. Clay meets the family, and Kiki tells Shari about her run-in with Clay earlier. Clay pulls Kiki aside and offers to help with the wedding. Kiki says she's fine until Clay breaks down the logistics. She realizes she may need assistance. Clay offers to be a helping hand whenever she needs it. As they work together, they fall in love. But will Kiki's stubborn ways end their professional and personal relationship?<br/><br/>This final installment of the series brings back all three couples with one goal: a wedding. The romance between Kiki and Clay feels like a byproduct of the wedding's drama. Even the stag party has more interesting highs and lows than Kiki's problems. This film feels like a second Jenna and Andrew story, not Kiki's first. If Hallmark continues the Hearts franchise, hopefully, Kiki's tale will get a second shot.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/heartsaroundthetablekikisfourthingredient.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/heartsaroundthetablekikisfourthingredient.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "Not My Family: The Monique Smith Story",
     "review": "Monique returns home from work, and her mother, Elizabeth, takes her money. Monique begs for the cash because she needs to pay graduation expenses. Elizabeth refuses and beats her. Monique can't take the beatings anymore. She waits for Elizabeth to leave and searches Elizabeth's room. She finds her social security card, birth certificate, and cash. Then, Monique gets on the first bus out of town. She thinks it will be the first step in her new life. Unfortunately, she lands in the home of a pimp, Caroline.<br/><br/>During her exploitation, Monique finds love. She escapes Caroline, gets married, and gets pregnant. This happily-ever-after doesn't last. Monique leaves her husband and returns to Elizabeth's home. Elizabeth continues to be cruel, but Elizabeth's mother, Sarah, gives Monique unconditional love.<br/><br/>Later, Monique gives birth to her first child. She goes through the documentation with the nurse and asks how to find her birth certificate. Monique goes to the municipal building, but they don't have a record of her birth or death. Monique realizes that Elizabeth's mistreatment stems from a horrific truth: Monique is not her child. Monique will search for decades to find her family, the truth, and her name.<br/><br/>Based on I Am The Ancestor: Before I Die I Must Tell My Story by S. Monique Smith, this film will trigger your rage. Monique falls into abusive situations, looking for love. She becomes prey to molesters, pimps, and abusers looking for motherly affection. It's not until she has children that Monique sees Elizabeth's evil nature. The set designers ensured fashion and technology fell within the period. And the actors will invoke your compassion and rage. However, this movie should have a trigger warning for assault survivors. Monique's trauma is the beginning of her story, not the conclusion. She triumphs, creating a new legacy and cycle for her family and future generations. This film should spark a conversation about family secrets and ignorance.<br/><br/>5 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/notmyfamilythemoniquesmithstory.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/notmyfamilythemoniquesmithstory.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "There's No Way Out",
-    "review": "Nurse Shannon overhears Dr. Doug talking about one of her patients, Briar. Briar and her older sister, Juniper, emerged from the woods before Briar collapsed. Dr. Doug tests Briar and diagnoses her with severe tuberculosis. He suspects they haven't seen a doctor in years. Both girls scream when the social worker grabs Briar, and Shannon steps in. She and her husband, Rob, finished the paperwork to become foster parents. Shannon offers to foster the girls so they can stay together.<br/><br/>Shannon tells her husband, Rob, about the two girls. Juniper and Briar are fish out of water inside Shannon and Rob's home. However, Shannon and Rob spend quality time with each girl to acclimate them to their new surroundings. Juniper settles into her new life while Briar struggles.<br/><br/>Shannon and Rob get a call from Officer Edmunds because Juniper and Briar's parents, Stephen and Holly, arrived at the station demanding their children. The social worker informs Stephen and Holly that Juniper and Briar will remain in Shannon and Rob's custody until the court hearing. Stephen warns everyone to stay out of his family business before leaving the station with Holly. Later, Holly warns Shannon that Stephen is dangerous. He will do anything to get his family under his control. Can Rob and Shannon keep Juniper and Briar safe, or will Stephen's manipulation work?<br/><br/>This movie shows how people born into indoctrination differ from those who join. Briar keeps in contact with her parents, although Shannon and Rob provide a comfortable life for her. Juniper quickly adjusts to the new life and doesn't want to leave. This dynamic causes strife in Shannon and Rob's marriage. The conclusion is flowery, but the movie is mildly compelling.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theresnowayout.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theresnowayout.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "Aurora Teagarden Mysteries: A Lesson In Murder",
-    "review": "Teacher's Assistant Aurora helps Professor Lindo present the next assignment to their students. They need to write a paper on a poison used in a crime and how the police discovered it. After class, Aurora asks Kevin why he sleeps in class. Kevin's teammate, Tanner, explains that Kevin is training for the baseball team and isn't getting enough sleep. Then, Aurora overhears a conversation between Kevin and Kevin's girlfriend, Jenny. Jenny's ex-boyfriend, Owen, is following her.<br/><br/>Aurora ends the day in Professor Lindo's office when Lindo's former assistant, Cal, interrupts. He wants a letter of recommendation from Lindo, but she refuses. Cal gave students better grades, so Lindo fired him. Lindo got the tip for Kevin after several baseball players passed.<br/><br/>Aurora discovers her mother, Aida, got a job on campus. Professor Lindo and Aurora walk Aida around and catch Kevin and Tanner fighting. Tanner is furious because Kevin got his spot on the team. Kevin could lose his position on the team if he doesn't improve his grades in Professor Lindo's class. So, Aurora offers to help him. She asks Kevin to meet her at the diner to study the material.<br/><br/>Aurora arrives at the restaurant, but Kevin isn't there. Then, Professor Lindo arrives and tells Aurora that Kevin is sitting in his Mustang in the parking lot. They walk to the car and find Kevin dead. Aurora notices Kevin's skin is bluish. She thinks it's a sign of poisoning and tells Detective Cook and Officer Arthur.<br/><br/>Aurora goes home and recounts Kevin's encounters while Detective Cook and Arthur get a report from the medical examiner. Kevin's smoothie had sodium nitrate, a highly toxic substance. It confirms that someone poisoned and murdered Kevin. Detective Cook and Arthur examine the security footage and see four people handling Kevin's drink. Owen knocked it off the table, Cal made it, Tanner brought it to the table, and Jenny put something in it. Professor Lindo worries her 'true crime' literature course may have inspired a killer and wants to end the lecture. Aurora doesn't think Professor Lindo is to blame and wants to prove it by finding the culprit. Can Aurora unmask a killer?<br/><br/>Inspired by the Aurora Teagarden Mysteries, this installment has a fun chase, several suspects, and a twist you won't see coming. The college years add a new layer to a beloved character while allowing long-time fans to laugh at jokes about Aurora's future. The writer's love for the genre shines with two book mentions: Die, My Love, and Bitter Harvest. This second installment of the college years will make you fall in love with the series again. This film is more than a must-see. It's a guaranteed rewatch.<br/><br/>5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/aurorategardenalessoninmurder.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/aurorategardenalessoninmurder.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Sinister Surgeon",
-    "review": "Katelyn enters P and N Plastic Surgery to start her residency. Katelyn enters a hectic scene because the office manager, Lori, is yelling at two men in the lobby. Later, Lori explains the two men are Detective Elliot and former resident Brad. Katelyn will take over Brad's job because he did subpar work. And Detective Elliot has questions for one of their doctors. Katelyn meets Dr. Nichols. She is cold, rude, and impatient with Katelyn. Then, Lori introduces Katelyn to Dr. Jacob Peterson. Jacob is gentle, friendly, and open.<br/><br/>Katelyn and Jacob flirt while they work. Lori can't believe Katelyn's resemblance to Jacob's deceased wife. She knows it's a matter of time before they start dating. One morning, Katelyn gets in her car, and Detective Elliot sits in the passenger seat. He warns Katelyn that he's investigating Jacob because someone is killing Jacob's patients. While Elliot suspects Jacob, Katelyn believes he should look into Brad. Jacob's actions make Katelyn question his innocence. So, she delves deeper into his past. Will Katelyn find an innocent man or a sinister surgeon?<br/><br/>Viewers have to give this movie a fair chance. The setup feels predictable but offers an alluring twist. And a warning to the audience: the killing scene rivals a Criminal Minds episode. They offer blood, guts, and gore. It's unclear if the medical jargon is correct, but the acting makes it believable. Katelyn solely focuses on Brad, but you won't. Experienced Lifetimers can see through the fluff and decipher the killer and why. However, the plot has more to offer. So watch this film until the end.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinistersurgeon.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinistersurgeon.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Hearts Around the Table: Josh's Third Serving",
-    "review": "Angie's Hearts arrive for Sunday supper and to meet their new foster sister, Gina. Gina lived with her grandmother, Deidra, until Deidra developed mobility issues. Angie alerts the family that Gina will be a student in Josh's school, and Rory offers to show Gina around.<br/><br/>Josh arrives and sees the new English teacher, Ella, lost in the halls. He gives her guidance and volunteers more if she needs it. Ella teaches her first class and notices that Gina has issues concentrating. She helps Gina equate the theme of The Old Man and the Sea to playing the saxophone. Ella informs Gina that she's the music teacher too.<br/><br/>Ella enters the music room, and the smell of mold and lack of sunlight overcomes her. Ella takes the kids outside to play. Josh hears the sad sounds across the track and searches for the source. Josh and Ella argue about the disruption. Principal Gellar calms the situation and brings them to his office. Ella implores Principal Gellar to allocate more money to music, but Josh needs the funds for his team. They should attend the PTA meeting and state their case for more money.<br/><br/>The PTA will allocate the budget to one activity because the funds are scarce. Ella and Josh present their issues to the PTA. However, the vote is 50 50. Angie suggests having a fundraiser. For weeks, Josh and Ella have had several fundraising competitions. However, they discover they can do more if they band together. Can Josh and Ella save their programs while falling in love?<br/><br/>This third Hearts installment follows Josh as he falls in love with Ella. While their love story should take center stage, Gina's subplot garners attention. She loves music but has difficulty focusing in class. They must have Gina's grandmother sign the papers. This trip gives Gina and Kiki bonding time. Their car conversations will heal the soul and teach the viewer how to be kind to themselves. It's these moments that save this film. The conclusion eases Hallmarkies into the fourth installment.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/heartsaroundthetablejoshsthirdserving.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/heartsaroundthetablejoshsthirdserving.jpg"
     }
   }
 ];
@@ -57,7 +57,42 @@ module.exports = madeForTV;
 
 /*
 
-
+{
+"option": "1",
+"mtitle": "Fame: A Temptations Story",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/fameatemptationsstory.jpg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/fameatemptationsstory.jpg"
+}
+},
+{
+"option": "2",
+"mtitle": "Sins of My Husband",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinsofmyhusband.jpg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinsofmyhusband.jpg"
+}
+},
+{
+"option": "3",
+"mtitle": "Sugarcreek Amish Mysteries: Blessing in Disguise",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sugarcreekamishmsyteriesblessingindisguise.jpeg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sugarcreekamishmsyteriesblessingindisguise.jpeg"
+}
+},
+{
+"option": "4",
+"mtitle": "Journey to You",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/journeytoyou.jpeg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/journeytoyou.jpeg"
+}
+}
 
 
 */
