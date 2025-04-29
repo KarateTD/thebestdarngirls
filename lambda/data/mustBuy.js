@@ -1,6 +1,42 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Last Breath",
+    "review": "Chris Lemons spends time with his fiancée, Morag, planning paint colors for their baby's room. Morag expresses concern about Chris's job as a saturation diver, but Chris thinks it's cool. He reassures Morag that everything is okay before driving to Aberdeen Harbour. Chris greets friends on the ship and learns from fellow diver Duncan that they have a new Captain. Then, teammates tell Chris that 'Vulcan' is joining them on this dive. The divers meet with their coordinator, Craig. Craig divides the divers into four teams of three. Duncan, Chris, and the 'Vulcan' - whose name is Dave - are on team A..<br/><br/>The men spend time in the pod while the crew pressurizes it to prepare for their dive. After some time, each team makes the dive in their pod. They will take turns repairing the gas pipeline. They dive, and Craig chooses Team A to go to the subsea manifold first. Chris and Dave will dive while Duncan monitors their umbilical cables and air levels from above. Duncan opens the hatch, and the water rushes inside. He knows it's a sign of a 20-foot swell above. Craig confirms Duncan's suspicions, but the team continues.<br/><br/>While Chris and Dave work on the manifold, they don't know what's happening above until the umbilical cable retracts without Duncan's assistance. The thrusters on the ship failed, and the vessel, connected to their pod, drifts further into the sea. Dave and Chris climb the manifold as the ship pulls. Then, Chris's umbilical cable snags on the manifold. Duncan warns Chris that his cable will snap under the strain. Knowing that the vessel will pull him before he can help Chris, Dave tells Chris to climb the manifold after the cable breaks. He can't save Chris if he can't find him. His cable breaks. Chris falls, and the ship pulls Dave away. Dave rejoins a somber Duncan. They can't rescue Chris until the vessel stops drifting. Chris has 10 minutes of air before he dies. Can the vessel's crew stop the drift so Dave and Duncan can return to save Chris?<br/><br/>Based on the Last Breath documentary, this movie only gives the audience a brief moment to understand the characters and their work. However, it's enough to have you waiting with bated breath as they count down Chris's air supply. Your heart will drop when the countdown changes from time with air to time without it. The camera work doesn't make you the diver but turns you into a fish in the ocean. You swim around the divers while they work and struggle. This film will take you through a roller coaster of emotions without crass humor. This film is a must-see in theaters.<br/><br/>5 out of 5 stars.",
+    "asin": {
+      "re": "B0DXFZ3Z17"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/lastbreathmovie.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/lastbreathmovie.jpeg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Paddington in Peru",
+    "review": "Paddington in Peru was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0DWH9BG2Q"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/paddingtoninperu.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/paddingtoninperu.jpeg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "The Unbreakable Boy",
+    "review": "Scott gets help from his imaginary friend, Joe, to work up the courage to ask out a beautiful woman, Teresa, who works at the store. Scott can't take his eyes off Teresa's striking blue eyes. She accepts but notices he keeps items in a straight line and evenly taps his feet. Three dates later, Teresa is pregnant with their first child. However, she admits she's worried. Teresa has osteogenesis imperfecta type 1, and it's genetic. Scott reassures Teresa the baby will be fine.<br/><br/>Scott and Teresa have their son, Austin, who they lovingly call Auz-man. After Auz-man suffers his first break, nurses and doctors discover he has osteogenesis imperfecta. A few years later, Scott and Teresa have another son named Logan. Logan's birth spotlighted the differences between Logan and Auz-man. They have Auz-man tested and discover he has autism. Auz-man's surmounting bills and mood swings become unpredictable. Scott talks to Joe about his fathering ability. As Scott questions himself, he turns to a vice to feel better. He has to overcome his fear of failure as a father to live like Auz-man.<br/><br/>Based on the novel The Unbreakable Boy: A Father's Fear, a Son's Courage, and a Story of Unconditional Love by Scott Michael LeRette with Susy Flory, this movie will bring a tear to your eye and make you feel seen. The script allowed the audience to enter into deeply personal moments. Scott and Teresa were open and honest about their failures and successes in their relationship and parenthood. This film will take viewers through heartbreak and healing. It's beautiful.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0DSR3QYXP"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theunbreakableboy.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theunbreakableboy.jpg"
+    }
+  },
+  {
+    "option": "4",
     "mtitle": "Sonic the Hedgehog 3",
     "review": "Tom, Maddie, Tails, and Knuckles throw Sonic a surprise B-EARTH-Day party to celebrate the day he landed on the planet. Tom and Maddie revel in the quiet when a beam of light comes from a helicopter. Director Rockwell exits and asks for Team Sonic's help. An alien escaped a private base in Tokyo. And they can't catch him. Sonic, Tails, and Knuckles board the helicopter.<br/><br/>Team Sonic lands in Tokyo and can't believe the alien standing before them looks like Sonic. His name is Shadow. Sonic chases after him, but Shadow outsmarts him. The team meets Commander Walters at a restaurant.<br/><br/>Commander Walters explains that Shadow landed on Earth 50 years ago inside a meteorite. They hid him in a top-secret base to study his powers under the guidance of a professor. The professor's granddaughter, Maria, bonded with Shadow and became best friends. Then, an accident at the base took Maria's life. Now that Shadow is free, he wants revenge for Maria.<br/><br/>Hours ago, someone hacked their system and lowered their defenses. Reports state that Dr. Robotnik's symbol emerged on the screen during the hack. Then, Robotnik's drones enter the restaurant and aim for the team after fatally wounding Commander Walters. Walters hands Sonic a key to a powerful weapon. A motorcyclist rides into the restaurant, incapacitates the attack drones, and exits. The team follows the cyclist until he stops. It's Agent Stone. He says someone framed Dr. Robotnik, and he has proof.<br/><br/>Agent Stone takes the team to Dr. Robotnik's lair. When he learns someone stole his tech, Dr. Robotnik chooses to work with Team Sonic to find the culprit. However, he needs something from Sonic. Sonic rolls his eyes and pulls out a quill. This unlikely mash-up must stop Shadow's revenge and keep the key out of the wrong person's hands.<br/><br/>It may be unbelievable, but this film is the best of the trilogy. First, this adventure is worldwide. Second, this film is about the toxic nature of anger and revenge. Third, this movie respects its core audience by referencing old tech, movies, and jokes. However, it doesn't forget its new fans. The movie kept a steady pace while introducing new characters. The plot didn't waste time recapping the last films. This film is an animated action-adventure comedy for the whole family with mid- and post-credit scenes.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -12,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "5",
     "mtitle": "One of Them Days",
     "review": "One of Them Days was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -21,42 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/oneofthemdays.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/oneofthemdays.jpeg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "Companion",
-    "review": "Iris awakens after a long drive to a rustic small cabin in the woods with her boyfriend, Josh, in the driver's seat. Kat answers the door but gives Iris the cold shoulder. Iris and Josh greet Patrick as he cooks, and Patrick's boyfriend, Eli, offers Iris and Josh hugs. Later, Kat's boyfriend, Sergey, descends the stairs and welcomes everyone to his home.<br/><br/>After dinner, Iris sits with Kat and asks about her relationship with Sergey. Kat admits Sergey is a terrible boyfriend and husband, but he has money. She dislikes what Iris represents: Kat's replacement. The couples turn in for the night, and Josh and Iris make love. Afterward, Iris professes her undying love to Josh, and he tells her to go to sleep.<br/><br/>Iris wakes up and prepares for an evening on the beach with Josh. However, he doesn't want to go. Iris walks to the beach chairs and breathes in the morning air. She puts her hands in her pocket and pulls out a switchblade. Sergey joins Iris. Later, Iris returns to the cabin with a large blood stain on her shirt. Josh demands answers. Iris explains that Sergey attacked her, and she defended herself. Iris didn't care about dying but was afraid not to see Josh again. Josh tells Iris to go to sleep, and she powers down.<br/><br/>Josh and Patrick tie Iris to a chair, and Josh asks to be alone with Iris to say goodbye. He wakes Iris up and explains that she is his companion robot from Empathix Robotics. They will explain to the police that Iris killed someone. Empathix will label her defective and turn her off. Iris cuts herself free and escapes from the house with Josh's phone. Patrick sees Iris escape and warns the others. Josh says they must get Iris back. If Empathix examines her, they will see he jailbroke Iris to make her more aggressive and go against her factory settings. He and Kat planned Sergey's murder and asked Patrick and Eli to come to strengthen their alibi. Can Iris escape them before they destroy her?<br/><br/>This movie is leaps and bounds better than the trailer. The trailer gives viewers one plot twist. However, there are several. This plot leans into the warnings of artificial intelligence and the dehumanization of people while being bloody and funny. The script touches on the importance of autonomy, the pitfalls of entitlement, and why you should read the user agreement without being preachy. This film isn't a horror movie but falls in the same category as M3GAN. It's a thought-provoking, bloody, cringy good time. You can also take a date.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0DTQ921YB"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/companion.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/companion.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Mufasa: The Lion King",
-    "review": "Simba runs to find Nala and leaves their daughter, Kiara, with Rafiki, Timon, and Pumbaa. Kiara dreams she could be as strong as her grandfather. Rafiki explains that Mufasa wasn't always a king. Rafiki sits Kiara down and tells the story of her grandfather, Mufasa: The Lion King.<br/><br/>Mufasa and his parents, Afia and Masego, are living through drought. Mufasa's mother, Afia, tells Mufasa that the drought won't last forever. Until then, he should look at the horizon. Beyond the light is a land called Milele. Everything in Milele flows in abundance. Then, the rain falls. Mufasa and his family go to the watering hole with the other animals. Later, they hear a rumble and see a flood. An elephant hits the dam, and the water sweeps Mufasa away.<br/><br/>Mufasa struggles on a branch when a cub, Taka, appears. He is the son of King Obasi and Obasi's mate, Eshe. Taka saves Mufasa and brings him ashore. Eshe tells Taka to leave Mufasa alone because Obasi doesn't like strays. Eshe has compassion for the cub and brings Mufasa to the pride. Obasi wants to eat Mufasa, but Mufasa says he is too fast. Obasi creates Taka's first challenge to prove he can be a king. If Taka beats Mufasa in a race, Obasi will eat Mufasa. If Mufasa wins, then he can stay with their pride. They race, but Eshe sees that Taka lets Mufasa win. Obasi keeps his promise but tells Mufasa he must live with the females.<br/><br/>As Taka and Mufasa grow, their brotherly bond becomes tighter, much to Obasi's displeasure. Taka wants to learn how to hunt like Mufasa, but Obasi says his place is sleeping on a rock, protecting the pride. When Obasi falls asleep, Taka follows Eshe to learn. They hear others approaching but don't have time to escape. Mufasa saves Eshe while Taka runs away.<br/><br/>The remaining white lion returns to the leader, Kiros. With a lowered head, the surviving lion explains that Mufasa killed Kiros's son while saving Eshe. Then, he pledges vengeance for his son.<br/><br/>Mufasa can smell Kiros and his pride coming. Eshe tells Taka and Mufasa to leave and protect each other. Kiros believes there can only be one king. They slaughter Obasi's pride. However, Kiros knows the lion who killed his son isn't there. He orders his pride to track Mufasa and Taka. He vows to kill the pair, avenge his son, and become the king.<br/><br/>This Lion King prequel starts with a tribute to James Earl Jones. Then, it transports the audience to Pride Rock. It's not Mufasa's story alone. It's the tale of two brothers, entitlement, courage, and the king's court. By staying with the pride's females, Mufasa learned lessons that separated him from the others. Mufasa's journey mirrors Simba's. He leaves home for safety and finds friends along the way. The graphics far surpass the live adaptation of The Lion King, and the voice acting is stellar. The music flows wonderfully with the theme, although it drowns out the vocal performances. Also, the backing track makes the room vibrate and crescendos with the sun. This film is an astounding prequel.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0DW47PXBF"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mufasathelionking.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mufasathelionking.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Love Hurts",
-    "review": "Realtor Marvin bakes cookies before riding his bike to his next house showing. Marvin's assistant, Ashley, calls to remind Marvin about the office Valentine's Day party.<br/><br/>After the house showing, Marvin arrives with leftover heart-shaped cookies for the staff. He opens a red envelope with a note saying Rose is back. Dumbfounded, Marvin asks Ashley to give him some alone time in his office. Marvin walks through the door and wakes up. Marvin lifts his head to see assassin Raven sitting on the couch reading poetry. Raven only has one question for Marvin: where's Rose? Marvin says he doesn't know and fights. He asks Cliff to borrow his car and drives home.<br/><br/>Marvin quickly bags clothes and money. Then, hitmen King and Otis break in and attack. They want to know why Marvin didn't kill Rose as Marvin's brother, Knuckles, instructed. Years ago, Rose was Knuckle's accountant and kept his dirty money clean. However, Knuckles discovered she stole $4,000,000 from him. Marvin took the hit because Marvin secretly loved Rose. He told her to hide and never return. Marvin did the same. Marvin escapes Otis and King, but Rose shocks Marvin with a stun gun before he makes it to Cliff's car.<br/><br/>Marvin wakes up with a new shirt in the back of a club. He finds Rose serving drinks at the bar. She is tired of hiding because 'hiding ain't living.' Rose found information to prove she didn't steal Knuckle's money. So she sent Valentine's Day cards to Knuckles and everyone in his inner circle to announce her return. She wants Marvin to reclaim his hitman life, end Knuckle's crew, and control the empire. However, Marvin is happy with his new life. With Rose announcing her return, Knuckles wants his goons to bring them to him alive. What path will Marvin choose, and will he live to see it?<br/><br/>This film is a Valentine's Day movie that has something for everyone. It has true love, betrayal, and violence. The highly choreographed fights will remind the audience of Kill Bill. The director used interesting point-of-view angles from inanimate objects. However, the cuts make the stunt doubles and wire work obvious while taking away from the cinematography. The writers used the holiday to inject some much-needed humor into the script. While the film has flaws, it will entertain you and become your go-to Valentine's Day movie.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0DVTJKVR2"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/lovehurts.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/lovehurts.jpg"
     }
   }
 ];
@@ -102,24 +102,11 @@ module.exports = mustBuy;
     "mtitle": "Drop",
     "review": "Drop was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
-      "re":""
+      "re":"B0F3FQZLPJ"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/drop.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/drop.jpeg"
-    }
-  }
-
-   {
-    "option": "1",
-    "mtitle": "Paddington in Peru",
-    "review": "Paddington in Peru was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0DWH9BG2Q"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/paddingtoninperu.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/paddingtoninperu.jpeg"
     }
   }
 
@@ -198,32 +185,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thefireinside.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thefireinside.jpeg"
-    }
-  }
-
-   {
-    "option": "5",
-    "mtitle": "The Unbreakable Boy",
-    "review": "Scott gets help from his imaginary friend, Joe, to work up the courage to ask out a beautiful woman, Teresa, who works at the store. Scott can't take his eyes off Teresa's striking blue eyes. She accepts but notices he keeps items in a straight line and evenly taps his feet. Three dates later, Teresa is pregnant with their first child. However, she admits she's worried. Teresa has osteogenesis imperfecta type 1, and it's genetic. Scott reassures Teresa the baby will be fine.<br/><br/>Scott and Teresa have their son, Austin, who they lovingly call Auz-man. After Auz-man suffers his first break, nurses and doctors discover he has osteogenesis imperfecta. A few years later, Scott and Teresa have another son named Logan. Logan's birth spotlighted the differences between Logan and Auz-man. They have Auz-man tested and discover he has autism. Auz-man's surmounting bills and mood swings become unpredictable. Scott talks to Joe about his fathering ability. As Scott questions himself, he turns to a vice to feel better. He has to overcome his fear of failure as a father to live like Auz-man.<br/><br/>Based on the novel The Unbreakable Boy: A Father's Fear, a Son's Courage, and a Story of Unconditional Love by Scott Michael LeRette with Susy Flory, this movie will bring a tear to your eye and make you feel seen. The script allowed the audience to enter into deeply personal moments. Scott and Teresa were open and honest about their failures and successes in their relationship and parenthood. This film will take viewers through heartbreak and healing. It's beautiful.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0DSR3QYXP"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theunbreakableboy.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theunbreakableboy.jpg"
-    }
-  }
-    
-   {
-    "option": "5",
-    "mtitle": "Last Breath",
-    "review": "Chris Lemons spends time with his fiancée, Morag, planning paint colors for their baby's room. Morag expresses concern about Chris's job as a saturation diver, but Chris thinks it's cool. He reassures Morag that everything is okay before driving to Aberdeen Harbour. Chris greets friends on the ship and learns from fellow diver Duncan that they have a new Captain. Then, teammates tell Chris that 'Vulcan' is joining them on this dive. The divers meet with their coordinator, Craig. Craig divides the divers into four teams of three. Duncan, Chris, and the 'Vulcan' - whose name is Dave - are on team A..<br/><br/>The men spend time in the pod while the crew pressurizes it to prepare for their dive. After some time, each team makes the dive in their pod. They will take turns repairing the gas pipeline. They dive, and Craig chooses Team A to go to the subsea manifold first. Chris and Dave will dive while Duncan monitors their umbilical cables and air levels from above. Duncan opens the hatch, and the water rushes inside. He knows it's a sign of a 20-foot swell above. Craig confirms Duncan's suspicions, but the team continues.<br/><br/>While Chris and Dave work on the manifold, they don't know what's happening above until the umbilical cable retracts without Duncan's assistance. The thrusters on the ship failed, and the vessel, connected to their pod, drifts further into the sea. Dave and Chris climb the manifold as the ship pulls. Then, Chris's umbilical cable snags on the manifold. Duncan warns Chris that his cable will snap under the strain. Knowing that the vessel will pull him before he can help Chris, Dave tells Chris to climb the manifold after the cable breaks. He can't save Chris if he can't find him. His cable breaks. Chris falls, and the ship pulls Dave away. Dave rejoins a somber Duncan. They can't rescue Chris until the vessel stops drifting. Chris has 10 minutes of air before he dies. Can the vessel's crew stop the drift so Dave and Duncan can return to save Chris?<br/><br/>Based on the Last Breath documentary, this movie only gives the audience a brief moment to understand the characters and their work. However, it's enough to have you waiting with bated breath as they count down Chris's air supply. Your heart will drop when the countdown changes from time with air to time without it. The camera work doesn't make you the diver but turns you into a fish in the ocean. You swim around the divers while they work and struggle. This film will take you through a roller coaster of emotions without crass humor. This film is a must-see in theaters.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0DXFZ3Z17"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/lastbreathmovie.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/lastbreathmovie.jpeg"
     }
   }
 
