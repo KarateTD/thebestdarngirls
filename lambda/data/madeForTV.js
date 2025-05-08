@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
-    "mtitle": "Fame: A Temptations Story",
-    "review": "The Jordan Sisters, a singing duo, perform for an intimate crowd before their interview. In the ride to their rental home, sisters Cherish and Roxy admit that unprompted images of their deceased father, Ray, threw them off during their performance. Their manager, Cherish's husband, Bryan, and publicist, their cousin, Halle, assure the sisters that the interview will go well. Halle meets with the duo's social media specialist, Iris, and confirms that she will post the interview. However, Roxy doesn't trust Iris because Iris is a part of Cherish's insane fan club, The Flock.<br/><br/>The Jordan Sisters sit with reporter Kelly, and the interview goes well until Kelly asks if Roxy is having an affair with Bryan. Bryan reiterates that he isn't having an affair, and Cherish believes him.<br/><br/>Cherish sees the affair rumor on her Instagram page. Iris admits she reposted the article to garner sympathy. Cherish can't believe Iris broke her trust, so she fires Iris. Later, Bryan surprises Cherish with stupendous news. A promoter offered the duo a Vegas residency. Halle and Bryan try to talk Roxy into it, but Roxy won't budge.<br/><br/>Roxy visits a bar to clear her mind and meets an old friend, country singer Nate. They laugh and drink before Roxy invites Nate to come home with her. Roxy gets a horrific surprise when she enters the home. She finds Halle hurt, Cherish bound and gagged, and Bryan unconscious. Several assailants broke into their home and stole valuable items. The detectives arrive and question Roxy. Detective Alverez catches a Freudian slip, and Roxy becomes their number one suspect. However, Roxy isn't guilty only to the police. The Flock wants to take her down too. Can Roxy prove her innocence before she loses her career, sister, and freedom?<br/><br/>This movie saves the best for last. The casting director ensured the leads could sing, and the music director offered original songs. These elements gave this film a unique feel while unveiling secrets in the music industry. This script feels childish and petty until the final reveal. The mastermind will have you hit the rewind button. This film is a musical delight with an average plot but a popcorn-worthy conclusion.<br/><br/>3 out of 5 stars.",
+    "mtitle": "I'm Your Biggest Fan",
+    "review": "Delilah notices her students are distracted and questions them. They found a blog post with Delilah's picture. She was a teen actress on a popular TV show that lasted 5 seasons. Although the network canceled the show years ago, it found a second life on streaming. New and old fans are clamoring for a reboot of the series. The studio listened and offered the previous cast their jobs, but Delilah didn't sign on.<br/><br/>Later, producer Barry and Delilah's mother, Miranda, attempt to entice Delilah but to no avail. Fans leave nasty comments when they learn she is the only holdout. Delilah tries to ignore the online hate until it enters reality with a rock through her window and threats in her mailbox. The police offer little comfort, so Delilah runs to her favorite coffee shop.<br/><br/>Delilah's regular barista, Ellen, commiserates with Delilah. Then, Ellen offers Delilah a place to stay while Delilah waits for the police to find the culprit. Delilah, in fear for her life, graciously accepts Ellen's offer and moves into Ellen's apartment. Ellen hides her obsession with Delilah and the TV show well. She gained Delilah's trust and will never let her go. Can Delilah escape Ellen's clutches?<br/><br/>Ellen's deranged fantasies have a root cause. She grew up in an abusive home and delved deeper into the show to escape. Delilah's world as Chelsea appears easy and carefree because the character's problems end in 30 minutes. Delilah's reality is less glamorous. The script gives the audience painful backstories, so you sympathize with both characters. Ellen is unhinged but very smart. Ellen outthinking Delilah at every turn while maintaining a job is funny. This plot, acting, and fight scenes make this movie a comedy more than a thriller. So viewers should come for the chills and stay for the laughter.<br/><br/>3.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/fameatemptationsstory.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/fameatemptationsstory.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/imyourbiggestfan.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/imyourbiggestfan.jpg"
     }
   },
   {
     "option": "2",
-    "mtitle": "Sins of My Husband",
-    "review": "Katherine eats dinner with her husband, Tony, a real estate agent, when he gets an alert from one of his properties. She watches him leave with a sigh. In the morning, Katherine walks to the store, and a woman, Brenda, hands her a flyer for a missing teen named Suzie. Suzie's mother, Doreen, approaches with a grief-stricken look on her face. She pleads with Katherine to watch for Suzie, and Katherine agrees.<br/><br/>Katherine eats dinner with Tony and gently asks to sell pies to make extra money. Tony rejects the idea because he doesn't want his wife to work. He opens the hidden closet and explains that he has to clean a property. Katherine inquires why it can't wait until the morning. Tony says it will be faster because he doesn't have to deal with other people.<br/><br/>Hours later, Detective Harrison arrests Katherine. Tony kidnapped and attempted to murder Suzie. The police shot and killed Tony in a standoff. He was the town's serial killer. They hold Katherine overnight to question her. However, Detective Harrison determines he doesn't have enough evidence to charge Katherine with a crime and releases her.<br/><br/>Katherine returns home to a trashed house. She encounters Doreen while attempting to buy dinner and apologizes. To Katherine's surprise, Doreen appears at her front door with food. She extends an olive branch of sympathy. Katherine accepts because she needs a friend. Someone tossed a rock through her window with a threatening note before Doreen arrived. Doreen returns home and warns Suzie to leave Katherine alone. She recognized Suzie's handwriting on the note. Suzie can't believe her mother is helping her kidnapper's wife. Doreen tells Suzie she will understand everything when she's older. Until then, Doreen will continue to provide a comforting shoulder to Katherine throughout this tumultuous time. And Katherine will need it. Someone wants revenge for Tony's sins, and they will kill to get it.<br/><br/>This movie starts where others end. Suzie breaks free of Tony's clutches, and the police kill him within the first commercial break. The connection between Doreen and Katherine drives the movie's plot. As the story continues, viewers are unsure who's harassing Katherine. They assume she must have known, and they want to drive her out of town. This film will solve a mystery within an enigma and backtrack to clues you missed. The plot is original and saves this picture. The audience should give it a try.<br/><br/>3.5 out of 5 stars.",
+    "mtitle": "Snatched from the Crib",
+    "review": "Gabby approaches her stepsister's home. She hasn't heard from her pregnant stepsister, Eliza, and knows Eliza should have given birth by now. Gabby doesn't know the baby's father, but Eliza calls him Blue.<br/><br/>Gabby goes to Eliza's job to talk to her co-workers. Her boss, Kate, voices concern for Eliza's whereabouts. Kate informs Gabby that Eliza worked closely with Kate's ex-husband, Aiden. Then, Eliza's husband, Jake, enters. He doesn't know much about Eliza but offers to help.<br/><br/>Gabby returns to Eliza's home and wonders if she ever knew her. Then, Gabby gets a terrifying call. The police found Eliza's body, but her baby girl is missing. Gabby is determined to uncover who killed Eliza and locate her niece. The first step is uncovering Blue's identity. Will Gabby find the truth before she loses her niece, too?<br/><br/>The plot describes Gabby and Eliza as caring but not close. Gabby lived in Paris, while Eliza resided stateside. It's understandable why these stepsisters maintained a distance and had secrets. The clues lead to several suspects, but they won't fool seasoned Lifetimers. The title makes zero sense, the culprit's motives are standard, and the sleuthing is too easy. This movie's saving grace is the realistic conclusion. The audience will breathe a sigh of relief. However, viewers should leave this movie on the back burner.<br/><br/>2 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinsofmyhusband.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinsofmyhusband.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/snatchedfromthecrib.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/snatchedfromthecrib.jpg"
     }
   },
   {
     "option": "3",
-    "mtitle": "Sugarcreek Amish Mysteries: Blessing in Disguise",
-    "review": "Cheryl left Chicago for Sugarcreek after her engagement ended with heartbreak. She will run her Aunt Mitzi's store while Mitzi is in New Guinea. Sugarcreek has a thriving Amish community that happily interacts with the English. Mitzi tells Cheryl that her best friend, Naomi, will show Cheryl around the store.<br/><br/>Cheryl arrives and meets Naomi and Naomi's daughter, Esther. Esther works in the store and can assist Cheryl. Later, Cheryl meets Ester's brother, Levi, and father, Seth. Cheryl's first day at the shop is tough, but Naomi promises that tomorrow will be better.<br/><br/>Cheryl and Naomi's family attend a grand re-opening of a local restaurant. Cheryl sees a customer, Rachel, with her husband, Samuel, and son, Jack, at the party. The diner's owner, Kathy, pulls Rachel aside to see her new oven. When Rachel returns, her baby is gone. Rachel screams. Chief Twitchell questions partygoers while Cheryl stealthily inspects the stroller. She spies blue paint on it and alerts Chief Twitchell. Chief Twitchell thanks Cheryl for the clue but warns her 'to leave the police work to him.' Cheryl abides by his order until the police arrest Levi. Now, Cheryl wants to use her love for True Crime to prove Levi's innocence. And she has an unforeseen ally, Naomi. Can these women find Jack, or will Levi go to jail?<br/><br/>Based on Blessing in Disguise and Where Hope Dwells, this film flawlessly combines two mysteries into one story. The first mystery is discovering the reverse robber. Someone is leaving handmade toys in Mitzi's shop. However, that pales in comparison to the kidnapping. While the plot is compelling, advanced viewers will uncover the culprit before the reveal. The acting is charming, while the script respects Amish culture. This film is a wholesome whodunit for the family.<br/><br/>4 out of 5 stars.",
+    "mtitle": "Murder at the Derby",
+    "review": "Horse trainer Reggie tells his assistant, Kara, that he must let her go. However, he isn't firing her but giving her a better opportunity with Rosemont Farms. The COO, Jenny, wants new blood to train her horses. The farm isn't profitable after Jenny's brother, Stephen, acquired horrible deals.<br/><br/>Jenny introduces Kara to the horses and her nephew, Justin. Later, Kara meets the family's matriarch, Evelyn, and Jenny's brother, Stephen. Kara overhears the Rosemont family's antagonistic relationship. Stephen believes the company should be his and that his family fights against him. However, Evelyn grows tired of his antics. She tells Stephen she will leave Jenny in charge and write him out of the will. He drugs and smothers Evelyn before she changes her will. However, he's still under Jenny's control. He will take down anyone or anything in his path and has the perfect scapegoat: Kara. Can Kara uncover his evil deeds before the police send her to jail for murdering Evelyn?<br/><br/>This movie has everything Lifetimers crave. The body count isn't high, but the drama reels you into the plot. Viewers will revel in Jenny's take-charge attitude and Evelyn's steady hand. While Stephen is the antagonist, you won't be able to ignore him. His suits, voice, and slick hair make him a villain from head to toe. Kara isn't a wilting flower. She fights back and won't allow Stephen to scare her. Fans will love this film from beginning to end. It's old-school Lifetime that the fans deserve.<br/><br/>5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sugarcreekamishmsyteriesblessingindisguise.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sugarcreekamishmsyteriesblessingindisguise.jpeg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/murderatthederby.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/murderatthederby.jpg"
     }
   },
   {
     "option": "4",
-    "mtitle": "Journey to You",
-    "review": "Nurse practitioner Monica meets with her mother, Olivia, for lunch. Olivia can feel Monica's stress. Monica is upset because her hard work didn't pay off. She didn't get a highly coveted promotion. Olivia encourages Monica to take time off and participate in the Camino de Santiago pilgrimage.<br/><br/>Monica arrives in Spain and receives her pilgrim passport. She looks for her guide, Consuelo, but can't find her. Consuelo introduces Monica to her other travel mates, Ernesto, Ernesto's son, Luis, and Luis's son, Mateo. The three continue to bicker.<br/><br/>They walk the path, but Monica believes she can make better time alone and saunters ahead. She takes a moment to sit and falls backward, losing her shoe. The group catches up to her, and Mateo finds her shoe. Luis offers to put it on, but Monica says no. Then he asks if she ever lets someone help her. He grabs her shoe and puts it on her foot. Monica will spend the next 30 days connecting with his family in more ways than one by letting faith guide the way.<br/><br/>This DaySpring movie puts faith at the forefront while entertaining with a love story. People usually say, 'Enjoy the journey,' but Monica has that experience. Every step of the way, faith guides their journey. Monica does fall into the Hallmark standard of a woman who works too much. She differs because she doesn't go to a small town but on a spiritual 30-day walk. Also, the relationship between the three men is a unique storyline for Hallmark. The journey looks transcendent and will inspire others. The dialogue is average but heartfelt. This film should be shared and discussed.<br/><br/>4.5 out of 5 stars.",
+    "mtitle": "The Love Club Moms: Tory",
+    "review": "Tory arrives at the school of her goddaughter, Mara, and runs into Mara's mom, friend Nila. Tory is excited to share that she adopted a baby girl, Alison. But widow Nila escaped so Mara wouldn't see her tears. As Tory comforts Nila, they hear a scream. It's Heather. Her husband, Lance, asked for a separation. Nila focuses on Heather and urges Tory to join her. The three see soon-to-be principal Jo talking with a flirty teacher. A passerby calls them The Love Club. Confused, the four women - Tory, Nila, Heather, and Jo - look behind them and see a banner with those words written on it. They decide to work together to support each other through love, work, and friendship. Their first task is to help Tory find a nanny.<br/><br/>Finn arrives at Lipton Publishing with his manuscript. He requests to see Tory, but her assistant puts the manuscript at the bottom of Tory's 'read' pile. Finn leaves and drives to Tory's home. Finn knocks on the door, and Tory answers with the Love Club nearby. They assume he's there to interview for the nanny position. Tory hires him after he saves Alison's life, and Finn goes home without saying a word.<br/><br/>Tory returns to the office and greets her father. Her father introduces Tory to Greg. He runs the publishing company's London offices. Tory runs to the Love Club and tells her friends that Greg checks most of her boxes. She needs to determine if he will be a good dad. As the Love Club gets to know Finn more, they think he is the perfect man for Tory. Jo warns them that Tory will hold on to Greg unless they prove he's not Mr. Right. Will the Love Club make the love connection before Tory uncovers Finn's ulterior motives?<br/><br/>This film is the first part of a four-part series. It gives viewers a brief introduction to each Love Club member and their different positions in life. The ladies are funny as they meddle in Tory's life to distract Greg and promote Finn. The first interaction between Finn and the Love Club is comedy gold. However, the script fizzles after the first interaction and falls into the love story clichés. The plot, like the conclusion, becomes dreadfully predictable. Hopefully, the upcoming three movies will offer more.<br/><br/>3.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/journeytoyou.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/journeytoyou.jpeg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theloveclubmomstory.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theloveclubmomstory.jpeg"
     }
   },
   {
     "option": "5",
-    "mtitle": "Desire: A Temptations Story",
-    "review": "TV host Kendra concludes today's show and gets updates from her executive producer, best friend Natalie, and assistant, Emma, for tomorrow's taping. She then leaves the studio to visit her mother, Meredith, in the hospital. Meredith encourages Kendra to be strong because her time is near. Then, Meredith dies. Natalie found a refreshing spiritual retreat, and Emma booked the excursions. Natalie reminds Kendra that she must take her bodyguard, Charlie, because it's studio policy for international travel.<br/><br/>Kendra and Charlie arrive at the resort, and Charlie scans the room. Afterward, Kendra dismisses Charlie for the evening and sleeps. In the morning, Kendra goes to breakfast and spots Charlie across the restaurant. She asks the waitress to extend an invitation to Charlie, and he joins her. They share a laugh and food, but Kendra sees a handsome man sitting at another table. She recalls seeing him get out of a hot tub with a sexy physique.<br/><br/>Kendra and Charlie walk a trail. He encourages Kendra to walk ahead of him to receive the spiritual experience. Kendra strolls forward, and the handsome man, Malcolm, stumbles out of the woods. Within days, Malcolm and Kendra bond over grief, fall in love, get engaged, and marry. Charlie accepts their marriage to Kendra's face but believes something is wrong. He asks his friend, Ricky, to investigate Malcolm, his business, and his financials. Ricky thinks Charlie's fears stem from jealousy but moves forward with the investigation. Ricky returns with some harsh and frightening truths and alerts Charlie. Will Kendra believe Charlie, or will she choose Malcolm?<br/><br/>Before you get mad, listen to the opening sequence. Kendra admits she had a desperate desire for love. This moment of clarity gives the viewer a look into Kendra's redeeming quality. She takes accountability for her mistakes. The actors give a stellar performance with a mid-level script, and the sets are breathtaking. This movie feels like a Tyler Perry film with a Lifetime budget. Viewers should follow the protective Charlie to enjoy this film. Otherwise, Kendra's actions are infuriating.<br/><br/>3.5 out of 5 stars.",
+    "mtitle": "Signed, Sealed, Delivered: To the Moon and Back",
+    "review": "The POstables meet at Ramon's restaurant for brunch. Rita and Shane notice that the other isn't enjoying a mimosa. They're pregnant. Ramon approaches the table as the four celebrate with a well-worn letter that his crew found during renovations. They open the letter at the table and read its contents. The sender didn't leave their name or identifiable information.<br/><br/>The POstables return to the Dead Letter Office with the letter, and Charley is there with her baby. They give Charley the letter, and she recognizes some of the wording as lyrics. The singer, Nate, stated that he writes his songs. However, the letter proves otherwise. They discover he's performing in Las Vegas. So, Norman rents an RV, and the POstables take their show on the road.<br/><br/>The POstables arrive in Las Vegas and catch Nate backstage. He admits the truth. He was in love with a talented runaway named Tracy. She wrote songs and had an incredible voice. However, she didn't want to be in the spotlight. She confessed that she had to hide from something terrible. Tracy kissed him and told him to check his mailbox. Since then, Tracy has sent him music with changing P.O. box information for payment. Nate believes Tracy wrote the letter. The POstables are on a mission to find Tracy and the intended recipient. They will unleash devastating secrets and create cascading pain, causing them to wonder if they should deliver this letter.<br/><br/>This Signed, Sealed, Delivered movie has the POstables questioning their job for the first time. They must fulfill their duties as federal authorities while sympathizing with the writer's plight. They discover that doing the right thing may not always feel good. While this mystery focuses on a moral dilemma, the two subplots center around Oliver. Oliver contends with the father who stayed versus the one who left. This mental struggle happens often in today's socio-political climate. This heartfelt discussion is a first for the series that avoids honest issues. It's wonderful to see the writers grow. They allowed the audience and characters to get uncomfortable, acknowledge the feeling, and deal with it maturely. This picture will be a favorite in the series.<br/><br/>5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/desireatemptationsstory.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/desireatemptationsstory.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/signedsealeddeliveredtothemoonandback.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/signedsealeddeliveredtothemoonandback.jpg"
     }
   }
 ];
@@ -59,38 +59,47 @@ module.exports = madeForTV;
 
 {
 "option": "1",
-"mtitle": "I'm Your Biggest Fan",
+"mtitle": "The Baby My Husband Lied About",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/imyourbiggestfan.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/imyourbiggestfan.jpg"
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thebabymyhusbandliedabout.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebabymyhusbandliedabout.jpg"
 }
 },
 {
 "option": "2",
-"mtitle": "Snatched from the Crib",
+"mtitle": "The Jane Mysteries: Murder at Moseby",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/snatchedfromthecrib.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/snatchedfromthecrib.jpg"
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thejanemysteriesmurderatmoseby.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thejanemysteriesmurderatmoseby.jpg"
 }
 },
 {
 "option": "3",
-"mtitle": "Murder at the Derby",
+"mtitle": "Secret Life of the Dean's Wife",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/murderatthederby.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/murderatthederby.jpg"
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/secretlifeofthedeanswife.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/secretlifeofthedeanswife.jpg"
 }
 },
 {
 "option": "4",
-"mtitle": "The Love Club Moms: Tory",
+"mtitle": "The Love Moms Club: Jo",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theloveclubmomstory.jpeg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theloveclubmomstory.jpeg"
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelovemomclubjo.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelovemomclubjo.jpg"
+}
+},
+{
+"option": "5",
+"mtitle": "Hats Off to Love",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/hatsofftolove.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/hatsofftolove.jpg"
 }
 }
 
