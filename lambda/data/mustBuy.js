@@ -213,4 +213,30 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/blackbag.jpeg"
     }
   }
+
+   {
+    "option": "1",
+    "mtitle": "Sinners",
+    "review": "Guitarist Sammie leaves the cotton fields for home and searches for his guitar. Pastor Jebediah admits to taking it. He fears evil will prey on his son if Sammie continues to play the devil's music. Sammie won't let Jebediah's worries deter him. He takes his guitar and exits the church. His cousins, twins Elijah 'Smoke' and Elias 'Stack' Moore, wait for him.<br/><br/>Everyone in Clarksdale, Mississippi, knows the Smokestack Twins are not to be trifled with. They fought in World War 1 and worked with mobsters in Chicago. They recently bought a sawmill and will turn it into a juke joint tonight. Smoke and Stack want Sammie to play at their establishment.<br/><br/>The crowd gathers at the juke joint for fun, singing, and dancing. Soon, Stack gets word that his ex-girlfriend, Mary, is in attendance. Stack tells her to leave, but Mary refuses.<br/><br/>During the performances, three people approach the juke joint. Remmick, Bert, and Joan heard Sammie's performance and wanted to play. However, the twins don't believe they will be comfortable and could cause trouble, so they don't invite the trio inside. Mary discovers the twins haven't made enough money and wants to meet the trio to determine trustworthiness. The juke joint is about to dance with the devil. Will they survive?<br/><br/>This movie turns the overworked vampire genre into something special with the 1930s backdrop and spectacular score. The film opens with a brief introduction to a shared folklore. There's music so enchanting that it can pierce the veil between the past and future, the living and the dead, and invite evil. As the tune plays, the director adds past and present music styles along with different types of dancers. It makes the opening sequence come to life and transports you into the world in between. Also, the scenes with the twins interacting are nearly flawless, but the blood scenes are a bit over the top. This movie is captivating, educational, and a tad scary. However, stay for the mid and post-credit scenes. The director, writers, and composers made this film for the big screen.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0F3QH38WP"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinners.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinners.jpg"
+    }
+  }
+
+  {
+    "option": "2",
+    "mtitle": "Thunderbolts",
+    "review": "Yelena completes another mission for CIA Director Valentina but doesn't feel fulfilled. So, she visits her father, Alexei, the Red Guardian, for help. He tells her the best way to feel fulfilled is to do good for her country. Yelena leaves Alexi and calls Valentina. She agrees to do one more job and then become a public figure. Valentina tells Yelana to go to an Ox Corp black site and destroy everything inside, including a target.<br/><br/>Valentina stands before Congress for her impeachment trial. She warns them that the Avengers are gone. They must create new heroes to protect the Earth. Valentina leaves the hearing with her assistant, Mel. She tells Mel to clean everything they can use against her in the hearing.<br/><br/>Congressman Bucky Barnes attends a Battle of New York exhibit with Valentina and Congressman Gary. Bucky runs into Mel and gives her his business card. Then, Bucky pulls Gary aside. He tells Gary that Mel may switch sides. However, Gary wants Bucky to focus on his job.<br/><br/>Yelena arrives at the black site. Then, John Walker hits her. She retaliates but stops because he is not her target. However, she is his. During their battle, Ava, the Ghost, appears and attacks John because Valentina hired her to kill him. They battle, and Taskmaster appears. Ava kills Taskmaster in the battle. The remaining three continue to fight and accidentally hit a button on a box. The box opens and releases Bob. Ava, John, and Yelena argue until they realize that Valentina set them up to kill each other and wipe her slate clean.<br/><br/>Mel second-guesses Valentina's leadership when Valentina instructs Mel to kill her operatives. However, Mel alerts Valentina that they survived and released Bob. She demands that Mel get her to the site and save Bob, but everyone else can die. Valentina and Mel don't know that Alexei is their driver. He drops them off and rushes to warn Yelena. Mel calls Bucky and gives him the details. He rushes to find the three and brings them to the hearing as evidence of Valentina's crimes. Yelena, Bucky, Red Guardian, Ava, and John Walker will form the Thunderbolts. They assume their enemy is Yelena. However, they will battle the void inside all of them.<br/><br/>Marvel fans, you asked for a more story-driven and gritty MCU. This movie delivers. The opening sequence changed. It only includes pages from the comic books. Then, the music and image go dark. Most of the audience has experienced feelings of loneliness, nothingness, sadness, shame, and even depression. This film is the physical manifestation of that. The film's quips are original, funny, and perfectly acted and timed. The only downfall is the first battle scene between Bob and the Thunderbolts. It's reminiscent of Hulk and Loki. It's cartoonish and overly computerized at a time of seriousness. If this is the new direction of the MCU, then they need to stay on this path. Viewers should remain for the mid and post-credit scenes.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thunderbolts.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thunderbolts.jpg"
+    }
+  }
 */
