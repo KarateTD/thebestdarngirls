@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "I Was Honey Boo Boo",
+    "review": "Alana 'Honey Boo Boo' Thompson was the youngest child of Mama June and Sugar Bear. She lived with her two sisters, Jessica and Pumpkin, but Alana was the apple in Mama June's eye. Alana was a proud pageant girl. She wanted to do Glitz Pageants, but Mama June couldn't afford them. Alana won her first pageant and, along with Mama June, garnered the attention of a TV scout.<br/><br/>At their second pageant, a scout pulled them aside and asked if they wanted to be on a show called Toddlers and Tiaras. She signs Alana up for the TV show and the Glitz Pageants. Alana has one-on-one sessions with producers while Mama June watches. Alana says her catchphrase, and it takes the nation by storm. Soon, the producers call Mama June to give Alana a reality show called Here Comes Honey Boo Boo. Alana feels her mother's acceptance and pride for the first time. She believes everything will be better. However, her family will fall prey to transactional love, emotional abuse, neglect, and addiction with the world watching.<br/><br/>This movie is the first time Alana recounts her life for herself. It's for fans and non-fans of the family and their shows. The producers found actors who could mimic their well-documented accents and mannerisms. Also, Alana's narrations give the film much-needed authenticity. The plot digs into the darkest moments in Alana's life and captures how she felt then and now. It's easy for viewers to see this picture as a takedown of Mama June. However, it's a love letter for Pumpkin. While this film focuses on Alana's life, it's a searing indictment of children in reality. They need more protection and counseling because their parents sign them up for long-term judgment and ridicule that they will never understand. This movie deserves your undivided attention because you will never view reality TV the same.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/iwashoneybooboo.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/iwashoneybooboo.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "The Nanny Sees All",
+    "review": "Grace converses with her husband, James, before meeting her friend, Andrea, at Andrea's diner. Andrea helped Grace get a nanny job with Mayor Alex. Grace will care for Alex and Emily's son, Andy. Andrea sees Alex outside and alerts Grace to growing tension in Rivertown. Someone shot and killed a young woman, Yasmine, and the police haven't caught the culprit. Alex mentions juggling fatherly and mayoral duties, and Grace offers to help by picking up Andy from school. Alex breathes a sigh of relief and gives Grace his keys.<br/><br/>Grace picks up Andy and drives to the mayor's estate. She brings Andy home and meets Alex's family and staff members. Mayor Alex and his wife, Emily, live with Alex's mother, Vivian. She is cold and distant with everyone but Alex and Andy. Alex's housekeeper, Louise, and the house chef, Colin, care for the family and love working for Alex. Vivian reminds Andy about his class project. Andy speaks proudly about his Italian heritage. Grace decides to use DNA testing as part of his project.<br/><br/>Grace meets with Andrea for lunch while Andy's at school. During their conversation, a woman, Victoria, walks to their table with choice words and a warning about Mayor Andy. Andrea informs Grace that Victoria was Andy's nanny until Yasmine died. Victoria and Yasmine were best friends, and Yasmine was Andy's nanny before Victoria.<br/><br/>Grace prepares Andy for a fun day at the park but notices he looks distressed. She assures Andy he will be okay. Then, Andy runs to Grace in a panic. She looks at the lake and sees Andy's ball floating next to a dead body. Detective Crossman arrives on the scene and identifies the body as Victoria. Grace thinks something's wrong. The family had two women connected to them die within months of each other. She keeps her job to care for Andy but falls into the culprit's crosshairs. Can Grace survive?<br/><br/>This movie offers Lifetime's usual suspects. The audience's mind races as they cycle through the clues. The test results will bring everything to a screaming halt. However, the results bring another twist to the film. Grace must solve a moral dilemma and a crime. The mystery gives the viewers a well-constructed recap to review clues they missed. This story is well crafted, but the audience will beg Grace to leave. No part-time job is worth this much stress. The picture is enjoyable, but the twists and turns can cause whiplash.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thenannyseesall.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thenannyseesall.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "The Love Club Moms: Harper",
+    "review": "Harper and Lance arrive with their children, Tyler and Phoebe, to attend Phoebe's play. After the children walk to the stage, Lance tells Harper they shouldn't sit together because it will give the kids the wrong impression. Harper runs to the bathroom to scream. She exits and greets Tory and Nila. She alerts them that Lance asked for a separation. Then, they run into Jo and form the Love Club.<br/><br/>After seven months of separation, Lance stops by Harper's house to pick up the kids. Then, Lance asks Harper for a divorce. Harper jumps on the phone and texts the Love Club for lunch. She meets them and gives a sunny outlook on her future. However, her joyful disposition doesn't fool them.<br/><br/>Harper has a barbecue, but few people attend. Her friends believe that people are at Councilman Colin's party. Harper barges into Colin's event with the Love Club and demands to know why he threw his event on her day. He informs her that he didn't know about her barbecue before. He likes her tenacity and wants Harper to join his campaign. Harper refuses. The Love Club advises Harper to work with him because she can complete her city initiatives faster. Harper reconsiders working with Colin but doesn't know the Love Club has an ulterior motive. They see the love in Colin's eyes and hope Harper feels the connection too.<br/><br/>Harper and Colin work well together until his campaign manager convinces Colin to take credit for Harper's idea. Instead of joining Colin, she decides to beat him by running for councilwoman of their town. Will Harper and Colin's battle hinder the Love Club's plan?<br/><br/>The third installment of the Love Club Moms is the best of the series thus far. It's funny, thought-provoking, and lovable. Harper and Colin are two sides of the same coin. This dynamic makes them great teammates, opponents, and entertainment. While Harper does get petty, it only attracts Colin more and makes him want to change. Fortunately, they have the Love Club playing puppet master, and they will make you laugh out loud. This script is funnier, more relatable, and more mature than the others.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": " https://thebestdarngirls.s3.amazonaws.com/small-image/theloveclubmomsharper.jpeg",
+      "largeImageUrl": " https://thebestdarngirls.s3.amazonaws.com/large-image/theloveclubmomsharper.jpeg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "Love in the Clouds",
+    "review": "Business reporter Brooklyn works for a local news station. She inserts fun into her segments, but the producer, Mary, doesn't like it. Brooklyn shares her frustrations with her videographer, Elise. Elise tells Brooklyn about a lifestyle job in New Mexico. Later, Mary calls Brooklyn into her office. The reporter Mary selected to cover the International Balloon Fiesta can't go. She asks Brooklyn to go instead and report back. Mary knows that attendees booked the hotels months in advance. So, she will work on finding a place for them to stay.<br/><br/>Jared runs a Romantic Hot Air Balloon ride business with his cousin Carlos. The bookings are slow, but Jared is confident they will pick up after the Fiesta. Then, Jared gets a call from Mary. He will allow Elise and Brooklyn to stay at his home, but he doesn't want his personal life to be a part of the story. Mary updates Brooklyn but tells Brooklyn to find the story that Jared is hiding.<br/><br/>Brooklyn and Elise arrive in Albuquerque, New Mexico, and travel to Jared's home. Elise can see the attraction. Brooklyn learns Jared is jaded about love and leaks the information to Mary. Mary wants him to be the focal point, or she will fire Brooklyn. However, Brooklyn doesn't believe she can do it because she's falling in love with him. Can Brooklyn report the story without losing Jared's trust, or will she give up her job?<br/><br/>This movie informs the audience about the Fiesta, the box, the International Balloon Museum, Paws and Stripes, and Green Chili while having two subplots. However, the information is better than most of the movie. Nevertheless, the process of Jane and Brad figuring out their next phase in life makes you fall in love with the script. Jane works her magic on Brad and the two couples around her. You will cheer for her. Also, there is a cute love story involving Elise and Carlos that doesn't overshadow Jared and Brooklyn. This film is what Hallmarkies expect and nothing more.<br/><br/>3 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/loveintheclouds.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/loveintheclouds.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "The Baby My Husband Lied About",
     "review": "Spencer and Jennifer arrive at the home of Spencer's parents, Annabel and William, for their 40th wedding anniversary party. Then, Spencer asks if today is the best day to announce their first pregnancy. Jennifer says no because it's too soon. She wants to keep it between them for a little longer.<br/><br/>Jennifer greets Annabel and William before making an uncomfortable excuse to walk away. Then she sees Spencer's cousin, Marcus, and Marcus's wife, Carrie, across the room. Jennifer doesn't understand the growing tension between Marcus and Spencer but won't let that dismantle her friendship with Carrie.<br/><br/>Marcus slinks to Jennifer's side and hands her an envelope. He demands to talk privately to her afterward, and she agrees. Jennifer waves to her fertility specialist, Dr. Clark, but he doesn't return the gesture. Then, Spencer tells everyone that they will have a baby soon. Annabel jumps for joy and gushes over a cringing Jennifer. She can't believe he revealed their secret.<br/><br/>Later, Jennifer leaves to meet Marcus on the steps. She screams when she finds his body at the landing. The family calls the police, and they start the investigation. Jennifer overhears Spencer lying to the police and demands to know why. He didn't want to air his dirty laundry.<br/><br/>A day later, she tells Carrie about the letter Marcus gave her. She drums up the courage to open it, and it states that Spencer is sterile. She blames the fertility clinic. Until they have answers, she won't tell Spencer. Jennifer deduces that this could be the reason someone murdered Marcus. Can Jennifer and Carrie uncover the truth?<br/><br/>This family is messy, and every commercial break brings more drama. The writer depends on shock value to drive the story. The family scenes are dark and dreary, but moments with Carrie are full of light. This lighting choice gives the viewer a window into Jennifer's emotional state. This film is an entertaining time killer with one unforeseen twist during the killer's monologue. This picture is for you if you love drama. Otherwise, leave it for a rainy day.<br/><br/>3 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thebabymyhusbandliedabout.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebabymyhusbandliedabout.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "The Jane Mysteries: Murder at Moseby",
-    "review": "Jane reads files when an old schoolmate, ex-boyfriend Anthony, comes knocking. Anthony is a professor at their alma mater. He reminds Jane that the school is throwing their annual Edgar Allen Poe festival. The festival conjures some old memories for him because they performed at the first one. Anthony took pictures of the cast and crew that night. He swore he saw a masked person load a body into a trunk, and he took a picture. Recently, he developed the film from that night, and the photo confirmed his suspicions. Jane looks at the image and wants to take the case, but Detective John believes the item in the trunk could be anything. Jane convinces John to research old missing persons' files while she goes undercover to research the school's archives. After John and Anthony leave, Sadie sits Jane down for a heart-to-heart conversation. Jane's parents died the night of the first festival, and she ended her relationship with Anthony as a result. Jane reassures Sadie that she will be honest about her feelings during this time. Can Jane uncover the mystery behind Anthony's photo?<br/><br/>This installment in the series doesn't start with a crime because Jane doesn't know if one happened. While it's a new angle for Jane, the story feels disconnected from its fans. While the plot hints at the exploitation and discrimination of immigrants, the ending feels less dramatic. The singing and acting are stupendous, but the story misses the mark. This installment's sole purpose was to introduce a new clue about the murder of Jane's parents.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thejanemysteriesmurderatmoseby.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thejanemysteriesmurderatmoseby.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "Secret Life of the Dean's Wife",
-    "review": "Margaret attends a faculty party with her husband, Dean Dr. Richard. She meets Richard's mentee, Jessica, and an old friend, Alex. Alex left freelance journalism behind for a stable career at the university. Margaret converses until she gets a phone call from campus police. The police arrested Margaret and Richard's daughter, Emily, for underage drinking. Margaret leaves Richard at the party to retrieve their daughter.<br/><br/>The officer lets Emily off with a warning because she's the dean's daughter. Margaret drives home and goes to bed, but Richard doesn't come home until the morning. He tells her he turned off his notifications as Emily returns to apologize.<br/><br/>Christine gossips about the night's excitement to Margaret at work. Jessica overdosed after the party, and Richard took her to the hospital. Margaret confronts Richard about it while Emily questions the campus's silence with Alex. The school rants about underage drinking but sweeps overdoses under the rug. He encourages her to dig for the story but to be careful. Curiosity gets the better of Margaret after she finds a key in Richard's belongings, and she follows Jessica home. The key opens Jessica's door. She finds Jessica unconscious on the floor, surrounded by pills. Someone hits Margaret on the head after she calls the police. When Margaret wakes up, the ambulance is there, but Jessica is dead. Margaret recalls that Jessica was alive and thinks her attacker killed Jessica. She and Emily dig into Jessica's life to unveil her killer. Will they continue their search when all clues point to Richard?<br/><br/>Most of the film's leads are unlikeable characters. They are flawed people who deserve each other. Emily starts as a brat, but the conclusion justifies her feelings. In the end, you will only care about her. The investigation into Richard is dull and dominates the film. The plot had an opportunity to entertain because Emily and Margaret investigate Richard separately, but the reveal is disappointing. Viewers can skip this film.<br/><br/>2.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/secretlifeofthedeanswife.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/secretlifeofthedeanswife.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "The Love Moms Club: Jo",
-    "review": "Jo works with her students in the theater. She learns from a co-worker that the acting principal is retiring, and the next best choice is her. As she excuses herself, Karim follows. As Harper, Nila, and Tory approach, he asks her out on a date. Before she can say yes, she forms the Love Club.<br/><br/>Six months later, Principal Jo and Karim are dating. Jo is happy, but Karim's marriage discussions make her nervous. Jo has a frequent visitor, Simon, in her office and asks Simon's parents to visit. Jo sees Simon's father, Ryan, and begins arguing with Ryan. The Love Club witnesses the interaction and sees the love in their eyes. As Ryan leaves, the Love Club looks to Jo for an explanation. Jo tells them that she and Ryan got married after high school and got it annulled a week later. She refuses to say more.<br/><br/>Later, Karim and Jo play Yahtzee. Jo rolls, and a ring falls out. She says yes because it's the practical choice. The Love Club is excited about the engagement, but they, excluding Harper, think Ryan is a better option. They are determined to help Jo pick the right man for her before she walks down the aisle. However, Ryan's secret will turn Jo's world upside down.<br/><br/>In this second installment, viewers should prepare to feel bad for Karim. He is a kind man who wants the best for Jo. The writers attempted to make him weird so you dislike him, but they built him up too high first. It feels like Jo is cheating on him as she falls in love with Ryan. Then, the twist is supposed to give her a reprieve, but Jo didn't know about it before. Having the first segment start like Tory's but from Jo's perspective was a great idea. It grabs your attention and makes you look forward to the remaining two films. This Love Club still doesn't outshine the first, but it's funny.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelovemomclubjo.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelovemomclubjo.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Hats Off to Love",
-    "review": "Milliner Stella sneaks into Rosalind's hotel room. She hopes to meet the socialite and present her with a hat. Stella believes that Rosalind can elevate her career. However, Rosalind's son, Christian, is in the room and assumes she is bringing room service. She hides but leaves her hat on the tray. Rosalind enters with her stylist, Odette, and her assistant, Hannah. Rosalind spots the hat after Stella sneaks out. She loves it and believes it will be a great look for her. Christian speaks up and tells Rosalind the maker is in the lobby. He catches up to Stella, and Rosalind hires Stella to make hats for the upcoming Louisiana Derby events, including the hat competition.<br/><br/>Stella meets with Odette and Hannah. Stella feels like a fish out of water. She finds Christian at the stables attempting to calm a horse he wants to race in the Derby, but the horse bucks at authority. Stella relaxes the animal and admits she wishes Louisiana society were as easy. Christian has an idea. He will help her acclimate to high society if she assists him with the horse. Stella agrees to the arrangement but gets love in return.<br/><br/>This film wasn't a great choice for Hallmark. Even for a romantic comedy, it was slow and uneventful. There were moments of pettiness, but there wasn't a reason beyond mean girl hijinks. Also, Stella is a pushover. Another failing mark of this film is the poorly executed Southern accents. Hallmarkies can skip this film.<br/><br/>2.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/hatsofftolove.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/hatsofftolove.jpg"
     }
   }
 ];
@@ -58,39 +58,40 @@ module.exports = madeForTV;
 /*
 
 {
-"option": "1",
-"mtitle": "I Was Honey Boo Boo",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/iwashoneybooboo.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/iwashoneybooboo.jpg"
-}
+"option":"1",
+"mtitle":"Secret Life of the Surgeon's Wife",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/secretlifeofthesurgeonswife.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/secretlifeofthesurgeonswife.jpg"
+  }
 },
 {
-"option": "2",
-"mtitle": "The Nanny Sees All",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thenannyseesall.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thenannyseesall.jpg"
-}
+"option":"2",
+"mtitle":"Girl Taken",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/girltaken.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/girltaken.jpg"
+  }
 },
 {
-"option": "3",
-"mtitle": "The Love Club Moms: Harper",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": " https://thebestdarngirls.s3.amazonaws.com/small-image/theloveclubmomsharper.jpeg",
-  "largeImageUrl": " https://thebestdarngirls.s3.amazonaws.com/large-image/theloveclubmomsharper.jpeg"
-}
+"option":"3";
+"mtitle":"The Love Moms Club: Nila",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/theloveclubmomsnila.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/theloveclubmomsnila.jpg"
+  }
 },
 {
-"option": "4",
-"mtitle": "Love in the Clouds",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/loveintheclouds.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/loveintheclouds.jpg"
+"option":"4",
+"mtitle":"Love on the Danube: Love Song",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveonthedanubelovesong.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveonthedanubelovesong.jpg"
+  }
 }
-}
+
 */

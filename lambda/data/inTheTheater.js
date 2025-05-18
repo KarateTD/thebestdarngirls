@@ -1,13 +1,13 @@
 var inTheTheaters = [
   {
-"option": "1",
-"mtitle": "Shadow Force",
-"review": "Isaac inserts his hearing aids while his son, Ky, questions Isaac about his scars. Isaac answers honestly and tells his son they came from bad guys—the same bad guys keeping Ky's mother, Kyrah, away. Ky admits that he misses Kyrah. Isaac promises that Kyrah will come home when she can.<br/><br/>Isaac takes Ky to the bank, and several armed people enter. He asks the robber to let Ky walk to him, but the robber points his gun at Ky's head. Isaac removes his hearing aids and unleashes his wrath on the bank robbers. He grabs Ky and exits the bank while taking stock of the cameras.<br/><br/>The bank footage goes viral. Newly-appointed Secretary General Cinder views it and goes into a rage. He briefs the heads of several governments about an elite group of assassins he created called Shadow Force. They operated with one rule: they couldn't leave. Kyrah and Isaac defected when she got pregnant. Cinder will double the bounty on Isaac and Kyrah.<br/><br/>Kyrah sits alone and watches the video. She thinks back to the day she left Isaac and Ky. She knew Cinder wouldn't stop hunting them. So, she vowed to hunt each member of the Shadow Force. Kyrah knew they wouldn't see her coming because no mother would leave their child. With Isaac's cover blown, she must locate her family and protect them from Cinder. If she fails, she will lose everything.<br/><br/>An audience wouldn't expect an action film on Mother's Day, but this film is a bloody hug to moms everywhere. Ky is the unexpected comic relief in this film. The plot overreaches for its runtime. The script attempts to add a twist but gives the audience too much foreshadowing. The fight scenes are intentionally blurry but add comedy to distract. While the script and action have flaws, it's an endearing action movie with old-school love and solid family values, but not for younger viewers.<br/><br/>3 out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/shadowforce.jpeg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/shadowforce.jpeg"
-}
-},
+    "option": "1",
+    "mtitle": "Shadow Force",
+    "review": "Isaac inserts his hearing aids while his son, Ky, questions Isaac about his scars. Isaac answers honestly and tells his son they came from bad guys—the same bad guys keeping Ky's mother, Kyrah, away. Ky admits that he misses Kyrah. Isaac promises that Kyrah will come home when she can.<br/><br/>Isaac takes Ky to the bank, and several armed people enter. He asks the robber to let Ky walk to him, but the robber points his gun at Ky's head. Isaac removes his hearing aids and unleashes his wrath on the bank robbers. He grabs Ky and exits the bank while taking stock of the cameras.<br/><br/>The bank footage goes viral. Newly-appointed Secretary General Cinder views it and goes into a rage. He briefs the heads of several governments about an elite group of assassins he created called Shadow Force. They operated with one rule: they couldn't leave. Kyrah and Isaac defected when she got pregnant. Cinder will double the bounty on Isaac and Kyrah.<br/><br/>Kyrah sits alone and watches the video. She thinks back to the day she left Isaac and Ky. She knew Cinder wouldn't stop hunting them. So, she vowed to hunt each member of the Shadow Force. Kyrah knew they wouldn't see her coming because no mother would leave their child. With Isaac's cover blown, she must locate her family and protect them from Cinder. If she fails, she will lose everything.<br/><br/>An audience wouldn't expect an action film on Mother's Day, but this film is a bloody hug to moms everywhere. Ky is the unexpected comic relief in this film. The plot overreaches for its runtime. The script attempts to add a twist but gives the audience too much foreshadowing. The fight scenes are intentionally blurry but add comedy to distract. While the script and action have flaws, it's an endearing action movie with old-school love and solid family values, but not for younger viewers.<br/><br/>3 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/shadowforce.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/shadowforce.jpeg"
+    }
+  },
   {
     "option": "2",
     "mtitle": "Sinners",
@@ -57,6 +57,34 @@ module.exports = inTheTheaters;
 
 /*
 
+{
+"option": "1",
+"mtitle": "Final Destination Bloodlines",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/finaldestinationbloodlines.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/finaldestinationbloodlines.jpg"
+}
+}
+
+{
+"option": "1",
+"mtitle": "Mission: Impossible - The Final Reckoning",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/missionimpossiblethefinalreckoning.jpeg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-imagemissionimpossiblethefinalreckoning.jpeg"
+}
+},
+{
+"option": "2",
+"mtitle": "Lilo and Stitch",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/liloandstitch.jpeg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/liloandstitch.jpeg"
+}
+}
 
 
 */
