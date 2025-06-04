@@ -138,6 +138,19 @@ module.exports = mustBuy;
 
   {
     "option":"1",
+    "mtitle":"The Life of Chuck",
+    "review":"The Life of Chuck was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin":{
+      "re":""
+    },
+    "image":{
+    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thelifeofchuck.jpeg",
+    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thelifeofchuck.jpeg"
+    }
+    }
+
+  {
+    "option":"1",
     "mtitle":"Novocaine",
     "review":"Novocaine was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin":{
@@ -206,7 +219,7 @@ module.exports = mustBuy;
     "mtitle": "Sinners",
     "review": "Guitarist Sammie leaves the cotton fields for home and searches for his guitar. Pastor Jebediah admits to taking it. He fears evil will prey on his son if Sammie continues to play the devil's music. Sammie won't let Jebediah's worries deter him. He takes his guitar and exits the church. His cousins, twins Elijah 'Smoke' and Elias 'Stack' Moore, wait for him.<br/><br/>Everyone in Clarksdale, Mississippi, knows the Smokestack Twins are not to be trifled with. They fought in World War 1 and worked with mobsters in Chicago. They recently bought a sawmill and will turn it into a juke joint tonight. Smoke and Stack want Sammie to play at their establishment.<br/><br/>The crowd gathers at the juke joint for fun, singing, and dancing. Soon, Stack gets word that his ex-girlfriend, Mary, is in attendance. Stack tells her to leave, but Mary refuses.<br/><br/>During the performances, three people approach the juke joint. Remmick, Bert, and Joan heard Sammie's performance and wanted to play. However, the twins don't believe they will be comfortable and could cause trouble, so they don't invite the trio inside. Mary discovers the twins haven't made enough money and wants to meet the trio to determine trustworthiness. The juke joint is about to dance with the devil. Will they survive?<br/><br/>This movie turns the overworked vampire genre into something special with the 1930s backdrop and spectacular score. The film opens with a brief introduction to a shared folklore. There's music so enchanting that it can pierce the veil between the past and future, the living and the dead, and invite evil. As the tune plays, the director adds past and present music styles along with different types of dancers. It makes the opening sequence come to life and transports you into the world in between. Also, the scenes with the twins interacting are nearly flawless, but the blood scenes are a bit over the top. This movie is captivating, educational, and a tad scary. However, stay for the mid and post-credit scenes. The director, writers, and composers made this film for the big screen.<br/><br/>4.5 out of 5 stars.",
     "asin": {
-      "re": "B0F3QH38WP"
+      "re": "B0F3QYVK1N"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinners.jpg",
