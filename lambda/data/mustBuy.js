@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Sinners",
+    "review": "Guitarist Sammie leaves the cotton fields for home and searches for his guitar. Pastor Jebediah admits to taking it. He fears evil will prey on his son if Sammie continues to play the devil's music. Sammie won't let Jebediah's worries deter him. He takes his guitar and exits the church. His cousins, twins Elijah 'Smoke' and Elias 'Stack' Moore, wait for him.<br/><br/>Everyone in Clarksdale, Mississippi, knows the Smokestack Twins are not to be trifled with. They fought in World War 1 and worked with mobsters in Chicago. They recently bought a sawmill and will turn it into a juke joint tonight. Smoke and Stack want Sammie to play at their establishment.<br/><br/>The crowd gathers at the juke joint for fun, singing, and dancing. Soon, Stack gets word that his ex-girlfriend, Mary, is in attendance. Stack tells her to leave, but Mary refuses.<br/><br/>During the performances, three people approach the juke joint. Remmick, Bert, and Joan heard Sammie's performance and wanted to play. However, the twins don't believe they will be comfortable and could cause trouble, so they don't invite the trio inside. Mary discovers the twins haven't made enough money and wants to meet the trio to determine trustworthiness. The juke joint is about to dance with the devil. Will they survive?<br/><br/>This movie turns the overworked vampire genre into something special with the 1930s backdrop and spectacular score. The film opens with a brief introduction to a shared folklore. There's music so enchanting that it can pierce the veil between the past and future, the living and the dead, and invite evil. As the tune plays, the director adds past and present music styles along with different types of dancers. It makes the opening sequence come to life and transports you into the world in between. Also, the scenes with the twins interacting are nearly flawless, but the blood scenes are a bit over the top. This movie is captivating, educational, and a tad scary. However, stay for the mid and post-credit scenes. The director, writers, and composers made this film for the big screen.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0F3QYVK1N"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinners.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinners.jpg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "Novocaine",
     "review": "Novocaine was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "Drop",
     "review": "Drop was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "Black Bag",
     "review": "British Intelligence Officer George meets with his boss, Meacham, in an alleyway. Meacham informs George that a nuclear program called Severus leaked. He gives George a list of five people with the knowledge, skill, and clearance level to obtain Severus. George's wife, Kathryn, is on the list. George vows to find the mole in a week.<br/><br/>George returns home and plans a dinner with the suspects. However, he warns Kathryn to avoid one item because it contains drugs. Agents James, Zoe, Freddie, and Clarissa arrive. James and Freddie are field agents. James is in a relationship with agency psychiatrist Dr. Zoe, and Freddie is dating satellite analyst Clarissa. As the drugs take effect, everyone becomes unencumbered and reveals secrets. After everyone leaves, George finds a movie ticket stub for Dark Window in the trash.<br/><br/>George and Kathryn prepare for work. He asks her to go to the movies with him to see Dark Window. She states that she hasn't heard of it. She will be on a mission tomorrow. George inquires about it, but she says, 'Black Bag.' They use the term to hide classified information about their job without lying. However, George wonders if Kathryn lied about the movie. He will investigate his colleagues and the love of his life. Can George uncover the rat and find Severus while keeping his marriage?<br/><br/>This movie is exciting in its simplicity. You don't get constant action like in Mission Impossible but an intriguing mystery with spies like Hercule Poirot. The opening scene has a hypnotizing tracking shot that follows George as he searches for Meacham. Every scene, conversation, and object has a purpose to the enigma. Unlike other thrillers, the script had two impactful meetings that involved all the suspects. The first is a dinner that allows George to probe for information. The second is the unveiling. This meeting is brisk but reveals a lot of information in five minutes. So keep your ears open. This movie will cause many spirited discussions and a few laughs while entertaining. Don't miss it.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Last Breath",
     "review": "Chris Lemons spends time with his fiancée, Morag, planning paint colors for their baby's room. Morag expresses concern about Chris's job as a saturation diver, but Chris thinks it's cool. He reassures Morag that everything is okay before driving to Aberdeen Harbour. Chris greets friends on the ship and learns from fellow diver Duncan that they have a new Captain. Then, teammates tell Chris that 'Vulcan' is joining them on this dive. The divers meet with their coordinator, Craig. Craig divides the divers into four teams of three. Duncan, Chris, and the 'Vulcan' - whose name is Dave - are on team A..<br/><br/>The men spend time in the pod while the crew pressurizes it to prepare for their dive. After some time, each team makes the dive in their pod. They will take turns repairing the gas pipeline. They dive, and Craig chooses Team A to go to the subsea manifold first. Chris and Dave will dive while Duncan monitors their umbilical cables and air levels from above. Duncan opens the hatch, and the water rushes inside. He knows it's a sign of a 20-foot swell above. Craig confirms Duncan's suspicions, but the team continues.<br/><br/>While Chris and Dave work on the manifold, they don't know what's happening above until the umbilical cable retracts without Duncan's assistance. The thrusters on the ship failed, and the vessel, connected to their pod, drifts further into the sea. Dave and Chris climb the manifold as the ship pulls. Then, Chris's umbilical cable snags on the manifold. Duncan warns Chris that his cable will snap under the strain. Knowing that the vessel will pull him before he can help Chris, Dave tells Chris to climb the manifold after the cable breaks. He can't save Chris if he can't find him. His cable breaks. Chris falls, and the ship pulls Dave away. Dave rejoins a somber Duncan. They can't rescue Chris until the vessel stops drifting. Chris has 10 minutes of air before he dies. Can the vessel's crew stop the drift so Dave and Duncan can return to save Chris?<br/><br/>Based on the Last Breath documentary, this movie only gives the audience a brief moment to understand the characters and their work. However, it's enough to have you waiting with bated breath as they count down Chris's air supply. Your heart will drop when the countdown changes from time with air to time without it. The camera work doesn't make you the diver but turns you into a fish in the ocean. You swim around the divers while they work and struggle. This film will take you through a roller coaster of emotions without crass humor. This film is a must-see in theaters.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/lastbreathmovie.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/lastbreathmovie.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Paddington in Peru",
-    "review": "Paddington in Peru was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0DWH9BG2Q"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/paddingtoninperu.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/paddingtoninperu.jpeg"
     }
   }
 ];
@@ -210,19 +210,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/queenofthering.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/queenofthering.jpg"
-    }
-  }
-
-   {
-    "option": "1",
-    "mtitle": "Sinners",
-    "review": "Guitarist Sammie leaves the cotton fields for home and searches for his guitar. Pastor Jebediah admits to taking it. He fears evil will prey on his son if Sammie continues to play the devil's music. Sammie won't let Jebediah's worries deter him. He takes his guitar and exits the church. His cousins, twins Elijah 'Smoke' and Elias 'Stack' Moore, wait for him.<br/><br/>Everyone in Clarksdale, Mississippi, knows the Smokestack Twins are not to be trifled with. They fought in World War 1 and worked with mobsters in Chicago. They recently bought a sawmill and will turn it into a juke joint tonight. Smoke and Stack want Sammie to play at their establishment.<br/><br/>The crowd gathers at the juke joint for fun, singing, and dancing. Soon, Stack gets word that his ex-girlfriend, Mary, is in attendance. Stack tells her to leave, but Mary refuses.<br/><br/>During the performances, three people approach the juke joint. Remmick, Bert, and Joan heard Sammie's performance and wanted to play. However, the twins don't believe they will be comfortable and could cause trouble, so they don't invite the trio inside. Mary discovers the twins haven't made enough money and wants to meet the trio to determine trustworthiness. The juke joint is about to dance with the devil. Will they survive?<br/><br/>This movie turns the overworked vampire genre into something special with the 1930s backdrop and spectacular score. The film opens with a brief introduction to a shared folklore. There's music so enchanting that it can pierce the veil between the past and future, the living and the dead, and invite evil. As the tune plays, the director adds past and present music styles along with different types of dancers. It makes the opening sequence come to life and transports you into the world in between. Also, the scenes with the twins interacting are nearly flawless, but the blood scenes are a bit over the top. This movie is captivating, educational, and a tad scary. However, stay for the mid and post-credit scenes. The director, writers, and composers made this film for the big screen.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0F3QYVK1N"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinners.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinners.jpg"
     }
   }
 
