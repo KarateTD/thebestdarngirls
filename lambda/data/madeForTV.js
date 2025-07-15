@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
-    "mtitle": "Unwrapping Christmas: Tina's Miracle",
-    "review": "Tina prepares the store, All Wrapped Up, with her co-owners, Mia, Lily, and Olivia. They are excited that their store will sponsor the Annual Christmas Gala this year. But Tina worries. If it goes well, their business will thrive and expand. If they fail, it could ruin their business and the gala's legacy. Tina's friends assure her that the gala will go smoothly and they will win the wrapping competition again.<br/><br/>Tina eats lunch at her father's home. Her dad, Thomas, wants to have The Alford House declared a landmark. He is the caretaker and recalls meeting his late wife there. Later, Tina goes to the store to find a gift and sees a young woman, Haley, fumbling with a Polaroid camera. Tina offers to help. After fixing the camera, Haley explains that she's looking for the perfect gift for her dad. Tina helps Haley find a tie. Then, she hears a man's voice complimenting it. Tina stammers at the handsome man as Haley hugs him and calls him dad.<br/><br/>Tina visits The Alford House with Thomas and relishes in its history. Then, Rachel enters with frustrating news. The owners of The Alford House sold it. The new owners don't want any celebrations on their property. Tina panics because there aren't any open venues that can host all their guest this close to Christmas. Tina asks Rachel for the seller's name. To her surprise, it's Michael. His company is ruthless. She must convince Michael to change his mind or lose everything. Tina will need a Christmas Miracle.<br/><br/>This movie is the first of a four-part series. While it doesn't often incorporate the other characters, the plot introduces Tina and Michael with well-detailed backstories. They uncover their miracle in history and the beauty of a coincidence. The film has a subplot about Haley and Michael. Haley has dyslexia and can't find a proper school. Michael resigns to build one for her. That plot is beautiful. This movie is a decent kickoff to the series. Hopefully, the next three will be better.<br/><br/>3.5 out of 5 stars.",
+    "mtitle": "Little Girl in the Woods",
+    "review": "Members of a grief support group go on their annual hike. Evie has the most experience, and the trip means everything to her. Her daughter, Rachel, died on this trail. Former pastor Jan, hiker Bea, and lovelorn Hope welcome their newcomer, nurse Maya, into the group.<br/><br/>They set up camp and turn in for the night. The bear steals Bea's backpack before leaving. In the morning, Evie discovers that Bea brought scented toothpaste on the trip, attracting the bear. But learning that Bea took the map earlier and left it in the bag with the satellite phone causes Evie to rage. If they don't check in, the rangers will send a search party for them. The search will be their fault and cost them thousands of dollars. Evie remembers seeing smoke. She wants to find those hikers and use their phone to alert the rangers.<br/><br/>The group stumbles upon an empty cabin and enters. Evie hears a thump under the floorboards and the women investigate it. They find a little girl named Alice living under the house. She wordlessly relays that she isn't safe. So they take her with them for protection. However, they are in danger. Alice's kidnappers consider Alice to be family. And they are ready to kill to get her back and keep their secret. Will the women make it out of the woods alive?<br/><br/>This film makes the most of its surroundings by having the actors traverse through rugged terrain and snow-covered grounds. They used natural light instead of a soundstage while providing sage advice for campers. The writer had a concrete understanding of wilderness and survival training. Seasoned Lifetimers can easily predict the story's conclusion and the unsurprising reveal. The characters offer astounding advice for dealing with grief, friendship, and healing. While the plot isn't strong, the guidance will renew you.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/unwrappingchirstmastinasmiracle.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/unwrappingchirstmastinasmiracle.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/littlelgirlinthewoods.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/littlelgirlinthewoods.jpg"
     }
   },
   {
     "option": "2",
-    "mtitle": "My Sister's Double Life",
-    "review": "Chelsy walks to Tony's restaurant and sits in her sister's section. Her sister, Hayley, takes a break to talk to her. Chelsy hates that Hayley deals with Tony's sexual harassment and has to wear a demeaning uniform. Hayley needs the money to pay for her dental hygiene classes. Hayley can't get a job anywhere else due to her history of drug use and theft. Chelsy resigns to Hayley's decision and leaves for work. At home, Chelsy tries to convince Hayley again, but it doesn't work.<br/><br/>Chelsy opens Hayley's bedroom door, but Hayley isn't home. She goes to Hayley's job, but Miranda and the restaurant's handyman, Tim, haven't seen Hayley either. Chelsy calls Hayley's school and uncovers that Hayley never enrolled. Chelsy runs to the sheriff's office to report Hayley as a missing person. She will go to the darkest corners of the Earth to find Hayley, but will she like the double life she uncovers?<br/><br/>This film offers too many hints about the kidnapper's identity, but makes up for it by creating a compelling motive. Lifetimers will revolt at the sheer number of mistakes the protagonist makes. Also, Chelsy breaks the law multiple times. However, Hayley's double life keeps the audience glued to the screen because the plot doesn't reveal her secret until the end. While the kidnapper is standard, the execution is exceptional.<br/><br/>3 out of 5 stars.",
+    "mtitle": "Taste of His Own Poison",
+    "review": "Dylan hides in the bathroom with his lunch as his bully, Sawyer, enters. Sawyer makes rude comments about Dylan's mother, Courtenay, bites Dylan's sandwich, and throws it on the ground. When Dylan remarks, Sawyer pulls him to the ground and makes Dylan eat it. Dylan's friend, Meredith, barges into the bathroom and stops Sawyer. Later, Meredith and Dylan work on their chemistry project. Sawyer pretends to apologize before making sexual comments about Courtenay again. Dylan finally attacks Sawyer, and the teacher sends them to the principal's office. Courtenay, Dylan's father, Ben, and Sawyer's mother, Andrea, sit with the principal. He updates them on the fight, but doesn't punish the teens.<br/><br/>Dylan and Meredith laugh in the cafeteria when Sawyer starts to harass Dylan. Dylan verbally stands up for himself. Sawyer takes his sandwich, eats it, and chokes on it. He collapses to the floor and dies. After school, Detective Cathy comes to Andrea's home. Sadly, Cathy tells Andrea that he died. Detective Cathy brings Dylan to the station. They uncovered Dylan and Sawyer's squabbles, and Dylan is their number 1 suspect. However, they don't have enough to hold him. So, Detective Cathy lets him go. Courtenay and Ben want to protect their son because they think he is innocent. But will that change when Courtenay overhears Dylan say he is guilty?<br/><br/>First, Lifetimers will feel that Sawyer got what he deserved. He was a pathetic person, receiving horrible advice from his brother, Evan. Second, Courtenay and Ben make terrible decisions. When the culprit reveals their motive, it will solidify both points. Unlike other Lifetime films, the killer's monologue isn't the end. The conclusion offers one more twist to shock experienced watchers. The actors draw you into the story, and the script doesn't foreshadow. Give this film your undivided attention.<br/><br/>4 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mysistersdoublelife.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mysistersdoublelife.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tasteofhisownpoision.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tasteofhisownpoision.jpg"
     }
   },
   {
     "option": "3",
-    "mtitle": "Technically Yours",
-    "review": "Erin loses her coveted promotion to a newcomer, Jack. She covertly confronts Jack and discovers they had one class together before she graduated. Erin meets her sister, Sadie, and grandmother, Carolyn, at home. Sadie has terrific news. She and her boyfriend, Andy, got engaged. Carolyn worries that Erin will be alone and have no one to take care of her. Then, Erin screams that she has a pediatrician boyfriend named Brad. Sadie wants Brad to be Erin's plus-one for the wedding.<br/><br/>Jack discusses his investor meeting next month with his ex-step-sister, Taylor. He's creating a cancer screening prototype, but he knows he needs Erin's help with the datasets. Taylor sees the sparkle in Jack's eyes and discovers he has a crush on Erin. Jack doesn't want to pursue it because he saw an Instagram post of Erin with a man's arm around her. Taylor persuades Jack to call Erin to discuss working on the prototype.<br/><br/>Jack and Erin meet at a coffee shop to discuss the prototype. Before Erin can exit, she hears Sadie scream 'Brad.' Sadie walks to the counter for a coffee, and Erin quickly tells Jack the story of Brad. Jack offers to be Brad if Erin helps him with the prototype. They agree to a fake relationship for the wedding. Can Erin handle the ruse when her feelings become real?<br/><br/>This UP TV movie has the classic Hallmark plot. The difference is that Jack carries a torch for Erin and her coding prowess. The writers were careful not to demonize Erin's work. Erin lies because she doesn't want Carolyn to worry, and Jack goes along because he is in love with her. This film presents the classic meet-cute, misunderstanding, and ex-boyfriend's return. But it offers nothing else.<br/><br/>3 out of 5 stars.",
+    "mtitle": "Stranger with My Name",
+    "review": "Alice and her husband, David, move into their new home. Alice goes inside to prepare for a dinner with her new boss, Sydney. Alice searches for her earrings and stumbles across a box with letters addressed to David. He says they are trash he can't throw away yet. He grabs her earrings off the fireplace and hands them to her.<br/><br/>Alice wakes up in the hospital two days later. The nurse and doctor call her Ellie. Alice goes against the doctor's wishes, checks herself out of the hospital, and jumps into a rideshare home. Alice knocks on the door, and David answers. But he doesn't know her. His wife, Alice, comes downstairs and doesn't recognize her either. She faints while David calls the police.<br/><br/>Officer Wiley sits in the hospital cafeteria with Alice, whom he calls Ellie. He tells her that David has been married to Alice for 20 years and has pictures of them together. Alice tries to call Sydney, but Sydney is at a corporate retreat. Wiley promises to examine Alice's claims but warns her to stay away from David and his wife. Alice can't sit back while another woman steals her family. Can Alice discover who is behind the deception and why?<br/><br/>This movie is a well-written mystery with a mediocre motive. The script leads Alice down a path of unforeseen incidents that leave her alone and without a past. This plot builds at a steady rate and offers a decent body count. The culprit's monologue is subpar and should be fixed with counseling, not murder. It's a shame that a brilliant character was wasted on this motive. Lifetimers should watch this film for the twists and turns, not the conclusion.<br/><br/>4 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/technicallyyours.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/technicallyyours.jpeg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/strangerwithmyname.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/strangerwithmyname.jpg"
     }
   },
   {
     "option": "4",
-    "mtitle": "A Machu Picchu Proposal",
-    "review": "Katie's fraternal twin, Dan, begs her to go to Peru with him and his girlfriend, Luciana. He wants to get her out of the classroom before the new semester starts. She can find new ingredients and dishes to introduce to her students. Katie begrudgingly accepts his offer.<br/><br/>Katie, Dan, and Luciana arrive in Peru and meet Luciana's play brother, Chef Carlos. Carlos got a behind-the-scenes connection to visit Machu Picchu and bypass the government red tape. They arrive at Machu Picchu, and Katie can see the anticipation on Dan's face. He admits that he wanted to propose to Luciana there, but only after asking her father's permission. However, the early visit to the site ruined his moment. Katie tells him not to wait and propose now. Dan gives Katie his high-resolution drone to record the moment. Sadly, Katie fumbles with the camera setup, and another couple proposes. Katie and Dan return to Luciana's family home in defeat.<br/><br/>Dan blows several more proposal opportunities, and Katie blames Carlos. She thinks he is a liability and will reveal Dan's plan. She distracts Carlos, but Dan still can't find the perfect place to propose. So, Dan considers giving up. Katie softens and tells Carlos Dan's plan. He decides to help Katie find the ideal place for Dan's proposal, but will he and Katie uncover more?<br/><br/>This film is genuinely funny. Each proposal attempt exposes the audience to the astounding Peruvian culture while putting Dan and Katie in an uncomfortable situation. After watching this movie, you will never look at chocolate or alpacas the same way. The cast has a stellar connection that jumps off the screen. The writers respectfully introduce the audience to Peru's beauty. Viewers will pause their TV to marvel at the sights. This picture is a strong ending to 2025's Passport to Love.<br/><br/>4 out of 5 stars.",
+    "mtitle": "Zombies 4: Dawn of the Vampires",
+    "review": "Alien Addison and Zombie Zed are small fish in Mountain College. Addison, Zed, Willow, and Eliza get in Zed's car to spend time together before leaving to attend their respective camps. Although they haven't seen much of each other in college, Zed and Addison believe their relationship can survive the distance.<br/><br/>Zed crashes the vehicle after an electromagnetic pulse causes his Z-band to short-circuit. They decide to spread out to find help. Addison walks through an invisible barrier and into a town of perpetual night. It's run by vampires. They assume she is their sworn enemy: a daywalker. So, the vampires prepare to strike, except for Victor. Victor is the leader's son. He has bigger dreams of venturing out in the world. Maybe he will see the girl he dreams about. Victor's mother, Eldress, puts him in charge of Addison. They will use her to help gather blood fruit from this year's harvest. Luckily, they possess the dark stone, which strengthens their powers.<br/><br/>Zed stumbles past an invisible barrier into a bright world of constant daytime. The daywalkers see his green skin and assume he's a vampire. Before they attack, Nova begs them to stop. She asks Zed to smile for her father, Commander Bright, to prove he doesn't have fangs. Commander Bright believes Zed has a strong back and puts him to work under the watchful eye of Nova, the future leader. They walk to the harvest with the intent of beating the vampires to the blood fruit. Their source of power comes from their light stone.<br/><br/>Everyone sprints for the harvest, but finds a locked gate with a force field. It has 3 locks with riddles. Before the daywalkers and vampires battle, Zed, Addison, Willow, and Eliza convince them to join forces and stay at a local abandoned camp. Commander Bright orders Nova to work with the vampires until they find the blood fruit. Then, take it all for themselves. Eldress warns Victor to be a leader and take control of the situation. Eliza searches for the electromagnetic pulse that caused the crash. As the pulse gets stronger, it will reach Seabrook. It will break all the Z-bands, causing the zombies to 'zombie out.' Can they get the daywalkers and vampires to solidify their truce and save Seabrook?<br/><br/>This fourth installment in the Zombie franchise is leaps and bounds ahead of the rest. The dancing, music, and choreographed dances are sharper and more refined than before. The veteran actors' skills shine through as they usher new monsters into the fold. This film mixes the themes of prequels with a hint of Romeo and Juliet. The moral is overcoming history and becoming your true self. Enjoy this film with the family and prepare for a sneak peek of Zombies 5.<br/><br/>5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/amachupiccheproposal.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/amachupiccheproposal.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/zombies4.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/zombies4.jpg"
     }
   },
   {
     "option": "5",
-    "mtitle": "Pretty Hurts",
-    "review": "Lauren works with her friend Rae when she gets a notification from her dream school. Lauren believes it's her acceptance letter, but the notification's link doesn't load. Lauren calls her mother, Julia, to check. So, Julia checks the mailbox and finds an acceptance letter. Lauren jumps for joy until she goes home. She overhears her parents arguing about the cost. Lauren's father doesn't want to saddle her with loans. So, they will encourage Lauren to apply for more grants and scholarships.<br/><br/>Lauren discusses her options with Rae when she remembers a customer, Helena, who had come into the café the day before. Helena was in the pageant circuit with Julia. Julia used her winnings to pay for school. Lauren researches a local pageant and discovers that Miss Teen Starfire's registration will open soon. The grand prize is $50,000. Lauren thinks this is an easy win for her future. However, she will let her school, work, and friendship suffer. As Lauren faces harassment, corruption, and intimidation, Rae will fight for her life. Will they come out on top?<br/><br/>This movie starts with a devious pageant plot. However, viewers should remember that GSK sponsored this film. They can advertise their vaccine while entertaining. However, the advertisement takes too long and is too late. If you need a backstabbing pageant story, allow yourself two hours for this one. But only if you can look past the 15-minute ad.<br/><br/>3 out of 5 stars.",
+    "mtitle": "Kidnapped in a Small Town",
+    "review": "Sarah takes her daughter, Ruby, on a road trip to college. It's been six years since Ruby's dad, Michael, died in a hiking accident. So, Sarah wants to spend as much time together as possible. They stop at a convenience store, and Sarah pays for her items with a stack of 100-dollar bills before leaving the store. A man jumps from behind Sarah's car and offers to look it over because he saw oil leaking. Sarah cautiously refuses his help because she had the car serviced a month ago.<br/><br/>As they head down the road, Sarah gives Ruby pepper spray and warns Ruby to take it everywhere. Then, their car breaks down, and they don't have cell reception. Later, Allie pulls over to help and offers to drive them to Shelly's diner. However, Sarah doesn't want to leave the vehicle alone because it has their supplies inside. Ruby convinces Sarah to let her ride with Allie and call for help. Sarah relents.<br/><br/>Sarah waits in the car, stares at a family photo, and reminisces. A truck drives by and kicks up dirt, causing Sarah to drop her photo under the vehicle. She looks for the picture and sees an unplugged connection. Sarah connects it, and the car starts. She travels to the diner and sees Allie sitting at a table. Sarah settles and asks where Ruby is, but Allie says she's never met Ruby. Sheriff Hoffman enters and polls the diners. None of them saw Ruby either. The sheriff takes Sarah in for questioning. Hoffman believes Sarah is the problem. He leaves to speak to another officer, and Sarah receives an image with a text for her to find Ruby. Sarah slips out of Hoffman's office and rushes to the site.<br/><br/>Sarah finds the area, but Ruby isn't there. She sits in a café and panics when Jane sits. Sarah remembers that Jane was one of the diners in the restaurant. Jane warns Sarah that something sinister is going on in the town. She warns Sarah that Hoffman can't be trusted, as well. Jane and Sarah are on a mission to find Ruby before she is lost forever.<br/><br/>This movie begins with a plot well-known to Lifetimers. They make mistakes, and someone, typically an ungrateful teen, gets kidnapped. The culprit will stand out to experienced Lifetimers, but the motive is the twist. The kidnapper is a master puppeteer who manipulates everyone around them. Also, the culprit played the long game, waiting months to make their move. The recap will leave your jaw on the floor. If you can sit through an ordinary build, the conclusion will knock you for a loop.<br/><br/>4 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/prettyhurts.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/prettyhurts.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/kidnappedinasmalltown.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/kidnappedinasmalltown.jpg"
     }
   }
 ];
@@ -68,41 +68,34 @@ module.exports = madeForTV;
 },
 
 
+
 {"option": "1",
-"mtitle": "Little Girl in the Woods",
+"mtitle": "Faith in the Flames: The Nichole Jolly Story",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/littlelgirlinthewoods.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/littlelgirlinthewoods.jpg"
+  "smallImageUrl": "",
+  "largeImageUrl": ""
 }},
 {"option": "2",
-"mtitle": "Taste of His Own Poison",
+"mtitle": "What Hides in Silence",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tasteofhisownpoision.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tasteofhisownpoision.jpg"
+  "smallImageUrl": "",
+  "largeImageUrl": ""
 }},
 {"option": "3",
-"mtitle": "Stranger with My Name",
+"mtitle": "If I Go Missing",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/strangerwithmyname.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/strangerwithmyname.jpg"
+  "smallImageUrl": "",
+  "largeImageUrl": ""
 }},
 {"option": "4",
-"mtitle": "Zombies 4: Dawn of the Vampires",
+"mtitle": "Unwrapping Christmas: Mia's Prince",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/zombies4.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/zombies4.jpg"
-}},
-{"option": "5",
-"mtitle": "Kidnapped in a Small Town",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/kidnappedinasmalltown.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/kidnappedinasmalltown.jpg"
+  "smallImageUrl": "",
+  "largeImageUrl": ""
 }}
-
 
 */
