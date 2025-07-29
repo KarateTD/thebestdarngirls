@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Thunderbolts",
+    "review": "Yelena completes another mission for CIA Director Valentina but doesn't feel fulfilled. So, she visits her father, Alexei, the Red Guardian, for help. He tells her the best way to feel fulfilled is to do good for her country. Yelena leaves Alexi and calls Valentina. She agrees to do one more job and then become a public figure. Valentina tells Yelana to go to an Ox Corp black site and destroy everything inside, including a target.<br/><br/>Valentina stands before Congress for her impeachment trial. She warns them that the Avengers are gone. They must create new heroes to protect the Earth. Valentina leaves the hearing with her assistant, Mel. She tells Mel to clean everything they can use against her in the hearing.<br/><br/>Congressman Bucky Barnes attends a Battle of New York exhibit with Valentina and Congressman Gary. Bucky runs into Mel and gives her his business card. Then, Bucky pulls Gary aside. He tells Gary that Mel may switch sides. However, Gary wants Bucky to focus on his job.<br/><br/>Yelena arrives at the black site. Then, John Walker hits her. She retaliates but stops because he is not her target. However, she is his. During their battle, Ava, the Ghost, appears and attacks John because Valentina hired her to kill him. They battle, and Taskmaster appears. Ava kills Taskmaster in the battle. The remaining three continue to fight and accidentally hit a button on a box. The box opens and releases Bob. Ava, John, and Yelena argue until they realize that Valentina set them up to kill each other and wipe her slate clean.<br/><br/>Mel second-guesses Valentina's leadership when Valentina instructs Mel to kill her operatives. However, Mel alerts Valentina that they survived and released Bob. She demands that Mel get her to the site and save Bob, but everyone else can die. Valentina and Mel don't know that Alexei is their driver. He drops them off and rushes to warn Yelena. Mel calls Bucky and gives him the details. He rushes to find the three and brings them to the hearing as evidence of Valentina's crimes. Yelena, Bucky, Red Guardian, Ava, and John Walker will form the Thunderbolts. They assume their enemy is Yelena. However, they will battle the void inside all of them.<br/><br/>Marvel fans, you asked for a more story-driven and gritty MCU. This movie delivers. The opening sequence changed. It only includes pages from the comic books. Then, the music and image go dark. Most of the audience has experienced feelings of loneliness, nothingness, sadness, shame, and even depression. This film is the physical manifestation of that. The film's quips are original, funny, and perfectly acted and timed. The only downfall is the first battle scene between Bob and the Thunderbolts. It's reminiscent of Hulk and Loki. It's cartoonish and overly computerized at a time of seriousness. If this is the new direction of the MCU, then they need to stay on this path. Viewers should remain for the mid and post-credit scenes.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0FF3C5VLK"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thunderbolts.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thunderbolts.jpg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "Final Destination Bloodlines",
     "review": "Stefani awakens in the middle of class with a scream. For two months, she has had the same nightmare about her grandparents, Iris and Paul, every day. Stefani believes returning home and speaking to her father, Marty, about Iris will ease her mind. Her roommate agrees.<br/><br/>Stefani arrives home and greets Marty and her brother, Charlie. Stefani asks her father about a box of Iris's things that her mother, Darlene, kept. Marty tells Stefani not to talk about Iris and that the box is with Stefani's uncle Harold. Charlie wants to visit his cousins, so Stefani offers to drive.<br/><br/>They arrive at Harold's home and greet their aunt, Brenda, and cousins, Erik, Bobby, and Julia. Stefani questions Harold about Iris. He says that Iris is a crazy woman, and Child Protective Services had to save him and his sister, Stefani's estranged mom, Darlene, from Iris. Stefani finds old letters with Iris's address and drives there.<br/><br/>Stefani arrives at a heavily fortified home. She tells Iris about her dreams, and Iris says it's her premonition. Fifty years ago, Iris and her boyfriend, Paul, went to the grand opening of the Skyline Tower. Paul and Iris went to the observation deck. During Paul's proposal, Iris had a premonition that everyone would die. She and a little boy, JB, would be last. She warned everyone and saved their lives. Since that day, everyone and their descendants died in the order they would have that night. Death is still after Iris and her heirs.<br/><br/>Iris runs after Stefani but stops at the doorway. Iris chooses to risk it and begs Stefani to take the book. Stefani grabs it, but Iris can still see disbelief in Stefani's eyes. Iris takes three steps back and lets Death take her. Stefani rushes to her family to warn them, but it is too late. A member met a gruesome end. Death is coming for them, but can Stefani make her family believe before it's too late?<br/><br/>This Final Destination installment doesn't disappoint. The deaths are grisly and cringe-inducing, and you are guaranteed to have a new fear unlocked. The writers injected more humor into this chapter with added gore. Unlike its predecessors, this film didn't rely too heavily on the signs. Stefani got a bad feeling and acted accordingly. This film doesn't offer mid or post-credit scenes. This tribute to Tony Todd is a bloody, good time with lots of laughs and guts.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "Sinners",
     "review": "Guitarist Sammie leaves the cotton fields for home and searches for his guitar. Pastor Jebediah admits to taking it. He fears evil will prey on his son if Sammie continues to play the devil's music. Sammie won't let Jebediah's worries deter him. He takes his guitar and exits the church. His cousins, twins Elijah 'Smoke' and Elias 'Stack' Moore, wait for him.<br/><br/>Everyone in Clarksdale, Mississippi, knows the Smokestack Twins are not to be trifled with. They fought in World War 1 and worked with mobsters in Chicago. They recently bought a sawmill and will turn it into a juke joint tonight. Smoke and Stack want Sammie to play at their establishment.<br/><br/>The crowd gathers at the juke joint for fun, singing, and dancing. Soon, Stack gets word that his ex-girlfriend, Mary, is in attendance. Stack tells her to leave, but Mary refuses.<br/><br/>During the performances, three people approach the juke joint. Remmick, Bert, and Joan heard Sammie's performance and wanted to play. However, the twins don't believe they will be comfortable and could cause trouble, so they don't invite the trio inside. Mary discovers the twins haven't made enough money and wants to meet the trio to determine trustworthiness. The juke joint is about to dance with the devil. Will they survive?<br/><br/>This movie turns the overworked vampire genre into something special with the 1930s backdrop and spectacular score. The film opens with a brief introduction to a shared folklore. There's music so enchanting that it can pierce the veil between the past and future, the living and the dead, and invite evil. As the tune plays, the director adds past and present music styles along with different types of dancers. It makes the opening sequence come to life and transports you into the world in between. Also, the scenes with the twins interacting are nearly flawless, but the blood scenes are a bit over the top. This movie is captivating, educational, and a tad scary. However, stay for the mid and post-credit scenes. The director, writers, and composers made this film for the big screen.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "Novocaine",
     "review": "Novocaine was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Drop",
     "review": "Drop was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/drop.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/drop.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Black Bag",
-    "review": "British Intelligence Officer George meets with his boss, Meacham, in an alleyway. Meacham informs George that a nuclear program called Severus leaked. He gives George a list of five people with the knowledge, skill, and clearance level to obtain Severus. George's wife, Kathryn, is on the list. George vows to find the mole in a week.<br/><br/>George returns home and plans a dinner with the suspects. However, he warns Kathryn to avoid one item because it contains drugs. Agents James, Zoe, Freddie, and Clarissa arrive. James and Freddie are field agents. James is in a relationship with agency psychiatrist Dr. Zoe, and Freddie is dating satellite analyst Clarissa. As the drugs take effect, everyone becomes unencumbered and reveals secrets. After everyone leaves, George finds a movie ticket stub for Dark Window in the trash.<br/><br/>George and Kathryn prepare for work. He asks her to go to the movies with him to see Dark Window. She states that she hasn't heard of it. She will be on a mission tomorrow. George inquires about it, but she says, 'Black Bag.' They use the term to hide classified information about their job without lying. However, George wonders if Kathryn lied about the movie. He will investigate his colleagues and the love of his life. Can George uncover the rat and find Severus while keeping his marriage?<br/><br/>This movie is exciting in its simplicity. You don't get constant action like in Mission Impossible but an intriguing mystery with spies like Hercule Poirot. The opening scene has a hypnotizing tracking shot that follows George as he searches for Meacham. Every scene, conversation, and object has a purpose to the enigma. Unlike other thrillers, the script had two impactful meetings that involved all the suspects. The first is a dinner that allows George to probe for information. The second is the unveiling. This meeting is brisk but reveals a lot of information in five minutes. So keep your ears open. This movie will cause many spirited discussions and a few laughs while entertaining. Don't miss it.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0F35Q3N1Z"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/blackbag.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/blackbag.jpeg"
     }
   }
 ];
@@ -210,19 +210,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/queenofthering.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/queenofthering.jpg"
-    }
-  }
-
-  {
-    "option": "2",
-    "mtitle": "Thunderbolts",
-    "review": "Yelena completes another mission for CIA Director Valentina but doesn't feel fulfilled. So, she visits her father, Alexei, the Red Guardian, for help. He tells her the best way to feel fulfilled is to do good for her country. Yelena leaves Alexi and calls Valentina. She agrees to do one more job and then become a public figure. Valentina tells Yelana to go to an Ox Corp black site and destroy everything inside, including a target.<br/><br/>Valentina stands before Congress for her impeachment trial. She warns them that the Avengers are gone. They must create new heroes to protect the Earth. Valentina leaves the hearing with her assistant, Mel. She tells Mel to clean everything they can use against her in the hearing.<br/><br/>Congressman Bucky Barnes attends a Battle of New York exhibit with Valentina and Congressman Gary. Bucky runs into Mel and gives her his business card. Then, Bucky pulls Gary aside. He tells Gary that Mel may switch sides. However, Gary wants Bucky to focus on his job.<br/><br/>Yelena arrives at the black site. Then, John Walker hits her. She retaliates but stops because he is not her target. However, she is his. During their battle, Ava, the Ghost, appears and attacks John because Valentina hired her to kill him. They battle, and Taskmaster appears. Ava kills Taskmaster in the battle. The remaining three continue to fight and accidentally hit a button on a box. The box opens and releases Bob. Ava, John, and Yelena argue until they realize that Valentina set them up to kill each other and wipe her slate clean.<br/><br/>Mel second-guesses Valentina's leadership when Valentina instructs Mel to kill her operatives. However, Mel alerts Valentina that they survived and released Bob. She demands that Mel get her to the site and save Bob, but everyone else can die. Valentina and Mel don't know that Alexei is their driver. He drops them off and rushes to warn Yelena. Mel calls Bucky and gives him the details. He rushes to find the three and brings them to the hearing as evidence of Valentina's crimes. Yelena, Bucky, Red Guardian, Ava, and John Walker will form the Thunderbolts. They assume their enemy is Yelena. However, they will battle the void inside all of them.<br/><br/>Marvel fans, you asked for a more story-driven and gritty MCU. This movie delivers. The opening sequence changed. It only includes pages from the comic books. Then, the music and image go dark. Most of the audience has experienced feelings of loneliness, nothingness, sadness, shame, and even depression. This film is the physical manifestation of that. The film's quips are original, funny, and perfectly acted and timed. The only downfall is the first battle scene between Bob and the Thunderbolts. It's reminiscent of Hulk and Loki. It's cartoonish and overly computerized at a time of seriousness. If this is the new direction of the MCU, then they need to stay on this path. Viewers should remain for the mid and post-credit scenes.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0FF3C5VLK"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thunderbolts.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thunderbolts.jpg"
     }
   }
 
