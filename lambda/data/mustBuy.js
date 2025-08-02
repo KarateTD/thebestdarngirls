@@ -161,6 +161,19 @@ module.exports = mustBuy;
     }
     }
 
+    {
+    "option": "5",
+    "mtitle": "Jurassic World Rebirth",
+    "review": "Pharmaceutical Representative Martin Kerbs sits in traffic while police try to move a dying dinosaur off the road. Since the escape of dinosaurs, most have died due to the current climate and disease. The remaining live near the equator because it resembles their natural habitat. He jumps when he hears Covert Ops Specialist Zora Bennett in the back of his car. She knows Martin is looking for her and wants to know why. He must collect DNA from three distinct dinosaurs to create life-saving heart medication. It's illegal for anyone to travel near the equator. So, this mission is top secret. Zora walks away until Martin offers $10 million. But he must recruit one more person.<br/><br/>Martin and Zora enter the museum while paleontologist Dr. Henry Loomis helps box the exhibits. Martin tells Henry his plan, and Henry summarizes that they need Centurian dinosaurs. They need samples from aquatic Mosasaurus, terrestrial Titanosaurus, and avian Quetzalcoatlus. Henry mulls it over, but Zora appeals to his deepest desire: seeing the animals he admires in the wild.<br/><br/>Martin, Zora, and Henry travel to a small island near the equator. Zora sits with Duncan and runs a con on Martin. They get Martin to double his payment so Duncan and his crew can take them to the equator. They set sail from Ile Saint-Hubert to find the creatures. Before they get there, they hear a mayday on the radio. Reuben set sail with his two daughters, Isabella and Teresa, and Teresa's boyfriend, Xavier. A Mosasaurus capsized their vessel, and it's sinking. They save the family and bring them aboard the ship. They believe they are safe until the Mosasaurus attacks them. After a deadly battle, Teresa falls off the vessel while they collect the first sample. Her family and Xavier jump off to save her while Duncan and the remaining team shipwreck on Ile Saint-Hubert. Can both groups survive the island and collect the final two samples?<br/><br/>This film, like the first, lets the viewer's imagination scare them first. Similar to the latest movies, this picture offers new genetically altered dinosaurs. However, the main plot sticks to the classic creatures we love. This script has witty banter, jump scares, and heartfelt moments. The script gets murky with Reuben and his family. It only needs one family member for one critical scene. Otherwise, their subplot is a 30-minute filler. This new installment in the franchise subtly mentions the past films but doesn't rely on them. It's an improvement over the past, but nothing beats the first.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/jurassicworldrebirth.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/jurassicworldrebirth.jpg"
+    }
+  }
+
    {
     "option": "4",
     "mtitle": "Rob Peace",
@@ -301,6 +314,19 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan20.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan20.jpeg"
+    }
+  }
+
+   {
+    "option": "1",
+    "mtitle": "The Bad Guys 2",
+    "review": "The Bad Guys enjoy life on parole but can't find employment. Mr. Piranha, Ms. Web, and Mr. Shark anxiously wait to hear if Mr. Wolf got work, but they are disappointed. Mr. Snake slithers in to grab his yoga mat. The crew gawks at Mr. Snake's change and doesn't understand how he can be so happy. Mr. Shark thinks they should worry about the Phantom Bandit heists. It's only a matter of time before people blame them for the Phantom's crime spree.<br/><br/>Mr. Wolf spars with Governor Diana Fox. She advises him to win over the town by doing good publicly. Mr. Wolf has an idea and drives to the police station. He and his crew examine the evidence of the heists with Commissioner Misty Luggins. They spot the culprits in the photo and discover that the stolen items contain MacGuffinite.<br/><br/>The team researches and finds that the Lords of Lucha championship title contains the precious metal. They think the Phantom Bandit will strike at the wrestling match. They arrive at the match and spot Mr. Snake with his new girlfriend, Susan. The crew sees the belt hanging over the ring. They deduce that the challenger is the Bandit. They jump into the squared circle and battle for the belt. However, instead of applause, someone frames them for stealing the belt by putting it on Mr. Piranha. Susan hijacks a hotdog cart and saves them. She offers the crew mints, but Mr. Wolf rejects them. Mr. Wolf asks Susan to pull over so he can call Diane and explain that they are innocent. Mr. Wolf returns the van to find the Bad Guys asleep. Susan shoots Mr. Wolf with a dart.<br/><br/>The team wakes up to the Bad Girls. Pig Tails is the muscle. During the match, she hid in plain sight as the challenging luchador. Susan is Doom, a sweet-talker and long-con expert. The mastermind, Kitty Kat, introduces herself. She wants the Bad Guy to help them with their next heists. Mr. Wolf says no. Kitty Kat threatens to expose Diane's secret life as the Crimson Paw if he doesn't assist. Mr. Wolf agrees, but he assures his crew that he has an ace up his sleeve. Can the Bad Guys do good and protect Diane's reputation?<br/><br/>This sequel is better than the first. The capers are more outlandish, the jokes are funnier, and the plot delves deeper. This story handles reform and redemption. The animation jumps genres throughout the fight scenes. Typically, this feels disjointed. It works because the graphic artist continued this change throughout the entire film. It makes the art feel more alive and enveloping. Be sure to stay for the mid-credit scene. It gives insight into the plot for The Bad Guys 3. This picture has the crime style of Leverage, the smoothness of Ocean's Eleven, and the fun of The Fast and the Furious. The entire family will enjoy this film.<br/><br/>3 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thebadguys2.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebadguys2.jpeg"
     }
   }
 */
