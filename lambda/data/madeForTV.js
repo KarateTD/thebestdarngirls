@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "Terri Blackstock's If I Run",
+    "review": "Casey frantically cleans the blood off her hands and clothes before leaving Brent's home. She runs to Eddie's autobody shop and begs him to make her fake IDs. Eddie creates a new identity with the name Grace. Casey gathered some money. Now, she waits at a bus depot for a ride to Atlanta.<br/><br/>Dylan wants to join the police force but has trouble finding a spot with his PTSD. Brent's family wants to hire a private detective to locate Casey because they don't believe the police are moving fast enough. The captain suggested that the family hire Dylan. Later, Dylan sees pictures of Casey with Eddie. Dylan gains Eddie's trust, and Eddie admits to making IDs for her, only because he believes Casey is innocent. Dylan thinks she's innocent too. He follows clues to the bus depot and asks attendants about her. Then, he sees a lady running away.<br/><br/>Casey darts to the bus and hides. He spots her bus, but it's too late. Casey sits next to Lucy on their way to Atlanta. Lucy confides in Casey about her missing granddaughter, Laura. At the trip's end, Lucy offers Casey a place to stay if she needs it.<br/><br/>Casey sits in a park and calls her sister, Hannah. She will lie low and gather evidence about Brent's killer. When Casey was a child, she found her father's body after his suicide. However, she remembers seeing signs of a struggle. Casey told Brent she thought someone had killed her dad. Brent found evidence and called Casey to examine it. When Casey arrived, she found Brent's body. Casey recovered a flash drive from Brent's home, but it's encrypted. She won't return until she uncovers the truth. Can Casey outrun Dylan and clear her name?<br/><br/>Based on 'If I Run' by Terri Blackstock, this film contains a smaller plot within an overarching storyline. Casey unknowingly investigates Laurie's disappearance during her time on the run. While this seems a distraction, it helps Casey understand the corruption within and manipulation of a police department. The film displays two causes of PTSD. Casey struggled after finding her father's corpse. Dylan is a war veteran and the sole survivor of his regiment. The acting is on par with the network, but the plot exceeds it. This film is an entertaining and compelling start to the series. Sadly, Lifetime won't release the second film until 2026.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tbifirun.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tbifirun.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Killer in the Woods",
+    "review": "Sarna and her daughter, Laurie, get into a screaming match about Sarna's ex-husband, John. Laurie believes Sarna is weak and gives in to the whims of men. And she says Sarna repeats those mistakes with her new boyfriend, Oscar. Laurie has no respect for her mother. Sarna commiserates with Oscar and yearns for a better relationship. He suggests they go camping. It will allow Laurie and Alice to bond with him.<br/><br/>They arrive at the campsite, and the park ranger warns them about bear sightings. They set up camp, and Oscar wins over Laurie by dinner. The girls sleep in one tent while Oscar and Sarna rest in another. Laurie and Alice hear a sound in the woods, but to Laurie's surprise, it's her boyfriend, Derek. Laurie leaves the tent to spend time with him.<br/><br/>Laurie returns to the tent but can't find Alice. She alerts Sarna, and Sarna panics. Oscar calmly demands that Sarna stay in their tent to gain her composure. Until then, he and Laura will look for Alice. During their search, they stumble across Derek's body. Oscar sees smoke in the distance. He hopes those campers can help them.<br/><br/>They arrive at the log cabin, and Alice is asleep inside. Then, Lynn Marie and Prophet Timothy enter. Lynn Marie jabs Laurie in the neck with a hypodermic needle. Hours later, Alice and Laurie wake up, but their shoes are gone. Oscar brought them to Prophet Timothy to help them start a new world order with a pure race. Can Sarna gather her strength and save her daughters from a narcissistic madman?<br/><br/>Laurie is a brat, but she is right. Sarna easily relents to the men in her life and insists on someone rescuing her. This plot point will irritate fans. As Sarna uses her wit to stand up for herself, you've lost interest in her character. Now, the cult members are well-written and based on the cult archetype. Prophet Timothy is the alpha and runs the cult to fit his needs. Lynn Marie is the beta. She devoutly follows Tim without question or hesitation. Oscar is the Omega. He is the weakest link of the group and the most expendable. The picture's build-up is annoying, but the conclusion is a satisfying gut punch. And, the last 5 minutes save this film.<br/><br/>3 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/killerinthewoods.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/killerinthewoods.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "Vicious Murder",
+    "review": "Riley wakes up next to Jesse and kisses him. She loves him dearly, but she must return home before her husband, Nathan, catches her. Riley arrives at home, and Nathan is waiting for her. He wants to take her to an art show. Riley maintains her composure as Nathan introduces her to photographer Jesse. The two pretend not to know each other and shake hands.<br/><br/>Nathan yells at a board meeting. The crypto-king is broke. However, he has another answer to the problem. His assets are in Riley's name, and she has a trust fund. If he kills her, he will get her money. He doesn't think twice about this plan because he knows Riley is having an affair. He thinks everything will be smooth. Nathan doesn't know that Riley is on to his scheme and has a plan to eliminate him. Which spouse will be the victor of this cat-and-mouse game?<br/><br/>Viewers, get your pen and pad ready for this Tenet-level plot of deception. It will confuse you if you don't pay attention. One fact remains true: Riley and Nathan deserve each other. They are greedy, manipulative, and psychotic. You expect both of them to die. This Tubi original delivers on Lifetime. The acting isn't the best, but the script makes up for any shortfalls. This film deserves a second watch.<br/><br/>4.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/viciousmurder.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/viciousmurder.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "Unwrapping Christmas: Olivia's Reunion",
+    "review": "Olivia grabs a truck full of gifts but almost forgets her dog, Ivy. She retrieves her precious pooch and drives to her store, All Wrapped Up, which she co-owns with her best friends, Tina, Mia, and Lily. Olivia must deliver the wrapped gifts today, but can't take Ivy. So, she asks her friends to watch the canine during her delivery. They happily agree. She believes the trip will take a few hours, but she plans to return today and help with the Gala.<br/><br/>Olivia approaches her destination and hears about an impending snowstorm on the radio. She knocks on the door, and her ex-boyfriend, Ben, answers. The conversation starts well, but changes when they discuss their breakup. Olivia hastily exits and drives down the road. However, the heavy snow closes the streets. She drives back to Ben's cabin to seek refuge. He allows her to stay.<br/><br/>Olivia settles in and calls her friends. She doesn't know when they will open the roads. She may miss the Gala and the competition. Olivia's friends believe it's kismet that she and Ben are stuck together. They ask her to make the most of this opportunity. However, Olivia only considers leaving. Does fate have something more in store for these exes?<br/><br/>The final installment of the Unwrapping Christmas franchise makes a dog famous. When the scene incorporates one of Olivia's friends, Ivy is a wild scamp in the background, causing lovable havoc. The storyline follows the plot points Hallmarkies know well. The plot feels boring until Ben's family arrives at the cabin. After their breakup, Ben badmouthed Olivia to his family. So, Ben's mother holds nothing back when they are face-to-face. That moment will grab your attention. Her return to the Gala isn't surprising because we saw it in the other three films. So viewers know this film's destination, but the journey is whimsical.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/unwrappingchristmasoliviasreunion.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/unwrappingchristmasoliviasreunion.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "Before Your Father Finds Us",
     "review": "Mason sits in front of the parole board and pleads his case. He has been a model prisoner for 10 years and believes he deserves to re-enter the world and his family. The parole board says no because they can't trust his actions. Mason snaps, kills a guard, trades clothes, and escapes. When they discover the prison break, they call FBI Agent Farnsworth. Farnsworth informs his partner, Agent Samuels. Samuels wonders if they should call Mason's wife, Alex. Farnsworth's will, but he doesn't suspect Mason will find Alex because she and her daughter, Emily, are in the Witness Protection Program.<br/><br/>Sofia meets her friend, Amanda, at the church's bake sale. Their daughters will be spending the evening at Amanda's home so Sofia can spend time with her boyfriend, Steve. Sofia asks her daughter to take items in the car while she finishes her discussion with Amanda. Sofia doesn't see a man, Mason, quietly approach her daughter, Emily. Mason tells Emily that her mother lied. He is alive and wants them back. He pleads with Emily not to tell her mother he's in town. Emily agrees.<br/><br/>Steve and Sofia's date goes well until Steve gives her a key to his home. He's willing to wait for the woman he loves. Sofia gets a knock at the door and answers it. She's dumbstruck to see Mason on her doorstep. He can't believe his wife, Alex, is standing before him. He tells her he received parole and wants them to be a family. She says she has to tie up loose ends and will leave with him in the morning. He breathes a sigh of relief and exits. Alex locks the door, packs her bag, and grabs some cash. Before she leaves, Amanda calls.<br/><br/>While Emily is at Amanda's home, she sees a news report about Mason. Amanda knew about Alex's past and name change. She calls to warn Alex. After Alex hangs up, Agent Farnsworth calls. Alex angrily updates him that Mason is there. Now, they know someone is helping Mason. Army Veteran Alex must use her skills to save Emily and escape a killer. Can they survive?<br/><br/>This film is frustrating because Alex does everything correctly. It's simple mistakes that lead Mason to her. This film doesn't rely on unrealistic methods to locate people. With few characters, the audience will easily narrow down who Mason's accomplice is. However, the writer's passion for booby traps and guns shines through the script. While the plot twist is unsurprising, the film is an enjoyable rollercoaster.<br/><br/>4 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/beforeyourfatherfindsus.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/beforeyourfatherfindsus.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "Secrets of an Influencer",
-    "review": "Jess convinces her boyfriend, Robbie, to visit a bakery promoted by her favorite influencer, Amanda Jane. Jess snaps a picture of her cookies, and Robbie persuades Jess to tag Amanda. Jess does, and later, Amanda likes Jess's post. Jess is star-struck.<br/><br/>Jess arrives at The Gable Inn, and her boss, Mary, gives Jess more busy work. She remembers that Jess has a degree in marketing and asks for a suggestion to drum up business. Jess proposes using discounts on services, but Mary doesn't like any idea that brings in less money.<br/><br/>Jess vents to Robbie about her marketing issues. Robbie suggests Jess send a message to Amanda, asking to stay at the Inn for free. She can post content from there and share it with her followers. Jess loves the idea and presents it to Mary. Mary approves. Amanda agrees to stay at the Inn for content. Jess continues celebrating until she gets a message from Afanda Jane. This unknown person warns Jess to stay away from Amanda. Later, Amanda posts that someone is stalking her and her contacts. She asks her followers to be kind to one another.<br/><br/>Jess prepares the room for Amanda's arrival and creates a gift basket. Amanda has a photoshoot and raves about the Inn's quaint feel. After a few glamour shots, Amanda pulls Jess aside and questions her about strange messages. Jess recalls the DM she got from Afanda. Amanda cautions Jess that Afanda is dangerous.<br/><br/>Jess arrives at work the next day and discovers that Amanda left early. Jess sends Amanda a message of gratitude, but doesn't receive a response. Jess thinks Amanda is missing, but can she get anyone else to believe her?<br/><br/>This movie offers a fun mystery for this generation's media-obsessed culture. While the script could preach about phone addiction, that's not the focus of the story. So don't expect the plot to become preachy. The writers created rich characters with shady behaviors. If you aren't paying attention, you will miss the bit of information that sets the wheels in motion. And the conclusion leaves nothing to chance. If the culprit doesn't surprise you, the motive will.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofaninfluencer.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofaninfluencer.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "The Wife Who Knew Too Much",
-    "review": "Newly-appointed PTA President Lisa mingles at her first booster club party. Her daughter, cheerleader Taylor, and Taylor's boyfriend, quarterback Noah, and her friend Kevin attend. Taylor and Noah want to leave early for another player's party. Lisa agrees. Lisa introduces Coach Chip to her husband, Head Coach Sam. However, Sam ignores Chip to talk to an influential donor, Tom. Lisa apologizes for Sam's actions but makes a hasty exit when she sees Avery on the back patio. Avery shows Lisa a money-filled envelope. Recruiters have been fawning over Avery's son, Noah, and will offer him anything to start school with them. Avery and Lisa end their conversation when they hear Principal Finnegan break his drinking glass.<br/><br/>Kevin approaches Melissa about a class project, but she and her friends laugh at him. Kevin sulks, and Taylor sits with him. Then, they hear someone yell at Kevin from across the room. It's Melissa's boyfriend, and he's accusing Kevin of flirting with Melissa. Noah ends the altercation before a fight starts. Kevin chooses to walk home alone.<br/><br/>Noah's mother, Ruth, calls Lisa at 2 a.m. because Noah didn't come home. During their conversation, Sam tells Lisa he got a call from Finnegan. He locked himself out of the school shed and needs the key immediately. Lisa tries to get Sam to stay, but nothing works. Ruth has a bad feeling and asks Lisa to stay over. Lisa agrees. In the morning, Ruth's world stops when the police knock on her door. Kevin was the victim of a hit-and-run. He died. She rushes to comfort Ruth but sees that Mr. Finnegan, Sam, Avery, Noah, and Taylor don't express the same concern. Lisa won't let anyone derail her from finding Kevin's killer, but will it cost Lisa her life?<br/><br/>This movie is the Lifetime mystery that fans have begged for. The writer ensured everyone was out the night Kevin died. Also, everyone has a hidden agenda. Viewers unravel the mystery with Lisa as she breaks the law to uncover the truth. This plot has sex, drama, and a hint of Friday Night Lights. The story gives you a brief introduction to the characters and their connection. Before the first commercial break, Kevin dies. Afterward, the film doesn't slow down with scandal around every corner. Get your teacups ready because this picture is serving something hot.<br/><br/>5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thewifewhoknewtoomuch.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thewifewhoknewtoomuch.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Unwrapping Christmas: Lily's Destiny",
-    "review": "Lily arrives at work to discuss the Christmas Gala sponsored by her store, All Wrapped Up. Her co-owners, friends Olivia, Tina, and Mia, want to focus on Lily's date with the state's most eligible bachelor, real estate agent Owen. Lily glanced over her horoscope, and it predicted that an unexpected love would come. Then, she gets a call from Sean. He wants to interview Lily for his newspaper.<br/><br/>Lily sits with Sean, and they talk about college. They discover they attended the same school and had a class together. Lily almost forgets about Owen until she receives a text message. She ends the interview with Sean, but he doesn't have enough information for his article. Lily offers to meet again to answer business questions.<br/><br/>Lily arrives at the restaurant to meet Owen, but he's late. After a while, he enters, orders some wine, and talks about himself. Lily engages in polite conversation while seeing signs about Sean. She's ready to leave, but Owen wants to see Lily again. She's unsure until she talks to her friends. They convince her to give Owen a second chance. But they can't ignore how much Lily gushes over Sean. Just then, Sean walks into the store to gather information for his article. Lily's friends encourage her to ask him out, but she's not sure he's single. Lily throws caution to the wind and runs out of the store. She sees Sean play with a child and hug a woman. She assumes it's Sean's wife and son. Liily slowly backs away. Later, Sean develops feelings for Lily, but he sees pictures of her and Owen on a blog site. Can these two read the signs and come together? Or will they let miscommunication stand in the way?<br/><br/>The third installment of the Unwrapping Christmas franchise adds astrology to the holidays. Lily lets horoscopes and divine signs guide her life. The script explains that Lily's beliefs stem from her father's love of the stars. He died recently, and she isn't handling it well. The plot introduces a nosy neighbor, who will be your antagonist until you learn her backstory. Now, Owen will make your skin crawl. He is self-absorbed and annoying. This film has more compassion than the others, while sticking with the same plotline. However, Lily doesn't have the same number of Gala issues as the first two films. This film fits easily into the first two and gives a glimpse into the fourth. Nevertheless, it doesn't require your undivided attention to enjoy this movie.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/unwrappingchristmaslilydestiny.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/unwrappingchristmaslilydestiny.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Faith in the Flames: The Nichole Jolly Story",
-    "review": "Nurse Nichole's husband, Nick, wishes her a happy early birthday after she referees an argument between their sons, Jordan and Logan. Nichole's mother, Heidi, visits before Nichole's shift. Nick reminds Nichole that Jordan has a game today. She's missed every game of the season after promising she would make one. Nichole wants to focus on her patients, but agrees to take Jordan to school.<br/><br/>Nichole and Jordan stop at a local restaurant. She overhears a call on firefighter John's walkie-talkie. The dispatcher alerts him to smoke near the transmission towers. He assures her that everything is okay. Jordan leaves with friends, and Nichole goes to work. Nichole hears about the fire but continues to care for her patients. Then, Heidi calls. She encourages Nichole to leave immediately because the fire is coming. Nichole doesn't know it, but she, her family, and the residents of Paradise are about to encounter the deadliest wildfire in California history.<br/><br/>This film is stupendously shot, scripted, and cast. Viewers will watch in fear as the Jollys battle fire, explosions, and tornadoes. It's admirable to watch Nichole and her colleagues work in literal hell. You will say a quiet prayer for every person on screen. As they drive through the fire, the camera angles allow you to see the devastation around them while witnessing the horror on their faces. It's the definition of terror. The picture concludes with the resulting destruction. And the nightmare is ongoing.<br/><br/>5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/faithintheflamesnicholejolly.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/faithintheflamesnicholejolly.jpg"
     }
   }
 ];
@@ -68,38 +68,52 @@ module.exports = madeForTV;
 },
 
 
-{
-"option": "1",
-"mtitle": "Terri Blackstock's If I Run",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tbifirun.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tbifirun.jpg"
-}},
-{
-"option": "2",
-"mtitle": "Killer in the Woods",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "",
-  "largeImageUrl": ""
-}},
-{
-"option": "3",
-"mtitle": "Vicious Murder",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/viciousmurder.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/viciousmurder.jpg"
-}},
-{
-"option": "4",
-"mtitle": "Unwrapping Christmas: Olivia's Reunion",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/unwrappingchristmasoliviasreunion.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/unwrappingchristmasoliviasreunion.jpg"
-}}
 
+
+{
+"option":"1",
+"mtitle": "Finding Faith",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/findingfaith.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/findingfaith.jpg" 
+}
+},
+{
+"option":"2",
+"mtitle": "Secrets to Kill For",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/secretstokillfor.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/secretstokillfor.jpg" 
+}
+},
+{
+"option":"3",
+"mtitle": "Aurora Teagarden Mysteries: Death at the Dinner",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/aurorateagardenmysteriesdeathdiner.jpeg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/aurorateagardenmysteriesdeathdiner.jpeg"
+}
+},
+{
+"option":"4",
+"mtitle": "Sins of the Father",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinsofthefather-lm.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinsofthefather-lm.jpg" 
+}
+},
+{
+"option":"5",
+"mtitle": "Providence Falls: Chance of a Lifetime",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/providencefalls1.jpeg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/providencefalls1.jpeg" 
+}
+}
 
 */
