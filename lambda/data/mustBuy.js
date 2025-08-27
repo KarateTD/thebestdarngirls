@@ -1,6 +1,18 @@
 var mustBuy = [
-  {
+    {
     "option": "1",
+    "mtitle": "Karate Kid: Legends",
+    "review": "Li practices Kung Fu in a dojo owned and operated by his uncle, Shifu Han. A student runs in and warns Han that the director, his niece Dr. Fong, is there. She got a job in New York. She and Li will move there and start a new life. Han urges Dr. Fong to let Li continue his training, but she refuses. She makes Li vow to never fight again.<br/><br/>After Dr. Fong and Li move into their New York apartment, Li leaves to find dinner and toilet paper. He walks to Victor's Pizza and orders a stuffed crust. Victor tells Li to find a strip mall. However, Victor's daughter, Mia, offers a softer approach.<br/><br/>After school, Li walks home and sees Mia arguing with a vendor. Li admits his first day was complex. They cross paths with a Kung Fu dojo, and Li freezes and stares into the storefront window. The owner, O'Shea, reminds Mia that Victor owes him money. Mia warns Li to stay away from that dojo. They make an exchange. He will teach her Mandarin if she shows him around New York.<br/><br/>During their first lesson, Li and Mia take the train. They bump into Mia's ex-boyfriend, Conor. He sucker-punches Li as Mia disembarks the train. Conor is the reigning Karate champion and trains at O'Shea's dojo. Conor will defend his championship in the 5 Burroughs Tournament.<br/><br/>Later, Li sees three men harassing Victor, and Li fights them off. Victor, a former boxing champion, asks Li to teach him Kung Fu. A fight is coming up, and O'Shea's thugs will be in attendance. If Victor beats them, he will earn enough money to pay O'Shea. The fight starts well, but O'Shea's fighter throws a dirty punch, landing Victor in the hospital. Li falls into a deep sadness.<br/><br/>Han learns about Li's suffering, so Han travels to New York. He encourages Li to enter the tournament and win the prize money for Victor. However, the competition focuses on Karate, not Kung Fu. To help Li, Han must find Daniel and persuade him to train Li in seven days. Can Li win the competition and add another branch to Miyagi's tree?<br/><br/>The film opens with Mr. Miyagi teaching Daniel the history of Karate. It's a recap of Mr. Miyagi's importance to the franchise. The fight scenes are nearly perfect and include training techniques from the original films. The violence may be too much for younger viewers, but the graphics and commentary give the audience a video game feel. The script handles humor with emotional topics with ease while teaching important life lessons about perseverance, respect, and strength. This film will revitalize the franchise.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0FB3JKXXD"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/karatekidlegends.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/karatekidlegends.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "Lilo and Stitch",
     "review": "The Grand Councilwoman called an emergency meeting of the United Galactic Federation. Scientist Dr. Jumba Jookiba created an alien he calls Experiment 626. It's bright, indestructible, and can evade capture. Councilwoman imprisons 626. 626 escapes before the Councilwoman makes it to the ship's deck. He lands in Honolulu, Hawaii. She plans to vaporize the planet until Agent Wendell Pleakley stops her. Earth is a habitat for the endangered mosquito species. Grand Councilwoman tells Wendell and Dr. Jumba to travel to Earth and capture 626 before he wreaks havoc on the planet.<br/><br/>Lilo arrives at her hula recital late and jumps in place. Another dancer, Myrtle, teases Lilo during the performance, so Lilo pushes Myrtle off the stage. When Nani arrives, Lilo is gone. Nani rushes home to apologize, but Lilo locks Nani outside. Nani grabs a brick to break a window when their caseworker, Mrs. Kekoa, arrives. She gives Nani three tasks to complete in four days, or Nani will lose custody. Lilo agrees to be better. Then she sees a shooting star. She pushes Nani out the door and wishes for a best friend.<br/><br/>Lilo's shooting star was 626's crash landing. Unfortunately, 626 runs into oncoming traffic. Then, a tour bus knocks him out. The driver assumes 626 is a dog and brings it to the animal shelter. Soon after 626's arrival, Dr. Jumba and Agent Wendell enter Earth's atmosphere. And CIA Agent Cobra Bubbles searches the woods to discover who or what left a crater.<br/><br/>Nani's neighbor, Tūtū, takes Lilo to the animal shelter. Lilo plays with the dogs and finds a cage with bent wires. She looks around, and a blue dog says hi to her. Lilo believes her shooting star wish worked. Lilo's latest friend will turn her world upside down and test Lilo's understanding of Ohana.<br/><br/>This live-action remake uses the original as its foundation but adds believable aspects to the film. Fans of the original can spot the differences. These changes don't feel like much. However, it changes the direction of the story. The plot centers around Ohana, but the conclusion is more realistic. The graphics between Stitch and the other animated characters are vivid, life-like, and true to the original. Also, the designers took a lot of time perfecting the moments between Stitch and Lilo. However, Stitch's interactions with other humans can be disjointed and bothersome. Disney adaptations have been hit-and-miss in the past, but this film is a gold standard.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "How to Train Your Dragon",
     "review": "How to Train Your Dragon was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "The Accountant 2",
     "review": "The Accountant 2 was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Thunderbolts",
     "review": "Yelena completes another mission for CIA Director Valentina but doesn't feel fulfilled. So, she visits her father, Alexei, the Red Guardian, for help. He tells her the best way to feel fulfilled is to do good for her country. Yelena leaves Alexi and calls Valentina. She agrees to do one more job and then become a public figure. Valentina tells Yelana to go to an Ox Corp black site and destroy everything inside, including a target.<br/><br/>Valentina stands before Congress for her impeachment trial. She warns them that the Avengers are gone. They must create new heroes to protect the Earth. Valentina leaves the hearing with her assistant, Mel. She tells Mel to clean everything they can use against her in the hearing.<br/><br/>Congressman Bucky Barnes attends a Battle of New York exhibit with Valentina and Congressman Gary. Bucky runs into Mel and gives her his business card. Then, Bucky pulls Gary aside. He tells Gary that Mel may switch sides. However, Gary wants Bucky to focus on his job.<br/><br/>Yelena arrives at the black site. Then, John Walker hits her. She retaliates but stops because he is not her target. However, she is his. During their battle, Ava, the Ghost, appears and attacks John because Valentina hired her to kill him. They battle, and Taskmaster appears. Ava kills Taskmaster in the battle. The remaining three continue to fight and accidentally hit a button on a box. The box opens and releases Bob. Ava, John, and Yelena argue until they realize that Valentina set them up to kill each other and wipe her slate clean.<br/><br/>Mel second-guesses Valentina's leadership when Valentina instructs Mel to kill her operatives. However, Mel alerts Valentina that they survived and released Bob. She demands that Mel get her to the site and save Bob, but everyone else can die. Valentina and Mel don't know that Alexei is their driver. He drops them off and rushes to warn Yelena. Mel calls Bucky and gives him the details. He rushes to find the three and brings them to the hearing as evidence of Valentina's crimes. Yelena, Bucky, Red Guardian, Ava, and John Walker will form the Thunderbolts. They assume their enemy is Yelena. However, they will battle the void inside all of them.<br/><br/>Marvel fans, you asked for a more story-driven and gritty MCU. This movie delivers. The opening sequence changed. It only includes pages from the comic books. Then, the music and image go dark. Most of the audience has experienced feelings of loneliness, nothingness, sadness, shame, and even depression. This film is the physical manifestation of that. The film's quips are original, funny, and perfectly acted and timed. The only downfall is the first battle scene between Bob and the Thunderbolts. It's reminiscent of Hulk and Loki. It's cartoonish and overly computerized at a time of seriousness. If this is the new direction of the MCU, then they need to stay on this path. Viewers should remain for the mid and post-credit scenes.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thunderbolts.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thunderbolts.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Final Destination Bloodlines",
-    "review": "Stefani awakens in the middle of class with a scream. For two months, she has had the same nightmare about her grandparents, Iris and Paul, every day. Stefani believes returning home and speaking to her father, Marty, about Iris will ease her mind. Her roommate agrees.<br/><br/>Stefani arrives home and greets Marty and her brother, Charlie. Stefani asks her father about a box of Iris's things that her mother, Darlene, kept. Marty tells Stefani not to talk about Iris and that the box is with Stefani's uncle Harold. Charlie wants to visit his cousins, so Stefani offers to drive.<br/><br/>They arrive at Harold's home and greet their aunt, Brenda, and cousins, Erik, Bobby, and Julia. Stefani questions Harold about Iris. He says that Iris is a crazy woman, and Child Protective Services had to save him and his sister, Stefani's estranged mom, Darlene, from Iris. Stefani finds old letters with Iris's address and drives there.<br/><br/>Stefani arrives at a heavily fortified home. She tells Iris about her dreams, and Iris says it's her premonition. Fifty years ago, Iris and her boyfriend, Paul, went to the grand opening of the Skyline Tower. Paul and Iris went to the observation deck. During Paul's proposal, Iris had a premonition that everyone would die. She and a little boy, JB, would be last. She warned everyone and saved their lives. Since that day, everyone and their descendants died in the order they would have that night. Death is still after Iris and her heirs.<br/><br/>Iris runs after Stefani but stops at the doorway. Iris chooses to risk it and begs Stefani to take the book. Stefani grabs it, but Iris can still see disbelief in Stefani's eyes. Iris takes three steps back and lets Death take her. Stefani rushes to her family to warn them, but it is too late. A member met a gruesome end. Death is coming for them, but can Stefani make her family believe before it's too late?<br/><br/>This Final Destination installment doesn't disappoint. The deaths are grisly and cringe-inducing, and you are guaranteed to have a new fear unlocked. The writers injected more humor into this chapter with added gore. Unlike its predecessors, this film didn't rely too heavily on the signs. Stefani got a bad feeling and acted accordingly. This film doesn't offer mid or post-credit scenes. This tribute to Tony Todd is a bloody, good time with lots of laughs and guts.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0F53DD7PS"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/finaldestinationbloodlines.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/finaldestinationbloodlines.jpg"
     }
   }
 ];
@@ -210,19 +210,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/missionimpossiblethefinalreckoning.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/missionimpossiblethefinalreckoning.jpeg"
-    }
-  }
-
-  {
-    "option": "3",
-    "mtitle": "Karate Kid: Legends",
-    "review": "Li practices Kung Fu in a dojo owned and operated by his uncle, Shifu Han. A student runs in and warns Han that the director, his niece Dr. Fong, is there. She got a job in New York. She and Li will move there and start a new life. Han urges Dr. Fong to let Li continue his training, but she refuses. She makes Li vow to never fight again.<br/><br/>After Dr. Fong and Li move into their New York apartment, Li leaves to find dinner and toilet paper. He walks to Victor's Pizza and orders a stuffed crust. Victor tells Li to find a strip mall. However, Victor's daughter, Mia, offers a softer approach.<br/><br/>After school, Li walks home and sees Mia arguing with a vendor. Li admits his first day was complex. They cross paths with a Kung Fu dojo, and Li freezes and stares into the storefront window. The owner, O'Shea, reminds Mia that Victor owes him money. Mia warns Li to stay away from that dojo. They make an exchange. He will teach her Mandarin if she shows him around New York.<br/><br/>During their first lesson, Li and Mia take the train. They bump into Mia's ex-boyfriend, Conor. He sucker-punches Li as Mia disembarks the train. Conor is the reigning Karate champion and trains at O'Shea's dojo. Conor will defend his championship in the 5 Burroughs Tournament.<br/><br/>Later, Li sees three men harassing Victor, and Li fights them off. Victor, a former boxing champion, asks Li to teach him Kung Fu. A fight is coming up, and O'Shea's thugs will be in attendance. If Victor beats them, he will earn enough money to pay O'Shea. The fight starts well, but O'Shea's fighter throws a dirty punch, landing Victor in the hospital. Li falls into a deep sadness.<br/><br/>Han learns about Li's suffering, so Han travels to New York. He encourages Li to enter the tournament and win the prize money for Victor. However, the competition focuses on Karate, not Kung Fu. To help Li, Han must find Daniel and persuade him to train Li in seven days. Can Li win the competition and add another branch to Miyagi's tree?<br/><br/>The film opens with Mr. Miyagi teaching Daniel the history of Karate. It's a recap of Mr. Miyagi's importance to the franchise. The fight scenes are nearly perfect and include training techniques from the original films. The violence may be too much for younger viewers, but the graphics and commentary give the audience a video game feel. The script handles humor with emotional topics with ease while teaching important life lessons about perseverance, respect, and strength. This film will revitalize the franchise.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0FB3JKXXD"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/karatekidlegends.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/karatekidlegends.jpeg"
     }
   }
 
