@@ -161,6 +161,32 @@ module.exports = mustBuy;
     }
   }
 
+    {
+    "option": "1",
+    "mtitle": "Caught Stealing",
+    "review": "Bartender Hank closes the bar and meets his lady friend, Yvonne. Hank runs into his neighbor, Russ. Russ learned that his father had a stroke, and now he has to fly to London to be at his bedside. He asks Hank to care for his cat, Buddy. Later, Yvonne gathers the litter box and brings it into Hank's bathroom.<br/><br/>After closing the bar, Hank comes home to see two men, Aleksei and Pavel, knocking on Russ's door. They ask Hank for Russ's location, but he refuses to give it to them. They ruptured his kidney, so a doctor had to remove it. Curious, Hank enters Russ's apartment to search it. He escapes when the mobsters return. Hank calls the police.<br/><br/>Detective Elise Roman interviews Hank about the intruders. She informs Hank that Russ is a drug dealer, working for some hardcore criminals. Elise says the Russians are dangerous, but Hasidic gangsters, Lipa and Shmully, are monsters. She gives him a number in case Hank sees the mobster and gangsters again. Hank enters his bathroom and notices something strange in the litter box. One poop is fake and hides a key. Hank runs to his job with the key in hand. His boss, Paul, convinces Hank to drink. Hank gets drunk and returns home. He pukes on the exterior door, takes off his clothes, and enters his apartment.<br/><br/>Inside, Aleksei and Pavel are waiting for him with mobster Colorado. They want the key and torture Hank for it. Hank tells them it's in the litter box, but it's missing. Hank remembers he took it to the bar. They demand that he obtain the key and not call the cops. If Hank doesn't find the key, they vow to kill him and everyone he loves.<br/><br/>Based on Caught Stealing by Charlie Huston, this film is action-packed and surprisingly witty. The storytelling is interconnected and intelligent. Every object, character, and monologue has a deeper meaning and merges into the conclusion. The director didn't choose fancy angles to narrate the story. Instead, they used New York and baseball as the backdrop. The natural light and languages make the tale feel authentic. This film is for you if you enjoy crime comedies with an enigma.<br/><br/>4.5 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/caughtstealing.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/caughtstealing.jpeg"
+    }
+  }
+
+  {
+    "option": "2",
+    "mtitle": "Relay",
+    "review": "Ash watches his client, Hoffman, sit nervously at a diner. Hoffman hands documents to the CEO, takes a picture with him, and exits the restaurant. Ash follows Hoffman through the city and watches him board the train. Ash retreats to his lair, stashes a copy of the documents in his safe, and burns envelopes meant for the press. He attends his AA meeting and listens to new messages from potential clients.<br/><br/>Whistleblower Sarah meets with a lawyer. She discovered that her employer, Cybo Sementis, did not disclose the harmful side effects of the new food additive. When they discovered she had a copy of the email and its contents, the company sent goons to harass her. The lawyer alerts Sarah to legal routes she can take under whistleblower protection laws. However, she wants to return the documents to stop the harassment. The lawyer informs her about a service that deals with this sensitive matter. He gives her a number and tells her to leave a message. If they choose her case, they will call back.<br/><br/>Sarah arrives at a safe house, calls the number, and leaves a message. She gets a call from the Tri-State Relay. The calls aren't recorded and are confidential. She agrees to take the call. Ash accepts her case, but she must follow his directions without question. Any failure on her part will void their deal. She will be a lamb to the slaughter. Sarah agrees, and Ash puts his plan into motion. However, Cybo Sementics won't bow down without a fight.<br/><br/>This movie is a battle of wits with low-tech solutions. Ash doesn't use a hacker or a crew to flush out Sarah's harassers. Instead, he uses the relay service, the post office, and cunning to stay one step ahead. During the opening sequence, you never hear Ash speak. Ash feels like a mythical character. This movie waits for the height of the climax to stun you. It's a long-forgotten plot point that knocks you out of your seat. The slick presentation pacifies you into a sense of relaxation, so you don't see what the writer is preparing. This moral dilemma is a highly entertaining and captivating spy thriller.<br/><br/>4 out of 5 stars.",
+    "asin":{
+      "re":""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/relay.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/relay.jpeg"
+    }
+  }
+
    {
     "option": "4",
     "mtitle": "Rob Peace",
