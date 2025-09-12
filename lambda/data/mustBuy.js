@@ -162,19 +162,6 @@ module.exports = mustBuy;
     }
   }
 
-   {
-    "option": "4",
-    "mtitle": "Rob Peace",
-    "review": "Robert DeShaun Peace sits on the porch and waits for his father, Robert 'Skeet' Douglas, to pick him up. Robert's mother, Jackie Peace, gives Skeet a brief hello and hugs her son goodbye. Skeet praises Shaun's love of math and urges Shaun to use it for the community. Shaun loves spending time with Skeet, but this will be the last day of Shaun's childhood.<br/><br/>The police arrest Skeet for murdering two women after an argument. Three years later, a jury finds Skeet guilty and sentences him to life in prison. Jackie knows Skeet's murder conviction will follow Shaun, so she decides to put him in a private school after elementary. She sits Shaun down and explains that he should go by the name Robert so people won't discover what Skeet did.<br/><br/>Shaun, now Robert, works hard at St. Benedict Prep School and impresses the principal, Reverend Edwin. However, no one knows Robert is secretly working on Skeet's case. He discovered the original trial violated the 6th Amendment and now gets a hearing. The judge agrees with Robert's argument and frees Skeet but gives the state 30 days to appeal. Days later, the state wins and puts Skeet back in prison to serve the rest of his life sentence. Robert continues to study, work, and focus on Skeet's case until he hears Jackie scream. Robert got into Yale University. Robert wants to use his degree to improve the community and help his father, but Jackie warns Robert. She thinks standing by Skeet and East Orange will bring Robert down. Robert will attend Yale in the fall and help the community. This decision will bring his promising future to a heartbreaking end.<br/><br/>Based on The Short and Tragic Life of Robert Peace: A Brilliant Man Who Left Newark for the Ivy League by Jeff Hobbs, this movie embodies the crab mentality. Robert reaches a fork in the road when Jackie wants him to leave, and Skeet wants Robert to beg, borrow, and steal to save him. The director used the backing track, news, and costumes to set the period. Also, the lighting and camera angle changes when Robert confronts Jackie compared to him and Skeet. This film is an emotional rollercoaster because you want Robert to succeed, but you know the ending. This picture is a must-see, but parents should know it has drug use and some foul language. However, it teaches a worthy lesson.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":""
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/robpeace.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/robpeace.jpeg"
-    }
-  }
-
     {
     "option": "1",
     "mtitle": "Nickel Boys",
@@ -289,6 +276,19 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/freakierfriday.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/freakierfriday.jpeg"
+    }
+  }
+
+    {
+    "option": "1",
+    "mtitle": "The Long Walk",
+    "review": "Raymond Garraty, along with 49 other young men, received a letter from The Major. Out of the applicants from his state, the Major chose him to participate in the long walk. The winner will receive a monetary prize and one wish. Garraty's mother, Ginnie, cries as she delivers her son to the starting point. She begs him to quit, but the deadline was yesterday. He grabs his gear and baseball before hugging Ginnie goodbye.<br/><br/>Garraty enters the gates and sits with the other young men. He meets Peter McVries, a man who wishes to do good with the prize. Stebbins is the strongest of the bunch. Arthur Baker's faith inspires him, and Hank Wang focuses on the untold riches. Gary Barkovitch is a loner, and Collie Parker wants to document the experience. Then, the Major walks onto the tank and explains the rules. They must walk 3 miles per hour with no finish line in sight. If they slow down, they get one warning and have 30 seconds to regroup. The third warning means death. They will face instant death if they run away or step off the pavement. It's walk or die. While others want riches, Garraty has another reason to enter this competition: revenge. Who will win?<br/><br/>Based on the novel The Long Walk by Stephen King, this dystopian thriller shares similarities with the original, but it's not a retelling. However, the film retains the book's impact. The director made a bold choice by using natural lighting and empty surroundings to draw the audience's focus to the contestants. Also, the surroundings mirror their despair. The graphics department didn't shy away from the blood and gore. Unlike the Hunger Games, the Major is not a man of reason. He is unflappable, rigid, and single-minded. Also, the juxtaposition of the final stretch breaks your heart. The winner breaks down in gut-wrenching sobs as the crowd celebrates with fireworks and the national anthem. It's a moment that will stick with you after the film. The studio labeled the film a horror, but it's a warning. You should see this film if you can stomach the unflinching violence.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelongwalk.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelongwalk.jpg"
     }
   }
 */
