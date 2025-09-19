@@ -58,7 +58,24 @@ module.exports = inTheTheaters;
 /*
 
 
-
+{
+"option": "1",
+"mtitle": "A Big Bold Beautiful Journey",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/abigboldbeautifuljourney.jpeg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/abigboldbeautifuljourney.jpeg"
+}
+},
+{
+"option": "2",
+"mtitle": "Him",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/him.jpeg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/.jpeg"
+}
+}
 
 
 */

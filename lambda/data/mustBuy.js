@@ -84,19 +84,6 @@ module.exports = mustBuy;
     }
   }
 
-  {
-    "option":"1",
-    "mtitle":"Fly Me to the Moon",
-    "review":"Fly Me to the Moon was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":""
-    },
-    "image":{
-    "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/flymetothemoon.jpeg",
-    "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/flymetothemoon.jpeg"
-    }
-    }
-
     {
     "option": "1",
     "mtitle": "The Roses",
@@ -154,7 +141,7 @@ module.exports = mustBuy;
     "mtitle": "Relay",
     "review": "Ash watches his client, Hoffman, sit nervously at a diner. Hoffman hands documents to the CEO, takes a picture with him, and exits the restaurant. Ash follows Hoffman through the city and watches him board the train. Ash retreats to his lair, stashes a copy of the documents in his safe, and burns envelopes meant for the press. He attends his AA meeting and listens to new messages from potential clients.<br/><br/>Whistleblower Sarah meets with a lawyer. She discovered that her employer, Cybo Sementis, did not disclose the harmful side effects of the new food additive. When they discovered she had a copy of the email and its contents, the company sent goons to harass her. The lawyer alerts Sarah to legal routes she can take under whistleblower protection laws. However, she wants to return the documents to stop the harassment. The lawyer informs her about a service that deals with this sensitive matter. He gives her a number and tells her to leave a message. If they choose her case, they will call back.<br/><br/>Sarah arrives at a safe house, calls the number, and leaves a message. She gets a call from the Tri-State Relay. The calls aren't recorded and are confidential. She agrees to take the call. Ash accepts her case, but she must follow his directions without question. Any failure on her part will void their deal. She will be a lamb to the slaughter. Sarah agrees, and Ash puts his plan into motion. However, Cybo Sementics won't bow down without a fight.<br/><br/>This movie is a battle of wits with low-tech solutions. Ash doesn't use a hacker or a crew to flush out Sarah's harassers. Instead, he uses the relay service, the post office, and cunning to stay one step ahead. During the opening sequence, you never hear Ash speak. Ash feels like a mythical character. This movie waits for the height of the climax to stun you. It's a long-forgotten plot point that knocks you out of your seat. The slick presentation pacifies you into a sense of relaxation, so you don't see what the writer is preparing. This moral dilemma is a highly entertaining and captivating spy thriller.<br/><br/>4 out of 5 stars.",
     "asin":{
-      "re":""
+      "re":"B0FNVD26JT"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/relay.jpeg",
@@ -232,7 +219,7 @@ module.exports = mustBuy;
     "mtitle": "F1: The Movie",
     "review": "Sonny finishes his race, collects his meager winnings, and leaves to find the next challenge. He hears a voice behind him and sees a familiar face, Ruben. Ruben and Sonny competed in the past, but now Ruben owns a racing team, APEX GP. However, APEX GP has yet to win a race. If APEX GP doesn't win, the board will remove Ruben. Ruben's best driver, Joshua, is highly skilled but young. Ruben wants Sonny to join his team and bring maturity to it. Ruben believes that Joshua and Sonny could win F1 and bring credibility to APEX GP. So Ruben leaves him a first-class ticket to their training track.<br/><br/>Joshua tries out their new car but notices some issues. Sonny arrives as Joshua reports his findings. Joshua's manager, Cash, pulls him aside. Joshua needs to make a good impression over the next few races. Cash believes APEX GP is going down. If Joshua ranks on the leaderboard, another team could open up a spot for him. Sonny thinks the team can win, but they must make changes to the car. Ruben agrees. While Sonny races to overcome his past, Joshua wants to keep his career. Can APEX GP survive with two men competing for the number one spot?<br/><br/>This film has the high-octane fun of Days of Thunder with witty banter. It pays respect to the intricacies and dangers of racing. The audience sees the split decisions, track sabotage, and teamwork in racing. The film uses F1 drivers and scenarios to increase the drama and urgency. The viewer will feel it in their chest as they get a cockpit view of the track. However, this film isn't solely about the race. It also covers espionage and sabotage, but the writers make the audience connect the clues of who is responsible. While the film is lengthy, it delivers an original competitive racing story.<br/><br/>4 out of 5 stars.",
     "asin": {
-      "re": ""
+      "re": "B0FP47283L"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/f1.jpeg",
@@ -289,6 +276,19 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelongwalk.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelongwalk.jpg"
+    }
+  }
+
+   {
+    "option": "4",
+    "mtitle": "Nobody 2",
+    "review": "Hutch sits in a police station with a dog beside him. He ignites a lighter and uses it to cauterize his wound. The police demand to know who they are. Hutch takes a deep breath and ponders his response. To the outside world, Hutch is married to real estate agent Becca. They raise two children, Sammy and Brady, in a happy and loving environment. However, the underworld knows Hutch as an accountant. At home, Hutch is a man who puts work over family. Becca misses him at dinner time and informs Hutch. She mentions the kids' upcoming summer vacation. Hutch promises to plan everything.<br/><br/>Days later, Hutch shows the family an old video of Plummersville. Hutch has fond memories of that place because it was the only time his father, David, took him and his brother, Harry, on a trip.<br/><br/>Hutch and his family play games at an arcade. Brady gives his extra tickets to a pretty girl and the rest to his sister. Sammy trades her tickets for a badger as Max approaches. He accuses Brady of flirting with his girlfriend, steals Sammy's badger, and rips off its head. As they exit, one of the guards hits Sammy in the back of the head. With a ruse, Hutch reenters the arcade without his family and takes out the guards. The police arrest him and Brady.<br/><br/>The family waits at the police station for Abe. Abe brings Hutch to his office and stands at the corner. Wyatt sits at Abe's desk and states that he runs this town. He demands that Hutch leave and never return. Hutch agrees but stays. Abe's goons spot Hutch and his family at the water park.  Wyatt orders Abe to rid the town of Hutch. He doesn't know who Hutch is, but he understands that Hutch will bring problems to Lendina's business. Lendina is a ruthless bootlegger who will kill anyone who disrupts her cash flow, including Wyatt. Hutch won't budge because he and his family need this time together. No one will ruin this nobody's vacation.<br/><br/>This sequel doesn't follow the action genre pattern. It doesn't put Hutch in a new, exotic location to go on the hunt. Instead, he travels to a small town for family time. This charming and dry comedy features the original cast. It has more explosions, blood, and wall-to-wall action. The fight sequences combine John Wick with Home Alone. The director found exciting and cringy ways to include a funhouse, waterslide, and ball pit. And Lendina is a quirky villain who lives on bloodlust. This film adds to the franchise, not by expanding the world, but by enlightening the audience to Hutch's family. This film is an entertaining, mindless good time.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0FMJ5N1P5"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/nobody2.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nobody2.jpeg"
     }
   }
 */
