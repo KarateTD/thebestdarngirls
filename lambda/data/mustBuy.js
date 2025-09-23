@@ -1,6 +1,30 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Superman",
+    "review": "Superman was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0FDFLXF7C"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/superman.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/superman.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "M3GAN 2.0",
+    "review": "Gemma crusades to reduce children's exposure to technology and AI safeguards after creating a killer robot to help raise her niece, Cady. Gemma hasn't turned her back on technology. She and her team have created an exoskeleton to reduce workplace injuries and increase productivity.<br/><br/>Gemma rushes home after picking Cady up from school. She's late for an investor's meeting. The exoskeleton glitched and hit the investor. Someone hacked them. Then, CEO Alton enters Gemma's home and propositions her. He wants Gemma to work for him and add AI to the human brain. Gemma says no.<br/><br/>Gemma tucks Cady into bed and relaxes for the evening. The lights flicker, and a strange message comes to the TV, telling her to run. Gemma and Cady fight back until one man pulls out a badge. He's with the FBI.<br/><br/>Army Colonel Tim demands answers from Gemma. A few days ago, Tim sent a robot called AMELIA, Autonomous Military Engagement Logistics and Infiltration Android, to rescue a scientist. However, AMELIA killed him, removed her safeguards, and escaped. Since then, AMELIA has killed everyone who had a hand in her creation. He informs Gemma that her M3GAN program was the foundation for AMELIA. He assumes she created the robot and demands an explanation. During the conversation, Gemma checks her phone's notifications. It warns her that Tim is clueless and to ignore his threats. Tim leaves with her phone. She calls out to M3GAN, who appears as a hologram. M3GAN lived in the smart home's system for years, watching them. By M3GAN's calculations, any attempts to stop AMELIA will result in Cady's end. M3GAN wants to protect Cady by stopping AMELIA. But first, she needs Gemma to create a body for her. Gemma will do the one thing she swore she never would: create a better M3GAN. Can they put an end to AMELIA?<br/><br/>This sequel is leaps and bounds ahead of its predecessor. The script is funnier, cringier, and more thought-provoking than the first. It allows the audience to think about AI without getting preachy. The graphics department allowed M3GAN to keep her doll-like face while turning her body into the ultimate killing machine. This film is a laugh riot that delivers a few jump scares and a side of Maxwell you have never heard before.<br/><br/>5 out of 5 stars.",
+    "asin": {
+      "re": "B0FCYXQYWR"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan20.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan20.jpeg"
+    }
+  },
+  {
+    "option": "3",
     "mtitle": "Elio",
     "review": "Elio hides under the table, mourning the lost of his parents, as his aunt Olga orders food from the Montez Air and Space Museum cafeteria. Olga looks under the table, and Elio is gone. She searches the museum and finds Elio listening to a presentation about the Golden Record. He ponders if there are others out there. It will be a place he could finally fit in.<br/><br/>Elio stakes out places near the Montez Air Force Base to be abducted. One night, Bryce joins Elio on the beach with his hand radio. Bryce asks about the other club members when Bryce's friend, Caleb, joins them. Elio hears a strange signal coming from the radio, and Caleb pulls the radio from Elio's hands, and they fight. The device hits Elio in the eye, and all three boys return to the base.<br/><br/>Major Olga is furious because Elio skipped school and got into a physical altercation. She tells Elio to wait in her office so she can attend a short meeting. A contractor, Gunther Melmac, picked up a signal from outer space. It's the same sound Elio heard from his radio. Melmac believes it's aliens and is ready to send a signal back. Everyone leaves. Elio jumps out of the trash, records a message for aliens to abduct him, and sends it. It shuts down the base.<br/><br/>At her wits' end, Olga takes Elio to a summer academy to curb his behavior. Caleb and Bryce spot Elio's arrival, and Caleb plots his revenge. Caleb, Bryce, and two other boys pull Elio out of his tent. Elio opens his eyes and sees the world around him frozen. He wiggles out of the boys' clutches, and a green beam lifts him off the ground. Elio cheers as he floats to the ship.<br/><br/>Ooooo, a liquid supercomputer, greets Elio and introduces him to the leaders of the Communiverse. Ambassadors Questa, Helix, and Tegmen greet Elio, assuming he's the leader of Earth. They are willing to accept him as a member of the Communiverse but squirm over their second visitor, Lord Grigon. The won't welcome him. Grigon threatens to make them all pay before leaving. They prepare for a fearful retreat and inform Elio that he must return to Earth. Elio can't bear the thought of being alone again and offers a trade. He will broker a deal with Grigon. They agree to let Elio stay if he persuades Grigon to leave the Communiverse alone. Will Elio save the Communiverse and find a place where he belongs?<br/><br/>This Pixar film covers acceptance and belonging while honoring a parent's sacrifice and understanding. Emotions aside, this film is visually splendid. The animators didn't use alien stereotypes. They created something new and unique. It's easy to see how this movie can grow and expand into a series on the Disney Channel. While the story will not make you cry, it does connect to the audience. There aren't any sly adult jokes, but this picture is funny. This film is confusing because it lacks a classic villain, leaving the plot more complex. Young viewers will enjoy it, but won't comprehend the message. Overall, Elio is an entertaining but elaborate film for the entire family. It has stellar visuals and a mid-credit scene.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -12,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "4",
     "mtitle": "From the World of John Wick: Ballerina",
     "review": "Ballerina was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -24,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "5",
     "mtitle": "Jurassic World Rebirth",
     "review": "Pharmaceutical Representative Martin Kerbs sits in traffic while police try to move a dying dinosaur off the road. Since the escape of dinosaurs, most have died due to the current climate and disease. The remaining live near the equator because it resembles their natural habitat. He jumps when he hears Covert Ops Specialist Zora Bennett in the back of his car. She knows Martin is looking for her and wants to know why. He must collect DNA from three distinct dinosaurs to create life-saving heart medication. It's illegal for anyone to travel near the equator. So, this mission is top secret. Zora walks away until Martin offers $10 million. But he must recruit one more person.<br/><br/>Martin and Zora enter the museum while paleontologist Dr. Henry Loomis helps box the exhibits. Martin tells Henry his plan, and Henry summarizes that they need Centurian dinosaurs. They need samples from aquatic Mosasaurus, terrestrial Titanosaurus, and avian Quetzalcoatlus. Henry mulls it over, but Zora appeals to his deepest desire: seeing the animals he admires in the wild.<br/><br/>Martin, Zora, and Henry travel to a small island near the equator. Zora sits with Duncan and runs a con on Martin. They get Martin to double his payment so Duncan and his crew can take them to the equator. They set sail from Ile Saint-Hubert to find the creatures. Before they get there, they hear a mayday on the radio. Reuben set sail with his two daughters, Isabella and Teresa, and Teresa's boyfriend, Xavier. A Mosasaurus capsized their vessel, and it's sinking. They save the family and bring them aboard the ship. They believe they are safe until the Mosasaurus attacks them. After a deadly battle, Teresa falls off the vessel while they collect the first sample. Her family and Xavier jump off to save her while Duncan and the remaining team shipwreck on Ile Saint-Hubert. Can both groups survive the island and collect the final two samples?<br/><br/>This film, like the first, lets the viewer's imagination scare them first. Similar to the latest movies, this picture offers new genetically altered dinosaurs. However, the main plot sticks to the classic creatures we love. This script has witty banter, jump scares, and heartfelt moments. The script gets murky with Reuben and his family. It only needs one family member for one critical scene. Otherwise, their subplot is a 30-minute filler. This new installment in the franchise subtly mentions the past films but doesn't rely on them. It's an improvement over the past, but nothing beats the first.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -33,30 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/jurassicworldrebirth.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/jurassicworldrebirth.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Karate Kid: Legends",
-    "review": "Li practices Kung Fu in a dojo owned and operated by his uncle, Shifu Han. A student runs in and warns Han that the director, his niece Dr. Fong, is there. She got a job in New York. She and Li will move there and start a new life. Han urges Dr. Fong to let Li continue his training, but she refuses. She makes Li vow to never fight again.<br/><br/>After Dr. Fong and Li move into their New York apartment, Li leaves to find dinner and toilet paper. He walks to Victor's Pizza and orders a stuffed crust. Victor tells Li to find a strip mall. However, Victor's daughter, Mia, offers a softer approach.<br/><br/>After school, Li walks home and sees Mia arguing with a vendor. Li admits his first day was complex. They cross paths with a Kung Fu dojo, and Li freezes and stares into the storefront window. The owner, O'Shea, reminds Mia that Victor owes him money. Mia warns Li to stay away from that dojo. They make an exchange. He will teach her Mandarin if she shows him around New York.<br/><br/>During their first lesson, Li and Mia take the train. They bump into Mia's ex-boyfriend, Conor. He sucker-punches Li as Mia disembarks the train. Conor is the reigning Karate champion and trains at O'Shea's dojo. Conor will defend his championship in the 5 Burroughs Tournament.<br/><br/>Later, Li sees three men harassing Victor, and Li fights them off. Victor, a former boxing champion, asks Li to teach him Kung Fu. A fight is coming up, and O'Shea's thugs will be in attendance. If Victor beats them, he will earn enough money to pay O'Shea. The fight starts well, but O'Shea's fighter throws a dirty punch, landing Victor in the hospital. Li falls into a deep sadness.<br/><br/>Han learns about Li's suffering, so Han travels to New York. He encourages Li to enter the tournament and win the prize money for Victor. However, the competition focuses on Karate, not Kung Fu. To help Li, Han must find Daniel and persuade him to train Li in seven days. Can Li win the competition and add another branch to Miyagi's tree?<br/><br/>The film opens with Mr. Miyagi teaching Daniel the history of Karate. It's a recap of Mr. Miyagi's importance to the franchise. The fight scenes are nearly perfect and include training techniques from the original films. The violence may be too much for younger viewers, but the graphics and commentary give the audience a video game feel. The script handles humor with emotional topics with ease while teaching important life lessons about perseverance, respect, and strength. This film will revitalize the franchise.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0FB3JKXXD"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/karatekidlegends.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/karatekidlegends.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Lilo and Stitch",
-    "review": "The Grand Councilwoman called an emergency meeting of the United Galactic Federation. Scientist Dr. Jumba Jookiba created an alien he calls Experiment 626. It's bright, indestructible, and can evade capture. Councilwoman imprisons 626. 626 escapes before the Councilwoman makes it to the ship's deck. He lands in Honolulu, Hawaii. She plans to vaporize the planet until Agent Wendell Pleakley stops her. Earth is a habitat for the endangered mosquito species. Grand Councilwoman tells Wendell and Dr. Jumba to travel to Earth and capture 626 before he wreaks havoc on the planet.<br/><br/>Lilo arrives at her hula recital late and jumps in place. Another dancer, Myrtle, teases Lilo during the performance, so Lilo pushes Myrtle off the stage. When Nani arrives, Lilo is gone. Nani rushes home to apologize, but Lilo locks Nani outside. Nani grabs a brick to break a window when their caseworker, Mrs. Kekoa, arrives. She gives Nani three tasks to complete in four days, or Nani will lose custody. Lilo agrees to be better. Then she sees a shooting star. She pushes Nani out the door and wishes for a best friend.<br/><br/>Lilo's shooting star was 626's crash landing. Unfortunately, 626 runs into oncoming traffic. Then, a tour bus knocks him out. The driver assumes 626 is a dog and brings it to the animal shelter. Soon after 626's arrival, Dr. Jumba and Agent Wendell enter Earth's atmosphere. And CIA Agent Cobra Bubbles searches the woods to discover who or what left a crater.<br/><br/>Nani's neighbor, Tūtū, takes Lilo to the animal shelter. Lilo plays with the dogs and finds a cage with bent wires. She looks around, and a blue dog says hi to her. Lilo believes her shooting star wish worked. Lilo's latest friend will turn her world upside down and test Lilo's understanding of Ohana.<br/><br/>This live-action remake uses the original as its foundation but adds believable aspects to the film. Fans of the original can spot the differences. These changes don't feel like much. However, it changes the direction of the story. The plot centers around Ohana, but the conclusion is more realistic. The graphics between Stitch and the other animated characters are vivid, life-like, and true to the original. Also, the designers took a lot of time perfecting the moments between Stitch and Lilo. However, Stitch's interactions with other humans can be disjointed and bothersome. Disney adaptations have been hit-and-miss in the past, but this film is a gold standard.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0FJSST6QW"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/liloandstitch.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/liloandstitch.jpeg"
     }
   }
 ];
@@ -71,18 +71,7 @@ module.exports = mustBuy;
 
 /*  For Must Buy later  
 
-  {
-    "option": "1",
-    "mtitle": "Superman",
-    "review": "Superman was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0FDFLXF7C"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/superman.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/superman.jpg"
-    }
-  }
+ 
 
     {
     "option": "1",
@@ -224,19 +213,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/f1.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/f1.jpeg"
-    }
-  }
-
-   {
-    "option": "5",
-    "mtitle": "M3GAN 2.0",
-    "review": "Gemma crusades to reduce children's exposure to technology and AI safeguards after creating a killer robot to help raise her niece, Cady. Gemma hasn't turned her back on technology. She and her team have created an exoskeleton to reduce workplace injuries and increase productivity.<br/><br/>Gemma rushes home after picking Cady up from school. She's late for an investor's meeting. The exoskeleton glitched and hit the investor. Someone hacked them. Then, CEO Alton enters Gemma's home and propositions her. He wants Gemma to work for him and add AI to the human brain. Gemma says no.<br/><br/>Gemma tucks Cady into bed and relaxes for the evening. The lights flicker, and a strange message comes to the TV, telling her to run. Gemma and Cady fight back until one man pulls out a badge. He's with the FBI.<br/><br/>Army Colonel Tim demands answers from Gemma. A few days ago, Tim sent a robot called AMELIA, Autonomous Military Engagement Logistics and Infiltration Android, to rescue a scientist. However, AMELIA killed him, removed her safeguards, and escaped. Since then, AMELIA has killed everyone who had a hand in her creation. He informs Gemma that her M3GAN program was the foundation for AMELIA. He assumes she created the robot and demands an explanation. During the conversation, Gemma checks her phone's notifications. It warns her that Tim is clueless and to ignore his threats. Tim leaves with her phone. She calls out to M3GAN, who appears as a hologram. M3GAN lived in the smart home's system for years, watching them. By M3GAN's calculations, any attempts to stop AMELIA will result in Cady's end. M3GAN wants to protect Cady by stopping AMELIA. But first, she needs Gemma to create a body for her. Gemma will do the one thing she swore she never would: create a better M3GAN. Can they put an end to AMELIA?<br/><br/>This sequel is leaps and bounds ahead of its predecessor. The script is funnier, cringier, and more thought-provoking than the first. It allows the audience to think about AI without getting preachy. The graphics department allowed M3GAN to keep her doll-like face while turning her body into the ultimate killing machine. This film is a laugh riot that delivers a few jump scares and a side of Maxwell you have never heard before.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0FCYXQYWR"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan20.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan20.jpeg"
     }
   }
 
