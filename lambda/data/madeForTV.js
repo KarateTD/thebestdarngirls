@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "I Was a Child Bride: The Courtney Stodden Story",
+    "review": "Courtney Stodden cries to her mother, Krista, because she's the victim of bullying. Krista decides to pull Courtney out of traditional school. She can homeschool Courtney and give Courtney the chance to pursue their dream of being famous. Krista seeks a talent manager for guidance. Krista's friend, Tim, recommends Doug Hutchison. Doug has a program called The Art of Stillness. Krista jumps at the opportunity to have Doug coach Courtney. Krista's need for fame and fortune will send Courtney into a tailspin of grooming, abuse, assault, and drugs while being fodder for tabloids and public ridicule.<br/><br/>This film shows that Courtney was a lamb to the slaughter. Krista and Courtney's father, Alex, made it easy for Doug to clean the bones. Her religion lulled her into compliance. Courtney's film explains the abandonment and devastation she faced at home and in public. She was shamed online and abused in her relationship. This movie is a cautionary tale of grooming, vicarious parents, and the dark side of fame. While Courtney forgives her parents, Lifetimers won't. Hopefully, this script will spark a conversation about child brides and their portrayal in the industry.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/iwasachildbridecourtneystodden.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/iwasachildbridecourtneystodden.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Deadly Desire",
+    "review": "Nurse Brittney prepares to have dinner with her boyfriend, James, James's friend, Ben, and Ben's new friend, photographer Tanya. After dinner, Tanya enters the bathroom with Brittney, making her feel uncomfortable. Brittney doesn't plan on seeing Tanya again, but James invited them for game night.<br/><br/>During game night, Ben is rude to Tanya, and it rubs Brittney the wrong way. Tanya calls Brittney to spend girl time together and release the tension between them. Brittney gives Tanya a second chance and visits Tanya's home. Tanya convinces Brittney to let her take a few photos. Brittney thinks this will be harmless fun between them. However, Tanya will use these images to dismantle Brittney's life, all for revenge. Will Brittney survive with her life intact?<br/><br/>This film is a weird and convoluted waste of time. The plot is all over the place with zero substance. The actors did the best they could with an unbearable script. And sadly, the conclusion hints at a part two. The writers shouldn't waste Lifetimer's time. Skip this film at all costs.<br/><br/>2 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deadlydesire.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deadlydesire.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "No One Believed Me",
+    "review": "Jane's sister, Amy, called Jane upset. Jane's husband, Dan, warns Jane not to fall into Amy's dramatics. Dan believes this call is another cry for attention. He begs Jane to remain vigilant.<br/><br/>Amy arrives at Jane's home with a police officer. Amy told the police that someone had kidnapped her, but she never saw his face or got a license plate. Without evidence, the police don't offer much help. Jane sits with Amy, but Amy can't recall any information. She relays that to Dan, but Dan remains guarded. Amy overhears their conversation and calls a local newspaper to run her story.<br/><br/>Amy meets reporter Tim at her salon. His questions start easy but become increasingly hostile. She runs, and Tim gives chase. Amy bumps into Paul, and Paul scares Tim away. They exchange information and become close. Amy tries to get Tim fired from the paper, but they don't know who Tim is. Amy runs to the police and tells them that Tim is her kidnapper. But will they believe her?<br/><br/>Viewers must watch this film from the start. It shows Amy as the unknown woman running through the woods with her hands bound. So, Lifetimers know Amy's story is real. But we don't know whom she can trust because her kidnapper is out there with no one looking for them. The writers didn't wait until the end to reveal the culprit. However, the motive remains a horrific mystery until the final act. The acting is a bit forced at times, but it doesn't overpower the writer's original intent.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/noonebelievedme.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/noonebelievedme.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "The Groomsmen Last Dance",
+    "review": "Jackson dances with his daughter, Betty, while his friend, Danny, dances with his steady plus-one, Zack, and his other friend, Pete, sneaks away with Chelsea. Jackson looks forward to his time with Betty, but she accidentally mentions that they are moving. Her mother, Tricia, got a job in Italy. Jackson supports the relocation with sadness.<br/><br/>Months later, Pete and Danny marry Chelsea and Zack, respectively. Tricia calls with a request. Her job wants her to travel to Africa for work. Jackson says yes to taking care of Betty before she has a chance to ask. However, she expresses regret for taking Betty out of school. Jackson compromises and flies to Italy.<br/><br/>Jackson talks on the phone with a co-worker and almost hits Gabriella. They blame each other for the near fatality, and she walks to her mother's restaurant with paperwork. She gives her mother the papers to merge the restaurant and her father's vineyard. Her mother is willing to sign it, but she knows her father never would.<br/><br/>Jackson arrives at Tricia's home and gets information about Betty's school and the house. She gives him the landlord's number before exiting for Africa. A few days later, Jackson decides to walk Betty home from school. He sees a restaurant on his way there and enters for a cappuccino. Gabriella rolls her eyes at the rude American.<br/><br/>When Jackson arrives, Betty hides her embarrassment. She doesn't want Jackson to treat her like a child, but doesn't know how to broach the subject. When they arrive at home, Jackson tries to cook but can't get the stove to work. So, he calls the landlord. To his surprise, Gabriella knocks on his door. Betty sees the attraction between them and believes Gabriella is the best distraction for her dad. She will scheme to get them together, but will it become a relationship?<br/><br/>This third installment of The Groomsmen franchise is charming like the others, but not as funny. It has the classic Hallmark meet-cute story as Jackson and Gabriella work together to help save her family's businesses. The runaway bride is still telling the story in her hideout. However, we find out who she is and why she's running. This circular storytelling will put a smile on your face. It's magnificent to see this level of camaraderie between men without violence or degrading women. These three men listen, love, and speak openly and candidly without judgment. With the right script, this story can continue as The Wedding Veil series did.<br/><br/>4.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thegroomsmenlastdance.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thegroomsmenlastdance.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "The Girl Who Survived: The Alina Thompson Story",
     "review": "Alina Thompson hides her modeling dreams from her parents, Carl and Nancy. Alina and her friend, Natalie, want a modeling contract and a life in Paris. Alina tells Natalie about a local Fresh Face contest. They can get free headshots from photographers and win $500. Natalie agrees to go.<br/><br/>Alina lies to her parents and rides her bike to the library with Natalie. They catch the bus and attend the contest. A photographer, Bill, takes shots of Natalie and requests that Alina join in. Soon, he only wants pictures of Alina. He asks Alina for her phone number to get more images in a better location, but she refuses.<br/><br/>Later, the contest host calls Nancy and tells her that Alina won. Nancy informs Alina at the dinner table with Carl. She wants to attend the next meetup and obtain her prize money. At first, her parents say no. However, they change their minds, but with a caveat. They must attend with her. Alina huffs and agrees.<br/><br/>Carl, Nancy, and Alina attend the Fresh Faces event. Bill sees Alina again and asks for more photos. Carl keeps close watch on her. Carl wants Alina to succeed, but something about the event is off. He sits his daughter down and tells her not to succumb to peer pressure from men. Nancy believes he will make Alina paranoid. However, Alina will learn that he is giving her the tools to survive a predator with his sights on her.<br/><br/>Thank you Lifetime. We finally have an involved, nurturing, and loving father in a Lifetime film. The script makes Alina appear stubborn, but she's young. Lifetimers must remember this as they watch. The film has pearl-clutching moments as Alina is nearly in Bill's grip, but Dad comes to the rescue. The costume and makeup department didn't do enough research on the era. That doesn't matter because the film's messages are phenomenal: listen to your parents, a little fear is healthy, and no is a complete sentence. This movie is a teaching tool you never knew you needed.<br/><br/>5 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thegirlwhosurvivedalinathompson.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thegirlwhosurvivedalinathompson.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "She Wants My Daughter",
-    "review": "Jenna gets a letter and tries to hide it from her mom, Claire. However, Claire sees it and inquires about its contents. Jenna says it's from FindMyParents.com. Claire's boyfriend, Marcus, who was adopted, encouraged Jenna to try the site. He assures Claire that this will be good for everyone. Then, they hear Jenna squeal with delight. They found her birth mother, Sara.<br/><br/>Claire meets with Melissa to discuss the work Melissa's STEM program is doing after Claire's generous donation. Melissa sighs because they never received the funds. Claire sits with her co-worker, Elana, and discovers that Kara funneled donations into dummy accounts. Claire calls her security consultant, Lenny. Lenny uncovered that Kara siphoned $1 million from the foundation. He wants to find Kara before involving the police.<br/><br/>Claire comes home and gets a knock at her door. It's Sara. Sara states that she's been clean and out of trouble for five years. She wants a 2nd chance with her daughter. Claire allows them to spend time together and calls Lenny to give him an update. Lenny doesn't trust Sara's reemergence. He thinks it's too coincidental with Kara's disappearance. Lenny warns Claire to watch Sara. He believes she has nefarious intentions. Is Lenny correct?<br/><br/>This film gives Lifetimers a tried-and-true narrative. The birth parent returns as the adoptive parent's life falls apart. The story revolves around Claire's paranoia. The loud backing track grows increasingly bothersome as you uncover the criminal. While the ending is predictable, the culprit's monologue and behaviour make them oddly likable. The killer has the charisma of the Joker. Give this film a chance if you want to kill two hours.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/shewantsmydaughter.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/shewantsmydaughter.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "Mystery Island: House Rules",
-    "review": "Janey strategizes new game ideas with Emilia and Jason. She informs them that real murders on Mystery Island have aided their popularity. Their investor, Carlos, wants to expand to the mountains to have a snowy location for winter vacation fans. They will call it Mystery Mountain. Carlos hired hotel heir, Dex, to be the Janey of Mystery Mountain. Dex chose police Detective Regan to handle Jason-ish work, and Dr. Stanley to be Emilia. Inga will cover Bennett's duties with her head of security, Khalif. Dex wants to showcase his team's skills by presenting the Mystery Island team with a puzzle they created.<br/><br/>Emilia and Jason enjoy the quality time away from work. She recently made an important decision to work on the island full-time. Jason was a factor in that decision. Finally, they profess their feelings for each other.<br/><br/>The Mystery Island team arrives at the dock to board Dex's Miss Teri boat to the island. Bennett's new assistant, Thomas, joins the team. They travel to Mystery Island, and the Mystery Mountain team greets them like guests.<br/><br/>Dex greets his guests and introduces them to his changes. Mystery Mountain will incorporate the weather with snow machines and thunder. They created a private Bluetooth network. They distribute phones to the guests. When the phones are activated, it will signal the beginning of the game. Then, their phones get the first clue. The team follows the clues to the game room, which leads them to a hologram of the Mystery Island inspiration, Evelyn. She provides three more clues. The guests follow the clue and look through the books.<br/><br/>As the team searches through the books, a dart shoots Regan in the neck. Regan falls on the floor and stops breathing. Then, they hear a bang and follow the sound. Someone detonated a small explosive near the Bluetooth box. They return to the room to examine Regan's body, but it's gone. This game is real. They have a murder, a missing dead body, and a room full of suspects. Can Mystery Island solve the crime, or is a member of their team the culprit?<br/><br/>This mystery puts the drivers in the passenger seat and acknowledges the first in the franchise while introducing us to new characters. It's fun to watch the Mystery Island team come face-to-face with their counterparts. They become fast friends but turn into enemies as bodies drop. Viewers will feel something's off about this installment. However, you won't understand until the big reveal. While this installment doesn't provide the hard-hitting story, it introduces an overarching plot and confirms Hallmarkies' favorite romance. It's doubtful the Mystery Mountain will become a spinoff, but the characters may come back for other installments.<br/><br/>4.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mysteryislandhouserules.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mysteryislandhouserules.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Murder at the Hotel",
-    "review": "A snowstorm leaves several passengers stranded at the airport. The ticket agent, Jan, handles a line as customers complain. Evan doesn't mince words because he values his time more than anyone else. District Attorney Megan puts him in his place and sticks up for Jan. She is traveling with her husband, Jeff, and daughter, Lisa. Megan walks toward her family and bumps into her college ex-boyfriend, Brad. As they talk, Nicole sits with Jeff. She points out how close Brad and Megan are, but Jeff trusts his wife. Lisa walks to the bathroom and bumps into Landon. They share a laugh and part. Then, Jan informs the remaining passengers that they will receive a hotel voucher and get booked on the next flight in the morning.<br/><br/>They arrive at the hotel. Brad invites Megan and her family to dinner at the hotel restaurant. They accept. Lisa leaves early to distance herself from her parents. She makes impromptu plans to jump in the hot tub with Landon. After catching Jan with her boyfriend, hotel manager Rick, Megan looks for her family but can't find them. When she stumbles across a dead body, she fears a killer is after her. Can Megan find the murderer in the hotel?<br/><br/>This movie puts semi-strangers in an unfamiliar territory. The plot will grab your attention because every character has a secret or suspicious behavior. And the writers added a final twist that leaves a shock on everyone's face. While the mystery is compelling, the graphics and bad edits during fight scenes are distracting. This film is a perfect way to kill 2 hours without being bored.<br/><br/><br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/murderatthehotel.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/murderatthehotel.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "The Groomsmen Second Chances",
-    "review": "Danny meets with his business manager, Zack, to sign paperwork. Danny doesn't have a date to his sister's wedding, so he drafts Zack to attend with him. Zack sighs and agrees as Danny's friends, Pete and Jackson, enter. They laugh after Zack leaves because they know Danny has feelings for Zack, but won't tell him.<br/><br/>At Hannah's wedding, Zack and Danny notice Pete dancing with his new friend, Chelsea, and chuckle. Zack informs Danny that he can't be his standby plus one because he's dating a lawyer, Nolan. Months later, Zack and Danny attend Pete and Chelsea's wedding. However, Danny sees that Zack is alone. Zack wanted to get married, and Nolan said no. Danny promises to be by Zack's side.<br/><br/>Later, Zack is all smiles because Nolan called and changed his mind. Zack asks Danny to be the best man at his and Nolan's wedding. Danny forces a grin and agrees, but Pete and Jackson warn Danny that it's a bad idea. And to make things worse, Zack wants to get married in a location that holds significant meaning for his and Danny's friendship: Greece. Pete and Jackson will offer guidance to stop Danny from making a mistake. Will Danny get his second chance at love, or will he watch Zack marry Nolan?<br/><br/>The Groomsmen are back for a second installment. Like the first, this film's narrator is a runaway bride hiding in a bar. The writer beautifully wove this story into the first. It's happening alongside Chelsea and Pete's love story, while hinting at the 3rd movie. The plot utilizes Greece as another character with stunning views, colorful people, and delicious food. This movie is a terrific addition to the franchise and hints at more to come after the 3rd.<br/><br/>5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thegroomsmens2.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thegroomsmens2.jpg"
     }
   }
 ];
@@ -57,41 +57,29 @@ module.exports = madeForTV;
 
 /*
 
-
 {
 "option":"1",
-"mtitle":"I Was a Child Bride: The Courtney Stodden Story",
+"mtitle":"Surviving My Father: The Rachel Jeffs Story",
 "review":"<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/iwasachildbridecourtneystodden.jpg",
-"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/iwasachildbridecourtneystodden.jpg"
-}
-},
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/survivingmyfatherracheljeffs.jpg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/survivingmyfatherracheljeffs.jpg"
+}},
 {
 "option":"2",
-"mtitle":"Deadly Desire",
+"mtitle":"While They Were Sleeping",
 "review":"<br/><br/>* out of 5 stars.",
 "image": {
 "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/.jpg",
 "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/.jpg"
-}
-},
+}},
 {
 "option":"3",
-"mtitle":"No One Believed Me",
+"mtitle":"Adventures in Love and Birding",
 "review":"<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/noonebelievedme.jpg",
-"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/noonebelievedme.jpg"
-}
-},
-{
-"option":"4",
-"mtitle":"The Groomsmen Last Dance",
-"review":"<br/><br/>* out of 5 stars.",
-"image": {
-"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thegroomsmenlastdance.jpg",
-"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thegroomsmenlastdance.jpg"
-}
-}
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/adventuresinloveandbirding.jpg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/adventuresinloveandbirding.jpg"
+}}
+
 */
