@@ -16,15 +16,6 @@ var earlyScreening = [
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theroses.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theroses.jpg"
     }
-  },
-  {
-    "option": "3",
-    "mtitle": "The Life of Chuck",
-    "review": "Marty has a young man read Walt Whitman's Songs of Myself to the class, but no one pays attention because a part of California sank into the ocean after a 9.1 earthquake. Marty calls his ex-wife, nurse Felicia. Over the past few days, Marty has noticed signs around town thanking Chuck Krantz for his 39 years of service. Felicia heard Chuck's commercial on the radio. Neither of them knows who this man is or what he means to the town. Marty and Felicia discuss the cosmic calendar as they wait for the world's inevitable doom.<br/><br/>Taylor left Juilliard and now works in a record store. She plays drums on the street for spare change. One day, she sees Chuck walking down the street. She matches the beat to his stride. Chuck puts down his briefcase and starts to groove. After a profitable show, Taylor questions why Chuck stopped. He doesn't have an answer.<br/><br/>Chuck moved in with his grandparents after his parents and unborn sister died in a car crash. Three years later, Chuck's grandmother starts cooking again. She loves dancing to rock and roll while cooking. One day, she asks Chuck to join her. Chuck's grandparents have one rule: stay out of the conical. However, Chuck's curiosity gets the better of him, and he tries to open the door. His grandfather yells at Chuck, accidentally pushes Chuck down the steps, freezes in the doorway, grabs his arm, and shuts the door. He apologizes to Chuck and demands that Chuck take heed. Chuck has no idea what life has in store for him and the impact every person will make. It's time to witness Chuck.<br/><br/>Based on a short story by Steven King, this movie won't make sense until the end. The narrator tells the story of Chuck's life in three acts in reverse. In Act 3, the world is slowly falling apart. Pay attention to the poem, commercial, characters' speeches, and TV. The plot will revisit these themes during the first and second acts. Act two is the most lighthearted. Accountant Chuck chooses to enjoy the world around him and dance. Act one is the most honest and will connect the viewers with young Chuck. These formidable years have the most profound impact on Acts 2 and 3. This film is a mystical enigma surrounding an ordinary life. The Life of Chuck shows how beautiful yours can be when you choose to live it to the fullest.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelifeofchuck.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelifeofchuck.jpeg"
-    }
   }
 ];
 
