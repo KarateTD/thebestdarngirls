@@ -70,13 +70,13 @@ module.exports = madeForTV;
 "mtitle":"While They Were Sleeping",
 "review":"<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/.jpg",
-"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/.jpg"
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/whiletheyweresleeping.jpg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/whiletheyweresleeping.jpg"
 }},
 {
 "option":"3",
 "mtitle":"Adventures in Love and Birding",
-"review":"<br/><br/>* out of 5 stars.",
+"review":"Celeste escapes her nosy co-workers with her best friend Eva. Eva wants Celeste to step out into the world and be more adventurous. Since her divorce, Celeste hasn't thought about love. Eva receives a call that an opportunity has opened up, but she promised her friend, John, that she would help him with his birding competition. Then, she gets a bright idea. Celeste will join him and get out in the world. John attended these competitions with his ex-girlfriend, Breena, and they won for three years. Breena cheated on him with her now partner, Lazlo. As Celeste asks questions, Eva takes another phone call. Celeste inquires if this is a fake girlfriend setup. Eva replies Yes, but to the person on the phone. Celeste agrees.<br/><br/>Celeste arrives at the competition first and meets President Linda. She tells Linda that she's John's partner, and Breena overhears. John greets everyone, and Celeste embraces him with an overly dramatic hug. She tells everyone she's John's new girlfriend and partner. John hides his confusion until they are alone. He explains that Eva was only going to be his partner, not a pretend girlfriend. However, they decide to keep up the lie. John informs Celeste that he must win this competition to beat his ex-girlfriend and start a bird-watching business. Celeste will use her time to be adventurous in birding. But will she gain a passion for love?<br/><br/>This film has what you would expect from a Hallmark film. You have a competition, two people working together, and a unique hobby. The love story is predictable, but the setup isn't. There is a bonus storyline about Celeste and her college-bound daughter, Morgan. This subplot will stun Hallmarkies more than the main one. The actors did their best to present compelling characters, but your interest will wane after the 2nd act.<br/><br/>3 out of 5 stars.",
 "image": {
 "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/adventuresinloveandbirding.jpg",
 "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/adventuresinloveandbirding.jpg"

@@ -22,7 +22,7 @@ Built with
 	<li><a href="https://aws.amazon.com/secrets-manager/" target="_blank" rel="noopener">AWS Secrets Manager</a></li>
 	<li><a href="https://developer.amazon.com/en-US/docs/alexa/alexa-design/apl.html" target="_blank" rel="noopener">Alexa Presentation Language (APL)</a></li>
 	<li>GitHub</li>
-	<li>NodeJS 10.x</li>
+	<li>NodeJS 22.x</li>
 </ul>
 
 ## Features
@@ -43,6 +43,7 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 	<li><b>Release-5.0.1</b>: Updated APL for movieoptions and getList for version 1.8 to support using images as buttons</li>
 	<li><b>Release-5.1.0</b>: Add Alexa Shopping Kit to In Stores section of the US locale and updated the APL for all locales</li>
 	<li><b>Release-5.2.0</b>: Update NodeJS from version 14 to version 18</li>
+	<li><b>Release-5.3.0</b>: Update NodeJS from version 18 to version 22, migrate to AWS SDK v3</li>
 </ul> 
 
 ## Code
