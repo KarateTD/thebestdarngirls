@@ -1,16 +1,17 @@
 {
   "author": "Tiffany Gray",
   "dependencies": {
-    "ask-sdk-core": "^2.15.0",
-    "ask-sdk-model": "^1.90.0",
     "@aws-sdk/client-rds-data": "^3.650.0",
-    "@aws-sdk/client-secrets-manager": "^3.650.0"
+    "@aws-sdk/client-secrets-manager": "^3.650.0",
+    "ask-sdk-core": "^2.14.0",
+    "ask-sdk-model": "^1.90.0"
   },
   "resolutions": {
     "ansi-regex": "5.0.1"
   },
   "devDependencies": {
-    "@types/node": "^22.0.0"
+    "@types/node": "^22.0.0",
+    "ask-sdk-local-debug": "^1.1.0"
   },
   "engines": {
     "node": ">=22.0.0"

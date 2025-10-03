@@ -7,3 +7,4 @@ desktop.ini
 *.copy
 resize*.sh
 **/.DS_Store
+node_modules
