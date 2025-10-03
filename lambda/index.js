@@ -1,10 +1,13 @@
 //https://developer.amazon.com/en-US/docs/alexa/alexa-shopping/implement-shopping-actions.html
 
 const { RDSDataClient, ExecuteStatementCommand } = require('@aws-sdk/client-rds-data');
+const { SecretsManagerClient } = require('@aws-sdk/client-secrets-manager');
 
 const rdsClient = new RDSDataClient({ region: process.env.AWS_REGION || 'us-east-1' });
+const secretsClient = new SecretsManagerClient({ region: process.env.AWS_REGION || 'us-east-1' });
 
 const Alexa = require('ask-sdk-core');
+const { getDialogState, getSlot } = Alexa;
 const Welcome = require('./json/welcome.json');
 const LibraryWelcome = require('./json/librarywelcome.json');
 const MovieOptions = require('./json/movieoptions.json');
@@ -12,7 +15,7 @@ const Review = require('./json/review.json');
 const Background = require('./json/background.json');
 
 const premLocaleVar = {
-	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  '+ process.env.skillAdds +'  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.',
+	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  '+ (process.env.skillAdds || '') +'  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand. For movies not yet in the theater, say Early Screening. To search The Best Darn Girls Library, say Library.',
 	mainOptions: '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand\n\t* Early Screening - Premium Access Only\n\t* Library - Premium Access Only',
 	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand<br/>* Early Screening - Premium Access Only<br/>* Library - Premium Access Only',
 	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.   For Video on Demand reviews, say Video on Demand.  For movies not yet in the theater, say Early Screening.  To search The Best Darn Girls Library, say Library.',
@@ -22,7 +25,7 @@ const premLocaleVar = {
 }
 
 const regLocaleVar = {
-	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  '+ process.env.skillAdds +'  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand',
+	welcome: 'Welcome to The Best Darn Girls Movie Reviews on Alexa.  '+ (process.env.skillAdds || '') +'  For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores.  For Video on Demand reviews, say Video on Demand',
 	mainOptions: '\t* In The Theater\n\t* Made For TV\n\t* In Stores\n\t* Video On Demand',
 	mainScreen: '* In The Theater<br/>* Made for TV<br/>* In Stores<br/>* Video On Demand',
 	mainMenu: 'For the latest reviews of movies in the theater, say In The Theater.  For the latest TV movies, say Made for TV.  For the top rated movies in stores, say In Stores. For Video on Demand reviews, say Video on Demand.',
@@ -64,6 +67,21 @@ let sku;
 let product = null;
 let firstTime = true;
 
+const InProgressHandler = {
+	canHandle(handlerInput) {
+		const request = handlerInput.requestEnvelope.request;
+		return request.type === 'IntentRequest' &&
+			request.dialogState &&
+			request.dialogState !== 'COMPLETED' &&
+			(request.intent.name === 'Library' || request.intent.name === 'BuyIntent');
+	},
+	handle(handlerInput) {
+		return handlerInput.responseBuilder
+			.addDelegateDirective()
+			.getResponse();
+	}
+};
+
 const WelcomeHandler = {
 	canHandle(handlerInput){
 		const request = handlerInput.requestEnvelope.request;
@@ -72,12 +90,13 @@ const WelcomeHandler = {
 			&& request.intent.name === 'AMAZON.NavigateHomeIntent');
 	},
 	handle(handlerInput) {
-		console.log("In Welcome Intent");
-		const request = handlerInput.requestEnvelope.request;
-		resetAll();
-		let mySettings = makeSettings(request.locale);
-		console.log(request.locale);
-		repeat=false;
+		try {
+			console.log("In Welcome Intent");
+			const request = handlerInput.requestEnvelope.request;
+			resetAll();
+			let mySettings = makeSettings(request.locale);
+			console.log(request.locale);
+			repeat=false;
 
 		let greeting = mySettings.mainMenu;
 		if(firstTime){
@@ -121,24 +140,31 @@ const WelcomeHandler = {
 		}
 		
 		return handlerInput.responseBuilder
+			.speak(greeting)
 			.reprompt(greeting)
 			.withShouldEndSession(false)
 			.withSimpleCard(skillName, mySettings.mainOptions)
 			.getResponse();
-
+		} catch (error) {
+			console.error('Error in WelcomeHandler:', error);
+			return handlerInput.responseBuilder
+				.speak('Welcome to The Best Darn Girls Movie Reviews')
+				.reprompt('Say help for options')
+				.withShouldEndSession(false)
+				.getResponse();
+		}
 	}
 
 };
 
 function resetAll(){
-	menu;
+	menu = undefined;
 	searchChoice = "";
-	choice;
-	repeat=false
-	offset=0;
+	choice = undefined;
+	repeat = false;
+	offset = 0;
 	maxResults = 5;
-
-let product = null;
+	product = null;
 }
 
 function makeSettings(myLocale){
@@ -557,7 +583,7 @@ const UpsellResponseHandler = {
 			speakResponse = "Congratulations, you have Premium Access!  You can search the library and have access to exclusive reviews.  Happy searching! ";
 		}
 
-		if(request.status.code = 200) {
+		if(request.status.code === 200) {
 			if (supportsAPL(handlerInput)) {
 				handlerInput.responseBuilder.addDirective({
 					type: 'Alexa.Presentation.APL.RenderDocument',
@@ -1424,6 +1450,7 @@ const skillBuilder = Alexa.SkillBuilders.custom();
 
 exports.handler = skillBuilder
   .addRequestHandlers(
+    InProgressHandler,
     WelcomeHandler,
     MainMenuHandler,
     MovieChoicesHandler,

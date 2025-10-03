@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": true,
+    "sessionId": "amzn1.echo-api.session.debug",
+    "application": {
+      "applicationId": "amzn1.ask.skill.32531985-6cf8-4537-a102-7873e0bd3788"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.debug"
+    }
+  },
+  "context": {
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.32531985-6cf8-4537-a102-7873e0bd3788"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.debug"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.debug",
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.debug",
+    "timestamp": "2024-01-01T00:00:00Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "MenuSelection",
+      "slots": {
+        "menu": {
+          "name": "menu",
+          "value": "in the theater"
+        }
+      }
+    }
+  }
+}

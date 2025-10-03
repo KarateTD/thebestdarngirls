@@ -4,7 +4,7 @@
     "@aws-sdk/client-rds-data": "^3.650.0",
     "@aws-sdk/client-secrets-manager": "^3.650.0",
     "ask-sdk-core": "^2.14.0",
-    "ask-sdk-model": "^1.90.0"
+    "ask-sdk-model": "^1.86.0"
   },
   "resolutions": {
     "ansi-regex": "5.0.1"
