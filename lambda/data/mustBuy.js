@@ -1,6 +1,42 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "The Bad Guys 2",
+    "review": "The Bad Guys enjoy life on parole but can't find employment. Mr. Piranha, Ms. Web, and Mr. Shark anxiously wait to hear if Mr. Wolf got work, but they are disappointed. Mr. Snake slithers in to grab his yoga mat. The crew gawks at Mr. Snake's change and doesn't understand how he can be so happy. Mr. Shark thinks they should worry about the Phantom Bandit heists. It's only a matter of time before people blame them for the Phantom's crime spree.<br/><br/>Mr. Wolf spars with Governor Diana Fox. She advises him to win over the town by doing good publicly. Mr. Wolf has an idea and drives to the police station. He and his crew examine the evidence of the heists with Commissioner Misty Luggins. They spot the culprits in the photo and discover that the stolen items contain MacGuffinite.<br/><br/>The team researches and finds that the Lords of Lucha championship title contains the precious metal. They think the Phantom Bandit will strike at the wrestling match. They arrive at the match and spot Mr. Snake with his new girlfriend, Susan. The crew sees the belt hanging over the ring. They deduce that the challenger is the Bandit. They jump into the squared circle and battle for the belt. However, instead of applause, someone frames them for stealing the belt by putting it on Mr. Piranha. Susan hijacks a hotdog cart and saves them. She offers the crew mints, but Mr. Wolf rejects them. Mr. Wolf asks Susan to pull over so he can call Diane and explain that they are innocent. Mr. Wolf returns the van to find the Bad Guys asleep. Susan shoots Mr. Wolf with a dart.<br/><br/>The team wakes up to the Bad Girls. Pig Tails is the muscle. During the match, she hid in plain sight as the challenging luchador. Susan is Doom, a sweet-talker and long-con expert. The mastermind, Kitty Kat, introduces herself. She wants the Bad Guy to help them with their next heists. Mr. Wolf says no. Kitty Kat threatens to expose Diane's secret life as the Crimson Paw if he doesn't assist. Mr. Wolf agrees, but he assures his crew that he has an ace up his sleeve. Can the Bad Guys do good and protect Diane's reputation?<br/><br/>This sequel is better than the first. The capers are more outlandish, the jokes are funnier, and the plot delves deeper. This story handles reform and redemption. The animation jumps genres throughout the fight scenes. Typically, this feels disjointed. It works because the graphic artist continued this change throughout the entire film. It makes the art feel more alive and enveloping. Be sure to stay for the mid-credit scene. It gives insight into the plot for The Bad Guys 3. This picture has the crime style of Leverage, the smoothness of Ocean's Eleven, and the fun of The Fast and the Furious. The entire family will enjoy this film.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": "B0FHXPXXML"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thebadguys2.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebadguys2.jpeg"
+    }
+  },
+{
+    "option": "2",
+    "mtitle": "Nobody 2",
+    "review": "Hutch sits in a police station with a dog beside him. He ignites a lighter and uses it to cauterize his wound. The police demand to know who they are. Hutch takes a deep breath and ponders his response. To the outside world, Hutch is married to real estate agent Becca. They raise two children, Sammy and Brady, in a happy and loving environment. However, the underworld knows Hutch as an accountant. At home, Hutch is a man who puts work over family. Becca misses him at dinner time and informs Hutch. She mentions the kids' upcoming summer vacation. Hutch promises to plan everything.<br/><br/>Days later, Hutch shows the family an old video of Plummersville. Hutch has fond memories of that place because it was the only time his father, David, took him and his brother, Harry, on a trip.<br/><br/>Hutch and his family play games at an arcade. Brady gives his extra tickets to a pretty girl and the rest to his sister. Sammy trades her tickets for a badger as Max approaches. He accuses Brady of flirting with his girlfriend, steals Sammy's badger, and rips off its head. As they exit, one of the guards hits Sammy in the back of the head. With a ruse, Hutch reenters the arcade without his family and takes out the guards. The police arrest him and Brady.<br/><br/>The family waits at the police station for Abe. Abe brings Hutch to his office and stands at the corner. Wyatt sits at Abe's desk and states that he runs this town. He demands that Hutch leave and never return. Hutch agrees but stays. Abe's goons spot Hutch and his family at the water park.  Wyatt orders Abe to rid the town of Hutch. He doesn't know who Hutch is, but he understands that Hutch will bring problems to Lendina's business. Lendina is a ruthless bootlegger who will kill anyone who disrupts her cash flow, including Wyatt. Hutch won't budge because he and his family need this time together. No one will ruin this nobody's vacation.<br/><br/>This sequel doesn't follow the action genre pattern. It doesn't put Hutch in a new, exotic location to go on the hunt. Instead, he travels to a small town for family time. This charming and dry comedy features the original cast. It has more explosions, blood, and wall-to-wall action. The fight sequences combine John Wick with Home Alone. The director found exciting and cringy ways to include a funhouse, waterslide, and ball pit. And Lendina is a quirky villain who lives on bloodlust. This film adds to the franchise, not by expanding the world, but by enlightening the audience to Hutch's family. This film is an entertaining, mindless good time.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0FMJ5N1P5"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/nobody2.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nobody2.jpeg"
+    }
+  },
+ {
+    "option": "3",
+    "mtitle": "F1: The Movie",
+    "review": "Sonny finishes his race, collects his meager winnings, and leaves to find the next challenge. He hears a voice behind him and sees a familiar face, Ruben. Ruben and Sonny competed in the past, but now Ruben owns a racing team, APEX GP. However, APEX GP has yet to win a race. If APEX GP doesn't win, the board will remove Ruben. Ruben's best driver, Joshua, is highly skilled but young. Ruben wants Sonny to join his team and bring maturity to it. Ruben believes that Joshua and Sonny could win F1 and bring credibility to APEX GP. So Ruben leaves him a first-class ticket to their training track.<br/><br/>Joshua tries out their new car but notices some issues. Sonny arrives as Joshua reports his findings. Joshua's manager, Cash, pulls him aside. Joshua needs to make a good impression over the next few races. Cash believes APEX GP is going down. If Joshua ranks on the leaderboard, another team could open up a spot for him. Sonny thinks the team can win, but they must make changes to the car. Ruben agrees. While Sonny races to overcome his past, Joshua wants to keep his career. Can APEX GP survive with two men competing for the number one spot?<br/><br/>This film has the high-octane fun of Days of Thunder with witty banter. It pays respect to the intricacies and dangers of racing. The audience sees the split decisions, track sabotage, and teamwork in racing. The film uses F1 drivers and scenarios to increase the drama and urgency. The viewer will feel it in their chest as they get a cockpit view of the track. However, this film isn't solely about the race. It also covers espionage and sabotage, but the writers make the audience connect the clues of who is responsible. While the film is lengthy, it delivers an original competitive racing story.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": "B0FP47283L"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/f1.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/f1.jpeg"
+    }
+  },
+  {
+    "option": "4",
     "mtitle": "The Life of Chuck",
     "review": "The Life of Chuck was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -12,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "5",
     "mtitle": "Superman",
     "review": "Superman was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -21,42 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/superman.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/superman.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "M3GAN 2.0",
-    "review": "Gemma crusades to reduce children's exposure to technology and AI safeguards after creating a killer robot to help raise her niece, Cady. Gemma hasn't turned her back on technology. She and her team have created an exoskeleton to reduce workplace injuries and increase productivity.<br/><br/>Gemma rushes home after picking Cady up from school. She's late for an investor's meeting. The exoskeleton glitched and hit the investor. Someone hacked them. Then, CEO Alton enters Gemma's home and propositions her. He wants Gemma to work for him and add AI to the human brain. Gemma says no.<br/><br/>Gemma tucks Cady into bed and relaxes for the evening. The lights flicker, and a strange message comes to the TV, telling her to run. Gemma and Cady fight back until one man pulls out a badge. He's with the FBI.<br/><br/>Army Colonel Tim demands answers from Gemma. A few days ago, Tim sent a robot called AMELIA, Autonomous Military Engagement Logistics and Infiltration Android, to rescue a scientist. However, AMELIA killed him, removed her safeguards, and escaped. Since then, AMELIA has killed everyone who had a hand in her creation. He informs Gemma that her M3GAN program was the foundation for AMELIA. He assumes she created the robot and demands an explanation. During the conversation, Gemma checks her phone's notifications. It warns her that Tim is clueless and to ignore his threats. Tim leaves with her phone. She calls out to M3GAN, who appears as a hologram. M3GAN lived in the smart home's system for years, watching them. By M3GAN's calculations, any attempts to stop AMELIA will result in Cady's end. M3GAN wants to protect Cady by stopping AMELIA. But first, she needs Gemma to create a body for her. Gemma will do the one thing she swore she never would: create a better M3GAN. Can they put an end to AMELIA?<br/><br/>This sequel is leaps and bounds ahead of its predecessor. The script is funnier, cringier, and more thought-provoking than the first. It allows the audience to think about AI without getting preachy. The graphics department allowed M3GAN to keep her doll-like face while turning her body into the ultimate killing machine. This film is a laugh riot that delivers a few jump scares and a side of Maxwell you have never heard before.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0FCYXQYWR"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan20.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/m3gan20.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Elio",
-    "review": "Elio hides under the table, mourning the lost of his parents, as his aunt Olga orders food from the Montez Air and Space Museum cafeteria. Olga looks under the table, and Elio is gone. She searches the museum and finds Elio listening to a presentation about the Golden Record. He ponders if there are others out there. It will be a place he could finally fit in.<br/><br/>Elio stakes out places near the Montez Air Force Base to be abducted. One night, Bryce joins Elio on the beach with his hand radio. Bryce asks about the other club members when Bryce's friend, Caleb, joins them. Elio hears a strange signal coming from the radio, and Caleb pulls the radio from Elio's hands, and they fight. The device hits Elio in the eye, and all three boys return to the base.<br/><br/>Major Olga is furious because Elio skipped school and got into a physical altercation. She tells Elio to wait in her office so she can attend a short meeting. A contractor, Gunther Melmac, picked up a signal from outer space. It's the same sound Elio heard from his radio. Melmac believes it's aliens and is ready to send a signal back. Everyone leaves. Elio jumps out of the trash, records a message for aliens to abduct him, and sends it. It shuts down the base.<br/><br/>At her wits' end, Olga takes Elio to a summer academy to curb his behavior. Caleb and Bryce spot Elio's arrival, and Caleb plots his revenge. Caleb, Bryce, and two other boys pull Elio out of his tent. Elio opens his eyes and sees the world around him frozen. He wiggles out of the boys' clutches, and a green beam lifts him off the ground. Elio cheers as he floats to the ship.<br/><br/>Ooooo, a liquid supercomputer, greets Elio and introduces him to the leaders of the Communiverse. Ambassadors Questa, Helix, and Tegmen greet Elio, assuming he's the leader of Earth. They are willing to accept him as a member of the Communiverse but squirm over their second visitor, Lord Grigon. The won't welcome him. Grigon threatens to make them all pay before leaving. They prepare for a fearful retreat and inform Elio that he must return to Earth. Elio can't bear the thought of being alone again and offers a trade. He will broker a deal with Grigon. They agree to let Elio stay if he persuades Grigon to leave the Communiverse alone. Will Elio save the Communiverse and find a place where he belongs?<br/><br/>This Pixar film covers acceptance and belonging while honoring a parent's sacrifice and understanding. Emotions aside, this film is visually splendid. The animators didn't use alien stereotypes. They created something new and unique. It's easy to see how this movie can grow and expand into a series on the Disney Channel. While the story will not make you cry, it does connect to the audience. There aren't any sly adult jokes, but this picture is funny. This film is confusing because it lacks a classic villain, leaving the plot more complex. Young viewers will enjoy it, but won't comprehend the message. Overall, Elio is an entertaining but elaborate film for the entire family. It has stellar visuals and a mid-credit scene.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0FMH2JJRK"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/elio.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/elio.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "From the World of John Wick: Ballerina",
-    "review": "Ballerina was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0FBBH4WG4"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ballerina.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ballerina.jpeg"
     }
   }
 ];
@@ -190,32 +190,6 @@ module.exports = mustBuy;
     }
   }
 
-   {
-    "option": "4",
-    "mtitle": "F1: The Movie",
-    "review": "Sonny finishes his race, collects his meager winnings, and leaves to find the next challenge. He hears a voice behind him and sees a familiar face, Ruben. Ruben and Sonny competed in the past, but now Ruben owns a racing team, APEX GP. However, APEX GP has yet to win a race. If APEX GP doesn't win, the board will remove Ruben. Ruben's best driver, Joshua, is highly skilled but young. Ruben wants Sonny to join his team and bring maturity to it. Ruben believes that Joshua and Sonny could win F1 and bring credibility to APEX GP. So Ruben leaves him a first-class ticket to their training track.<br/><br/>Joshua tries out their new car but notices some issues. Sonny arrives as Joshua reports his findings. Joshua's manager, Cash, pulls him aside. Joshua needs to make a good impression over the next few races. Cash believes APEX GP is going down. If Joshua ranks on the leaderboard, another team could open up a spot for him. Sonny thinks the team can win, but they must make changes to the car. Ruben agrees. While Sonny races to overcome his past, Joshua wants to keep his career. Can APEX GP survive with two men competing for the number one spot?<br/><br/>This film has the high-octane fun of Days of Thunder with witty banter. It pays respect to the intricacies and dangers of racing. The audience sees the split decisions, track sabotage, and teamwork in racing. The film uses F1 drivers and scenarios to increase the drama and urgency. The viewer will feel it in their chest as they get a cockpit view of the track. However, this film isn't solely about the race. It also covers espionage and sabotage, but the writers make the audience connect the clues of who is responsible. While the film is lengthy, it delivers an original competitive racing story.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0FP47283L"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/f1.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/f1.jpeg"
-    }
-  }
-
-   {
-    "option": "1",
-    "mtitle": "The Bad Guys 2",
-    "review": "The Bad Guys enjoy life on parole but can't find employment. Mr. Piranha, Ms. Web, and Mr. Shark anxiously wait to hear if Mr. Wolf got work, but they are disappointed. Mr. Snake slithers in to grab his yoga mat. The crew gawks at Mr. Snake's change and doesn't understand how he can be so happy. Mr. Shark thinks they should worry about the Phantom Bandit heists. It's only a matter of time before people blame them for the Phantom's crime spree.<br/><br/>Mr. Wolf spars with Governor Diana Fox. She advises him to win over the town by doing good publicly. Mr. Wolf has an idea and drives to the police station. He and his crew examine the evidence of the heists with Commissioner Misty Luggins. They spot the culprits in the photo and discover that the stolen items contain MacGuffinite.<br/><br/>The team researches and finds that the Lords of Lucha championship title contains the precious metal. They think the Phantom Bandit will strike at the wrestling match. They arrive at the match and spot Mr. Snake with his new girlfriend, Susan. The crew sees the belt hanging over the ring. They deduce that the challenger is the Bandit. They jump into the squared circle and battle for the belt. However, instead of applause, someone frames them for stealing the belt by putting it on Mr. Piranha. Susan hijacks a hotdog cart and saves them. She offers the crew mints, but Mr. Wolf rejects them. Mr. Wolf asks Susan to pull over so he can call Diane and explain that they are innocent. Mr. Wolf returns the van to find the Bad Guys asleep. Susan shoots Mr. Wolf with a dart.<br/><br/>The team wakes up to the Bad Girls. Pig Tails is the muscle. During the match, she hid in plain sight as the challenging luchador. Susan is Doom, a sweet-talker and long-con expert. The mastermind, Kitty Kat, introduces herself. She wants the Bad Guy to help them with their next heists. Mr. Wolf says no. Kitty Kat threatens to expose Diane's secret life as the Crimson Paw if he doesn't assist. Mr. Wolf agrees, but he assures his crew that he has an ace up his sleeve. Can the Bad Guys do good and protect Diane's reputation?<br/><br/>This sequel is better than the first. The capers are more outlandish, the jokes are funnier, and the plot delves deeper. This story handles reform and redemption. The animation jumps genres throughout the fight scenes. Typically, this feels disjointed. It works because the graphic artist continued this change throughout the entire film. It makes the art feel more alive and enveloping. Be sure to stay for the mid-credit scene. It gives insight into the plot for The Bad Guys 3. This picture has the crime style of Leverage, the smoothness of Ocean's Eleven, and the fun of The Fast and the Furious. The entire family will enjoy this film.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0FHXPXXML"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thebadguys2.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebadguys2.jpeg"
-    }
-  }
-
   {
     "option": "1",
     "mtitle": "Freakier Friday",
@@ -239,19 +213,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelongwalk.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelongwalk.jpg"
-    }
-  }
-
-   {
-    "option": "4",
-    "mtitle": "Nobody 2",
-    "review": "Hutch sits in a police station with a dog beside him. He ignites a lighter and uses it to cauterize his wound. The police demand to know who they are. Hutch takes a deep breath and ponders his response. To the outside world, Hutch is married to real estate agent Becca. They raise two children, Sammy and Brady, in a happy and loving environment. However, the underworld knows Hutch as an accountant. At home, Hutch is a man who puts work over family. Becca misses him at dinner time and informs Hutch. She mentions the kids' upcoming summer vacation. Hutch promises to plan everything.<br/><br/>Days later, Hutch shows the family an old video of Plummersville. Hutch has fond memories of that place because it was the only time his father, David, took him and his brother, Harry, on a trip.<br/><br/>Hutch and his family play games at an arcade. Brady gives his extra tickets to a pretty girl and the rest to his sister. Sammy trades her tickets for a badger as Max approaches. He accuses Brady of flirting with his girlfriend, steals Sammy's badger, and rips off its head. As they exit, one of the guards hits Sammy in the back of the head. With a ruse, Hutch reenters the arcade without his family and takes out the guards. The police arrest him and Brady.<br/><br/>The family waits at the police station for Abe. Abe brings Hutch to his office and stands at the corner. Wyatt sits at Abe's desk and states that he runs this town. He demands that Hutch leave and never return. Hutch agrees but stays. Abe's goons spot Hutch and his family at the water park.  Wyatt orders Abe to rid the town of Hutch. He doesn't know who Hutch is, but he understands that Hutch will bring problems to Lendina's business. Lendina is a ruthless bootlegger who will kill anyone who disrupts her cash flow, including Wyatt. Hutch won't budge because he and his family need this time together. No one will ruin this nobody's vacation.<br/><br/>This sequel doesn't follow the action genre pattern. It doesn't put Hutch in a new, exotic location to go on the hunt. Instead, he travels to a small town for family time. This charming and dry comedy features the original cast. It has more explosions, blood, and wall-to-wall action. The fight sequences combine John Wick with Home Alone. The director found exciting and cringy ways to include a funhouse, waterslide, and ball pit. And Lendina is a quirky villain who lives on bloodlust. This film adds to the franchise, not by expanding the world, but by enlightening the audience to Hutch's family. This film is an entertaining, mindless good time.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0FMJ5N1P5"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/nobody2.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nobody2.jpeg"
     }
   }
 
