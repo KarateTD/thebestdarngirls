@@ -1,6 +1,30 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "The Fantastic Four: First Steps",
+    "review": "On Earth-828, the world praises their heroes, dubbing them The Fantastic Four. Four years ago, astronauts Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm went to outer space. A cosmic ray blasted them during their mission, and they gained superhuman abilities.<br/><br/>Today, Sue exits the bathroom and gives her husband, Reed, her positive pregnancy test. They joyously hug and meet Sue's brother, Johnny, and Reed's best friend, Ben, for a dinner prepared by HERBIE. Ben can see the petrified look on Reed's face and deduces that the happy couple will be parents. They celebrate while Reed worries. With their altered DNA, he has no idea what the future will bring for their unborn child.<br/><br/>Over the next few months, Sue negotiates peace talks among all countries and the land of Subterranea. She's preparing for maternity leave when the team receives an alert on their wrist watches. Something has entered the atmosphere. A being on a silver surfboard asks if they are the protectors of the planet. They answer yes. She warns the world that Galactus, Destroyer of Worlds, will arrive on Earth and eat the planet. The Silver Surfer flies away.<br/><br/>The world cheers for the Fantastic Four on Excelsior Launch Day. They locate Galactus just in time to watch him devour a planet. A beam scans their ship but lingers on Sue's stomach. The Silver Surfer enters their spacecraft and invites them to meet Galactus. Galactus says he will spare Earth if they give him their baby. He says the baby hides its true nature from them. Galactus believes the baby will take over his mantle and end his hunger. They refuse, and Galactus uses his powers to make Sue go into labor.<br/><br/>The Fantastic Four escapes Galactus's ship, and the Silver Surfer is hot on their trail. They flee to Earth, but not before Sue gives birth to their son, Franklin. They return to a press conference waiting for good news. Sadly, they report that Galactus is coming because they wouldn't give up Franklin. They must find a way to defeat Galactus or lose everything they love. Can the Fantastic Four rescue their family while saving their world?<br/><br/>This film will remind fans why they love superhero movies. The costume and set departments had the ultimate tasks. They had to give the picture a '70s feel while making it futuristic. Their designs expand the imagination and are award-worthy. The script is funny and engaging. Also, Galactus is an old-school villain. He just wants to destroy things. Franklin's CGI isn't perfect, but the team's graphics make up for it. This new adaptation of the iconic superheroes is what fans deserve. The film has a mid- and post-scene. While the mid-credit scene is essential to the future of the MCU, the post-credit scene is for nostalgia.<br/><br/>5 out of 5 stars.",
+    "asin": {
+      "re": "B0FRNLYMMG"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thefantastic41ststeps.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thefantastic41ststeps.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Mission: Impossible - The Final Reckoning",
+    "review": "IMF agent Ethan Hunt sits in a private bunker when he gets a VHS tape directly from President Erika Sloane. Since Ethan did not return the cruciform key in his last mission, the Entity has roamed free on the internet. Without intervention, it will have the world's deadliest forces under its control. The world has two choices. They can become a slave to the Entity or shut down the internet. However, the latter would ensure worldwide chaos. President Sloane gently demands that Ethan turn himself and the key over to her.<br/><br/>With Paris's tip, Ethan and Grace travel to London to find Gabriel. Gabriel gets the drop on them, and they wake up bound. Gabriel admits that the Rabbit's Foot wasn't a biological weapon. It was a device that could give him control over the Entity. Ethan and Grace escape and meet with Luther and Benji. Luther hands Ethan a device with malware. If Ethan attaches the device to the Entity's source code, it will infect the Entity, and they can trap it.<br/><br/>Paris takes Ethan to a capsule that Gabriel used to communicate with the Entity. Ethan lets the Entity into his mind, and it discovers a plan of attack. However, Ethan sees the plan too. The Entity plans to escape to the Doomsday Vault in South Africa.<br/><br/>Ethan finally falls in line and turns himself over to the President. However, he urges President Sloane not to arrest him because the Entity knows Ethan is the only one with the power to stop it. She writes a note, seals it, grabs the key, and slips it to the guard. She demands that the guards take Ethan to his cell. The guards take him to an awaiting helicopter and give him the key and the note. Now, Ethan must find the location of the source code, retrieve it, and capture the Entity in South Africa. If not, the Entity will fire the world's nuclear weapons. Can Ethan move in the shadows one more time and save the world?<br/><br/>This eighth installment in the Mission: Impossible franchise delivers a heart-pounding thrill ride with unthinkable missions, setbacks, heartbreak, and breathtaking action. The stunts and graphics are smooth and don't distract from the plot. The film doesn't rely heavily on humor because it focuses on the emotional aspect. It does use a similar setup for two scenes. However, they don't feel redundant. Unlike other films, this picture has three nerve-racking moments running simultaneously. Don't be surprised if you hold your breath. It is one of the best Mission: Impossible films of the series.<br/><br/>5 out of 5 stars.",
+    "asin": {
+      "re": "B0F8W6CMR9"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/missionimpossiblethefinalreckoning.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/missionimpossiblethefinalreckoning.jpeg"
+    }
+  },
+  {
+    "option": "3",
     "mtitle": "The Bad Guys 2",
     "review": "The Bad Guys enjoy life on parole but can't find employment. Mr. Piranha, Ms. Web, and Mr. Shark anxiously wait to hear if Mr. Wolf got work, but they are disappointed. Mr. Snake slithers in to grab his yoga mat. The crew gawks at Mr. Snake's change and doesn't understand how he can be so happy. Mr. Shark thinks they should worry about the Phantom Bandit heists. It's only a matter of time before people blame them for the Phantom's crime spree.<br/><br/>Mr. Wolf spars with Governor Diana Fox. She advises him to win over the town by doing good publicly. Mr. Wolf has an idea and drives to the police station. He and his crew examine the evidence of the heists with Commissioner Misty Luggins. They spot the culprits in the photo and discover that the stolen items contain MacGuffinite.<br/><br/>The team researches and finds that the Lords of Lucha championship title contains the precious metal. They think the Phantom Bandit will strike at the wrestling match. They arrive at the match and spot Mr. Snake with his new girlfriend, Susan. The crew sees the belt hanging over the ring. They deduce that the challenger is the Bandit. They jump into the squared circle and battle for the belt. However, instead of applause, someone frames them for stealing the belt by putting it on Mr. Piranha. Susan hijacks a hotdog cart and saves them. She offers the crew mints, but Mr. Wolf rejects them. Mr. Wolf asks Susan to pull over so he can call Diane and explain that they are innocent. Mr. Wolf returns the van to find the Bad Guys asleep. Susan shoots Mr. Wolf with a dart.<br/><br/>The team wakes up to the Bad Girls. Pig Tails is the muscle. During the match, she hid in plain sight as the challenging luchador. Susan is Doom, a sweet-talker and long-con expert. The mastermind, Kitty Kat, introduces herself. She wants the Bad Guy to help them with their next heists. Mr. Wolf says no. Kitty Kat threatens to expose Diane's secret life as the Crimson Paw if he doesn't assist. Mr. Wolf agrees, but he assures his crew that he has an ace up his sleeve. Can the Bad Guys do good and protect Diane's reputation?<br/><br/>This sequel is better than the first. The capers are more outlandish, the jokes are funnier, and the plot delves deeper. This story handles reform and redemption. The animation jumps genres throughout the fight scenes. Typically, this feels disjointed. It works because the graphic artist continued this change throughout the entire film. It makes the art feel more alive and enveloping. Be sure to stay for the mid-credit scene. It gives insight into the plot for The Bad Guys 3. This picture has the crime style of Leverage, the smoothness of Ocean's Eleven, and the fun of The Fast and the Furious. The entire family will enjoy this film.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -11,8 +35,8 @@ var mustBuy = [
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebadguys2.jpeg"
     }
   },
-{
-    "option": "2",
+  {
+    "option": "4",
     "mtitle": "Nobody 2",
     "review": "Hutch sits in a police station with a dog beside him. He ignites a lighter and uses it to cauterize his wound. The police demand to know who they are. Hutch takes a deep breath and ponders his response. To the outside world, Hutch is married to real estate agent Becca. They raise two children, Sammy and Brady, in a happy and loving environment. However, the underworld knows Hutch as an accountant. At home, Hutch is a man who puts work over family. Becca misses him at dinner time and informs Hutch. She mentions the kids' upcoming summer vacation. Hutch promises to plan everything.<br/><br/>Days later, Hutch shows the family an old video of Plummersville. Hutch has fond memories of that place because it was the only time his father, David, took him and his brother, Harry, on a trip.<br/><br/>Hutch and his family play games at an arcade. Brady gives his extra tickets to a pretty girl and the rest to his sister. Sammy trades her tickets for a badger as Max approaches. He accuses Brady of flirting with his girlfriend, steals Sammy's badger, and rips off its head. As they exit, one of the guards hits Sammy in the back of the head. With a ruse, Hutch reenters the arcade without his family and takes out the guards. The police arrest him and Brady.<br/><br/>The family waits at the police station for Abe. Abe brings Hutch to his office and stands at the corner. Wyatt sits at Abe's desk and states that he runs this town. He demands that Hutch leave and never return. Hutch agrees but stays. Abe's goons spot Hutch and his family at the water park.  Wyatt orders Abe to rid the town of Hutch. He doesn't know who Hutch is, but he understands that Hutch will bring problems to Lendina's business. Lendina is a ruthless bootlegger who will kill anyone who disrupts her cash flow, including Wyatt. Hutch won't budge because he and his family need this time together. No one will ruin this nobody's vacation.<br/><br/>This sequel doesn't follow the action genre pattern. It doesn't put Hutch in a new, exotic location to go on the hunt. Instead, he travels to a small town for family time. This charming and dry comedy features the original cast. It has more explosions, blood, and wall-to-wall action. The fight sequences combine John Wick with Home Alone. The director found exciting and cringy ways to include a funhouse, waterslide, and ball pit. And Lendina is a quirky villain who lives on bloodlust. This film adds to the franchise, not by expanding the world, but by enlightening the audience to Hutch's family. This film is an entertaining, mindless good time.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -23,8 +47,8 @@ var mustBuy = [
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nobody2.jpeg"
     }
   },
- {
-    "option": "3",
+  {
+    "option": "5",
     "mtitle": "F1: The Movie",
     "review": "Sonny finishes his race, collects his meager winnings, and leaves to find the next challenge. He hears a voice behind him and sees a familiar face, Ruben. Ruben and Sonny competed in the past, but now Ruben owns a racing team, APEX GP. However, APEX GP has yet to win a race. If APEX GP doesn't win, the board will remove Ruben. Ruben's best driver, Joshua, is highly skilled but young. Ruben wants Sonny to join his team and bring maturity to it. Ruben believes that Joshua and Sonny could win F1 and bring credibility to APEX GP. So Ruben leaves him a first-class ticket to their training track.<br/><br/>Joshua tries out their new car but notices some issues. Sonny arrives as Joshua reports his findings. Joshua's manager, Cash, pulls him aside. Joshua needs to make a good impression over the next few races. Cash believes APEX GP is going down. If Joshua ranks on the leaderboard, another team could open up a spot for him. Sonny thinks the team can win, but they must make changes to the car. Ruben agrees. While Sonny races to overcome his past, Joshua wants to keep his career. Can APEX GP survive with two men competing for the number one spot?<br/><br/>This film has the high-octane fun of Days of Thunder with witty banter. It pays respect to the intricacies and dangers of racing. The audience sees the split decisions, track sabotage, and teamwork in racing. The film uses F1 drivers and scenarios to increase the drama and urgency. The viewer will feel it in their chest as they get a cockpit view of the track. However, this film isn't solely about the race. It also covers espionage and sabotage, but the writers make the audience connect the clues of who is responsible. While the film is lengthy, it delivers an original competitive racing story.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -33,30 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/f1.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/f1.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "The Life of Chuck",
-    "review": "The Life of Chuck was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0FJG6TBJT"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelifeofchuck.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelifeofchuck.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Superman",
-    "review": "Superman was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0FDFLXF7C"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/superman.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/superman.jpg"
     }
   }
 ];
@@ -161,32 +161,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/queenofthering.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/queenofthering.jpg"
-    }
-  }
-
-  {
-    "option": "4",
-    "mtitle": "Mission: Impossible - The Final Reckoning",
-    "review": "IMF agent Ethan Hunt sits in a private bunker when he gets a VHS tape directly from President Erika Sloane. Since Ethan did not return the cruciform key in his last mission, the Entity has roamed free on the internet. Without intervention, it will have the world's deadliest forces under its control. The world has two choices. They can become a slave to the Entity or shut down the internet. However, the latter would ensure worldwide chaos. President Sloane gently demands that Ethan turn himself and the key over to her.<br/><br/>With Paris's tip, Ethan and Grace travel to London to find Gabriel. Gabriel gets the drop on them, and they wake up bound. Gabriel admits that the Rabbit's Foot wasn't a biological weapon. It was a device that could give him control over the Entity. Ethan and Grace escape and meet with Luther and Benji. Luther hands Ethan a device with malware. If Ethan attaches the device to the Entity's source code, it will infect the Entity, and they can trap it.<br/><br/>Paris takes Ethan to a capsule that Gabriel used to communicate with the Entity. Ethan lets the Entity into his mind, and it discovers a plan of attack. However, Ethan sees the plan too. The Entity plans to escape to the Doomsday Vault in South Africa.<br/><br/>Ethan finally falls in line and turns himself over to the President. However, he urges President Sloane not to arrest him because the Entity knows Ethan is the only one with the power to stop it. She writes a note, seals it, grabs the key, and slips it to the guard. She demands that the guards take Ethan to his cell. The guards take him to an awaiting helicopter and give him the key and the note. Now, Ethan must find the location of the source code, retrieve it, and capture the Entity in South Africa. If not, the Entity will fire the world's nuclear weapons. Can Ethan move in the shadows one more time and save the world?<br/><br/>This eighth installment in the Mission: Impossible franchise delivers a heart-pounding thrill ride with unthinkable missions, setbacks, heartbreak, and breathtaking action. The stunts and graphics are smooth and don't distract from the plot. The film doesn't rely heavily on humor because it focuses on the emotional aspect. It does use a similar setup for two scenes. However, they don't feel redundant. Unlike other films, this picture has three nerve-racking moments running simultaneously. Don't be surprised if you hold your breath. It is one of the best Mission: Impossible films of the series.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0F8W6CMR9"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/missionimpossiblethefinalreckoning.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/missionimpossiblethefinalreckoning.jpeg"
-    }
-  }
-
-  {
-    "option": "1",
-    "mtitle": "The Fantastic Four: First Steps",
-    "review": "On Earth-828, the world praises their heroes, dubbing them The Fantastic Four. Four years ago, astronauts Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm went to outer space. A cosmic ray blasted them during their mission, and they gained superhuman abilities.<br/><br/>Today, Sue exits the bathroom and gives her husband, Reed, her positive pregnancy test. They joyously hug and meet Sue's brother, Johnny, and Reed's best friend, Ben, for a dinner prepared by HERBIE. Ben can see the petrified look on Reed's face and deduces that the happy couple will be parents. They celebrate while Reed worries. With their altered DNA, he has no idea what the future will bring for their unborn child.<br/><br/>Over the next few months, Sue negotiates peace talks among all countries and the land of Subterranea. She's preparing for maternity leave when the team receives an alert on their wrist watches. Something has entered the atmosphere. A being on a silver surfboard asks if they are the protectors of the planet. They answer yes. She warns the world that Galactus, Destroyer of Worlds, will arrive on Earth and eat the planet. The Silver Surfer flies away.<br/><br/>The world cheers for the Fantastic Four on Excelsior Launch Day. They locate Galactus just in time to watch him devour a planet. A beam scans their ship but lingers on Sue's stomach. The Silver Surfer enters their spacecraft and invites them to meet Galactus. Galactus says he will spare Earth if they give him their baby. He says the baby hides its true nature from them. Galactus believes the baby will take over his mantle and end his hunger. They refuse, and Galactus uses his powers to make Sue go into labor.<br/><br/>The Fantastic Four escapes Galactus's ship, and the Silver Surfer is hot on their trail. They flee to Earth, but not before Sue gives birth to their son, Franklin. They return to a press conference waiting for good news. Sadly, they report that Galactus is coming because they wouldn't give up Franklin. They must find a way to defeat Galactus or lose everything they love. Can the Fantastic Four rescue their family while saving their world?<br/><br/>This film will remind fans why they love superhero movies. The costume and set departments had the ultimate tasks. They had to give the picture a '70s feel while making it futuristic. Their designs expand the imagination and are award-worthy. The script is funny and engaging. Also, Galactus is an old-school villain. He just wants to destroy things. Franklin's CGI isn't perfect, but the team's graphics make up for it. This new adaptation of the iconic superheroes is what fans deserve. The film has a mid- and post-scene. While the mid-credit scene is essential to the future of the MCU, the post-credit scene is for nostalgia.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0FRNLYMMG"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thefantastic41ststeps.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thefantastic41ststeps.jpg"
     }
   }
 
