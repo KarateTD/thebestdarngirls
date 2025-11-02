@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
-    "mtitle": "Taken at a Truck Stop: A Black Girl Missing Movie",
-    "review": "Kai turns over the keys to her father's old rig one last time. She will retire today and spend time with her niece, Latoya, also known as Toy, on a drive to the West Coast. Toy shared her autism prognosis online and met some backlash. Kai tells Toy to turn off social media and focus on the world around her. Then, she notices Toy's new jewelry. Toy explains that a male friend bought it for her.<br/><br/>Kai meets with her sister, Madison, and beams about retirement. However, Madison secured a job that could potentially lead to a large contract. She begs Kai to take the job, but it will derail her trip with Toy. Kai accepts the drive and tells Toy. Toy is visibly upset but uses her coping mechanisms to relax. Toy counters and asks to join Kai on her job. They can drive to Dallas and spend time together. Kai agrees, and Toy convinces Madison to let her go.<br/><br/>After a few days on the road, Toy leaves the cab to get food at a truck stop while Kai sleeps. A man named Eric approaches Toy. He's her online, gifting friend. He gives her another present, but Toy doesn't respond the way he expects. Toy tries to run, but he grabs her and stuffs her in the trunk of his car. Kai calls the police and Madison. Kai fears that the police aren't taking it seriously because they want to label Toy a runaway. Kai will find the community she thought overlooked her to bring Toy home.<br/><br/>This film is a combination of several actual stories, but it falls short of others in this category. The plot focuses more on the failed relationship between Kai and Madison. Toy becomes an afterthought to their bickering and family issues. Also, the writers focused on the trucker community rejecting Kai. By the conclusion, it feels like Kai kept them at arm's length. This movie is not the best of the series, but it's a decent way to kill two hours.<br/><br/>3.5 out of 5 stars.",
+    "mtitle": "Terry McMillan Presents: His, Hers, and Ours",
+    "review": "Darius arrives home after retiring early. He finds his daughter, Kai, in bed with her boyfriend, Isaiah. He kicks Isaiah out and forces him to walk home because Darius blocked his car. Isaiah makes it home and explains to his mother, Chef Kelly, that Darius has his car. Kelly and Isaiah drive to Darius's home and demand her son's car. Darius grounds Kai for the foreseeable future, and Kelly confiscates Isaiah's phone.<br/><br/>Days later, Darius and Kelly get a call from the school. Kelly and Isaiah's ex-girlfriend, Julie, got into an altercation. The principal won't let it affect their record if the teens and the adults help clean the school. Later, they reunite at a club after both have had horrible dates. They leave together and kiss on the street. However, they can't ignore their passion. They tell Kai and Isaiah, and the teens explode. It will be detrimental to their reputation in high school. Kelly and Darius keep their relationship private. Will the romance fizzle out when it goes public and hurts their children?<br/><br/>This film has a very slow pace with moments of shock and awe. It presents like one of Terry McMillan's books. The lead characters have a tragic backstory. The audience will understand Kai and Isaiah's issues with their parents' dating. Your significant other possibly becoming your stepsibling is weird. However, the audience will not sympathize with their childish response. After a tense moment in the bathroom, the characters realize what is important to them. It's up to the audience to stick with the story until then. This movie is for the easy-going viewer who needs a touch of drama with a love story.<br/><br/>3.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/takenatabusstopblackgirlmissing.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/takenatabusstopblackgirlmissing.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanhishersours.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanhishersours.jpg"
     }
   },
   {
     "option": "2",
-    "mtitle": "Dancing With a Murderer",
-    "review": "Aspiring fashion designer Nora walks around the Legacy Masquerade Gala until she bumps into an old friend, Liz. Naomi interrupts Liz with exciting news. She nominated Nora for the most coveted award at the gala. Nora looks around the room and sees her ex-boyfriend, Daniel, attending the bar. She walks over to the nominees' table to check out her competition. Paul introduces himself. He makes sly comments because his daughter, Angela, is on the list. After Paul leaves, Dom walks over and asks Nora to dance. Nora says no at first, but Dom won't let her fears stop him. As they dance the night away, Angela enters with a stab wound. She falls to the floor, and attendees call the police. Nora gets a text that she was supposed to be the victim. She rushes home as Angela dies.<br/><br/>One year later, Nora returns. To her surprise, Liz is throwing the gala, but in Angela's honor. Dom cuts off their conversation and gives Nora his business card. He hopes to meet with her later. Nora returns to her mother's home and sees Daniel there. He explains that he helps when he can, especially after Margaret had an uncomfortable encounter with Paul after Angela's death. Nora looks through the mail and finds another threat. The killer still wants her dead and won't stop until they get it right.<br/><br/>This whodunit film isn't much of a mystery. Off-hand comments and side glances give the killer away. The motive is predictable, too. The editing, acting, and costumes are perfect, but they can't make up for the dull script. Once you hear the killer's underhanded remarks, your attention will fade into other activities until the monologue. This movie is perfect for holiday background noise.<br/><br/>2.5 out of 5 stars.",
+    "mtitle": "The Secret Lives of Sister Wives",
+    "review": "Calli attends a dance and meets a young man named Trent. They dance for a song, and he leaves to get her punch. Then, the church elder, Nicholas, approaches. He warns Calli that Trent has spiked girls' drinks. He asks her for a dance, and she leaves Trent behind for Nicholas. Nicholas tells his wives, Mary, Abbie, and Beth, that he plans to marry Calli next. Hopefully, she will bring him a male heir.<br/><br/>Nicholas meets Calli's mother, Rebecca, to ask for her blessing. Rebecca is ecstatic that her daughter will have the honor of marrying an elder. Calli is unsure because her aunt Leah married Nicholas, and she ran away from him. Rebecca approves of the marriage but wants something in return. Nicholas offers to buy Rebecca a house. Calli is Nicholas's fourth wife and expects to fall into wedded bliss. However, she finds jealousy, affairs, and abuse.<br/><br/>The film begins with Leah escaping Nicholas's clutches. So, the audience knows he is the antagonist. However, you aren't ready for the underhanded games of the first wife, Mary. She will drug, sabotage, and manipulate any situation. The overall plot isn't new for this channel, and the storyline ends as expected. However, it will entertain you with creepy, OMG moments for 2 hours.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/dancingwithamurderer.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/dancingwithamurderer.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thesecretlivesofsisterwives.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thesecretlivesofsisterwives.jpg"
     }
   },
   {
     "option": "3",
-    "mtitle": "The Prep School Disappearance",
-    "review": "Elise draws in the corner when her ex-boyfriend, Joey, approaches. Joey cheated on Elise with her former best friend, Kaylee. Now, Kaylee and Joey are Romeo and Juliet in the school play. She demands space and leaves.<br/><br/>Donovan enters Lilly's classroom. She is the art teacher at the prep school and his sister-in-law. When her sister, Helen, died, Lilly's drinking got out of control. She's been clean for 6 months and works with her sober coach, Brian, daily. He wants her to stay clean and focus on her job.<br/><br/>Lilly rests at home when she gets a knock on her door. Her niece, Elise, barges in with tears streaming down her face and a bruised wrist. Elise plans to run away, but wants to say goodbye to Lilly first. Lilly begs Elise to stay the night and think things through. Elise will, but only if Lilly gives her the truth about her mom. Lilly tells Elise that Helen got pregnant at 17 and the school forced her to leave. Helen had the baby, but the child did not survive. She upholds her end of the deal and spends the night.<br/><br/>Lilly gave in to temptation after missing meetings and ignoring Brian's calls. She finished a bottle of vodka and slept on the kitchen floor. She walks into the living room, but Elise is not there. Later, Donovan discovers that Elise is missing, and he blames Lilly. She believes that if she were sober, Elise would be here. Lilly will sacrifice everything to get her niece back. Will she succeed?<br/><br/>This film has a crazy and fun villain with a predictable motive. The main characters make stereotypical mistakes, with Brian being the dumbest of all. The investigation was sloppy, forced, and accidental. Nothing about the plot felt organic. It was all happenstance. The actors played their roles to perfection and cared about the project. However, this film starts promising, but ends flat.<br/><br/>2.5 out of 5 stars.",
+    "mtitle": "Deck the Halls on Cherry Lane",
+    "review": "In 1966, Stephanie bought her first home solo and enjoys covering it with her Christmas spirit. Then, she gets a call from her favorite TV show. She entered a contest and was the runner-up. However, the winner backed out, and they want her to host the show at her home. Stephanie replies with an enthusiastic yes. Then, she admits to her deception. She gave them her neighbor's address when she applied because their house was bigger. She walks over to 7 Cherry Lane and asks them to host the show. David says no, but Curtis says yes. He gets David to cave. As they set up, she admits one more secret. Stephanie told them she was married. Can they keep the lie alive on live TV?<br/><br/>In 1981, Kyle and Piper arrive at 7 Cherry Lane to spend time with Kyle's co-worker, John, and John's wife, Lizzie, and their daughter, Ivy. Kyle and Piper enter the home, and the men find a quiet corner. Kyle asks John if John's considering taking over his position. It's better pay and better hours, but he would have to move. John hasn't spoken to Lizzie about it. Lizzie whispers to Piper in the kitchen. She learned that she's pregnant. Their secrets won't be quiet for long because Ivy loves to eavesdrop.<br/><br/>In 2000, Recently divorced, Rebecca has settled into her home. Her neighbor, Daisy, stops by. She congratulates Rebecca on deicing her porch, but Rebecca didn't do it. Daisy concludes that the person who left the card possibly did a kind deed. Daisy tells Rebecca that people on Cherry Lane love to spread kindness. Daisy exits, and Rebecca's best friend, Matt, arrives. The spirit of Cherry Lane takes over Matt, and he encourages Rebecca to spread kindness to her new neighbors. However, the neighbors can see a spark between them. It's the past of 7 Cherry Lane that brings it to Rebecca's attention.<br/><br/>This 4th installment of the Cherry Lane series doesn't disappoint. The clothing styles between the 80s and the 2000s don't change much, but the furniture makes a statement. The three stories connect in unique and heartwarming ways, like the previous movies. Some connections are obvious while others are subtle. And this film spotlights the first three movies. The 'Daisy' link never fails. This series can continue for years to come, and it will be a delight. Soon, Hallmark can have 24 hours on Cherry Lane.<br/><br/>5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theprepschooldisappearance.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theprepschooldisappearance.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deckthehallsoncherrylane.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deckthehallsoncherrylane.jpg"
     }
   },
   {
     "option": "4",
-    "mtitle": "A Christmas Angel Match",
-    "review": "Monica has worked as a Christmas Angel for over 5 centuries. She's used Christmas magic to match couples for generations. Lately, it's been difficult for her because tender hearts, a.k.a humans, won't look up from their devices. She's lost her mojo. Newer angels, like Michael, are surpassing her matches. He uses fun to connect his couples.<br/><br/>Gabriel hosts the annual Christmas Angel awards. For the second year in a row, Michael beat Monica for angel of the year. After the awards, each angel introduces their next match. Monica walks to the podium and announces her next couple is Daisy and Patrick. Michael cuts her off because the higher-ups gave him the same couple. Then, Gabriel gets a phone call. They paired Monica and Michael together to see if the Christmas Match Angels are effective. If they fail, the higher-ups will merge the Christmas Angels with Cupid, and some angels will lose their jobs. Monica will teach Michael the importance of long-term matches, while he will show her how to have fun breaking the rules. But is their more in store for these angels?<br/><br/>This holiday film brings a heartwarming view into the meet-cutes Hallmarkies love this time of the year. It's not just Christmas magic that brings the spark to your favorite movies. It's angels. This script includes lovable grandparents, a flash mob, and karaoke. The writers incorporated charm and humor without being sappy or preachy. This is an entertaining story that makes you believe in Godwink moments.<br/><br/>4.5 out of 5 stars.",
+    "mtitle": "See You Again",
+    "review": "Ivy smiles on her date with her friend's cousin, Callum. However, he won't let her speak. She tries to make a hasty exit, but he extends the conversation. Ivy agrees to meet with him later to make Callum leave. She calls her friend Andrea as she mopes in her car. Ivy decides to give Callum another try.<br/><br/>Callum takes Ivy on a canoe ride to a remote island. He pulls the canoe up onto the island, but Ivy expresses her fears that it will float away. He assures her it's okay. She drags it forward when his back is to her. Unfortunately, Ivy drops the canoe on a large metal shard. They connect on the island and board the boat to head to the mainland. However, the canoe takes on water, and they row back to the island. Callum steps on the shard and gets a deep cut. He discovers that Ivy put the hole in the boat. Now, they are alone on the deserted island, and no one knows they are there. Will someone find them before they kill each other?<br/><br/>This film will split viewers because Ivy was correct about their first date, and Callum did everything wrong. However, their second date mishaps were her fault. Their time on the island allows the couple to have meaningful and spiritual conversations about relationships, loss, and expectations. The scenes with Andrea are eye-opening because she is the voice of reason for everyone. If you were on the East Coast of the United States, this film may get cut off early. So set your DVR to catch the movie in its entirety.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/achristmasangelmatch.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/achristmasangelmatch.jpeg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/seeyouagain.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/seeyouagain.jpg"
     }
   },
   {
     "option": "5",
-    "mtitle": "Five Date Rule",
-    "review": "Hattie gave up her dreams of performing on stage and now creates children's songs with life lessons. Hattie meets with her friends, Jill and Arya, to celebrate her birthday. They give her a 3-month subscription to a dating app as her gift. Hattie rolls her eyes and thanks them.<br/><br/>Hattie creates an account and sees the gardener, Henry, whom she met earlier on the app. She skips his profile and matches with three other men. Sadly, those dates go poorly. Hattie accepts Henry for a match. He wants Hattie to give him a chance. She agrees, but only if her friends can vet him. He relents.<br/><br/>During the date, Jill and Arya grill Henry, and he impresses them. Hattie and Henry chose to implement Henry's family's five-date rule. They will date exclusively for five dates. If things go well, they will strive for more. Otherwise, they will move on. Can Henry and Hattie survive five dates, or will their past and opportunities get in the way?<br/><br/>This film found the right place on UP TV. The plot combines relationship sermons with storytelling, although edited poorly. The sound editing is distracting and uncomfortable. Also, the crying scenes are overdone and annoying. This movie's saving graces are the dating montage and song. Save yourself two hours unless you want to watch a Christian-focused film with overacting.<br/><br/>2.5 out of 5 stars.",
+    "mtitle": "Happy Holidays from Cherry Lane",
+    "review": "In 1960, Eli's father, Walter, is staying with Eli and his wife, Penny, and their son, Alex, at 7 Cherry Lane this Christmas. He's healing after breaking his hip. However, Walter nitpicks at everything Eli does. Eli is at his wits' end and wants to end the holiday. However, Penny pleads with Eli to find common ground with Walter for Alex's sake. Eli knows it won't be easy, but he's willing to do anything for Penny.<br/><br/>In 1998, Ivy and Hector visit Regina. This Christmas is the tenth without her husband, Greg, and her kids are snowbound in another town. Ivy cares deeply for the family because Greg helped her mother give birth to her at 7 Cherry Lane. Regina attempts to prepare a meal, but the pipes are frozen. Regina calls a plumber, and Nelson arrives. Ivy and Hector want Regina to find love again and feel the spark between them. So they leave to give Nelson and Regina time alone. Will this magical address ignite the fires of love again?<br/><br/>In 2015, Jessie and Max planned on having a Christmas wedding while staying at Jessie's sister's home. Max rushes in with horrible information. He drove past their venue, and it's closed for good. Jessie's sister, Beth, wants to consider other options, but it's Christmas Eve. Jessie discussed getting married in Beth's backyard during the planning process. She asks Beth to have the 30-guest wedding at 7 Cherry Lane. And Beth's ex-boyfriend, Pastor Tim, will officiate the nuptials. Beth begrudgingly agrees to a small event. She has no idea how big and how complicated it will get.<br/><br/>This third installment in the Cherry Lane series has two plots following the Hallmark framework. The third story focuses on strengthening familial bonds. The latter will draw your attention and spark complex memories for the viewers. This plot links all three plots in the foreground and the background. So keep your eyes and ears open. The design team won again with three distinctive sets with a quirky and original style. Don't be surprised if 1960 is your favorite. This movie isn't the best of the series, but it is entertaining.<br/><br/>4.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/fivedaterule.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/fivedaterule.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/happyholidaysfromcherrylane.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/happyholidaysfromcherrylane.jpeg"
     }
   }
 ];
@@ -59,48 +59,48 @@ module.exports = madeForTV;
 
 
 
-
-
-
 {
-"option": "1",
-"mtitle":"Terry McMillan Presents: His, Hers, and Ours",
+"option":"1",
+"mtitle":"Terry McMillan Presents: Preach, Pray, Love",
 "review":"<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanhishersours.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanhishersours.jpg"
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanpreachpraylove.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanpreachpraylove.jpg"
 }},
 {
-"option": "2",
-"mtitle":"The Secret Lives of Sister Wives",
+"option":"2",
+"mtitle":"A Soldier for Christmas",
 "review":"<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thesecretlivesofsisterwives.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thesecretlivesofsisterwives.jpg"
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asoldierforchristmas.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asoldierforchristmas.jpg"
 }},
 {
-"option": "3",
-"mtitle":"Deck the Halls on Cherry Lane",
+"option":"3",
+"mtitle":"Relative Danger",
 "review":"<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deckthehallsoncherrylane.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deckthehallsoncherrylane.jpg"
+  "smallImageUrl":"",
+  "largeImageUrl":""
 }},
 {
-"option": "4",
-"mtitle":"See You Again",
+"option":"4",
+"mtitle":"My Mother Looked Just Like You",
 "review":"<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/seeyouagain.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/seeyouagain.jpg"
+  "smallImageUrl":"",
+  "largeImageUrl":""
 }},
 {
-"option": "5",
-"mtitle":"Happy Holidays from Cherry Lane",
+"option":"5",
+"mtitle":"A Newport Christmas",
 "review":"<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/happyholidaysfromcherrylane.jpeg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/happyholidaysfromcherrylane.jpeg"
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/anewportchristmas.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/anewportchristmas.jpg"
 }}
+
+
+
 
 */
