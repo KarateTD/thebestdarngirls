@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
-    "mtitle": "Terry McMillan Presents: His, Hers, and Ours",
-    "review": "Darius arrives home after retiring early. He finds his daughter, Kai, in bed with her boyfriend, Isaiah. He kicks Isaiah out and forces him to walk home because Darius blocked his car. Isaiah makes it home and explains to his mother, Chef Kelly, that Darius has his car. Kelly and Isaiah drive to Darius's home and demand her son's car. Darius grounds Kai for the foreseeable future, and Kelly confiscates Isaiah's phone.<br/><br/>Days later, Darius and Kelly get a call from the school. Kelly and Isaiah's ex-girlfriend, Julie, got into an altercation. The principal won't let it affect their record if the teens and the adults help clean the school. Later, they reunite at a club after both have had horrible dates. They leave together and kiss on the street. However, they can't ignore their passion. They tell Kai and Isaiah, and the teens explode. It will be detrimental to their reputation in high school. Kelly and Darius keep their relationship private. Will the romance fizzle out when it goes public and hurts their children?<br/><br/>This film has a very slow pace with moments of shock and awe. It presents like one of Terry McMillan's books. The lead characters have a tragic backstory. The audience will understand Kai and Isaiah's issues with their parents' dating. Your significant other possibly becoming your stepsibling is weird. However, the audience will not sympathize with their childish response. After a tense moment in the bathroom, the characters realize what is important to them. It's up to the audience to stick with the story until then. This movie is for the easy-going viewer who needs a touch of drama with a love story.<br/><br/>3.5 out of 5 stars.",
+    "mtitle": "Terry McMillan Presents: Preach, Pray, Love",
+    "review": "Gangster Rapper Charlie Mega spends three months in Fulton Jail. During her time, she went viral and spent time in Peachtree City of Faith's bible study. Charlie exits the jail and gets into an awaiting black SUV. Charlie approaches her front door. Before she can enter, her manager, Dean, rolls up on the property. Dean warns Charlie that she is behind for her next album, and she has to do community service.<br/><br/>After a restless night, Charlie attends Peachtree City of Faith Church, and Pastor Kyrus captivates her. She arrives later for her community service, and Doris yells at her for being late. Doris gives her a package to deliver to the church, and Charlie bangs on the door. Pastor Kyrus asks if she's lost, and Charlie laughs. She's lost in more ways than one. Something inside her has changed, but she's afraid to follow it. Kyrus encourages her to keep going and attend church.<br/><br/>Later, the Pastor meets with Deacon Kevin and Sister Suzanne. Kyrus wants to move the church to a larger location because the lease on his current building will expire soon. However, he can't collect enough donations from the current members. Suzanne highlights another issue. His single status is a problem for the church board. They want a sweet, church-going woman in the front row to be first lady. However, Kyrus can't take his mind off of Charlie. When they connect, they reflect the best parts of each other. Can their love hold when everyone tries to tear it down?<br/><br/>This movie is the surprise hit you don't see coming. While the world sees Kyrus and Charlie as opposites, they are the same. The writers use this inner conflict to express their connection, not lust. And that jumps off the film with faith and prayer. Eagle-eyed viewers will see their favorites from their treasured church dramas. The music is a 'bop,' and the fashion blends perfectly. This picture will be your favorite of Terry McMillan's.<br/><br/>4 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanhishersours.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanhishersours.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanpreachpraylove.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanpreachpraylove.jpg"
     }
   },
   {
     "option": "2",
-    "mtitle": "The Secret Lives of Sister Wives",
-    "review": "Calli attends a dance and meets a young man named Trent. They dance for a song, and he leaves to get her punch. Then, the church elder, Nicholas, approaches. He warns Calli that Trent has spiked girls' drinks. He asks her for a dance, and she leaves Trent behind for Nicholas. Nicholas tells his wives, Mary, Abbie, and Beth, that he plans to marry Calli next. Hopefully, she will bring him a male heir.<br/><br/>Nicholas meets Calli's mother, Rebecca, to ask for her blessing. Rebecca is ecstatic that her daughter will have the honor of marrying an elder. Calli is unsure because her aunt Leah married Nicholas, and she ran away from him. Rebecca approves of the marriage but wants something in return. Nicholas offers to buy Rebecca a house. Calli is Nicholas's fourth wife and expects to fall into wedded bliss. However, she finds jealousy, affairs, and abuse.<br/><br/>The film begins with Leah escaping Nicholas's clutches. So, the audience knows he is the antagonist. However, you aren't ready for the underhanded games of the first wife, Mary. She will drug, sabotage, and manipulate any situation. The overall plot isn't new for this channel, and the storyline ends as expected. However, it will entertain you with creepy, OMG moments for 2 hours.<br/><br/>3 out of 5 stars.",
+    "mtitle": "A Soldier for Christmas",
+    "review": "After several failed dates, Hannah is tired of men on dating apps. Her friends and family encouraged her to date after losing her husband, Andrew, in battle. Sadly, her dates run when they discover she has a 5-year-old daughter, Carmen. Hannah expresses her frustrations with her brother, Joshua, during their daily check-in. Joshua is in the military and stationed overseas. Hannah chooses to focus on work. She has a campaign that needs a perfect all-American soldier. Hannah volunteers at church, and a co-worker, Jackie, says her daughter mentioned a Christmas wish to the congregation. Hannah inquires about the wish, but Jackie won't elaborate.<br/><br/>An RPG strikes near Joshua, but Ryan tackles him out of the way. Joshua wakes in a medical hospital with Ryan by his side. He thanks Ryan for saving him and gets an idea. He calls Hannah and says he found the perfect soldier for her. She assumes it's a date and says no. He reiterates and says it's for her campaign. She agrees, and Joshua introduces Ryan. Hannah can't contain her surprise but offers to interview him for the job later. Ryan will be a wish come true for Hannah, but can she accept it, or will her fears creep in?<br/><br/>Unlike other holiday films, you don't have to wait for the end for the main characters to become a couple. Ryan and Hannah became a couple before Ryan returned to his tour. The writers skirted the line between making Hannah expressive and whiny. The director shot some scenes in a gym. Often, the background becomes louder when the actors aren't speaking. The sound engineers expertly avoided this issue. Because this is a holiday movie, the religious and magical elements go hand-in-hand. It doesn't bombard or slow down the story. This film is a sweet, magical holiday story for the entire family.<br/><br/>3.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thesecretlivesofsisterwives.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thesecretlivesofsisterwives.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/asoldierforchristmas.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/asoldierforchristmas.jpg"
     }
   },
   {
     "option": "3",
-    "mtitle": "Deck the Halls on Cherry Lane",
-    "review": "In 1966, Stephanie bought her first home solo and enjoys covering it with her Christmas spirit. Then, she gets a call from her favorite TV show. She entered a contest and was the runner-up. However, the winner backed out, and they want her to host the show at her home. Stephanie replies with an enthusiastic yes. Then, she admits to her deception. She gave them her neighbor's address when she applied because their house was bigger. She walks over to 7 Cherry Lane and asks them to host the show. David says no, but Curtis says yes. He gets David to cave. As they set up, she admits one more secret. Stephanie told them she was married. Can they keep the lie alive on live TV?<br/><br/>In 1981, Kyle and Piper arrive at 7 Cherry Lane to spend time with Kyle's co-worker, John, and John's wife, Lizzie, and their daughter, Ivy. Kyle and Piper enter the home, and the men find a quiet corner. Kyle asks John if John's considering taking over his position. It's better pay and better hours, but he would have to move. John hasn't spoken to Lizzie about it. Lizzie whispers to Piper in the kitchen. She learned that she's pregnant. Their secrets won't be quiet for long because Ivy loves to eavesdrop.<br/><br/>In 2000, Recently divorced, Rebecca has settled into her home. Her neighbor, Daisy, stops by. She congratulates Rebecca on deicing her porch, but Rebecca didn't do it. Daisy concludes that the person who left the card possibly did a kind deed. Daisy tells Rebecca that people on Cherry Lane love to spread kindness. Daisy exits, and Rebecca's best friend, Matt, arrives. The spirit of Cherry Lane takes over Matt, and he encourages Rebecca to spread kindness to her new neighbors. However, the neighbors can see a spark between them. It's the past of 7 Cherry Lane that brings it to Rebecca's attention.<br/><br/>This 4th installment of the Cherry Lane series doesn't disappoint. The clothing styles between the 80s and the 2000s don't change much, but the furniture makes a statement. The three stories connect in unique and heartwarming ways, like the previous movies. Some connections are obvious while others are subtle. And this film spotlights the first three movies. The 'Daisy' link never fails. This series can continue for years to come, and it will be a delight. Soon, Hallmark can have 24 hours on Cherry Lane.<br/><br/>5 out of 5 stars.",
+    "mtitle": "Relative Danger",
+    "review": "Alice hides in the closet and calls her mother, Angie, on the phone. She is alone and heard footsteps in the house. Angie picks up the call, assuming Alice will question her whereabouts. Instead, Angie hears the panic in Alice's voice. She tells Alice to be quiet and call the police. Then, Alice screams as her aunt, Sydney, opens the door and says boo. In that moment, Angie was the victim of a hit and run driver.<br/><br/>Detective Marshall meets Alice and Sydney at the hospital. Angie is alive, but she has severe head trauma. The staff put her in a medically induced coma to give her brain time to heal. Marshall recounts what he believed happened in the parking lot, but something sounds off to Sydney. Sydney thinks it was deliberate. Marshall asks if Angie had any enemies, but Sydney can't recall.<br/><br/>Sydney stands in the room alone with Angie as Nurse Simon enters. He can't believe this happened on a night he took her shift. Sydney does a double-take. She thought Angie was working a double shift that night. Simon admits that Angie was going to meet with Alice's dad. Sydney thought Alice's father had died years ago. Simon says Alice's father is alive and well, and his name is Jordan.<br/><br/>Sydney runs to her mother, Louise, for an explanation. Louise tells Sydney that Jordan was a drunk and a criminal. Sydney states that Jordan was with Angie the night of the accident. Louise thinks Jordan is the number one suspect and alerts Marshall. Alice is in danger, but do they have the right suspect?<br/><br/>This movie will make you feel bad for the bratty teen. Poor Alice was born into a world of liars, killers, and manipulators. This film delivers a compelling mystery for the first hour as you peel back the layers of Angie's life. That changes when Jordan's family enters the script. The villain stands out like a sore thumb, but you won't care. Their crazy ways will make you chuckle. It's worth watching and will make you want more. The culprit saved this picture.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deckthehallsoncherrylane.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deckthehallsoncherrylane.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/relativedanger.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/relativedanger.jpg"
     }
   },
   {
     "option": "4",
-    "mtitle": "See You Again",
-    "review": "Ivy smiles on her date with her friend's cousin, Callum. However, he won't let her speak. She tries to make a hasty exit, but he extends the conversation. Ivy agrees to meet with him later to make Callum leave. She calls her friend Andrea as she mopes in her car. Ivy decides to give Callum another try.<br/><br/>Callum takes Ivy on a canoe ride to a remote island. He pulls the canoe up onto the island, but Ivy expresses her fears that it will float away. He assures her it's okay. She drags it forward when his back is to her. Unfortunately, Ivy drops the canoe on a large metal shard. They connect on the island and board the boat to head to the mainland. However, the canoe takes on water, and they row back to the island. Callum steps on the shard and gets a deep cut. He discovers that Ivy put the hole in the boat. Now, they are alone on the deserted island, and no one knows they are there. Will someone find them before they kill each other?<br/><br/>This film will split viewers because Ivy was correct about their first date, and Callum did everything wrong. However, their second date mishaps were her fault. Their time on the island allows the couple to have meaningful and spiritual conversations about relationships, loss, and expectations. The scenes with Andrea are eye-opening because she is the voice of reason for everyone. If you were on the East Coast of the United States, this film may get cut off early. So set your DVR to catch the movie in its entirety.<br/><br/>3 out of 5 stars.",
+    "mtitle": "My Mother Looked Just Like You",
+    "review": "Tennis Camp Owner Sharon trains students and runs a thriving business. She checks over the equipment when Cara asks if her name is familiar. Sharon says they have the same maiden name, but she doesn't know anyone named Cara. Cara asks if Sharaon knew her mother, Diane. Sharon freezes because Diane is her identical twin sister. They haven't seen each other in 20 years. Cara somberly informs Sharon that Diane died. Cara has no other family. Sharon tells Cara that she must discuss this with her husband, Ben, first.<br/><br/>Sharon runs to Ben's office and updates him. He worries that Cara is a con artist. However, Cara had Diane's ID, birth certificate, and their mother's wedding band. Ben wants Cara to get a blood test to prove her genealogy. Later, the family settles when the test proves Cara is their kin. But they shouldn't ease into family barbecues too soon. Cara plans to destroy every member of their family. She wants to make Sharon pay.<br/><br/>This film feels like they typical long-lost-family-gone-crazy story, but the plot adds one more twist. This surprise closes all the gaps in the story along the way. The family is kind and loving, with everyday squabbles. Ben is an intelligent and attentive Lifetime dad. He is Captain Obvious of the script. The audience will praise his common sense and logical thinking. He is the dreamboat of this film. You shouldn't cancel plans to watch this film, but give it a chance if you have two hours to kill.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/seeyouagain.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/seeyouagain.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mymotherlookedjustlikeyou.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mymotherlookedjustlikeyou.jpg"
     }
   },
   {
     "option": "5",
-    "mtitle": "Happy Holidays from Cherry Lane",
-    "review": "In 1960, Eli's father, Walter, is staying with Eli and his wife, Penny, and their son, Alex, at 7 Cherry Lane this Christmas. He's healing after breaking his hip. However, Walter nitpicks at everything Eli does. Eli is at his wits' end and wants to end the holiday. However, Penny pleads with Eli to find common ground with Walter for Alex's sake. Eli knows it won't be easy, but he's willing to do anything for Penny.<br/><br/>In 1998, Ivy and Hector visit Regina. This Christmas is the tenth without her husband, Greg, and her kids are snowbound in another town. Ivy cares deeply for the family because Greg helped her mother give birth to her at 7 Cherry Lane. Regina attempts to prepare a meal, but the pipes are frozen. Regina calls a plumber, and Nelson arrives. Ivy and Hector want Regina to find love again and feel the spark between them. So they leave to give Nelson and Regina time alone. Will this magical address ignite the fires of love again?<br/><br/>In 2015, Jessie and Max planned on having a Christmas wedding while staying at Jessie's sister's home. Max rushes in with horrible information. He drove past their venue, and it's closed for good. Jessie's sister, Beth, wants to consider other options, but it's Christmas Eve. Jessie discussed getting married in Beth's backyard during the planning process. She asks Beth to have the 30-guest wedding at 7 Cherry Lane. And Beth's ex-boyfriend, Pastor Tim, will officiate the nuptials. Beth begrudgingly agrees to a small event. She has no idea how big and how complicated it will get.<br/><br/>This third installment in the Cherry Lane series has two plots following the Hallmark framework. The third story focuses on strengthening familial bonds. The latter will draw your attention and spark complex memories for the viewers. This plot links all three plots in the foreground and the background. So keep your eyes and ears open. The design team won again with three distinctive sets with a quirky and original style. Don't be surprised if 1960 is your favorite. This movie isn't the best of the series, but it is entertaining.<br/><br/>4.5 out of 5 stars.",
+    "mtitle": "A Newport Christmas",
+    "review": "Sadie runs around the estate looking for Arthur's daughter, Ella. Tonight is their family's first annual Christmas Eve ball. Her father has something pressing to tell Ella, but she is nowhere to be found on the property. Ella burst through the door with grand ideas. She wants to use her wedding dowry to create a charity for underprivileged families in Newport.<br/><br/>Ella tells Arthur about her idea, and he scoffs at it. He has plans for the ball. He will announce her engagement to Everett Thornton. He comes from a good family and will secure her future. Ella sneaks away, jumps on her boat, and floats to the middle of the sea. She sees a comet in the sky and makes a wish. Ella wishes for a different life, to fall in love, and to have someone fall in love with the real her. She sighs, turns, and finds Nick sitting in her boat. They scream. Nick has no idea how this strange woman got into his boat. She demands that he take her to shore and disembark her boat immediately. Nick is comfortable taking her back, but she has no claim to his vessel.<br/><br/>They arrive at Newport, but nothing is the same for Ella. Ella informs Nick that she set sail on December 18th, 1905. Nick says it's December 18th, but 2025. The changes overwhelm Ella, and she faints. Nick waits for her to regain her senses. When she does, Ella demands to go home. Nick tells her that her family home is a museum. But she can't sleep at the museum. So they give her a room at the bed and breakfast. With each passing day, they notice that Ella's history is slowly disappearing. She must return to her time to make her impact on the world. There is only one problem. Nick is falling in love with her, knowing she will marry another man in her timeline. Can Nick let her go, or will he tear a fabric in time?<br/><br/>This beautifully written movie is funny and whimsical. Ella was a woman ahead of her time. The audience will dream of a world of Ella and Nick while they fall in love. Also, you will delight in Ella's wonderment. The writers made Back to the Future jokes and offered a subplot romance. They also found a way to praise both eras without diminishing the other. The vanity and set departments wove both eras together with ease and grace. It is a pleasure to witness their work. This film will make you wish for time travel and unending love.<br/><br/>5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/happyholidaysfromcherrylane.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/happyholidaysfromcherrylane.jpeg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/anewportchristmas.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/anewportchristmas.jpg"
     }
   }
 ];
@@ -59,46 +59,7 @@ module.exports = madeForTV;
 
 
 
-{
-"option":"1",
-"mtitle":"Terry McMillan Presents: Preach, Pray, Love",
-"review":"<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmillanpreachpraylove.jpg",
-  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmillanpreachpraylove.jpg"
-}},
-{
-"option":"2",
-"mtitle":"A Soldier for Christmas",
-"review":"<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/asoldierforchristmas.jpg",
-  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/asoldierforchristmas.jpg"
-}},
-{
-"option":"3",
-"mtitle":"Relative Danger",
-"review":"<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl":"",
-  "largeImageUrl":""
-}},
-{
-"option":"4",
-"mtitle":"My Mother Looked Just Like You",
-"review":"<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl":"",
-  "largeImageUrl":""
-}},
-{
-"option":"5",
-"mtitle":"A Newport Christmas",
-"review":"<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/anewportchristmas.jpg",
-  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/anewportchristmas.jpg"
-}}
+
 
 
 
