@@ -1,22 +1,46 @@
 var mustBuy = [
-   {
+  {
     "option": "1",
+    "mtitle": "Freakier Friday",
+    "review": "Talent manager Anna bangs on her daughter's door before school. However, Harper won't open the door. Anna's mother, Tess, calls to offer Harper a ride to school. Anna wants to give Harper a ride and tells Tess to relax. Therapist Tess hangs up, finishes her podcast, and kisses her husband, Ryan, goodbye. Finally, Anna opens the door and finds Harper's note. Harper started her morning with surfing.<br/><br/>In the car, Harper groans about her chemistry partner, Lily. Harper thinks Lily is obnoxious. Tess and Anna advise Harper to keep an open mind before dropping Harper off at school. That treaty is non-existent. Lily and Harper argue during chemistry class, causing a foam explosion. The principal calls Anna and Lily's dad, Chef Eric, into school. They run into each other in the halls and fall in love. Six months later, they are engaged.<br/><br/>Lily and Harper disagree during a school bake sale, triggering a school-wide food fight. The tension in the home is rising between Harper and Lily. Anna tells them that they will attend her bachelorette party and get along.<br/><br/>At the bachelorette party, a multi-hyphenate psychic, Madame Jen, offers to give Anna and Tess a reading. Lily and Harper argue in the corner, and Madame Jen interrupts them. Madame Jen tells them, 'Change the hearts you know are wrong, so that you may find where you belong.' Harper thinks she belongs in LA and Lily London. The four feel an earthquake. Tess and Anna try to ignore it.<br/><br/>Harper, Tess, Lily, and Anna return to Tess's home. They make Lily and Harper sleep in the living room to force them to be friendly. They sleep through the night. When Harper wakes up, her face and hands feel dry. Tess hears her daughter's yell and wakes on the couch. She notices her bones feel better. She's in Lily's body. Tess and Lily switched, like Anna and Harper. They ask Harper and Lily if Madame June said anything to break the curse. They lie and say no. Lily and Harper will use the swap to break up their parents' wedding. A wedding that happens in a few days. Can they swap back before the wedding, if there is a wedding?<br/><br/>Sound the alarm! This sequel respects the original while being a multigenerational, heartfelt, funny film. Like the first movie, the script features a wedding on the line, with a new husband, but changes by adding a relocation and Lily's deceased mother. For the die-hard fans, everyone returns. The Pink Slips, Harry, and Mama P make a satisfying comeback for the fans. The writers hide easter eggs with the soundtrack, decor, jokes, and food. Freakier Friday is a comedy with great timing and physicality. It celebrates complicated family dynamics without muting anyone's perspectives or feelings. You will leave this movie as you did the first, feeling seen and seeing. This film is a sequel that's worth seeing in theaters and is worth the wait.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0FV11GWHV"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/freakierfriday.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/freakierfriday.jpeg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Caught Stealing",
+    "review": "Bartender Hank closes the bar and meets his lady friend, Yvonne. Hank runs into his neighbor, Russ. Russ learned that his father had a stroke, and now he has to fly to London to be at his bedside. He asks Hank to care for his cat, Buddy. Later, Yvonne gathers the litter box and brings it into Hank's bathroom.<br/><br/>After closing the bar, Hank comes home to see two men, Aleksei and Pavel, knocking on Russ's door. They ask Hank for Russ's location, but he refuses to give it to them. They ruptured his kidney, so a doctor had to remove it. Curious, Hank enters Russ's apartment to search it. He escapes when the mobsters return. Hank calls the police.<br/><br/>Detective Elise Roman interviews Hank about the intruders. She informs Hank that Russ is a drug dealer, working for some hardcore criminals. Elise says the Russians are dangerous, but Hasidic gangsters, Lipa and Shmully, are monsters. She gives him a number in case Hank sees the mobster and gangsters again. Hank enters his bathroom and notices something strange in the litter box. One poop is fake and hides a key. Hank runs to his job with the key in hand. His boss, Paul, convinces Hank to drink. Hank gets drunk and returns home. He pukes on the exterior door, takes off his clothes, and enters his apartment.<br/><br/>Inside, Aleksei and Pavel are waiting for him with mobster Colorado. They want the key and torture Hank for it. Hank tells them it's in the litter box, but it's missing. Hank remembers he took it to the bar. They demand that he obtain the key and not call the cops. If Hank doesn't find the key, they vow to kill him and everyone he loves.<br/><br/>Based on Caught Stealing by Charlie Huston, this film is action-packed and surprisingly witty. The storytelling is interconnected and intelligent. Every object, character, and monologue has a deeper meaning and merges into the conclusion. The director didn't choose fancy angles to narrate the story. Instead, they used New York and baseball as the backdrop. The natural light and languages make the tale feel authentic. This film is for you if you enjoy crime comedies with an enigma.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0FP6HF7RJ"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/caughtstealing.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/caughtstealing.jpeg"
+    }
+  },
+  {
+    "option": "3",
     "mtitle": "The Best Christmas Pageant Ever",
     "review": "The Best Christmas Pageant Ever was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin":{
-      "re":"B0FHMH9BR5"
+    "asin": {
+      "re": "B0FHMH9BR5"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thebestchristmaspageantever.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebestchristmaspageantever.jpg"
     }
-},
-{
-    "option": "2",
+  },
+  {
+    "option": "4",
     "mtitle": "Relay",
     "review": "Ash watches his client, Hoffman, sit nervously at a diner. Hoffman hands documents to the CEO, takes a picture with him, and exits the restaurant. Ash follows Hoffman through the city and watches him board the train. Ash retreats to his lair, stashes a copy of the documents in his safe, and burns envelopes meant for the press. He attends his AA meeting and listens to new messages from potential clients.<br/><br/>Whistleblower Sarah meets with a lawyer. She discovered that her employer, Cybo Sementis, did not disclose the harmful side effects of the new food additive. When they discovered she had a copy of the email and its contents, the company sent goons to harass her. The lawyer alerts Sarah to legal routes she can take under whistleblower protection laws. However, she wants to return the documents to stop the harassment. The lawyer informs her about a service that deals with this sensitive matter. He gives her a number and tells her to leave a message. If they choose her case, they will call back.<br/><br/>Sarah arrives at a safe house, calls the number, and leaves a message. She gets a call from the Tri-State Relay. The calls aren't recorded and are confidential. She agrees to take the call. Ash accepts her case, but she must follow his directions without question. Any failure on her part will void their deal. She will be a lamb to the slaughter. Sarah agrees, and Ash puts his plan into motion. However, Cybo Sementics won't bow down without a fight.<br/><br/>This movie is a battle of wits with low-tech solutions. Ash doesn't use a hacker or a crew to flush out Sarah's harassers. Instead, he uses the relay service, the post office, and cunning to stay one step ahead. During the opening sequence, you never hear Ash speak. Ash feels like a mythical character. This movie waits for the height of the climax to stun you. It's a long-forgotten plot point that knocks you out of your seat. The slick presentation pacifies you into a sense of relaxation, so you don't see what the writer is preparing. This moral dilemma is a highly entertaining and captivating spy thriller.<br/><br/>4 out of 5 stars.",
-    "asin":{
-      "re":"B0FNVD26JT"
+    "asin": {
+      "re": "B0FNVD26JT"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/relay.jpeg",
@@ -24,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "5",
     "mtitle": "The Fantastic Four: First Steps",
     "review": "On Earth-828, the world praises their heroes, dubbing them The Fantastic Four. Four years ago, astronauts Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm went to outer space. A cosmic ray blasted them during their mission, and they gained superhuman abilities.<br/><br/>Today, Sue exits the bathroom and gives her husband, Reed, her positive pregnancy test. They joyously hug and meet Sue's brother, Johnny, and Reed's best friend, Ben, for a dinner prepared by HERBIE. Ben can see the petrified look on Reed's face and deduces that the happy couple will be parents. They celebrate while Reed worries. With their altered DNA, he has no idea what the future will bring for their unborn child.<br/><br/>Over the next few months, Sue negotiates peace talks among all countries and the land of Subterranea. She's preparing for maternity leave when the team receives an alert on their wrist watches. Something has entered the atmosphere. A being on a silver surfboard asks if they are the protectors of the planet. They answer yes. She warns the world that Galactus, Destroyer of Worlds, will arrive on Earth and eat the planet. The Silver Surfer flies away.<br/><br/>The world cheers for the Fantastic Four on Excelsior Launch Day. They locate Galactus just in time to watch him devour a planet. A beam scans their ship but lingers on Sue's stomach. The Silver Surfer enters their spacecraft and invites them to meet Galactus. Galactus says he will spare Earth if they give him their baby. He says the baby hides its true nature from them. Galactus believes the baby will take over his mantle and end his hunger. They refuse, and Galactus uses his powers to make Sue go into labor.<br/><br/>The Fantastic Four escapes Galactus's ship, and the Silver Surfer is hot on their trail. They flee to Earth, but not before Sue gives birth to their son, Franklin. They return to a press conference waiting for good news. Sadly, they report that Galactus is coming because they wouldn't give up Franklin. They must find a way to defeat Galactus or lose everything they love. Can the Fantastic Four rescue their family while saving their world?<br/><br/>This film will remind fans why they love superhero movies. The costume and set departments had the ultimate tasks. They had to give the picture a '70s feel while making it futuristic. Their designs expand the imagination and are award-worthy. The script is funny and engaging. Also, Galactus is an old-school villain. He just wants to destroy things. Franklin's CGI isn't perfect, but the team's graphics make up for it. This new adaptation of the iconic superheroes is what fans deserve. The film has a mid- and post-scene. While the mid-credit scene is essential to the future of the MCU, the post-credit scene is for nostalgia.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -33,30 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thefantastic41ststeps.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thefantastic41ststeps.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Mission: Impossible - The Final Reckoning",
-    "review": "IMF agent Ethan Hunt sits in a private bunker when he gets a VHS tape directly from President Erika Sloane. Since Ethan did not return the cruciform key in his last mission, the Entity has roamed free on the internet. Without intervention, it will have the world's deadliest forces under its control. The world has two choices. They can become a slave to the Entity or shut down the internet. However, the latter would ensure worldwide chaos. President Sloane gently demands that Ethan turn himself and the key over to her.<br/><br/>With Paris's tip, Ethan and Grace travel to London to find Gabriel. Gabriel gets the drop on them, and they wake up bound. Gabriel admits that the Rabbit's Foot wasn't a biological weapon. It was a device that could give him control over the Entity. Ethan and Grace escape and meet with Luther and Benji. Luther hands Ethan a device with malware. If Ethan attaches the device to the Entity's source code, it will infect the Entity, and they can trap it.<br/><br/>Paris takes Ethan to a capsule that Gabriel used to communicate with the Entity. Ethan lets the Entity into his mind, and it discovers a plan of attack. However, Ethan sees the plan too. The Entity plans to escape to the Doomsday Vault in South Africa.<br/><br/>Ethan finally falls in line and turns himself over to the President. However, he urges President Sloane not to arrest him because the Entity knows Ethan is the only one with the power to stop it. She writes a note, seals it, grabs the key, and slips it to the guard. She demands that the guards take Ethan to his cell. The guards take him to an awaiting helicopter and give him the key and the note. Now, Ethan must find the location of the source code, retrieve it, and capture the Entity in South Africa. If not, the Entity will fire the world's nuclear weapons. Can Ethan move in the shadows one more time and save the world?<br/><br/>This eighth installment in the Mission: Impossible franchise delivers a heart-pounding thrill ride with unthinkable missions, setbacks, heartbreak, and breathtaking action. The stunts and graphics are smooth and don't distract from the plot. The film doesn't rely heavily on humor because it focuses on the emotional aspect. It does use a similar setup for two scenes. However, they don't feel redundant. Unlike other films, this picture has three nerve-racking moments running simultaneously. Don't be surprised if you hold your breath. It is one of the best Mission: Impossible films of the series.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0F8W6CMR9"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/missionimpossiblethefinalreckoning.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/missionimpossiblethefinalreckoning.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "The Bad Guys 2",
-    "review": "The Bad Guys enjoy life on parole but can't find employment. Mr. Piranha, Ms. Web, and Mr. Shark anxiously wait to hear if Mr. Wolf got work, but they are disappointed. Mr. Snake slithers in to grab his yoga mat. The crew gawks at Mr. Snake's change and doesn't understand how he can be so happy. Mr. Shark thinks they should worry about the Phantom Bandit heists. It's only a matter of time before people blame them for the Phantom's crime spree.<br/><br/>Mr. Wolf spars with Governor Diana Fox. She advises him to win over the town by doing good publicly. Mr. Wolf has an idea and drives to the police station. He and his crew examine the evidence of the heists with Commissioner Misty Luggins. They spot the culprits in the photo and discover that the stolen items contain MacGuffinite.<br/><br/>The team researches and finds that the Lords of Lucha championship title contains the precious metal. They think the Phantom Bandit will strike at the wrestling match. They arrive at the match and spot Mr. Snake with his new girlfriend, Susan. The crew sees the belt hanging over the ring. They deduce that the challenger is the Bandit. They jump into the squared circle and battle for the belt. However, instead of applause, someone frames them for stealing the belt by putting it on Mr. Piranha. Susan hijacks a hotdog cart and saves them. She offers the crew mints, but Mr. Wolf rejects them. Mr. Wolf asks Susan to pull over so he can call Diane and explain that they are innocent. Mr. Wolf returns the van to find the Bad Guys asleep. Susan shoots Mr. Wolf with a dart.<br/><br/>The team wakes up to the Bad Girls. Pig Tails is the muscle. During the match, she hid in plain sight as the challenging luchador. Susan is Doom, a sweet-talker and long-con expert. The mastermind, Kitty Kat, introduces herself. She wants the Bad Guy to help them with their next heists. Mr. Wolf says no. Kitty Kat threatens to expose Diane's secret life as the Crimson Paw if he doesn't assist. Mr. Wolf agrees, but he assures his crew that he has an ace up his sleeve. Can the Bad Guys do good and protect Diane's reputation?<br/><br/>This sequel is better than the first. The capers are more outlandish, the jokes are funnier, and the plot delves deeper. This story handles reform and redemption. The animation jumps genres throughout the fight scenes. Typically, this feels disjointed. It works because the graphic artist continued this change throughout the entire film. It makes the art feel more alive and enveloping. Be sure to stay for the mid-credit scene. It gives insight into the plot for The Bad Guys 3. This picture has the crime style of Leverage, the smoothness of Ocean's Eleven, and the fun of The Fast and the Furious. The entire family will enjoy this film.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0FHXPXXML"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thebadguys2.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebadguys2.jpeg"
     }
   }
 ];
@@ -81,19 +81,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theroses.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theroses.jpg"
-    }
-  }
-
-    {
-    "option": "1",
-    "mtitle": "Caught Stealing",
-    "review": "Bartender Hank closes the bar and meets his lady friend, Yvonne. Hank runs into his neighbor, Russ. Russ learned that his father had a stroke, and now he has to fly to London to be at his bedside. He asks Hank to care for his cat, Buddy. Later, Yvonne gathers the litter box and brings it into Hank's bathroom.<br/><br/>After closing the bar, Hank comes home to see two men, Aleksei and Pavel, knocking on Russ's door. They ask Hank for Russ's location, but he refuses to give it to them. They ruptured his kidney, so a doctor had to remove it. Curious, Hank enters Russ's apartment to search it. He escapes when the mobsters return. Hank calls the police.<br/><br/>Detective Elise Roman interviews Hank about the intruders. She informs Hank that Russ is a drug dealer, working for some hardcore criminals. Elise says the Russians are dangerous, but Hasidic gangsters, Lipa and Shmully, are monsters. She gives him a number in case Hank sees the mobster and gangsters again. Hank enters his bathroom and notices something strange in the litter box. One poop is fake and hides a key. Hank runs to his job with the key in hand. His boss, Paul, convinces Hank to drink. Hank gets drunk and returns home. He pukes on the exterior door, takes off his clothes, and enters his apartment.<br/><br/>Inside, Aleksei and Pavel are waiting for him with mobster Colorado. They want the key and torture Hank for it. Hank tells them it's in the litter box, but it's missing. Hank remembers he took it to the bar. They demand that he obtain the key and not call the cops. If Hank doesn't find the key, they vow to kill him and everyone he loves.<br/><br/>Based on Caught Stealing by Charlie Huston, this film is action-packed and surprisingly witty. The storytelling is interconnected and intelligent. Every object, character, and monologue has a deeper meaning and merges into the conclusion. The director didn't choose fancy angles to narrate the story. Instead, they used New York and baseball as the backdrop. The natural light and languages make the tale feel authentic. This film is for you if you enjoy crime comedies with an enigma.<br/><br/>4.5 out of 5 stars.",
-    "asin":{
-      "re":"B0FP6HF7RJ"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/caughtstealing.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/caughtstealing.jpeg"
     }
   }
 
@@ -133,19 +120,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/queenofthering.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/queenofthering.jpg"
-    }
-  }
-
-  {
-    "option": "1",
-    "mtitle": "Freakier Friday",
-    "review": "Talent manager Anna bangs on her daughter's door before school. However, Harper won't open the door. Anna's mother, Tess, calls to offer Harper a ride to school. Anna wants to give Harper a ride and tells Tess to relax. Therapist Tess hangs up, finishes her podcast, and kisses her husband, Ryan, goodbye. Finally, Anna opens the door and finds Harper's note. Harper started her morning with surfing.<br/><br/>In the car, Harper groans about her chemistry partner, Lily. Harper thinks Lily is obnoxious. Tess and Anna advise Harper to keep an open mind before dropping Harper off at school. That treaty is non-existent. Lily and Harper argue during chemistry class, causing a foam explosion. The principal calls Anna and Lily's dad, Chef Eric, into school. They run into each other in the halls and fall in love. Six months later, they are engaged.<br/><br/>Lily and Harper disagree during a school bake sale, triggering a school-wide food fight. The tension in the home is rising between Harper and Lily. Anna tells them that they will attend her bachelorette party and get along.<br/><br/>At the bachelorette party, a multi-hyphenate psychic, Madame Jen, offers to give Anna and Tess a reading. Lily and Harper argue in the corner, and Madame Jen interrupts them. Madame Jen tells them, 'Change the hearts you know are wrong, so that you may find where you belong.' Harper thinks she belongs in LA and Lily London. The four feel an earthquake. Tess and Anna try to ignore it.<br/><br/>Harper, Tess, Lily, and Anna return to Tess's home. They make Lily and Harper sleep in the living room to force them to be friendly. They sleep through the night. When Harper wakes up, her face and hands feel dry. Tess hears her daughter's yell and wakes on the couch. She notices her bones feel better. She's in Lily's body. Tess and Lily switched, like Anna and Harper. They ask Harper and Lily if Madame June said anything to break the curse. They lie and say no. Lily and Harper will use the swap to break up their parents' wedding. A wedding that happens in a few days. Can they swap back before the wedding, if there is a wedding?<br/><br/>Sound the alarm! This sequel respects the original while being a multigenerational, heartfelt, funny film. Like the first movie, the script features a wedding on the line, with a new husband, but changes by adding a relocation and Lily's deceased mother. For the die-hard fans, everyone returns. The Pink Slips, Harry, and Mama P make a satisfying comeback for the fans. The writers hide easter eggs with the soundtrack, decor, jokes, and food. Freakier Friday is a comedy with great timing and physicality. It celebrates complicated family dynamics without muting anyone's perspectives or feelings. You will leave this movie as you did the first, feeling seen and seeing. This film is a sequel that's worth seeing in theaters and is worth the wait.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0FV11GWHV"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/freakierfriday.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/freakierfriday.jpeg"
     }
   }
 
