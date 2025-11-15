@@ -57,11 +57,46 @@ module.exports = madeForTV;
 
 /*
 
-
-
-
-
-
+{
+"option":"1",
+"mtitle":"Three Wisest Men",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/threwisestmen.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/threwisestmen.jpg"
+}},
+{
+"option":"2",
+"mtitle":"A Young Father's Nightmare",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/ayoungfathersnightmare.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/ayoungfathersnightmare.jpg"
+}},
+{
+"option":"3",
+"mtitle":"My Husband's Other Wife",
+"review":"Kelli kisses her husband, Ty, goodbye before he goes on his week-long work trip. She sits with her friend, Maddy, and talks about missing Ty. Then, Maddy shows Kelli a social media page someone sent to her. It shows pictures of Ty with another woman over the course of months. Kelli is stunned into silence. Kelli asks Maddy to watch the children when Ty returns.<br/><br/>Kelli confronts Ty with the pictures when he returns. Ty says the woman's name is Sasha. She is not his girlfriend, but his 2nd wife. He informed Sasha about his marriage to Kelli, and Sasha accepted the arrangement. Kelli refuses to live a lie. She wants a divorce and hands Ty his packed bags. Ty leaves.<br/><br/>Days later, Detective Ryan knocks on Kelli's door. Ty crashed his car into a tree, and the fire incinerated his body. Kelli breaks down into tears for her children. She tells them about Ty's passing when they come home from school.<br/><br/>Kelli buries Ty when Sasha puts a black rose on his coffin. Kelli orders Sasha to leave. With rage burning in her eyes, Sasha blames Kelli for Ty's death. She vows to get her revenge. Kelli ignores Sasha's threats until a process server hands her a lawsuit. Ty left both his homes to Sasha. Sasha plans to take everything away from Kelli, including her home, children, and money. Kelli will have to fight to regain her life, but can she do it behind bars after Ryan accuses her of murder?<br/><br/>This movie is insane and somewhat believable. Ty is a man who refuses to take accountability for his actions. He and Sasha are different sides of the same coin. However, eagle-eyed Lifetimers will know there is more to the plot. The writers created the perfect villain in Sasha. She is beautiful, intelligent, narcissistic, and deadly. When you think the script can't get cringier, it serves a horrific teeth-cleaning scene. You won't look at your dental hygienist the same.<br/><br/>4 out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/myhusbandsotherwife.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/myhusbandsotherwife.jpg"
+}},
+{
+"option":"4",
+"mtitle":"A Keller Christmas Vacation",
+"review":"College Coach Cal Keller wraps up classes and practices in Portland. His divorce is final, and he's ready to profess his love to Lauren. Unfortunately, she's with another man. He is going on a Danube Christmas vacation with his family, and he's excited. If she says yes, he will invite her. Otherwise, her rejection will mortify him, so he can't let his family know.<br/><br/>Dylan's ready to take his relationship to the next level and marry William. It's been 5 years since their meet-cute, and their anniversary is the best time to propose. However, William hesitates and won't explain why. Dylan tells William to stay in Arizona while he spends time with his family on their Christmas Cruise.<br/><br/>Emory works as a business analyst in Denver. It's not her passion, but it pays the bills. That is, until her company lays off her division. She doesn't want to tell her family she doesn't have a job because her older brothers are successful. So she will keep quiet and apply to any job until she lands one.<br/><br/>Cal, Dylan, and Emory arrive at the port and start to squabble. They notice that William isn't there, but Dylan dodges the question. They ask why Emory arrived last when she left first. They battle verbally until their parents join them. They check in with director Noah, and he notices the camera around Emory's neck. She has found her spark for photography and plans to use it on the trip.<br/><br/>After they enter their small cabin, Cal, Dylan, and Emory join their parents for dinner. However, their parents are late. A fellow passenger asks if he and his granddaughter, Felicity, can join their table. Before Cal and Felicity blink, they are alone. After the Keller family joins them, they have a nice meal and connect. Later, the Keller siblings discuss a nagging feeling that their parents are keeping a secret from them. The siblings will dance, collaborate, and love as a family, but first they must expose their secrets.<br/><br/>This hilarious and heart-warming trip has something for all Hallmarkies. So, make sure you have your jingle juice ready. The siblings quarrel like children, and you won't be able to contain your laughter. The surrounding culture around the Danube River drives the story forward. It's wonderful to see the family delight in Christmas markets and dances while they work out their issues. The movie has a somber moment when the parents unveil a sad secret. But the siblings come together to help their parents navigate a path forward. This film is unique, comical, and beautiful.<br/><br/>4.5 out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/akellerchristmasvacation.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/akellerchristmasvacation.jpg"
+}},
+{
+"option":"5",
+"mtitle":"A Royal Christmas Manor",
+"review":"Katie's parents leave her in charge of the Fredonia Inn for the first time. Katie tends to the guests and handles the steadfast disposition of their chef, Gretchen. The concierge lets Katie know that someone booked the last vacancy. For Katie, this holiday will prove to her parents that she can run the Inn after they retire.<br/><br/>Jackson laughs at his friend, Prince Alexander. His staff does everything for him, so Alexander is helpless. The paparazzi expect more from the heir to the throne. Alexander's not ready to find a queen because he's not sure if a woman really wants him for him or the title. He wants to have fun for one more holiday before settling down. They found a small hotel with the same name as their country. He agrees to fly coach and asks his staff to pack for an American holiday.<br/><br/>Jackson and Alexander arrive at Fredonia Inn. Alexander becomes smitten with Katie. He wants to win her affection without giving away his royal lineage. Katie tries to ignore the spark between them. When the group gets snowed in without a chef, Katie fears she will lose her guests' trust, and in turn, her parents'. Alexander won't let that happen. For the first time in his life, he will roll up his sleeves and do the hard work. Can they help Katie keep her legacy while falling in love?<br/><br/>This predictable movie has sprinkles of humor throughout an overdone plot. The Christmas royalty story is a common theme during the holiday season. Without adding anything special to the plot, this film becomes background noise and nothing more. There is zero magic, Santa, or galas to look forward to. Just kind people stuck in an Inn with little to do or say. You can leave this holiday trope on the back burner.<br/><br/>2.5 out of 5 stars.",
+"image":{
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyalchristmasmanor.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroyalchristmasmanor.jpg"
+}}
 
 
 */
