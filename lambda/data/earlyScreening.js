@@ -16,15 +16,6 @@ var earlyScreening = [
       "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thethreesome.jpg",
       "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thethreesome.jpg"
     }
-  },
-  {
-    "option": "3",
-    "mtitle": "The Roses",
-    "review": "Architect Theo Rose sulks as his colleagues celebrate their new building. They didn't incorporate his ideas, and he can't contain his irritation. He escapes the dinner and runs into the kitchen. There, Theo sees Prep Cook Ivy preparing food. She gives him a bite, and he gushes at the culinary delight. Ivy informs Theo that she's leaving to become a chef in America, and he jokingly says he will follow. They touch and shag in the walk-in freezer.<br/><br/>Ten years later, Theo and Ivy Rose are living in Mendocino, California, with two children, Roy and Hattie. Theo works for an architecture firm and receives his first high-profile client, the East Bay Maritime Museum. He creates a unique design that looks like a sailboat. Theo wants to use their dream home money to buy Ivy a restaurant. She's giddy and names it 'We Got Crabs.' The business has a slow start, so it's open 3 nights a week, leaving Ivy with the kids most days.<br/><br/>Months later, a horrific storm rolls into town. The city closes a major highway and pushes travelers to the road outside Ivy's establishment. One of those customers is a highly respected food critic. On the other side of town, Theo watches his building sway from the Museum store. As the sails screech, he eases patrons by saying the building is fine. Then, it collapses.<br/><br/>Theo's wild actions outside of the museum make him internet famous, while the critic praises Ivy's food, and the customers swarm. Theo loses his job while Ivy thrives. They decide to switch roles until Theo finds a job. This decision leads to bitterness, resentment, and ultimately, divorce for the couple. The Roses declare war when they both refuse to give up the house. He built it and she paid for it. Who will win this war of the Roses?<br/><br/>This classic film remake lives up to the hype with witty, dry humor from two phenomenal actors. Based on the novel, this movie offers something new for original fans while it attracts today's audience. The war is over the same issue, but includes a comical deep fake, a smart house, and Julia Child. When the couple is in love, they make snide comments to each other but laugh. As their marriage collapses, the actors add an edge to their biting comments that make the audience cringe, ooh, and ahh. When the arguement reaches its climax, the camera pans away from both actors. It's like their reasoning is leaving their body, only leaving room for rage. And the conclusion will leave you in total shock. This update to your favorite classic is perfect for the time, flawless, and a great date movie.<br/><br/>5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theroses.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theroses.jpg"
-    }
   }
 ];
 
