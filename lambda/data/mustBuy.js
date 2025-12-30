@@ -200,4 +200,17 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/avatarfireandash.jpeg"
     }
   }
+
+   {
+    "option": "1",
+    "mtitle": "Marty Supreme",
+    "review": "Marty Mauser works at his uncle Maury's shoe store. As Marty sneaks in his girlfriend, Rachel, Maury asks to meet with Marty. He hands Marty a business card with Marty's name and the title 'Manager' on it. Marty reminds Maury that he doesn't want to sell shoes. Also, Maury's son, Lloyd, will dislike being passed over. Marty dreams of going to the British Open for Table Tennis.<br/><br/>Later, Marty practices with his friend, Wally, and returns to the store for his check. Lloyd locks the safe, and Marty grabs a gun from Maury's desk. Marty threatens to shoot Lloyd over the money. Then, Marty shows Lloyd the business card. Lloyd opens the safe and gives Marty $700.<br/><br/>Marty arrives in London and hates his accommodations. After making it to the finals, Marty sits down with reporters. They stop talking when actress Kay Stone enters. Marty sets his sights on her and invites her to his room. Before the finals, Marty takes a moment to cozy up to Kay's husband, Milton. However, Marty's plans shatter when he loses to Japanese hopeful Koto Endo. Marty will do anything to prove his purpose: to dominate table tennis. Will he prove the world wrong and become the face of the sport?<br/><br/>It's not easy, but the writers make every character in this film unlikable. It should be about one man's triumph over his doubters. However, Marty is condescending, arrogant, rude, and manipulative. The audience prays for his downfall to humble him. Inspired by Marty Reisman, the technology and style follow the 1950s, but the slang falls short. This picture is Oscar-worthy because the acting is phenomenal. However, the audience won't cheer for anyone.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/martysupreme.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/martysupreme.jpeg"
+    }
+  }
 */
