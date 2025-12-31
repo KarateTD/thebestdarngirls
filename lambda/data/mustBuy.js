@@ -213,4 +213,17 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/martysupreme.jpeg"
     }
   }
+
+  {
+    "option": "1",
+    "mtitle": "Song Sung Blue",
+    "review": "Mike stands in front of his Alcoholics Anonymous group with his guitar. He celebrates his 20th sober birthday just like his other birthdays, singing 'Song Sung Blue.' After the meeting, Mike arrives at the Wisconsin State Fair with a Hawaiian shirt. He tells his friend, Buddy Holly impersonator Mark, that he can't do Don Ho. Mike wants to go on as himself, Lightning. Mark refuses and reworks the show. Claire, a Patsy Cline impersonator, says Mike would be better at playing Neil Diamond. Claire walks on stage and sings while Mike watches from the crowd.<br/><br/>Mike plays guitar for The Esquires the following day, and Claire dances to the music. They meet afterward for food and talk. They sing together, making beautiful music. Mike admits that impersonating Neil isn't enough. Claire understands that he wants to interpret Neil. They kiss, giving Mike an idea. He is lightning, and she is thunder. They can become Lightning and Thunder: The Neil Diamond Experience. Can this duo rise to fame in Wisconsin?<br/><br/>This script has everything for everyone, including Sweet Caroline. And you don't have to be a Neil Diamond fan to enjoy the movie. In fact, you may discover a new favorite Neil Diamond song. Neil isn't the focal point, just the catalyst that brought these two people together. These actors pull off once-in-a-lifetime performances with an honest portrayal of two people finding strength in each other. This film is a testament to their resilience, families, and pure love of music. It will resonate with the audience and make you believe that love can conquer all. This picture is for movie and music fans alike. While it's not perfect, it's close to it.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/songsungblue.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/songsungblue.jpeg"
+    }
+  }
 */
