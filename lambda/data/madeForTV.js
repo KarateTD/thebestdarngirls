@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "Toni Braxton's Breathe Again",
+    "review": "Evelyn, Jennifer, and Vanessa become friends while competing on the reality show, The Gentleman Suitor. Vanessa makes the final two against Alex for Jasper's affection. Jasper picks Alex, breaking Vanessa's heart. Afterward, the women sit and discuss their future. Widow Evelyn worries about her son, Will, attending college, while Jennifer fears how this exposure and loss will affect her business. They promise to support each other and remain friends.<br/><br/>Months later, Evelyn and Vanessa meet Jennifer. She has an idea. Jennifer wants to leave Los Angeles for the south. While they support her, they refuse to leave. However, they changed their mind later. Vanessa's business is floundering, and Will's overprotective behavior is getting on Evelyn's nerves. They call Jennifer, and she bounces with excitement. These women will find love, freedom, and strength in their friendship, jobs, and relationships.<br/><br/>Inspired by the hit song Breathe Again, these three women run from a problem that resurfaces. It is the overarching theme of the movie. They lean on each other to overcome their overwhelming issues. This film is one of the healthiest displays of female friendship. The script offers heartfelt and intelligent conversations while having a good time. The dialogue is gentle and understanding. While the film is a deviation from Lifetime's shock and awe, it is missing a hook to reel you into the plot.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tonibraxtonsbreatheagain.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tonibraxtonsbreatheagain.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Don't Breathe a Word",
+    "review": "Meredith and Eve run a Lamaze studio, supporting local mothers throughout their childbirth journey. Meredith is the godmother of Eve's son, Lucas. It's helped Meredith overcome the pain of losing her daughter due to complications in the womb. Meredith's husband, Tyler, is a police officer and dotes on Lucas. Meredith watches for Eve's ex-boyfriend, Brian. Meredith arrives at work in the morning. To her dismay, someone vandalized it. Meredith calls Tyler for help. She blames Brian, but Eve doesn't think he's capable.<br/><br/>Nevertheless, Meredith confronts him at his karate studio. Brian warns her to back off before kicking her out. She updates Eve about the confrontation, and Eve is upset. She warns Meredith to stay away from Brian and to mind her business. Later, Meredith arrives at Eve's house with apology muffins and sees a boarded-up window. Eve explains that a kid broke it with a rock. However, something doesn't sit right with Meredith.<br/><br/>Days later, Meredith gets a call from Lucas's school. He got ill, and they can't get in touch with Eve. Meredith brings Lucas to her home and goes through his emergency bag. As they laugh, Eve bursts into the room. She is furious that Meredith took him from school without her permission. Meredith tries to explain, but Eve is too shaken up to listen. Someone tampered with Eve's brakes. Eve panics and exits after telling Meredith to back off. However, Meredith can't let it go. She confronts Brian again. This time, he's tired of her accusations. Brian tells Meredith that Eve is the culprit because Eve isn't her real name. Meredith doesn't know what to do, especially since Eve and Lucas are missing. Can Meredith uncover her best friend's past before the secrets end her life too?<br/><br/>This film offers drama, action, and well-timed one-liners. The script gives two styles of men. One is loving and supportive, while the rest are sexist and dominating. The plot makes it easy for viewers to write off Eve, but you should give her grace. Her character's turmoil comes to the surface in the final act. However, the plot never captures your full attention. You will watch this film while doing other activities and perk up during the action. And the action borders on comical when it should be nerve-racking. This film won't be a favorite of 2026 Deadly Resolutions, but it is watchable.<br/><br/>3 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/dontbreatheaworld.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/dontbreatheaworld.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "The Night She Disappeared",
+    "review": "Principal Genie checks on her daughter, Lyla, in school. However, Lyla ignores her mother. Later, Genie enters Lyla's volleyball practice and overhears Coach Steve talking with Tommy. Tommy's daughter, Riley, is a member of the team. At home, Lyla asks to go to a party at Petra's home. But Genie says no. The team has a history of hazing newcomers. Lyla's father, David, arrives to take her for the weekend. Genie whispers to David to keep an eye on her. David brushes off Genie's concerns and tells her to loosen the reins.<br/><br/>After working out with her friend, Aria, Genie gets a call from David. He wants to know if Lyla's still at Amber's house. Confused, Genie tells David that Amber and her family are out of town. David says that Lyla asked to go their and rode her bike alone. Genie is furious and looks for her daughter. She files a missing person's report, much to David's chagrin. When she discovers a similar murder to her daughter's disappearance, Genie panics. She will do anything to find Lyla and return her home.<br/><br/>This film is a well-written whodunit with a few character flaws. The plot will keep you guessing about what happened to Lyla and her location. It releases nuggets of truth as people unveil secrets. This slow reveal allows the audience to piece together the clues with Genie and ask the tough questions. The character flaws align with glaring mistakes. However, the actors pull you into the story and have you guessing along with Genie.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thenightshedisappeared.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thenightshedisappeared.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "Love on the Amazon",
+    "review": "Claire waters plants and checks the mail for her sister, Amelia, while Amelia's working in the Amazon. Amelia's waiting for an important letter, so Clair visits daily. Claire drops an urgent letter and doesn't see it until weeks later. Amelia got the fellowship grant. However, the deadline will pass in a week because Claire misplaced it for days. Claire has disappointed Amelia in the past and doesn't want to do it again. She will go to the Amazon and hand-deliver the fellowship for Amelia to sign. Their dad, Mr. Hall doesn't think his level-headed daughter will survive the trip. Also, her vice principal job will begin in a week. Claire assures Mr. Hall she has everything under control. She found a guide named Danny and booked the flight. She plans to return before her job begins.<br/><br/>Claire arrives in the Amazon and looks for Danny. She falls into him, and he catches her. To her surprise, Danny knows Amelia. However, he won't help. Danny only ships cargo, not tourists. Also, that part of the Amazon is too remote. Claire purchases Amazon cruise tickets. She travels for a day until she discovers that her destination is the last on the trip, and it will take weeks to get there. Claire asks them to drop her off at the next stop, and they refund her. Claire sees Danny at the port and gives him a sly smile. His ship suffered damage, and he doesn't have the funds to fix it. Claire offers him cash to repair it, but only if he takes her to her destination. He relents. Claire will discover a new version of herself as she falls in love. But will she find Amelia in time?<br/><br/>The plot is far-fetched, but the acting and scenery make up for it. The chemistry between the leads makes viewers root for them. The audience will cringe as Claire makes mistakes on the boat. However, she redeems herself later in the plot. The writer changed her from an overbearing American to a helpful deckhand. The script doesn't explain Danny's relationship with Amelia until the 5th act. So be patient. The people, animals, and legends will leave viewers in awe of this mythical and historical place.<br/><br/>3 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/loveontheamazon.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/loveontheamazon.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "I Am Mary Jo Buttafuoco",
     "review": "Mary Jo Connery sat in class when a young man named Joey Buttafuoco introduced himself and sat next to her. They laughed, and he quickly charmed her. It wasn't long before the two were married. Mary Jo loves her fun-loving and hard-working husband. She is proud to be his wife. That feeling grows when she discovers that she is pregnant with their first child. While she steps into the role of mother, Joey doesn't grow up. With the birth of their second child, Joey's childish behavior becomes worse. Mary Jo, raised to be a good catholic, stands by her vows and honors her marriage.<br/><br/>One day, Amy Fisher arrives at her door, selling candy bars. Mary Jo offers to buy a few, only to discover they are store brand. She brushes off the encounter. Later, Amy comes to her door again and gives Mary Jo another name, Anna Marie. She informs Mary Jo that her sister, Amy, is having an affair with Joey. Before Mary Jo closes the door, Amy pulls out a gun and shoots Mary Jo in the face. Mary Jo wakes up in the hospital to grim news. The police calmly tell Mary Jo to rest while they look for the shooter. Mary Jo won't relax ever again. She will have to survive the recovery, fame, criticism, depression, and addiction.<br/><br/>This new telling of the story that took tabloids by storm gives Mary Jo's perspective and thought process throughout her ordeal. She narrates the film to explain her actions before and after the infamous shooting. The movie focuses on her balancing her duties as a wife and mother while being lied to by her husband and judged in the media. This film gives viewers a triumph story, but something won't sit right with you. Mary Jo places the blame for the affair on Amy. She accuses Amy of being a flirty temptress whom Joey attempted to push away. Mary Jo doesn't blame Joey for sleeping with a minor even today. That's where her story loses its luster and compassion. Mary Jo is, and will always be the victim of this crime, and that shouldn't get lost in anyone's retelling.<br/><br/>3.5 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/Iammaryjobuttafuoco.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/Iammaryjobuttafuoco.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "Don't Trust the Quiet Ones",
-    "review": "Jodi calls her ex-husband, Matt, to update him on their daughter's schedule. Their daughter, Bea, wants to attend a signing for her favorite influencer, Izzy. Matt is upset because this event could bleed into his time with her. He is frustrated that she didn't talk this over with him and plans to fight for joint custody.<br/><br/>Jodi, Bea, and Bea's friends stand in line waiting for an autograph. Bea takes photos in line as Izzy talks to fans and takes pictures. Then, an old friend, Gil, approaches Izzy. Izzy starts to panic. Security guards take Gil away, but Izzy can't control her breathing. She tells her fans she will be back soon to finish. Izzy runs to her dressing room and calls her mom. She sees the bathroom door open in a reflection and investigates. Someone grabs and kills her. Later, an organizer informs everyone that the signing has been canceled but doesn't tell them why. Disappointed, Bea leaves.<br/><br/>Jodi drives Bea to Matt's home, and to Jodi's surprise, Matt's girlfriend, Eve, and Eve's son, Gil, are there. Jodi leaves while they try to connect. Later, Bea hears Gil hysterically crying. He tells her that someone killed Izzy. Bea demands to go home, so Matt takes her. Bea cries with Jodi and gets an idea. Her photos could have the image of Izzy's killer. They look through the pictures and see a bald man lurking. Jodi says she will give it to the police in the morning.<br/><br/>Jodi returns home after visiting the police, and Bea begs Jodi to attend Izzy's memorial. Jodi says no. After Bea sneaks out, an intruder rushes into Jodi's home. They fight, and the culprit runs away. Jodi checks to see if Bea is okay, only to discover that Bea isn't there. Jodi calls the police, and they search the house.<br/><br/>Bea cries at the memorial while spending time with friends. She sees a bald man and remembers him. He screams and questions why she's taking photos before Bea escapes his grip. She runs home to Jodi's desperate yells. Jodi's happy that Bea is home, but angry that she left. The police allow them to survey their home for missing items. Bea realizes her laptop and photo album from Izzy's slaying are missing. The police believe they are in the killer's crosshairs. Can they uncover who murdered Izzy before Bea and Jodi are the next victims?<br/><br/>This Lifetime movie is surprisingly enjoyable. It offers current influencers and old-school stalkers to garner a vast audience. The plot entices viewers with intrigue and scandal. Then the conclusion throws you for a loop. However, you may have inklings once the family relocates to the cabin. This film is a fun pearl clutcher with a bratty teen you can stand.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/donttrustthequietones.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/donttrustthequietones.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "Secrets on the Ranch",
-    "review": "Romy Taylor is tired of city life. During another meeting, she gets a call from her mom, Mrs. Taylor. Mrs. Taylor wants to sell their family farm. Romy quickly decides to leave the high-pressure office life behind and return home to take over the family farm. Mrs. Taylor believes it's too much but invites Romy to try.<br/><br/>Romy stops at the local bar on her way home and makes fast friends with the bartender, Emma. And old family rival, Murphy Slater, approaches and makes Romy uncomfortable. Murphy's mother, Patrica, tells Romy to leave. Romy exits and drops her keys. A handsome stranger named Charlie picks them up. They exchange pleasantries before Romy drives away.<br/><br/>Days later, Romy examines the home and several problems. Her first step is the garden. She goes to the hardware store for supplies and sees Charlie again. He offers to help her with any repairs, but doesn't know he's a Slater. She returns to the garden and digs. But stops when she unearths bones and calls the police.<br/><br/>Detective Fitz responds to investigate. He says the victim succumbed to blunt force trauma to the head. He won't know who the person is until they run a DNA test. However, Romy believes it's her sister, Zara. After Romy finds Zara's diary, she fears Mr. Taylor killed Zara. Can she handle the truth?<br/><br/>The plot setup is familiar. A big-city girl returns to her family farm to save it and runs into an old schoolmate. On any other network, they slowly fall in love before a misunderstanding that almost ruins the romance. But find their way back to each other. However, this is Lifetime. So someone has to die. The acting is standard, but the lighting is horrible. The mystery spans generations, giving several characters motives. This story has a compelling edge that you get from the Hallmark Mystery Channel.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/secretsontheranch.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/secretsontheranch.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "A Melbourne Match",
-    "review": "Georgie rushes to work after a flight to write her article, 24 Hours in New Orleans. Her boss, Morris, enters with a proposition. He's going to retire and needs someone to take over his assignments. Long-haul flights are too much for his body, and he thinks the assignments should go to Georgie. Georgie jumps at the chance. Her first topic is Melbourne, Australia.<br/><br/>Georgie lands in Australia but can't find her driver. She ventures outside, and a car almost hits her. She yells at the driver, Zach, but he tells her she was looking at the wrong side of the road. He helps her up and leaves to pick up his client while she waits outside. Zach sees Georgie outside and realizes she is his customer. He introduces himself.<br/><br/>On their way to the hotel, Georgie mentions all the tourist sites she wants to visit. However, Zach says that's not the real Melbourne. He takes her to a coffee bar and an art installation. Georgie can't believe her tongue or eyes. She asks Zach to be more than her driver. Georgie wants him to be her guide. He will show her the best parts of his hometown and herself. Is Georgie ready to learn?<br/><br/>This movie is a fish-out-of-water story. Georgie's fast-paced lifestyle changes once she faces the relaxed Aussie nature. The scenery is beautiful and expresses respect for the people and culture. Viewers may do research after this film, but they may not book a flight just yet. The plot has funny, intriguing, and heart-warming moments. So watch this picture and enjoy the land down under.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/amelbournematch.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/amelbournematch.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Accused: The Karen Read Story",
-    "review": "Karen Read wakes up in the middle of the night and notices her boyfriend, Officer John, isn't there. Karen wants to look for John, but her dad warns her to stay home. Then, she rings her friends, and they search the snowy roads for John. Karen finds John's body in an embankment covered in snow. She calls 9-1-1 for assistance.<br/><br/>The EMTs put John in an ambulance, but won't let Karen go with him. They escort her into another ambulance. Nurses take Karen's blood at the hospital as she begs for an update on John's status. Her father enters with horrible news. John passed away.<br/><br/>Karen returns to John's home, and his family is in the kitchen. They calmly ask her to pack and leave so they can care for John's children in their home. Later, the police interview Karen. She worries that she is a suspect after they take her car and phone. So, she gets a lawyer. Devastated, Karen doesn't know what's next. That's until her lawyer calls. The police believe she backed into John after a fight and left him to die. Karen hopes the police will understand that she did not end John's life, but she doesn't remember everything that happened because she was intoxicated. They dash her hopes when they change Karen's charge from manslaughter to 2nd degree murder. Will Karen spend her life in jail?<br/><br/>Inspired by a true story, Karen Read's arrest exposed the dark side of the Boston Police Department. This film doesn't take sides. While it's not a linear story, it showed Karen's obsessive nature about their relationship. This movie also highlights the sexist nature of the police department. They didn't investigate the crime and took shortcuts. The trial is over, but the movie lets you decide if Karen was guilty or innocent. That's what makes it compelling.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/accusedthekarenreadstory.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/accusedthekarenreadstory.jpg"
     }
   }
 ];
@@ -57,37 +57,37 @@ module.exports = madeForTV;
 
 /*
 
+{
 "option": "1",
-    "mtitle": "Toni Braxton's Breathe Again",
-    "review": "<br/><br/>* out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tonibraxtonsbreatheagain.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tonibraxtonsbreatheagain.jpg"
-    }
-},
+"mtitle": "Terry McMillan Presents: Tempted 2 Love",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmilliantempted2love.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmilliantempted2love.jpg"  
+}},
+{
 "option": "2",
-    "mtitle": "Don't Breathe a Word",
-    "review": "<br/><br/>* out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/dontbreatheaworld.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/dontbreatheaworld.jpg"
-    }
-},
+"mtitle": "The Woman Before Me",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thewomanbeforeme.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thewomanbeforeme.jpg"  
+}},
+{
 "option": "3",
-    "mtitle": "The Night She Disappeared",
-    "review": "<br/><br/>* out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thenightshedisappeared.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thenightshedisappeared.jpg"
-    }
-},
+"mtitle": "The Millwood Murders: Buried Truth",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/themillwoodmurdersburiedtruth.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/themillwoodmurdersburiedtruth.jpg"  
+}},
+{
 "option": "4",
-    "mtitle": "Love on the Amazon",
-    "review": "<br/><br/>* out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/loveontheamazon.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/loveontheamazon.jpg"
-    }
-}
+"mtitle": "Caught by Love",
+"review": "<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/caughtbylove.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/caughtbylove.jpg"  
+}}
 
 */
