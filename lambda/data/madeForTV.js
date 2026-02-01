@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "Terry McMillan Presents: Tempted 2 Love",
+    "review": "Ava and her boyfriend, former football player Ellis, take a private jet to Ireland for the International Gastro Gala. Ava needs help opening a new restaurant. Her current contract prohibits her from starting an establishment within 5 years of quitting. She needs a restaurateur to invest in her to create her dream job. After they land, Ava and Ellis join a party. Ava asks the gala chairperson, Karen, to let her join the competition. Karen says no. Karen's scathing words when Lily, a social media brand manager, introduces herself. She gushes over Ava's talents and historic rise to fame. They exit the bathroom and run into restaurateur Chef Rene. However, Rene doesn't believe Ava can live up to her Michelin Star. He does ask Ava to train the competitors for the sous chef competition. She agrees. Ava returns to the party, and Ellis calls her over to meet a new acquaintance. Ava stops in her tracks when she sees her ex-boyfriend, Luke. Before Luke can react, his girlfriend Lily calls his name. Ava relaxes and focuses on her date. However, they can feel the attraction between them.<br/><br/>Later, Ava goes to the market while Ellis plays golf. She runs into Luke while shopping for ingredients. They chat about his time in Paris and his new relationship. They hug goodbye while ignoring their feelings. Ava takes her ingredients to the competition and meets the contestants. She stumbles on her words when she sees Luke. She can't ignore the attraction between them anymore. Who will they choose?<br/><br/>This sequel solidifies the meaning of love. Both Ava and Luke are torn between two lovers. The writer created a romantic rectangle. Viewers know that Luke is the love of Ava's life, but Ellis is a good man with great potential. Lily is the bright, only child with rich parents. Lifetimers shouldn't judge the young, hopeful woman too harshly. Ellis and Lily aren't oblivious to the trouble looming in their relationship. The plot pushes them confront their relationship head-on and create funny but uncomfortable situations. While this story can stand on its own, it's up to the viewer to determine if it's better than the first. Either way, it's beguiling.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmilliantempted2love.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmilliantempted2love.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "The Woman Before Me",
+    "review": "Jenna and Grant unpack and settle into their new home. Grant reminds Jenna that his boss, Matt, wants to be the first dinner guest. Matt brings his wife Rainy, who can't believe how much Jenna looks like Grant's deceased first wife. Jenna never knew Grant was married. Matt reveals that Grant is a magnificent pianist, which is more information Jenna didn't know. During the dinner, Matt and Jenna have a heated argument about ethics in the legal profession. Jenna apologizes to Grant, and he forgives her. Rainy drunkenly stumbles into the car, noting how she looks exactly like Grant's ex-wife. Jenny can't hide her rage after Matt and Rainy leave. Grant hid a significant part of his life from her, and she can't sleep next to a stranger. She tells him to sleep on the couch.<br/><br/>Jenna wakes to find that Grant isn't there. He left early for work and didn't want to bother her because she had been upset previously. Jenna's curiosity gets the better of her, and she looks up Grant's first wife online. Then, someone calls and threatens her to stop digging. After a business meeting, Jenna receives a knock on her door. It's a piano delivery. Jenna is clueless about the package, and Grant tells her to reject it. Later, Detective Diane rings Jenna's doorbell. Diane questions Jenna about their dinner date with Matt and Rainy. Jenna tells Diane about Grant's secrets, the argument, and the threatening phone call. It piques Diane's interest because someone murdered Rainy, and Grant is now their number one suspect. Jenna's world is upside down, and she has no one to trust. Can she find the truth before the killer comes after her?<br/><br/>This film goes from wild to outlandish to crazy over the course of two hours. It combines 3 cliché Lifetime plots into one movie. However, it remains entertaining. Also, Jenna's father is one of the best written comic reliefs on Lifetime. He has platinum dad jokes, great one-liners, and a comedic edge. The killer has the strangest motive. However, the storyline has been so eccentric that you just accept it. Viewers should watch this film when they need a good laugh with a zany plot.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thewomanbeforeme.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thewomanbeforeme.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "The Millwood Murders: Buried Truth",
+    "review": "Shenae offers her daughter, Brooke, breakfast, but has forgotten that Brooke is now vegan. After Brooke leaves, Shenae gets a call from Laura, her husband's attorney. She flashes back to her husband's trial. Four years ago, her husband, Leo, was on trial for killing Robin and Brooke's best friend, Danika. Shenae testified against him. The jury sentenced Leo to death. Shenae ignores Laura's phone call.<br/><br/>Later, Shenae gets a call from Brooke's school. Brooke didn't attend her classes and is failing. When Brooke returns home, Shenae confronts her. Brooke admits to spending time with Danika's father, Alexander, at his diner. Shenae supports Brooke's fatherly relationship with Alexander, but it doesn't excuse missing school. Brooke wants to focus on saving Leo from the death penalty.<br/><br/>Brooke goes to the prison to talk to Leo. She doesn't believe he's guilty, and she's working with Laura to prove it. When Brooke doesn't come home, Shenae begins to worry and contacts Laura. Laura directs Shenae to the storage unit. Inside, Shenae's worst fears come to life. She finds signs of a struggle and blood. She must locate Brooke before the culprit ends Brooke's life. That can only happen when she does something she never wanted to do: re-open Leo's case.<br/><br/>This film starts as a whodunit, but there is only one viable suspect. So, the mystery falls flat. Viewers should respect Shenae's struggle for justice and respect. The writers ensured she didn't accept the police's lax attitude about her missing daughter. The editing team should steer away from text messages on screen. They were often hard to read and poorly lit. This plot has such a strong lead that it sacrifices the mystery. Mystery fans may not find this film intriguing, but fighting moms will.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/themillwoodmurdersburiedtruth.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/themillwoodmurdersburiedtruth.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "Caught by Love",
+    "review": "Annie's best friend, Joanna, gave Annie her spot on a wellness retreat. Joanna also provided Annie with her clothes and luggage. As Annie enters the hotel, she stumbles in Joanna's heels, and Jake catches her. They make flirty eye contact and have a polite exchange. The concierge gives Annie a personal tour of the facilities before directing Annie to her room. He informs Annie that the owner, Robert, will make a guest appearance at tonight's welcome dinner. When he sees Lara make a mistake, he informs Annie that Lara's new to the hotel.<br/><br/>Annie arrives at the welcome dinner and sits with influencer Kimberly. Kimberly notices Annie looking at the handsome man at the table across from them. Annie briefs Kimberly about their meet-cute. Kimberly tells Annie that his name is Jake and he is a venture capitalist from Chicago. Then, Kimberly goes around the room and gives Annie information on the most exclusive guest. Annie's neighbors are Carolyn and Peter. Peter is a workaholic, and Carolyn focuses on philanthropic pursuits. Colin made his fortune in professional gambling, while Rebecca is a duchess with refined taste. Then, Robert enters and warmly greets everyone.<br/><br/>Annie walks around the facilities and sees Jake using the wrong lens to take photos of birds. When she looks back, she sees him change the lens and take photos of Carolyn and Peter. She knows something is off with Jake. He confirms her feelings when she catches him sneaking around in her room. Jake tells her the truth. He is a private investigator. Someone stole the Crestfall Diamonds from the museum. And his source told him the buyer would be at the hotel. He decides to use Annie's charms to his advantage. Guests believe they are a couple in the making. So they will play along to gather information. Annie's jovial about joining Jake's team and becoming his Girl Friday. As they search for the buyer, will she become more?<br/><br/>This film doesn't have the intricate plot of a Hallmark Mystery movie, but it is funny and enjoyable. While this is a Winter Escape film, the movie doesn't focus on the landscape or the culture. The script puts the couple and the mystery at the forefront of the storyline. The writers created a new male detective in Jake. He doesn't try to push Annie away when she wants to join his investigation. He encourages her and learn some of her techniques. This movie sums up one season of a Hallmark Mystery series. This could become an annual Winter Escape movie with the proper direction.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/caughtbylove.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/caughtbylove.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "Toni Braxton's Breathe Again",
     "review": "Evelyn, Jennifer, and Vanessa become friends while competing on the reality show, The Gentleman Suitor. Vanessa makes the final two against Alex for Jasper's affection. Jasper picks Alex, breaking Vanessa's heart. Afterward, the women sit and discuss their future. Widow Evelyn worries about her son, Will, attending college, while Jennifer fears how this exposure and loss will affect her business. They promise to support each other and remain friends.<br/><br/>Months later, Evelyn and Vanessa meet Jennifer. She has an idea. Jennifer wants to leave Los Angeles for the south. While they support her, they refuse to leave. However, they changed their mind later. Vanessa's business is floundering, and Will's overprotective behavior is getting on Evelyn's nerves. They call Jennifer, and she bounces with excitement. These women will find love, freedom, and strength in their friendship, jobs, and relationships.<br/><br/>Inspired by the hit song Breathe Again, these three women run from a problem that resurfaces. It is the overarching theme of the movie. They lean on each other to overcome their overwhelming issues. This film is one of the healthiest displays of female friendship. The script offers heartfelt and intelligent conversations while having a good time. The dialogue is gentle and understanding. While the film is a deviation from Lifetime's shock and awe, it is missing a hook to reel you into the plot.<br/><br/>3.5 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tonibraxtonsbreatheagain.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tonibraxtonsbreatheagain.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "Don't Breathe a Word",
-    "review": "Meredith and Eve run a Lamaze studio, supporting local mothers throughout their childbirth journey. Meredith is the godmother of Eve's son, Lucas. It's helped Meredith overcome the pain of losing her daughter due to complications in the womb. Meredith's husband, Tyler, is a police officer and dotes on Lucas. Meredith watches for Eve's ex-boyfriend, Brian. Meredith arrives at work in the morning. To her dismay, someone vandalized it. Meredith calls Tyler for help. She blames Brian, but Eve doesn't think he's capable.<br/><br/>Nevertheless, Meredith confronts him at his karate studio. Brian warns her to back off before kicking her out. She updates Eve about the confrontation, and Eve is upset. She warns Meredith to stay away from Brian and to mind her business. Later, Meredith arrives at Eve's house with apology muffins and sees a boarded-up window. Eve explains that a kid broke it with a rock. However, something doesn't sit right with Meredith.<br/><br/>Days later, Meredith gets a call from Lucas's school. He got ill, and they can't get in touch with Eve. Meredith brings Lucas to her home and goes through his emergency bag. As they laugh, Eve bursts into the room. She is furious that Meredith took him from school without her permission. Meredith tries to explain, but Eve is too shaken up to listen. Someone tampered with Eve's brakes. Eve panics and exits after telling Meredith to back off. However, Meredith can't let it go. She confronts Brian again. This time, he's tired of her accusations. Brian tells Meredith that Eve is the culprit because Eve isn't her real name. Meredith doesn't know what to do, especially since Eve and Lucas are missing. Can Meredith uncover her best friend's past before the secrets end her life too?<br/><br/>This film offers drama, action, and well-timed one-liners. The script gives two styles of men. One is loving and supportive, while the rest are sexist and dominating. The plot makes it easy for viewers to write off Eve, but you should give her grace. Her character's turmoil comes to the surface in the final act. However, the plot never captures your full attention. You will watch this film while doing other activities and perk up during the action. And the action borders on comical when it should be nerve-racking. This film won't be a favorite of 2026 Deadly Resolutions, but it is watchable.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/dontbreatheaworld.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/dontbreatheaworld.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "The Night She Disappeared",
-    "review": "Principal Genie checks on her daughter, Lyla, in school. However, Lyla ignores her mother. Later, Genie enters Lyla's volleyball practice and overhears Coach Steve talking with Tommy. Tommy's daughter, Riley, is a member of the team. At home, Lyla asks to go to a party at Petra's home. But Genie says no. The team has a history of hazing newcomers. Lyla's father, David, arrives to take her for the weekend. Genie whispers to David to keep an eye on her. David brushes off Genie's concerns and tells her to loosen the reins.<br/><br/>After working out with her friend, Aria, Genie gets a call from David. He wants to know if Lyla's still at Amber's house. Confused, Genie tells David that Amber and her family are out of town. David says that Lyla asked to go their and rode her bike alone. Genie is furious and looks for her daughter. She files a missing person's report, much to David's chagrin. When she discovers a similar murder to her daughter's disappearance, Genie panics. She will do anything to find Lyla and return her home.<br/><br/>This film is a well-written whodunit with a few character flaws. The plot will keep you guessing about what happened to Lyla and her location. It releases nuggets of truth as people unveil secrets. This slow reveal allows the audience to piece together the clues with Genie and ask the tough questions. The character flaws align with glaring mistakes. However, the actors pull you into the story and have you guessing along with Genie.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thenightshedisappeared.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thenightshedisappeared.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Love on the Amazon",
-    "review": "Claire waters plants and checks the mail for her sister, Amelia, while Amelia's working in the Amazon. Amelia's waiting for an important letter, so Clair visits daily. Claire drops an urgent letter and doesn't see it until weeks later. Amelia got the fellowship grant. However, the deadline will pass in a week because Claire misplaced it for days. Claire has disappointed Amelia in the past and doesn't want to do it again. She will go to the Amazon and hand-deliver the fellowship for Amelia to sign. Their dad, Mr. Hall doesn't think his level-headed daughter will survive the trip. Also, her vice principal job will begin in a week. Claire assures Mr. Hall she has everything under control. She found a guide named Danny and booked the flight. She plans to return before her job begins.<br/><br/>Claire arrives in the Amazon and looks for Danny. She falls into him, and he catches her. To her surprise, Danny knows Amelia. However, he won't help. Danny only ships cargo, not tourists. Also, that part of the Amazon is too remote. Claire purchases Amazon cruise tickets. She travels for a day until she discovers that her destination is the last on the trip, and it will take weeks to get there. Claire asks them to drop her off at the next stop, and they refund her. Claire sees Danny at the port and gives him a sly smile. His ship suffered damage, and he doesn't have the funds to fix it. Claire offers him cash to repair it, but only if he takes her to her destination. He relents. Claire will discover a new version of herself as she falls in love. But will she find Amelia in time?<br/><br/>The plot is far-fetched, but the acting and scenery make up for it. The chemistry between the leads makes viewers root for them. The audience will cringe as Claire makes mistakes on the boat. However, she redeems herself later in the plot. The writer changed her from an overbearing American to a helpful deckhand. The script doesn't explain Danny's relationship with Amelia until the 5th act. So be patient. The people, animals, and legends will leave viewers in awe of this mythical and historical place.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/loveontheamazon.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/loveontheamazon.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "I Am Mary Jo Buttafuoco",
-    "review": "Mary Jo Connery sat in class when a young man named Joey Buttafuoco introduced himself and sat next to her. They laughed, and he quickly charmed her. It wasn't long before the two were married. Mary Jo loves her fun-loving and hard-working husband. She is proud to be his wife. That feeling grows when she discovers that she is pregnant with their first child. While she steps into the role of mother, Joey doesn't grow up. With the birth of their second child, Joey's childish behavior becomes worse. Mary Jo, raised to be a good catholic, stands by her vows and honors her marriage.<br/><br/>One day, Amy Fisher arrives at her door, selling candy bars. Mary Jo offers to buy a few, only to discover they are store brand. She brushes off the encounter. Later, Amy comes to her door again and gives Mary Jo another name, Anna Marie. She informs Mary Jo that her sister, Amy, is having an affair with Joey. Before Mary Jo closes the door, Amy pulls out a gun and shoots Mary Jo in the face. Mary Jo wakes up in the hospital to grim news. The police calmly tell Mary Jo to rest while they look for the shooter. Mary Jo won't relax ever again. She will have to survive the recovery, fame, criticism, depression, and addiction.<br/><br/>This new telling of the story that took tabloids by storm gives Mary Jo's perspective and thought process throughout her ordeal. She narrates the film to explain her actions before and after the infamous shooting. The movie focuses on her balancing her duties as a wife and mother while being lied to by her husband and judged in the media. This film gives viewers a triumph story, but something won't sit right with you. Mary Jo places the blame for the affair on Amy. She accuses Amy of being a flirty temptress whom Joey attempted to push away. Mary Jo doesn't blame Joey for sleeping with a minor even today. That's where her story loses its luster and compassion. Mary Jo is, and will always be the victim of this crime, and that shouldn't get lost in anyone's retelling.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/Iammaryjobuttafuoco.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/Iammaryjobuttafuoco.jpg"
     }
   }
 ];
@@ -59,35 +59,28 @@ module.exports = madeForTV;
 
 {
 "option": "1",
-"mtitle": "Terry McMillan Presents: Tempted 2 Love",
-"review": "<br/><br/>* out of 5 stars.",
+"mtitle": "Mary J. Blige Presents Be Happy",
+"review": "Review text here<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/terrymcmilliantempted2love.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/terrymcmilliantempted2love.jpg"  
-}},
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/maryjbligebehappy.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/maryjbligebehappy.jpg"
+ }
+},
 {
 "option": "2",
-"mtitle": "The Woman Before Me",
-"review": "<br/><br/>* out of 5 stars.",
+"mtitle": "Our Dead Husband",
+"review": "Review text here<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thewomanbeforeme.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thewomanbeforeme.jpg"  
-}},
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ourdeadhusband.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ourdeadhusband.jpg"
+}
+},
 {
 "option": "3",
-"mtitle": "The Millwood Murders: Buried Truth",
-"review": "<br/><br/>* out of 5 stars.",
+"mtitle": "Missing the Boat",
+"review": "Review text here<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/themillwoodmurdersburiedtruth.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/themillwoodmurdersburiedtruth.jpg"  
-}},
-{
-"option": "4",
-"mtitle": "Caught by Love",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/caughtbylove.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/caughtbylove.jpg"  
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/missingtheboat.jpeg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/missingtheboat.jpeg"
 }}
-
 */
