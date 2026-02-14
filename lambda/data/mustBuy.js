@@ -71,20 +71,6 @@ module.exports = mustBuy;
 
 /*  For Must Buy later  
 
-
-
-    {
-    "option": "1",
-    "mtitle": "Nickel Boys",
-    "review": "Elwood lives with his grandmother, Hattie, after losing his mother. He is attentive in school and dreams of going to college. His teacher, Mr. Hill, doesn't teach American History from the textbooks. He encourages his students to be free-thinkers, question authority, and demand change in the Jim Crow South. Mr. Hill sees promise in Elwood and gives Elwood a pamphlet for a free college. Elwood decides to hitchhike to the school and apply. A man pulls over and offers Elwood a ride. Later, police pull the man over. They arrest the man and Elwood for stealing the car. The judge sends Elwood to Nickel Academy, a segregated reform school for boys.<br/><br/>It doesn't take long for Elwood to uncover that the staff treats black and white students differently. He considers changing the dynamics until he meets Turner. Turner warns Elwood that there are four ways to leave Nickel Academy: do your time, age out, run away, or die. Elwood believes there's a 5th way: change it. Decades later, the state is investigating the academy. It triggers panic attacks in Elwood because the state needs witnesses. Can Elwood testify and come to terms with his past?<br/><br/>Based on the novel The Nickel Boys by Colson Whitehead, the director intentionally shot the movie from different perspectives. It gives Elwood's point of view from his childhood through his teens. The point of view switches when Elwood meets Turner. Once Elwood enters adulthood, the camera changes to a birds-eye view. This director does this to shock the audience during the final reveal. This film features abuse, but you don't see it. You feel it. This film is an extraordinary watch if you can handle it.<br/><br/>5 out of 5 stars.",
-    "asin":{
-      "re":""
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/nickelboys.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nickelboys.jpeg"
-    }
-  }
     
   {
     "option": "4",
@@ -200,6 +186,32 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/songsungblue.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/songsungblue.jpeg"
+    }
+  }
+
+  {
+    "option": "1",
+    "mtitle": "Send Help",
+    "review": "Linda gives Donovan the company report and rises, following him to the meeting. Donovan stops her and says they downsized the meeting. He leaves, and she hides behind the corner to watch him. He takes the Post-it Note with her name off the report and takes credit for her work. Linda fumes at home with her bird, but resigns to Donovan's behavior. The president of the company passed away, and his son, Bradley, will take over. Before he passed, he told Bradley to promote Linda to a vice president position to reward her years of dedication and service.<br/><br/>Linda beams as she thinks about her future until she hears a co-worker talking about an interoffice memo. It announces Donovan as the next vice president. The rage in Linda boils over, and she charges into Bradley's office. He explains that he objected to his father's opinion because Linda doesn't present well. They have a deal to close in Shanghai. If she can close the deal, he will consider her for the position.<br/><br/>Linda arrives at the hangar and boards Bradley's private jet. She works on the documentation while the men childishly converse. Linda hears them laughing between songs and removes her earbuds. She uncovers that they are laughing at her Survivor audition tape. The flight attendant instructs them to buckle their seatbelts due to incoming turbulence. Bradley, safely in his seat, heckles his friends for following her orders. So, they ignore her and chuckle. The plane crash-lands in the ocean.<br/><br/>Linda wakes on a deserted island. She finds Bradley with a horrible gash on his leg. Bradley wakes up a day and a half later. He demands that Linda follow his orders and build a raft to take them to safety. Linda pauses at his ungrateful nature. Bradley scoffs and reminds Linda that she works for him. Linda chuckles. With her survivalist skills, she is running the show. Will they survive?<br/><br/>This film is for anyone who feels overlooked or underappreciated. Linda is the office misfit. The writers added this to her personality to explain why she desperately seeks friendship and validation. The editor slowly panned over her books as Linda cooked. An eagle-eyed viewer will spot books about survival, tying knots, and poisonous plants. The storyline made Linda conditioned for the outdoors. This trait bubbles over into her work life. This movie fails with its CGI. The crash and boar scenes are distracting and overly digitized. This film's gem is the dialogue. It's witty, dark, and unhinged. This picture is worthy of the big screen.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sendhelp.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sendhelp.jpeg"
+    }
+  }
+    
+  {
+    "option": "2",
+    "mtitle": "Solo Mio",
+    "review": "Matt finds a letter from his fiancée, Heather. She got cold feet and chose not to go through with the wedding. Matt assumes she's fleeing to the U.S., leaves the venue, and runs to the airport. He feverishly texts Heather, and she admits that she didn't leave Italy. Matt arrives at the hotel and requests to cancel his honeymoon package. The concierge says that's not possible and suggests Matt enjoy the trip alone.<br/><br/>Matt maneuvers around rambunctious children and enters a coffee shop. The owner, Gia, runs out before Matt requests a coffee. Gia returns and gives Matt his wallet. She warns him that the children are pickpockets. They sit and have a lovely conversation. He invites her to the next event, and Gia politely refuses because she has to work. Matt leaves and sits on his tandem bike. Then, Gia's ex-boyfriend, landlord Vincenzo, enters and demands to talk. Gia makes a hasty exit and jumps on Matt's bike. The ride around town, eat, and enjoy each other's company.<br/><br/>Later, Matt sits alone at a restaurant. Newlywed Julian sits in the other seat and questions why Matt is solo. He saw Matt with Gia and thought they were a good match. It doesn't take long for Julian to summarize that someone left Mat at the altar. He wants to be Matt's wingman and help him overcome his hurt. Julian and his wife, Meghan, invite Matt to spend the evening clubbing with them. At the piano bar, Julian introduces Matt to newlyweds, Neil and Donna. Julian urges Matt to drink, dance, and mingle. However, Neil believes Matt should embrace his pain and avoid new relationships. Then, Gia walks into the club. Julian vows to bring the two together. With newfound friends by his side, Matt will discover the beauty in being solo, finding love, and embracing Italian culture.<br/><br/>This movie proves that romantic comedies can be interesting, funny, and charming. Matt isn't a man set on revenge dating. He's genuinely hurting. It breaks his heart to be the odd person out. Julian and Neil are two sides of the same coin. They want the best for Matt, but the writer gave them different approaches. These conflicting styles add a new layer of intelligent comedy to the script. And the conclusion brings a shocking twist that will leave your jaw on the floor. This film is a great date movie that will entertain everyone.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/solomio.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/solomio.jpeg"
     }
   }
 */
