@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "Pushed Off A Plane and Survived",
+    "review": "Jaynie discusses her business finances with her sister, accountant Tess, while gossiping about her upcoming date. Tess bets that it will be another disaster, and they put one dollar on the line. Later, Jaynie meets Kenny, but he's rude. She attempts to leave, but he continues to argue. A bystander, Cole, steps in to help her. He abruptly convinces Kenny to leave and sits next to Jaynie. They connect so deeply that Jaynie steps out of her comfort zone and invites him to lunch. The thriving businesswoman discovers that Cole is a budding entrepreneur. He wants to start a club and promote parties. But he doesn't want to give up his ultimate love: skydiving. Jaynie thinks it's a crazy sport until he surprises her with a skydiving trip to Las Vegas. By the end of the trip, Cole gets down on one knee to propose marriage. Jaynie thinks it's a wild idea, but she's in love and says yes. Jaynie thinks Cole is the man of her dreams, but that's not is real name. What will it take for Jaynie to survive a con artist?<br/><br/>Lifetimers, get ready to yell at the screen. Jaynie is easy prey for Cole. He is a handsome knight in shining armor, playing a role. The writers wait until the wedding to take his armor off. This film is a step-by-step guide to gaslighting. Cole warps Jaynie's thoughts and uses her helpful nature to control her. The writers ensured that Cole's violent streak emerged when she, or anyone, challenged him. Inspired by actual events, this movie feels rushed, but it follows the trajectory of their relationship. These actors make a dynamic and highly entertaining pair. Viewers will want to watch any movie with them.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/pushedoffaplaneandsurvived.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/pushedoffaplaneandsurvived.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Sinister Secret Ingredient",
+    "review": "Dentist Dr. Mel used her nose to diagnose diabetes in her patient. After calling EMTs to escort him to the hospital, she spies her daughter, Abby, waiting in the lobby. Mel and Abby moved to the small town two months ago. Although Mel has settled in, Abby has yet to make connections. When Mel offers to drive Abby home, Abby chooses to walk after hearing her mom rattle off the list of paperwork she has to do. Later, when Mel arrives home with carryout, she discovers Abby already eating at the dinner table. To Mel's surprise, Ruth, the HOA administrator, exits the kitchen to fill Abby's glass. Ruth noticed Mel's struggle and offered to help. At first, Mel disapproves of the elderly woman in her home, but she changes her mind and loosens her resolve. Before long, Ruth is over daily, and Mel isn't sure where to draw the line.<br/><br/>During an HOA meeting, Janine speaks to the residents about starting a foundation in her daughter's name, Oakley. Oakley went missing and hasn't been seen since. The police label her a runaway, but Janine won't accept that. Ellen thinks their neighborhood is safe and doesn't need the foundation. Mel stands up and speaks on Janine's behalf. She sways several voters in Janine's favor. Afterward, Janine hugs Mel and nominates Mel for the HOA administrator position. Mel turns it down out of respect for Ruth.<br/><br/>Mel goes to work but feels guilty for missing time with Abby. A friend, Nick, offers to cover the front desk at the dental office so Mel can leave early. Mel arrives at an empty home. Later, Mel finds a note from Abby. It states that she decided to live with her father, Jeremy, and left. Mel calls Jeremy, but he hasn't spoken to Abby. Mel contacts the police. However, they assume Abby is another runaway. Janine stands by Mel's side and offers help. Mel refuses to believe that Abby chose to leave her. And she's right. Someone kidnapped her daughter. Can Mel save Abby in time?<br/><br/>This movie isn't a mystery. You know the culprit from the beginning of the film. While watching this person manipulate everyone around them, you salivate. This person makes evil look fun. The writer gave the culprit a clear motive and ample time to commit the crime. And the community and police are unknowing accomplices. The makeup department did a stellar job creating bruises over time. And the young actresses expressed the proper amount of fear, resilience, and coping. The film has lulls, but it entertains.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinistersecretingredient.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinistersecretingredient.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "Murder in Music City",
+    "review": "Caroline wakes when her phone rings in the middle of the night. Her mother, country singer Abilene, panics because someone died. Caroline jumps in her car and calls her mother's assistant, Barbara. When Caroline arrives at her mother's home, two detectives are questioning her. Caroline learns that someone beat her mother's writing partner, Jimmy, to death with a guitar. The police arrest Abilene.<br/><br/>Caroline walks around the property and sees her mother's stalker, Devin. He accosts her in the woods, and Kyle saves her. The police arrest Devin, but they won't release Abilene without proof of Devin's guilt. Barbara, fresh from a wellness trip, brings Kyle inside to greet Caroline. Kyle admits that Jimmy was his brother. He asks for Jimmy's belongings. Caroline takes Kyle to the guest house, which is the crime scene. They find Jimmy's songbooks with Stephanie written inside. Kyle says the woman is a mystery to him. He notices the books are old and believes one is missing. Caroline promises to look.<br/><br/>Caroline visits a bruised Abilene in jail. She's determined to prove her mother's innocence. Abilene admits that she and Jimmy were in a romantic relationship. And several people in her life took issue with it. Hank, her ex-husband and former writer, assaulted Jimmy. Jimmy urged Abilene to fire her representative, Marcia. And Barbara was the president of the Abilene fan club. Now, she runs Abilene's life and hates anyone who takes Abilene's focus away from the music. Caroline will do what the police won't: Investigate. Will she uncover who killed Jimmy?<br/><br/>Lifetimers must be patient with this film. It's a slow burn, but the conclusion is worth the wait. The writers make Caroline like her mother. The police in this film actually do their job. They question suspects and take things seriously. Without giving away the ending, this film only works in the 21st century. Viewers have an understanding of people's dark side and what motivates them. Don't let the blame game and bedroom romps distract you. This movie serves a worthwhile O.M.G. ending.<br/><br/>4.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/murderinmusiccity.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/murderinmusiccity.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "The Stars Between Us",
+    "review": "Malcolm sets up his telescope for the eclipse while his girlfriend, Morgan, searches for a phone signal. As Morgan walks away, Kim approaches to get a closer look at his telescope. She's always been fascinated by astronomy. Malcolm understands. He's a Ph.D candidate in astrophysics. Then, Kim's fiancé, Blake, calls her. He arrived in time with her eclipse glasses. Malcolm and Kim give each other a final glance before parting.<br/><br/>Seven years later, Kim returned to work after her daughter, Anna, started school. Kim feels behind at work because she wants to anchor the news, not write it. Her boss, Mr. Whitaker, gave her an opportunity, but she froze on live TV. After a taping, Kim overhears Julia updating Mr. Whitaker. Her son has pink eye, so she can't go on the eclipse assignment. Kim pleads with Mr. Whitaker to give her a second chance. Mr. Whitaker agrees, but it will be her last chance to anchor.<br/><br/>Meanwhile, Malcolm gears up for the eclipse, but his teaching assistant backed out. Malcolm hopes Dr. Longford will be in attendance. Malcolm wrote a book, but has been unable to find a publisher for it. If Dr. Longford writes a forward, it could entice publishing companies to take him seriously. Malcolm can't believe the solar eclipse is happening again, in a different direction. He remembers the previous eclipse fondly.<br/><br/>Kim arrives at the hotel and shoots footage. However, she fumbles over her words. Kim doesn't see Travis and Malcolm behind her. Travis stumbles with the equipment as Malcolm offers assistance. He never sees Kim turn around. This moment won't be the last time Kim and Malcolm miss each other. Will their stars align to find true love?<br/><br/>This out-of-this-world movie embraces facts with feelings. The writers had their love follow the same path. They crossed at one point in life, and now, they must cross at that same moment again. It becomes frustrating to see them almost meet each time. However, clumsiness, people, and masks get in the way. This film balances humor with science, but the dialogue loses its luster in the middle.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thestarsbetweenus.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thestarsbetweenus.jpeg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "Double Double Trouble",
     "review": "Identical twins, Drea and Ali, host a cooking show, Double the Recipe, together. They look alike, but their personalities are different. Drea is happily married with a baby on the way, and Ali can't imagine settling down. Drea's marriage seems idyllic until she has a miscarriage. Her husband, Kevin, can't continue, and they get a divorce. Later, he gets another woman pregnant and starts a new life with her. Until someone kills him. Drea still searches for love while Ali climbs the corporate ladder for them.<br/><br/>Drea visits a café when she sees a handsome man by the window. She gets up to talk to him, but he leaves. The owner tells Drea that his name is Ryan. Drea cyberstalks Ryan in the meantime. Days later, Drea returns to the coffee shop, but Ryan doesn't show up. Ali attends a tech summit across town and meets Ryan. He invites her to his seminar, and she attends. They connect and go to dinner. Ali comes home, and Drea can see she's smitten. Ali keeps it under wraps for now but vows to tell Drea later.<br/><br/>When Ali finally introduces Drea to Ryan, Drea stands in shocked silence. She pulls herself together and pretends to be happy. She doesn't worry because Ali's relationships don't last long. However, this time is different. Months later, they are in love and expecting a baby. This moment is the final straw for Drea. Ali is the person everyone picks, and Drea can't stand it. She won't allow Ali to live the life she's always wanted. How far will Drea go to win?<br/><br/>This well-choreographed movie is a mind-bender that will keep Lifetimers on the edge of their seats. The scenes with both women flow together seamlessly, thanks to excellent timing, expert camera angles, and wonderful acting. This movie has 3 separate twists. This film is a future classic that Lifetimers crave. It has elements of old-school Lifetime with a few new-school references thrown in. The writing exposes the dangers of jealousy. While it can appear harmless or even funny, it can pollute a person's spirit. Watch this movie before someone spoils the ending.<br/><br/>5 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/doubledoubletrouble.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/doubledoubletrouble.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "Who Took My Family?",
-    "review": "Courtney watches her daughters, Skye and Harper, swim in the pool while her husband, Stan, brings their towels. She's nervous about her upcoming meeting, but Stan has faith in her. Courtney attends the meeting with her colleague, Richard. She panics when they don't hear back from the buyer quickly. As Richard assures it will happen, they get a call. Courtney received the multimillion-dollar merger for her luxe home decor brand. As the team celebrates, Courtney calls Stan, but it goes to voicemail. Courtney returns home, but no one is there. Courtney's friend, Paige, visits from next door. She urges Courtney to call the hospital. The police report her family as missing.<br/><br/>In the morning, Courtney goes to the girls' school and uncovers that they didn't attend. Stan reported them sick. Courtney cries in her car as Bianca knocks on the window. She questions Stan's location because they regularly spend time together. Courtney informs Bianca that Stan is not a single parent like her before driving off. She returns home to food in the kitchen. Her mother-in-law, Barbara, came over to help. To Barbara's chagrin, Paige enters without knocking. She offers to help as she greets Barbara. Then, Bianca stops by. She apologizes for earlier and informs Courtney that the mom group organized a search at Stan's favorite locations. Courtney continues to pray for the safe return of her family. However, she loses hope when the police find Stan's abandoned van in the woods with blood inside. Courtney is determined to find out who took her family and why.<br/><br/>This mystery movie targets the notion of a woman's role in the home. As the case unfolds, Courtney deals with judgment from internet trolls, Barbara, and other moms. The script brings social media comments to life. Viewers will feel triumphant when Courtney stands her ground against anyone who calls her a bad mom. The mystery will keep you guessing for the 1st half of the film. Afterward, you will watch to prove yourself right. It allows the film to start entertaining but end with a discussion.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/whotookmyfamily.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/whotookmyfamily.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "To Catch a Cheater",
-    "review": "Hannah, Charli, and Megan raid Hannah's closet, trying on clothes and discussing their boyfriends. They will be going to college next year, and Charli suggests they give their boyfriends a loyalty test. They reluctantly agree to the pact. While the teens are in Hannah's room, their mothers are playing cards. Monica, Bridget, and Kim met the day they gave birth. Bridget and Kim started a business together, and they are excitedly awaiting their IPO. This will lead to unprecedented growth in their business.<br/><br/>Days later, Hannah waits for Charli's boyfriend, Nick. Charli calls Joe, and Megan meets with Hannah's boyfriend, Hunter. Monica talks to her son, Leo, about attending Hannah's graduation with Monica's ex-husband, David. Then, the police knock on Monica's door. He asks her to bring friends for support. She goes to the park with Bridget and Kim. Monica screams when she sees Hannah's body.<br/><br/>After the funeral, a detective sits with Monica, David, and Leo. Hannah died from blunt force trauma to the head. Nevertheless, they don't believe it's murder. Hannah texted an 'I'm sorry' message before her death. They think Hannah either ended her life or fell and hit her head. Monica refuses to believe her daughter ended her life. She thinks someone killed Hannah. Monica will do anything to discover the truth, but can she handle it?<br/><br/>This Lifetime movie will have you guessing until the end. Everyone in Monica's life has secrets. This dynamic makes viewers look at the characters sideways. And Lifetimers uncover the truth with Monica. Don't be surprised if one of the daughters irks your last nerve. But this character flaw drives the story and reveals more questions. This movie blunder is the motive. It's a bit far-fetched for the most discerning viewer. This film is a compelling ride to a flat end.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tocatchacheater.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tocatchacheater.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Because of Cupid",
-    "review": "Bar tenders Marcus and Naomi can't believe their boss, Lisa, is selling her establishment, Agora. But Lisa says no. Then, she informs them that the buyer, Steven, will turn Agora's into a parking garage. Naomi wishes she could purchase Agora. As Marcus and Naomi contemplate their future, E.J. and Hal walk over. They learn that E.J. writes Naomi and Lisa's favorite book series. Lisa introduces herself to E.J., and they flirt with each other. However, it leads to nothing. Hal thinks they could have been soulmates, but Naomi and Marcus scoff at him. Neither of them believes in that. Hal invites them to his tea café, and they agree to come.<br/><br/>Naomi asks to meet Marcus's uncle, Rich, for guidance about buying Agora. He says they need money for the business. And he suggests they enter the Annual Mocktails competition. It has a substantial cash prize. They visit Hal at his tea café, and they discuss love. Hal gives Marcus a vial of green liquid. It gives people the courage to fall in love. Naomi grabs it to drink, but Marcus lies, saying it contains mangos. She's allergic.<br/><br/>Naomi and Marcus work at the Agora and practice making mocktails for the competition. Marcus tastes one of Naomi's concoctions and says it needs something sweet and aromatic. Naomi looks around, finds the vial, and dumps it in. Then, Marcus professes his love for Naomi. She admits to putting the elixir in the drink, and Marcus confesses it was a love potion. They run to Hal for help. He admits that he's Cupid and gives them a Greek antidote recipe with an ingredient missing. Marcus and Naomi must find the ingredients, make the potion, and save these couples while competing in the competition. What will Naomi do when her feelings for Marcus grow?<br/><br/>This Loveuary film is fun if you don't take it too seriously. It focuses on the story of Greek lovers Eros and Psyche. The writer used their story as the inspiration for this film. Naomi has to overcome several challenges to prove her feelings for Marcus. The love between the actors feels real and perfectly exaggerated, and Cupid is charming. While the story is amusing, the movie won't hook you.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/becauseofcupid.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/becauseofcupid.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "The Dating App Killer: The Monica White Story",
-    "review": "Monica White will have an empty nest for the first time. She and her ex-husband have been divorced for several years, and soon her son, Isaiah, will leave for training camp. Monica's friend, Lila, suggests that Monica start dating again. Lila proposes that Monica join the 21st century and use a dating app. However, Monica prefers the old school way. After several failures, Monica joins an app and gets a message from Anthony. Monica thinks he's a bit too young and resides too far. However, she can see them being friends. So, she answers, and a flirty exchange starts. In a hotel, Anthony killed his next victim and left her body in a shopping cart. He has Monica on the hook and plans to kill her next. Will Monica escape the lure of the Shopping Cart Killer?<br/><br/>The writers introduced the viewer to Monica during a pivotal moment in her life. She isn't keen on online romance scans, but her old-school charm allows her to maintain a safe distance. Monica doesn't know that Anthony is using techniques like love-bombing and parroting to become the man of her dreams. This story is Monica's narrative. So it doesn't focus on why Anthony kills, but on his techniques. This movie will teach you to watch the warning signs and proceed with caution.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thedatingappkillerthemonicawhitestory.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thedatingappkillerthemonicawhitestory.jpg"
     }
   }
 ];
@@ -58,36 +58,40 @@ module.exports = madeForTV;
 /*
 
 {
-"option": "1",
-"mtitle": "Pushed Off A Plane and Survived",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/pushedoffaplaneandsurvived.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/pushedoffaplaneandsurvived.jpg"
-}},
+"option":"1",
+"mtitle":"Vanished in an Instant",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/vanishedinaninstant.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/vanishedinaninstant.jpg"
+  }
+},
 {
-"option": "2",
-"mtitle": "Sinister Secret Ingredient",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinistersecretingredient.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinistersecretingredient.jpg"
-}},
+"option":"2",
+"mtitle":"A Mother-in-Law's Obsession",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/amotherinlawsobsession.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/amotherinlawsobsession.jpg"
+  }
+},
 {
-"option": "3",
-"mtitle": "Murder in Music City",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/murderinmusiccity.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/murderinmusiccity.jpg"
-}},
+"option":"3",
+"mtitle":"Murder at Highland Manor",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/murderathighlandmanor.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/murderathighlandmanor.jpg"
+  }
+},
 {
-"option": "4",
-"mtitle": "The Stars Between Us",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thestarsbetweenus.jpeg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thestarsbetweenus.jpeg"
-}}
+"option":"4",
+"mtitle":"Romance at Hope Ranch",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/romanceathoperanch.jpeg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/romanceathoperanch.jpeg"
+  }
+}
 
 */

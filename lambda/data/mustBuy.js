@@ -1,6 +1,42 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Ella McCay",
+    "review": "Lieutenant Governor Ella McCay approaches her office when her secretary, Estelle, hands Ella a letter. A reporter wants exclusive access to her. If not, he will release damaging information he has about her and her husband, Ryan. Ella pushes the matter aside and jumps in her vehicle. Her driver, Trooper Nash, drives Ella to her aunt's bar. Aunt Helen raised Ella since she was 16 and has been the voice of reason for Ella. Helen's advice is to dump the dead weight: Ryan. Ella refuses because he's provided a sense of fun for her.<br/><br/>Ella returns to work, and Governor Bill is waiting in her office. The President chose Bill as the next Secretary of the Interior, and Bill will name Ella the acting governor immediately. While Ella is good at passing legislation, she isn't well-liked amongst constituents. Ella believes she can win them over with her tooth tutor and well baby legislation. Bill shakes his head, stands up, and grabs the doorknob. He lets Ella go first and announces her promotion. Ella shies away from the camera as Ryan smiles for the it, grabs her, and dances with her. She wants to do good for her state, but life will happen.<br/><br/>Ella McCay is a smartly-written film about family, relationships, and politics. The plot teaches micro lessons in civics while entertaining. Ella is highly capable and intelligent. However, she has anchors pulling her down. Sadly, she doesn't see how her two biggest pitfalls mirror each other until it's too late. The cast did a stellar job of acting with little dialogue. They let their facial expressions and hand gestures convey the message. At the conclusion, this picture will encourage you to scream healthily.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": "B0GJ6W9RYW"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ellamccay.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ellamccay.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "The Running Man",
+    "review": "Ben asks his old boss, Richard, to remove him from the blacklist. Ben can't find work with the scarlet letter on his record, and his daughter, Cathy, is sick. However, Richard won't change his mind because Ben spoke to union leaders about his working conditions. Ben will remain on the list.<br/><br/>Ben watches game shows with Cathy until his wife, Sheila, returns home. She wants to spend time with Cathy, but changes her mind after feeling Cathy's fever. He hates that she has to flirt with wealthy men for tips, especially after one client killed her co-worker. He gets an idea. He will go to the network building and be a contestant on one of their shows. Sheila rejects the idea because she fears he will try out for The Running Man. Ben assures her he would never try out for that game before leaving.<br/><br/>Ben walks through the gates of the network building. They pull up his work history and tell him to go to elevator 26. Hopeful contestants, Jenni and Tim, greet Ben. The Network showrunners perform physical and psychological tests on the contestants. To Ben's surprise, they picked him to be on the Running Man. Ben tries to force them to change, but they refuse.<br/><br/>Ben meets with the Network owner, producer Dan. Dan shows Ben the lucrative contract. He gets a bonus for every day he remains alive and a $500 signing bonus. Ben signs the contract and assures Dan he will be the first contestant to go the distance.<br/><br/>Dan introduces Ben, Tim, and Jenni to the show's hosts, Bobby T.. Bobby gives a quick hello before running on the stage. Ben rages at the false narrative Bobby spins to make the fans hate him. Then, Bobby gives the rules. The runners will have a 12-hour head start. The further they go, the more money they will make. They have to film themselves every day for 10 minutes and drop it in a mailbox. If they don't, they won't get the money, but the hunters will still come after them. They have to last 30 days. Ultimately, they will receive $1 billion. Will he survive the Running Man and make it home to his family?<br/><br/>Based on The Running Man by Steven King, this film has a spectacular pace, wild stunts, and a fresh twist on a familiar plot. This film isn't just about a man running for his life. It's a searing indictment of media manipulation by corporations. The director uses different camera techniques to capture Ben's runs. It could be a steady drone camera shot, a GoPro-style shot, a handheld camera shot, or standard movie framing. These changes display an enticing view of Ben and his run. The soundtrack stays in step with Ben's speed and gets you excited. The action slows with a purpose. It speaks to corruption, pollution, and screen addiction. The plot delivers these messages without getting too topic-heavy or self-righteous. This film is an exciting and violent ride.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0FZM4QCH2"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/therunningman.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/therunningman.jpeg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "Zootopia 2",
+    "review": "Partners Judy and Nick became famous for saving Zootopia from a civil war. However, Chief Bogo thinks it was a fluke because they are different. Bogo presents their latest case to the squad. It's a crooked dock inspector. He gives the team their assignments and puts Nick and Judy on observation. However, they aren't there. Officer Clawhauser informs Bogo that Nick and Judy are on the scene and took the lead.<br/><br/>The bust becomes a TV spectacle, putting Judy and Nick in the hot seat. Judy tries to explain that she found snakeskin in one of the crates, but Bogo won't listen. Besides, reptiles haven't been in Zootopia in 100 years. That's when they created the weather wall. Judy discovers that the culprit will be attending the Zootenial Gala. Zootopia's founder, Ebenezer Lynxley, will be honored at the event. His family will display his journal, which contains the idea and blueprints for Zootopia.<br/><br/>Judy convinces Nick to attend the gala undercover. Judy bumps into Pawbert Lynxley, Ebenezer's grandson, and he's smitten with her. His father, Milton, runs the family business and upholds the legacy with his other two children, Kitty and Cattrick. Nick shines a light on the culprit before they grab the journal and try to run away. Judy and Nick follow them into a private room and remove their cloak. It's Gary De'Snake. He tells Judy they aren't the bad guys and the journal can prove it. Before Gary reads the journal, Milton, Kitty, and Cattrick kick open the doors. Bogo barges into the room, and Gary accidently bites him with one of his fangs. Judy breaks it and holds it in her hand. When the other officers enter, Milton says Judy, Nick, and Gary attempted to kill Bogo. They escape before the police arrest them, but they are enemy number one. Can Judy and Nick clear their name while helping Gary uncover the truth?<br/><br/>This sequel is clever, endearing, and funny. It covers perception, smear campaigns, history washing, and forced migration with ease and compassion. During these hard-hitting topics, the script tackles the partnership between Judy and Nick. The animation rivals the first film. Disney manages to give the animals human-like qualities while displaying their unique animalistic characteristics. This installment expands the animal world while rooted in its core cast. The beginning recaps what happened in the first film, so you don't have to see it to enjoy this. The end-credit scene gives the viewer a hint at what is to come. See Zootopia 2 with the whole family today.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": "B0GKTYTY3J"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/zootopia2.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/zootopia2.jpg"
+    }
+  },
+  {
+    "option": "4",
     "mtitle": "Song Sung Blue",
     "review": "Mike stands in front of his Alcoholics Anonymous group with his guitar. He celebrates his 20th sober birthday just like his other birthdays, singing 'Song Sung Blue.' After the meeting, Mike arrives at the Wisconsin State Fair with a Hawaiian shirt. He tells his friend, Buddy Holly impersonator Mark, that he can't do Don Ho. Mike wants to go on as himself, Lightning. Mark refuses and reworks the show. Claire, a Patsy Cline impersonator, says Mike would be better at playing Neil Diamond. Claire walks on stage and sings while Mike watches from the crowd.<br/><br/>Mike plays guitar for The Esquires the following day, and Claire dances to the music. They meet afterward for food and talk. They sing together, making beautiful music. Mike admits that impersonating Neil isn't enough. Claire understands that he wants to interpret Neil. They kiss, giving Mike an idea. He is lightning, and she is thunder. They can become Lightning and Thunder: The Neil Diamond Experience. Can this duo rise to fame in Wisconsin?<br/><br/>This script has everything for everyone, including Sweet Caroline. And you don't have to be a Neil Diamond fan to enjoy the movie. In fact, you may discover a new favorite Neil Diamond song. Neil isn't the focal point, just the catalyst that brought these two people together. These actors pull off once-in-a-lifetime performances with an honest portrayal of two people finding strength in each other. This film is a testament to their resilience, families, and pure love of music. It will resonate with the audience and make you believe that love can conquer all. This picture is for movie and music fans alike. While it's not perfect, it's close to it.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -12,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "5",
     "mtitle": "Wicked: For Good",
     "review": "Wicked: For Good was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -21,42 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/wickedforgood.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/wickedforgood.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "One Battle After Another",
-    "review": "Rocketman joins other members of the French 75 outside of an immigration center. Perfidia sees him and asks what's in his wagon. He explains that it's explosive, and she's intrigued. As Rocketman sets the explosives, other members gather the immigrants and detain the soldiers. Perfidia distracts Captain Lockjaw. Her take-charge attitude arouses him as she steals his hat and gun. She, the team, and the immigrants exit the center, using Rocketman's explosions as a distraction.<br/><br/>The French 45 set up political attacks everywhere, but don't know that Lockjaw has fixated on Perfidia. He follows them on their next mission and corners her in a bathroom. He offers to let her go if she meets him at a hotel with his gun and hat. If not, he will expose her crew. She slithers away and completes the mission. Then, she joins Lockjaw in a hotel room and leaves sans hat and gun.<br/><br/>Eight months later, Perfidia is pregnant, and Rocketman worries that she is ignoring it. After their daughter's birth, Perfidia becomes jealous of the time Rocketman spends with their little girl, Charlene. During a grocery run, Lockjaw stands behind Rocketman and asks about the baby. He states it's a girl and biracial.<br/><br/>Perfidia gathers a team to rob a bank to fund the French 75. During the robbery, Perfidia shoots and kills a security officer. The police catch and detain her. Lockjaw gives her an option: give up the crew or die in jail. Perfidia turns state's evidence and enters the witness protection program. The French 75 hears about Perfidia's capture and runs to protect Rocketman and Charlene. They give him a trust device, new identities as Bob and Willa, and a nearby sanctuary city. Lockjaw returns to Perfidia after the roundup, but she's fled to Mexico.<br/><br/>Sixteen years later, a man approaches Colonel Lockjaw with an invitation to an exclusive club, the Christmas Adventurers. They are a group that believes in strong borders, family values, and purity. Then, they inquire about interracial relationships. Lockjaw says he has only slept with women of his race. They inform him that they will conduct a double Yankee background check into his past. Lockjaw leaves with his head full of pride, but he has one problem: Charlene. She could be evidence of his night with Perfidia. He sends the army to locate her and bring her to him.<br/><br/>Willa attends high school and isn't allowed to have a phone. Bob hasn't disclosed much about his past, but tells Willa her mom was a hero who fought for everyone's freedom. Willa attends a school dance and goes to the bathroom. Her trust device starts to make noise, and Deandra gives Willa the passphrase. Under Deandra's instructions, Willa leaves the party with her. Bob receives a phone call that the army captured a former member looking for Willa. Bob, in a stupor, enters a tunnel, grabs his gear, and runs to locate Willa. He must keep her safe from Lockjaw before Lockjaw exposes the truth about him, her mother, and Bob. Can Bob save Willa?<br/><br/>Inspired by Viceland by Thomas Pynchon, this film begins as a revolutionary heist film and changes to a game of chess. The director didn't concentrate on title cards or clothing to give the film's period. It's left up to the viewer to decide. The writers centered on the mission while illuminating issues such as immigration, the undocumented workforce, history, and lineage. The natural lighting and close-up allowed the cinematography to maintain its gritty edge. The script is sharp-witted, charming, and edgy. This film makes you laugh and flinch. However, the writers don't want to change ideals or force policy. They focus on telling a compelling story that captivates from start to finish.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0FS2KBVWF"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/onebattleafteranother.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/onebattleafteranother.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Good Fortune",
-    "review": "Arj wants to direct documentaries but can't find a job. Until then, he works part-time at Hardware Heaven and takes gig work for the Task Sergeant app. His next task is to wait in line to buy cinnamon rolls. The server tells everyone in line that they are out of stock. However, she hands Jeff some after everyone leaves. At Hardware Heaven, Arj meets Elena. She wants to start a union for better pay. Arj expresses that it won't help, so Elena walks away. Arj accepts a task to clean a garage. Surprisingly, it's for Jeff. He does a great job and overhears that Jeff lost his assistant. Arj offers his services, and Jeff puts him on a one-week trial.<br/><br/>Gabriel is an angel who saves people from being in a texting and driving accident. He saw Arj texting that his life wasn't worth living before saving him. Gabriel thinks Arj is a lost soul who needs help. Martha calls an Angels meeting. A lost soul's angel, Azrael, tells stories of changing people's lives. It inspires Gabriel.<br/><br/>After a few more run-ins, Arj impresses Elena, and they plan to go on a date. Arj tells Jeff about the upcoming outing, and Jeff advises Arj to take Elena to a nice restaurant. He allows Arj to borrow a jacket and gives him a credit card for company expenses. Unfortunately, the bill is over $300. He uses the corporate card to pay.<br/><br/>Arj arrives for work, and Jeff fires him for using the corporate card for personal business. Arj puts his head in his hands. To Gabriel, Arj looks like a lost soul. He introduces himself to Arj and shows Arj his future to give Arj hope. However, Arj's future is bleak. Gabriel gets an idea. He will switch Arj's life with Jeff's so Arj can see how unfulfilling money can be.<br/><br/>Later, Gabriel meets with Arj to see what he's learned. Arj learned that money is fabulous. Gabriel can't switch them back until Arj desires to change. So he makes himself visible to Jeff and explains the situation. He demands to have his life back, but Arj says no. When Martha discovers what Gabriel did, she fires him. He will become human. Gabriel will only return to his angel form when Arj and Jeff return to their lives. Can Gabriel convince Arj to switch so he can become an angel again?<br/><br/>This film is an honest and delightful view of the average person's struggles. The script gives you the horror stories of gig work, along with the community it builds. The comedic timing in this movie is stellar and goes for the educated laugh. The conclusion is beautiful. This movie starts like It's a Wonderful Life, but becomes much more. The theme is for the modern-day audience and touches the soul. The edits aren't smooth, but it doesn't distract from the message.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0FSGB9W7Z"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/goodfortune.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/goodfortune.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "The Long Walk",
-    "review": "Raymond Garraty, along with 49 other young men, received a letter from The Major. Out of the applicants from his state, the Major chose him to participate in the long walk. The winner will receive a monetary prize and one wish. Garraty's mother, Ginnie, cries as she delivers her son to the starting point. She begs him to quit, but the deadline was yesterday. He grabs his gear and baseball before hugging Ginnie goodbye.<br/><br/>Garraty enters the gates and sits with the other young men. He meets Peter McVries, a man who wishes to do good with the prize. Stebbins is the strongest of the bunch. Arthur Baker's faith inspires him, and Hank Wang focuses on the untold riches. Gary Barkovitch is a loner, and Collie Parker wants to document the experience. Then, the Major walks onto the tank and explains the rules. They must walk 3 miles per hour with no finish line in sight. If they slow down, they get one warning and have 30 seconds to regroup. The third warning means death. They will face instant death if they run away or step off the pavement. It's walk or die. While others want riches, Garraty has another reason to enter this competition: revenge. Who will win?<br/><br/>Based on the novel The Long Walk by Stephen King, this dystopian thriller shares similarities with the original, but it's not a retelling. However, the film retains the book's impact. The director made a bold choice by using natural lighting and empty surroundings to draw the audience's focus to the contestants. Also, the surroundings mirror their despair. The graphics department didn't shy away from the blood and gore. Unlike the Hunger Games, the Major is not a man of reason. He is unflappable, rigid, and single-minded. Also, the juxtaposition of the final stretch breaks your heart. The winner breaks down in gut-wrenching sobs as the crowd celebrates with fireworks and the national anthem. It's a moment that will stick with you after the film. The studio labeled the film a horror, but it's a warning. You should see this film if you can stomach the unflinching violence.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0FQ7HP5ZL"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelongwalk.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelongwalk.jpg"
     }
   }
 ];
@@ -98,32 +98,6 @@ module.exports = mustBuy;
     }
   }
 
-   {
-    "option": "1",
-    "mtitle": "Zootopia 2",
-    "review": "Partners Judy and Nick became famous for saving Zootopia from a civil war. However, Chief Bogo thinks it was a fluke because they are different. Bogo presents their latest case to the squad. It's a crooked dock inspector. He gives the team their assignments and puts Nick and Judy on observation. However, they aren't there. Officer Clawhauser informs Bogo that Nick and Judy are on the scene and took the lead.<br/><br/>The bust becomes a TV spectacle, putting Judy and Nick in the hot seat. Judy tries to explain that she found snakeskin in one of the crates, but Bogo won't listen. Besides, reptiles haven't been in Zootopia in 100 years. That's when they created the weather wall. Judy discovers that the culprit will be attending the Zootenial Gala. Zootopia's founder, Ebenezer Lynxley, will be honored at the event. His family will display his journal, which contains the idea and blueprints for Zootopia.<br/><br/>Judy convinces Nick to attend the gala undercover. Judy bumps into Pawbert Lynxley, Ebenezer's grandson, and he's smitten with her. His father, Milton, runs the family business and upholds the legacy with his other two children, Kitty and Cattrick. Nick shines a light on the culprit before they grab the journal and try to run away. Judy and Nick follow them into a private room and remove their cloak. It's Gary De'Snake. He tells Judy they aren't the bad guys and the journal can prove it. Before Gary reads the journal, Milton, Kitty, and Cattrick kick open the doors. Bogo barges into the room, and Gary accidently bites him with one of his fangs. Judy breaks it and holds it in her hand. When the other officers enter, Milton says Judy, Nick, and Gary attempted to kill Bogo. They escape before the police arrest them, but they are enemy number one. Can Judy and Nick clear their name while helping Gary uncover the truth?<br/><br/>This sequel is clever, endearing, and funny. It covers perception, smear campaigns, history washing, and forced migration with ease and compassion. During these hard-hitting topics, the script tackles the partnership between Judy and Nick. The animation rivals the first film. Disney manages to give the animals human-like qualities while displaying their unique animalistic characteristics. This installment expands the animal world while rooted in its core cast. The beginning recaps what happened in the first film, so you don't have to see it to enjoy this. The end-credit scene gives the viewer a hint at what is to come. See Zootopia 2 with the whole family today.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0GKTYTY3J"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/zootopia2.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/zootopia2.jpg"
-    }
-  }
-
-  {
-    "option": "2",
-    "mtitle": "The Running Man",
-    "review": "Ben asks his old boss, Richard, to remove him from the blacklist. Ben can't find work with the scarlet letter on his record, and his daughter, Cathy, is sick. However, Richard won't change his mind because Ben spoke to union leaders about his working conditions. Ben will remain on the list.<br/><br/>Ben watches game shows with Cathy until his wife, Sheila, returns home. She wants to spend time with Cathy, but changes her mind after feeling Cathy's fever. He hates that she has to flirt with wealthy men for tips, especially after one client killed her co-worker. He gets an idea. He will go to the network building and be a contestant on one of their shows. Sheila rejects the idea because she fears he will try out for The Running Man. Ben assures her he would never try out for that game before leaving.<br/><br/>Ben walks through the gates of the network building. They pull up his work history and tell him to go to elevator 26. Hopeful contestants, Jenni and Tim, greet Ben. The Network showrunners perform physical and psychological tests on the contestants. To Ben's surprise, they picked him to be on the Running Man. Ben tries to force them to change, but they refuse.<br/><br/>Ben meets with the Network owner, producer Dan. Dan shows Ben the lucrative contract. He gets a bonus for every day he remains alive and a $500 signing bonus. Ben signs the contract and assures Dan he will be the first contestant to go the distance.<br/><br/>Dan introduces Ben, Tim, and Jenni to the show's hosts, Bobby T.. Bobby gives a quick hello before running on the stage. Ben rages at the false narrative Bobby spins to make the fans hate him. Then, Bobby gives the rules. The runners will have a 12-hour head start. The further they go, the more money they will make. They have to film themselves every day for 10 minutes and drop it in a mailbox. If they don't, they won't get the money, but the hunters will still come after them. They have to last 30 days. Ultimately, they will receive $1 billion. Will he survive the Running Man and make it home to his family?<br/><br/>Based on The Running Man by Steven King, this film has a spectacular pace, wild stunts, and a fresh twist on a familiar plot. This film isn't just about a man running for his life. It's a searing indictment of media manipulation by corporations. The director uses different camera techniques to capture Ben's runs. It could be a steady drone camera shot, a GoPro-style shot, a handheld camera shot, or standard movie framing. These changes display an enticing view of Ben and his run. The soundtrack stays in step with Ben's speed and gets you excited. The action slows with a purpose. It speaks to corruption, pollution, and screen addiction. The plot delivers these messages without getting too topic-heavy or self-righteous. This film is an exciting and violent ride.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0FZM4QCH2"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/therunningman.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/therunningman.jpeg"
-    }
-  }
-
   {
     "option": "4",
     "mtitle": "Sarah's Oil",
@@ -147,19 +121,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thehousemaid.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thehousemaid.jpg"
-    }
-  }
-
-  {
-    "option": "2",
-    "mtitle": "Ella McCay",
-    "review": "Lieutenant Governor Ella McCay approaches her office when her secretary, Estelle, hands Ella a letter. A reporter wants exclusive access to her. If not, he will release damaging information he has about her and her husband, Ryan. Ella pushes the matter aside and jumps in her vehicle. Her driver, Trooper Nash, drives Ella to her aunt's bar. Aunt Helen raised Ella since she was 16 and has been the voice of reason for Ella. Helen's advice is to dump the dead weight: Ryan. Ella refuses because he's provided a sense of fun for her.<br/><br/>Ella returns to work, and Governor Bill is waiting in her office. The President chose Bill as the next Secretary of the Interior, and Bill will name Ella the acting governor immediately. While Ella is good at passing legislation, she isn't well-liked amongst constituents. Ella believes she can win them over with her tooth tutor and well baby legislation. Bill shakes his head, stands up, and grabs the doorknob. He lets Ella go first and announces her promotion. Ella shies away from the camera as Ryan smiles for the it, grabs her, and dances with her. She wants to do good for her state, but life will happen.<br/><br/>Ella McCay is a smartly-written film about family, relationships, and politics. The plot teaches micro lessons in civics while entertaining. Ella is highly capable and intelligent. However, she has anchors pulling her down. Sadly, she doesn't see how her two biggest pitfalls mirror each other until it's too late. The cast did a stellar job of acting with little dialogue. They let their facial expressions and hand gestures convey the message. At the conclusion, this picture will encourage you to scream healthily.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0GJ6W9RYW"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ellamccay.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ellamccay.jpg"
     }
   }
 
