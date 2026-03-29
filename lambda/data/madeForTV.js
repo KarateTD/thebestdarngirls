@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "The Man in the Window",
+    "review": "Julia arrives home after her 1st year in college. Her mother, Sarah, has been anxiously awaiting her arrival. The two enjoy a dinner together before Julia puts a speed-dating flyer on the table. It's been a year since Sarah's husband, Richard, died. Julia thinks it's time for her mother to put herself out there and meet someone new. After a plethora of bad dates, Sarah meets Jack. They laugh because Jack moved into the house across the street. Julia and Sarah return home and get a fright. Sarah's best friend, Luna, is waiting for them. The three laugh and open a bottle of wine before discussing their dates.<br/><br/>In the morning, Julia discovers that she matched with Neil. Sarah checks her email to see that she and Jack are a match. Jack and Sarah have a lovely night. She returns home and listens to the latest news report about the local hit-and-run murders. It stirs up bad memories about losing Richard.<br/><br/>Sarah waits for Julia to return home after her date with Neil. Then, she sees police cars next door and runs outside. She interrupts the police questioning Jack. Someone murdered her neighbor, Sylvia. The detective notices the security cameras on Jack's property. He allows them to look at the footage. When the police fast-forward, they notice 20 minutes missing. Jack promises to contact the security company to retrieve the information.<br/><br/>Jack and Sarah enjoy another evening together until she sees Sylvia's gardening hat in his home. She panics and excuses herself. She breaks into Jack's home, but the evidence is gone. Jack's alarm alerts the police, and they find her inside. Sarah tells them that he has Sylvia's hat, but it's gone. After talking to Jack, they decide not to arrest Sarah. He feels bad for her. He lost his wife two years ago and went through an emotional spiral. He believes Sarah is hurting. Sarah returns home and vows to prove that Jack killed Sylvia. Can she solve the murder?<br/><br/>This movie starts with the typical Lifetime setup. The audience will yearn to predict the ending and walk away. That's your biggest mistake. The last 15 minutes will surprise you. The writer constructed the plot perfectly to give the audience a false sense of security. And the actors executed it flawlessly. The plot has two large potholes. What happened to Neil? And why did Sarah get dizzy during dinner? Those holes will linger in your mind after the credits roll. The twist makes up for it. This movie starts as a trope but delivers so much more.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/themaninthewindow.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/themaninthewindow.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "The Little Boy Who Went Missing",
+    "review": "Nicole takes her son, Casey, on a getaway to heal their strained relationship after divorcing her husband, Dan. After the flight, they get their room and settle in. As Nicole sips drinks, she sees Casey walk around the pool, but she keeps mum. Casey sees a teen harassing a little boy, Jacob, and defends Jacob by breaking the bully's nose. The concierge states that the hotel has a zero-tolerance policy for violence. So they must leave tomorrow. Nicole is furious until Jacob's parents, Lori and Tom, approach. They thank Casey for standing up for Jacob. And they cannot believe the hotel is kicking them out. So, Tom makes a veiled threat to expose the hotel on social media. The concierge allows Nicole and Casey to stay.<br/><br/>Nicole and Casey meet Tom, Lori, and Jacob for lunch. Nicole, a high school principal, feels like she's seen Jacob somewhere before. She starts to notice strange behavior from Tom and Lori. So she searches for Jacob online. She finds a poster of a missing child resembling him. Nicole discovers the missing little boy is Ben. His widowed father, Rex, is desperately looking for him. The police have no leads to Ben's location. Nicole tells Casey that she wants to contact Rex, but Casey thinks it's a bad idea. Either way, Tom and Lori are a step ahead and will do anything to keep Jacob. Can Nicole save him?<br/><br/>This film proves 'the road to hell is paved with good intentions.' As Nicole crusades for Jacob, the viewer knows something deeper is happening. The subtle contrast between the light and dark settings plays with your emotions. It's been a while, but this film gives Lifetimers a treat. The police do their jobs. They thoroughly investigate everyone's background, believe the reporter, and validate evidence. It's the most shocking aspect of this story. The lesson in this movie is 'minding your business is free.'<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelittleboywhowentmissing.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelittleboywhowentmissing.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "Who Could Kill a Sweet Old Lady",
+    "review": "Edie gets a call from her boss, Bobby. He wants her to start with a new client, Linette, today. Edie works as a live-in nurse. Her last client passed away. Edie's roommate, Claire, begs Edie to take a day off, but Edie won't. Edie arrives at the sprawling mansion and meets the gardener, Mateo. Linette barely speaks to him, so he doesn't know much about her. Edie enters the home, and Linette demands that she leave. However, Edie refuses because her clients come first.<br/><br/>Edie accompanies Linette to the bank. She sticks up for Linette when the bank manager questions Linette's decisions. Linette grows fond of the young woman. Later, Linette explains that someone is after her for her money. Someone broke in recently, set off the alarm, and attacked her previous nurse. Edie is on high alert and assures Linette she will keep her safe. Edie spends the night, and the alarm sounds again. She contacts the police, but they don't help. Edie swears to uncover who's trying to kill Linette. Can she unmask the culprit?<br/><br/>This movie takes the scenic route to the point. However, the final reveal makes it worth it. The writers make Linette an unhinged grandmother that everyone should have. The audience will fear that something is wrong as Linette's world crumbles. She deals with scammers, stalkers, and distant relatives. Everyone becomes suspicious, even Edie. The doubt makes this a film exciting. However, the culprit's monologue is redundant but a fun surprise.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/whocouldkillasweetoldlady.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/whocouldkillasweetoldlady.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "Two for Tee",
+    "review": "Tee volunteers at The Learning Tree community center while running her store, The Retro Metro, down the street. She loves teaching her pottery class. During class, a man named Will enters. Will's lost and needs to find the director, Liz. He's interviewing for the handyman position. Tee makes him promise to fix their fan if he gets the job. He agrees with a smile. She gives Will directions, and her students giggle about the handsome stranger. Liz gives Will the job, and he starts working immediately. Will fixes the fan and locates Tee's cell phone. A student gives him directions to her store.<br/><br/>Tee goes to her store, and her cousin, Theo, encourages her to attend a gallery opening. Theo wants Tee to talk to the gallery owner, Ken, so he can sell her art. When she doubts her abilities, Tee's mother, Lilianne, reminds Tee about her resolution. Tee wanted to be brave this year. Tee decides to attend the gallery opening with Theo by her side. Then, she realizes her phone is missing. Luckily, Theo has pictures of Tee's artwork on his device. She shows Ken her work, but he says it's not enough. It shows technique but not passion. He offers to give Tee a spot in his next showcase if she has something personal to display.<br/><br/>Will arrives at Tee's store, but she isn't there. Lilianne tells him to take the phone to the gallery opening. Will arrives and gives Tee her phone. She's happy to have her phone, but deflated by Ken's comments. Will walks Tee home and gives her a boost of confidence. She explains that she's Chinese American. While she understands her American side, Tee's never delved into her Chinese heritage. She sits with Lilianne and learns about the Yixing tea set her great-grandfather made. She's inspired to do the same for her meeting with Ken.<br/><br/>Will and Tee get a frantic message from Liz. The county wants to close the community center. Will and Tee vow to bring awareness about the center's good deeds. Until then, Will offers to work for free for a good review on his business website. As Tee and Will work together, Tee will fall in love with her heritage and Will.<br/><br/>This Hallmark film is a love story, but it's not romantic love that gains your attention. It's Tee's love for culture. The writers ensured that Tee didn't dislike her ancestry. However, she was more disconnected. The backing track had an American flair with Mandarin vocals and instruments. It was heartwarming to see the two worlds meld together in the foreground and background. This storyline will capture your attention, placing the others in the background. It's an endearing film that introduces Hallmarkies to an exquisite art form and culture.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/twofortee.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/twofortee.jpeg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "I Killed Him In My Sleep",
     "review": "Kelty answers questions before entering a sleep study for money to finance her upcoming wedding. The nurse asks about any psychological issues that could have caused Kelty's sleepwalking. Kelty was in a car accident, leading to someone's death. She became depressed, suffers from PTSD, and started sleepwalking. The nurse approves Kelty for the sleep study and asks her to return the following day. Later, she goes home to her fiancé, Evan. Kelty fears Evan will leave her if she doesn't get better soon. Evan assures Kelty that he won't leave her side. However, he believes he should lock her in at night so she won't hurt herself. Kelty refuses.<br/><br/>Kelty meets with Dr. Jonathan Baylour at the clinic. Jonathan gives Kelty an injection, and she falls into a deep sleep. She dreams about a man bleeding in an alley after a knife attack. She wakes up with the horrifying images burned in her brain. Kelty attempts to forget about them until she sees a picture of the man, Alex, on the news. Police discovered his body days ago. She fears she killed Alex. Kelty won't give up until she uncovers the truth, no matter who it hurts, including her.<br/><br/>Based on 'Don't Fall Asleep' by Marissa Flinch, this film features a slow pace with several twists and turns. However, the killer's status is unknown and left up to Lifetimers to conclude. Each revelation gives the audience a glimpse into Kelty's tragic backstory. The flashback scenes are jostling, while the audio is sometimes garbled. Also, the text on the screen is very difficult to read. The characters should have read them out loud. The lead actress puts her all into this role, and it shines through. You will feel genuine concern for her. Also, the killer's motive is disturbing. This film is enjoyable if you have the patience for a slow burn.<br/><br/>3.5 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ikilledhiminmysleep.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ikilledhiminmysleep.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "My Daughter Was Taken",
-    "review": "Betty FaceTimes her daughter, Zara, while on vacation. She's happy to see Zara at home, but wants to know why she's there. Zara laughs, but avoids the topic. Then, she angles away from the dirty dishes in the background. Zara hears a sound off-camera and asks Betty to hold while she investigates. Betty hears Zara screaming for help, but can't do anything miles away. Betty rushes home and finds her ex-husband, Sebastian, waiting for her. She's surprised that the police aren't canvassing the neighborhood. Since Zara has a history of running away, the police didn't do a thorough investigation. They assume Zara will return home after a few days. Betty enters her home and finds it suspiciously clean. She recalls that Zara left the kitchen a mess. Betty refuses to believe that Zara ran away because she heard Zara begging for help. She will do anything to find her daughter alive. Too bad everyone is keeping a secret from Betty. Can Betty find Zara before it's too late?<br/><br/>Lifetimers can agree that everyone in Betty's life is awful. They keep secrets from her when she needs them. The script gives everyone a moment of clarity. Then, they reveal a hidden truth about Zara. The plot keeps you guessing about the culprit's motive because everyone is hiding something. But the biggest liar is Zara. While the script foreshadows Betty's past as the catalyst, it's Zara's misgivings that drive the culprit. The audience can uncover the shocking truth with Betty with the script's setup. The film has great pacing, lots of action, and an acceptable body count. This movie entertains, but has a few lulls.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mydaughterwastaken.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mydaughterwastaken.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "The Seemingly Perfect Family",
-    "review": "Lexi isn't celebrating her 18th birthday like other teenagers because she's aging out of the foster care system with nowhere to go. Lexi prays that her mother, Amber, will be granted parole in a month. Until then, Lexi must figure something out fast. She overhears another teen, Blair, talking about her upcoming interview with the Sterlings for an au pair job. The job comes with weekly pay, room and board, and a car. Lexi texts Blair from an unknown number and cancels her interview.<br/><br/>Lexi arrives at the café and meets Daniel and Chelsea Sterling. They assume she's Blair, so Lexi asks them to call her by her middle name. Daniel takes a shine to Lexi, but Chelsea's unsure. They expect Lexi to be available 6 days a week, 24 hours a day. She agrees. Lexi arrives and meets their infant son, Beau. Daniel quickly places Beau in her arms and takes pictures. Lexi believes she found the best place to hide out until Amber's released. However, she's inside the viper's nest. Will she survive?<br/><br/>This film goes off the rails, and you will love it. Lexi, like the audience, knows the family has problems. However, she toes the line for stability. The plot is successful because it leads the viewer to believe one person is causing the family's ruin. However, one blow to the head shocks you. The last 10 minutes will have an experienced Lifetimer on their edge of their seat. While this film has common themes, it explores new and compelling dynamics with a surprising twist. The body count is low, but the film still entertains.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theseeminglyperfectfamily.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theseeminglyperfectfamily.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "The Boy With My Son's Face",
-    "review": "As Susan marvels over her newborn, Dylan, her husband, Mark, furiously texts someone. He puts his phone down and admits he has been communicating with her father, Neil. She seethes because she and her father don't get along. Neil arrives with his girlfriend, Jenny. They make Susan uncomfortable until Mark pushes them out the door.<br/><br/>As the days go by, 'mommy brain' affects Susan's professional and personal life. Her friend, Alice, believes Susan could have postpartum depression. Later, Susan hears Dylan's cries on the baby monitor. She goes to his room, calms him, and hears something fall downstairs. She finds a lamp on the ground when Dylan screams. She runs to his room, but he's not in his crib. She wails and calls 911 for help. Susan sees a shadowy figure as she speaks to the dispatcher. She grabs a golf club to defend herself when Mark stands next to her with Dylan in his arms. He says the baby was in his crib the entire time.<br/><br/>Mark convinces Susan to talk to therapist Dr. Nicole Riley. She prescribes medication, and Mark hires a nanny, Amy. Instead of helping Susan, the assistance sends her into a downward spiral. She becomes unhinged and dispondent. Susan fires Amy on a whim and begs Mark to be home more. Susan wakes from a daze, and everyone demands to know Dylan's location. After an exhaustive search, police are unable to locate his remains and declare the infant dead. Everyone turns against Susan, except Mark. The state charges her with criminally negligent homicide, and Susan serves 4 years in prison.<br/><br/>Susan enters a halfway house and gives employers a fake name. She works at a dive with a waitress, Cassie, and the two bond. One night, someone slips a picture of a young boy with Dylan's birth certificate. Susan runs after them, but they get away in a silver van. Susan believes Dylan is alive, but can she get anyone else to believe her?<br/><br/>This film is told in two parts: The Downfall of Susan and Susan's Revenge. The film starts as a classic Lifetime picture. A loving family hires someone to help as mom's life falls apart. However, the plot goes a step further. Mom goes to prison, and the viewers get a four-year break. Susan rebuilds her life and confidence. Lifetimers should prepare to experience a gamut of emotions because the thespians don't hold back.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theboywithmysonsface.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theboywithmysonsface.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Nelly Knows Mysteries: All Matters of Murder",
-    "review": "Fiona reads Nelly's latest advice column response. A woman wants to know how to reconnect with her estranged family. Nelly gets a phone call as they examine the writer's sentence structure. It's the writer, Palmer. Palmer asks Nelly to meet her at her manor. Nelly agrees.<br/><br/>Nelly arrives at the manor and meets Palmer's butler, Norman, and her dog, Moxie. Palmer loved Nelly's advice. However, she wants Nelly to attend her dinner party to mediate during her big announcement. Nelly asks if she can bring a plus-one.<br/><br/>Nelly and Michael arrive at the manor. He sees the caterer, Leah, and hides in the bushes. He avoids the topic with Nelly as they stroll inside. And they get to know the guests. Carla is Palmer's sister-in-law. Palmer's brother, Hux, is a property developer. He handles his business with the same heavy hand that he uses on his son, Teddy. As Nelly looks around the room, there are only two people, a man and a woman, whom she isn't familiar with. However, Michael recognizes the man as a lawyer named Adam.<br/><br/>At dinner, Nelly discovers the unknown woman is Bree. She is Palmer and Hux's half-sister and feels like an outsider. The family starts to argue as Palmer predicted. Then, Palmer makes her announcement. She's changed her will. The only beneficiary of Palmer's fortune will be her dog, Moxie. They can't believe Palmer removed her family from the will. Later, the family reconvenes in another area. Then the power goes out, and gunshots ring through the air. When the lights turn on, Adam is dead, and Palmer has a bullet hole in her hat. Michael and Nelly believe a member of Palmer's family attempted to kill her before she could finalize her will. Sadly, they killed Adam instead. Can Nelly and Michael unmask the murderer before they eliminate Palmer?<br/><br/>The next installment in this series has something for everyone, and it's funnier than the first. The writers hit comedic gold as Nelly explains how everyone could have hidden a gun. Unknowingly making Michael's job more complex. Unlike other Hallmark movies, Sheriff Burgi suggests Michael work with Nelly as a consultant on the case. This installment expands on Michael's background. We learn he is a compassionate man with a sad but humble past. The characters jump off the screen; a testament to great acting. The final reveal holds more secrets than you think. So stay for the motive. This newest Hallmark mystery hits it out of the park.<br/><br/>5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/nellyknowsmurderallmannersofmurder.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nellyknowsmurderallmannersofmurder.jpeg"
     }
   }
 ];
@@ -59,35 +59,35 @@ module.exports = madeForTV;
 
 {
 "option":"1",
-"mtitle":"The Man in the Window",
+"mtitle":"Rescued By Faith: The Connie and Larry Von Oosten Story",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/themaninthewindow.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/themaninthewindow.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/rescuedbyfaithconnieandlarryvonoosten.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/rescuedbyfaithconnieandlarryvonoosten.jpg"
 }},
 {
 "option":"2",
-"mtitle":"The Little Boy Who Went Missing",
+"mtitle":"Don't Trust the Couple Upstairs",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thelittleboywhowentmissing.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thelittleboywhowentmissing.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/donttrustthecoupleupstairs.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/donttrustthecoupleupstairs.jpg"
 }},
 {
 "option":"3",
-"mtitle":"Who Could Kill a Sweet Old Lady",
+"mtitle":"Picture Perfect Sister-in-Law",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/whocouldkillasweetoldlady.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/whocouldkillasweetoldlady.jpg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/pictureperfectsisterinlaw.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/pictureperfectsisterinlaw.jpg"
 }},
 {
 "option":"4",
-"mtitle":"Two for Tee",
+"mtitle":"A Royal Setting",
 "review":"<br/><br/>* out of 5 stars.",
 "image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/twofortee.jpeg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/twofortee.jpeg"
+"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/aroyalsetting.jpg",
+"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/aroyalsetting.jpg"
 }}
 
 */
