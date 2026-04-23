@@ -1,7 +1,7 @@
 {
   "author": "Tiffany Gray",
   "dependencies": {
-    "ajv": "^6.12.6",
+    "ajv": "^8.18.0",
     "alexa-sdk": "^1.0.6",
     "ansi-regex": "^6.0.1",
     "ask-sdk": "^2.14.0",
