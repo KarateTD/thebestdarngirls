@@ -1,6 +1,30 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "I Can Only Imagine 2",
+    "review": "I Can Only Imagine 2 was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0GKPZNYMD"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/icanonlyimagine2.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/icanonlyimagine2.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Solo Mio",
+    "review": "Matt finds a letter from his fiancée, Heather. She got cold feet and chose not to go through with the wedding. Matt assumes she's fleeing to the U.S., leaves the venue, and runs to the airport. He feverishly texts Heather, and she admits that she didn't leave Italy. Matt arrives at the hotel and requests to cancel his honeymoon package. The concierge says that's not possible and suggests Matt enjoy the trip alone.<br/><br/>Matt maneuvers around rambunctious children and enters a coffee shop. The owner, Gia, runs out before Matt requests a coffee. Gia returns and gives Matt his wallet. She warns him that the children are pickpockets. They sit and have a lovely conversation. He invites her to the next event, and Gia politely refuses because she has to work. Matt leaves and sits on his tandem bike. Then, Gia's ex-boyfriend, landlord Vincenzo, enters and demands to talk. Gia makes a hasty exit and jumps on Matt's bike. The ride around town, eat, and enjoy each other's company.<br/><br/>Later, Matt sits alone at a restaurant. Newlywed Julian sits in the other seat and questions why Matt is solo. He saw Matt with Gia and thought they were a good match. It doesn't take long for Julian to summarize that someone left Mat at the altar. He wants to be Matt's wingman and help him overcome his hurt. Julian and his wife, Meghan, invite Matt to spend the evening clubbing with them. At the piano bar, Julian introduces Matt to newlyweds, Neil and Donna. Julian urges Matt to drink, dance, and mingle. However, Neil believes Matt should embrace his pain and avoid new relationships. Then, Gia walks into the club. Julian vows to bring the two together. With newfound friends by his side, Matt will discover the beauty in being solo, finding love, and embracing Italian culture.<br/><br/>This movie proves that romantic comedies can be interesting, funny, and charming. Matt isn't a man set on revenge dating. He's genuinely hurting. It breaks his heart to be the odd person out. Julian and Neil are two sides of the same coin. They want the best for Matt, but the writer gave them different approaches. These conflicting styles add a new layer of intelligent comedy to the script. And the conclusion brings a shocking twist that will leave your jaw on the floor. This film is a great date movie that will entertain everyone.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0GLHBKG8J"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/solomio.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/solomio.jpeg"
+    }
+  },
+  {
+    "option": "3",
     "mtitle": "Send Help",
     "review": "Linda gives Donovan the company report and rises, following him to the meeting. Donovan stops her and says they downsized the meeting. He leaves, and she hides behind the corner to watch him. He takes the Post-it Note with her name off the report and takes credit for her work. Linda fumes at home with her bird, but resigns to Donovan's behavior. The president of the company passed away, and his son, Bradley, will take over. Before he passed, he told Bradley to promote Linda to a vice president position to reward her years of dedication and service.<br/><br/>Linda beams as she thinks about her future until she hears a co-worker talking about an interoffice memo. It announces Donovan as the next vice president. The rage in Linda boils over, and she charges into Bradley's office. He explains that he objected to his father's opinion because Linda doesn't present well. They have a deal to close in Shanghai. If she can close the deal, he will consider her for the position.<br/><br/>Linda arrives at the hangar and boards Bradley's private jet. She works on the documentation while the men childishly converse. Linda hears them laughing between songs and removes her earbuds. She uncovers that they are laughing at her Survivor audition tape. The flight attendant instructs them to buckle their seatbelts due to incoming turbulence. Bradley, safely in his seat, heckles his friends for following her orders. So, they ignore her and chuckle. The plane crash-lands in the ocean.<br/><br/>Linda wakes on a deserted island. She finds Bradley with a horrible gash on his leg. Bradley wakes up a day and a half later. He demands that Linda follow his orders and build a raft to take them to safety. Linda pauses at his ungrateful nature. Bradley scoffs and reminds Linda that she works for him. Linda chuckles. With her survivalist skills, she is running the show. Will they survive?<br/><br/>This film is for anyone who feels overlooked or underappreciated. Linda is the office misfit. The writers added this to her personality to explain why she desperately seeks friendship and validation. The editor slowly panned over her books as Linda cooked. An eagle-eyed viewer will spot books about survival, tying knots, and poisonous plants. The storyline made Linda conditioned for the outdoors. This trait bubbles over into her work life. This movie fails with its CGI. The crash and boar scenes are distracting and overly digitized. This film's gem is the dialogue. It's witty, dark, and unhinged. This picture is worthy of the big screen.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -12,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "4",
     "mtitle": "Queen of the Ring",
     "review": "Waitress Mildred Burke is a single mother who works in her mother's diner. However, Mildred never wants to be ordinary. She dreams of being a wrestler, but every state bans women in the squared circle. Mildred and her mother, Bertha, attend a wrestling match and watch Billy Wolfe win.<br/><br/>Billy and his son, G. Bill, patronize Bertha's diner. Mildred approaches Billy and gushes over him. She asks Billy to train her, and he says no. Months later, Billy and G. Bill enter the restaurant again. Bertha encourages Mildred to approach Billy again but tells Mildred not to back down. Mildred spews fire towards Billy, and he loves her moxie. He offers to train her the next day.<br/><br/>Mildred arrives at the carnival, and Billy and G. Bill sit outside the ring. To prove her worth, Billy has Mildred face a man. She wins and impresses Billy. Billy and Mildred work the carnival circuit but can't get legitimate work until the states lift the ban. Over time, Mildred becomes a household name and creates a business with Billy. Mildred chooses to marry Billy to solidify their professional relationship. That decision will impact Mildred's life and professional wrestling, but force her legacy in darkness for years.<br/><br/>Based on the novel The Queen of the Ring: Sex, Muscles, Diamonds, and the Making of an American Legend by Jeff Leen, this movie is the hidden history in professional wrestling. Mildred was the first million-dollar female athlete and accomplished it while being a single mother. She refused to let the era dictate her path. Instead, she played within it. The film credits Billy with elevating women's wrestling and integrating the sport. However, the film didn't skip past his abusive nature in and out of the ring. The audience doesn't need to be a wrestling fan to appreciate the picture. The costumes, hair, makeup, and wrestling style perfectly encapsulate the period. This film is an astounding tribute to the sport and Mildred's legacy. It's for everyone.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -24,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "5",
     "mtitle": "Mercy",
     "review": "Mercy was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -33,30 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mercy.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mercy.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Marty Supreme",
-    "review": "Marty Mauser works at his uncle Maury's shoe store. As Marty sneaks in his girlfriend, Rachel, Maury asks to meet with Marty. He hands Marty a business card with Marty's name and the title 'Manager' on it. Marty reminds Maury that he doesn't want to sell shoes. Also, Maury's son, Lloyd, will dislike being passed over. Marty dreams of going to the British Open for Table Tennis.<br/><br/>Later, Marty practices with his friend, Wally, and returns to the store for his check. Lloyd locks the safe, and Marty grabs a gun from Maury's desk. Marty threatens to shoot Lloyd over the money. Then, Marty shows Lloyd the business card. Lloyd opens the safe and gives Marty $700.<br/><br/>Marty arrives in London and hates his accommodations. After making it to the finals, Marty sits down with reporters. They stop talking when actress Kay Stone enters. Marty sets his sights on her and invites her to his room. Before the finals, Marty takes a moment to cozy up to Kay's husband, Milton. However, Marty's plans shatter when he loses to Japanese hopeful Koto Endo. Marty will do anything to prove his purpose: to dominate table tennis. Will he prove the world wrong and become the face of the sport?<br/><br/>It's not easy, but the writers make every character in this film unlikable. It should be about one man's triumph over his doubters. However, Marty is condescending, arrogant, rude, and manipulative. The audience prays for his downfall to humble him. Inspired by Marty Reisman, the technology and style follow the 1950s, but the slang falls short. This picture is Oscar-worthy because the acting is phenomenal. However, the audience won't cheer for anyone.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0G3XVJ7H1"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/martysupreme.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/martysupreme.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "The Housemaid",
-    "review": "Millie arrives at the Winchester Estate, and Nina Winchester greets Millie with a smile and hor d'oeuvres. Nina examines Millie's résumé and qualifications. She reiterates that the position is a live-in maid. Nina confesses that she's expecting but hasn't told her husband, Andrew, or daughter, CeCe. Millie thinks everything is wonderful. Nina expresses that she has more applicants to interview before choosing a housemaid. But she will call Millie back soon.<br/><br/>Millie drives away, removes her glasses, and rolls her eyes. She never expects to hear from Nina again. Millie is on probation for 5 years after serving 10 years in prison. She knows one background check will rule her out. Millie takes showers in gas station bathrooms, applies for any job, and sleeps in her car. When her phone rings, it's Nina offering Millie the job. She wants Millie to start as soon as possible, and Millie is willing to do so this afternoon. Millie thinks her prayer has been answered. She has a steady job, a paycheck, and a place to live. Her probation officer will be pleased. However, Millie has no idea the danger lurking behind the iron gate.<br/><br/>Based on The Housemaid by Freida McFadden, this film is a wild ride that plays with motifs, surroundings, and wardrobe to convey deeper meanings. The house is void of color except for one bathroom with snake wallpaper. Nina always wears a hue of white until the telling ending. She's seen as clean, perfect, and pure. Millie and Andrew stain on the screen as they wear darker wardrobes. The different angles show the power dynamic shift throughout the film. It will leave you dizzy. Also, the split screens and overlays of different people experiencing the same turmoil are jaw-dropping. This film will make you want to read the book and compare it. It's pragmatic, cultural, and surprising.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0G3CNZSTC"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thehousemaid.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thehousemaid.jpg"
     }
   }
 ];
@@ -85,24 +85,11 @@ module.exports = mustBuy;
   }
 
   {
-    "option": "4",
-    "mtitle": "I Can Only Imagine 2",
-    "review": "I Can Only Imagine 2 was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0GKPZNYMD"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/icanonlyimagine2.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/icanonlyimagine2.jpg"
-    }
-  }
-
-  {
     "option":"1",
     "mtitle":"Normal",
     "review":"Normal was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
-      "re": ""
+      "re": "B0GVGVJ8C7"
     },
     "image":{
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/normal.jpeg",
@@ -127,7 +114,10 @@ module.exports = mustBuy;
     "option":"1",
     "mtitle": "RZA's One Spoon of Chocolate",
     "review":"RZA's One Spoon of Chocolate was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "iamge":{
+    "asin": {
+      "re": ""
+    },
+    "image":{
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/onespoonofchocolate.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/onespoonofchocolate.jpeg"
     }
@@ -156,19 +146,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/avatarfireandash.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/avatarfireandash.jpeg"
-    }
-  }
-    
-  {
-    "option": "2",
-    "mtitle": "Solo Mio",
-    "review": "Matt finds a letter from his fiancée, Heather. She got cold feet and chose not to go through with the wedding. Matt assumes she's fleeing to the U.S., leaves the venue, and runs to the airport. He feverishly texts Heather, and she admits that she didn't leave Italy. Matt arrives at the hotel and requests to cancel his honeymoon package. The concierge says that's not possible and suggests Matt enjoy the trip alone.<br/><br/>Matt maneuvers around rambunctious children and enters a coffee shop. The owner, Gia, runs out before Matt requests a coffee. Gia returns and gives Matt his wallet. She warns him that the children are pickpockets. They sit and have a lovely conversation. He invites her to the next event, and Gia politely refuses because she has to work. Matt leaves and sits on his tandem bike. Then, Gia's ex-boyfriend, landlord Vincenzo, enters and demands to talk. Gia makes a hasty exit and jumps on Matt's bike. The ride around town, eat, and enjoy each other's company.<br/><br/>Later, Matt sits alone at a restaurant. Newlywed Julian sits in the other seat and questions why Matt is solo. He saw Matt with Gia and thought they were a good match. It doesn't take long for Julian to summarize that someone left Mat at the altar. He wants to be Matt's wingman and help him overcome his hurt. Julian and his wife, Meghan, invite Matt to spend the evening clubbing with them. At the piano bar, Julian introduces Matt to newlyweds, Neil and Donna. Julian urges Matt to drink, dance, and mingle. However, Neil believes Matt should embrace his pain and avoid new relationships. Then, Gia walks into the club. Julian vows to bring the two together. With newfound friends by his side, Matt will discover the beauty in being solo, finding love, and embracing Italian culture.<br/><br/>This movie proves that romantic comedies can be interesting, funny, and charming. Matt isn't a man set on revenge dating. He's genuinely hurting. It breaks his heart to be the odd person out. Julian and Neil are two sides of the same coin. They want the best for Matt, but the writer gave them different approaches. These conflicting styles add a new layer of intelligent comedy to the script. And the conclusion brings a shocking twist that will leave your jaw on the floor. This film is a great date movie that will entertain everyone.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0GLHBKG8J"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/solomio.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/solomio.jpeg"
     }
   }
 
@@ -221,6 +198,19 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thesupermariogalaxymovie.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thesupermariogalaxymovie.jpeg"
+    }
+  }
+
+  {
+    "option": "1",
+    "mtitle": "The Devil Wears Prada 2",
+    "review": "Andy joins her co-workers from The New York Vanguard for the NYPC Journalism Awards. During Andy's category, the team gets a notification on their phones. They have been laid off, and then Andy wins her category. After the ceremony, she relaxes at home and watches clips of her award speech online when she gets a notification about Miranda. Runway promoted a brand, SpeedFash, with a glowing review. Now, it's come to light that the brand uses sweatshops, and the public blames Miranda and Runway for promoting them. She gets a call from Irv Ravitz, Runway Chairman. He found out about Andy's predicament from his son, Jay. He offers her a job.<br/><br/>Miranda cringes at the memes but continues to run her magazine. Last night, Irv was angry about the exposé and wanted Miranda to fix it. Her future as the next Global Head of Content is in jeopardy. Today, he calls and informs Miranda that he handled it, and the new hire will be there at 9. Miranda looks up and sees a gleeful woman she doesn't recognize. Nigel points out that it's Andy, also known as one of the Emilys. Andy introduces herself as the new features editor. Miranda scoffs and tells Andy to follow her. She needs to meet with one of their biggest advertisers and convince them to stay with the publication.<br/><br/>Miranda, her assistant, Amari, Nigel, and Andy arrive at Dior. Andy stands in awe when Emily walks towards her. She negotiates free ad space and a feature for their newest flagship store. Miranda concedes and leaves. Andy can't believe that Miranda rolled over to Emily's whims. Miranda explains that Dior makes up 16% of their revenue. If Andy wants things to change, she needs to do what Irv hired her to do: write a feature to sway public opinion. Andy works diligently through the night and creates a wonderful piece. However, it doesn't move the needle. Once again, Andy isn't living up to Miranda's expectations, causing Miranda to miss out on her promotion. Can Andy save Miranda's reputation?<br/><br/>It took 20 years to create the sequel, and it was worth it. The humor is smart, quick, and biting. Icons of the fashion world have joined the fold, and all of your favorites return. The lighting deserves an award because it perfectly displays the fashion and the performances. The intelligent script embraces the changes from print to digital media and the publications' struggles to maintain readers' interest. It makes several callbacks to the original. You don't have to watch the 1st to understand the second, but it makes spotting these easter eggs more fun. Like the first, there is a larger story in the works. It captivates your attention and makes this an original story. It will be hard to choose your favorite, but you will love them both. This film is flawless and timeless.<br/><br/>5 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thedevilwearsprada2.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thedevilwearsprada2.jpeg"
     }
   }
 */
