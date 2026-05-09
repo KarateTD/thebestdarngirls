@@ -1,6 +1,10 @@
 
 
 
+**1.2.0** (2026-05-08)
+- Add support for `sanitizeName` option
+- Support xml-naming for validating and sanitizing tag and attribute names
+
 **1.1.9** (2026-05-06)
 - fix: format output for preserve order when indent by is set to empty string
 

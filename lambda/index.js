@@ -1,7 +1,7 @@
 //https://developer.amazon.com/en-US/docs/alexa/alexa-shopping/implement-shopping-actions.html
 
-const aws = require('aws-sdk');
-const RDS = new aws.RDSDataService();
+const { RDSDataClient, ExecuteStatementCommand } = require('@aws-sdk/client-rds-data');
+const RDS = new RDSDataClient({});
 
 const Alexa = require('ask-sdk-core');
 const Welcome = require('./json/welcome.json');
@@ -976,7 +976,7 @@ const LibraryHandler = {
 			}// end paramSecond
 
 			//get number of rows
-			let retRowCount = await RDS.executeStatement(paramsSecond).promise();
+			let retRowCount = await RDS.send(new ExecuteStatementCommand(paramsSecond));
 			let rowCount = retRowCount.records[0][0]['longValue'];
 
 			let phrase = "";
@@ -1011,7 +1011,7 @@ const LibraryHandler = {
 				], //end params
 				database: process.env.database
 			} //end const paramsFirst
-			let rowReturns = await RDS.executeStatement(paramsFirst).promise();
+			let rowReturns = await RDS.send(new ExecuteStatementCommand(paramsFirst));
 			rows = parseResults(rowReturns, rowCount, phrase);
 
 		}catch(e){
