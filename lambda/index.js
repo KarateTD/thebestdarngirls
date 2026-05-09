@@ -53,11 +53,14 @@ let getList = require('./helpers/getList');
 let menu;
 let searchChoice = "";
 let choice;
-let repeat=false
+let repeat=false;
 let offset=0;
 let maxResults = 5;
 let recommended=[true, true, true, true, true];
 let sku;
+let speechConcat;
+let phrase;
+let isEnd;
 ///add array to track what things were advertised
 
 let product = null;
@@ -130,14 +133,13 @@ const WelcomeHandler = {
 };
 
 function resetAll(){
-	menu;
+	menu = undefined;
 	searchChoice = "";
-	choice;
-	repeat=false
+	choice = undefined;
+	repeat=false;
 	offset=0;
 	maxResults = 5;
-
-let product = null;
+	product = null;
 }
 
 function makeSettings(myLocale){
@@ -556,7 +558,7 @@ const UpsellResponseHandler = {
 			speakResponse = "Congratulations, you have Premium Access!  You can search the library and have access to exclusive reviews.  Happy searching! ";
 		}
 
-		if(request.status.code = 200) {
+		if(request.status.code === 200) {
 			if (supportsAPL(handlerInput)) {
 				handlerInput.responseBuilder.addDirective({
 					type: 'Alexa.Presentation.APL.RenderDocument',
@@ -1461,32 +1463,35 @@ function getRandomNumber(array, length, ifNext){
 }
 
 function parseResults(rowReturns, rowCount, phrase){
-	let resultString = "[";
 	let count = 1;
 	let newData = null;
 	let starter = phrase;
 	let requestList = null;
+	let records = [];
 
-	
-	//creates the JSON String to create movie listing
+	//creates the data array safely using objects (no JSON string concat)
 	rowReturns.records.forEach(function(obj){
 		let keys = Object.keys(obj);
-		let myMtitle = obj[keys[1]]['stringValue']; let myReview = obj[keys[4]]['blobValue'];
-		let myRating = obj[keys[2]]['doubleValue']; let myImage = obj[keys[3]]['stringValue'];
+		let myMtitle = obj[keys[1]]['stringValue'];
+		let myReview = obj[keys[4]]['blobValue'];
+		let myRating = obj[keys[2]]['doubleValue'];
+		let myImage = obj[keys[3]]['stringValue'];
 
-		resultString += "{\n\"option\":\""+count+"\",\n\"mtitle\":\""+ myMtitle+"\",\n\"review\":\""+myReview+"<br/><br/>"+myRating+" out of 5 stars.\",\n\"image\":{\n\"smallImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/small-image/"+myImage+"\",\n\"largeImageUrl\":\"https://thebestdarngirls.s3.amazonaws.com/library/large-image/"+myImage+"\"\n}\n},";
+		records.push({
+			option: String(count),
+			mtitle: myMtitle,
+			review: myReview + "<br/><br/>" + myRating + " out of 5 stars.",
+			image: {
+				smallImageUrl: "https://thebestdarngirls.s3.amazonaws.com/library/small-image/" + myImage,
+				largeImageUrl: "https://thebestdarngirls.s3.amazonaws.com/library/large-image/" + myImage
+			}
+		});
 		count = count + 1;
 	});
 
-	
-	//removes the last comma and adds a braket
-	resultString = resultString.slice(0,-1);
-	resultString += "]";
-	
 	if(rowCount != 0){
-		//parse JSON from string
-		console.log(resultString);
-		newData = JSON.parse(resultString);
+		newData = records;
+		console.log(JSON.stringify(newData));
 
 		if(rowCount == Number(1)){
 			starter += "You have one result.  Pick the corresponding number.\n\n";
