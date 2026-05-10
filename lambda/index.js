@@ -1473,7 +1473,7 @@ function parseResults(rowReturns, rowCount, phrase){
 	rowReturns.records.forEach(function(obj){
 		let keys = Object.keys(obj);
 		let myMtitle = obj[keys[1]]['stringValue'];
-		let myReview = obj[keys[4]]['blobValue'];
+		let myReview = Buffer.from(obj[keys[4]]['blobValue']).toString('utf8');
 		let myRating = obj[keys[2]]['doubleValue'];
 		let myImage = obj[keys[3]]['stringValue'];
 
