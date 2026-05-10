@@ -43,7 +43,7 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 	<li><b>Release-5.0.1</b>: Updated APL for movieoptions and getList for version 1.8 to support using images as buttons</li>
 	<li><b>Release-5.1.0</b>: Add Alexa Shopping Kit to In Stores section of the US locale and updated the APL for all locales</li>
 	<li><b>Release-5.2.0</b>: Update NodeJS from version 14 to version 18</li>
-	<li><b>Release-6.0.0</b>: Migrated from AWS SDK v2 to AWS SDK v3 (<code>@aws-sdk/client-rds-data</code>), updated Lambda runtime to Node.js 22.x, cleaned up dependencies to eliminate all known security vulnerabilities, and fixed several bugs (assignment vs. comparison operator in UpsellResponseHandler, <code>resetAll()</code> not properly clearing global state, undeclared implicit global variables, and unsafe JSON string concatenation in <code>parseResults</code>)</li>
+	<li><b>Release-6.0.0</b>: Migrated from AWS SDK v2 to AWS SDK v3 (<code>@aws-sdk/client-rds-data</code>), updated Lambda runtime to Node.js 22.x, cleaned up dependencies to eliminate all known security vulnerabilities, and fixed several bugs (assignment vs. comparison operator in UpsellResponseHandler, <code>resetAll()</code> not properly clearing global state, undeclared implicit global variables, unsafe JSON string concatenation in <code>parseResults</code>, and blob decoding for library reviews)</li>
 </ul> 
 
 ## Code
