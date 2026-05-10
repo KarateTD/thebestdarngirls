@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
-    "mtitle": "Kidnapped in My Own Home: The Martha Carelli Story",
-    "review": "Martha Carelli wakes to her radio alarm clock blaring a news report about escaped inmates. Four inmates broke out of prison and went on the run. Since then, authorities caught two, but the others are still on the loose. After an uneventful day, Martha picks up her son, Bennett, from school and drives home. He leaves to do his homework, while she prepares dinner and straightens up the house. Martha opens her closet and sees Michael standing inside. She freezes as he pulls out a gun. She tries to escape, but he beats her with the pistol. When Martha wakes up, she's bound to a chair and gagged. Michael threatens to kill Bennet if she tries to escape again. Also, his partner is in the house. Michael refuses to return to jail and will do anything for his freedom. Can Martha and her family escape a madman?<br/><br/>Inspired by the story 'The Painter's Wife' by Ann Rule, this movie exemplifies character development. Martha is an everyday working woman with a loving family. Then, she is forced into a survivor scenario with her family's life on the line. Martha slowly gains the courage to stand up to Michael and fight back with her emotions and intelligence. While the film follows Martha's heroic story, its conclusion will break your heart. It's a standout performance from the lead actress. Other movies pretend that 'they lived happily ever after,' but this story displays the harsh truth. While it's not the best Lifetime true crime story, it leaves a mark.<br/><br/>4 out of 5 stars.",
+    "mtitle": "Love, Again",
+    "review": "Caroline and Henry celebrate their 35th wedding anniversary with family and friends. Soon, they will celebrate with a long-awaited trip to Italy. Caroline prepares to go volunteer at their Fairview Hospital gift shop when Henry asks for the alarm code again. Caroline laughs because it's been the same for years. Caroline goes to the gift shop, and Doctor Leo enters. Caroline's boss, Brenda, tells Caroline that Leo changed after his wife died of ALS. He stuck with her to the end, but it took a toll on him. Caroline's heart breaks for him.<br/><br/>Caroline comes home and finds Henry swimming in a freezing pool in his underwear. She finds a lit cigar in his office and a stack of unpaid bills. She fears Henry suffered from an undiagnosed stroke and begs him to go to the hospital. They reveal that he has early-onset Alzheimer's. Sadly, there's no cure. Henry and Caroline return home and prepare for a new normal. Henry admits that he knew something was wrong before, but he ignored the signs. Caroline will stay by his side and resist her much-needed support system. However, Caroline connects deeply with one member of her support system. Caroline struggles with being a good wife to a husband she's already lost, while fighting exhaustion, depression, and expectations.<br/><br/>This film shows an in-depth look at what caregivers go through. They struggle to care for themselves while losing their loved ones to an unstoppable disease. The movie opens with Caroline and Henry's loving and respectful relationship. And you see their connection to their children and friends. So, Caroline has a thriving community to lean on. The makeup department did a wonderful job of allowing the leads to look exhausted and ill. They didn't portray a glossy Hollywood image of this disease, but the harsh truth. This movie is a tear-jerker that ends beautifully.<br/><br/>4.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/kidnappedinherownhomemarthacarelli.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/kidnappedinherownhomemarthacarelli.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/loveagain_tv.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/loveagain_tv.jpg"
     }
   },
   {
     "option": "2",
-    "mtitle": "The Moonlight Murders",
-    "review": "Security guard Zeke greets his neighbor, Poppy, before going to work. He makes the morning rounds at the parking garage and stumbles upon Emily's dead body. He secures the scene and calls the police, but not before noticing the moon tattoo on her arm. Detective Foster and Doye arrive and examine the area. This looks like the work of the Moonlight Murderer. They were dormant for a while, but Doye fears the killer or a copycat has resurfaced. Doye doesn't hide his annoyance when May arrives on the scene. May is a crime reporter with a TV show. Her claim to fame was pointing out the killer's M.O. and analyzing it for her fans. During a B-roll shot, Zeke approaches May. He's a huge fan. Zeke tells her that he found the body, and she jumps at the chance to interview him for an exclusive. She wants to use Zeke's information to find the killer first. However, Zeke's obsession with her grows with a killer on the loose. Will she survive?<br/><br/>This film's unique plot features two evolving mysteries at once. However, you are aware of one mystery while in the dark about the other. Viewers analyze the clues to unmask the culprit, while May unpacks who is stalking her. The relationship between Franco and May is a plot filler and slows down the pace. However, the killer's reveal was well done. It's a testament to good acting, directing, and writing. The motive is worthy of an episode of Criminal Minds, but less entertaining. This movie has spurts of charisma with lulls in between.<br/><br/>3.5 out of 5 stars.",
+    "mtitle": "The Secrets of the Matriarch",
+    "review": "Danielle received her license to practice law in the mail, but that's not her most pressing concern. She's decided to meet her maternal grandmother, Claire, for the first time. Danielle's mother, Charlotte, gave her up for adoption shortly before her death. Danielle approaches Claire's home, rings the bell, and introduces herself. Claire welcomes her in with open arms and tells her assistant, Ingrid, to prepare a room for Danielle. Claire promises to talk after her meeting.<br/><br/>Danielle watches from atop the staircase as the women file into the living room. Danielle overhears snide comments made by Claire's cousin, Louise. Louise believes Claire is too old to run the Mardi Gras Krewes. Danielle interrupts the meeting with a sneeze and introduces herself to everyone. She feigns a smile and greets Danielle. After the meeting, Claire can't wait to introduce Danielle to her family's traditions and history. However, Ingrid pulls Claire aside because Claire didn't warn Danielle. Someone murdered Charlotte, and accidents befall members of their family. Danielle's life is at risk. Will she die before she makes it to the top?<br/><br/>This movie is about drama and gossip. The script gives you the culprit but not the motive, and it's juicier than you can imagine. This plot feels like a modern-day Bridgerton with its balls, social etiquette, and family squabbles. The thespians ooze with fashion, pedigrees, and southern charm. Each backhanded compliment and underhanded power grab will make you chuckle. The antagonist is wickedly fun and crazy. This movie is a fun time that doesn't take itself seriously, like Mardi Gras.<br/><br/>4 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/themoonlightmurders.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/themoonlightmurders.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thescretsofthematriarch.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thescretsofthematriarch.jpg"
     }
   },
   {
     "option": "3",
-    "mtitle": "I'll Be Seeing You",
-    "review": "Mark receives a message from the retirement community manager. Mark has been acting as the interim activities director for months. Now, the boss wants him to take the job permanently. Residents Vivian and Susan tell Mark to take the job. However, Mark has never been a man to settle in one spot. So he planned a trip down the coast to think about it.<br/><br/>Vivian gets a call from her granddaughter, Amy. Amy confirms she is coming to spend quality time with Vivian. When Amy arrives, she quickly settles in and meets her grandmother's friends, including Susan. Amy's boss, Phyllis, calls because a tough client wants to sign the paperwork. But they want to do it in person, and the sooner the better. Phyllis promises to give Amy her coveted promotion if she gets the signature. Vivian overhears the conversation and suggests they turn it into a road trip. She desires to visit her old stomping grounds and visit an old romantic friend. Also, she wants to invite Susan because this will be the first anniversary since she lost her husband. Amy agrees.<br/><br/>Mark helps them pack up the car for their road trip and reminds Vivian to watch Susan. Susan regularly forgets to take her medication. Soon, they hit a pothole, flattening their tire. Vivian calls Mark for help because roadside assistance will take too long. Mark arrives and offers to go with them since they will all be driving down the coast. They load into his VW van and set off on a trip that will change the trajectory of their lives forever.<br/><br/>This film has mystery, love, wisdom, and humor. The plot has several dynamic, well-developed relationships. They feed into a complex storyline and deliver beautiful messages. The age gap plays a pivotal role in this movie. Susan and Vivian offer Mark and Amy a fresh perspective that's full of sage advice. Amy and Mark help Vivian find the one that got away. Susan keeps everyone on course while keeping a positive attitude. Every moment of this trip will live with you and inspire you. There are no wasted scenes or filler. Let's not forget the leads' comedic timing and wonderful musical abilities. This film is an instant Hallmark classic you will keep on your DVR.<br/><br/>5 out of 5 stars.",
+    "mtitle": "The Dating App Nightmare",
+    "review": "It's been two years since her father died, and Sarah worries about how her mother, Kate, will fare after she leaves for college in the fall. So, she convinces her mother to join a dating app with her. Sarah helps her mother sign up for the app and create a profile. Afterward, Sarah messages her matches and connects with Mark. They plan to have coffee that night.<br/><br/>Sarah arrives early and converses with the owner, Rena. Moments later, Mark arrives, and they have a lovely evening. As he walks Sarah to her car, Sarah's friend, Justin, walks up screaming. Mark exits abruptly, leaving Sarah with Justin. She demands that Justin leave and walks to her car. Hours later, Kate realizes Sarah isn't home and texts her. However, Sarah never answers. Kate calls the police.<br/><br/>Detectives Lynch and Macready arrive at Kate's home. They assume Sarah left for space and dismiss Kate's concerns. Kate won't let them ignore her pleas. Kate knows someone has her daughter. Can she make the police believe her and figure out who did it?<br/><br/>This film gives Lifetimers everything they expect, and that's its downfall. It's too predictable. Experienced watchers can pinpoint the culprit, the red herrings, and the motive as they slowly unveil themselves. The film's guiding light is the acting. They convey the proper emotion throughout the script, and one scene will break your heart. Save this film for a rainy day, but don't take up space on your DVR.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/illbeseeingyou.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/illbeseeingyou.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thedatingappnightmare.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thedatingappnightmare.jpg"
     }
   },
   {
     "option": "4",
-    "mtitle": "Behind Closed Doors",
-    "review": "Morgan jogs with her daughter, Lizzy, before preparing her son, Cody, for his field trip. She calls her husband, Kevin, to coordinate the evening. Morgan drives Cody to his meeting location and notices several police officers, emergency vehicles, and reporters outside the mall parking garage. When they return home, she prepares dinner while listening to the latest news report. An unknown assailant killed someone in the parking garage, and they are on the loose. She ignores the report and focuses on her meal. Morgan tells Lizzy to get Cody. Then, Morgan hears Lizzy scream. She sees a man, Grant, standing in her kitchen. Morgan offers him money, but he's not here for that. He ties up the family and waits for Kevin to come home.<br/><br/>Kevin arrives with a jovial attitude until he sees Grant sitting at the kitchen table with his family. He warns Kevin not to try anything. Grant hid Cody in a secret location and will kill him if Morgan and her family don't comply with his demands. Morgan grasps that Grant is the parking garage murderer. Grant reminds Kevin that he is in charge and kills to prove it. Morgan begs Kevin to follow her lead and try to understand Grant's side. Can Morgan save her family from a madman?<br/><br/>This film has some tense moments throughout the plot. It mentions Lima Syndrome without describing it, but this movie perfectly depicts it. The writer considered today's technology when creating the plot. This story drags because Lifetimers know there is an underlying motive. However, the plot keeps you on the hook until the very end. Some will see it coming while others want more. Either way, you will watch from start to finish. This film is shocking and entertaining, but the pacing is slow.<br/><br/>3.5 out of 5 stars.",
+    "mtitle": "Somebody's Watching Me",
+    "review": "Bride-to-be Angela has fun with her bridesmaids during her bachelorette trip. After the other women go to bed, Angela's friend, Lori, pulls Angela aside. Lori is upset with Angela's behavior in the club. She almost went home with a stranger. Lori knows Angela doubted the relationship, but now Angela's sure she wants to marry James.<br/><br/>Months later, Lori hasn't spoken to Angela since she and James called off the wedding. Lori checks her mail and finds a manila envelope containing a flash drive. She puts the flash drive in her computer and watches a video of herself inside the rental property during the bachelorette party. A masked man appears on the screen, and fear grips Lori. Lori continues with her life until she gets another flash drive. This one makes her sick. The stalker is close to home. Can Lori unmask the creep before they take her life?<br/><br/>This film offers intrigue with the usual suspects. While the premise is strong, the storyline is unengaging. Your mind will wander after the major conflict arises. Also, the editing is too dark, and the text is too small. The editor should increase the text size or have the lead read it in an internal monologue. The mystery doesn't provide enough red herrings to divert your attention to another suspect. You will watch to prove your initial hunch was correct. And it will be. However, you may not unpack the motive. It's the most intriguing moment in this movie.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/behindcloseddoors.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/behindcloseddoors.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/somebodyswatchingme.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/somebodyswatchingme.jpg"
     }
   },
   {
     "option": "5",
-    "mtitle": "A House Built On Lies",
-    "review": "Daisy and her best friend, Louise, visit Daisy's new home. She and her husband, Chris, will move in once he's done with the renovations. Daisy finds Chris in the attic, and they kiss. She questions why Chris's best friend, Zack, isn't helping. Chris says they got into an argument, but doesn't go into specifics. Daisy and Louise return to Louise's home.<br/><br/>Daisy and Louise wake to a police officer knocking on the door. The officer expresses his condolences because Chris fell out of the 2nd-story window and died. Daisy collapses to the ground and enters premature labor. Hours later, Daisy wakes with nurse Tyra by her bedside. Tyra explains that they had to perform an emergency C-section to save her baby. Daisy gets better and chooses to move into Zack's home with her newborn baby. After a few days, the police question Daisy. They believe Chris's fall wasn't an accident; someone pushed him. The police discovered that someone had taken $100,000 from his bank account. Daisy admits that she found out about the money recently but hasn't seen it. The officer lets Daisy know she is their prime suspect. Can Daisy clear her name?<br/><br/>This movie takes the long way to the point. It drops breadcrumbs to other suspects, but experienced Lifetime viewers will figure it out after the first commercial break. However, the plot, the murder, and the deception don't grab or hold your attention. The twist isn't surprising, the motive is obvious, the pacing was slow, and the editing was too dark. This movie is better for white noise.<br/><br/>2.5 out of 5 stars.",
+    "mtitle": "Kentucky Roses",
+    "review": "Sadie completes her work at the greenhouse before traveling to her second job. Her mother, Anna, scoffs because their family has run the greenhouse for generations. Sadie explains that she wants to build a legacy for herself outside of the greenhouse. She works for Delilah, a local florist with high-end clientele. Anna concedes before asking Sadie to check on the winner's circle. A high-powered storm did damage and wreaked havoc on the circle's flowers. Sadie agrees.<br/><br/>Frank investigates the damaged spires. With 2 weeks before the Kentucky Derby, he needs a skilled contractor to fix the damage in time. So, he calls his son, Ash, in Cincinnati. Ash owns a contracting company but doesn't use his father's last name. Franks asks Ash to return to Kentucky and help rebuild the spires. After some coaxing from his mother, Lily, Ash agrees.<br/><br/>Ash drives to the Derby to inspect the damage. He sees Sadie at the winner's circle and questions why she's there. She tells him that she is there to check on the flowers. Then, he explains that he's there for the roof repairs but doesn't mention that his family runs the Derby. They feel the spark but part ways without exchanging their names. They don't know it yet, but their spark started generations ago with their ancestors, Charlie and Gloria. However, rumors about their ancestors could drive a wedge in their budding romance. Will their love story end before it can begin?<br/><br/>This story centers on the illustrious Kentucky Derby. And you don't have to be a fan of the sport to enjoy the film. However, the Derby's history is on full display during the entire film. The script doesn't rely heavily on humor. Just the leads' willingness to forgive and love. The clothing department outshone the script and the cast with fancy hats, clothes, and shoes. It elevates the story to coincide with the tournament. This film is a great way to jump-start the 2026 May for Moms season.<br/><br/>4 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/ahousebuiltonlies.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/ahousebuiltonlies.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/kentuckyroses.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/kentuckyroses.jpg"
     }
   }
 ];
@@ -58,48 +58,33 @@ module.exports = madeForTV;
 /*
 
 {
-"option":"1",
-"mtitle":"Love, Again",
-"review":"<br/><br/> out of 5 stars.",
-"image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/loveagain_tv.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/loveagain_tv.jpg"
-}
-},
-{
-"option":"2",
-"mtitle":"The Secrets of the Matriarch",
-"review":"<br/><br/> out of 5 stars.",
-"image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thescretsofthematriarch.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thescretsofthematriarch.jpg"
-}
-},
-{
-"option":"3",
-"mtitle":"The Dating App Nightmare",
-"review":"<br/><br/> out of 5 stars.",
-"image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thedatingappnightmare.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thedatingappnightmare.jpg"
-}
-},
-{
-"option":"4",
-"mtitle":"Somebody's Watching Me",
-"review":"<br/><br/> out of 5 stars.",
-"image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/somebodyswatchingme.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/somebodyswatchingme.jpg"
-}
-},
-{
-"option":"5",
-"mtitle":"Kentucky Roses",
-"review":"<br/><br/> out of 5 stars.",
-"image":{
-"smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/kentuckyroses.jpg",
-"largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/kentuckyroses.jpg"
-}
-}
+"option": "1",
+"mtitle":"Best Served Cold: A Hannah Swensen Mystery",
+"review":"<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/bestservedcoldhannahswensen.jpeg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/bestservedcoldhannahswensen.jpeg"
+}},
+"option": "2",
+"mtitle":"Death at the Dinner Party",
+"review":"<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deathatthedinnerparty.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deathatthedinnerparty.jpg"
+}},
+"option": "3",
+"mtitle":"My Granddaughter Has Your Son's Face",
+"review":"<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mygrandaughterhasyoursonsface.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mygrandaughterhasyoursonsface.jpg"
+}},
+"option": "4",
+"mtitle":"All's Fair in Love and Mahjong",
+"review":"<br/><br/>* out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/allsfairinloveandmahjong.jpeg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/allsfairinloveandmahjong.jpeg"
+}}
+
 */
