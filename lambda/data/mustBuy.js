@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Avatar: Fire and Ash",
+    "review": "After Neteyam's death, Neytiri and Jake debate what to do with Spider. Neytiri, unable to bear Spider's resemblance to those who killed her son, wants him gone, while Jake hesitates. That night, Spider's mask fails, and he begins gasping, prompting a frantic search for his spare mask. They save him for the moment, but Jake realizes the replacement mask will also eventually fail. When the Wind Traders arrive in Metkayina, Jake decides to bring Spider back to the humans for his safety.<br/><br/>Jake, Spider, and the family travel with the Wind Traders toward the RDA ship. En route, the Mangkwan, or Ash People, attack their aircraft. Amidst the chaos, Spider, Kiri, Tuk, and Lo'ak are separated from the group. Spider's mask battery runs low, and his spare batteries are with the wreckage. Spider collapses. Kiri lays him down, links her queue to the ground, and puts a bug in his mouth. Spider miraculously recovers. Colonel Miles witnesses this and becomes determined to capture his son and bring him to RDA for study. Jake knows that if Miles gains access to this miracle, humans will become unstoppable. The coming battle will result in heavy loss, two new unions, and new life for Pandora.<br/><br/>The third installment of the Avatar franchise focuses on the action while building the Pandora lore. The graphics draw you into Na'vi's world with motion and colors that were meant for 3D, and the score teleports the audience into each breathtaking adventure. While nothing will ever top this first, this film towers above the second in every category. This film has no mid-credit or end-credit scenes. If you are a fan of the first two, then you must see this one in theaters and in 3D with the best sound.<br/><br/>5 out of 5 stars.",
+    "asin": {
+      "re": "B0GVBG563M"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/avatarfireandash.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/avatarfireandash.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "I Can Only Imagine 2",
     "review": "I Can Only Imagine 2 was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "Solo Mio",
     "review": "Matt finds a letter from his fiancée, Heather. She got cold feet and chose not to go through with the wedding. Matt assumes she's fleeing to the U.S., leaves the venue, and runs to the airport. He feverishly texts Heather, and she admits that she didn't leave Italy. Matt arrives at the hotel and requests to cancel his honeymoon package. The concierge says that's not possible and suggests Matt enjoy the trip alone.<br/><br/>Matt maneuvers around rambunctious children and enters a coffee shop. The owner, Gia, runs out before Matt requests a coffee. Gia returns and gives Matt his wallet. She warns him that the children are pickpockets. They sit and have a lovely conversation. He invites her to the next event, and Gia politely refuses because she has to work. Matt leaves and sits on his tandem bike. Then, Gia's ex-boyfriend, landlord Vincenzo, enters and demands to talk. Gia makes a hasty exit and jumps on Matt's bike. The ride around town, eat, and enjoy each other's company.<br/><br/>Later, Matt sits alone at a restaurant. Newlywed Julian sits in the other seat and questions why Matt is solo. He saw Matt with Gia and thought they were a good match. It doesn't take long for Julian to summarize that someone left Mat at the altar. He wants to be Matt's wingman and help him overcome his hurt. Julian and his wife, Meghan, invite Matt to spend the evening clubbing with them. At the piano bar, Julian introduces Matt to newlyweds, Neil and Donna. Julian urges Matt to drink, dance, and mingle. However, Neil believes Matt should embrace his pain and avoid new relationships. Then, Gia walks into the club. Julian vows to bring the two together. With newfound friends by his side, Matt will discover the beauty in being solo, finding love, and embracing Italian culture.<br/><br/>This movie proves that romantic comedies can be interesting, funny, and charming. Matt isn't a man set on revenge dating. He's genuinely hurting. It breaks his heart to be the odd person out. Julian and Neil are two sides of the same coin. They want the best for Matt, but the writer gave them different approaches. These conflicting styles add a new layer of intelligent comedy to the script. And the conclusion brings a shocking twist that will leave your jaw on the floor. This film is a great date movie that will entertain everyone.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "Send Help",
     "review": "Linda gives Donovan the company report and rises, following him to the meeting. Donovan stops her and says they downsized the meeting. He leaves, and she hides behind the corner to watch him. He takes the Post-it Note with her name off the report and takes credit for her work. Linda fumes at home with her bird, but resigns to Donovan's behavior. The president of the company passed away, and his son, Bradley, will take over. Before he passed, he told Bradley to promote Linda to a vice president position to reward her years of dedication and service.<br/><br/>Linda beams as she thinks about her future until she hears a co-worker talking about an interoffice memo. It announces Donovan as the next vice president. The rage in Linda boils over, and she charges into Bradley's office. He explains that he objected to his father's opinion because Linda doesn't present well. They have a deal to close in Shanghai. If she can close the deal, he will consider her for the position.<br/><br/>Linda arrives at the hangar and boards Bradley's private jet. She works on the documentation while the men childishly converse. Linda hears them laughing between songs and removes her earbuds. She uncovers that they are laughing at her Survivor audition tape. The flight attendant instructs them to buckle their seatbelts due to incoming turbulence. Bradley, safely in his seat, heckles his friends for following her orders. So, they ignore her and chuckle. The plane crash-lands in the ocean.<br/><br/>Linda wakes on a deserted island. She finds Bradley with a horrible gash on his leg. Bradley wakes up a day and a half later. He demands that Linda follow his orders and build a raft to take them to safety. Linda pauses at his ungrateful nature. Bradley scoffs and reminds Linda that she works for him. Linda chuckles. With her survivalist skills, she is running the show. Will they survive?<br/><br/>This film is for anyone who feels overlooked or underappreciated. Linda is the office misfit. The writers added this to her personality to explain why she desperately seeks friendship and validation. The editor slowly panned over her books as Linda cooked. An eagle-eyed viewer will spot books about survival, tying knots, and poisonous plants. The storyline made Linda conditioned for the outdoors. This trait bubbles over into her work life. This movie fails with its CGI. The crash and boar scenes are distracting and overly digitized. This film's gem is the dialogue. It's witty, dark, and unhinged. This picture is worthy of the big screen.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Queen of the Ring",
     "review": "Waitress Mildred Burke is a single mother who works in her mother's diner. However, Mildred never wants to be ordinary. She dreams of being a wrestler, but every state bans women in the squared circle. Mildred and her mother, Bertha, attend a wrestling match and watch Billy Wolfe win.<br/><br/>Billy and his son, G. Bill, patronize Bertha's diner. Mildred approaches Billy and gushes over him. She asks Billy to train her, and he says no. Months later, Billy and G. Bill enter the restaurant again. Bertha encourages Mildred to approach Billy again but tells Mildred not to back down. Mildred spews fire towards Billy, and he loves her moxie. He offers to train her the next day.<br/><br/>Mildred arrives at the carnival, and Billy and G. Bill sit outside the ring. To prove her worth, Billy has Mildred face a man. She wins and impresses Billy. Billy and Mildred work the carnival circuit but can't get legitimate work until the states lift the ban. Over time, Mildred becomes a household name and creates a business with Billy. Mildred chooses to marry Billy to solidify their professional relationship. That decision will impact Mildred's life and professional wrestling, but force her legacy in darkness for years.<br/><br/>Based on the novel The Queen of the Ring: Sex, Muscles, Diamonds, and the Making of an American Legend by Jeff Leen, this movie is the hidden history in professional wrestling. Mildred was the first million-dollar female athlete and accomplished it while being a single mother. She refused to let the era dictate her path. Instead, she played within it. The film credits Billy with elevating women's wrestling and integrating the sport. However, the film didn't skip past his abusive nature in and out of the ring. The audience doesn't need to be a wrestling fan to appreciate the picture. The costumes, hair, makeup, and wrestling style perfectly encapsulate the period. This film is an astounding tribute to the sport and Mildred's legacy. It's for everyone.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/queenofthering.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/queenofthering.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Mercy",
-    "review": "Mercy was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0GFMM6WQB"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mercy.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mercy.jpeg"
     }
   }
 ];
@@ -133,19 +133,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sarahsoil.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sarahsoil.jpeg"
-    }
-  }
-
-  {
-    "option": "3",
-    "mtitle": "Avatar: Fire and Ash",
-    "review": "After Neteyam's death, Neytiri and Jake debate what to do with Spider. Neytiri, unable to bear Spider's resemblance to those who killed her son, wants him gone, while Jake hesitates. That night, Spider's mask fails, and he begins gasping, prompting a frantic search for his spare mask. They save him for the moment, but Jake realizes the replacement mask will also eventually fail. When the Wind Traders arrive in Metkayina, Jake decides to bring Spider back to the humans for his safety.<br/><br/>Jake, Spider, and the family travel with the Wind Traders toward the RDA ship. En route, the Mangkwan, or Ash People, attack their aircraft. Amidst the chaos, Spider, Kiri, Tuk, and Lo'ak are separated from the group. Spider's mask battery runs low, and his spare batteries are with the wreckage. Spider collapses. Kiri lays him down, links her queue to the ground, and puts a bug in his mouth. Spider miraculously recovers. Colonel Miles witnesses this and becomes determined to capture his son and bring him to RDA for study. Jake knows that if Miles gains access to this miracle, humans will become unstoppable. The coming battle will result in heavy loss, two new unions, and new life for Pandora.<br/><br/>The third installment of the Avatar franchise focuses on the action while building the Pandora lore. The graphics draw you into Na'vi's world with motion and colors that were meant for 3D, and the score teleports the audience into each breathtaking adventure. While nothing will ever top this first, this film towers above the second in every category. This film has no mid-credit or end-credit scenes. If you are a fan of the first two, then you must see this one in theaters and in 3D with the best sound.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0GVBG563M"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/avatarfireandash.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/avatarfireandash.jpeg"
     }
   }
 
