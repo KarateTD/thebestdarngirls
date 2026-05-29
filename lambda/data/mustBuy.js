@@ -239,5 +239,18 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/themandalorianandgrogu.jpeg"
     }
   }
+
+  {
+    "option": "5",
+    "mtitle": "In the Grey",
+    "review": "Asset Manager Bobby hired Rachel's mentor, Braxton, to recover a $1 billion loan her company gave to kingpin, Manny Salazar. However, Salazar's goons killed him and destroyed the document. Upset, attorney Rachel walks into Bobby's office and offers to retrieve the asset. She uses legal and illegal maneuvers to obtain her client's assets. Her secret weapons are Sid and Bronco. Sid is an extractor specialist and mastermind, while Bronco specializes in paramilitary strikes and tactical planning. If Rachel can't get things done legally, she contacts them to help obtain information illegally to give her an edge in court. With her team, Rachel is confident she will win. Bobby and Rachel work out the terms: 10% plus $10 million upfront.<br/><br/>Rachel deploys Sid near one of Salazar's upcoming hotels in the Middle East, while Bronco accompanies her to Salazar's lawyer, Mr. Horowitz's office. Rachel lays out her terms while Bronco quietly sits in the background. Mr. Horowitz offers pennies on the dollar. Rachel refuses the offer and leaves. Soon, she chokes Salazar's revenue streams, confiscates his plane, and docks his boat. Salazar is furious and demands to see Rachel face-to-face. Rachel informs Sid and Bronco. They determine the trip is dangerous, but they create a plan with several contingencies and hire specialists they can trust. They will bring Rachel safely to Salazar's island, retrieve the asset, and leave. Of course, nothing can be that easy.<br/><br/>This film relies heavily on the main characters' narration. The first 15 minutes cover a plethora of information. So viewers must be on time.  In this film, the leads never have romantic chemistry because the plot doesn't force a romance. The thought-provoking action film focuses on witty banter, intricate strategy, and special effects to drive the story forward. It's refreshing to see the leads practice their plan because they aren't superheroes, just two ex-military men with a strategy. Also, the film has a steady pace, leaving you without a second to breathe. If you can handle the constant narration, you will enjoy this film.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/inthegrey.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/inthegrey.jpg"
+    }
+  }
   
 */

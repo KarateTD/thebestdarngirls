@@ -57,6 +57,14 @@ module.exports = inTheTheaters;
 
 /*
 
+{
+"option": "1",
+"mtitle": "The Breadwinner",
+"review": "Nate, the top Toyota salesman, is a married father of three daughters. He is the breadwinner, and his wife, Katie, is a homemaker. They make it work because they have a work-life balance. He handles the work, and Katie handles life. After school, Nate and Katie visit Angela and her husband, Connor. Nate talks about Katie's Star Minder. Angela believes Katie's invention is marketable and convinces her to go on Shark Tank.<br/><br/>Katie presents her idea to the Sharks, and she's sold thousands of units from her living room. However, Kevin fears she can't juggle being a full-time mom and expanding her business. Katie informs them that she's married. The Sharks ask Nate to come out. They see his unkempt demeanor and scoff. Laurie offers Katie $100,000 for 20% of her company, but Nate has to stay home with the kids while they meet with South Korean manufacturers. He's ready to help her achieve her dreams. Katie accepts Laurie's offer.<br/><br/>Before Katie leaves, she shows Nate the command center. It's a board with color-coded notes for chores, schedules, and household needs. She quickly goes over Gracie, Hadley, and Sam's schedules before she hugs their girls goodbye. Nate assures the girls he has it all under control. However, Nate will learn how hard it is to be a mom.<br/><br/>Based on Nate Bargatze's comedy, this easy-going movie addresses the mental load of stay-at-home parents without disrespecting the parents who work outside the home. The script doesn't have an antagonist because Nate isn't a bad person, just clueless. The film features slapstick and clean comedy for the whole family. And the plot offers several curveballs. This film offers a comedic look into the mental load struggles. It doesn't try to fix it. Instead, it finds a balance for both parents to shine and be appreciated. This movie will make everyone laugh.<br/><br/>4 out of 5 stars.",
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thebreadwinner.jpeg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebreadwinner.jpeg"
+}}
 
 */
 
