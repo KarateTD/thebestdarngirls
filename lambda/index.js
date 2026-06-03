@@ -3,6 +3,20 @@
 const { RDSDataClient, ExecuteStatementCommand } = require('@aws-sdk/client-rds-data');
 const RDS = new RDSDataClient({});
 
+async function warmUpDatabase() {
+	try {
+		await RDS.send(new ExecuteStatementCommand({
+			secretArn: process.env.secretArn,
+			resourceArn: process.env.resourceArn,
+			database: process.env.database,
+			sql: 'SELECT 1'
+		}));
+		console.log('DB warm-up complete');
+	} catch (e) {
+		console.log('DB warm-up failed (non-fatal):', e.message);
+	}
+}
+
 const Alexa = require('ask-sdk-core');
 const Welcome = require('./json/welcome.json');
 const LibraryWelcome = require('./json/librarywelcome.json');
@@ -1442,6 +1456,13 @@ exports.handler = skillBuilder
   .addErrorHandlers(ErrorHandler)
   .withApiClient(new Alexa.DefaultApiClient())
   .lambda();
+
+const alexaHandler = exports.handler;
+exports.handler = (event, context, callback) => {
+	warmUpDatabase()
+		.then(() => alexaHandler(event, context, callback))
+		.catch(() => alexaHandler(event, context, callback));
+};
 
   // returns true if the skill is running on a device with a display (show|spot)
 function supportsAPL(handlerInput) {

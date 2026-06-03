@@ -1,4 +1,5 @@
 {
+  "version": "6.1.0",
   "author": "Tiffany Gray",
   "dependencies": {
     "@aws-sdk/client-rds-data": "^3.0.0",
