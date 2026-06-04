@@ -76,8 +76,8 @@ When this code is git push'ed to master branch, it triggers your CodePipeline to
 	        <li>welcome.json - sets up APL deign for the home, help, and goodbye screen</li>
 	    </ul>
 	</li>
-	<li>index.js</li>
-	This contains the code with helper functions for each Intent listed in the next section.
+	<li>index.js - contains the main skill logic with handler functions for each Intent, helper utilities, and the <code>warmUpDatabase()</code> function that sends a lightweight <code>SELECT 1</code> to Aurora on every invocation to eliminate cold-start delays</li>
+	<li>privacypolicy.html - the privacy policy page for the skill</li>
 </ul>
 
 ## Installation
@@ -91,7 +91,9 @@ First, you must have an account on the <a href="https://developer.amazon.com/ale
 | <i>CancelPurchaseIntent</i>|<i>{Verbs} my subscription<br/>{Verbs} my {ProductName} subscription<br/>{Verbs} {ProductName} subscription<br/>{verbs} subscription<br/>to {Verbs} my subscription<br/>etc</i>|<i>Verbs<br/>ProductName</i>|<i>LIST_OF_VERBS<br/>LIST_OF_PRODUCT_NAMES</i>|
 |<i>BuyIntent</i>|<i>to purchase {ProductName}<br/>to buy {ProductName}<br/>i would like {ProductName}<br/>i want {ProductName}<br/>would like {ProductName}</i>|<i>ProductName</i>|<i>LIST_OF_PRODUCT_NAMES</i>|
 |<i>WhatCanIBuy</i>|<i>purchase<br/>what can i buy<br/>what can i shop for<br/>tell me what can i buy<br/>etc</i>|||
-|<i>Library</i>|<i>look for {query}<br/>look for {MovieList}<br/>search for {query}<br/>search for {MovieList}<br/>lookup {query}<br/>etc</i>|<i>query<br/>MovieList</i>|<i>Amazon.SearchQuery<br/>LIST_OF_MOVIES</i>}
+|<i>Library</i>|<i>look for {query}<br/>look for {MovieList}<br/>search for {query}<br/>search for {MovieList}<br/>lookup {query}<br/>etc</i>|<i>query<br/>MovieList</i>|<i>Amazon.SearchQuery<br/>LIST_OF_MOVIES</i>|
+|<i>NextIntent</i>|<i>next<br/>next page<br/>show more<br/>more results</i>|||
+|<i>PrevIntent</i>|<i>previous<br/>go back<br/>previous page<br/>back</i>|||
 
 | Slot Types | Value | 
 | ---------- | ----- |
@@ -117,7 +119,7 @@ Create an account on the Alexa Developer Console and the AWS Management Console.
 	<li>AWSLambdaBasicExecutonRole</li>
 	<li>AWSLambdaVPCAccessExecutionRole</li>
 </ul>
-Then create an Aurora MySQL 5.6 DB cluster with the following following table setup:
+Then create an Aurora MySQL 8.0 DB cluster with the following following table setup:
 
 ```sql
 CREATE TABLE reviews (
@@ -134,7 +136,7 @@ CREATE TABLE reviews (
 Next, create an AWS Secrets Manager with the automatic rotation disabled.  Then, in the AWS Management Console, create 2 Lambda functions with
 <ul>
 	<li>Trigger: Alexa Skills Kit</li>
-	<li>Runtime: Node.js 10.x</li>
+	<li>Runtime: Node.js 22.x</li>
 	<li><b>Environment Variables</b>
 	<ul>
 		<li>database: Database name</li>
