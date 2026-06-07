@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "Thou Shall Not Commit Adultery",
+    "review": "Cassie interviews her mentor, Anita, for her podcast. They open the phone lines for calls and get a scare. A caller tells Cassie that her message goes against God. Cassie asks her assistant, Lola, why she let the call through. Lola says it was Daniel's decision. Cassie charges into Daniel's office for an explanation. He says controversy sells books and shows the uptick in views during the call. Cassie hates when Daniel puts his managerial duties ahead of being her husband. <br/><br/>Cassie opens a gift in her office and steps back when she sees maggots inside with a note written with Matthew 10:28 and a threat. She believes the caller came to the studio. However, she won't let a creep scare her away.<br/><br/>Cassie arrives at work and sees a handsome man, Troy, in the corner. Lola says it's her new bodyguard, hired by Daniel. Cassie doesn't believe she needs anyone's protection other than God. However, she changes her mind after receiving another threat sent to her home. She wants to start fresh and be friends. Troy agrees. However, that friendly gesture becomes something adulterous. When her stalker becomes aware of her affair, they threaten her livelihood. Can Cassie unmask the culprit before her budding career and rocky marriage crumble?<br/><br/>In this film, the writers made Cassie a woman who tries to straddle the line. She moves her moral goal post with her clothes, message, and guests. Her stalker knows it's a matter of time before that immoral behavior seeps into her marriage. The actors gave an incredible performance and heated up the screen with their blasphemous chemistry. The plot hits the major Lifetime points with a stalker, hidden cameras, and a deadly allergy. However, the conclusion is more realistic. It's a unique change for Lifetime.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thoushaltnotcommitadultery.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thoushaltnotcommitadultery.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Her Husband's Double Life",
+    "review": "EMT Carrie shows off her new engagement ring to her best friend, fellow EMT Nina. Nina asks for all the details about Timothy's proposal. As Carrie shows Nina pictures, they get a call about a car accident. They arrive at the scene, and the woman, Brianna, has minor injuries but screams for her husband, who was ejected from the car. They search around the embankment and find the man. Carrie flips him over to tend to his injuries and can't contain her shock. It's Timothy.<br/><br/>Carrie stands by his hospital bed with Brianna crying by his side. Brianna and Timothy have been married for 20 years. She never knew he was having an affair. Carrie explains that she didn't know anything about Brianna. She and Timothy have been dating for three years and bought a house together. Brianna demands that Carrie leave.<br/><br/>Carrie returns to the hospital later, but she can't visit Timothy. Timothy's mother, Laurel, purposely excluded Carrie from Timothy's visitor list. Then, Sophie enters, stands at Brianna's side, and asks about her dad. Carrie never knew Timothy had a daughter. When Nina tries to lie about her presence, Sophie sees their engagement photo on Carrie's screensaver. Sophie rushes away in tears at her father's infidelity. She runs into her uncle's arms, and Noah assures her that Timothy still loved her.<br/><br/>Carrie took bereavement leave, but she can't grieve because someone's sending her threatening text messages. Nina offers to call her cousin, Detective Kyle, for help. Kyle is her ex-boyfriend. Nina assures Carrie that Kyle will remain professional. So they contact him for help.<br/><br/>Brianna and Sophie rush to the hospital after Laurel alerts them. Sophie sits by her dad's bedside when his heart stops. Timothy dies. Kyle tells Carrie the coroner deemed Timothy's death a murder. She and Timothy's family are all suspects. Carrie must unravel Timothy's lies, but she will need help from the person who hates her the most: Brianna. Can they find Timothy's murderer?<br/><br/>This film has great writing and stunning acting with a solid conclusion. The script gives everyone a motive to kill Timothy and enough pieces of the puzzle for you to solve it. This movie has some pacing issues, but the fun and stunning conclusion makes up for everything. The lighting is perfect, and the texts are easy to read. This film isn't a classic, but it's highly entertaining and surprisingly comical.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/herhusbandsdoublelife.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/herhusbandsdoublelife.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "Checkmate",
+    "review": "Detective Brittany Jones regretfully visits her therapist, Stephanie. The department sent her to therapy after she shot a hostage. Brittany believes getting back on the job will save her. However, Stephanie disagrees. Brittany goes to Captain Sommers for leniency, but he backs Stephanie's findings. During a briefing, Brittany overhears Sommers talking about their latest case. Someone murdered a woman and left a pawn in her mouth with C4 written on her forehead. Brittany recognizes this as a chess move. She believes the killer wants to play. Brittany wants the case, but Sommers says no.<br/><br/>Brittany visits her father, Miles. Miles is upset because she missed his retirement party. She explains the situation, and they sit and play a game of chess. He notices something strange. A pawn to C4 is not a normal opener. And another murder pushes Brittany's curiosity over the edge. She approaches Sommers again, and he relents, but only if she works with Officer Rodriguez. Brittany concedes. Can she find the murderer before they kill again?<br/><br/>This film has a high body count but an average mystery. It's easy to pinpoint the culprit, but the motive is a bit more complex. However, the plot sprinkled hints throughout the film. This film is a refreshing change from the Lifetime lineup but isn't the strongest. Tubi is the proper streaming service for it.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/checkmate-lifetime.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/checkmate-lifetime.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "Where the Heart Lands",
+    "review": "Horse trainer Charlie believes Mystic Spirit could win this race this year. Charlie needs this win to enter the Kentucky Derby. The previous owner, Grace, died and left her estate to her nephew, Nick. Nick has never been to the ranch or seen the horses. Charlie and her father, Jack, assume Nick will sell it when he sees how much it's worth. Farm manager Susie boxes up the ranch's documents for Nick. Before she can seal the package, Charlie writes a quick note to Nick. Charlie inserts the note into the box, and Jack grabs it. He offers to take it to the post office so Susie can finish other tasks. When Charlie and Susie leave, Jack takes out the documents, leaves Charlie's note inside, and mails the box.<br/><br/>Nick opens the box from Susie. He scoffs because the letter is missing its noted attachments. He tells Raquel that he will drop by the ranch, review the paperwork, and sell. Nick lands in Lexington and asks to speak to a man named Charlie. Charlie rolls her eyes and confronts Nick. She convinces him to stay until the race. If she wins the race, the ranch and the horses will be more profitable to the ranch's portfolio. Secretly, Charlie knows she will lose everything she loves if she loses. Can she change Nick's mind in two weeks?<br/><br/>This film follows the Hallmark standard until the fight. That type of violence could only be on Lifetime. The film's pacing is slow, and the backing track overpowers the storyline. The writer has a solid understanding of horses and business, but the plot isn't captivating even for a TV movie. You can predict the ending, conflicts, and compromise. Viewers should save this film for a horse-lover's rainy day.<br/><br/>3 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/wheretheheartlands.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/wheretheheartlands.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "Haunted Harmony Mysteries: Key to the Castle",
     "review": "Gethsemane sees smoke bellowing from the Dorian Castle. She calls the fire department before entering. Gethsemane enters but can't find the source. The director, Roj, yells cut because Gethsemane ruined their shot. Roj is shooting a paranormal show, Before and Afterlife, hosted by ex-spouses Kent and Ciara. Ciara pulls Gethsemane aside because the local pub owner, Siobhan, told Ciara about Gethsemane solving Eamon's murder with supernatural messages. Gethsemane chuckles and says Siobhan is mistaken. Ciara understands Gethsemane's apprehension. She offers to give Gethsemane a tour of the castle and brunch. Gethsemane agrees.<br/><br/>Gethsemane goes to the local pub and approaches Siobhan. She apologizes for contacting Ciara, but she loves the show and the controversy. Paranormal investigator Ciara worked with medium Ed James. Ed and Ciara were in talks with networks to develop a show together. During a public reading, Ciara's then-husband, Kent, exposed Ed. The exposé ruined Ed's career and marriage. His wife died shortly after. Ciara couldn't look at Kent the same. She divorced him shortly after, but now they still work together to create the show.<br/><br/>Gethsemane arrives at the castle. She cautiously approaches Ciara, having a heated exchange with the cinematographer, Eliza. Ciara tells Gethsemane they will get brunch after they wrap the next scene. Kent introduces himself to Gethsemane. He walks Gethsemane around the set and introduces her to his crew. Hardy is the sound guy; Zak is Roj's assistant; this is his first job, and Eliza is Kent's protege. Soon, they hear a scream. Gethsemane and Kent follow the sound, and they can't believe their eyes. Kent's dead body is on the floor. Eamon appears to help Kent get through the initial shock. When the inspector labels Kent's death a murder, Gethsemane and Eamon are on the case. Can they find Kent's killer before someone else on the set dies?<br/><br/>Inspired by Gethsemane Brown Mysteries by Alexia Gordon, the third installment in this series has Gethsemane hiding her abilities around eagle-eyed guests. The script has Gethsemane and Eamon working together and simultaneously. Eamon also helps Kent cope with being a ghost. The plot adds to Gethsemane's love triangle, but the mystery is more compelling than the scandal. The mystery has several suspects with different motives. And the castle setting adds a layer of intrigue. While this movie builds on the relationship between Gethsemane, Eamon, and the afterlife, the love story falls flat.<br/><br/>4.5 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/hauntedharmonymsyterieskeytothecastle.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/hauntedharmonymsyterieskeytothecastle.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "When I Say I Do",
-    "review": "K-9 handler Ali listened to Clint and Lisa's radio show while driving down the road. She almost hits a car in the middle of the road while tending to her dog, Grover. Ali pulls alongside the car and asks the driver, Shawn, if he's lost. She can tell by his uniform that he's a first responder like her. Ali tells him to follow her. They arrive at the search-and-rescue headquarters. Two hikers are missing, and police fear they are in danger. Ali and Grover find clues along the way and locate the hikers at the bottom of a cliff. Ali radios her location to the team. Shawn and his friend, rescue specialist Brett, arrive. Brett prepares the ropes for Shawn to rappel to the hikers. Shawn tries to get Ali's name, but she refuses to give it to him.<br/><br/>After a successful rescue, Ali sees Shawn at the bar. He tries to pay for her meal, but she says no. He takes it as a rejection. Unsure of what to do, Shawn calls into the Clint and Lisa Show. He admits that he ended his engagement. It haunts him that he never apologized to his ex-fiancée. They agree with Brett and tell him to ask Ali out, but to ask his ex for forgiveness first. It will help him close the door on his past so he can look to the future.<br/><br/>Shawn asks Ali on a date, and to his surprise, she says yes. During their meal, she admits that she doesn't date co-workers. Her husband, Kent, died on duty, and it broke her heart. However, they decide to throw caution to the wind and begin their relationship. But will their relationship survive their fears?<br/><br/>Inspired by Clint and Lisa's song, When I Say I Do, this movie follows a couple through the ups and downs of a relationship. The writers introduced action and life-altering events to heighten the film's suspense. The leads have relationship issues to overcome, allowing them both to grow as individuals and a couple. This movie isn't the archetype of romance storytelling. It's funny, heartbreaking, and captivating. Lifetimers should save this movie for a night in with heart-pounding romance.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/whenisayido.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/whenisayido.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "True Justice: Eye for an Eye",
-    "review": "Liam gets a tip from PJ about Sharon's case. PJ believes Sharon was falsely accused of murdering Katherine and dragging her body into the snow. The police uncovered that Sharon and Katherine were part of the Parent School Coalition, or PSC. Sharon became disenfranchised when Katherine's daughter bullied hers, triggering an extreme asthma attack. Sharon decided to join the coalition and dethrone President Katherine. Other members accused Sharon of being enraged and an addict. The team decides to examine PJ's files before taking the case.<br/><br/>Liam, Sarah, Casey, and Eli read through the reports. PSC member Cherelle witnessed Katherine and Sharon fighting a lot, Kimber made scathing remarks about Sharon in the press, and Tarik discussed Sharon's drug abuse. To make matters worse, Katherine's husband, Austin, is best friends with the DA. The one person on Sharon's side is her husband, Dave. After reviewing the case files, the Justice Warriors believe Sharon is innocent, but can they prove it?<br/><br/>The Justice Warriors can do it all. They infiltrate, collect evidence, run diagnostics, and solve the crime. Luckily, they understand the law and how to get around it. The PSC is a Greek tragedy waiting to happen. The only thing missing from this organization was an affair. The crime is easy to follow, and the plot offers a murder board from the beginning. However, showing the after effects of being falsely accused is the film's most honest aspect. This viewpoint will only strengthen the Warriors' resolve. Also, viewers get 3 love stories. This installment is as strong as the first and guarantees more wonderful additions in the future. It is something you want to keep on your DVR to watch again.<br/><br/>4.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/truejusticeeyeforaneye.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/truejusticeeyeforaneye.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Everyone Has Something to Hide",
-    "review": "Kathy and her son, Noah, escape her abusive husband, Dan, with the help of her friend, Brooke. Brooke introduces Noah to her son, Ethan. They play together and become fast friends. Six years later, Noah composes music for the band, and Ethan is a high school football star. Noah and Ethan stopped being friends after Ethan's girlfriend, Maddie, broke up with him and started dating Noah. ending.<br/><br/>Kathy works as a realtor but always looks over her shoulder for Dave. One night, the alarm at one of her properties triggers, but she ignores it. She knows Noah is there having a party. She decides to deal with him in the morning. At the party, Maddie asks Noah to come to the back patio. Soon, Ethan enters. At first, the two get along, but their camaraderie ends with Noah hitting Ethan.<br/><br/>Kathy arrives at the property to check the damage in the morning. She finds Ethan's dead body in a chair on the back patio. She can't believe it and calls the police. After they leave, Kathy confronts Noah about his deception. He swears he didn't do it, but rages like his father. Kathy believes him and will fight the town to prove his innocence. Who killed Ethan?<br/><br/>This movie is a strong mystery with several curveballs to keep Lifetimers watching. Soon, everyone will be a suspect to you. However, the conclusion becomes predictable when someone falls ill. Thankfully, Lifetimers will solve the case with Kathy. You will be glued to the TV to prove your suspicions correct. The final conclusion wraps up all the characters, their future, and the consequences. This film is not the best Lifetime mystery, but it deserves your uninterrupted attention.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/everyonehassomethingtohide.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/everyonehassomethingtohide.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Friends Until the End",
-    "review": "Jules invites her friends Ellie, Taryn, Mya, and Amey to their annual brunch at an off-the-grid estate. Amey calls Taryn because she's concerned about Jules hosting. Last year, Jules didn't show up because her family lost their money, and she suffered emotionally and financially in her divorce. So, Jules missed the last brunch, and they slowly distanced themselves from her. The women arrive in separate cars and walk around the palatial estate. They quip about Jules Pinterest decorations.<br/><br/>Jules appears and invites them to the dining room table. During brunch, Jules takes slight digs at everyone after ignoring her for a year. She leaves the table, and the others roll their eyes at her dramatic nature. After talking amongst themselves, the women look for Jules. They find her dead in her room with red residue in her champagne glass. Then, they try to call for help, but their phones don't have a signal. The staff left, and the concrete fence is too tall to climb. While they argue, Kersten enters. They run out the door to catch her car, but it's too late. They explain the situation to Kersten and take her to Jules's room to show her the body. However, the body is gone. Someone is in the house and playing puppet master. Will they survive?<br/><br/>This film is the perfect display of a victim mentality. The culprit has a slight with every woman in the room, but they had a hand in their demise.  Luckily, the script allows them to push aside petty issues and focus on actual problems. They admit their faults and promise to be better. The conclusion is heartwarming, but the plot mirrors Bodies, Bodies, Bodies, without the blood, gore, and death. Lifetimers should watch this film when they have time off and a high tolerance for nonsense.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/friendsuntiltheend.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/friendsuntiltheend.jpg"
     }
   }
 ];
@@ -58,36 +58,36 @@ module.exports = madeForTV;
 /*
 
 {
-"option": "1",
-"mtitle": "Thou Shalt Not Commit Adultery",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thoushaltnotcommitadultery.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thoushaltnotcommitadultery.jpg"
+"option":"1",
+"mtitle":"The Jealous Bride",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thejealousbride.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thejealousbride.jpg"
 }},
 {
-"option": "2",
-"mtitle": "Her Husband's Double Life",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/herhusbandsdoublelife.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/herhusbandsdoublelife.jpg"
+"option":"2",
+"mtitle":"Deadly Destination Wedding",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/deadlydestinationwedding.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/deadlydestinationwedding.jpg"
 }},
 {
-"option": "3",
-"mtitle": "Checkmate",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/checkmate-lifetime.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/checkmate-lifetime.jpg"
+"option":"3",
+"mtitle":"Tempted",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/temptedonlifetime.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/temptedonlifetime.jpg"
 }},
 {
-"option": "4",
-"mtitle": "Where the Heart Lands",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/wheretheheartlands.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/wheretheheartlands.jpg"
+"option":"4",
+"mtitle":"The Greek Aisle",
+"review":"<br/><br/>* out of 5 stars.",
+"image":{
+  "smallImageUrl":"https://thebestdarngirls.s3.amazonaws.com/small-image/thegreekaisle.jpg",
+  "largeImageUrl":"https://thebestdarngirls.s3.amazonaws.com/large-image/thegreekaisle.jpg"
 }}
 
 
