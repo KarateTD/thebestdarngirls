@@ -1,6 +1,18 @@
 var mustBuy = [
   {
-    "option": "1",
+    "option": "2",
+    "mtitle": "The Super Mario Galaxy Movie",
+    "review": "Princess Rosalina reads her children a bedtime story about the plumbers before putting them to bed. Then, she hears a loud boom outside. She takes down Bowser Jr.'s robot, but he captures her and one of her children, Luma. Before Bowser Jr. sets off on his father's mission, he has one more thing to do: free Bowser. As Bowser Jr. explains his master plan, Luma escapes.<br/><br/>Luigi and Mario find Yoshi in a warp pipe. They bring him to the Mushroom Kingdom before Princess Peach's birthday party. Then, a beautiful swarm of stardust enters the atmosphere and illuminates the planet, but one crashes, leaving a crater. Luigi, Mario, Toad, Yoshi, and Peach find Luma in the crater. Luma explains what happened to Rosalina. She warned her children to find Peach if she was ever in danger. Peach and Toad, against her people's wishes, leave a note and use a launch star to locate Princess Rosalina.<br/><br/>Luigi asks Mario to talk to Bowser. Bowser believes that he has been a model prisoner and asks for an early release. Mario refuses. Then, the castle starts to lift off the ground. Bowser Jr. attacks the Kingdom, but Mario, Luigi, and Yoshi bring everyone to safety. However, Bowser Jr. drops the castle in the Honeyhive Galaxy. When they approach the Honey Queen, she wants to put Mario and Luigi in the honey mines for ruining her crop. Bowser takes their place so they can find Princess Peach. After they leave, Bowser Jr. locates Bowser in the mines and beams his father to his ship. Now, he will avenge his father and destroy the remaining galaxies using power syphoned from Princess Rosalina. Can Mario and Luigi save Princess Peach, Princess Rosalina, and all the galaxies in the universe?<br/><br/>This film's title doesn't disappoint. Fans of the classic game enter an expansive world of galaxies, enemies, and powers. It's amazing to see some of the hardest stages in the game come to life. The graphics don't rely on standard computer animation. The backstories change genres and catch your eye with their vibrant colors. This sequel, like the first, doesn't need the audience to be familiar with the video game. It relies on strong storytelling to explain character motivation and their powers. The story's core is the relationship between parents and children. Rosalina will do anything to protect her children, and Bowser believes he's been a terrible father, but Bowser Jr. remembers a strong, working dad who helped him dream big. There are mid-credit and post-credit scenes. The first is funny, but the second gives you a peek at Super Mario Bros. 3. This movie is for the entire family with zero sexual innuendos, great comedy, stunning graphics, a compelling story, and spectacular combat.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": "B0GQT6DWXN"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thesupermariogalaxymovie.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thesupermariogalaxymovie.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "Hoppers",
     "review": "Mabel's love for animals started at a young age. She tried to free all the school's pets, but the teachers caught her. Her mother exiled Mabel to her grandmother's home. Her grandmother, Ms. Tanaka, understood her rage and taught Mabel to be still and enjoy nature. She brought Mabel to the local glade. They sat on a rock, listening to the creatures. Sadly, her grandmother passed away after Mabel promised to protect the glade.<br/><br/>Today, Mabel still lives in Beaverton, battling Mayor Jerry. He wants to build a new highway shortening the town's commute. However, it will run through the glade. Mabel jets to the glade's dam before Jerry's construction workers can blow it up. She begs him not to do it. However, Jerry states that the city approved it because there aren't any animals around. He gives her 48 hours to get the necessary signatures before blowing up the damn.<br/><br/>Mabel runs to Professor, Dr. Sam, and questions the missing animals. Sam explains that the lead beaver left, so the other animals followed suit. Mabel darts to the glade and sets a beaver trap. Mabel sees a beaver sniff her trap and run away. She chases after it and witnesses someone kidnapping the beaver. She follows them back to the university. Sam explains that she is running an experiment by putting her consciousness into the beaver to better understand animals. Mabel rushes to the machine, locks herself in, and puts her brain into beaver. Mabel escapes to a pond filled with animals. Mabel can understand them and vice versa. She tries to convince another beaver to leave the pond for the glade, but a bear, Ellen, tries to eat him. Mabel stops Ellen, but Mabel has upset the natural order. So Ellen takes Mabel to see King George.<br/><br/>King George is a beaver who regulates by following three rules. The first rule is don't be a stranger. The second is if you gotta eat, eat. The final rule is that we are all in this together. The pond is crowded because something pushed them from their land. So, George made room for them. Mabel asks George why the glade animals left, and he blames it on the harsh sound. Then, she sees a fake tree with speakers on top. It's playing a sound only animals can hear. She believes Jerry put it there to drive the animals out. She warns the animals that humans are the enemy and that they should reclaim their land. Soon, Mabel starts a war that puts Jerry's life in danger. Can she save Jerry and the glade?<br/><br/>This computer-animated movie covers several topics while staying witty and entertaining. It talks about conservation, extreme activism, and teamwork. They painstakingly created animals that weren't too realistic but mimicked their natural actions. The action is exaggerated, but it demonstrates what can happen if we work together. One moment that will resonate with children is Mabel saying she feels insignificant. This feeling changes her from a conservationist to an extremeist. George and her grandmother teach patience and collaboration. This funny and educational picture is for children and adults alike. And stay for the mid- and end-credit scenes.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "Avatar: Fire and Ash",
     "review": "After Neteyam's death, Neytiri and Jake debate what to do with Spider. Neytiri, unable to bear Spider's resemblance to those who killed her son, wants him gone, while Jake hesitates. That night, Spider's mask fails, and he begins gasping, prompting a frantic search for his spare mask. They save him for the moment, but Jake realizes the replacement mask will also eventually fail. When the Wind Traders arrive in Metkayina, Jake decides to bring Spider back to the humans for his safety.<br/><br/>Jake, Spider, and the family travel with the Wind Traders toward the RDA ship. En route, the Mangkwan, or Ash People, attack their aircraft. Amidst the chaos, Spider, Kiri, Tuk, and Lo'ak are separated from the group. Spider's mask battery runs low, and his spare batteries are with the wreckage. Spider collapses. Kiri lays him down, links her queue to the ground, and puts a bug in his mouth. Spider miraculously recovers. Colonel Miles witnesses this and becomes determined to capture his son and bring him to RDA for study. Jake knows that if Miles gains access to this miracle, humans will become unstoppable. The coming battle will result in heavy loss, two new unions, and new life for Pandora.<br/><br/>The third installment of the Avatar franchise focuses on the action while building the Pandora lore. The graphics draw you into Na'vi's world with motion and colors that were meant for 3D, and the score teleports the audience into each breathtaking adventure. While nothing will ever top this first, this film towers above the second in every category. This film has no mid-credit or end-credit scenes. If you are a fan of the first two, then you must see this one in theaters and in 3D with the best sound.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "I Can Only Imagine 2",
     "review": "I Can Only Imagine 2 was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Solo Mio",
     "review": "Matt finds a letter from his fiancée, Heather. She got cold feet and chose not to go through with the wedding. Matt assumes she's fleeing to the U.S., leaves the venue, and runs to the airport. He feverishly texts Heather, and she admits that she didn't leave Italy. Matt arrives at the hotel and requests to cancel his honeymoon package. The concierge says that's not possible and suggests Matt enjoy the trip alone.<br/><br/>Matt maneuvers around rambunctious children and enters a coffee shop. The owner, Gia, runs out before Matt requests a coffee. Gia returns and gives Matt his wallet. She warns him that the children are pickpockets. They sit and have a lovely conversation. He invites her to the next event, and Gia politely refuses because she has to work. Matt leaves and sits on his tandem bike. Then, Gia's ex-boyfriend, landlord Vincenzo, enters and demands to talk. Gia makes a hasty exit and jumps on Matt's bike. The ride around town, eat, and enjoy each other's company.<br/><br/>Later, Matt sits alone at a restaurant. Newlywed Julian sits in the other seat and questions why Matt is solo. He saw Matt with Gia and thought they were a good match. It doesn't take long for Julian to summarize that someone left Mat at the altar. He wants to be Matt's wingman and help him overcome his hurt. Julian and his wife, Meghan, invite Matt to spend the evening clubbing with them. At the piano bar, Julian introduces Matt to newlyweds, Neil and Donna. Julian urges Matt to drink, dance, and mingle. However, Neil believes Matt should embrace his pain and avoid new relationships. Then, Gia walks into the club. Julian vows to bring the two together. With newfound friends by his side, Matt will discover the beauty in being solo, finding love, and embracing Italian culture.<br/><br/>This movie proves that romantic comedies can be interesting, funny, and charming. Matt isn't a man set on revenge dating. He's genuinely hurting. It breaks his heart to be the odd person out. Julian and Neil are two sides of the same coin. They want the best for Matt, but the writer gave them different approaches. These conflicting styles add a new layer of intelligent comedy to the script. And the conclusion brings a shocking twist that will leave your jaw on the floor. This film is a great date movie that will entertain everyone.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/solomio.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/solomio.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Send Help",
-    "review": "Linda gives Donovan the company report and rises, following him to the meeting. Donovan stops her and says they downsized the meeting. He leaves, and she hides behind the corner to watch him. He takes the Post-it Note with her name off the report and takes credit for her work. Linda fumes at home with her bird, but resigns to Donovan's behavior. The president of the company passed away, and his son, Bradley, will take over. Before he passed, he told Bradley to promote Linda to a vice president position to reward her years of dedication and service.<br/><br/>Linda beams as she thinks about her future until she hears a co-worker talking about an interoffice memo. It announces Donovan as the next vice president. The rage in Linda boils over, and she charges into Bradley's office. He explains that he objected to his father's opinion because Linda doesn't present well. They have a deal to close in Shanghai. If she can close the deal, he will consider her for the position.<br/><br/>Linda arrives at the hangar and boards Bradley's private jet. She works on the documentation while the men childishly converse. Linda hears them laughing between songs and removes her earbuds. She uncovers that they are laughing at her Survivor audition tape. The flight attendant instructs them to buckle their seatbelts due to incoming turbulence. Bradley, safely in his seat, heckles his friends for following her orders. So, they ignore her and chuckle. The plane crash-lands in the ocean.<br/><br/>Linda wakes on a deserted island. She finds Bradley with a horrible gash on his leg. Bradley wakes up a day and a half later. He demands that Linda follow his orders and build a raft to take them to safety. Linda pauses at his ungrateful nature. Bradley scoffs and reminds Linda that she works for him. Linda chuckles. With her survivalist skills, she is running the show. Will they survive?<br/><br/>This film is for anyone who feels overlooked or underappreciated. Linda is the office misfit. The writers added this to her personality to explain why she desperately seeks friendship and validation. The editor slowly panned over her books as Linda cooked. An eagle-eyed viewer will spot books about survival, tying knots, and poisonous plants. The storyline made Linda conditioned for the outdoors. This trait bubbles over into her work life. This movie fails with its CGI. The crash and boar scenes are distracting and overly digitized. This film's gem is the dialogue. It's witty, dark, and unhinged. This picture is worthy of the big screen.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0GQN62NG2"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sendhelp.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sendhelp.jpeg"
     }
   }
 ];
@@ -99,10 +99,23 @@ module.exports = mustBuy;
 
   {
     "option": "1",
+    "mtitle": "Lucky Strike",
+    "review": "Lucky Strike was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/luckystrike.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/luckystrike.jpeg"
+    }
+  }
+
+  {
+    "option": "1",
     "mtitle": "Project Hail Mary",
     "review": "Project Hail Mary was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
-      "re": ""
+      "re": "B0GPRG2JWY"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/projecthailmary.jpeg",
@@ -115,7 +128,7 @@ module.exports = mustBuy;
     "mtitle": "Tuner",
     "review": "Tuner was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
-      "re": ""
+      "re": "B0H279BTR8"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tuner.jpeg",
@@ -128,7 +141,7 @@ module.exports = mustBuy;
     "mtitle": "RZA's One Spoon of Chocolate",
     "review":"RZA's One Spoon of Chocolate was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
-      "re": ""
+      "re": "B0H471MTF9"
     },
     "image":{
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/onespoonofchocolate.jpeg",
@@ -175,25 +188,12 @@ module.exports = mustBuy;
     }
   }
 
-  {
-    "option": "2",
-    "mtitle": "The Super Mario Galaxy Movie",
-    "review": "Princess Rosalina reads her children a bedtime story about the plumbers before putting them to bed. Then, she hears a loud boom outside. She takes down Bowser Jr.'s robot, but he captures her and one of her children, Luma. Before Bowser Jr. sets off on his father's mission, he has one more thing to do: free Bowser. As Bowser Jr. explains his master plan, Luma escapes.<br/><br/>Luigi and Mario find Yoshi in a warp pipe. They bring him to the Mushroom Kingdom before Princess Peach's birthday party. Then, a beautiful swarm of stardust enters the atmosphere and illuminates the planet, but one crashes, leaving a crater. Luigi, Mario, Toad, Yoshi, and Peach find Luma in the crater. Luma explains what happened to Rosalina. She warned her children to find Peach if she was ever in danger. Peach and Toad, against her people's wishes, leave a note and use a launch star to locate Princess Rosalina.<br/><br/>Luigi asks Mario to talk to Bowser. Bowser believes that he has been a model prisoner and asks for an early release. Mario refuses. Then, the castle starts to lift off the ground. Bowser Jr. attacks the Kingdom, but Mario, Luigi, and Yoshi bring everyone to safety. However, Bowser Jr. drops the castle in the Honeyhive Galaxy. When they approach the Honey Queen, she wants to put Mario and Luigi in the honey mines for ruining her crop. Bowser takes their place so they can find Princess Peach. After they leave, Bowser Jr. locates Bowser in the mines and beams his father to his ship. Now, he will avenge his father and destroy the remaining galaxies using power syphoned from Princess Rosalina. Can Mario and Luigi save Princess Peach, Princess Rosalina, and all the galaxies in the universe?<br/><br/>This film's title doesn't disappoint. Fans of the classic game enter an expansive world of galaxies, enemies, and powers. It's amazing to see some of the hardest stages in the game come to life. The graphics don't rely on standard computer animation. The backstories change genres and catch your eye with their vibrant colors. This sequel, like the first, doesn't need the audience to be familiar with the video game. It relies on strong storytelling to explain character motivation and their powers. The story's core is the relationship between parents and children. Rosalina will do anything to protect her children, and Bowser believes he's been a terrible father, but Bowser Jr. remembers a strong, working dad who helped him dream big. There are mid-credit and post-credit scenes. The first is funny, but the second gives you a peek at Super Mario Bros. 3. This movie is for the entire family with zero sexual innuendos, great comedy, stunning graphics, a compelling story, and spectacular combat.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0GQT6DWXN"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thesupermariogalaxymovie.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thesupermariogalaxymovie.jpeg"
-    }
-  }
-
    {
     "option": "1",
     "mtitle": "Masters of the Universe",
     "review": "Adam sits back and reflects on the events that drove him to Earth. He lived an enchanted life on Eternia with his mother, Queen Marlena, and father, King Randor. Every day, the king's trusted general, Duncan, trains the children to become future warriors. Duncan's daughter, Teela, is one of the best in the class. Adam, on the other hand, is the runt of the litter. They need Adam to gain his confidence because Teela's mother, Sorceress, says Adam will become the savior of Eternia when he wields the Sword of Power.<br/><br/>During training, Teela and Adam sneak away. Teela sees a light coming from Grayskull. She wonders why her mother is staring at the sky. Soon, bombs hit. Duncan tells the royal family and his daughter to escape to safety while he fights the intruders. Sadly, his valiant efforts aren't enough, and Skeletor surrounds Randor, Marlena, and Adam. When Skeletor demands the sword, Marlena instructs Sorceress to send Adam and the sword to her home planet. She warns Adam to never separate from the sword because it will be his only way to get home. As Skeletor attacks Marlena, the Sorceress folds space and pushes Adam and the sword through. In the journey, the portal separates Adam and the sword. He landed in Oklahoma City 15 years ago and is still looking for the Sword of Power.<br/><br/>Adam works in Human Resources. Adam's boss admits that his online searches for swords spark fear in his co-workers during an impromptu performance review. As she threatens to fire him, he gets a call about a sword. He grabs his phone and promptly exits. Adam travels to the comic book store and finds his sword in the hands of a statue. He grabs it, says the incantation, and thrusts it into the air, but nothing happens. He steals the sword, goes home, and sleeps. The police find and arrest Adam later.<br/><br/>The police and Adam get stuck in a traffic jam on the way to the precinct. Then Adam sees drivers exit their cars and run in a panic. He spots a beast terrorizing the highway. The beast grabs for Adam, but something helps him escape. It's Teela. The sword sent a signal when Adam raised it in the air. She helps Adam escape, and they fly to Eternia.<br/><br/>They arrive, and Adam can't believe his eyes. Skeletor ravished this country. Teela reintroduces everyone to Adam. They don't believe he's their long-lost king. As they deliberate, Skeletor and his goons assault the small outfit because they have the sword. With the sword, Skeletor can become a god. Adam must find his power to wield the sword and defeat Skeletor, reclaiming his homeland for his people.<br/><br/>Based on the Masters of the Universe franchise, this film's storytelling is a comedic, action-packed thrill ride with a few lulls. Fans of the original film will get a surprise cameo with a classic catchphrase. The film's graphics are leaps and bounds ahead of the trailers. It has moments for fans of the animated series that will stir up childhood memories. And the cinematography during the final battle is masterful. And the conclusion gives the audience a wonderful lesson. This movie provides mid- and post-credit scenes that give you a peek at part two. This film is a standout in the superhero category and could build on the lure with the right marketing and writing. The first 30 minutes give the audience a detailed recap of Adam's history. You should see this film with the best speaker and largest screen, but the lulls may bore you.<br/><br/>4 out of 5 stars.",
     "asin": {
-      "re": ""
+      "re": "B0H37TKF4D"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mastersoftheuniverse.jpeg",
