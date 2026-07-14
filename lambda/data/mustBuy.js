@@ -1,6 +1,30 @@
 var mustBuy = [
   {
-    "option": "1",
+    "option":"1",
+    "mtitle":"Normal",
+    "review":"Normal was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0GVGVJ8C7"
+    },
+    "image":{
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/normal.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/normal.jpeg"
+    }
+  },
+   {
+    "option":"2",
+    "mtitle": "RZA's One Spoon of Chocolate",
+    "review":"RZA's One Spoon of Chocolate was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0H471MTF9"
+    },
+    "image":{
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/onespoonofchocolate.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/onespoonofchocolate.jpeg"
+    }
+  },
+  {
+    "option": "3",
     "mtitle": "The Drama",
     "review": "Charlie mulls over his wedding speech with his friend, Mike. Charlie writes about his and Emma's meet-cute, first date, and first kiss. On the other side of town, Emma is unsure about what to write because Charlie is her first love and crush. Charlie and Emma meet Mike and his wife, Rachel, for a menu tasting. Rachel and Mike reveal that they exposed the worst things they did before they got married. And they shockingly admit them to Charlie and Emma. After some prodding, Charlie confesses his secret, and they chuckle over frontal-lobe excuses. However, the mood changes when Emma blurts out her secret. Rachel thinks it's unforgivable after witnessing the aftereffects. Emma begs for understanding and forgiveness, but Rachel won't budge. Emma gets sick at the table, and the two couples part for the evening. Charlie and Emma return home, but he doesn't look at her the same. Can they continue with the wedding next week as the drama about Emma's past unfolds?<br/><br/>This film isn't a typical romantic drama. Emma's secret adds a darker edge. And no, it's not what you think. While some are willing to forgive, others push her away without recourse. However, the audience witnesses Charlie's breakdown with compelling edits. He thinks back to her outbursts, jokes, and crude behavior and wonders if they were red flags. He also imagines if she's the woman he knows or the teen she hides from him. Everything around him becomes a potential warning or a trigger. While the edits tell an intriguing story, the morbid comedy shines. Their meeting with the photographer is the funniest, yet cringiest, moment of the film. This movie glimmers with awkwardness and thought-provoking conversation that lead to an acceptable conclusion.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -12,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "4",
     "mtitle": "Crime 101",
     "review": "Mike intercepted a diamond exchange at Sammy's jewelry store and walked away with millions of dollars' worth of diamonds. However, this time was different. The passenger pulled out a gun, aimed it at Mike, and fired. Although it misfired, a fragment grazed him. Mike tells his fence, Money, that he's having second thoughts about the next heist. Money tells Mike to relax and enjoy his payday. Mike relaxes at home, and Money calls Ormon to do the job Mike won't do. Mike asks his hacker friend to look into Sharon. Her clients have access to some of the finest jewels. If he can get close to her, he can rob her clients.<br/><br/>Insurance broker Sharon meets with a potential client, Steven. Everything goes well until she mistakes his fiancée for his daughter. She asks her boss about her promotion to partner, but he dismisses her. Later, he introduces a younger woman to the team and gives her Steven's account. Then, he tells Sharon to investigate the diamond theft at Sammy's jewelry store. He wants Sharon to work with the detectives and ask them to perform a polygraph test.<br/><br/>Detective Lou and Tillman question Sammy after the robbery. Lou believes this robbery matches a string of high-end jewelry heists. He meets with Sharon, and she updates him about the insurance company's concerns. She mentions that people follow a pattern that they can't break. That phrase gives Lou an idea. He narrows down the robberies and finds the pattern along Highway 101. After everyone leaves, his boss tells Lou to keep the thief's profile quiet. Lou's theory will reopen those cases and disrupt their closure rate. Lou refuses to let it go.<br/><br/>Mike casually meets with Sharon and propositions her to help him. She promptly says no. He gives her a cell phone with his contact information if she changes her mind. While on a date, Mike sees that Ormon violently attacked store owners at the mark that Money wanted him to hit. Mike confronts Money, but Money won't back down. When Mike catches Ormon in the shadows, he knows it's a matter of time before Ormon kills him. Across town, Sharon forces her boss to tell her the truth. He admits that they will never promote her. Sharon calls Mike for revenge and a cut. Officers intercepted a robbery in progress and suspect that it's the Highway 101 thief. They shoot and kill him. After realizing the mistake, an officer plants a gun on the body. Lou's dumbfounded. He located Mike's car and his DNA inside it. He vows to find Mike and make him pay for his crime. Who will win in this game of cat and mouse: Sharon, Mike, or Lou?<br/><br/>This slick crime drama adds something fun, unique, and sexy to the genre. The characters are well-written and dynamic. Mike is the man with a plan. Sharon is a woman on the edge. Lou is a man who never rests on his laurels. Viewers will root for all of them to win because they deserve it. The crimes are captivating and stunning with an appropriately comical dialogue. The film doesn't feel like two hours because it enthralls you. The main characters have refreshing redemption arcs. This film may not conquer this award season, but it will win audiences. Viewers should see it in theaters today.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -24,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "5",
     "mtitle": "The Super Mario Galaxy Movie",
     "review": "Princess Rosalina reads her children a bedtime story about the plumbers before putting them to bed. Then, she hears a loud boom outside. She takes down Bowser Jr.'s robot, but he captures her and one of her children, Luma. Before Bowser Jr. sets off on his father's mission, he has one more thing to do: free Bowser. As Bowser Jr. explains his master plan, Luma escapes.<br/><br/>Luigi and Mario find Yoshi in a warp pipe. They bring him to the Mushroom Kingdom before Princess Peach's birthday party. Then, a beautiful swarm of stardust enters the atmosphere and illuminates the planet, but one crashes, leaving a crater. Luigi, Mario, Toad, Yoshi, and Peach find Luma in the crater. Luma explains what happened to Rosalina. She warned her children to find Peach if she was ever in danger. Peach and Toad, against her people's wishes, leave a note and use a launch star to locate Princess Rosalina.<br/><br/>Luigi asks Mario to talk to Bowser. Bowser believes that he has been a model prisoner and asks for an early release. Mario refuses. Then, the castle starts to lift off the ground. Bowser Jr. attacks the Kingdom, but Mario, Luigi, and Yoshi bring everyone to safety. However, Bowser Jr. drops the castle in the Honeyhive Galaxy. When they approach the Honey Queen, she wants to put Mario and Luigi in the honey mines for ruining her crop. Bowser takes their place so they can find Princess Peach. After they leave, Bowser Jr. locates Bowser in the mines and beams his father to his ship. Now, he will avenge his father and destroy the remaining galaxies using power syphoned from Princess Rosalina. Can Mario and Luigi save Princess Peach, Princess Rosalina, and all the galaxies in the universe?<br/><br/>This film's title doesn't disappoint. Fans of the classic game enter an expansive world of galaxies, enemies, and powers. It's amazing to see some of the hardest stages in the game come to life. The graphics don't rely on standard computer animation. The backstories change genres and catch your eye with their vibrant colors. This sequel, like the first, doesn't need the audience to be familiar with the video game. It relies on strong storytelling to explain character motivation and their powers. The story's core is the relationship between parents and children. Rosalina will do anything to protect her children, and Bowser believes he's been a terrible father, but Bowser Jr. remembers a strong, working dad who helped him dream big. There are mid-credit and post-credit scenes. The first is funny, but the second gives you a peek at Super Mario Bros. 3. This movie is for the entire family with zero sexual innuendos, great comedy, stunning graphics, a compelling story, and spectacular combat.<br/><br/>4.5 out of 5 stars.",
     "asin": {
@@ -33,30 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thesupermariogalaxymovie.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thesupermariogalaxymovie.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Hoppers",
-    "review": "Mabel's love for animals started at a young age. She tried to free all the school's pets, but the teachers caught her. Her mother exiled Mabel to her grandmother's home. Her grandmother, Ms. Tanaka, understood her rage and taught Mabel to be still and enjoy nature. She brought Mabel to the local glade. They sat on a rock, listening to the creatures. Sadly, her grandmother passed away after Mabel promised to protect the glade.<br/><br/>Today, Mabel still lives in Beaverton, battling Mayor Jerry. He wants to build a new highway shortening the town's commute. However, it will run through the glade. Mabel jets to the glade's dam before Jerry's construction workers can blow it up. She begs him not to do it. However, Jerry states that the city approved it because there aren't any animals around. He gives her 48 hours to get the necessary signatures before blowing up the damn.<br/><br/>Mabel runs to Professor, Dr. Sam, and questions the missing animals. Sam explains that the lead beaver left, so the other animals followed suit. Mabel darts to the glade and sets a beaver trap. Mabel sees a beaver sniff her trap and run away. She chases after it and witnesses someone kidnapping the beaver. She follows them back to the university. Sam explains that she is running an experiment by putting her consciousness into the beaver to better understand animals. Mabel rushes to the machine, locks herself in, and puts her brain into beaver. Mabel escapes to a pond filled with animals. Mabel can understand them and vice versa. She tries to convince another beaver to leave the pond for the glade, but a bear, Ellen, tries to eat him. Mabel stops Ellen, but Mabel has upset the natural order. So Ellen takes Mabel to see King George.<br/><br/>King George is a beaver who regulates by following three rules. The first rule is don't be a stranger. The second is if you gotta eat, eat. The final rule is that we are all in this together. The pond is crowded because something pushed them from their land. So, George made room for them. Mabel asks George why the glade animals left, and he blames it on the harsh sound. Then, she sees a fake tree with speakers on top. It's playing a sound only animals can hear. She believes Jerry put it there to drive the animals out. She warns the animals that humans are the enemy and that they should reclaim their land. Soon, Mabel starts a war that puts Jerry's life in danger. Can she save Jerry and the glade?<br/><br/>This computer-animated movie covers several topics while staying witty and entertaining. It talks about conservation, extreme activism, and teamwork. They painstakingly created animals that weren't too realistic but mimicked their natural actions. The action is exaggerated, but it demonstrates what can happen if we work together. One moment that will resonate with children is Mabel saying she feels insignificant. This feeling changes her from a conservationist to an extremeist. George and her grandmother teach patience and collaboration. This funny and educational picture is for children and adults alike. And stay for the mid- and end-credit scenes.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0GZ8XN126"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/hoppers.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/hoppers.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Avatar: Fire and Ash",
-    "review": "After Neteyam's death, Neytiri and Jake debate what to do with Spider. Neytiri, unable to bear Spider's resemblance to those who killed her son, wants him gone, while Jake hesitates. That night, Spider's mask fails, and he begins gasping, prompting a frantic search for his spare mask. They save him for the moment, but Jake realizes the replacement mask will also eventually fail. When the Wind Traders arrive in Metkayina, Jake decides to bring Spider back to the humans for his safety.<br/><br/>Jake, Spider, and the family travel with the Wind Traders toward the RDA ship. En route, the Mangkwan, or Ash People, attack their aircraft. Amidst the chaos, Spider, Kiri, Tuk, and Lo'ak are separated from the group. Spider's mask battery runs low, and his spare batteries are with the wreckage. Spider collapses. Kiri lays him down, links her queue to the ground, and puts a bug in his mouth. Spider miraculously recovers. Colonel Miles witnesses this and becomes determined to capture his son and bring him to RDA for study. Jake knows that if Miles gains access to this miracle, humans will become unstoppable. The coming battle will result in heavy loss, two new unions, and new life for Pandora.<br/><br/>The third installment of the Avatar franchise focuses on the action while building the Pandora lore. The graphics draw you into Na'vi's world with motion and colors that were meant for 3D, and the score teleports the audience into each breathtaking adventure. While nothing will ever top this first, this film towers above the second in every category. This film has no mid-credit or end-credit scenes. If you are a fan of the first two, then you must see this one in theaters and in 3D with the best sound.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0GVBG563M"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/avatarfireandash.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/avatarfireandash.jpeg"
     }
   }
 ];
@@ -133,19 +133,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tuner.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tuner.jpeg"
-    }
-  }
-
-  {
-    "option":"1",
-    "mtitle": "RZA's One Spoon of Chocolate",
-    "review":"RZA's One Spoon of Chocolate was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0H471MTF9"
-    },
-    "image":{
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/onespoonofchocolate.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/onespoonofchocolate.jpeg"
     }
   }
     
