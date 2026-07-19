@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
-    "mtitle": "He Couldn't Let Go",
-    "review": "Marianna and Faye enter a conference room to speak to Herbert. He assumes they want to discuss his company's security breach. He assures them that the impact was minimal and that they handled it. However, Marianna confronts Herbert about sexual harassment. When Herbert's cornered, he threatens her. Herbert whispers a threat in her ear before exiting. Marianna will be on high alert until she knows Herbert's mental state.<br/><br/>Marianna relaxes at home until she sees something outside her bedroom window. As she tiptoes over to look, her boyfriend, Nick, appears behind her. She yelps, and he apologizes for scaring her. Later, he gets a message from his friend Dylan. Dylan will be in town for a night and wants to cook for them tomorrow evening. Marianna rolls her eyes and agrees to welcome Dylan.<br/><br/>After work, she gets a text from Nick. He will be late because he's meeting with a client. Marianna arrives home but stops to find her front door ajar. Dylan pops out and comments that Nick told him to use the spare key. Throughout the night, something about Dylan's body language concerns Marianna. Dylan is hiding something. Can Marianna unlock the truth before it's too late?<br/><br/>This calm thriller has a slow pace, leading to a foreseeable twist. The setup gives the viewer plenty of potential threats to choose from. he backing track added some needed thrills to the plot and helped emphasize when you needed to care. This film has a few surprises but lacks inspiration.<br/><br/>3 out of 5 stars.",
+    "mtitle": "Crowning at the Prom",
+    "review": "Kat is running for homecoming queen, is an active member of the rowing team, is applying to Ivy League schools, is maintaining a perfect grade point average, and is the most popular girl in school. Her best friend, Hannah, wonders if Kat will go to Penn or Yale with her boyfriend, Travis. Kat assures Hannah that Yale is the only place for her. Kat's mom, Abigail, is happy that Kat will continue her relationship with Travis because he comes from a successful family.<br/><br/>Kat and Hannah arrive at school, and Hannah sees Kat's ex-boyfriend, Simon, by Kat's locker. Simon doesn't believe she's happy in her new relationship. He thinks she's only dating Travis to please Abigail. Kat walks away.<br/><br/>Kat goes to the gym to work out. Her coach weighs the team members. To Kat's surprise, she's 3 pounds overweight. Her coach isn't stressed because she has 65 days to burn it off. Until then, Kat will double her workouts and eat less.<br/><br/>Days later, Kat and Hannah attend Travis's senior BBQ. When Travis sees Simon touch Kat, he rushes over to her. She stands between them as the two argue until she faints. Kat wakes up in the hospital, and her doctor has startling news. She is 6 months pregnant. The doctor checked her lab results and concluded that Kat has anorexia athletica. She plans to go to prom, lose weight, row, become prom queen, find a family for the baby, and go to Yale without anyone knowing about the pregnancy. Kat swears she has everything under control, but her need for perfection could kill her and her baby.<br/><br/>This film shines a light on an obscure eating disorder while using teen pregnancy to hook you into the plot. The backing track helps viewers understand Kat's obsession with working out and dieting. Viewers will become frustrated that Kat never goes to a doctor's appointment or tells her mother. You must remember that Kat is a scared, ill-informed, and self-centered teen. These Lifetime heroines never disappoint and pull off an outstanding performance. The audience will be fully engrossed in the movie. While the film has some shortcomings, it makes its point while entertaining you.<br/><br/>4.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/hecouldntletgo.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/hecouldntletgo.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/crowningattheprom.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/crowningattheprom.jpg"
     }
   },
   {
     "option": "2",
-    "mtitle": "The Night Everything Changed",
-    "review": "Ellie steals money from her mother, Tina, and stuffs it into her duffel bag. Tina stops Ellie in the kitchen to update her about their upcoming move. Ellie groans because she wants to stay near her boyfriend, Caleb. She brushes it off and leaves to spend the night at her friend's home.<br/><br/>Ellie arrives at Jessica's and greets Jessica's mom, Rachel. Ellie's other friends, Lily and Kendall, are in Jessica's bedroom. They worry that going out tonight is a bad idea. Someone leaked intimate photos of Jessica around the school, but Jessica won't let that deter her. She plans to party with her head held high. But the party is just a ruse. Ellie and Caleb planned to run away together.<br/><br/>The girls enter the party and have fun. Then, Lily pulls Ellie aside and begs her not to leave with Caleb. Lily confesses that Caleb is cheating on Ellie. Ellie darts to find Caleb and confronts him. He follows her outside.<br/><br/>Tina gets word that Ellie missed her morning tennis lesson. Tina arrives at Rachel's house and explains the situation. Rachel informs Tina that the girls went to a party, unbeknownst to Tina. Then, Jessica tells Tina about Ellie's plan to run away. The police uncover party footage of Ellie's argument with Caleb. Now, they fear that Caleb killed Ellie before they could run away. Tina will stop at nothing to find and save Ellie. But will she get there in time?<br/><br/>This suspense thriller spends the first act building the world around Ellie and Tina. Viewers learn Ellie's runaway plot, but you know there is something more when a hooded stranger grabs her from behind. By the third act, the audience knows Ellie's status. So the script changes from 'where is Ellie?' to 'who kidnapped Ellie?' While it's a change in direction, it keeps you on the hook. However, the motive falls flat because of petty rivalries, high school drama, and cattiness. While you don't need to rush home to watch this film, you can use it as a teaching moment for your teens.<br/><br/>3 out of 5 stars.",
+    "mtitle": "My Daughter's Trapped in a Throuple",
+    "review": "Lori reviews her case when Detective Ben enters her office with good news. The defendant, Frank, decided to plead guilty to embezzlement. Lori knows this information could have been in an email. Ben laughs because he wanted to ask her out. She admits she has plans with her daughter, Mia, so she asks for a rain check.<br/><br/>Lori waits for Mia at a café and sees her kissing a man through the window. She questions Mia about him, but Mia says the relationship is too new. Days later, Lori returns to the café and sees him kissing another woman. Lori arrives at Mia's apartment, and the mystery woman, Bree, from the café answers the door. Bree invites Lori inside. Before Lori can tell Mia about her boyfriend, he enters. He introduces himself as Ethan. Ethan reveals that they are in a throuple. Lori can't wipe the shocked look off her face as Mia assures her mom she's happy.Will things change when Lori finds a dead body in Mia's apartment?<br/><br/>This movie thrives on steady pacing and well-written characters. The new relationship dynamics of throuples hook viewers into the plot. The twist starts with a phone call begging for help. Then, Lori finds a dead body and goes into lawyer mode. Next, she's working to save herself and everyone she loves. While the body count is low, viewers need to watch it from the beginning to understand the motive. This movie keeps you watching, but not guessing.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thenighteverythingchanged.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thenighteverythingchanged.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mydaughterstrappedinathrouple.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mydaughterstrappedinathrouple.jpg"
     }
   },
   {
     "option": "3",
-    "mtitle": "Christmas Under Construction",
-    "review": "Chelsea and Jake, a couple, co-host a home renovation show called Renovation Romance. While they work with the couple to renovate their home, Chelsea, a therapist, guides them through relationship issues. After wrapping their 1st season, network executive Don throws a party to celebrate because their show has the best ratings. Don admits he's unhappy. They follow him to his office. The network lost the bid for the Christmas Parade and will lose advertising without a replacement show. He wants Chelsea and Jake to film a Christmas special in 10 days. The network has a couple in mind because they have a beautiful Christmas cabin. Chelsea agrees.<br/><br/>Chelsea, Jake, and Bethany arrive in New Hampshire. Their driver picks them up from the airport and takes them to the cabin. During the ride, Bethany discusses the couple, Cooper and Janice. Cooper and Janice disagree with the renovation ideas. She wants something more modern, while he wants to keep the family cabin as is. Bethany swoons over the handsome Cooper, while Chelsea maintains her cool. When they arrive at the residence, Jake handles calls outside while Chelsea looks around the home. The driver meets her inside and introduces himself as Cooper. He laughs at Bethany's compliments before they meet with him and Janice.<br/><br/>Chelsea and Jake conduct their first interview with Cooper and Janice for the show. Janice feels uncomfortable when they discuss their personal issues. So she will fly to New York to take care of business while Cooper stays and helps the show with the project. Chelsea and Bethany scramble to find a solution because the show relies on couples. Jake plans to travel to New York for a meeting. He will go with Janice to tape her segments and get design inspirations. Will Cooper and Chelsea rebuild something more than a home this Christmas?<br/><br/>This holiday romance is the first in the Christmas in July slate. The sets have a beautiful holiday feel with lights, snow, and massive Christmas trees. The script has the Hallmark holiday tropes with a meet-cute, snowfall, and Christmas kiss. While the moments feel predictable, the writers made the clichés part of the show. The chemistry between Chelsea and Cooper feels loving, but viewers will feel the disconnect between their partners. This helps build the romance between the leads. While this is a solid film, you will disconnect as the pace slows. However, it's an entertaining start to this season's programming.<br/><br/>3.5 out of 5 stars.",
+    "mtitle": "Disney's Descendants Wicked Wonderland",
+    "review": "Chloe and Red return to their time with safe and loving mothers. They decided to lock Maddox's pocket watch into the Wonderland Royal Vault. Now, no one can use it to change the past. They return to their respective castles. However, their world has changed. Chloe's mother, Cinderella, no longer believes in shades of gray. Red has a little sister, Pink, who smiles as big as her mother, the Queen of Hearts. Also, Red isn't considered a villain kid but a hero like Chloe. They vow to remain friends.<br/><br/>Chloe, Red, and Pink arrive at Auradon Prep. Luis Madrigal and Robbie Hood warmly greet them but warn them to beware of the evil VKs in the school. Hazel Hook roams the halls with Felix Facilier, Squirmy Smee, Squeaky Smee, and Max Hatter. Red can't believe the son of her tutor, Maddox Hatter, is a villain. Maddox swears someone stole his pocket watch and went back in time. He went crazy looking for it. The Queen of Hearts sent Maddox to the Isle of the Lost. In Wonderland, the Queen congratulates her subjects on a job well done. Then, they all fall asleep. Maddox enters her royal room and demands to know the watch's location. Before she can reprimand him, Maddox hits her with sleeping gas. She sends a card to Red, begging for help.<br/><br/>Red receives the card at school. She wants to save her mom but doesn't know where to start. Chloe knows her mom will help, but she says no. Chloe can't comprehend her mother's demeanor. They decide to save the Queen together. However, Pink, Robby, and Luis won't let them go alone.<br/><br/>Max overhears their plan and pulls Hazel aside. He's tired of people comparing him to his father. He thinks that helping Red and Chloe save the Queen will force people to see him as an individual. Hazel grabs the Smees and Felix to travel with them. They meet Red and her crew at the rabbit hole. Can they save the Queen without revealing how they changed the past?<br/><br/>Now, this movie is leaps and bounds ahead of its predecessor. It tells a complete story with several messages for teens and tweens. The choreography is clean, the costumes are stunning, and it includes new fairy tales. The antagonist has a compelling origin story. It makes viewers sympathize with his plight, while the protagonist has a journey of self-discovery between hero and villain. The songs are catchy, funny, and thought-provoking. Original descendants fans will spend too much time comparing the old to the new. However, this film doesn't forget about Carlos. Viewers can skip Descendants 4 because the narrator summarizes it within the first minute. This film is for the next generation to enjoy and sing along.<br/><br/>3.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/christmasunderconstruction.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/christmasunderconstruction.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/descedantswickedwonderland.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/descedantswickedwonderland.jpg"
     }
   },
   {
     "option": "4",
-    "mtitle": "Get Off My Lawn",
-    "review": "Alec walks by his grandfather's old home with his friends, Ethan and Ray. He introduces them to the new couple, Jackie and Jason. They moved into the home today and can't believe their luck. They bid below market value and got the home because they agreed to keep it as is and skipped the inspection. Alec offers to show them the home's secrets, and they let him inside.<br/><br/>Alec shows them his grandfather's rules, their family pictures, and his growth chart. When Jackie mentions taking it down, Alec's rage builds. He thought they would leave the home as is and not destroy his family's memories. He tampers down his anger and asks them to let him mark his height one last time.<br/><br/>After a few more incidents, Alec decides the couple doesn't deserve his grandfather's home. Ray says he can pull pranks on the couple, post them on social media, and make money going viral. Then, he can use the proceeds to buy the home and kick them out. It's all fun and games until the pranks turn violent. Can Jackie and Jason survive this deranged teenager?<br/><br/>This film is listed as a thriller, but it's pure comedy. The 'teens' are too old, the fight scenes are ridiculous, and the plot is outlandish. And the edits are terrible. The film's only redeeming quality is that it's so bad it's funny. You will laugh with each jump scare, threat, and act of violence. Lifetimers should skip this film.<br/><br/>1.5 out of 5 stars.",
+    "mtitle": "Deadly Sign-In",
+    "review": "Kate puts up flyers around town to promote her private tastings. She wants to promote community and good food. She convinces friends from both inside and outside of work to sign up. After work, she leaves to cook her first dinner. Sadly, someone's destroyed her flyers.<br/><br/>Before dinner, she invites everyone to sign in to her speaker and add a song to the playlist. While they chat, a disturbing track plays on the speaker. It's a woman crying and begging for her life. Kate unplugs it, and her guests blame her. She points the finger at them. They finish the meal without music.<br/><br/>After work, Kate finds more flyers ripped from the wall. She goes upstairs to find police blocking a floor. Kate uses the stairwell to sneak to the floor. When the officer spots her again, she informs Kate that someone murdered a woman. She asks to speak to a detective and tells him about the strange occurrence during her party. He grabs their digital expert, Daniel, and asks him to help her.<br/><br/>Daniel scans Kate's equipment but can't find anything on the surface. He will do a deep dive later. Until then, he warns her not to use guest sign-in on her speaker. When the hacking affects her business, Kate has two options: find the stalker or go offline. Can she figure out who is stalking her?<br/><br/>This film crawls like a snail to an obvious suspect. And the motive is pathetic. The backing track doesn't garner excitement, and the acting is uninspired. Everyone went through the motions for this picture. The plot judges technology and wi-fi more than the culprit's motive. Viewers should save their time and skip this film.<br/><br/>1.5 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/getoffmylawn.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/getoffmylawn.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deadlysignin.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deadlysignin.jpg"
     }
   },
   {
     "option": "5",
-    "mtitle": "A Castle of Our Own",
-    "review": "Lily sits in her mother's office waiting for a ride to her father, Dan's, home. Since they separated, Dan and Marley have gotten along for the sake of Lily. Dan and Lily have plans to drive up the coast and stay in Cannon Cove to reconnect. Marley and Lily leave to drive to Dan's home. When Lily goes outside with her grandmother, Dan asks Marley to talk. He's competing for a lucrative contract and needs more time to work on it. He asks Marley to drive Lily up the coast, and he will meet them in Cannon Cove later. Marley agrees. Later, Marley's boss, Joan, gives Marley 12 strip malls to design. Joan hints that Lily will be too wrapped up in her phone to care that Marley is working. Marley promises to get the designs completed during her vacation.<br/><br/>Lily and Marley arrive at the rental home and discover the water isn't working. They call the landlord, who contacts a plumber. Marley steps outside and sees a man, Adam, pulling tools out of his truck. She assumes he's the plumber and walks him inside. He explains that he's the neighbor and a contractor. She apologizes to him before Adam leaves.<br/><br/>Marley and Lily check out the exhibits at the Cannon Cove Sandcastle Festival. The MC tells the crowd that they still have time to sign up for the sandcastle competition, and amateurs are welcome. Marley convinces Lily to join the competition.<br/><br/>Marley watches YouTube videos about building sandcastles, but the tips don't work. Adam, walking the beach, comments that the sand-to-water ratio is off. He built sandcastles in the past and was pretty good at it. During their conversation, Marley's phone buzzes several times, and she answers. She needs this competition to connect to Lily. He offers to join Marley's team if she puts the phone down. She agrees. The two will build a castle and a romance.<br/><br/>This romantic film has great chemistry between the lead characters. The humor between the pair is effortless because it's simple dialogue. However, the conflict isn't really between them. It's between who Marley is and who she wants to become. Adam does have issues, but they're with his past. Viewers know that it will be a non-factor. While the plot is predictable, the story is beautifully written and deserves your attention.<br/><br/>3.5 out of 5 stars.",
+    "mtitle": "O Little Christmas Market",
+    "review": "Olivia works at her mother's bed and breakfast while running her late father's Christmas market. Her mother, Lenore, believes Olivia spreads herself too thin. She wishes Olivia would spend more time making miniatures. She heads to the market and hears distressing news from merchants. The lot's owner, Archie, wants to sell the property to a developer. Olivia's best friend, Zoey, confirms the rumors.<br/><br/>Grayson enters his father's office with several plans for their new complex. His father, Bill, sifts through the designs. He likes all of them but one. Bill considers that design to be too modern. He wants Grayson to design and close one final deal before the holidays. With this agreement, Bill can give the employees their Christmas bonuses. Grayson agrees to finish the deal.<br/><br/>Olivia and Grayson stand in a terminal waiting for their train. The attendant tells Olivia her train is delayed, so they sit and wait together. They make up wild stories about the train's delay and Frosty the Snowman. Grayson leaves to take a phone call from Bill. The attendant tells Olivia that her train is boarding now, but it's at the other end of the station. So she must run fast to catch it. She leaves her card on Grayson's briefcase, grabs her bag, drops a miniature tree, and runs for her train. Grayson returns to see Olivia's gone. He picks up the tree, knocking off the business card before he can see it.<br/><br/>Months later, Olivia dreams about the train station guy who never called her. Zoey warns Olivia that Archie is finalizing the decision today with the developer. Olivia runs to Archie's office to beg for more time. As Olivia pleads her case, Grayson enters. He's there to buy Archie's land and develop it for rental spaces. Olivia asks Grayson to wait until Christmas to complete the deal. It will give her time to create an alternative. Grayson agrees but knows Bill won't accept anything different. He wants to expand Bill's business while helping the woman he's falling in love with. Can they save the Christmas Market?<br/><br/>This Hallmark Christmas movie has snow, fudge, and beautiful holiday crafts. This plot doesn't rely on 'holiday magic' to save the market but on pure love and town spirit. Viewers do get the classic clichés of meet-cutes, montages, and near kisses, but the town pride aspect makes it fun. Olivia and Grayson are creative people who feel stifled in their current roles. Their characters differ because the town encourages Olivia to expand, while Bill wants Grayson to stay in place. During the film, they motivate each other to be brave. While it shouldn't hold a spot on your DVR, it's worth two hours and a hot cocoa.<br/><br/>3 out of 5 stars.",
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/castleofourown.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/castleofourown.jpg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/olittlechristmasmarket.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/olittlechristmasmarket.jpg"
     }
   }
 ];
@@ -60,48 +60,39 @@ module.exports = madeForTV;
 
 {
 "option": "1",
-"mtitle": "Crowning at the Prom",
-"review": "<br/><br/>* out of 5 stars.",
+"mtitle":"Girl in the Coffin",
+"review":"<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/crowningattheprom.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/crowningattheprom.jpg"
-}
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/girlinthecoffin.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/girlinthecoffin.jpg"
+  }
 },
 {
 "option": "2",
-"mtitle": "My Daughter's Trapped in a Throuple",
-"review": "<br/><br/>* out of 5 stars.",
+"mtitle":"Nowhere Left to Hide",
+"review":"<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mydaughterstrappedinathrouple.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mydaughterstrappedinathrouple.jpg"
-}
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/nowhereleftohide.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nowhereleftohide.jpg"
+  }
 },
 {
 "option": "3",
-"mtitle": "Disney's Descendants Wicked Wonderland",
-"review": "<br/><br/>* out of 5 stars.",
+"mtitle":"He'll Never Find Me",
+"review":"<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/descedantswickedwonderland.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/descedantswickedwonderland.jpg"
-}
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/hellneverfindme.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/hellneverfindme.jpg"
+  }
 },
 {
 "option": "4",
-"mtitle": "Deadly Sign-In",
-"review": "<br/><br/>* out of 5 stars.",
+"mtitle":"Snowbound for the Holidays",
+"review":"<br/><br/>* out of 5 stars.",
 "image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/deadlysignin.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/deadlysignin.jpg"
-}
-},
-{
-"option": "5",
-"mtitle": "O Little Christmas Market",
-"review": "<br/><br/>* out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/olittlechristmasmarket.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/olittlechristmasmarket.jpg"
-}
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/snowboundfortheholidays.jpg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/snowboundfortheholidays.jpg"
+  }
 }
 
 
