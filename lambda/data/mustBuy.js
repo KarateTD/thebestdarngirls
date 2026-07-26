@@ -149,6 +149,18 @@ module.exports = mustBuy;
     }
   }
 
+  {
+"option": "1",
+"mtitle": "The Odyssey",
+"review": "Penelope, the Queen of Ithaca, sits behind a wall of lattice, creating a burial shroud for her father as suitors wait for her to choose a new husband. It's been 20 years since her husband, Odysseus, left on a mission to Troy. Penelope still waits for him. Their son, Telemachus, learns combat fighting under the tutelage of Eumaeus. Eumaeus learned from Odysseus and now basks in the honor of teaching the king's son.<br/><br/>Telemachus enters his mother's room and pleads with her to let him take the throne since he will come of age soon. She fears the suitors will kill him and take it, especially Antinous. He and his confidant, Polybus, want to start a battle inside Penelope's home. They can use the battle to kill Telemachus and take the throne. So Penelope will wait for Odysseus and create her shroud while honoring Zeus's law. Telemachus asks for a ship to find his father, but Penelope says no. He defies her orders and goes on a quest to find Odysseus. He will hear stories about a warrior he never knew, but will he ever find him before his mother is forced to remarry?<br/><br/>Based on Homer's poem, this film was masterfully written, directed, and edited. The director's choice to use natural lighting and location shooting helps the audience lose themselves in the mythology. Some scenes will stand out in your mind because of how they were shot. When Antinous enters Penelope's quarters, he tries to manipulate her. The director framed it behind her unfinished shroud. Penelope's face was visible while Antinous remained hidden amongst the thread. Also, the battle on Aeaea is eye candy. The costumes, hair, makeup, and special effects never distract from the story. They amplify it. This film is nearly three hours long, but it never feels like it. Viewers should enjoy this movie on the largest possible screen with the best possible surround sound.<br/><br/>5 out of 5 stars.",
+"asin": {
+      "re": ""
+    },
+"image": {
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theodyssey.jpeg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theodyssey.jpeg"
+}}
+
    {
     "option": "1",
     "mtitle": "Masters of the Universe",
@@ -167,7 +179,7 @@ module.exports = mustBuy;
     "mtitle": "The Devil Wears Prada 2",
     "review": "Andy joins her co-workers from The New York Vanguard for the NYPC Journalism Awards. During Andy's category, the team gets a notification on their phones. They have been laid off, and then Andy wins her category. After the ceremony, she relaxes at home and watches clips of her award speech online when she gets a notification about Miranda. Runway promoted a brand, SpeedFash, with a glowing review. Now, it's come to light that the brand uses sweatshops, and the public blames Miranda and Runway for promoting them. She gets a call from Irv Ravitz, Runway Chairman. He found out about Andy's predicament from his son, Jay. He offers her a job.<br/><br/>Miranda cringes at the memes but continues to run her magazine. Last night, Irv was angry about the exposé and wanted Miranda to fix it. Her future as the next Global Head of Content is in jeopardy. Today, he calls and informs Miranda that he handled it, and the new hire will be there at 9. Miranda looks up and sees a gleeful woman she doesn't recognize. Nigel points out that it's Andy, also known as one of the Emilys. Andy introduces herself as the new features editor. Miranda scoffs and tells Andy to follow her. She needs to meet with one of their biggest advertisers and convince them to stay with the publication.<br/><br/>Miranda, her assistant, Amari, Nigel, and Andy arrive at Dior. Andy stands in awe when Emily walks towards her. She negotiates free ad space and a feature for their newest flagship store. Miranda concedes and leaves. Andy can't believe that Miranda rolled over to Emily's whims. Miranda explains that Dior makes up 16% of their revenue. If Andy wants things to change, she needs to do what Irv hired her to do: write a feature to sway public opinion. Andy works diligently through the night and creates a wonderful piece. However, it doesn't move the needle. Once again, Andy isn't living up to Miranda's expectations, causing Miranda to miss out on her promotion. Can Andy save Miranda's reputation?<br/><br/>It took 20 years to create the sequel, and it was worth it. The humor is smart, quick, and biting. Icons of the fashion world have joined the fold, and all of your favorites return. The lighting deserves an award because it perfectly displays the fashion and the performances. The intelligent script embraces the changes from print to digital media and the publications' struggles to maintain readers' interest. It makes several callbacks to the original. You don't have to watch the 1st to understand the second, but it makes spotting these easter eggs more fun. Like the first, there is a larger story in the works. It captivates your attention and makes this an original story. It will be hard to choose your favorite, but you will love them both. This film is flawless and timeless.<br/><br/>5 out of 5 stars.",
     "asin": {
-      "re": ""
+      "re": "B0H6XXBSRF"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thedevilwearsprada2.jpeg",
@@ -206,7 +218,7 @@ module.exports = mustBuy;
     "mtitle": "Star Wars: The Mandalorian and Grogu",
     "review": "A bounty hunter, Din Djarin, called the Mandalorian, completes his latest bounty with Grogu, but he returns to the New Republic empty-handed because he killed the bounty. Commander Ward of the New Republic sighs because they can't extract information about the Galactic Empire from a dead man. She pays Din and gives him his next assignment. Ward wants Din to capture Commander Coin. However, no one knows what he looks like. Ward believes the Hutt twins know where to find Coin. They will need an incentive to help the New Republic. Their nephew, Rotta, son of the deceased kingpin Jabba, is missing. If Din finds Rotta, he can return Rotta to the twins in exchange for Coin's location. Ward gives Din a Razor Crest Ship as pre-payment, and Din accepts the deal. Din believes this will be a smooth exchange, but greater forces are at work.<br/><br/>This continuation of the TV series is funny, exciting, and a little scary. The plot relies on CGI, but the animation feels nostalgic. The lighting work between the actors and the generated elements was beautifully meshed together to give the movie an authentic Star Wars look. The plot has several twists and turns to keep the audience on their toes, but there is too much foreshadowing. Grogu adds a new spark to the picture, which entices a younger audience to watch. Parents should know this is a space action film with zero innuendos or crude jokes. Also, there are zero scenes after the credits. This film is worth your time and money, but an IMAX screen is enough.<br/><br/>4 out of 5 stars.",
     "asin": {
-      "re": ""
+      "re": "B0H95G15WB"
     },
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/themandalorianandgrogu.jpeg",
