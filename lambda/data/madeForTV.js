@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "Killer Clown",
+    "review": "Elizabeth enjoys the carnival with her husband, Dan. They enter a funhouse that leads to a maze. Elizabeth tells Dan to cover his eyes while she runs and hides. She sprints through the maze until she sees a clown and screams. Dan runs to her rescue while the clown apologizes. Dan takes her home and tries to ease her mind. But the stress causes Elizabeth to miscarry. Thirty years ago, someone dressed as a clown killed her mother, Samantha, in front of her. The case was never solved.<br/><br/>Elizabeth meets with her father, Reed, and stepmother, Ana. Elizabeth questions them about her mother and the case. The detective, now sheriff, Bob, worked the case, and Reed hasn't heard from Samantha's sister, Helen, for years. He informs Elizabeth that he has a box of her mother's things in the basement. Elizabeth finds the box and sifts through the items. Elizabeth returns home with Dan and finds a woman, Jessica, standing at her front door. Jessica is a podcaster, investigating Samantha's murder on its anniversary. She badgers Elizabeth for an interview, and Dan chases her away.<br/><br/>Later, Dan worries about Elizabeth and offers to stay home. But she tells him to leave for work. During the evening, she sees a clown standing outside. She grabs a weapon and walks towards the clown. A balloon pops and splatters fake blood on Elizabeth. She runs into the house and calls the police. Bob shows up with his team, but there is nothing they can do. As the clown sightings get worse, Elizabeth's grip on reality fades. But she won't let that stop her. Elizabeth will uncover what happened to her mother and who did it.<br/><br/>This thriller mystery has a great pace, creepy clowns, and unhinged characters. The plot builds suspense by adding characters who add layers to Samantha and Elizabeth. The tension ramps up with each clown sighting. Each visit gets scarier and too close for comfort. Viewers will beg for Elizabeth to fight. However, her trauma causes her to freeze. Also, these moments happen when she's alone. It makes the audience question her too. And the final twists will leave you with a satisfied smile. It's the extra boost the story needed to change it from okay to great. This movie is a fun, creepy mystery if you can stomach clowns.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thekillerclown.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thekillerclown.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "The Twin Who Lived",
+    "review": "Teacher Claire is ready to prepare for her wedding now that school is winding down. She and her fiancé, Mark, have ideas but haven't set a date. Claire returns home and relaxes with Mark. She hears a knock at the door and finds a package containing a stuffed monkey. However, there are no other markings on the package. As Mark packs for a business trip, Claire gets a call from her mother, Helen. Claire's grandmother, Irene, had an accident and is in the hospital. Claire and Mark run to the hospital to meet Helen and Ron. However, it's too late. Irene died.<br/><br/>Claire and Mark have Irene's memorial service at their home. Mark answers a knock at the door and sees flowers. He assumes it's from Mr. Fenwick. However, Mr. Fenwick says it's not from him. Days later, Irene's stuff arrives on Claire's doorstep. She opens the box and finds a picture of herself inside that shocks her. The picture has another little girl who looks exactly like her. On the back, someone wrote 'Claire and Anna: Age 3.' Later, Claire confronts Helen about the image. She admits that Claire had a twin that died. Claire had a difficult time coping. So they moved away, removed all Anna's pictures, and stopped talking about her. Claire accepts this answer until more gifts arrive, and she loses her grip on reality. Claire must unpack the truth before she loses her mind.<br/><br/>This suspense thriller relies heavily on Claire's investigation into her past, with roadblocks from her family, the gift giver, and herself. The pacing is slow because Claire constantly changes her stance on her family and friends. Lifetimers will make up their minds about the culprit by the first commercial break. However, this pacing is so sluggish you won't care about proving yourself right. While the story doesn't have plot holes, it doesn't have much of a plot either.<br/><br/>2.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thetwinwholived.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thetwinwholived.jpg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "What She Didn't Tell Me",
+    "review": "Laura questions why her daughter, Maisie, didn't try out for the volleyball team since they moved to Cedarville. Maisie doesn't want to play since her dad died. At the drugstore, Laura helps patients and customers. During the day, Dr. Walter enters and asks for a refill. Laura rejects it because the doctor with that number and address retired. So the insurance company won't accept it. Dr. Walter demands that she fill it now or she will face the same fate as the last pharmacist, Monica. Dr. Walter leaves without his prescription. Laura asks her assistant Kate what happened to Monica. Kate says Monica disappeared without explanation.<br/><br/>Maisie walks home from school when a girl named Lizzie recognizes her from class. She invites Maisie to a party, but Maisie's unsure if she can go. Later, Lizzie arrives at Maisie's home and won't take no for an answer. They attend the party, but a fellow partygoer warns Maisie about Lizzie. Before he can explain why, they hear screaming. Maisie walks to the sounds, and Lizzie bumps into her. Lizzie wants to leave, but Maisie finds the young man, seizing on the ground. Officer Samantha Townsend arrives and collects the kids' statements. Before Laura takes her daughter home, Samantha wants to know what the substance near the boy could be. Laura gives her a few options and offers to look into it. Samantha alerts Laura that Cedarville has a rapid drug problem. Some of the citizens believe Laura's the cause. Laura vows to help Samantha. Laura doesn't want to lose her job and freedom to town gossip. Can she succeed when the problem hits close to home?<br/><br/>This film takes a moment to hook you into the plot. You won't know the issue until the overdose. Then, Laura becomes suspect number one. The plot has three distinct storylines to keep the pace going until the end. They affect each other and merge at the conclusion. Lifetimers will have a suspect in mind until the arrest happens. That will prove them wrong. But this arrest only covers one of the storylines. The other two wrap up the twist that proves Lifetimers right. This film isn't memorable, but it's compelling.<br/><br/>3 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/whatshedidnttellme.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/whatshedidnttellme.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "Love Under the Mistletoe",
+    "review": "Grace and Olivia walk to their office. They started a design firm and compete for contracts across the city. Their rival got the Christmas decorating contract with Ivy Glen. Nevertheless, the contractor looks to them for assistance. Grace's brother, Jack, assures Grace and his wife, Olivia, that they will get the contract next year.<br/><br/>Ryan gets a call from Mayor Sami. The Christmas festival isn't generating donations as it did in previous years. Sami's confident that reviving the Ribbons and Bows fundraiser will generate newfound interest. Ryan's unsure because the fundraiser usually happens at his grandmother's residence. Ryan says he will think about it because he planned to travel to his old hometown to sell it. However, he's still unsure about the fundraiser because that was his grandmother's project.<br/><br/>Ryan comes to town and bumps into Grace, fixing decorations. They dated in the past, but their relationship ended when he went to college. They converse before parting ways. Ryan arrives at his grandmother's home and greets his friend, Quinn. Quinn works as a real estate developer and has his eye on the property. Ryan assures Quinn that he will contact Quinn if he wants to sell.<br/><br/>Mayor Sami visits Grace and Olivia's workplace. She asks Grace to meet with Ryan and convince him to host the fundraiser. Grace agrees to do it if Sami makes them the top contender for the contract. Sami agrees and leaves. Then, Grace follows to find Ryan. Olivia pulls Jack aside, and he knows she's up to something. She thinks Ryan and Grace belong together. Their paths never crossed at the right moment. However, they are both single. So she wants to manufacture it with Operation Mistletoe. She will hang up mistletoe all over town to encourage a kiss. They will fall in love and live happily ever after. Will it work, or will the sale and Grace's past with Quinn derail Olivia's plans?<br/><br/>This movie has the perfect holiday feeling with festivals, fundraisers, and decorations everywhere while giving it a small-town vibe. The script laughs at itself by manufacturing the magic as Olivia puts mistletoe in every corner of the town. Viewers know how this love story will end, but the competing storylines make it interesting. Olivia, Grace, and Ryan have separate schemes going that wonderfully collide. The final twist develops carefully with the love story. This holiday romance found the right place with the 2026 Christmas in July programming.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/loveunderthemistletoe.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/loveunderthemistletoe.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "Girl in the Coffin",
     "review": "Jasmine and Kelvin sit with Bill, a funeral director, to discuss arrangements for her mother, Carol. Bill will cremate Carol's body in a few days and return the remains to Jasmine. She will use them to plant flowers in Carol's honor. Jasmine and Kelvin return to Carol's home, and Jasmine falls into a depression.<br/><br/>Days later, Kelvin encourages Jasmine to seek help after she quit her job. However, she begs him to leave. He returns home while Jasmine falls deeper into agony. Jasmine finds her mother's favorite scarf. She returns to the funeral home to pick out an urn and collect Carol's ashes.<br/><br/>After Jasmine selects an urn, she and Bill strike up a conversation and confide in each other. Bill asks if Jasmine wants to help put the ashes in the urn. He thinks it will help her get closure. Jasmine goes downstairs to the embalming room. Something about Bill makes her uncomfortable. Jasmine makes an excuse and runs upstairs. However, Bill sneaks behind her and covers her nose and mouth with chloroform. Jasmine wakes up in a coffin and bangs the lid for Bill to let her out. Jasmine must find a way out before Bill's thoughts turn sinister.<br/><br/>This film doesn't take long to hook you into the story. The writers put Jasmine in the coffin before the first commercial break. However, you don't understand Bill's motives until the halfway mark. This plot leans into the creepy factor while Kelvin and the detective search for clues. The music and set told his story better than the script. Since this wasn't an 'inspired by real events' story, it built up to nothing special. This movie has a steady climb of disturbing, but that's it.<br/><br/>2.5 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/girlinthecoffin.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/girlinthecoffin.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "Nowhere Left to Hide",
-    "review": "Teddi is a seamstress living in Ocean Ridge. She overhears Amy arguing with her daughter, Farrah, about a dress. Amy damaged the dress when she washed it. Teddi interjects, offering to fix the dress for free. Teddi takes it to her studio and makes the alterations. She can't believe Teddi fixed it. She takes a photo of her and Teddi, and Teddi snaps at her. She pleads with Farrah not to post the image. Farrah agrees, and Teddi leaves. Amy follows Teddi and asks for Teddi's background. However, Teddi stays mum. Amy won't pressure Teddi but offers to be there when she needs to talk. Amy's correct. Teddi is hiding a secret. Her name is Rochelle. She faked her death to escape her abusive husband, Daniel, after he threatened to kill her sister, Kenzie. That was three months ago, and Teddi has stayed off the grid. She believes it's the only way to stay safe. She would be right. However, Farrah posted the picture, tagged with the location, without Teddi's permission. Daniel saw it online using AI technology. He will stop at nothing to gain control of his wife and bring her home.<br/><br/>The film opens with Daniel threatening Rochelle after a client's son buys her flowers. Then, the title card states it's three months later. Rochelle is now Teddi, and she lives her life in the shadows. The script doesn't spend the entire movie tracking Daniel as Teddi lives a quiet life. Instead, he finds her within the first hour and wreaks havoc on her life. It will be difficult to believe someone could treat Teddi this way unless you watched A Toxic Love Story. This movie has a lot of moving parts with annoying Lifetime cops and a loud backing track. This film feels far-fetched, but sadly, it's possible. The acting is a bit overdone, but the plot will stoke your anger for 2 hours.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/nowhereleftohide.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nowhereleftohide.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "He'll Never Find Me",
-    "review": "Halle shops at a local farmers' market when her friend, Bree, sees a man named Mark checking Halle out. Bree tells Halle that Mark is a great guy who owns a family farm. He asks her out, and against her better judgment, Halle says yes. Soon, she and Mark are living together on his farm. And she is quickly learning the ropes.<br/><br/>Halle walks toward a fair with Bree, and a snake bites Bree. Halle quickly gets into action to rush Bree to the hospital. A bystander posts the video online, and it goes viral. Since her video went viral, people have called requesting to stay on the property. Mark wants to turn the spare house into an Airbnb. Halle says no. She doesn't want strangers in her home. But that's a lie. She's afraid it will put her on her husband's radar. Years ago, Halle escaped Officer Cole's abuse by faking her death. And her fears are right. He saw her viral video and will stop at nothing to track her down. Will Cole find her?<br/><br/>This film's pacing is slow after the first murder. The plot spends its time holding on to Halle's deception. Viewers know Cole is coming, but it takes too long. However, the backing track amplifies the audience's curiosity, fear, and suspicion. And the setting offers excellent foreshadowing. This movie has an entertaining beginning and conclusion, but it takes too long to get to the point.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/hellneverfindme.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/hellneverfindme.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Snowbound for the Holidays",
-    "review": "Cassidy attempts to implement changes to her mother's hotel, but Joanne says they aren't cost-effective. She desires to be VP of Operations, but Joanne doesn't think she's ready. Then, Joanne gets a call. A friend of hers, Sam, owns a lodge with his son-in-law, Trey. While they own the lodge, they rent the ski slope from the city. However, the price has gone up, and they can't afford it. Sam wants to sell the land rights to their rival, hotel owner Aston, but Trey doesn't. Joanne desires to help them, but she has other business obligations. Cassidy offers to help to prove herself. Joanne agrees.<br/><br/>Cassidy arrives at the property and meets Trey's daughter, Lilly. Trey offers to help her with her bags. She assumes he's the bellhop and tips him. Later, Sam privately informs Trey that an assessor will come by to read through their deal. As they argue about the future, the lights go out, and everyone wants to know what's going on. Cassidy hides in the shadows during the conversation and overhears Sam calling Trey by his name. She apologizes and introduces herself. Sam greets her by her last name, and Trey knows why she's there. Sam tells Trey to show her the ins and outs of the property so she can read through Asherton's proposal with clear eyes. He agrees, but he will never settle. Cassidy will get to know the property, the staff, and the guests to gain Trey's trust. But will she gain his heart while making the deal?<br/><br/>This film has cozy Christmas elements of Christmas trees, winter events, and personalized cocoa mugs. But Christmas is a background character for winter because that's what Cassidy is fighting. The film offers meet-cutes and potential enemies, who are working for a common goal. The movie eases into these clichés without making them obvious. The leads have great chemistry. However, it's Cassidy's connection to Lilly that will make your heart sing. The twist evolved over time. With their difference of opinion, it was only a matter of time before a misunderstanding put the deal and their relationship in jeopardy. Both leads grow and become better people by working together. This film is a charming winter movie. However, it shouldn't take space on your DVR.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/snowboundfortheholidays.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/snowboundfortheholidays.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Crowning at the Prom",
-    "review": "Kat is running for homecoming queen, is an active member of the rowing team, is applying to Ivy League schools, is maintaining a perfect grade point average, and is the most popular girl in school. Her best friend, Hannah, wonders if Kat will go to Penn or Yale with her boyfriend, Travis. Kat assures Hannah that Yale is the only place for her. Kat's mom, Abigail, is happy that Kat will continue her relationship with Travis because he comes from a successful family.<br/><br/>Kat and Hannah arrive at school, and Hannah sees Kat's ex-boyfriend, Simon, by Kat's locker. Simon doesn't believe she's happy in her new relationship. He thinks she's only dating Travis to please Abigail. Kat walks away.<br/><br/>Kat goes to the gym to work out. Her coach weighs the team members. To Kat's surprise, she's 3 pounds overweight. Her coach isn't stressed because she has 65 days to burn it off. Until then, Kat will double her workouts and eat less.<br/><br/>Days later, Kat and Hannah attend Travis's senior BBQ. When Travis sees Simon touch Kat, he rushes over to her. She stands between them as the two argue until she faints. Kat wakes up in the hospital, and her doctor has startling news. She is 6 months pregnant. The doctor checked her lab results and concluded that Kat has anorexia athletica. She plans to go to prom, lose weight, row, become prom queen, find a family for the baby, and go to Yale without anyone knowing about the pregnancy. Kat swears she has everything under control, but her need for perfection could kill her and her baby.<br/><br/>This film shines a light on an obscure eating disorder while using teen pregnancy to hook you into the plot. The backing track helps viewers understand Kat's obsession with working out and dieting. Viewers will become frustrated that Kat never goes to a doctor's appointment or tells her mother. You must remember that Kat is a scared, ill-informed, and self-centered teen. These Lifetime heroines never disappoint and pull off an outstanding performance. The audience will be fully engrossed in the movie. While the film has some shortcomings, it makes its point while entertaining you.<br/><br/>4.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/crowningattheprom.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/crowningattheprom.jpg"
     }
   }
 ];
@@ -57,39 +57,43 @@ module.exports = madeForTV;
 
 /*
 
+
 {
 "option": "1",
-"mtitle": "Killer Clown",
+"mtitle": "She Stole My Son's Heart",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thekillerclown.jpg",
-"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thekillerclown.jpg"
-}},
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/shestolemysonsheart.jpg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/shestolemysonsheart.jpg"  
+}
+},
 {
 "option": "2",
-"mtitle": "The Twin Who Lived",
+"mtitle": "The Secret Lives of Suburban Housewives",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thetwinwholived.jpg",
-"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thetwinwholived.jpg"
-}},
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thesecretlivesofsuburbanhousewives.jpg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thesecretlivesofsuburbanhousewives.jpg"
+}
+},
 {
 "option": "3",
-"mtitle": "What She Didn't Tell Me",
+"mtitle": "The Little Girl Who Didn't Exist",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/whatshedidnttellme.jpg",
-"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/whatshedidnttellme.jpg"
-}},
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thelittlegirlwhodidntexists.jpg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thelittlegirlwhodidntexists.jpg"
+}
+},
 {
 "option": "4",
-"mtitle": "Love Under the Mistletoe",
+"mtitle": "Toast to Italy",
 "review": "<br/><br/>* out of 5 stars.",
 "image": {
-"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/loveunderthemistletoe.jpg",
-"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/loveunderthemistletoe.jpg"
-}}
-
+"smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/toasttoitaly.jpeg",
+"largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/toasttoitaly.jpeg"
+}
+}
 
 
 */
