@@ -212,4 +212,17 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/toystory5.jpeg"
     }
   }
+
+  {
+    "option": "1",
+    "mtitle": "The End of Oak Street",
+    "review": "Couple Greg and Denise enjoy a party with their Oak Street neighbors. However, their children, Audrey and Brian, can see through their façade. Their parents are hiding underlying issues, and Brian fears they will get a divorce. To Denise's chagrin, Greg leaves the party to work extra shifts delivering pizza. She meets with her neighbor, Mrs. Huddleston, about her novel. Then, Mrs. Huddleston expresses curiosity about a plant in her backyard. It has grown over 3 feet in the last two days after the last thunderstorm. Denise snaps a picture and offers to look up more information in the library.<br/><br/>Denise goes to the library but can't find Mrs. Huddleston's plant in the botany book. She shows her photo to the librarian, Mrs. Valcourt, who can't believe her eyes. That plant is prehistoric and has been extinct for millions of years.<br/><br/>Denise and her family turn in for the night until there is a loud bang and a bright flash. They check on each other and realize the power is out. They wake up in the morning, and the power is still out. Greg offers to stay home to help after discovering the water is off. Denise walks to Mrs. Huddleston's house and finds her body with tracks leading out the door and a loaded gun. She grabs the gun, walks to the backyard, and sees something large move the unfamiliar foliage. She runs back home after shooting a dinosaur that chased Greg. They demand their kids get in the car and vow to make it out of town. However, they are trapped because the two-mile radius around Oak Street isn't in 1982. It's in prehistoric times. The family returns home with one mission: survive long enough to return to 1982. Can they?<br/><br/>This sci-fi thriller has amazing graphics with atypical dinosaurs. The designers used recent studies to create the look, sound, and movements of the Jurassic animals. The camera choices stand out by allowing the audience to focus on the foreground and background at the same time. The director uses this camera effect during family arguments, stalking prey, and dinosaur attacks. Also, the plot delays showing the creatures. It allows your imagination to ramp up the fear with expectations. The set, clothing, and technology highlighted the era. The storyline has twists and turns that will take your breath away. You can try your best, but you have no idea where this plot is going. This film is scary, intriguing, and thought-provoking. It's worth your money and time.<br/><br/>4.5 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/theendofoakstreet.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theendofoakstreet.jpg"
+    }
+  }
 */
