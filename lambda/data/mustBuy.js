@@ -1,6 +1,42 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "The Sheep Detectives",
+    "review": "Shepherd George writes to Rachel about his flock. He's named them and notices they have distinct personalities. Lily is the smartest and most compassionate, Sebastian is the loner, and Cloud is a diva.  Every night, he picks up a murder mystery novel and reads to them.<br/><br/>George goes into Denbrook to visit the local church run by Reverend Hillcoate. Hillcoate asks George to join them, but he says no. Instead, he grabs the collection plate from butcher Ham Gilyard, adds a wad of cash, and leaves it at the altar. George has biting words for Ham before he exits the church. George returns home and meets with another shepherd, Caleb. Caleb tries to make a deal, but George kicks him out.<br/><br/>Reporter Elliot Matthews strolls into town to cover the Denbrook Cultural Festival. He's shocked to find 3 tents behind the inn for a $10 entry fee. Officer Tim Derry shows off each table with pride. After an uneventful day, Elliot leaves town but runs into a tree. He rents a room at the inn until the local mechanic repairs his car.<br/><br/>The sheep wake up to find George sprawled out in the field. Lily thinks he's sleeping, but Mopple tells her that he died.  Lily and the sheep believe someone murdered George. So, the sheep guide Tim to their findings. Tim finds two glasses, a revised will, and an upended chair. Tim labels George's death suspicious until he gets the toxicology report.<br/><br/>The sheep watch as George's lawyer, Lydia Harbottle, arrives and takes charge. She reads George's revised will and tells Tim to gather the aforementioned people at the inn. Lydia kicks Elliot out of the room as Rachel, Hilcoate, Gilyard, Caleb, and Tim join her. Rachel shocks everyone by introducing herself as George's long-lost daughter. Surprisingly, she has a twin who lives in South Africa. Georges's will states that there is a fool, a bad shepherd, a winter lamb, and two murderers in the room. He leaves everything to his children, but the money, $30 million, to Rachel. Now Rachel is his number one suspect. The sheep don't believe she did it. They will work to uncover who killed their shepherd.<br/><br/>Based on Three Bags Full by Leonie Swann, this film is charming, smart, and hilarious. First, the script is funny and follows the formula for a great murder mystery. There are plenty of suspects and motives. And George's will points a finger at everyone. The CGI sheep are well-animated. The script pulls you in with captivating characters, unique punchlines, and a compelling mystery. One character that will tug at your heartstrings is the winter lamb. Their stories and treatment will leave you misty-eyed. See this film with the family.<br/><br/>5 out of 5 stars.",
+    "asin": {
+      "re": "B0GYZ67P55"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thesheepdetectives.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thesheepdetectives.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "Star Wars: The Mandalorian and Grogu",
+    "review": "A bounty hunter, Din Djarin, called the Mandalorian, completes his latest bounty with Grogu, but he returns to the New Republic empty-handed because he killed the bounty. Commander Ward of the New Republic sighs because they can't extract information about the Galactic Empire from a dead man. She pays Din and gives him his next assignment. Ward wants Din to capture Commander Coin. However, no one knows what he looks like. Ward believes the Hutt twins know where to find Coin. They will need an incentive to help the New Republic. Their nephew, Rotta, son of the deceased kingpin Jabba, is missing. If Din finds Rotta, he can return Rotta to the twins in exchange for Coin's location. Ward gives Din a Razor Crest Ship as pre-payment, and Din accepts the deal. Din believes this will be a smooth exchange, but greater forces are at work.<br/><br/>This continuation of the TV series is funny, exciting, and a little scary. The plot relies on CGI, but the animation feels nostalgic. The lighting work between the actors and the generated elements was beautifully meshed together to give the movie an authentic Star Wars look. The plot has several twists and turns to keep the audience on their toes, but there is too much foreshadowing. Grogu adds a new spark to the picture, which entices a younger audience to watch. Parents should know this is a space action film with zero innuendos or crude jokes. Also, there are zero scenes after the credits. This film is worth your time and money, but an IMAX screen is enough.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": "B0H95G15WB"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/themandalorianandgrogu.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/themandalorianandgrogu.jpeg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "The Breadwinner",
+    "review": "Nate, the top Toyota salesman, is a married father of three daughters. He is the breadwinner, and his wife, Katie, is a homemaker. They make it work because they have a work-life balance. He handles the work, and Katie handles life. After school, Nate and Katie visit Angela and her husband, Connor. Nate talks about Katie's Star Minder. Angela believes Katie's invention is marketable and convinces her to go on Shark Tank.<br/><br/>Katie presents her idea to the Sharks, and she's sold thousands of units from her living room. However, Kevin fears she can't juggle being a full-time mom and expanding her business. Katie informs them that she's married. The Sharks ask Nate to come out. They see his unkempt demeanor and scoff. Laurie offers Katie $100,000 for 20% of her company, but Nate has to stay home with the kids while they meet with South Korean manufacturers. He's ready to help her achieve her dreams. Katie accepts Laurie's offer.<br/><br/>Before Katie leaves, she shows Nate the command center. It's a board with color-coded notes for chores, schedules, and household needs. She quickly goes over Gracie, Hadley, and Sam's schedules before she hugs their girls goodbye. Nate assures the girls he has it all under control. However, Nate will learn how hard it is to be a mom.<br/><br/>Based on Nate Bargatze's comedy, this easy-going movie addresses the mental load of stay-at-home parents without disrespecting the parents who work outside the home. The script doesn't have an antagonist because Nate isn't a bad person, just clueless. The film features slapstick and clean comedy for the whole family. And the plot offers several curveballs. This film offers a comedic look into the mental load struggles. It doesn't try to fix it. Instead, it finds a balance for both parents to shine and be appreciated. This movie will make everyone laugh.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": "B0H2FTG5CV"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thebreadwinner.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebreadwinner.jpeg"
+    }
+  },
+  {
+    "option": "4",
     "mtitle": "Project Hail Mary",
     "review": "Project Hail Mary was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -12,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "5",
     "mtitle": "Tuner",
     "review": "Tuner was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -21,42 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tuner.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tuner.jpeg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "The Devil Wears Prada 2",
-    "review": "Andy joins her co-workers from The New York Vanguard for the NYPC Journalism Awards. During Andy's category, the team gets a notification on their phones. They have been laid off, and then Andy wins her category. After the ceremony, she relaxes at home and watches clips of her award speech online when she gets a notification about Miranda. Runway promoted a brand, SpeedFash, with a glowing review. Now, it's come to light that the brand uses sweatshops, and the public blames Miranda and Runway for promoting them. She gets a call from Irv Ravitz, Runway Chairman. He found out about Andy's predicament from his son, Jay. He offers her a job.<br/><br/>Miranda cringes at the memes but continues to run her magazine. Last night, Irv was angry about the exposé and wanted Miranda to fix it. Her future as the next Global Head of Content is in jeopardy. Today, he calls and informs Miranda that he handled it, and the new hire will be there at 9. Miranda looks up and sees a gleeful woman she doesn't recognize. Nigel points out that it's Andy, also known as one of the Emilys. Andy introduces herself as the new features editor. Miranda scoffs and tells Andy to follow her. She needs to meet with one of their biggest advertisers and convince them to stay with the publication.<br/><br/>Miranda, her assistant, Amari, Nigel, and Andy arrive at Dior. Andy stands in awe when Emily walks towards her. She negotiates free ad space and a feature for their newest flagship store. Miranda concedes and leaves. Andy can't believe that Miranda rolled over to Emily's whims. Miranda explains that Dior makes up 16% of their revenue. If Andy wants things to change, she needs to do what Irv hired her to do: write a feature to sway public opinion. Andy works diligently through the night and creates a wonderful piece. However, it doesn't move the needle. Once again, Andy isn't living up to Miranda's expectations, causing Miranda to miss out on her promotion. Can Andy save Miranda's reputation?<br/><br/>It took 20 years to create the sequel, and it was worth it. The humor is smart, quick, and biting. Icons of the fashion world have joined the fold, and all of your favorites return. The lighting deserves an award because it perfectly displays the fashion and the performances. The intelligent script embraces the changes from print to digital media and the publications' struggles to maintain readers' interest. It makes several callbacks to the original. You don't have to watch the 1st to understand the second, but it makes spotting these easter eggs more fun. Like the first, there is a larger story in the works. It captivates your attention and makes this an original story. It will be hard to choose your favorite, but you will love them both. This film is flawless and timeless.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0H6XXBSRF"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thedevilwearsprada2.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thedevilwearsprada2.jpeg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "In the Grey",
-    "review": "Asset Manager Bobby hired Rachel's mentor, Braxton, to recover a $1 billion loan her company gave to kingpin, Manny Salazar. However, Salazar's goons killed him and destroyed the document. Upset, attorney Rachel walks into Bobby's office and offers to retrieve the asset. She uses legal and illegal maneuvers to obtain her client's assets. Her secret weapons are Sid and Bronco. Sid is an extractor specialist and mastermind, while Bronco specializes in paramilitary strikes and tactical planning. If Rachel can't get things done legally, she contacts them to help obtain information illegally to give her an edge in court. With her team, Rachel is confident she will win. Bobby and Rachel work out the terms: 10% plus $10 million upfront.<br/><br/>Rachel deploys Sid near one of Salazar's upcoming hotels in the Middle East, while Bronco accompanies her to Salazar's lawyer, Mr. Horowitz's office. Rachel lays out her terms while Bronco quietly sits in the background. Mr. Horowitz offers pennies on the dollar. Rachel refuses the offer and leaves. Soon, she chokes Salazar's revenue streams, confiscates his plane, and docks his boat. Salazar is furious and demands to see Rachel face-to-face. Rachel informs Sid and Bronco. They determine the trip is dangerous, but they create a plan with several contingencies and hire specialists they can trust. They will bring Rachel safely to Salazar's island, retrieve the asset, and leave. Of course, nothing can be that easy.<br/><br/>This film relies heavily on the main characters' narration. The first 15 minutes cover a plethora of information. So viewers must be on time.  In this film, the leads never have romantic chemistry because the plot doesn't force a romance. The thought-provoking action film focuses on witty banter, intricate strategy, and special effects to drive the story forward. It's refreshing to see the leads practice their plan because they aren't superheroes, just two ex-military men with a strategy. Also, the film has a steady pace, leaving you without a second to breathe. If you can handle the constant narration, you will enjoy this film.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0GVGPTMVL"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/inthegrey.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/inthegrey.jpg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Is God Is",
-    "review": "Twins Racine and Anaia work cleaning offices at night. When a woman stares at Racine's scars, she pounces. Their boss fires them. Racine checks the mail and finds a letter from their mother, Ruby. They thought she died in the fire that burned them. Racine wants to leave now, but Anaia is reluctant. Racine convinces her twin to drive south to the woman she calls God, because she created them.<br/><br/>They arrive at Ruby's home and check their makeup before entering. Racine sits beside her mother while Anaia stands against the wall. Now, she's sick, and she wants the girls to do one thing: kill their father. Their father, whom Ruby calls The Monster, violated her restraining order. He broke into her house and set her on fire. Racine and Anaia got burns from trying to save their mother. When Anaia shakes her head no, Ruby lifts her blanket so they can see the full extent of her physical damage. Racine agrees. Anaia doesn't want to do it, but Racine tells her to imagine what the world would be like if he had never hurt them. Anaia changes her mind, but can't kill someone. Racine is fine with doing the work as long as Anaia comes along and doesn't stop her. These two are the hands of God. Can they complete the mission?<br/><br/>This film is not for the weak. The storytelling is unique and bold. The editor wrote their telepathic communication on the screen, so the audience must pay attention. These actresses did an outstanding job conveying the emotions printed on the screen. When Ruby tells her story, you hear her thoughts in the moment. You will get a sick feeling in the pit of your stomach as she tells her tale. And watch carefully, because this story will return full circle. The special effects department did a heartbreakingly astounding job on the twins' scars. However, the fire is less believable. While the conclusion is painful, it's realistic and foreseeable. This movie can be a trigger for domestic violence survivors, but it's worth a watch and discussion.<br/><br/>4.5 out of 5 stars.",
-    "asin": {
-      "re": "B0GZ4QT78T"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/isgodis.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/isgodis.jpeg"
     }
   }
 ];
@@ -148,19 +148,6 @@ module.exports = mustBuy;
     }
   }
 
-  {
-    "option": "4",
-    "mtitle": "The Sheep Detectives",
-    "review": "Shepherd George writes to Rachel about his flock. He's named them and notices they have distinct personalities. Lily is the smartest and most compassionate, Sebastian is the loner, and Cloud is a diva.  Every night, he picks up a murder mystery novel and reads to them.<br/><br/>George goes into Denbrook to visit the local church run by Reverend Hillcoate. Hillcoate asks George to join them, but he says no. Instead, he grabs the collection plate from butcher Ham Gilyard, adds a wad of cash, and leaves it at the altar. George has biting words for Ham before he exits the church. George returns home and meets with another shepherd, Caleb. Caleb tries to make a deal, but George kicks him out.<br/><br/>Reporter Elliot Matthews strolls into town to cover the Denbrook Cultural Festival. He's shocked to find 3 tents behind the inn for a $10 entry fee. Officer Tim Derry shows off each table with pride. After an uneventful day, Elliot leaves town but runs into a tree. He rents a room at the inn until the local mechanic repairs his car.<br/><br/>The sheep wake up to find George sprawled out in the field. Lily thinks he's sleeping, but Mopple tells her that he died.  Lily and the sheep believe someone murdered George. So, the sheep guide Tim to their findings. Tim finds two glasses, a revised will, and an upended chair. Tim labels George's death suspicious until he gets the toxicology report.<br/><br/>The sheep watch as George's lawyer, Lydia Harbottle, arrives and takes charge. She reads George's revised will and tells Tim to gather the aforementioned people at the inn. Lydia kicks Elliot out of the room as Rachel, Hilcoate, Gilyard, Caleb, and Tim join her. Rachel shocks everyone by introducing herself as George's long-lost daughter. Surprisingly, she has a twin who lives in South Africa. Georges's will states that there is a fool, a bad shepherd, a winter lamb, and two murderers in the room. He leaves everything to his children, but the money, $30 million, to Rachel. Now Rachel is his number one suspect. The sheep don't believe she did it. They will work to uncover who killed their shepherd.<br/><br/>Based on Three Bags Full by Leonie Swann, this film is charming, smart, and hilarious. First, the script is funny and follows the formula for a great murder mystery. There are plenty of suspects and motives. And George's will points a finger at everyone. The CGI sheep are well-animated. The script pulls you in with captivating characters, unique punchlines, and a compelling mystery. One character that will tug at your heartstrings is the winter lamb. Their stories and treatment will leave you misty-eyed. See this film with the family.<br/><br/>5 out of 5 stars.",
-    "asin": {
-      "re": "B0GYZ67P55"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thesheepdetectives.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thesheepdetectives.jpg"
-    }
-  }
-
    {
     "option": "1",
     "mtitle": "Spider-Man: Brand New Day",
@@ -171,32 +158,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/spidermanbrandnewday.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/spidermanbrandnewday.jpg"
-    }
-  }
-
-  {
-    "option": "2",
-    "mtitle": "Star Wars: The Mandalorian and Grogu",
-    "review": "A bounty hunter, Din Djarin, called the Mandalorian, completes his latest bounty with Grogu, but he returns to the New Republic empty-handed because he killed the bounty. Commander Ward of the New Republic sighs because they can't extract information about the Galactic Empire from a dead man. She pays Din and gives him his next assignment. Ward wants Din to capture Commander Coin. However, no one knows what he looks like. Ward believes the Hutt twins know where to find Coin. They will need an incentive to help the New Republic. Their nephew, Rotta, son of the deceased kingpin Jabba, is missing. If Din finds Rotta, he can return Rotta to the twins in exchange for Coin's location. Ward gives Din a Razor Crest Ship as pre-payment, and Din accepts the deal. Din believes this will be a smooth exchange, but greater forces are at work.<br/><br/>This continuation of the TV series is funny, exciting, and a little scary. The plot relies on CGI, but the animation feels nostalgic. The lighting work between the actors and the generated elements was beautifully meshed together to give the movie an authentic Star Wars look. The plot has several twists and turns to keep the audience on their toes, but there is too much foreshadowing. Grogu adds a new spark to the picture, which entices a younger audience to watch. Parents should know this is a space action film with zero innuendos or crude jokes. Also, there are zero scenes after the credits. This film is worth your time and money, but an IMAX screen is enough.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0H95G15WB"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/themandalorianandgrogu.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/themandalorianandgrogu.jpeg"
-    }
-  }
-
-   {
-    "option": "1",
-    "mtitle": "The Breadwinner",
-    "review": "Nate, the top Toyota salesman, is a married father of three daughters. He is the breadwinner, and his wife, Katie, is a homemaker. They make it work because they have a work-life balance. He handles the work, and Katie handles life. After school, Nate and Katie visit Angela and her husband, Connor. Nate talks about Katie's Star Minder. Angela believes Katie's invention is marketable and convinces her to go on Shark Tank.<br/><br/>Katie presents her idea to the Sharks, and she's sold thousands of units from her living room. However, Kevin fears she can't juggle being a full-time mom and expanding her business. Katie informs them that she's married. The Sharks ask Nate to come out. They see his unkempt demeanor and scoff. Laurie offers Katie $100,000 for 20% of her company, but Nate has to stay home with the kids while they meet with South Korean manufacturers. He's ready to help her achieve her dreams. Katie accepts Laurie's offer.<br/><br/>Before Katie leaves, she shows Nate the command center. It's a board with color-coded notes for chores, schedules, and household needs. She quickly goes over Gracie, Hadley, and Sam's schedules before she hugs their girls goodbye. Nate assures the girls he has it all under control. However, Nate will learn how hard it is to be a mom.<br/><br/>Based on Nate Bargatze's comedy, this easy-going movie addresses the mental load of stay-at-home parents without disrespecting the parents who work outside the home. The script doesn't have an antagonist because Nate isn't a bad person, just clueless. The film features slapstick and clean comedy for the whole family. And the plot offers several curveballs. This film offers a comedic look into the mental load struggles. It doesn't try to fix it. Instead, it finds a balance for both parents to shine and be appreciated. This movie will make everyone laugh.<br/><br/>4 out of 5 stars.",
-    "asin": {
-      "re": "B0H2FTG5CV"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thebreadwinner.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thebreadwinner.jpeg"
     }
   }
 
