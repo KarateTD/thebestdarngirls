@@ -212,4 +212,30 @@ module.exports = mustBuy;
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/coyotevsacme.jpeg"
     }
   }
+
+  {
+"option": "2", 
+"mtitle": "By Any Means",
+"review": "Special Agent Wayne Strider moved to Mississippi with his wife, Allison, to join the FBI. Sadly, they haven't given him a case. Wayne walks to his boss's office to ask for more work, but Special Agent Roy says no. Wayne leaves in frustration and returns home to Allison. They travel to Vernon Dahmer's house the next afternoon. He offers to pay the poll tax for anyone who can't afford it. Afterward, Wayne and Allison sit with Vernon and his wife, Ellie, and notice that they ignore calls. The KKK have been threatening the Dahmers, and they sleep in shifts to look over their children.<br/><br/>Wayne and Allison awaken to horrific news. The KKK firebombed Vernon's home and killed him. Roy and Special Agent Everett Rhodes call Wayne into their office. They hand Wayne a briefcase. They want him to drive to a hotel and give it to an operative named Gregory Scrapa. They tell Wayne that he will be Gregory's handler. Wayne jumps at a chance to prove he can handle a case. However, although effective, he won't like Gregory's interrogation methods. Can they find common ground and uncover who murdered Vernon?<br/><br/>This historical thriller uses Southern racial tension to engage the viewers while amplifying their fears during tense situations. The opening scene grabs your attention as Gregory tortures a man to get information about 3 missing college students. You aren't sure who Gregory is, but you know he is not law enforcement. Then, you learn about Wayne. He grew up in Mississippi and returned after working in Chicago. He believes in justice and equality for all. You will wonder whether Gregory will gain a sense of morality or if Wayne will bend to dark influences. During this, you see the heartbreaking reality of the evil around them as people die for doing the right thing. The audience will hold their breath, will laugh out loud, and will feel genuine fear. The movie has the hair, makeup, music, and technology of the 1960s. The vanity department researched the period extensively. It may not win awards, but it keeps the audience in the moment. This movie is worth the price of admission and your time.<br/><br/>4.5 out of 5 stars.",
+"asin": {
+      "re": ""
+    },
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/byanymeans.jpeg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/byanymeans.jpeg"
+}
+}
+
+{
+"option": "3", 
+"mtitle": "Onslaught",
+"review": "Combat Veteran Celeste manages a trailer park when she sees her ex-husband's car speeding to her home. Their daughter, Daisy, jumps out of the car, formally greets Celeste, enters the home, and washes the dishes. Celeste and Griffin argue because this wasn't her week. Then he hits her with an admission. He and his new wife, Sharon, want to move across the country with Daisy. Celeste screams at Griffin while he drives away. She enters her home and decides to go to a truck stop for supplies and dinner.<br/><br/>Dr. Hans Kammler gets a call that the buyer is ready. He arrives at the military base, and Baylor greets him. He's ready for a display of Hans's work. Hans and his team created super soldiers. Hans's team fills a room with gas, turns off the lights, and releases several armed special agents into the room. Hans's soldiers quickly kill them all, but the soldiers have seizures and flatline. Hans and his team run inside to help them, and Baylor watches the monitors. As the team warms up the defibrillator, Baylor spies a heartbeat on the monitor. The soldiers awaken and kill Hans, Baylor, and everyone else in the vicinity before escaping the base.<br/><br/>Cyprus receives a call from his boss. The military base is a mess, and they want him to clean it up. Cyprus arrives at the base and sees the damage the super soldiers left behind. He must contain everything and destroy the evidence. However, the head of the board contacts him. They want to see what Hans's work will do in the real world as part of a test. They tell Cyprus to stand back and be ready for more cleanup later.<br/><br/>Celeste gets items from the truck stop as Daisy waits in the car. Daisy sees three masked men in the distance. Before she can get a good look, Celeste gets in the truck and drives home. The super soldiers enter the truck stop and kill everyone inside without remorse or hesitation. Then, the Butcher remembers seeing Celeste exit. The soldiers jump on a big rig and head to the trailer park. They will kill every resident unless someone stops them. Can Celeste save her daughter, her friends, and herself?<br/><br/>This bloody thriller starts with a veteran trying to balance trauma, work, and motherhood. The film has a countdown of when the supersoldiers will reach the trailer park. Until then, we see how dangerous they are. No one is safe. The set designers used the trailers' confined spaces to magnify the fear and violence. The director and editor blur some of the violence in the truck stop scene. So your imagination can do the work. The choreographers had fun with their weapon choices. The closing credits feature news articles that hint at a possibility for part two. And the host of characters are uniquely funny and entertaining. This film has everything needed to become a cult classic.<br/><br/>4 out of 5 stars.",
+"asin": {
+      "re": ""
+    },
+"image": {
+  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/onslaught.jpeg",
+  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/onslaught.jpeg"
+}
+}
 */
