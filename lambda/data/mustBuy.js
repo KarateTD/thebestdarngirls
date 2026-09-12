@@ -247,8 +247,8 @@ module.exports = mustBuy;
       "re": ""
     },
     "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/practicalmagic2.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/practicalmagic2.jpeg"
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/practicalmagic2.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/practicalmagic2.jpg"
     }
   }
 */
