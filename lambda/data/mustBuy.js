@@ -1,6 +1,18 @@
 var mustBuy = [
   {
     "option": "1",
+    "mtitle": "Lucky Strike",
+    "review": "Lucky Strike was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": "B0HCXV1GFP"
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/luckystrike.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/luckystrike.jpeg"
+    }
+  },
+  {
+    "option": "2",
     "mtitle": "The Sheep Detectives",
     "review": "Shepherd George writes to Rachel about his flock. He's named them and notices they have distinct personalities. Lily is the smartest and most compassionate, Sebastian is the loner, and Cloud is a diva.  Every night, he picks up a murder mystery novel and reads to them.<br/><br/>George goes into Denbrook to visit the local church run by Reverend Hillcoate. Hillcoate asks George to join them, but he says no. Instead, he grabs the collection plate from butcher Ham Gilyard, adds a wad of cash, and leaves it at the altar. George has biting words for Ham before he exits the church. George returns home and meets with another shepherd, Caleb. Caleb tries to make a deal, but George kicks him out.<br/><br/>Reporter Elliot Matthews strolls into town to cover the Denbrook Cultural Festival. He's shocked to find 3 tents behind the inn for a $10 entry fee. Officer Tim Derry shows off each table with pride. After an uneventful day, Elliot leaves town but runs into a tree. He rents a room at the inn until the local mechanic repairs his car.<br/><br/>The sheep wake up to find George sprawled out in the field. Lily thinks he's sleeping, but Mopple tells her that he died.  Lily and the sheep believe someone murdered George. So, the sheep guide Tim to their findings. Tim finds two glasses, a revised will, and an upended chair. Tim labels George's death suspicious until he gets the toxicology report.<br/><br/>The sheep watch as George's lawyer, Lydia Harbottle, arrives and takes charge. She reads George's revised will and tells Tim to gather the aforementioned people at the inn. Lydia kicks Elliot out of the room as Rachel, Hilcoate, Gilyard, Caleb, and Tim join her. Rachel shocks everyone by introducing herself as George's long-lost daughter. Surprisingly, she has a twin who lives in South Africa. Georges's will states that there is a fool, a bad shepherd, a winter lamb, and two murderers in the room. He leaves everything to his children, but the money, $30 million, to Rachel. Now Rachel is his number one suspect. The sheep don't believe she did it. They will work to uncover who killed their shepherd.<br/><br/>Based on Three Bags Full by Leonie Swann, this film is charming, smart, and hilarious. First, the script is funny and follows the formula for a great murder mystery. There are plenty of suspects and motives. And George's will points a finger at everyone. The CGI sheep are well-animated. The script pulls you in with captivating characters, unique punchlines, and a compelling mystery. One character that will tug at your heartstrings is the winter lamb. Their stories and treatment will leave you misty-eyed. See this film with the family.<br/><br/>5 out of 5 stars.",
     "asin": {
@@ -12,7 +24,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "2",
+    "option": "3",
     "mtitle": "Star Wars: The Mandalorian and Grogu",
     "review": "A bounty hunter, Din Djarin, called the Mandalorian, completes his latest bounty with Grogu, but he returns to the New Republic empty-handed because he killed the bounty. Commander Ward of the New Republic sighs because they can't extract information about the Galactic Empire from a dead man. She pays Din and gives him his next assignment. Ward wants Din to capture Commander Coin. However, no one knows what he looks like. Ward believes the Hutt twins know where to find Coin. They will need an incentive to help the New Republic. Their nephew, Rotta, son of the deceased kingpin Jabba, is missing. If Din finds Rotta, he can return Rotta to the twins in exchange for Coin's location. Ward gives Din a Razor Crest Ship as pre-payment, and Din accepts the deal. Din believes this will be a smooth exchange, but greater forces are at work.<br/><br/>This continuation of the TV series is funny, exciting, and a little scary. The plot relies on CGI, but the animation feels nostalgic. The lighting work between the actors and the generated elements was beautifully meshed together to give the movie an authentic Star Wars look. The plot has several twists and turns to keep the audience on their toes, but there is too much foreshadowing. Grogu adds a new spark to the picture, which entices a younger audience to watch. Parents should know this is a space action film with zero innuendos or crude jokes. Also, there are zero scenes after the credits. This film is worth your time and money, but an IMAX screen is enough.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -24,7 +36,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "3",
+    "option": "4",
     "mtitle": "The Breadwinner",
     "review": "Nate, the top Toyota salesman, is a married father of three daughters. He is the breadwinner, and his wife, Katie, is a homemaker. They make it work because they have a work-life balance. He handles the work, and Katie handles life. After school, Nate and Katie visit Angela and her husband, Connor. Nate talks about Katie's Star Minder. Angela believes Katie's invention is marketable and convinces her to go on Shark Tank.<br/><br/>Katie presents her idea to the Sharks, and she's sold thousands of units from her living room. However, Kevin fears she can't juggle being a full-time mom and expanding her business. Katie informs them that she's married. The Sharks ask Nate to come out. They see his unkempt demeanor and scoff. Laurie offers Katie $100,000 for 20% of her company, but Nate has to stay home with the kids while they meet with South Korean manufacturers. He's ready to help her achieve her dreams. Katie accepts Laurie's offer.<br/><br/>Before Katie leaves, she shows Nate the command center. It's a board with color-coded notes for chores, schedules, and household needs. She quickly goes over Gracie, Hadley, and Sam's schedules before she hugs their girls goodbye. Nate assures the girls he has it all under control. However, Nate will learn how hard it is to be a mom.<br/><br/>Based on Nate Bargatze's comedy, this easy-going movie addresses the mental load of stay-at-home parents without disrespecting the parents who work outside the home. The script doesn't have an antagonist because Nate isn't a bad person, just clueless. The film features slapstick and clean comedy for the whole family. And the plot offers several curveballs. This film offers a comedic look into the mental load struggles. It doesn't try to fix it. Instead, it finds a balance for both parents to shine and be appreciated. This movie will make everyone laugh.<br/><br/>4 out of 5 stars.",
     "asin": {
@@ -36,7 +48,7 @@ var mustBuy = [
     }
   },
   {
-    "option": "4",
+    "option": "5",
     "mtitle": "Project Hail Mary",
     "review": "Project Hail Mary was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
     "asin": {
@@ -45,18 +57,6 @@ var mustBuy = [
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/projecthailmary.jpeg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/projecthailmary.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Tuner",
-    "review": "Tuner was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0H279BTR8"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tuner.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tuner.jpeg"
     }
   }
 ];
@@ -84,6 +84,19 @@ module.exports = mustBuy;
     }
   }
 
+  {
+    "option": "1",
+    "mtitle": "Forgotten Island",
+    "review": "Forgotten Island was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/forgottenisland.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/forgottenisland.jpg"
+    }
+  }
+
    {
     "option": "1",
     "mtitle": "Tony",
@@ -94,19 +107,6 @@ module.exports = mustBuy;
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tony.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tony.jpg"
-    }
-  }
-
-  {
-    "option": "1",
-    "mtitle": "Lucky Strike",
-    "review": "Lucky Strike was an Early Screening review for Premium Access members only.  The review and rating have been moved to the Library for U.S., Great Britain, and Canadian users only.  If you live in these locations and want access to the review and the rating say, 'I want to buy Premium Access.' If you have Premium Access, say 'Library.'",
-    "asin": {
-      "re": "B0HCXV1GFP"
-    },
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/luckystrike.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/luckystrike.jpeg"
     }
   }
     
