@@ -1,13 +1,13 @@
 var inTheTheaters = [
   {
-"option": "1",
-"mtitle": "The Weight",
-"review":"<br/><br/>4.5 out of 5 stars.",
-"image": {
-  "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theweight.jpg",
-  "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theweight.jpg"
-}
-},
+    "option": "1",
+    "mtitle": "The Weight",
+    "review": "After leaving church with his daughter, Penny, Murphy finds an eviction notice on his door. He finds a rental ad in the paper and takes his daughter to the neighborhood. He knocks on the door, but no one answers. So he goes to the alleyway to see if there is a side entrance. Three men see them and question Murphy. Two men accost him while the third attempts to talk to Penny. Fearing for Penny's safety, Murphy fights until one man pulls out a badge. The police arrest Murphy and put his daughter in a group home.<br/><br/>After months in jail, Murphy gets a job at a labor camp. For every two days they work, inmates get one day off their sentence. Warden Clancy notes Murphy's intelligence. Clancy calls Murphy to come to his home after Murphy engineered a way to remove a large boulder without dynamite. Clancy discovers that Murphy will lose Penny in a month. No matter how hard Murphy works, he will not be out in time. So, the state will put Penny up for adoption. Clancy offers to release Murphy early. He has a job for Murphy, and he wants Murphy in charge. It will take 4 men to complete it. Murphy chooses fellow inmates Singh, Rankin, and Olson.<br/><br/>They ride to the Black Hawk Gold Mine and meet Taggert. He runs security. However, someone robbed several mines in the area because Franklin D. Roosevelt will shut them down. And the government will declare them and their gold government property. Taggert wants to steal the gold before anyone else can. He wants them to load the gold and walk for four days through the woods. Taggert doesn't trust the inmates, so two of his crew, Amis and Letender, will join them. They gather the gold and start. Along the way, Murphy hears dogs barking and believes someone is following them. He finds Anna, a servant girl, hiding behind a tree. Letender wants to send her back to the camp, but she refuses. They agree to let her join. Will Murphy make it through the woods and see Penny again?<br/><br/>This historical drama uses on-location scenes and natural lighting to immerse the audience in the danger. The travelers fight the elements, looters, and each other throughout their journey. You feel like a fly in the woods through their travels. The opening scene is one lone dirt road with the animals noisily in the background. Then, Murphy's truck barrels down the road, and he plays with Penny. Viewers see the undying love he has with his little girl, and how much she adores her father. This pulls you into the story, and the plot moves forward from there. Then, you meet Murphy's future crew. Each has a grievance with the system and could use the money. This dynamic keeps you holding on to the plot. The conclusion is predictable for the journey but not the aftermath. This film is a historical Wizard of Oz with more violence, and it's worth the watch.<br/><br/>4.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theweight.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/theweight.jpg"
+    }
+  },
   {
     "option": "2",
     "mtitle": "The Uprising",
