@@ -1,47 +1,47 @@
 var madeForTV = [
   {
     "option": "1",
+    "mtitle": "Sins of an Amish Husband",
+    "review": "Eli Stutzman returns home and begs his father, Minister Stutzman, to allow him to rejoin the community. He promises to stop driving in cars, stop using drugs, stop communicating with the English, and marry a good Amish woman. Eli agrees, and Minister Stutzman reintroduces Eli to the community. Soon, Eli pulls Ida aside and asks if her family will provide housing. Ida's father will give them a parcel of land to build a home. Eli asks for her hand in marriage. Ida beams with pride, but her sister, Sarah, worries about Eli's troubles. Ida believes she can help Eli become a good man.<br/><br/>Years later, Eli and Ida have a son named Danny, and Ida is with child. However, Eli leaves at night, is ill-tempered, and scares Ida and Danny. Ida tells Sarah that Eli wants a will, and she will give him one as a good wife. Sarah keeps Ida's secrets until Eli and Ida's barn catches fire. Eli pulls Ida's body from the structure and tells everyone she went inside to save others. But Sarah doesn't believe him. She moves into Eli's home and cares for Danny, but Eli's behavior gets worse. Sarah runs to Minister Stutzman and begs him to let her keep Danny. He thinks Eli needs another wife. Eli overhears his father's plans. The thought of being burdened with the Amish constraints is his worst nightmare. He sneaks off with Danny in the middle of the night. Sarah begs to follow, but Minister Stutzman threatens to shun her. She fears for Danny's life. With Ida's spirit hunting him, how far can Eli run?<br/><br/>Based on the novel 'Abandoned Payers' by Gregg Olsen, this film is a suspense, thriller, and horror wrapped in one movie. The pacing grabs you in the first 5 minutes, and viewers can't take their eyes off the screen. It's disturbing that Eli's story of depravity, sex, and murder is real. The film barely scrapes the surface. The writers gave Ida a voice in death that her community denied her in life. It highlights religious abuse and an unbreakable sisterly bond. The plot, acting, costumes, and settings are perfect throughout.<br/><br/>5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/sinsofanamishhusband.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/sinsofanamishhusband.jpg"
+    }
+  },
+  {
+    "option": "2",
+    "mtitle": "'Tis the Season for Setups",
+    "review": "Lexi worries that her daughter, Piper, won't have a merry Christmas. This year, Lexi's ex-husband, Richard, can't take Piper snowboarding for the holidays. Lexi knows Piper sees her father as the fun parent. Lexi is a by-the-book party planner who keeps her laminator close by. Lexi shares her concern with her mother, June. June has been the life of the party and will stay with Lexi to help Piper have fun. Then, June gets a call from her college friend, Dan. He and his son, Ridge, own Sun Creek Lodge. They are planning the lodge's anniversary party but can't find a planner with connections large enough for their guest list. June proposes that Lexi handle it. This spur-of-the-moment trip is perfect for Piper.<br/><br/>Fun-loving Ridge works with customers but doesn't have Dan's personal touch. Dan hopes to retire but micromanages Ridge's decisions. Ridge sees Lexi in the lobby and assumes she's his student named Melissa. After a brief hello, Ridge knows she isn't the adventurous type. His correct assumption surprises Lexi. Soon, Melissa arrives and exits with Ridge while Lexi checks in and meets with Dan. As Lexi tours the hall, Dan locates Ridge. Dan reminds Ridge that the party planner is coming. Ridge rushes to Lexi's cabin to plow the driveway. However, he's too late. Surprised, Lexi's has lists ready for Ridge while he wants to have a good time. Dan and June watch them bicker and get an idea. They believe Lexi and Ridge complement each other and want to set them up. As Dan and June whisper in the corner, Ridge and Lexi sense a spark between them. They want to set their parents up. Piper secretly agrees to help everyone. Will this season of setups work, or end in catastrophe?<br/><br/>The film has a slew of holiday spirit with trees, lights, and winter activities. While the script could cover any season, the Christmas theme adds more magic and zest. However, the writers don't lean on the holiday for the plot. Instead, viewers get a steady dose of comedy as both couples scheme. The actors' chemistry is magnetic and charming, and viewers will delight in their growth. Also, Piper is the perfect third wheel for both setups. She has a maturity beyond her years and naturally balances the couples. This film is a delightful start to the 2026 Countdown to Christmas.<br/><br/>4 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tistheseasonforsetups.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tistheseasonforsetups.jpeg"
+    }
+  },
+  {
+    "option": "3",
+    "mtitle": "Her Only Way Out",
+    "review": "Kelly and Dani joke around in their bakery as they watch Kelly's boyfriend, Derrick, accidently collide with a customer, causing her cake to fall. Dani directs the customer inside while Kelly talks to Derrick. But Mason interrupts them, insulting and accusing Derrick. Three years ago, Derrick was engaged to Mason's sister, Melissa, and she fell to her death. Mason blames Derrick. Kelly grabs one of Mason's flyers and asks Derrick if he will go to Melissa's memorial vigil. Derrick says no and tells her to stay away. However, curiosity gets the best of her, and she goes. Shocked, Derrick shows up and makes a speech. Instead of speaking about Melissa, Derrick reminds everyone that his family holds prominent positions in the town. Mason lunges, and they fight before Derrick's brother, Nick, pulls them apart.<br/><br/>Later, Derrick takes Kelly on a drive. She's fearful but maintains her composure. He delivers a veiled threat while he proposes. Kelly asks for more time, and Derrick is furious. He leaves her there to walk home. Derrick apologizes in the morning, and Kelly forgives him. On their drive home, he asks for an answer, but Kelly isn't ready. Derrick intentionally crashes the car, and Kelly wakes up in his family's home. The judge gives her a story to tell and forces her to sign an NDA. Once Kelly signs, they allow an irate Dani into their home. Kelly tells Dani that she and Derrick are engaged, and Dani is overjoyed.<br/><br/>Kelly returns to the bakery, and Dani is thrilled because Kelly is the baker. Dani has gotten help from online forums, but nothing she makes compares. Kelly has sad news. She is going on a camping trip with Derrick and quitting the bakery. She hugs her sister and leaves. Days later, Derrick reports Kelly missing. The police found her bloody clothes in the woods but not her body. Dani begs Derrick's family to use their resources to locate Kelly. Derrick agrees and keeps a close eye on Dani.<br/><br/>Kelly arrives at Frannie's Diner and introduces herself as Rose. She never told anyone Derrick was abusive. With his family's control, her only way out was to fake her death. She plans to stay dead and restart her life. However, something will force her out of the shadows and into Derrick's crosshairs. Can she survive?<br/><br/>This thriller doesn't hide Kelly until the end. However, it shows viewers how she escaped after Derrick reports her missing. The thrill comes when Dani falls into Derrick's web because Kelly never told Dani about the abuse. And his enabling family will make your flesh crawl. The actors perfectly portrayed entitlement, power, and deception. They are the in-laws from hell. The final fight hides one more of Derrick's secrets, so viewers should listen closely. This film keeps a steady pace and builds consistent tension with a high body count. However, the plot isn't new.<br/><br/>3.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/heronlywayout.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/heronlywayout.jpg"
+    }
+  },
+  {
+    "option": "4",
+    "mtitle": "The Spirit of Halloween",
+    "review": "Wedding dress designer Everly hates Halloween, but her town can't get enough of it. She tells her assistant, Tracy, that she will be glad when Halloween passes tomorrow. Tracy pleads with Everly to create costumes, but Everly will only make them for family and close friends, like the handsome fireman, Beau. She and Beau are childhood friends, but Tracy senses there is more between them. Beau checks on his Jack Skellington costume before going to work. After Beau leaves, Tracy asks Everly to hire more staff. Everly says no. After her mentor, Anna, hired help, they stole Anna's clients. It ruined Anna's business. Everly refuses to make the same mistake.<br/><br/>Everly relaxes at home, but her parents call, worried. They fear her work stress will cause her to sleepwalk again. Everly assures them she can handle it before going to sleep. Later, she hears a sound and follows it. Surprised, she sees Anna standing in her sewing room. Anna warns Everly that her life is going down a dark path. Everly will repeat her mistakes if she doesn't find her Halloween Spirit by the morning. Three ghosts will visit Everly, showing her the past, present, and future. She must learn a lesson and make a change. Everly checks if she's sleepwalking, but she's wide awake. Will Everly regain her Halloween spirit, or be doomed?<br/><br/>This twist on Charles Dickens' classic tale takes back the spirits for Halloween. The plot adds new layers to keep viewers watching and laughing. Everly's lesson and ghosts are different from Ebenezer's. This tale gives meaning to Halloween. It's more than tricks and treats; it's community. The setting exudes autumn with costumes, pumpkin spice, and cozy sweaters. The chemistry between the leads is compelling and believable, but Everly's friendship with Tracy shines too. The ghosts' personalities are unique from the original while following the story. The plot is a welcome and entertaining surprise. This film is the perfect end to the 2026 Fall Into Love programming. It will be a Halloween staple.<br/><br/>4.5 out of 5 stars.",
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/thespiritofhalloween.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/thespiritofhalloween.jpg"
+    }
+  },
+  {
+    "option": "5",
     "mtitle": "A Doctor To Die For: The Sarah Harris Story",
     "review": "Sarah Harris arrives at Dr. James' office with her mother, Tina, for a dental procedure. He talks to Sarah about her future to put her at ease. Sarah mentions looking for work, and he offers her a position at his dental practice. Tina believes it's a great opportunity for Sarah. So Sarah takes the job.<br/><br/>After working with Sarah for a few months, James gives Sarah special attention and gifts. They date, travel, and work. Tina and her daughter, Rachel, believe Sarah is happy. Until they visit one afternoon, they find Sarah unconscious with vials of drugs, bloody gauze, and I.V. poles. James says he's treating her for depression, but it's far worse. He keeps her in a drugged state to control her. Can they save Sarah before James kills her?<br/><br/>Based on actual events, this film is hard to handle. Sarah transforms from a vibrant woman into a zombie. The writers have James creep into her life as a mentor gingerly. Then, he grooms her with affection, gifts, and simple vitamins. Meanwhile, he charms Sarah's family during dark times. Your heart will break each time Tina's family suffers another tragedy. The editors brought Sarah's pain to life by publishing some of her text while you watch her break down. Sadly, it didn't take long. This film is a tough watch but worth your time.<br/><br/>4 out of 5 stars.",
     "image": {
       "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/adoctortodieforsarahharris.jpg",
       "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/adoctortodieforsarahharris.jpg"
-    }
-  },
-  {
-    "option": "2",
-    "mtitle": "To Catch a Stepfather",
-    "review": "It's been six months since Roger drove his girlfriend, Allison, to the hospital after her son, Eric, was in an accident. She fell in love with him that night. Today, Allison and Roger are happily engaged and looking to the future. However, Eric expresses his frustration to his girlfriend, Mia. Eric doesn't want to get close to Roger because he misses his father. Allison pleads with Eric to give Roger a chance. Their hiking trip will be a great start.<br/><br/>As they hike up the hill, Allison stands behind to set up, giving the men time alone. Roger and Eric climb further up and talk. Then, Eric slips. Roger grabs him but doesn't pull Eric away from the edge. Eric sees a slight gleam in Roger's eyes that disturbs him. Roger yanks Eric back and tells him to keep it a secret between them. Eric agrees and leaves. As Roger grabs a drink of water, Jackson approaches Roger and calls him Carter. Roger pretends not to know him, but Jackson scoffs. He invites Roger to drinks later.<br/><br/>Eric waits for Roger to leave and tells Allison about the incident on the cliff. Allison thinks Eric misunderstood Roger's intentions. Eric believes Roger is dangerous and that Allison is rushing into the relationship. And her best friend, Lori, feels the same way. Allison believes Roger is amazing, but Eric will do anything to prove otherwise. Can he save her before Roger kills them like he eliminated Jackson?<br/><br/>This suspense film will have you rooting for the bratty teen and the nosy friend. While Lori speaks on her suspicions, Eric acts on them. His pursuit of the truth drives the story forward. The killer's motive is the biggest plot twist. All the clues were there, but the investigation misdirects you. The acting was average, and the script was typical, but the twist saves the movie.<br/><br/>3 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/tocatchastepfather.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/tocatchastepfather.jpg"
-    }
-  },
-  {
-    "option": "3",
-    "mtitle": "No One Leaves",
-    "review": "Puzzle author Meredith flashes back as she proofreads a co-worker's puzzle. It contains a person trapped in a car trunk. Charles kidnapped Meredith when she was a teenager and forced her into a crime spree. Her husband, Duke, assures Meredith that she is strong, capable, and wonderful. They laugh as the lights cut off. The neighborhood's power is out. Then, Meredith remembers they planned a game night with their friend, Art. They can't call because the phones aren't working, but Duke recalls that Art has a generator. So, they can sit without internet or spend the evening with their friend. They choose Art.<br/><br/>Meredith and Duke arrive at Art's home, and an unexpected guest greets them. It's Art's niece, Saddie. He invites them in, and Meredith notices the bandage on Saddie's hand. Saddie stands close to Meredith and whispers that Art kidnapped her and isn't her uncle. Meredith privately confronts Art. He warns her that Saddie is a disturbed young woman who makes up stories. To ease Meredith's mind, he gives her a knife for protection and warns Saddie to stop. But something doesn't sit right with Meredith. Someone is lying, and no one will leave until she uncovers the truth.<br/><br/>The writers made this film a test of lateral thinking, as the film states. Meredith character development is unique for a Lifetime movie. Her backstory includes captivity, manipulation, rumors, and murder. While it gives her compassion for Sadie, her relationship with Art may cloud her judgment. This twisted storyline will engross Lifetimers while leaving them confused. You will need to watch this film twice to unpack the clues you miss. Viewers should save it to their DVR and give this slow burn two chances.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/nooneleaves.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/nooneleaves.jpg"
-    }
-  },
-  {
-    "option": "4",
-    "mtitle": "Pumpkin Regatta Romance",
-    "review": "Nadine and her friend, Allie, speak loudly around Nadine's father, George, to coax him into restarting the Pumpkin Regatta. George ignores them and retreats into his store. George pries it open with a screwdriver, and Nadine begs him to modernize it. He says no. The town depends on the store remaining the same. She hints that restarting the Regatta will keep traditions. But George scoffs. He won't consider it until Andrew admits he cheated.<br/><br/>Ethan takes his mother, Frankie, to the secret pumpkin patch. He grows it, hoping his father, Andrew, will restart the Regatta. Andrew catches them but won't budge until George admits the bump was an accident. Frankie and Ethan sulk as Andrew leaves. Ethan says his giant pumpkins were made for the Regatta, but he will find them wonderful homes around town.<br/><br/>Nadine and Allie meet for their book club with Tracey and Barbara. When Tracey's son, Sam, exits, she sighs. Sam is doing wonderful in school, but she can't afford to send him. Nadine gets an idea to restart the Regatta and collect donations. They will use it to fund a scholarship and offer the funds to Sam. They offer to help Nadine but warn her that George will say no and she still needs huge pumpkins. Nadine will talk to George later, but she's willing to meet with Ethan now.<br/><br/>Nadine finds Ethan on his land and asks him if he has pumpkins large enough to become boats. He laughs and takes her to his secret patch. She starts her spiel but is taken aback when he says yes instantly. He's tired of the feud. However, he know their fathers won't be so easy to convince. So, they will tell the town to keep their secret while reinstating the Pumpkin Regatta. The townspeople agree, but they can't help but notice something brewing between the pair. Will restarting the Pumpkin Regatta build a romance?<br/><br/>This Romeo and Juliet tale embraces the autumn spirit. The set department had the fall colors on full display with apple cider and cake pops. This season isn't a generic plot. With the enormous pumpkins, the season is quintessential to the character development. This film has surprising comedic elements and an entertaining cast. The twist doesn't involve the love story. It centers around the Pumpkin Regatta and the families. The writers added a 2nd love interest for Nadine, but he was never a serious contender. The leads' love story is authentic, cozy, and charming. This film is a wonderful addition to the 2026 Fall into Love programming.<br/><br/>4 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/pumpkinregattaromance.jpeg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/pumpkinregattaromance.jpeg"
-    }
-  },
-  {
-    "option": "5",
-    "mtitle": "Sole Survivor of Flight 119",
-    "review": "Lisa's mom, Wendy, bought her a vacation to Mexico. Wendy's been going through a contentious divorce, raising their daughter, Ella, alone, and working full-time. Wendy assures Lisa she will watch Ella and commands Lisa to relax. Lisa smiles until her phone rings. As she picks it up, she bumps into another woman. She apologizes and answers the call. It's her soon-to-be ex-husband, Rick. She attempts to calm him but makes an excuse to end the call. Lisa boards Flight 119 and sits next to Kay-la. During the flight, they experience turbulence. They quickly descend, the lights flash, and everyone screams. Lisa texts her mother, holds Kay-la's hand, and braces herself. When Lisa opens her eyes, she is buckled into her seat and hanging from a tree. She unlatches her seatbelt and falls, dislocating her arm. She slams her arm into a tree and calls for help, but no one is there.<br/><br/>Pacifica Airlines Executive Rebecca approaches the information desk because the storm grounded her flight. She needs to make it to a meeting. Rebecca requests to be on the next flight, but the staff member says Flight 119 is full. Rebecca uses her VP status and gets added to the top of the waitlist. She thanks the staffer and exits, bumping into a woman. She flies, lands, and gets her hotel room. Later that night, Rebecca gets a call from Pacifica Representative Jennifer. She verifies Rebecca's identity and tells Rebecca to report for search and rescue.<br/><br/>Rebecca can't forget the woman she bumped into days earlier. And she remembers she was supposed to be on that flight. She wants to talk to Wendy again but doesn't know how. James advises Rebecca, and she tries again. Rebecca offers a more compassionate approach, and Wendy responds in kind. Wendy shows Rebecca Lisa's last message, and it gives Rebecca hope. Since it was sent from the plane, they can use it to pinpoint where the flight went down. Rebecca won't give up, and neither will Lisa. For both, surviving will be their second chance. Can they find each other in time?<br/><br/>Based on the novel Exit Row by Tammy L. King, this film focuses more on Rebecca than Lisa. Lisa's time on screen was inspiring. She honored others, remained calm, and expressed love for her mother and daughter. She even kept a sense of humor. Despite her circumstances, she never wallowed in despair. Her response explained why Lisa needed more airtime.<br/><br/>3.5 out of 5 stars.",
-    "image": {
-      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/solesurvivorofflight119.jpg",
-      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/solesurvivorofflight119.jpg"
     }
   }
 ];
@@ -57,7 +57,46 @@ module.exports = madeForTV;
 
 /*
 
-
+{
+"option": "1",
+"mtitle":"Secrets of Mercy Hospital",
+"review":"<br/><br/>* out of 5 stars.",
+"image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/secretsofmercyhospital.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/secretsofmercyhospital.jpg"
+}},
+{
+"option": "2",
+"mtitle":"Winter Wonderlanes",
+"review":"<br/><br/>* out of 5 stars.",
+"image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/winterwonderlanes.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/winterwonderlanes.jpeg"
+}},
+{
+"option": "3",
+"mtitle":"Seduced by an Amish Stranger",
+"review":"<br/><br/>* out of 5 stars.",
+"image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/seducedbyanamishstranger.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/seducedbyanamishstranger.jpg"
+}},
+{
+"option": "4",
+"mtitle":"Mr. and Mrs. Christmas",
+"review":"<br/><br/>* out of 5 stars.",
+"image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/mrandmrschristmas.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/mrandmrschristmas.jpeg"
+}},
+{
+"option": "5",
+"mtitle":"Holiday Touchdown: A Bears Love Story",
+"review":"<br/><br/>* out of 5 stars.",
+"image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/holidaytouchdownabearslovestory.jpeg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/holidaytouchdownabearslovestory.jpeg"
+}}
 
 
 
