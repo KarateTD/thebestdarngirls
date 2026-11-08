@@ -261,4 +261,17 @@ module.exports = mustBuy;
 "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/wicker.jpg",
 "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/wicker.jpg"
 }}
+
+{
+    "option": "5",
+    "mtitle": "Whalefall",
+    "review": "Jay accompanies his mother, Zara, to the cemetery but refuses to see his father's grave. Jay doesn't want to visit an empty grave after his father, diver Mitt, ended his life after the doctors diagnosed him with mesothelioma. Mitt wrote 3 letters, added weights to his body, and jumped off his boat.<br/><br/>Jay sneaks out in the morning after leaving a note for Zara. He wants to find his father's remains. Jay straps on an ocean tank, adds batteries to his pocket for weight, and checks his gear. Jay sits at the edge of a sea canyon and sees a skull-like figure in the distance. He swims down to it, but it's a rock. Jay hears something before a giant squid swims out of the canyon. He flees when he sees the sperm whale chasing it. The whale captures the squid and swims toward Jay. Jay tries to get out of the way, but the squid's tentacles grab him. Jay opens his eyes and realizes he is inside the whale's stomach. He takes off his mask but can't breathe. Jay's O2 meter displays that he has 45 minutes of air. Can Jay free himself?<br/><br/>Based on Whalefall by Daniel Kraus, this thriller balances its pacing between Jay's survival and his flashbacks. These moments help the audience overcome claustrophobia. The set designer created a practical whale, and having Jay surrounded by whale stomachs amplifies your fear. The script had Jay move through several organs and face real danger in each. The sound engineer ensured the audience could understand Jay even with a breathing apparatus in his mouth. You will groan for each of Jay's setbacks, flinch at his injuries, and hold your breath at each attempt. This film is a wonderful survival story if you can stomach it.<br/><br/>4 out of 5 stars.",
+    "asin": {
+      "re": ""
+    },
+    "image": {
+      "smallImageUrl": "https://thebestdarngirls.s3.amazonaws.com/small-image/whalefall.jpg",
+      "largeImageUrl": "https://thebestdarngirls.s3.amazonaws.com/large-image/whalefall.jpg"
+    }
+  }
 */
